@@ -1,48 +1,35 @@
-$directories = @("aam", "aaw", "acg", "agd", "agr", "agw", "avi", "ew", "lan", "ops", "rdr", "tac")
-
 # Read the Table.txt content
 $tableContent = Get-Content -Path "Table.txt" -Raw
 
-foreach ($dir in $directories) {
-    $indexPath = "docs\$dir\index.md"
-    $title = switch ($dir) {
-        "aam" { "AAM - Aerial Attack Maneuvering" }
-        "aaw" { "AAW - Air-to-Air Weapons" }
-        "acg" { "ACG - Aircraft General" }
-        "agd" { "AGD - Air-to-Ground Delivery" }
-        "agr" { "AGR - Air-to-Ground Radar" }
-        "agw" { "AGW - Air-to-Ground Weapons" }
-        "avi" { "AVI - Avionics" }
-        "ew" { "EW - Electronic Warfare" }
-        "lan" { "LAN - LANTIRN" }
-        "ops" { "OPS - Operations" }
-        "rdr" { "RDR - Radar" }
-        "tac" { "TAC - Tactics" }
-    }
+# Extract sections and their content
+$sections = [regex]::Matches($tableContent, '(?ms)^## (.+?)\r?\n(.*?)(?=\r?\n\r?\n##|\z)')
+
+foreach ($section in $sections) {
+    $fullTitle = $section.Groups[1].Value.Trim()
+    $abbreviation = $fullTitle.Substring(0, 3).ToLower()
+    $sectionContent = $section.Groups[2].Value.Trim()
+
+    $indexPath = "docs\$abbreviation\index.md"
     
     # Create title.txt file
-    $titleFilePath = Join-Path "docs" $dir "title.txt"
-    Set-Content -Path $titleFilePath -Value $title
-    
-    $content = @"
-# $title
+    $titleFilePath = "docs\$abbreviation\title.txt"
+    Set-Content -Path $titleFilePath -Value $fullTitle
 
-Welcome to the $title section. Here you'll find detailed information on various subtopics.
+    $content = @"
+# $fullTitle
+
+Welcome to the $fullTitle section. Here you'll find detailed information on various subtopics.
+
+## Subtopics
 
 "@
-    
-    # Extract the relevant section from Table.txt
-    $sectionRegex = "(?ms)^## $title\r?\n(.*?)(?=\r?\n\r?\n##|\z)"
-    if ($tableContent -match $sectionRegex) {
-        $sectionContent = $matches[1].Trim()
-        $content += "## Subtopics`n`n"
-        $sectionLines = $sectionContent -split "`n"
-        foreach ($line in $sectionLines) {
-            if ($line -match "^- (.+)") {
-                $subTitle = $matches[1]
-                $fileName = $subTitle -replace '^(\w+)-(\d+)\s+(.+)$', '$1-$2'
-                $content += "- [$subTitle]($fileName.md)`n"
-            }
+
+    $sectionLines = $sectionContent -split "`r?`n"
+    foreach ($line in $sectionLines) {
+        if ($line -match '^- (.+)') {
+            $subTitle = $matches[1]
+            $fileName = $subTitle -replace '^(\w+)-(\d+)\s+(.+)$', '$1-$2'
+            $content += "- [$subTitle]($fileName.md)`n"
         }
     }
 

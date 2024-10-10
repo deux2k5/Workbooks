@@ -35,8 +35,7 @@ Welcome to the $title section. Here you'll find detailed information on various 
 <div class="grid-item">
     <a href="$($file.Name)" class="card-link">
         <div class="card">
-            <h3>$subTitle</h3>
-            <p>Click to explore $subTitle in detail.</p>
+            <h3><span class="category-prefix">$($dir.ToUpper())-</span>$subTitle</h3>
         </div>
     </a>
 </div>
@@ -50,7 +49,7 @@ Welcome to the $title section. Here you'll find detailed information on various 
 <style>
 .grid-container {
     display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
     gap: 20px;
     padding: 20px;
 }
@@ -81,8 +80,7 @@ Welcome to the $title section. Here you'll find detailed information on various 
     background-color: var(--card-bg-color);
 }
 
-.card h3,
-.card p {
+.card h3 {
     color: var(--card-text-color);
 }
 
@@ -92,17 +90,22 @@ Welcome to the $title section. Here you'll find detailed information on various 
 }
 
 .card {
-    padding: 20px;
+    padding: 15px;
     height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 
 .card h3 {
-    margin-top: 0;
-    color: #333;
+    margin: 0;
+    text-align: center;
+    font-size: 1.1em;
 }
 
-.card p {
-    color: #666;
+.category-prefix {
+    color: #e24b24;
+    font-weight: bold;
 }
 </style>
 "@

@@ -28,15 +28,114 @@ extra_css:
 
 nav:
   - Home: index.md
-  - AAM - Aerial Attack Maneuvering: aam/index.md
-  - AAW - Air-to-Air Weapons: aaw/index.md
-  - ACG - Aircraft General: acg/index.md
-  - AGD - Air-to-Ground Delivery: agd/index.md
-  - AGR - Air-to-Ground Radar: agr/index.md
-  - AGW - Air-to-Ground Weapons: agw/index.md
-  - AVI - Avionics: avi/index.md
-  - EW - Electronic Warfare: ew/index.md
-  - LAN - LANTIRN: lan/index.md
-  - OPS - Operations: ops/index.md
-  - RDR - Radar: rdr/index.md
-  - TAC - Tactics: tac/index.md
+  - AAM - Aerial Attack Maneuvering:
+    - aam/index.md
+    - AAM-1: aam/aam-1.md
+    - AAM-2: aam/aam-2.md
+    - AAM-3: aam/aam-3.md
+    - AAM-4: aam/aam-4.md
+    - AAM-5: aam/aam-5.md
+    - AAM-6: aam/aam-6.md
+    - AAM-7: aam/aam-7.md
+    - AAM-8: aam/aam-8.md
+    - AAM-9: aam/aam-9.md
+    - AAM-10: aam/aam-10.md
+  - AAW - Air-to-Air Weapons:
+    - aaw/index.md
+    - AAW-1: aaw/aaw-1.md
+    - AAW-2: aaw/aaw-2.md
+    - AAW-3: aaw/aaw-3.md
+    - AAW-4: aaw/aaw-4.md
+    - AAW-5: aaw/aaw-5.md
+    - AAW-6: aaw/aaw-6.md
+    - AAW-7: aaw/aaw-7.md
+    - AAW-8: aaw/aaw-8.md
+    - AAW-9: aaw/aaw-9.md
+  - ACG - Aircraft General:
+    - acg/index.md
+    - ACG-1: acg/acg-1.md
+    - ACG-2: acg/acg-2.md
+    - ACG-3: acg/acg-3.md
+    - ACG-4: acg/acg-4.md
+    - ACG-5: acg/acg-5.md
+    - ACG-6: acg/acg-6.md
+    - ACG-7: acg/acg-7.md
+    - ACG-8: acg/acg-8.md
+    - ACG-9: acg/acg-9.md
+  - AGD - Air-to-Ground Delivery:
+    - agd/index.md
+    - AGD-1: agd/agd-1.md
+    - AGD-2: agd/agd-2.md
+    - AGD-3: agd/agd-3.md
+    - AGD-4: agd/agd-4.md
+    - AGD-5: agd/agd-5.md
+    - AGD-6: agd/agd-6.md
+    - AGD-7: agd/agd-7.md
+    - AGD-8: agd/agd-8.md
+    - AGD-9: agd/agd-9.md
+  - AGR - Air-to-Ground Radar:
+    - agr/index.md
+    - AGR-1: agr/agr-1.md
+    - AGR-2: agr/agr-2.md
+    - AGR-3: agr/agr-3.md
+    - AGR-4: agr/agr-4.md
+    - AGR-5: agr/agr-5.md
+  - AGW - Air-to-Ground Weapons:
+    - agw/index.md
+    - AGW-1: agw/agw-1.md
+    - AGW-2: agw/agw-2.md
+    - AGW-3: agw/agw-3.md
+    - AGW-4: agw/agw-4.md
+    - AGW-5: agw/agw-5.md
+    - AGW-6: agw/agw-6.md
+    - AGW-7: agw/agw-7.md
+    - AGW-8: agw/agw-8.md
+  - AVI - Avionics:
+    - avi/index.md
+    - AVI-1: avi/avi-1.md
+    - AVI-2: avi/avi-2.md
+    - AVI-3: avi/avi-3.md
+    - AVI-4: avi/avi-4.md
+    - AVI-5: avi/avi-5.md
+    - AVI-6: avi/avi-6.md
+    - AVI-7: avi/avi-7.md
+    - AVI-8: avi/avi-8.md
+    - AVI-9: avi/avi-9.md
+    - AVI-10: avi/avi-10.md
+    - AVI-11: avi/avi-11.md
+    - AVI-12: avi/avi-12.md
+  - EW - Electronic Warfare:
+    - ew/index.md
+    - EW-1: ew/ew-1.md
+    - EW-2: ew/ew-2.md
+    - EW-3: ew/ew-3.md
+    - EW-4: ew/ew-4.md
+  - LAN - LANTIRN:
+    - lan/index.md
+    - LAN-1: lan/lan-1.md
+    - LAN-2: lan/lan-2.md
+    - LAN-3: lan/lan-3.md
+    - LAN-4: lan/lan-4.md
+    - LAN-5: lan/lan-5.md
+    - LAN-6: lan/lan-6.md
+    - LAN-7: lan/lan-7.md
+  - OPS - Operations:
+    - ops/index.md
+    - OPS-1: ops/ops-1.md
+    - OPS-2: ops/ops-2.md
+    - OPS-3: ops/ops-3.md
+    - OPS-4: ops/ops-4.md
+  - RDR - Radar:
+    - rdr/index.md
+    - RDR-1: rdr/rdr-1.md
+    - RDR-2: rdr/rdr-2.md
+    - RDR-3: rdr/rdr-3.md
+    - RDR-4: rdr/rdr-4.md
+    - RDR-5: rdr/rdr-5.md
+  - TAC - Tactics:
+    - tac/index.md
+    - TAC-1: tac/tac-1.md
+    - TAC-2: tac/tac-2.md
+    - TAC-3: tac/tac-3.md
+    - TAC-4: tac/tac-4.md
+    - TAC-5: tac/tac-5.md

@@ -36,12 +36,12 @@ Welcome to the $title section. Here you'll find detailed information on various 
 
     $content += "## Contents`n`n"
 
-    $files = Get-ChildItem -Path "docs\$dir" -Filter "$dir-*.md" | Sort-Object Name
-    foreach ($file in $files) {
-        $fileContent = Get-Content $file.FullName -Raw
-        if ($fileContent -match '# (.+)') {
+    $sectionLines = $sectionContent -split "`n"
+    foreach ($line in $sectionLines) {
+        if ($line -match "^- (.+)") {
             $subTitle = $matches[1]
-            $content += "- [$subTitle]($($file.BaseName).md)`n"
+            $fileName = $subTitle -replace '^(\w+)-(\d+)\s+(.+)$', '$1-$2'
+            $content += "[$subTitle]($fileName.md)`n"
         }
     }
 

@@ -33,7 +33,7 @@ Welcome to the $title section. Here you'll find detailed information on various 
             $content += @"
 
 <div class="grid-item">
-    <a href="$($file.Name)" class="card-link">
+    <a href="$($file.BaseName)/" class="card-link">
         <div class="card">
             <h3><span class="category-prefix">$($dir.ToUpper())-</span>$subTitle</h3>
         </div>

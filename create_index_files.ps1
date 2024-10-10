@@ -31,21 +31,18 @@ Welcome to the $title section. Here you'll find detailed information on various 
     $sectionRegex = "(?ms)^## $title\r?\n(.*?)(?=\r?\n\r?\n##|\z)"
     if ($tableContent -match $sectionRegex) {
         $sectionContent = $matches[1].Trim()
-        $content += $sectionContent + "`n`n"
-    }
-
-    $content += "## Contents`n`n"
-
-    $sectionLines = $sectionContent -split "`n"
-    foreach ($line in $sectionLines) {
-        if ($line -match "^- (.+)") {
-            $subTitle = $matches[1]
-            $fileName = $subTitle -replace '^(\w+)-(\d+)\s+(.+)$', '$1-$2'
-            $content += "[$subTitle]($fileName.md)`n"
+        $content += "## Subtopics`n`n"
+        $sectionLines = $sectionContent -split "`n"
+        foreach ($line in $sectionLines) {
+            if ($line -match "^- (.+)") {
+                $subTitle = $matches[1]
+                $fileName = $subTitle -replace '^(\w+)-(\d+)\s+(.+)$', '$1-$2'
+                $content += "- [$subTitle]($fileName.md)`n"
+            }
         }
     }
 
     Set-Content -Path $indexPath -Value $content
 }
 
-Write-Host "Simple list-based index files have been created for all sections, including subcategory names from Table.txt."
+Write-Host "Index files have been created for all sections with subtopics linked to their respective pages."

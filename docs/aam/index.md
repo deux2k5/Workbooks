@@ -14,5 +14,3 @@ Welcome to the AAM - Aerial Attack Maneuvering section. Here you'll find detaile
 - [AAM-8 High Aspect BFM](aam-8.md)
 - [AAM-9 Air Combat Maneuvering (ACM)](aam-9.md)
 - [AAM-10 Low Altitude Air-to-Air Employment](aam-10.md)
-
-Each subtopic provides in-depth information about specific aspects of aerial attack maneuvering. Click on the links above to explore each topic in detail.

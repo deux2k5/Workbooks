@@ -1,10 +1,5 @@
 # Welcome to F-15E Academic Workbooks 🛩️
 
-<div class="hero">
-  <h2>Your Gateway to F-15E Excellence</h2>
-  <p>Explore comprehensive guides and resources for mastering the F-15E Strike Eagle.</p>
-</div>
-
 ## Key Features 🌟
 
 - **In-depth Knowledge**: Detailed workbooks covering all aspects of F-15E operations

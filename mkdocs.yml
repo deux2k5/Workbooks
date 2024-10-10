@@ -16,9 +16,9 @@ theme:
   features:
     - navigation.instant
     - navigation.tracking
-    - navigation.tabs
-    - navigation.tabs.sticky
     - navigation.sections
+    - navigation.expand
+    - toc.follow
     - toc.integrate
   custom_dir: overrides
 
@@ -86,6 +86,50 @@ nav:
     - AGW-7 - Maverick Employment: agw/agw-7.md
     - AGW-8 - HARM Employment: agw/agw-8.md
     - AGW-9 - Advanced A/G Weapons: agw/agw-9.md
+  - AVI - Avionics:
+    - AVI-1 - Avionics Introduction: avi/avi-1.md
+    - AVI-2 - MPD-MPCD: avi/avi-2.md
+    - AVI-3 - Upfront Control: avi/avi-3.md
+    - AVI-4 - ADI, HSI & HUD: avi/avi-4.md
+    - AVI-5 - OWS, VTRS & MC-DTM: avi/avi-5.md
+    - AVI-6 - Have Quick and KY-58: avi/avi-6.md
+    - AVI-7 - TACAN: avi/avi-7.md
+    - AVI-8 - INS: avi/avi-8.md
+    - AVI-9 - Digital Map System-Tactical Situation Display: avi/avi-9.md
+    - AVI-10 - Radar Altimeter & Autopilot: avi/avi-10.md
+    - AVI-11 - Built-In Test (BIT): avi/avi-11.md
+    - AVI-12 - Degraded Avionics Operations: avi/avi-12.md
+  - EW - Electronic Warfare:
+    - EW-1 - Generic Electronic Attack: ew/ew-1.md
+    - EW-2 - ALQ-131 ECM Pod: ew/ew-2.md
+    - EW-3 - ALR-56C RWR: ew/ew-3.md
+    - EW-4 - ALE-45 CMDS: ew/ew-4.md
+    - EW-5 - Advanced EW Tactics: ew/ew-5.md
+  - LAN - LANTIRN:
+    - LAN-1 - IR Introduction: lan/lan-1.md
+    - LAN-2 - NAV FLIR: lan/lan-2.md
+    - LAN-3 - Targeting IR: lan/lan-3.md
+    - LAN-4 - TFR Introduction: lan/lan-4.md
+    - LAN-5 - TFR Controls and Displays: lan/lan-5.md
+    - LAN-6 - TFR Capabilities: lan/lan-6.md
+    - LAN-7 - TFR Operations: lan/lan-7.md
+  - OPS - Operations:
+    - OPS-1 - Task Management & Crew Coordination: ops/ops-1.md
+    - OPS-2 - AHC: ops/ops-2.md
+    - OPS-3 - Performance Data: ops/ops-3.md
+    - OPS-4 - Formation Procedures: ops/ops-4.md
+  - RDR - Radar:
+    - RDR-1 - Radar Introduction: rdr/rdr-1.md
+    - RDR-2 - APG-70 Introduction: rdr/rdr-2.md
+    - RDR-3 - Air-to-Air Modes Switchology & Displays: rdr/rdr-3.md
+    - RDR-4 - AAI EID Employment: rdr/rdr-4.md
+    - RDR-5 - Air-to-Air Radar Employment: rdr/rdr-5.md
+  - TAC - Tactics:
+    - TAC-1 - Tactical Intercepts: tac/tac-1.md
+    - TAC-2 - Element Attacks: tac/tac-2.md
+    - TAC-3 - Tactical Formations: tac/tac-3.md
+    - TAC-4 - Tactical Intercept Timeline: tac/tac-4.md
+    - TAC-5 - Mission Planning: tac/tac-5.md
   - AVI - Avionics:
     - AVI-1 - Avionics Introduction: avi/avi-1.md
     - AVI-2 - MPD-MPCD: avi/avi-2.md

@@ -8,8 +8,19 @@ Welcome to the OPS - Operations section. Here you'll find detailed information o
 
 ## Contents
 
-- [OPS-1](ops-1.md)
-- [OPS-2](ops-2.md)
-- [OPS-3](ops-3.md)
-- [OPS-4](ops-4.md)
+- [OPS-1
+](ops-1.md)
+- [OPS-2
+](ops-2.md)
+- [OPS-3
+](ops-3.md)
+- [OPS-4
+](ops-4.md)
 
+# OPS - Operations
+
+Welcome to the OPS - Operations section. Here you'll find detailed information on various subtopics.
+
+## Subtopics
+
+- [OPS-1 Operations Overview](ops-1.md)

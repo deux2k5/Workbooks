@@ -18,6 +18,7 @@ theme:
     - navigation.tracking
     - navigation.sections
     - navigation.expand
+    - navigation.indexes
     - toc.follow
     - toc.integrate
   custom_dir: overrides
@@ -27,148 +28,15 @@ extra_css:
 
 nav:
   - Home: index.md
-  - AAM - Aerial Attack Maneuvering:
-    - AAM-1 - Performance Management: aam/aam-1.md
-    - AAM-2 - Intercepts: aam/aam-2.md
-    - AAM-3 - A/A Mission Tasks: aam/aam-3.md
-    - AAM-4 - Ground Controlled Intercepts (GCI): aam/aam-4.md
-    - AAM-5 - Offensive Basic Fighter Maneuvers (OBFM): aam/aam-5.md
-    - AAM-6 - Defensive Basic Fighter Maneuvers: aam/aam-6.md
-    - AAM-7 - 2 v X Intercepts: aam/aam-7.md
-    - AAM-8 - High Aspect BFM: aam/aam-8.md
-    - AAM-9 - Air Combat Maneuvering (ACM): aam/aam-9.md
-    - AAM-10 - Low Altitude Air-to-Air Employment: aam/aam-10.md
-  - AAW - Air-to-Air Weapons:
-    - AAW-1 - A/A Programmable Armament Control Set (PACS): aaw/aaw-1.md
-    - AAW-2 - HUD Air-to-Air Displays: aaw/aaw-2.md
-    - AAW-3 - AIM-9 Employment: aaw/aaw-3.md
-    - AAW-4 - AIM-7 Employment: aaw/aaw-4.md
-    - AAW-5 - AIM-120 Employment: aaw/aaw-5.md
-    - AAW-6 - Gun Employment: aaw/aaw-6.md
-    - AAW-7 - Additional Weapons: aaw/aaw-7.md
-    - AAW-8 - Weapons Integration: aaw/aaw-8.md
-    - AAW-9 - Advanced Weapons Tactics: aaw/aaw-9.md
-  - ACG - Aircraft General:
-    - ACG-1 - Aircraft Introduction & Cockpit Overview: acg/acg-1.md
-    - ACG-2 - Propulsion System: acg/acg-2.md
-    - ACG-3 - Fuel System: acg/acg-3.md
-    - ACG-4 - Electrical System: acg/acg-4.md
-    - ACG-5 - Environmental Control System, Canopy & Steps: acg/acg-5.md
-    - ACG-6 - Hydraulic Systems: acg/acg-6.md
-    - ACG-7 - Flight Controls: acg/acg-7.md
-    - ACG-8 - Caution & Warning System Integration: acg/acg-8.md
-    - ACG-9 - Emergency Procedures & Abnormal Operations: acg/acg-9.md
-  - AGD - Air-to-Ground Delivery:
-    - AGD-1 - Low Altitude Awareness Training (LAAT): agd/agd-1.md
-    - AGD-2 - A/G Programmable Armament Control Set (PACS): agd/agd-2.md
-    - AGD-3 - Basic Bombing: agd/agd-3.md
-    - AGD-4 - Designations: agd/agd-4.md
-    - AGD-5 - Computed Bombing Modes: agd/agd-5.md
-    - AGD-6 - Continuously Computed Impact Point (CCIP): agd/agd-6.md
-    - AGD-7 - Dive Toss (DTOS): agd/agd-7.md
-    - AGD-8 - Loft Delivery: agd/agd-8.md
-    - AGD-9 - Strafe Employment: agd/agd-9.md
-  - AGR - Air-to-Ground Radar:
-    - AGR-1 - A/Ground Radar Introduction: agr/agr-1.md
-    - AGR-2 - APG-70 A/G Introduction: agr/agr-2.md
-    - AGR-3 - Modes, Controls and Displays: agr/agr-3.md
-    - AGR-4 - Navigation: agr/agr-4.md
-    - AGR-5 - Sensor Planning: agr/agr-5.md
-  - AGW - Air-to-Ground Weapons:
-    - AGW-1 - General Purpose Bombs: agw/agw-1.md
-    - AGW-2 - Dispenser Munitions: agw/agw-2.md
-    - AGW-3 - Laser Guided Bombs: agw/agw-3.md
-    - AGW-4 - Pop-Up Attacks: agw/agw-4.md
-    - AGW-5 - Nuclear Weapons Introduction: agw/agw-5.md
-    - AGW-6 - Nuclear PACS: agw/agw-6.md
-    - AGW-7 - Maverick Employment: agw/agw-7.md
-    - AGW-8 - HARM Employment: agw/agw-8.md
-    - AGW-9 - Advanced A/G Weapons: agw/agw-9.md
-  - AVI - Avionics:
-    - AVI-1 - Avionics Introduction: avi/avi-1.md
-    - AVI-2 - MPD-MPCD: avi/avi-2.md
-    - AVI-3 - Upfront Control: avi/avi-3.md
-    - AVI-4 - ADI, HSI & HUD: avi/avi-4.md
-    - AVI-5 - OWS, VTRS & MC-DTM: avi/avi-5.md
-    - AVI-6 - Have Quick and KY-58: avi/avi-6.md
-    - AVI-7 - TACAN: avi/avi-7.md
-    - AVI-8 - INS: avi/avi-8.md
-    - AVI-9 - Digital Map System-Tactical Situation Display: avi/avi-9.md
-    - AVI-10 - Radar Altimeter & Autopilot: avi/avi-10.md
-    - AVI-11 - Built-In Test (BIT): avi/avi-11.md
-    - AVI-12 - Degraded Avionics Operations: avi/avi-12.md
-  - EW - Electronic Warfare:
-    - EW-1 - Generic Electronic Attack: ew/ew-1.md
-    - EW-2 - ALQ-131 ECM Pod: ew/ew-2.md
-    - EW-3 - ALR-56C RWR: ew/ew-3.md
-    - EW-4 - ALE-45 CMDS: ew/ew-4.md
-    - EW-5 - Advanced EW Tactics: ew/ew-5.md
-  - LAN - LANTIRN:
-    - LAN-1 - IR Introduction: lan/lan-1.md
-    - LAN-2 - NAV FLIR: lan/lan-2.md
-    - LAN-3 - Targeting IR: lan/lan-3.md
-    - LAN-4 - TFR Introduction: lan/lan-4.md
-    - LAN-5 - TFR Controls and Displays: lan/lan-5.md
-    - LAN-6 - TFR Capabilities: lan/lan-6.md
-    - LAN-7 - TFR Operations: lan/lan-7.md
-  - OPS - Operations:
-    - OPS-1 - Task Management & Crew Coordination: ops/ops-1.md
-    - OPS-2 - AHC: ops/ops-2.md
-    - OPS-3 - Performance Data: ops/ops-3.md
-    - OPS-4 - Formation Procedures: ops/ops-4.md
-  - RDR - Radar:
-    - RDR-1 - Radar Introduction: rdr/rdr-1.md
-    - RDR-2 - APG-70 Introduction: rdr/rdr-2.md
-    - RDR-3 - Air-to-Air Modes Switchology & Displays: rdr/rdr-3.md
-    - RDR-4 - AAI EID Employment: rdr/rdr-4.md
-    - RDR-5 - Air-to-Air Radar Employment: rdr/rdr-5.md
-  - TAC - Tactics:
-    - TAC-1 - Tactical Intercepts: tac/tac-1.md
-    - TAC-2 - Element Attacks: tac/tac-2.md
-    - TAC-3 - Tactical Formations: tac/tac-3.md
-    - TAC-4 - Tactical Intercept Timeline: tac/tac-4.md
-    - TAC-5 - Mission Planning: tac/tac-5.md
-  - AVI - Avionics:
-    - AVI-1 - Avionics Introduction: avi/avi-1.md
-    - AVI-2 - MPD-MPCD: avi/avi-2.md
-    - AVI-3 - Upfront Control: avi/avi-3.md
-    - AVI-4 - ADI, HSI & HUD: avi/avi-4.md
-    - AVI-5 - OWS, VTRS & MC-DTM: avi/avi-5.md
-    - AVI-6 - Have Quick and KY-58: avi/avi-6.md
-    - AVI-7 - TACAN: avi/avi-7.md
-    - AVI-8 - INS: avi/avi-8.md
-    - AVI-9 - Digital Map System-Tactical Situation Display: avi/avi-9.md
-    - AVI-10 - Radar Altimeter & Autopilot: avi/avi-10.md
-    - AVI-11 - Built-In Test (BIT): avi/avi-11.md
-    - AVI-12 - Degraded Avionics Operations: avi/avi-12.md
-  - EW - Electronic Warfare:
-    - EW-1 - Generic Electronic Attack: ew/ew-1.md
-    - EW-2 - ALQ-131 ECM Pod: ew/ew-2.md
-    - EW-3 - ALR-56C RWR: ew/ew-3.md
-    - EW-4 - ALE-45 CMDS: ew/ew-4.md
-    - EW-5 - Advanced EW Tactics: ew/ew-5.md
-  - LAN - LANTIRN:
-    - LAN-1 - IR Introduction: lan/lan-1.md
-    - LAN-2 - NAV FLIR: lan/lan-2.md
-    - LAN-3 - Targeting IR: lan/lan-3.md
-    - LAN-4 - TFR Introduction: lan/lan-4.md
-    - LAN-5 - TFR Controls and Displays: lan/lan-5.md
-    - LAN-6 - TFR Capabilities: lan/lan-6.md
-    - LAN-7 - TFR Operations: lan/lan-7.md
-  - OPS - Operations:
-    - OPS-1 - Task Management & Crew Coordination: ops/ops-1.md
-    - OPS-2 - AHC: ops/ops-2.md
-    - OPS-3 - Performance Data: ops/ops-3.md
-    - OPS-4 - Formation Procedures: ops/ops-4.md
-  - RDR - Radar:
-    - RDR-1 - Radar Introduction: rdr/rdr-1.md
-    - RDR-2 - APG-70 Introduction: rdr/rdr-2.md
-    - RDR-3 - Air-to-Air Modes Switchology & Displays: rdr/rdr-3.md
-    - RDR-4 - AAI EID Employment: rdr/rdr-4.md
-    - RDR-5 - Air-to-Air Radar Employment: rdr/rdr-5.md
-  - TAC - Tactics:
-    - TAC-1 - Tactical Intercepts: tac/tac-1.md
-    - TAC-2 - Element Attacks: tac/tac-2.md
-    - TAC-3 - Tactical Formations: tac/tac-3.md
-    - TAC-4 - Tactical Intercept Timeline: tac/tac-4.md
-    - TAC-5 - Mission Planning: tac/tac-5.md
+  - AAM - Aerial Attack Maneuvering: aam/index.md
+  - AAW - Air-to-Air Weapons: aaw/index.md
+  - ACG - Aircraft General: acg/index.md
+  - AGD - Air-to-Ground Delivery: agd/index.md
+  - AGR - Air-to-Ground Radar: agr/index.md
+  - AGW - Air-to-Ground Weapons: agw/index.md
+  - AVI - Avionics: avi/index.md
+  - EW - Electronic Warfare: ew/index.md
+  - LAN - LANTIRN: lan/index.md
+  - OPS - Operations: ops/index.md
+  - RDR - Radar: rdr/index.md
+  - TAC - Tactics: tac/index.md

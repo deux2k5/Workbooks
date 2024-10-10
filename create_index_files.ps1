@@ -20,6 +20,10 @@ foreach ($dir in $directories) {
         "tac" { "TAC - Tactics" }
     }
     
+    # Create title.txt file
+    $titleFilePath = Join-Path "docs" $dir "title.txt"
+    Set-Content -Path $titleFilePath -Value $title
+    
     $content = @"
 # $title
 
@@ -45,4 +49,4 @@ Welcome to the $title section. Here you'll find detailed information on various 
     Set-Content -Path $indexPath -Value $content
 }
 
-Write-Host "Index files have been created for all sections with subtopics linked to their respective pages."
+Write-Host "Index files and title.txt files have been created for all sections with subtopics linked to their respective pages."

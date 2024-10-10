@@ -27,19 +27,8 @@ extra_css:
 nav:
   - Home: index.md
   - AAM - Aerial Attack Maneuvering:
-    - AAM-10 - Low Altitude Air-to-Air Employment:
-      - Administrative Information: aam/aam-10.md#administrative-information
-      - Criterion Referenced Objectives (CROs): aam/aam-10.md#criterion-referenced-objectives-cros
-      - Student Preparation Requirements: aam/aam-10.md#student-preparation-requirements
-      - Text: aam/aam-10.md#text
-      - Glossary: aam/aam-10.md#glossary
-    - AAM-1 - Performance Management:
-      - Administrative Information: aam/aam-1.md#administrative-information
-      - Criterion Referenced Objectives (CROs): aam/aam-1.md#criterion-referenced-objectives-cros
-      - Student Preparation Requirements: aam/aam-1.md#student-preparation-requirements
-      - Text: aam/aam-1.md#text
-      - End of Text Quiz: aam/aam-1.md#end-of-text-quiz
-      - Glossary: aam/aam-1.md#glossary
+    - AAM-10 - Low Altitude Air-to-Air Employment: aam/aam-10.md
+    - AAM-1 - Performance Management: aam/aam-1.md
     - AAM-2 - Intercepts:
       - Administrative Information: aam/aam-2.md#administrative-information
       - Criterion Referenced Objectives (CROs): aam/aam-2.md#criterion-referenced-objectives-cros

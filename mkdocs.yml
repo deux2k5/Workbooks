@@ -47,6 +47,9 @@ nav:
     - AAW-4 - AIM-7 Employment: aaw/aaw-4.md
     - AAW-5 - AIM-120 Employment: aaw/aaw-5.md
     - AAW-6 - Gun Employment: aaw/aaw-6.md
+    - AAW-7 - Additional Weapons: aaw/aaw-7.md
+    - AAW-8 - Weapons Integration: aaw/aaw-8.md
+    - AAW-9 - Advanced Weapons Tactics: aaw/aaw-9.md
   - ACG - Aircraft General:
     - ACG-1 - Aircraft Introduction & Cockpit Overview: acg/acg-1.md
     - ACG-2 - Propulsion System: acg/acg-2.md
@@ -82,6 +85,7 @@ nav:
     - AGW-6 - Nuclear PACS: agw/agw-6.md
     - AGW-7 - Maverick Employment: agw/agw-7.md
     - AGW-8 - HARM Employment: agw/agw-8.md
+    - AGW-9 - Advanced A/G Weapons: agw/agw-9.md
   - AVI - Avionics:
     - AVI-1 - Avionics Introduction: avi/avi-1.md
     - AVI-2 - MPD-MPCD: avi/avi-2.md
@@ -100,6 +104,7 @@ nav:
     - EW-2 - ALQ-131 ECM Pod: ew/ew-2.md
     - EW-3 - ALR-56C RWR: ew/ew-3.md
     - EW-4 - ALE-45 CMDS: ew/ew-4.md
+    - EW-5 - Advanced EW Tactics: ew/ew-5.md
   - LAN - LANTIRN:
     - LAN-1 - IR Introduction: lan/lan-1.md
     - LAN-2 - NAV FLIR: lan/lan-2.md

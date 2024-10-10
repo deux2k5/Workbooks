@@ -26,33 +26,33 @@ extra_css:
 
 nav:
   - Home: index.md
-  - AAM: Aerial Attack Maneuvering:
-    - AAM-10: Low Altitude Air-to-Air Employment: aam/aam-10.md
-    - AAM-1: Performance Management: aam/aam-1.md
-    - AAM-2: Intercepts: aam/aam-2.md
-    - AAM-3: A/A Mission Tasks: aam/aam-3.md
-    - AAM-4: Ground Controlled Intercepts (GCI): aam/aam-4.md
-    - AAM-5: Offensive Basic Fighter Maneuvers (OBFM): aam/aam-5.md
-    - AAM-6: Defensive Basic Fighter Maneuvers: aam/aam-6.md
-    - AAM-7: 2 v X Intercepts: aam/aam-7.md
-  - AAW: Air-to-Air Weapons:
-    - AAW-1: A/A Programmable Armament Control Set (PACS): aaw/aaw-1.md
-    - AAW-2: HUD Air-to-Air Displays: aaw/aaw-2.md
-  - ACG: Aircraft General:
-    - ACG-1: Aircraft Introduction & Cockpit Overview: acg/acg-1.md
-    - ACG-2: Propulsion System: acg/acg-2.md
-    - ACG-3: Fuel System: acg/acg-3.md
-    - ACG-4: Electrical System: acg/acg-4.md
-    - ACG-5: Environmental Control System, Canopy & Steps: acg/acg-5.md
-    - ACG-6: Hydraulic Systems: acg/acg-6.md
-    - ACG-7: Flight Controls: acg/acg-7.md
-    - ACG-8: Caution & Warning System Integration: acg/acg-8.md
-    - ACG-9: Emergency Procedures & Abnormal Operations: acg/acg-9.md
-  - AGR: Air-to-Ground Radar:
-    - AGR-1: A/Ground Radar Introduction: agr/agr-1.md
-    - AGR-2: APG-70 A/G Introduction: agr/agr-2.md
-    - AGR-3: Modes, Controls and Displays: agr/agr-3.md
-    - AGR-4: Navigation: agr/agr-4.md
-    - AGR-5: Sensor Planning: agr/agr-5.md
-  - AGW: Air-to-Ground Weapons:
-    - AGW-1: General Purpose Bombs: agw/agw-1.md
+  - AAM - Aerial Attack Maneuvering:
+    - AAM-10 - Low Altitude Air-to-Air Employment: aam/aam-10.md
+    - AAM-1 - Performance Management: aam/aam-1.md
+    - AAM-2 - Intercepts: aam/aam-2.md
+    - AAM-3 - A/A Mission Tasks: aam/aam-3.md
+    - AAM-4 - Ground Controlled Intercepts (GCI): aam/aam-4.md
+    - AAM-5 - Offensive Basic Fighter Maneuvers (OBFM): aam/aam-5.md
+    - AAM-6 - Defensive Basic Fighter Maneuvers: aam/aam-6.md
+    - AAM-7 - 2 v X Intercepts: aam/aam-7.md
+  - AAW - Air-to-Air Weapons:
+    - AAW-1 - A/A Programmable Armament Control Set (PACS): aaw/aaw-1.md
+    - AAW-2 - HUD Air-to-Air Displays: aaw/aaw-2.md
+  - ACG - Aircraft General:
+    - ACG-1 - Aircraft Introduction & Cockpit Overview: acg/acg-1.md
+    - ACG-2 - Propulsion System: acg/acg-2.md
+    - ACG-3 - Fuel System: acg/acg-3.md
+    - ACG-4 - Electrical System: acg/acg-4.md
+    - ACG-5 - Environmental Control System, Canopy & Steps: acg/acg-5.md
+    - ACG-6 - Hydraulic Systems: acg/acg-6.md
+    - ACG-7 - Flight Controls: acg/acg-7.md
+    - ACG-8 - Caution & Warning System Integration: acg/acg-8.md
+    - ACG-9 - Emergency Procedures & Abnormal Operations: acg/acg-9.md
+  - AGR - Air-to-Ground Radar:
+    - AGR-1 - A/Ground Radar Introduction: agr/agr-1.md
+    - AGR-2 - APG-70 A/G Introduction: agr/agr-2.md
+    - AGR-3 - Modes, Controls and Displays: agr/agr-3.md
+    - AGR-4 - Navigation: agr/agr-4.md
+    - AGR-5 - Sensor Planning: agr/agr-5.md
+  - AGW - Air-to-Ground Weapons:
+    - AGW-1 - General Purpose Bombs: agw/agw-1.md

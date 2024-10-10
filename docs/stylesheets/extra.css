@@ -2,4 +2,14 @@
     --md-primary-fg-color:        #e24b24;
     --md-primary-fg-color--light: #f1f0e9;
     --md-primary-fg-color--dark:  #050505;
-  }
+  }:root {
+  --md-primary-fg-color: #e24b24;
+}
+
+[data-md-color-scheme="default"] {
+  --md-primary-fg-color--light: #f1f0e9;
+}
+
+[data-md-color-scheme="slate"] {
+  --md-primary-fg-color--dark: #050505;
+}

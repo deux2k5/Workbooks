@@ -67,6 +67,18 @@ Welcome to the $title section. Here you'll find detailed information on various 
     box-shadow: 0 5px 15px rgba(0,0,0,0.1);
 }
 
+@media (prefers-color-scheme: dark) {
+    .grid-item {
+        background-color: #333333;
+    }
+    .card h3 {
+        color: #f0f0f0;
+    }
+    .card p {
+        color: #cccccc;
+    }
+}
+
 .card-link {
     text-decoration: none;
     color: inherit;

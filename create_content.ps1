@@ -1,11 +1,23 @@
-$directories = @("aam", "aaw", "acg", "agr", "agw")
+$directories = @("aam", "aaw", "acg", "agd", "agr", "agw", "avi", "ew", "lan", "ops", "rdr", "tac")
 
 foreach ($dir in $directories) {
-    $files = Get-ChildItem -Path "docs\$dir" -Filter "*.md"
-    foreach ($file in $files) {
-        $content = Get-Content $file.FullName
-        if ($content -eq $null -or $content.Length -eq 0) {
-            $title = $file.BaseName.ToUpper()
+    if (-not (Test-Path "docs\$dir")) {
+        New-Item -ItemType Directory -Path "docs\$dir" | Out-Null
+    }
+    
+    $maxFileNumber = 12
+    if ($dir -eq "aam") { $maxFileNumber = 10 }
+    elseif ($dir -in @("aaw", "agd", "agw")) { $maxFileNumber = 9 }
+    elseif ($dir -in @("acg", "agr", "ew")) { $maxFileNumber = 5 }
+    elseif ($dir -eq "lan") { $maxFileNumber = 7 }
+    elseif ($dir -eq "ops") { $maxFileNumber = 4 }
+    elseif ($dir -eq "rdr") { $maxFileNumber = 5 }
+    elseif ($dir -eq "tac") { $maxFileNumber = 5 }
+
+    for ($i = 1; $i -le $maxFileNumber; $i++) {
+        $filePath = "docs\$dir\$dir-$i.md"
+        if (-not (Test-Path $filePath)) {
+            $title = "$($dir.ToUpper())-$i"
             $newContent = @"
 # $title
 
@@ -25,9 +37,9 @@ This section will provide an overview of $title.
 
 Links to additional resources will be added here.
 "@
-            Set-Content -Path $file.FullName -Value $newContent
+            Set-Content -Path $filePath -Value $newContent
         }
     }
 }
 
-Write-Host "Basic content has been added to all empty Markdown files."
+Write-Host "Basic content has been added to all required Markdown files."

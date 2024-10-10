@@ -7,5 +7,23 @@
       {% include "partials/social.html" %}
     </div>
   </div>
+  <div class="md-footer-image">
+    <img src="{{ base_url }}/vector.png" alt="Footer image" style="width: 100%; height: auto;">
+  </div>
 </footer>
+{% endblock %}
+
+{% block styles %}
+    {{ super() }}
+    <style>
+        .md-footer-image {
+            text-align: center;
+            padding: 20px 0;
+            background-color: var(--md-footer-bg-color);
+        }
+        .md-footer-image img {
+            max-width: 100%;
+            height: auto;
+        }
+    </style>
 {% endblock %}

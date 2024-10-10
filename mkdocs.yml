@@ -1,9 +1,7 @@
 site_name: My Docs
 theme:
   name: material
-  extra_css:
-  - stylesheets/extra.csstheme:
-  name: material
+  logo: 391logo.png
   palette:
     - scheme: default
       primary: custom

@@ -94,11 +94,12 @@ document.addEventListener('DOMContentLoaded', (event) => {
 }
 
 .category-card {
-  background-color: white;
+  background-color: transparent;
   padding: 1rem;
   border-radius: 5px;
   box-shadow: 0 5px 10px rgba(0,0,0,0.1);
   transition: all 0.3s ease;
+  border: 1px solid rgba(0,0,0,0.1);
 }
 
 .category-card h3 {

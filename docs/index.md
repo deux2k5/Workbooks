@@ -1,40 +1,36 @@
 # Welcome
 
-This repository contains the academic workbooks for the USLANTCOM 391st vFS F-15E, it's specifically designed to be able to share information from it quickly by copying and pasting. Due to the PDF file themselves being encrypted this wasn't previously possible.
+This repository contains the academic workbooks for the USLANTCOM 391st vFS F-15E. It's specifically designed to enable quick sharing of information through copy and paste. This was previously not possible due to the encryption of the PDF files.
 
-The [Original Workbooks](https://drive.google.com/drive/folders/1q_lzNSCejdUwmGalox1hIDRH8hYhTAWM)
- can be found here.
+The [Original Workbooks](https://drive.google.com/drive/folders/1q_lzNSCejdUwmGalox1hIDRH8hYhTAWM) can be found here.
 
-<div class="next-section">
-  <a href="aam/aam-1/" class="next-link">AAM - Aerial Attack Maneuvering →</a>
-</div>
+## Table of Contents
+
+- [AAM - Aerial Attack Maneuvering](aam/index.md)
+- [AAW - Air-to-Air Weapons](aaw/index.md)
+- [ACG - Aircraft General](acg/index.md)
+- [AGD - Air-to-Ground Delivery](agd/index.md)
+- [AGR - Air-to-Ground Radar](agr/index.md)
+- [AGW - Air-to-Ground Weapons](agw/index.md)
+- [AVI - Avionics](avi/index.md)
+- [EW - Electronic Warfare](ew/index.md)
+- [LAN - LANTIRN](lan/index.md)
+- [OPS - Operations](ops/index.md)
+- [RDR - Radar](rdr/index.md)
+- [TAC - Tactics](tac/index.md)
 
 <style>
-.hero {
-  background-color: #f0f0f0;
-  padding: 2rem;
-  border-radius: 10px;
-  text-align: center;
-  margin-bottom: 2rem;
+.md-typeset h1,
+.md-typeset h2 {
+  color: var(--md-primary-fg-color);
 }
 
-.next-section {
-  text-align: right;
-  margin-top: 2rem;
-}
-
-.next-link {
-  display: inline-block;
-  background-color: ##050505;
-  color: white;
-  padding: 0.5rem 1rem;
+.md-typeset a {
+  color: var(--md-primary-fg-color);
   text-decoration: none;
-  border-radius: 5px;
-  font-weight: bold;
-  transition: background-color 0.3s ease;
 }
 
-.next-link:hover {
-  background-color: #0056b3;
+.md-typeset a:hover {
+  text-decoration: underline;
 }
 </style>

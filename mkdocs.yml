@@ -54,5 +54,5 @@ nav:
       - AGR-3 - Modes, Controls and Displays: agr/agr-3.md
       - AGR-4 - Navigation: agr/agr-4.md
       - AGR-5 - Sensor Planning: agr/agr-5.md
-  - AGW: Air-to-Ground Weapons:
-    - AGW-1: General Purpose Bombs: agw/agw-1.md
+  - AGW - Air-to-Ground Weapons:
+      - AGW-1 - General Purpose Bombs: agw/agw-1.md

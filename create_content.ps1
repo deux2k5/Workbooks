@@ -8,7 +8,8 @@ foreach ($dir in $directories) {
     $maxFileNumber = 12
     if ($dir -eq "aam") { $maxFileNumber = 10 }
     elseif ($dir -in @("aaw", "agd", "agw")) { $maxFileNumber = 9 }
-    elseif ($dir -in @("acg", "agr", "ew")) { $maxFileNumber = 5 }
+    elseif ($dir -in @("acg", "agr")) { $maxFileNumber = 5 }
+    elseif ($dir -eq "ew") { $maxFileNumber = 5 }
     elseif ($dir -eq "lan") { $maxFileNumber = 7 }
     elseif ($dir -eq "ops") { $maxFileNumber = 4 }
     elseif ($dir -eq "rdr") { $maxFileNumber = 5 }

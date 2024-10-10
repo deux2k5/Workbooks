@@ -41,7 +41,7 @@ Welcome to the $title section. Here you'll find detailed information on various 
         $fileContent = Get-Content $file.FullName -Raw
         if ($fileContent -match '# (.+)') {
             $subTitle = $matches[1]
-            $content += "- [$subTitle]($($file.BaseName)/)`n"
+            $content += "- [$subTitle]($($file.BaseName).md)`n"
         }
     }
 

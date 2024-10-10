@@ -90,6 +90,7 @@ nav:
     - AGW-6: agw/agw-6.md
     - AGW-7: agw/agw-7.md
     - AGW-8: agw/agw-8.md
+    - AGW-9: agw/agw-9.md
   - AVI - Avionics:
     - avi/index.md
     - AVI-1: avi/avi-1.md
@@ -110,6 +111,7 @@ nav:
     - EW-2: ew/ew-2.md
     - EW-3: ew/ew-3.md
     - EW-4: ew/ew-4.md
+    - EW-5: ew/ew-5.md
   - LAN - LANTIRN:
     - lan/index.md
     - LAN-1: lan/lan-1.md

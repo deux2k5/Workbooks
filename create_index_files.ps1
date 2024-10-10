@@ -69,14 +69,32 @@ Welcome to the $title section. Here you'll find detailed information on various 
 
 @media (prefers-color-scheme: dark) {
     .grid-item {
-        background-color: #333333;
+        background-color: var(--md-primary-fg-color--dark);
     }
     .card h3 {
-        color: #f0f0f0;
+        color: var(--md-primary-fg-color--light);
     }
     .card p {
-        color: #cccccc;
+        color: var(--md-primary-fg-color--light);
     }
+}
+
+[data-md-color-scheme="default"] .grid-item {
+    background-color: var(--md-primary-fg-color--light);
+}
+
+[data-md-color-scheme="default"] .card h3,
+[data-md-color-scheme="default"] .card p {
+    color: var(--md-primary-fg-color--dark);
+}
+
+[data-md-color-scheme="slate"] .grid-item {
+    background-color: var(--md-primary-fg-color--dark);
+}
+
+[data-md-color-scheme="slate"] .card h3,
+[data-md-color-scheme="slate"] .card p {
+    color: var(--md-primary-fg-color--light);
 }
 
 .card-link {

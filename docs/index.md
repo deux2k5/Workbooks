@@ -64,11 +64,12 @@ document.addEventListener('DOMContentLoaded', (event) => {
 
 <style>
 .hero {
-  background-color: #f0f0f0;
+  background-color: transparent;
   padding: 2rem;
   border-radius: 10px;
   text-align: center;
   margin-bottom: 2rem;
+  border: 1px solid rgba(0,0,0,0.1);
 }
 
 .cta-button {

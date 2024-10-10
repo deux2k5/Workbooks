@@ -20,6 +20,7 @@ theme:
     - navigation.tabs.sticky
     - navigation.sections
     - toc.integrate
+  custom_dir: overrides
 
 extra_css:
   - stylesheets/extra.css

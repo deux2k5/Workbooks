@@ -26,161 +26,33 @@ extra_css:
 
 nav:
   - Home: index.md
-  - AAM - Aerial Attack Maneuvering:
-    - AAM-10 - Low Altitude Air-to-Air Employment: aam/aam-10.md
-    - AAM-1 - Performance Management: aam/aam-1.md
-    - AAM-2 - Intercepts:
-      - Administrative Information: aam/aam-2.md#administrative-information
-      - Criterion Referenced Objectives (CROs): aam/aam-2.md#criterion-referenced-objectives-cros
-      - Student Preparation Requirements: aam/aam-2.md#student-preparation-requirements
-      - Text: aam/aam-2.md#text
-      - End of Text Quiz: aam/aam-2.md#end-of-text-quiz
-      - Glossary: aam/aam-2.md#glossary
-    - AAM-3 - A/A Mission Tasks:
-      - Administrative Information: aam/aam-3.md#administrative-information
-      - Criterion Referenced Objectives (CROs): aam/aam-3.md#criterion-referenced-objectives-cros
-      - Student Preparation Requirements: aam/aam-3.md#student-preparation-requirements
-      - Text: aam/aam-3.md#text
-      - End of Text Quiz: aam/aam-3.md#end-of-text-quiz
-      - Glossary: aam/aam-3.md#glossary
-    - AAM-4 - Ground Controlled Intercepts (GCI):
-      - Administrative Information: aam/aam-4.md#administrative-information
-      - Criterion Referenced Objectives (CROs): aam/aam-4.md#criterion-referenced-objectives-cros
-      - Student Preparation Requirements: aam/aam-4.md#student-preparation-requirements
-      - Text: aam/aam-4.md#text
-      - End of Text Quiz: aam/aam-4.md#end-of-text-quiz
-      - Glossary: aam/aam-4.md#glossary
-      - Appendix G: aam/aam-4.md#appendix-g
-    - AAM-5 - Offensive Basic Fighter Maneuvers (OBFM):
-      - Administrative Information: aam/aam-5.md#administrative-information
-      - Criterion Referenced Objectives (CROs): aam/aam-5.md#criterion-referenced-objectives-cros
-      - Student Preparation Requirements: aam/aam-5.md#student-preparation-requirements
-      - Text: aam/aam-5.md#text
-      - End of Text Quiz: aam/aam-5.md#end-of-text-quiz
-      - Glossary: aam/aam-5.md#glossary
-    - AAM-6 - Defensive Basic Fighter Maneuvers:
-      - Administrative Information: aam/aam-6.md#administrative-information
-      - Criterion Referenced Objectives (CROs): aam/aam-6.md#criterion-referenced-objectives-cros
-      - Student Preparation Requirements: aam/aam-6.md#student-preparation-requirements
-      - Text: aam/aam-6.md#text
-      - End of Text Quiz: aam/aam-6.md#end-of-text-quiz
-      - Glossary: aam/aam-6.md#glossary
-    - AAM-7 - 2 v X Intercepts:
-      - Administrative Information: aam/aam-7.md#administrative-information
-      - Criterion Referenced Objectives (CROs): aam/aam-7.md#criterion-referenced-objectives-cros
-      - Student Preparation Requirements: aam/aam-7.md#student-preparation-requirements
-      - Text: aam/aam-7.md#text
-      - End of Text Quiz: aam/aam-7.md#end-of-text-quiz
-      - Glossary: aam/aam-7.md#glossary
-  - AAW - Air-to-Air Weapons:
-    - AAW-1 - A/A Programmable Armament Control Set (PACS):
-      - Administrative Information: aaw/aaw-1.md#administrative-information
-      - Criterion Referenced Objectives (CROs): aaw/aaw-1.md#criterion-referenced-objectives-cros
-      - Student Preparation Requirements: aaw/aaw-1.md#student-preparation-requirements
-      - Text: aaw/aaw-1.md#text
-      - Glossary: aaw/aaw-1.md#glossary
-    - AAW-2 - HUD Air-to-Air Displays:
-      - Administrative Information: aaw/aaw-2.md#administrative-information
-      - Criterion Referenced Objectives (CROs): aaw/aaw-2.md#criterion-referenced-objectives-cros
-      - Student Preparation Requirements: aaw/aaw-2.md#student-preparation-requirements
-      - Text: aaw/aaw-2.md#text
-      - Glossary: aaw/aaw-2.md#glossary
-  - ACG - Aircraft General:
-    - ACG-1 - Aircraft Introduction & Cockpit Overview:
-      - Administration: acg/acg-1.md#administration
-      - F-15E Enhancements: acg/acg-1.md#f-15e-enhancements
-      - Missionized Cockpits: acg/acg-1.md#missionized-cockpits
-      - Cockpit Familiarization: acg/acg-1.md#cockpit-familiarization
-      - Glossary: acg/acg-1.md#glossary
-    - ACG-2 - Propulsion System:
-      - Administrative Information: acg/acg-2.md#administrative-information
-      - Criterion Referenced Objectives (CROs): acg/acg-2.md#criterion-referenced-objectives-cros
-      - Student Preparation Requirements: acg/acg-2.md#student-preparation-requirements
-      - Text: acg/acg-2.md#text
-      - End of Text Quiz: acg/acg-2.md#end-of-text-quiz
-      - Glossary: acg/acg-2.md#glossary
-    - ACG-3 - Fuel System:
-      - Administrative Information: acg/acg-3.md#administrative-information
-      - Criterion Referenced Objectives (CROs): acg/acg-3.md#criterion-referenced-objectives-cros
-      - Student Preparation Requirements: acg/acg-3.md#student-preparation-requirements
-      - Text: acg/acg-3.md#text
-      - End of Text Quiz: acg/acg-3.md#end-of-text-quiz
-      - Glossary: acg/acg-3.md#glossary
-    - ACG-4 - Electrical System:
-      - Administrative Information: acg/acg-4.md#administrative-information
-      - Criterion Referenced Objectives (CROs): acg/acg-4.md#criterion-referenced-objectives-cros
-      - Student Preparation Requirements: acg/acg-4.md#student-preparation-requirements
-      - Text: acg/acg-4.md#text
-      - End of Text Quiz: acg/acg-4.md#end-of-text-quiz
-      - Glossary: acg/acg-4.md#glossary
-    - ACG-5 - Environmental Control System, Canopy & Steps:
-      - Administrative Information: acg/acg-5.md#administrative-information
-      - Criterion Referenced Objectives (CROs): acg/acg-5.md#criterion-referenced-objectives-cros
-      - Student Preparation Requirements: acg/acg-5.md#student-preparation-requirements
-      - Text: acg/acg-5.md#text
-      - End of Text Quiz: acg/acg-5.md#end-of-text-quiz
-      - Glossary: acg/acg-5.md#glossary
-    - ACG-6 - Hydraulic Systems:
-      - Administrative Information: acg/acg-6.md#administrative-information
-      - Criterion Referenced Objectives (CROs): acg/acg-6.md#criterion-referenced-objectives-cros
-      - Student Preparation Requirements: acg/acg-6.md#student-preparation-requirements
-      - Text: acg/acg-6.md#text
-      - End of Text Quiz: acg/acg-6.md#end-of-text-quiz
-      - Glossary: acg/acg-6.md#glossary
-    - ACG-7 - Flight Controls:
-      - Administrative Information: acg/acg-7.md#administrative-information
-      - Criterion Referenced Objectives (CROs): acg/acg-7.md#criterion-referenced-objectives-cros
-      - Student Preparation Requirements: acg/acg-7.md#student-preparation-requirements
-      - Text: acg/acg-7.md#text
-      - Glossary: acg/acg-7.md#glossary
-    - ACG-8 - Caution & Warning System Integration:
-      - Administrative Information: acg/acg-8.md#administrative-information
-      - Criterion Referenced Objectives (CROs): acg/acg-8.md#criterion-referenced-objectives-cros
-      - Student Preparation Requirements: acg/acg-8.md#student-preparation-requirements
-      - Text: acg/acg-8.md#text
-      - End of Text Quiz: acg/acg-8.md#end-of-text-quiz
-      - Glossary: acg/acg-8.md#glossary
-    - ACG-9 - Emergency Procedures & Abnormal Operations:
-      - Administrative Information: acg/acg-9.md#administrative-information
-      - Criterion Referenced Objectives (CROs): acg/acg-9.md#criterion-referenced-objectives-cros
-      - Student Preparation Requirements: acg/acg-9.md#student-preparation-requirements
-      - Text: acg/acg-9.md#text
-      - Glossary: acg/acg-9.md#glossary
-  - AGR - Air-to-Ground Radar:
-    - AGR-1 - A/Ground Radar Introduction:
-      - Administrative Information: agr/agr-1.md#administrative-information
-      - Criterion Referenced Objectives (CROs): agr/agr-1.md#criterion-referenced-objectives-cros
-      - Student Preparation Requirements: agr/agr-1.md#student-preparation-requirements
-      - Text: agr/agr-1.md#text
-      - Glossary: agr/agr-1.md#glossary
-    - AGR-2 - APG-70 A/G Introduction:
-      - Administrative Information: agr/agr-2.md#administrative-information
-      - Criterion Referenced Objectives (CROs): agr/agr-2.md#criterion-referenced-objectives-cros
-      - Student Preparation Requirements: agr/agr-2.md#student-preparation-requirements
-      - Text: agr/agr-2.md#text
-      - Glossary: agr/agr-2.md#glossary
-    - AGR-3 - Modes, Controls and Displays:
-      - Administrative Information: agr/agr-3.md#administrative-information
-      - Criterion Referenced Objectives (CROs): agr/agr-3.md#criterion-referenced-objectives-cros
-      - Student Preparation Requirements: agr/agr-3.md#student-preparation-requirements
-      - Text: agr/agr-3.md#text
-      - Glossary: agr/agr-3.md#glossary
-    - AGR-4 - Navigation:
-      - Administrative Information: agr/agr-4.md#administrative-information
-      - Criterion Referenced Objectives (CROs): agr/agr-4.md#criterion-referenced-objectives-cros
-      - Student Preparation Requirements: agr/agr-4.md#student-preparation-requirements
-      - Text: agr/agr-4.md#text
-      - Glossary: agr/agr-4.md#glossary
-    - AGR-5 - Sensor Planning:
-      - Administrative Information: agr/agr-5.md#administrative-information
-      - Criterion Referenced Objectives (CROs): agr/agr-5.md#criterion-referenced-objectives-cros
-      - Student Preparation Requirements: agr/agr-5.md#student-preparation-requirements
-      - Text: agr/agr-5.md#text
-      - End of Text Quiz: agr/agr-5.md#end-of-text-quiz
-      - Glossary: agr/agr-5.md#glossary
-  - AGW - Air-to-Ground Weapons:
-    - AGW-1 - General Purpose Bombs:
-      - Administrative Information: agw/agw-1.md#administrative-information
-      - Criterion Referenced Objectives (CROs): agw/agw-1.md#criterion-referenced-objectives-cros
-      - Student Preparation Requirements: agw/agw-1.md#student-preparation-requirements
-      - Text: agw/agw-1.md#text
+  - AAM: Aerial Attack Maneuvering:
+    - AAM-10: Low Altitude Air-to-Air Employment: aam/aam-10.md
+    - AAM-1: Performance Management: aam/aam-1.md
+    - AAM-2: Intercepts: aam/aam-2.md
+    - AAM-3: A/A Mission Tasks: aam/aam-3.md
+    - AAM-4: Ground Controlled Intercepts (GCI): aam/aam-4.md
+    - AAM-5: Offensive Basic Fighter Maneuvers (OBFM): aam/aam-5.md
+    - AAM-6: Defensive Basic Fighter Maneuvers: aam/aam-6.md
+    - AAM-7: 2 v X Intercepts: aam/aam-7.md
+  - AAW: Air-to-Air Weapons:
+    - AAW-1: A/A Programmable Armament Control Set (PACS): aaw/aaw-1.md
+    - AAW-2: HUD Air-to-Air Displays: aaw/aaw-2.md
+  - ACG: Aircraft General:
+    - ACG-1: Aircraft Introduction & Cockpit Overview: acg/acg-1.md
+    - ACG-2: Propulsion System: acg/acg-2.md
+    - ACG-3: Fuel System: acg/acg-3.md
+    - ACG-4: Electrical System: acg/acg-4.md
+    - ACG-5: Environmental Control System, Canopy & Steps: acg/acg-5.md
+    - ACG-6: Hydraulic Systems: acg/acg-6.md
+    - ACG-7: Flight Controls: acg/acg-7.md
+    - ACG-8: Caution & Warning System Integration: acg/acg-8.md
+    - ACG-9: Emergency Procedures & Abnormal Operations: acg/acg-9.md
+  - AGR: Air-to-Ground Radar:
+    - AGR-1: A/Ground Radar Introduction: agr/agr-1.md
+    - AGR-2: APG-70 A/G Introduction: agr/agr-2.md
+    - AGR-3: Modes, Controls and Displays: agr/agr-3.md
+    - AGR-4: Navigation: agr/agr-4.md
+    - AGR-5: Sensor Planning: agr/agr-5.md
+  - AGW: Air-to-Ground Weapons:
+    - AGW-1: General Purpose Bombs: agw/agw-1.md

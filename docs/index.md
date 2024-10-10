@@ -38,11 +38,6 @@
   </div>
 </div>
 
-<div id="get-started">
-  <h2>Ready to Begin?</h2>
-  <p>Choose a category above or use the navigation menu to start your F-15E mastery journey!</p>
-</div>
-
 <script>
 document.addEventListener('DOMContentLoaded', (event) => {
   // Add smooth scrolling to CTA button

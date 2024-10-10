@@ -64,12 +64,11 @@ document.addEventListener('DOMContentLoaded', (event) => {
 
 <style>
 .hero {
-  background-color: transparent;
+  background-color: #f0f0f0;
   padding: 2rem;
   border-radius: 10px;
   text-align: center;
   margin-bottom: 2rem;
-  border: 1px solid rgba(0,0,0,0.1);
 }
 
 .cta-button {
@@ -95,12 +94,11 @@ document.addEventListener('DOMContentLoaded', (event) => {
 }
 
 .category-card {
-  background-color: transparent;
+  background-color: white;
   padding: 1rem;
   border-radius: 5px;
   box-shadow: 0 5px 10px rgba(0,0,0,0.1);
   transition: all 0.3s ease;
-  border: 1px solid rgba(0,0,0,0.1);
 }
 
 .category-card h3 {

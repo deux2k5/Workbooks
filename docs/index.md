@@ -1,14 +1,11 @@
-# Welcome to F-15E Academic Workbooks 🛩️
+# Welcome
 
-## Key Features 🌟
+This repository contains the academic workbooks for the USLANTCOM 391st vFS F-15E, it's specifically designed to be able to share information from it quickly by copying and pasting. Due to the PDF file themselves being encrypted this wasn't previously possible.
 
-- **In-depth Knowledge**: Detailed workbooks covering all aspects of F-15E operations
-- **Interactive Learning**: Engage with dynamic content and practical exercises
-- **Expert-Curated Content**: Developed by experienced F-15E pilots and instructors
-- **Continuous Updates**: Stay current with the latest F-15E tactics and procedures
+The [Original Workbooks](https://drive.google.com/drive/folders/1q_lzNSCejdUwmGalox1hIDRH8hYhTAWM)
+ can be found here.
 
 <div class="next-section">
-  <p>Start your journey with:</p>
   <a href="aam/aam-1/" class="next-link">AAM - Aerial Attack Maneuvering →</a>
 </div>
 
@@ -28,7 +25,7 @@
 
 .next-link {
   display: inline-block;
-  background-color: #007bff;
+  background-color: ##050505;
   color: white;
   padding: 0.5rem 1rem;
   text-decoration: none;

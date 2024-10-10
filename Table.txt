@@ -1,371 +1,109 @@
 # Table of Contents
 
-## AAM-10 Low Altitude Air-to-Air Employment
-- Airspeed
-- Turns (Line Abreast)
-- CREW COORDINATION
-- Terrain Avoidance
-- Systems Operation
-- EMPLOYMENT CONSIDERATIONS
-- Low Altitude Intercepts
-- Weapons Selection
-- Contingencies
-
-## AAM-1 Performance Management
-- Drag
-- Parasite Drag
-- Wave Drag
-- Coefficient of Drag—Minimum Drag
-- Optimum Turn
-- Thrust
-- Questions and Answers
-
-## AAM-2 Intercepts
-- Instantaneous Corner Velocity
-- Sustained Corner Velocity
-- Turn Performance
-- Structural Limits
-
-## AAM-3 Air-to-Air Mission Tasks
-- Formation Considerations
-- Trail or Wedge
-- Radar Set-Up
-- Visual Lookout
-
-## AAM-4 Ground Controlled Intercepts
-- Group Targeting/Sorting
-- Short Range Radar Contact/Commit
-- Element Targeted/Threat Reactions
-- Stern Threat
-- Other Contingencies
-
-## AAM-5 OBFM
-- Positional Geometry
-- Attack Geometry
-- Weapon Employment Zone (WEZ)
-- Turning Room/Turn Circle
-
-## AAM-6 DBFM
-- BFM Mechanics and Definitions
-- Lift Vector Placement
-- Turn Mechanics
-- Energy and Acceleration Management
-
-## AAM-7 2 v X Intercepts
-- Single-Side Offset
-- Bracket
-- Inside-Out Intercepts
-- Engagement Options and Tactics
-
-## AAM-8 High BFM
-- Lead Turn Maneuvering
-- Vertical Maneuvering Techniques
-- Energy Management
-- Shot Opportunities and Separation Tactics
-
-## AAM-9 ACM
-- Premerge Mechanics
-- Fighter Roles and Responsibilities
-- Element Communication
-- Weapons Employment
-- Postmerge Maneuvering
-- Situational Awareness
-
-## AAW-1 Air-to-Air Programmable Armament Control System
-- PACS Display Overview
-- Loadable Stations
-- HUD Weapon Control
-- Combined Mode Displays
-- Training Weapon Load
-- Combat Weapon Load
-- Gun Rate
-
-## AAW-2 HUD Air-to-Air Displays
-- HUD Attack Displays
-- Target Locator Line
-- Expanded Azimuth Display
-- Air-to-Air Master Mode
-- Special Modes
-
-## AAW-6 Gun
-- Gun Control and Safing
-- Radar and GDS Displays
-- Bullet Maximum Range Cue
-- Rounds Remaining Indications
-- Gun Preflight
-- M61A1 Specifications
-- 20mm Ammunition Details
-
-## ACG-1 Aircraft Introduction & Cockpit Overview
-- Cockpit Familiarization
-- Control Stick and Throttle Grips
-- Display Setup
-- Control Stick Functions
-
-## ACG-2 Propulsion System
-- Engine Monitoring
-- Oil System and Fuel Usage
-- Vmax Operations
-- Startup Procedures
-
-## ACG-3 Fuel System
-- Fuel Gauge and Flow Indicators
-- Fuel Transfer
-- Tank Operations
-
-## ACG-4 Electrical System
-- Power Generation
-- Emergency Backup
-- Primary Distribution
-
-## ACG-5 Environmental Control System
-- Cabin Pressure Management
-- Oxygen Supply System
-- Ventilation Control
-
-## ACG-6 Hydraulic Systems
-- Primary Flight Controls
-- Hydraulic Power Layout
-- System Redundancy
-
-## ACG-7 Flight Controls
-- Stabilators and Rudders
-- Control Stick Boost Compensator (CSBPC)
-- Hydromechanical and Automatic Systems
-
-## ACG-8 Caution & Warning System Integration
-- Warning Lights and Indicators
-- System Monitoring
-- Emergency Procedures
-
-## ACG-9 Emergency Procedures & Abnormal Operations
-- Power Loss Protocols
-- Engine Failure Responses
-- Alternate Control Options
-
-## AGD-1 Low Altitude Awareness Training
-- Risk Assessment
-- Maneuvering and Hazards
-- Low Altitude Task Management
-- Terrain Clearance Tasks
-- Mission Tasks
-- Mission Cross-Check Time
-- Task Overload Management
-
-## AGD-2 Air-to-Ground Programmable Armament Control System
-- Combat Weapon Load
-- Stations and Quantities
-- Loading Controls
-- A/G Load Programming
-
-## AGD-3 Basic Bombing
-- Delivery Profiles
-- Bombing Terms and Relationships
-- Dive Angle and Distance Calculations
-- Time of Fall
-- Target Aim-Off
-
-## AGD-4 Designations
-- Radar Designation
-- NAV Designation
-- Target IR Designation
-- Autonomous Landing Guidance
-
-## AGD-5 Computed Bombing Modes
-- Switches and Controls
-- HUD Command Requirements
-- Release Programming
-- Data Transfer Module (DTM)
-- Glossary
-
-## AGR-1 Air-to-Ground Radar Introduction
-- System Overview
-- Basic Mapping Modes
-- Display Parameters
-- Mode Selection
-- Operational Considerations
-
-## AGR-2 APG-70 Intro
-- Mode Summaries
-- PPI and Patch Map Modes
-- Range Scale Details
-- Mode Constraints
-
-## AGR-3 Modes Controls and Displays
-- Control Panel Layout
-- Operational Switches
-- Mode Functions
-- Symbology and HUD Indications
-
-## AGR-4 Navigation
-- Sequence Points
-- Data Management
-- Navigation Display Controls
-- Waypoint Programming
-
-## AGR-5 Sensor Planning
-- Antenna Elevation
-- Target Designation
-- A/G Radar Offset Management
-- Squint and Graze Angles
-
-
-## AGW-1 General Purpose Bombs
-- Bomb Characteristics and Fuze Combinations
-- Penetration and Blast Effects
-- Target Suitability and Limitations
-
-## AGW-2 Dispenser Munitions
-- Cluster Bomb Unit Types
-- Release Mechanics
-- Target Patterns and Coverage
-
-## AGW-3 Laser Guided Bombs
-- GBU Variants
-- Target Requirements
-- Delivery Profiles
-- Guidance and Terminal Effects
-
-## AGW-4 Pop-Up Attacks
-- Attack Planning
-- Pull-Up and Pull-Down Points
-- Direct and Indirect Profiles
-- Abort Conditions and Safety
-
-## AGW-5 Nuclear Weapons Introduction
-- Weapons Safety Protocols
-- Deterrent Operational Policies
-- Nuclear Safety Programs and Reliability
-
-## AGW-6 Nuclear PACS
-- Integration and Delivery Systems
-- Mode Controls and Displays
-- Arming and Safety Mechanisms
-- Operational Readiness and Limitations
-
-## AVI-10 Radar Altimeter & Autopilot
-- Radar Altimeter Components
-- System Parameters and Limits
-- Altitude Hold and Altitude Select
-- Steer Modes and Submode Engagement
-- Failure Indications and Overrides
-
-## AVI-11 Built-In Test (BIT)
-- System Test Overview
-- BIT Indicators and Logic
-- Failure Indications and Maintenance
-- Automatic and Initiated BIT Procedures
-
-## AVI-12 Degraded Avionics Operations
-- System Degradations and Effects
-- Corrective Action Protocols
-- AIU Failures and Indications
-- Operational Limitations
-
-## AVI-1 Avionics Introduction
-- System Overview
-- Component Familiarization
-- Glossary and Reference Materials
-
-## AVI-2 MPD-MPCD
-- Display Cycling and Scrolling
-- Master Mode Functions
-- Control Layout and Button Functions
-
-## AVI-3 Upfront Control
-- Basic Setup and Controls
-- Navigation and Mode Selections
-- Menu Navigation and Data Entry
-
-## AVI-4 ADI, HSI & HUD
-- Display Setup and Symbology
-- Navigation References
-- ADI and HSI Integration with HUD
-
-## AVI-5 OWS, VTRS & MC-DTM
-- Operational Usage and Data Recording
-- Maintenance and Troubleshooting Procedures
-
-## AVI-6 Have Quick and KY-58
-- System Overview and Usage
-- Encryption and Secure Communication
-
-## AVI-8 INS
-- Navigation Setup and Calibration
-- Display Modes and Control Layout
-
-## AVI-9 Digital Map System-Tactical Situation Display
-- Setup and Map Management
-- Symbology and User Preferences
-- Tactical Display Integration
-
-## EW-1 Generic Electronic Attack
-- Operational Concepts
-- Frequency Management and Control
-
-## LAN-1 IR Introduction
-- System Overview and Applications
-
-## LAN-2 NAV FLIR
-- Navigation FLIR Display and Usage
-
-## LAN-3 Targeting IR
-- Target Identification and Symbology
-- Sensor Calibration and Alignment
-
-## LAN-4 TFR Introduction
-- System Functions and Limitations
-- Display Modes and Override Options
-
-## LAN-5 TFR Controls and Displays
-- Control Panel and Mode Switches
-- HUD and Map Display Integrations
-
-## LAN-6 TFR Capabilities
-- System Parameters and Altitude Ranges
-
-## LAN-7 TFR Operations
-- Operational Procedures and Protocols
-- Failure Management and Safety
-
-## OPS-1 Task Management & Crew Coordination
-- Responsibilities and Communication Protocols
-- System Coordination and Situational Awareness
-
-## OPS-2 AHC
-- Setup and Calibration Procedures
-- Data Logging and Analysis
-
-## OPS-3 Performance Data
-- Performance Metrics and Indicators
-
-## OPS-4 Formation Procedures
-- Formation Types and Roles
-- Safety Protocols and Positioning
-
-## RDR-1 Radar Introduction
-- System Overview and Functions
-
-## RDR-2 APG-70 Introduction
-- Mode Overviews and Capabilities
-- Symbology and Control Layout
-
-## RDR-3 Air-to-Air Modes Switchology & Displays
-- Mode Selection and Data Displays
-- Operational Parameters and Usage
-
-## RDR-4 AAI EID Employment
-- System Setup and Usage
-- Symbology and Target Identification
-
-## RDR-5 Air-to-Air Radar Employment
-- Operational Considerations and Limitations
-- Mode Overviews and Display Management
-
-## TAC-2 Element Attacks
-- Engagement Strategy and Maneuvers
-- Target Prioritization and Communication
-
-## TAC-5 Mission Planning
-- Planning Framework and Objectives
-- Risk Assessment and Tactical Decisions
+## AAM - Aerial Attack Maneuvering
+- AAM-1 Performance Management
+- AAM-2 Intercepts
+- AAM-3 A/A Mission Tasks
+- AAM-4 Ground Controlled Intercepts (GCI)
+- AAM-5 Offensive Basic Fighter Maneuvers (OBFM)
+- AAM-6 Defensive Basic Fighter Maneuvers
+- AAM-7 2 v X Intercepts
+- AAM-8 High Aspect BFM
+- AAM-9 Air Combat Maneuvering (ACM)
+- AAM-10 Low Altitude Air-to-Air Employment
+
+## AAW - Air-to-Air Weapons
+- AAW-1 A/A Programmable Armament Control Set (PACS)
+- AAW-2 HUD Air-to-Air Displays
+- AAW-3 AIM-9 Employment
+- AAW-4 AIM-7 Employment
+- AAW-5 AIM-120 Employment
+- AAW-6 Gun Employment
+
+## ACG - Aircraft General
+- ACG-1 Aircraft Introduction & Cockpit Overview
+- ACG-2 Propulsion System
+- ACG-3 Fuel System
+- ACG-4 Electrical System
+- ACG-5 Environmental Control System, Canopy & Steps
+- ACG-6 Hydraulic Systems
+- ACG-7 Flight Controls
+- ACG-8 Caution & Warning System Integration
+- ACG-9 Emergency Procedures & Abnormal Operations
+
+## AGD - Air-to-Ground Delivery
+- AGD-1 Low Altitude Awareness Training (LAAT)
+- AGD-2 A/G Programmable Armament Control Set (PACS)
+- AGD-3 Basic Bombing
+- AGD-4 Designations
+- AGD-5 Computed Bombing Modes
+- AGD-6 Continuously Computed Impact Point (CCIP)
+- AGD-7 Dive Toss (DTOS)
+- AGD-8 Loft Delivery
+- AGD-9 Strafe Employment
+
+## AGR - Air-to-Ground Radar
+- AGR-1 A/Ground Radar Introduction
+- AGR-2 APG-70 A/G Introduction
+- AGR-3 Modes, Controls and Displays
+- AGR-4 Navigation
+- AGR-5 Sensor Planning
+
+## AGW - Air-to-Ground Weapons
+- AGW-1 General Purpose Bombs
+- AGW-2 Dispenser Munitions
+- AGW-3 Laser Guided Bombs
+- AGW-4 Pop-Up Attacks
+- AGW-5 Nuclear Weapons Introduction
+- AGW-6 Nuclear PACS
+- AGW-7 Maverick Employment
+- AGW-8 HARM Employment
+
+## AVI - Avionics
+- AVI-1 Avionics Introduction
+- AVI-2 MPD-MPCD
+- AVI-3 Upfront Control
+- AVI-4 ADI, HSI & HUD
+- AVI-5 OWS, VTRS & MC-DTM
+- AVI-6 Have Quick and KY-58
+- AVI-7 TACAN
+- AVI-8 INS
+- AVI-9 Digital Map System-Tactical Situation Display
+- AVI-10 Radar Altimeter & Autopilot
+- AVI-11 Built-In Test (BIT)
+- AVI-12 Degraded Avionics Operations
+
+## EW - Electronic Warfare
+- EW-1 Generic Electronic Attack
+- EW-2 ALQ-131 ECM Pod
+- EW-3 ALR-56C RWR
+- EW-4 ALE-45 CMDS
+
+## LAN - LANTIRN
+- LAN-1 IR Introduction
+- LAN-2 NAV FLIR
+- LAN-3 Targeting IR
+- LAN-4 TFR Introduction
+- LAN-5 TFR Controls and Displays
+- LAN-6 TFR Capabilities
+- LAN-7 TFR Operations
+
+## OPS - Operations
+- OPS-1 Task Management & Crew Coordination
+- OPS-2 AHC
+- OPS-3 Performance Data
+- OPS-4 Formation Procedures
+
+## RDR - Radar
+- RDR-1 Radar Introduction
+- RDR-2 APG-70 Introduction
+- RDR-3 Air-to-Air Modes Switchology & Displays
+- RDR-4 AAI EID Employment
+- RDR-5 Air-to-Air Radar Employment
+
+## TAC - Tactics
+- TAC-1 Tactical Intercepts
+- TAC-2 Element Attacks
+- TAC-3 Tactical Formations
+- TAC-4 Tactical Intercept Timeline
+- TAC-5 Mission Planning

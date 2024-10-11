@@ -10,7 +10,6 @@ Welcome to the AVI - Avionics section. Here you'll find detailed information on 
 - [AVI-4 ADI, HSI & HUD](avi-4.md)
 - [AVI-5 OWS, VTRS & MC-DTM](avi-5.md)
 - [AVI-6 Have Quick and KY-58](avi-6.md)
-- [AVI-7 TACAN](avi-7.md)
 - [AVI-8 INS](avi-8.md)
 - [AVI-9 Digital Map System-Tactical Situation Display](avi-9.md)
 - [AVI-10 Radar Altimeter & Autopilot](avi-10.md)

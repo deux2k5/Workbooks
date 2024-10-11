@@ -6,6 +6,8 @@ The [Original Workbooks](https://drive.google.com/drive/folders/1q_lzNSCejdUwmGa
 
 ## Table of Contents
 
+Several sections are still under construction.
+
 - [AAM - Aerial Attack Maneuvering](aam/index.md)
 - [AAW - Air-to-Air Weapons](aaw/index.md)
 - [ACG - Aircraft General](acg/index.md)

@@ -1,0 +1,1505 @@
+Text from LAN-7_TFR_Operations_page_1.jpeg:
+SUPPORTS COURSES
+FIS5EBQ
+
+FISETX
+
+FISESOC
+
+ACADEMIC STUDENT WORKBOOK
+F-15E
+
+LANTIRN
+LAN-7
+TFR OPERATIONS
+
+AUGUST 2000
+
+(SUITE 3 OFP)
+
+AIR COMBAT COMMAND
+
+
+Text from LAN-7_TFR_Operations_page_10.jpeg:
+e If an autopilot steer mode is engaged prior to coupling the ATF
+(A/P - ALT/NAV), the steer mode remains engaged after ATF
+coupling (A/P - TF/NAV).
+
+e The green A/P light illuminates when a steer mode is engaged in
+ATF. In ATF, the autopilot commands a bank angle up to bank
+angle caret limits. These bank angle limits will vary with the
+selection of different modes (NORM, LPI, VLC) and different set
+clearances.
+
+e In the NAV MM with NAV autopilot steering engaged, the autopilot
+flies the aircraft to the LOS point and turns to the following SP
+upon auto sequencing.
+
+e In the A/G MM, with no designated target and NAV autopilot
+steering engaged, the aircraft flies to the current LOS point and
+turns to the following SP upon auto sequencing.
+
+e In the A/G MM, with a designated target and NAV autopilot
+steering engaged, the aircraft flies to a wind-corrected weapon
+release point or to the target, depending on the selected delivery
+mode and weapon (Table D-1).
+
+“Gaser | aameat oe
+| Auto | | Guided | | Manual | | CIP | Direct | No | No Mode |
+
+— Wpn Rel Wpn Rel
+
+NOTE (1) Selected Weapon:
+AGM-65 Target
+GBU-15 Direct Target
+GBU-15 Indirect Weapon Release Point
+AGM-130 Target
+
+Table D - 1. Steering Cue Versus Delivery Mode.
+
+NOTE
+In A/G master mode with a loft angle programmed and in ATF with a
+
+steer mode engaged, the autopilot will not climb the aircraft to its loft
+weapon release point, but will maintain the current TF SC.
+
+LAN-7 D-4
+
+
+Text from LAN-7_TFR_Operations_page_11.jpeg:
+The cue “ATGT” is displayed on the HUD and the NAV steer mode
+engagement will be indicated on the EHSI (Figures D-1 and D-2). If the
+target remains designated after weapon release, the autopilot will attempt
+to steer back toward the weapon release point. When the target is
+undesignated by the aircrew, steering will be to the next sequence point,
+“ANAV.”
+
+AUTO VW RNG A
+SEQ 20
+
+oe Meg,
+N
+
+fe
+7
+
+G
+
+eee
+
+Figure D - 1. EHSI (Autopilot NAV Steer Mode Engaged).
+
+LAN-07-01
+
+7310
+A TGT 2.A
+§L-- --15 G 1.2
+00:03 TREL
+Py AUTO AGR
+«
+
+7
+
+Aa eT yx
+
+10 L—-- -~4110
+
+LAN-07-02
+
+Figure D - 2. HUD Cues (Autopilot Steer Mode Engaged).
+
+D-5 LAN-7
+
+
+Text from LAN-7_TFR_Operations_page_12.jpeg:
+Auto TF Disengagement
+
+Accomplishment of any of the following actions will disengage auto TF.
+e TF couple switch - OFF.
+® TF power switch to STBY or OFF.
+
+e Depress and hold the paddle switch. This action reverts TF to
+unarmed manual, interrupts but does not disengage basic autopilot
+and disengages any steer mode.
+
+e Stick inputs (without depressing the paddle switch) in excess of
+4.5 lbs forward or 10.6 lbs aft disengage auto TF. This action
+should only be taken as an emergency procedure, due to the induced
+trim errors that may result.
+
+NOTE
+
+ATF disengagement via exceedance of pitch stick force limits also
+illuminates the MASTER CAUTION light, FLT CONTR caution light
+and the MPD/MPCD AUTO PLT caution light. Once back inside TF
+
+parameters you must paddle and release to reenter ATF. Retrimming
+the aircraft may be required before reengagement of ATF.
+
+Bottom Line
+
+When the requirement arises to interrupt ATF to maneuver in pitch, (e.g.,
+threat reaction or weapon delivery), decouple ATF if time allows; if not,
+
+e pull aft on the control stick and climb to MSA or above. (Do not
+depress and hold the paddle switch until at or above MSA.)
+
+® remain above MSA until manual/auto TF reestablished.
+e accomplish the maneuver.
+e release the paddle switch upon reestablishing TF.
+
+e reengage steer mode with the A/P button as required.
+
+LAN-7 D-6
+
+
+Text from LAN-7_TFR_Operations_page_13.jpeg:
+Recovery from maneuvering requires stabilization within TF limits for 1-3
+seconds in NORM, WX and ECCM modes, and 0.5-1.0 seconds in VLC and
+LPI. It is unnecessary to interrupt ATF to maneuver in roll within TF
+limits. Control stick steering will allow you to change the aircraft heading
+by interrupting the engaged steer mode while leaving the autopilot
+altitude hold engaged. However, operating outside of TF roll limits for
+greater than 2 seconds will result in a Mode A flyup. Anytime the paddle
+switch is held depressed, flyup protection is disabled.
+
+Blended Mode
+
+Blended mode involves the coupling of ATF to the altitude hold mode of
+the autopilot and allows the aircraft to fly a higher BARO/RDR altitude
+and still maintain TF protection. Blended mode maintains the current
+BARO or radar altitude until the TF system determines that positive
+incremental Gs are required to maintain the selected TF set clearance.
+Once the terrain has been cleared using ATF, the aircraft recaptures the
+desired BARO or radar altitude (Figure D-3). In blended mode, the bank
+angle caret limits look the same as they do in auto/manual TF (45° left
+and 60° right in normal mode). However, the autopilot roll limit will only
+allow +41.5° bank in the NAV steer mode and +30° bank in the TCN steer
+mode. Blended mode is engaged from either the altitude hold mode of the
+autopilot or from ATF.
+
+(BATF) ATF TO MAINTAIN CLEARANCE.
+(ATF BAR SOLID)
+
+ENGAGE BLENDED MODE (BARO) (ATF BAR DASHED) |
+
+(ATF BAR DASHED)
+BARO HOLD
+
+TRAJECTORY
+
+ALTITUDE
+
+DOWN RANGE DISTANCE
+
+LAN-07-03
+
+Figure D - 3. Blended Mode Operation.
+
+
+Text from LAN-7_TFR_Operations_page_14.jpeg:
+Mode Engagement from Altitude Hold
+
+While in autopilot altitude hold, engage blended mode by placing the TF
+switch to ON and the TF couple switch to COUPLE within 4 seconds. If
+the TF COUPLE switch is NOT set to COUPLE within 4 seconds, MTF
+occurs and the autopilot altitude hold function is disengaged. You can
+also enter blended mode by selecting TF COUPLE first then turning the
+TF radar switch to ON. If all conditions for initiating ATF are satisfied,
+blended mode becomes active.
+
+Mode Engagement from ATF
+
+To engage blended mode from ATF use the UFC A/P submenu. While
+holding the paddle switch depressed, press ALT TF (PB #8) on the A/P
+submenu. Then fly the aircraft to the desired altitude and release the
+paddle switch. Blended mode is engaged at the BARO or radar altitude
+established when the paddle switch is released. The A/P TF designation
+then changes to A/P BATF or A/P RATF (Figure D-4).
+
+AUTOPILOT SUBMENU
+(BLENDED MODE ENGAGED)
+
+OR RDR
+
+LAN-07-04
+
+Figure D - 4. A/P BATF.
+
+LAN-7 D-8
+
+
+Text from LAN-7_TFR_Operations_page_15.jpeg:
+Blended Mode Display Changes
+
+If the altitude hold A/P is in control of blended mode, the ATF pitch bar is
+dashed and the NO TERRAIN caution is inhibited on the HUD and EADI.
+When the ATF is in control (ATF maintaining terrain clearance), the ATF
+pitchbar is solid and the NO TERRAIN caution is active. The green A/P
+indicator light illuminates in each cockpit when blended mode is engaged.
+PB #9 on the UFC Menu 1 and the top line of the A/P submenu display
+either BATF (barometric altitude) as the altitude source or RATF (radar
+altitude) as the altitude source (Figure D-4).
+
+Soft ride is always commanded in blended mode because TF performance
+is better in the transition from ATF to altitude hold. If selected before or
+during blended mode, hard ride will not be implemented until exit from
+blended mode.
+
+Blended Mode Disengagement
+
+There are four options for disengaging blended mode.
+
+e Paddle switch depress. This removes the altitude hold and steer
+mode engaged portion and puts the aircraft in unarmed manual TF.
+When the paddle switch is released, the aircraft reverts to ATF. If
+PB #8 on the A/P submenu is reselected before the paddle switch is
+released, the blended mode reengages at the new altitude where the
+paddle switch is released.
+
+e A/P submenu PB #3. Pressing (deselecting) PB #3 results in exiting
+blended mode and returning to ATF. Toggling PB #4 between RDR
+and BARO changes the altitude source, but does not, of itself,
+disengage blended mode.
+
+e TF couple OFF. This disengages both altitude hold and steer mode,
+and results in MTF.
+
+e TF radar switch STBY or OFF. This disengages all TF and A/P
+modes. The pilot must fly the aircraft.
+
+
+
+Text from LAN-7_TFR_Operations_page_16.jpeg:
+Expanded Blended Mode
+
+The blended altitude/TF mode has been expanded to allow engagement of
+the altitude select autopilot mode capability. Performance is the same as
+blended mode, with the addition of a smooth transition from one altitude
+to another by entering the new altitude into the altitude select on the A/P
+submenu. Altitudes between 1000 feet and 50,000 feet can be selected.
+You must be between 360 knots ground speed and .97 mach. When the
+newly selected altitude is achieved, the aircraft will transition to the
+blended mode.
+
+Mode Engagement from Blended Mode
+
+The expanded mode is most easily entered from blended mode. While in
+blended mode select the autopilot submenu on the UFC. Type the desired
+altitude into the scratchpad and enter it by pressing PB #8 (Figure D-5).
+This action initiates the mode and the aircraft starts the appropriate
+climb or descent.
+
+Neel) (e)
+
+LAN-07-05
+
+Figure D - 5. UFC Entry to Altitude Select from Blended Mode.
+
+LAN-7 D-10
+
+
+Text from LAN-7_TFR_Operations_page_17.jpeg:
+Mode Engagement from Visual Low Level Flight
+
+To engage the expanded blended mode, the aircrew must first engage the
+TF capability. Move the TF couple switch to the COUPLE position and
+move the TF RDR switch from STBY to ON. During the 4 second
+handshake period while the TF engages, the UFC A/P submenu windows
+3 and 4 are blank (Figure D-6).
+
+Eel: &
+
+LAN-07-06
+
+Figure D - 6. UFC During Four Second Handshake Following TF Couple.
+
+
+Text from LAN-7_TFR_Operations_page_18.jpeg:
+Following this period, if the engagement is successful, the display will
+reflect the expanded blended mode (Figure D-7). If the engagement fails,
+the system reverts to pitch attitude hold with the accompanying TF
+warnings.
+
+LAN-07-07
+
+Figure D - 7. Expanded Blended Mode.
+
+LAN-7 D-12
+
+
+Text from LAN-7_TFR_Operations_page_19.jpeg:
+Mode Engagement from Auto TF
+
+To engage the expanded blended mode from auto TF, depress and hold the
+paddle switch (CSO). While held, the UFC autopilot menu displays the
+blended mode selections. Press PB #38, which selects blended mode, enter
+requested altitude in the scratchpad and transfer to PB #8 (which adds
+the altitude selection), then release the paddle switch. The aircraft will
+begin the appropriate climb or descent.
+
+Expanded Blended Mode Disengagement
+
+Disengagement of the altitude select mode can be by many actions.
+Table D-2 summarizes these actions and their results.
+
+ACTION RESULT
+
+Deselect ALT SEL TF on UFC A/P
+Menu PB #3 uate TF
+
+Select “Select Altitude” on UFC Blended mode at current altitude
+A/P Menu PB #8 with no (defaults to 31,000' but will not
+
+scratchpad entry climb without power increase)
+
+Paddle Switch — depress then Unarmed manual then Auto TF
+release
+
+TF Couple to OFF Manual TF
+TF RDR to OFF or STBY CAS
+
+Table D - 2. Altitude Select Disengagement.
+
+Blended/Expanded Blended Mode Failures
+
+While in the blended/expanded blended mode, an A/P altitude hold failure
+will cause the aircraft to revert to MTF. A TF failure will result ina
+flyup. A TF unarmed condition will result in pitch attitude hold.
+
+
+Text from LAN-7_TFR_Operations_page_2.jpeg:
+ADMINISTRATIVE INFORMATION
+
+This student workbook is designed to provide information on the F-15E,
+its systems and capabilities. It is not a sole source document, but is to be
+used in conjunction with other standard Air Force publications and
+technical manuals. If you find any differences between the material
+contained herein and other governing regulations, adhere to the
+regulations and notify the OPDR.
+
+Changes to this workbook are indicated with a heavy black line in the left
+margin.
+
+Forward recommendations for revision or change to 4 TS, SJAFB NC
+27531.
+
+Supersedes: LAN-7, August 1999
+
+OPDR: 4TS
+
+Index of Changes
+
+Effective Date Pages Affected
+
+
+
+Text from LAN-7_TFR_Operations_page_20.jpeg:
+Mode Failures and Indications
+
+Prior to the Suite 3 change, the aircrew had no indication of why an
+autopilot/TF event occurred. Since causes for these events include both
+system failures (not directly under pilot control) and limit exceedances
+(initiated by pilot action), knowing the cause allows the pilot to take the
+appropriate corrective action.
+
+Both the cause and/or existing functional failure are displayed on the
+STATUS page under AFCS DETAIL under BIT. When weight is off
+wheels, DETAIL defaults to the STATUS page (Figure D-8) with
+maintenance faults available by selecting FAULTS at PB #13. With
+weight on wheels, the display will default to FAULTS with STATUS
+selectable at PB #13.
+
+BUILT-IN TEST
+AUTOPILOT/TF STATUS
+
+AUTOPILOT CAUTION: AOA LIMIT
+
+TF FLYUP: CARA DATA FAIL
+
+UNARMED WARNING: PITCH TRIM LIMIT AFCS
+NO ATF WARNING: PITCH FORCE LIMIT
+
+aa
+
+FAULTS
+
+FUNCTIONAL FAILURES
+
+G
+:
+
+CASI SERVOLOOP NON HYDRAULIC BIT
+R/CIP STICK CAS RUDDER PEDAL
+SPIN RECOVERY ROLL LIMIT
+
+LAN-07-08
+
+Figure D - 8. Detailed STATUS Page.
+
+LAN-7 D-14
+
+
+Text from LAN-7_TFR_Operations_page_21.jpeg:
+The seven latest events are displayed with the most recent at the top of
+the list. The following cautions and/or warnings can result from the listed
+
+failures or events.
+
+AUTOPILOT CAUTION
+
+Roll Rate Limit
+AOA Limit
+
+Flight Path Limit
+CARA Alt Limit
+CAS Axis Off
+AFCS BIT Fail
+MUX Data Fail
+CARA Data Fail
+TACAN Data Fail
+
+FLYUP
+
+Flight Path Limit
+Roll Limit
+
+Turn Accel Limit
+Pod INS Limit
+Pitch Ratio
+
+CAS Axis Off
+Mode Request Fail
+Backup Mode
+
+Pod Data Fail
+MUX Data Fail
+CASI Arming Fail
+
+UNARMED WARNING
+Bank Angle Limit
+
+Drift Angle Limit
+
+Pitch Angle Limit
+
+INS Data Fail
+
+NO ATF WARNING
+Pitch Force Limit
+Blended A/P Fail
+
+Normal Accel Limit
+Pitch Trim Limit
+Speed Limit
+
+Roll CMD Limit
+Mode Request Fail
+INS Data Fail
+
+FCC Tracking Fail
+Air Data Fail
+
+CARA Alt Limit
+Turn Rate Limit
+Dive Limit
+
+Pod G-Limit
+Obstacle Ahead
+Alt Override
+AFCS BIT Fail
+G Cmd Mon Fail
+FCC Tracking Fail
+CARA Data Fail
+INS Data Fail
+
+Speed Limit
+Flight Path Limit
+Pitch Trim Limit
+CASI Arming Fail
+
+Alt Override
+
+D-15 LAN-7
+
+
+Text from LAN-7_TFR_Operations_page_22.jpeg:
+OPERATIONAL CONSIDERATIONS
+Mission Planning
+
+TF operations suggest that a surreptitious entry and exit from an area is
+desired. Therefore, be well acquainted with the terrain you will fly over.
+Plan your route to provide terrain masking and avoid high ridge crossings
+and man-made objects like power lines and towers. Recognize the
+potential no-show areas such as sand dunes, snow covered peaks, dry
+lakes and bodies of water. Plan the use of clearance plane settings
+commensurate with the threat and the terrain.
+
+Weather may degrade NAV FLIR resolution and require WX1 or WX2
+mode for continued TF flight. Remember peak height restrictions for the
+WX and ECCM modes. If you are heavy, you may consider routing
+through less rugged terrain and avoid deep valleys and steep ridges. Keep
+minimum speeds in mind. Have a solid route abort plan for each segment
+of your TF flight. Determine appropriate MSA for combat and training.
+Recognize reduced bank angles due to fuselage masking. Know who to
+talk to and what to squawk if you exit a route. Review the Dash 34-1-1 for
+additional mission planning considerations.
+
+Ground Operations
+
+You must thoroughly check all LANTIRN components and associated
+systems prior to takeoff.
+
+After the TFR and NAV FLIR have timed in (TF STBY and N/F STBY on
+UFC Menu 1), run an AIU (or auto) BIT, then run the LANT/RALT BIT.
+Running the BIT before both systems have timed in (or with one system
+OFF) may produce false failure indications. After the BIT, have the crew
+chief check the NAV pod BIT indicators to see if any components have
+failed, and if so, start another BIT and call for a “redball.” If a specialist
+asks you to cycle the power on the pod, turn both the TFR and NAV FLIR
+to OFF and allow one minute in OFF before returning to STBY.
+
+This prevents a power surge, which may trip circuit breakers in both the
+aircraft and pod. The TFR will require an additional 3 minutes to time in.
+
+Before takeoff, check the BIT page for any faults in the TF RDR, NAV
+
+FLIR, AFCS, RALT (radar altimeter), AIU, INS, ADC and MPDP. Each
+of these systems plays an important role in TF operations.
+
+LAN-7 D-16
+
+
+Text from LAN-7_TFR_Operations_page_23.jpeg:
+Airborne Operations
+
+Prior to TF operations, perform a confidence check of the TFR system [AW
+the Dash 1 and Dash 34-1-1. Before low level operations, accomplish as
+many cockpit administrative tasks as possible. Changing radio
+frequencies, A/A 'TACAN, selecting displays or arranging your kneeboard
+paperwork are a few tasks not appropriate during a TF descent.
+
+Both crew members should pay special attention to verifying that their
+standby attitude indicators are properly set. Periodically cross-check the
+standby attitude indicator throughout the flight so that if an MPDP fails
+during night TFR operations, the standby instruments can be used during
+the flyup.
+
+TFR Requirements
+
+AFI 11-2F-15E, Volume 3 and 4FW Supplement, Chapter 8 lists TFR
+requirements as follows:
+
+e > 400 KCAS in mountainous terrain
+
+e Night — avoid let-downs into rugged terrain
+
+e TFR not authorized until confidence check is complete
+e If any part of the confidence check or any component fails,
+abort or fly at MSA/RAA
+
+e Operating outside TF limits below MSA is not authorized
+e Pilots — no heads down sensor operations outside TF limits
+
+e TF malfunctions — climb to MSA/RAA, clear malfunctions
+and then continue
+
+
+Text from LAN-7_TFR_Operations_page_24.jpeg:
+e Minimum equipment:
+
+TF radar
+
+E-scope
+
+INS
+
+CARA/radar altimeter
+
+Maximum of one failed display per cockpit
+
+HUD and MPCD required in FCP
+
+No unarmed manual TF
+
+Select EADI and verify STBY ADI accuracy before loft
+delivery
+
+Use pilot night minimums for LANTIRN deliveries
+NAV FLIR HUD
+
+MPDP — AIU
+
+One radio
+
+Cautions
+e ROLL > 60° bank
+e TURN RATE > bank carets but < 60
+e TURN ACCEL > 2.2°/second
+e DIVE > 15°
+e INS LIMIT > 10° drift, > 40° pitch, > 85° roll
+e AIRSPEED < 400 KGS — steady
+< 370 KCAS or > .96 Mach — flashing
+< 360 KGS — all TF symbology removed
+
+e NO TERRAIN means the TF radar not seeing terrain at the
+-2 G line
+
+LAN-7 D-18
+
+
+Text from LAN-7_TFR_Operations_page_25.jpeg:
+L-NV'I 61-d
+
+uorpeIIp oz1soddo ut yeedoy
+
+(suanjer
+x0q ALIN ‘Saeoddestp uorjnes TIOY)
+[OAS] SSULM 0} [[OY
+‘dnjeg 6 - gq ems
+(saeoddestp
+x0q LIN ‘uornes TTOY) “
+Spuooes ¢ < Ue .GL-09 9} T1904
+
+NO - addy AL
+
+NO- WIV Udy
+
+pejyetiqg se — Aouonbey I,
+persep S® CYVH/LAOS — epry
+WUYON — 9polt AL
+
+NO/?°S — SMV'T 006
+
+pex0g — OS ,000T
+
+(6-d eansiq) dnjeg
+
+SDM 007/SVOM O9E < — OPN BFeS — onorUy
+SYdoYQ VdUSpTyUOD 9ug Yyseq
+
+ejsue
+yueq .G) < ‘opsue quip OF < “YEP .OT < ‘SDM 09E > :petqestp dn4pq
+
+spuooos< TAIT —®
+spuoses < THOOVNENL ©
+spuooes 7<QLVYNUNL e
+
+spuoses Z<T1OU e@
+
+dnA]q ony
+
+
+Text from LAN-7_TFR_Operations_page_26.jpeg:
+TF Couple Method — Mode A Flyup
+(Figure D-10)
+
+Paddle switch — hold
+(UNARMED/NO ATF light — on,
+“bink-bink’”)
+
+Roll to between caret and 75°
+bank
+
+LAN-07-10
+
+Figure D- 10. TF TF couple switch - COUPLE
+Couple Method.
+Paddle switch — release
+(FLYUP warning, TF FAIL
+warning — on, “TF FAIL-TF
+FAIL” voice warning, aircraft
+rolls wings level and performs a
+
+flyup)
+
+Paddle switch — hold (flyup
+terminated, roll back to within
+TF limits and release paddle
+switch; “TF FAIL-TF FAIL”
+voice warning overrides the
+“bink-bink” until shut-up Betty
+button is pressed)
+
+ATF pitch bar reappears,
+UNARMED/NO ATF light — out
+
+LAN-7 D - 20
+
+
+Text from LAN-7_TFR_Operations_page_27.jpeg:
+LAN-07-11
+
+Figure D- 11. CARA
+Method.
+
+CARA Method — Mode A Flyup
+(Figure D-11)
+
+Roll to 10° bank angle
+Radar altimeter switch — OFF
+
+(FLYUP warning, TF FAIL
+warning — on, “TF FAIL-TF
+FAIL” voice warning, aircraft
+rolls wings level and performs a
+
+flyup)
+
+Paddle switch — hold (flyup
+terminated, UNARMED/NO
+ATF light — on, “TF FAIL-TF
+FAIL” voice warning overrides
+“bink-bink” until shut-up Betty
+button is pressed)
+
+Paddle switch — hold until
+radar altimeter times in
+(30 seconds)
+
+Paddle switch — release
+
+(UNARMED/NO ATF light —
+out)
+
+LAN-7
+
+
+Text from LAN-7_TFR_Operations_page_28.jpeg:
+Figure D - 12. 75%
+
+LAN-7
+
+LAN-07-12
+
+Clearance Method.
+
+75% Clearance Method — Mode A
+Flyup (Figure D-12)
+
+(This method is prohibited at some
+bases and rarely used at all others.)
+
+LAWS — 900' set
+SC — 1000' set
+
+Begin shallow dive (flight
+vector slightly below manual
+TF box)
+
+Passing 900' AGL — LOW
+ALTITUDE warning
+
+At 750' AGL (FLYUP
+warning, no voice warning)
+
+Paddle switch — hold at MSA
+(flyup terminated,
+UNARMED/NO ATF light —
+on, “bink-bink”)
+
+Paddle switch — release
+(UNARMED/NO ATF light —
+out)
+
+
+Text from LAN-7_TFR_Operations_page_29.jpeg:
+TF Descent
+
+The initial descent is normally accomplished to 1000 feet SC. Both crew
+members should monitor the TF display during the descent. Some rules of
+thumb for a let-down from medium altitude to 1000 feet SC, over level
+terrain include:
+
+@® max commanded dive is 12°.
+
+e TF video at 1 nm mark passing 2600 feet AGL (12° dive, 480 GS)
+(2000' + %2 dive angle x 100’).
+
+e = pullout/level off begins not later than 1600 feet AGL
+(12° dive, 480 GS) (1000' + 2 dive angle x 100’).
+
+e descend over level terrain if possible and cross-check MSL altitudes
+against radar altitudes.
+
+In some cases, the TF let-down is accomplished from a VFR departure at
+lower altitudes (i.e., 4500 feet AGL). In this case, a full dive does not
+occur, but the crew should verify that the pullout occurs when video
+returns reach the ZCL. In either case, planned recovery initiation altitude
+(RIA) should be established to allow for a wings level recovery at MSA
+should TF protection be lost during the descent.
+
+
+Text from LAN-7_TFR_Operations_page_3.jpeg:
+LANTIRN
+
+COVER
+
+TFR OPERATIONS
+
+INTRODUCTION
+
+This workbook is your study guide for the terrain following radar
+capabilities and operations course. You will be expected to be able to
+answer questions about the areas covered by the criterion referenced
+objectives (CROs) at the end of this lesson.
+
+CONTENTS:
+
+INTRODUCTION 0.000. eeecceesseeeesneeceseeeeesaeecesaeeeessaeeessaeeessaeesessaeeens A-1
+CRITERION REFERENCED OBJECTIVES (CROs).............eeeeseeeeeeeeees B-1
+STUDENT PREPARATION REQUIREMENTS . 0.00... eeeeeeeeeeeeeeee C-1
+CEE os ses sans sos cores nos nas ois cua cares canis ans as RSA SNS Onis aU KUNE kK NewS SHES KoRKG MU NaS HSS aUD KR D-1
+END OF TEXT QUIZ ou. ececcccesseeecesneeceesaeecesacesensaeecesaeeseseeeenaees E-1
+(ina) F-1
+
+
+Text from LAN-7_TFR_Operations_page_30.jpeg:
+TF Let-down (Figure D-13)
+
+Set: 1000' SC, 900’ LAWS, box — NORM on TF display
+
+Flyup enable switch — ON
+
+TF radar — ON
+
+Radar altimeter — ON
+
+AUTO/ARMED manual descent (velocity vector in MTF box; 12° descent)
+
+TF couple switch —- COUPLE (or 12° ARMED manual let-down)
+TF COUPLE SWITCH - COUPLE (OR 12° ARMED MANUAL LET-DOWN)
+
+—
+
+2600' AGL VIDEO AT 1 NM
+
+LEVEL OFF BEGINS AT 1600'-2000' AGL
+
+5000' AGL (NLT 1600' AGL)
+
+LEVEL OFF AT 1000' AGL {
+
+LAN-07-13
+
+Figure D - 13. TF Descent.
+
+LAN-7 D - 24
+
+
+Text from LAN-7_TFR_Operations_page_31.jpeg:
+Step Up Time Delay (Figure D-14)
+
+Time to allow aircraft to climb to a higher SC without tripping the TF
+LOW and FLYUP warnings.
+
+(new altitude - old altitude) + 50 + 4 seconds
+
+In this example, (100 - 200) + 50 + 4 = 20 seconds delay
+
+1000' AGL
+
+4
+200' AGL
+
+LAN-07-14
+
+Figure D - 14.
+
+
+Text from LAN-7_TFR_Operations_page_32.jpeg:
+Recovery Initiation Altitude (Figure D-15)
+
+The altitude to begin wings level pull to level off at MSA if not in TF
+parameters and with full TF protection.
+
+Planned recovery rollout point (heading), + 5 nm either side of
+course, 8 nm corridor
+
+Highest terrain or object (MSL) in corridor
+
++ 1000 ft
++ altitude lost during recovery
+= RIA
+5NM
+4100' MSL
++1000'
+EGRESS HDG ROLLOUT POINT — +600!
+5700' MSL = RIA
+4100' MSL
+LAN-07-15
+
+Figure D - 15.
+
+LAN-7 D - 26
+
+
+Text from LAN-7_TFR_Operations_page_33.jpeg:
+Low Level Navigation
+
+The TSD provides a great deal of situational awareness for TFR. It
+provides a cross-check of aircraft position versus courseline, permits
+anticipation of turns and helps in selecting a route of flight that optimizes
+terrain masking. Look for valleys and ridgelines on the TSD and compare
+them to what appears through the NAV FLIR and on the E-scope. The
+TSD should have a 45° bank angle and 480 knots set for the course line
+reference.
+
+Occasionally exceeding TF limits is inevitable, but the crew should take
+immediate action to correct the situation. Usually this means reducing
+the bank angle. For an OBST caution in the direction of turn, roll wings
+level until the OBST caution is removed, then resume the turn.
+
+Operating Limitations
+The following are Dash 1, Chapter 5 limitations.
+
+e Minimum SC for manual TF in mountainous terrain in IMC is 500
+feet. Mountainous terrain is defined as a vertical change which
+equates to a 15% slope change.
+
+e Terrain following is prohibited with a degraded INS attitude
+platform or TF attitude fail or after performing an in-flight
+alignment.
+
+e Airspeed should be maintained above 370 KCAS and 400 knots GS
+to avoid TF algorithm inaccuracies. TF operations above 0.96 mach
+(650 knots GS) are prohibited. LANTIRN operations above 0.9
+mach may cause overheating of both pods. A NAV POD HOT or
+TGT POD HOT caution may indicate that the pod is being flown
+outside its environmental limitations.
+
+e Refer to Aircraft Operating Envelope With Single (Both) LANTIRN
+Pod(s) Installed for airspeed limits with one or both pods installed.
+
+
+Text from LAN-7_TFR_Operations_page_34.jpeg:
+CREW COORDINATION
+
+Good crew coordination is essential during all phases of flight, but it is
+particularly critical for night TFR. The techniques discussed here are
+merely a foundation. Every crew member must develop his own habit
+patterns and cover them in the crew briefing. Know what to expect from
+the other crew member before stepping to the aircraft.
+
+Pilot
+
+The pilot’s primary responsibility is flying the aircraft. In manual TFR,
+this means keeping the velocity vector in or above the TF steering box and
+staying within bank limits. All other tasks are secondary, especially at
+night when visual cues are limited.
+
+The pilot usually has responsibility for navigation, using the TSD and
+NAV FLIR to select the best route of flight for terrain masking. However,
+if the WSO needs to make an HRM map the pilot may need to fly a
+particular path through the hills, so cross talk is essential.
+
+During auto TF, the pilot task loading is significantly changed and he can
+shift some attention to other tasks. Threat analysis, E-scope
+interpretation and assisting the WSO are options in auto TF that were not
+available during manual TF, but the pilot is still responsible for “flying”
+the aircraft, using ATF to reduce workload.
+
+WSO
+
+The WSO’s primary responsibility is sensor operation (A/G radar, A/A
+radar, TGT IR). Whenever possible, the WSO should perform cockpit
+duties such as radio changes, IFF/AAI changes and other UFC operations.
+This reduces task loading on the pilot and permits the pilot to concentrate
+on the primary task. The WSO also backs up the pilot by monitoring the
+TF E-scope and the HUD repeater. During some phases of flight, the
+WSO may wish to use RBM to provide an additional sensor for terrain
+avoidance (for example, in areas of reduced FLIR visibility or approaching
+a coastline with rapidly rising terrain) or to locate weather cells for
+avoidance.
+
+LAN-7 D - 28
+
+
+Text from LAN-7_TFR_Operations_page_35.jpeg:
+Pilot and WSO
+
+Either crew member can make changes to TF mode, SC or ride selection;
+however, always coordinate with the other crew member before changing
+something that will affect the aircraft’s flight path. Sometimes changing
+one system affects another. For example, when descending to a lower SC,
+it is important to reset the LAWS to avoid an unwanted LOW ALTITUDE
+warning.
+
+Some failures demand your attention. For instance, TF FAIL and FLYUP
+may accompany a BIT failure. Both crew members should make certain
+the aircraft is level and at a safe altitude before initiating any BITs. If an
+AV BIT caution light occurs during TF flight, a crew member (usually the
+WSO) should select a BIT display to see if the failure involves a LANTIRN
+component or associated system.
+
+During the attack phase of the mission, both crew members face an
+increase in task loading. The WSO is often busy with radar work, and
+during the delivery, the pilot may be required to devote more attention to
+acquiring the target in the NAV FLIR. To avoid task saturation, a good
+understanding of each other’s duties is vital. Prior to a maneuvering
+attack, such as a loft, each crew member should select an ADI display,
+verify standby ADI operation and confirm that the other crew member has
+done so as well. At least one crew member (again, usually the WSO)
+should monitor a TF display during the attack and recovery maneuver.
+Verbally confirm such parameters as pull-down altitude, release altitude,
+MSA and egress heading.
+
+The LANTIRN system provides the F-15E with a tremendous increase in
+versatility, but it places high demands on the crew. Only by developing
+effective crew coordination techniques can the system’s full capability be
+realized.
+
+
+Text from LAN-7_TFR_Operations_page_36.jpeg:
+(This Page Intentionally Blank)
+
+LAN-7 D - 30
+
+
+Text from LAN-7_TFR_Operations_page_37.jpeg:
+END OF TEXT QUIZ
+
+During manual TF, while maneuvering within TF limits, automatic
+flyup protection is provided
+
+at all times with the TF switch ON.
+
+if the CARA is not in OFF or OVERRIDE.
+if the flyup enable switch is ON.
+
+if the autopilot altitude hold is engaged.
+
+Boop
+
+While flying ATF, the green A/P light illuminates
+
+a. when placing the TF couple switch to COUPLE.
+
+b. at all times.
+
+c. in the A/G master mode with a designated target.
+
+d. when an autopilot steer mode is engaged.
+
+The cue is displayed on the HUD during ATF operation
+
+while in the A/G MM, with a designated target (3.A) and NAV
+autopilot steering engaged.
+
+a. ATGT 3.A
+
+b. NAV 3.A
+
+c. TGT 3.A - NAV
+
+d. A/P TGT 3.A
+
+A dashed ATF pitch bar is displayed in the mode while
+the is in control of the aircraft.
+
+a. ATF; TF radar
+
+b. blended; TF radar
+
+c. ATF; autopilot altitude hold
+
+d. blended; autopilot altitude hold
+
+
+Text from LAN-7_TFR_Operations_page_38.jpeg:
+LAN-7
+
+Anytime the paddle switch is pressed and held during TF
+operations, the system reverts to
+
+unarmed manual TF.
+
+armed manual TF (with flyup enable ON).
+autopilot altitude hold.
+
+blended mode, if altitude hold is selected.
+
+pe op
+
+While in blended mode, a TF failure will
+
+cause the aircraft to revert to MTF.
+result in autopilot pitch attitude hold.
+default back to autopilot altitude hold.
+result in a flyup.
+
+pe op
+
+
+Text from LAN-7_TFR_Operations_page_39.jpeg:
+A/A
+A/G
+
+A/P
+
+ADC
+ADI
+AFCS
+AGL
+AIU
+ALT
+ASL
+ATF
+BATF
+BIT
+CDIP
+CSO
+CSS
+ECCM
+EHSI
+FCC
+
+FLIR
+
+GLOSSARY
+Air-to-air
+Air-to-ground
+Autopilot
+Air-to-air interrogator
+Air data computer
+Attitude director indicator
+Automatic flight control system
+Above ground level
+Avionics interface unit
+Altitude
+Azimuth steering line
+
+Automatic terrain following
+
+Baro altitude automatic terrain following (blended mode)
+
+Built-in test
+
+Continuously displayed impact point
+
+Control stick override
+
+Control stick steering
+
+Electronic counter countermeasures
+
+Electronic horizontal situation indicator
+
+Flight control computer
+
+Forward looking infrared
+
+LAN-7
+
+
+Text from LAN-7_TFR_Operations_page_4.jpeg:
+CRITERION REFERENCED OBJECTIVES (CROs)
+1. Identify the manual/auto/blended TF operational characteristics.
+
+2. Identify TF System switch actions requried for mode seleciton,
+flyup operations, and mode overide.
+
+REFERENCES
+
+TO 1F-15E-34-1-3 Section I
+
+TO 1F-15E-1 Sections IT and V
+TO 1-1M-34 Section III
+
+LAN-7 B-1
+
+
+Text from LAN-7_TFR_Operations_page_40.jpeg:
+GT
+
+HRM
+
+HUD
+
+IAW
+
+IMC
+
+IFF
+
+INS
+
+IR
+
+KCAS
+
+KGS
+
+LANT
+
+LANTIRN
+
+LAWS
+
+LOS
+
+LPI
+
+MM
+
+MPDP
+
+MSA
+
+MSL
+
+MTF
+
+NAV
+
+RALT
+
+LAN-7
+
+Ground track
+
+High resolution map
+
+Head-up display
+
+In accordance with
+
+Instrument meteorological conditions
+Identification friend or foe
+
+Inertial navigation system
+
+Infrared
+
+Calibrated airspeed in knots
+
+Knots ground speed
+
+LANTIRN; Low altitude navigation and targeting infrared
+for night
+
+Low altitude navigation and targeting infrared for night
+Low altitude warning system
+
+Line of sight
+
+Low probability of intercept
+
+Master mode
+
+Multipurpose display processor
+
+Minimum safe altitude
+
+Mean sea level
+
+Manual terrain following
+
+Navigation
+
+Radar altimeter
+
+
+Text from LAN-7_TFR_Operations_page_41.jpeg:
+RATF
+
+RBM
+
+RDR
+
+SC
+
+SCP
+
+SP
+
+STBY
+
+TCN
+
+TF
+
+TFR
+
+TGT
+
+TSD
+
+UFC
+
+WSO
+
+ZCL
+
+Radar altitude automatic terrain following (blended mode)
+Real beam map
+
+Radar
+
+Set clearance
+
+Sensor control panel
+
+Sequence point
+
+Standby
+
+TACAN; Tactical air navigation
+Terrain following
+
+Terrain following radar
+
+Target
+
+Tactical situation display
+Upfront control
+
+Visual flight rules
+
+Very low clearance
+
+Weapons systems officer
+Weather
+
+Zero command line
+
+
+Text from LAN-7_TFR_Operations_page_42.jpeg:
+BACK PAGE
+COVER SHEET
+
+
+Text from LAN-7_TFR_Operations_page_5.jpeg:
+STUDENT PREPARATION REQUIREMENTS
+
+BEFORE CLASS
+
+1.
+
+Study the information contained in section D of this workbook and
+complete the End of Text Quiz.
+
+Read TO 1F-15E-1, Section V, Terrain Following Restrictions.
+Read TO 1F-15E-34-1-1, Section I, Navigation Pod references.
+
+Read TO 1-1M-34, Section III, LANTIRN System.
+
+
+Text from LAN-7_TFR_Operations_page_6.jpeg:
+(This Page Intentionally Blank)
+
+LAN-7 C-2
+
+
+Text from LAN-7_TFR_Operations_page_7.jpeg:
+TEXT
+MANUAL, AUTO AND BLENDED TF OPERATIONS
+Manual TF
+
+Manual TF operations require the pilot, through flight control input, to
+maintain the desired terrain clearance by keeping the velocity vector in
+the TF “box.” Further, the pilot is responsible to stay within the TF limits
+covered in previous lessons. Small deviations during manual TF
+operation are to be expected, but constant attention must be dedicated to
+following climb and dive commands and remaining within TF limits.
+
+Armed Manual
+
+The pilot maintains terrain clearance and the aircraft within TF limits by
+following the TF “box” climb and dive commands. Auto flyup protection is
+provided in that should any flyup commands occur due to component
+failure or obstacles in your flight path, the command is sent directly to the
+flight controls and the flyup is accomplished without pilot input.
+
+Unarmed Manual
+
+Unarmed manual is the same as armed manual, but auto flyup protection
+is not provided and the pilot must accomplish any commanded flyup. The
+use of unarmed manual TF has been largely restricted by Higher
+
+Headquarters. The use of either TF mode in IMC conditions is prohibited.
+
+Manual with Radar Altimeter in Override
+
+Manual pilot inputs are required to maintain TF limits and terrain
+clearance. If the tactical situation dictates TF with a failed or jammed
+radar altimeter, placing the radar altimeter in override will allow manual
+TF operation. The radar altimeter will be off and safety features and
+warnings provided by the FCC low altitude monitors are removed. There
+is no peacetime situation to warrant flying manual TF with the radar
+altimeter in override.
+
+
+Text from LAN-7_TFR_Operations_page_8.jpeg:
+LAN-7
+
+WARNING
+
+If MTF is conducted with the radar
+altimeter switch in OVERRIDE, all TF
+low altitude flyup and low altitude
+warning functions are inoperative. The
+TF flyup enable switch must be placed in
+the OFF position; otherwise, a TF FAIL
+condition will exist and the crew will
+experience continual flyups. Over
+rolling/rough terrain it is possible to cross
+ridges significantly lower than the SC.
+
+CAUTION
+
+If the radar altimeter switch is in
+OVERRIDE, the LAW function must be
+turned off (UFC Menu 1) to avoid
+activation of the low altitude voice
+warning and warning light.
+
+
+Text from LAN-7_TFR_Operations_page_9.jpeg:
+Auto TF
+
+Placing the TF couple switch to COUPLE initiates auto TF operations.
+This coupling of the TF system to AFCS and the autopilot enables the
+crew to terrain follow and navigate almost “hands off.”
+
+e When initially coupling TF with no steer mode previously engaged,
+only the “basic” autopilot attitude hold is engaged to the TF radar.
+
+e If you have greater than 7° bank, the system will maintain
+the bank angle at engagement until a steer mode is engaged
+or the aircrew makes manual steering inputs.
+
+e If you have less than 7° bank, the system will maintain
+wings level at engagement until a steer mode is engaged or
+the aircrew makes manual steering inputs.
+
+° A steer mode may be engaged after coupling by either
+selecting it via PB #3 on the autopilot submenu on the UFC
+or by depressing the A/P button on the UFC.
+
+NOTE
+
+In auto TF rolling outside of TF limits for greater than 2 seconds will
+result in a flyup. You must return to within TF limits, then paddle
+and release to discontinue the flyup and reenter auto TF.
+
+If bank angle is between the bank angle carets and 60° (turn
+rate caution) you will get an auto FLYUP and TF FAIL until
+
+returning to within limits and paddle and release.
+
+If bank angle is between 60 and 75 degrees (roll caution) you
+
+will get an auto FLYUP and TF FAIL until returning to within
+limits and paddle and release.
+
+If bank angle is between 75 and 85 degrees you will get a
+“bink-bink” tone, TF FAIL, MASTER CAUTION light,
+UNARMED/NO ATF light and an AUTOPILOT caution on the
+MPD/MPCD the associated FLYUP commands displayed on the
+HUD/MPD/MPCDs must be manually accomplished until you
+return to within limits and paddle and release. At more than 75
+degrees of bank you are outside of the auto flyup envelope.
+
+
+

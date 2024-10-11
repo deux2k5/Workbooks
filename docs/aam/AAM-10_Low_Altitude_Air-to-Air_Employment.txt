@@ -1,0 +1,995 @@
+Text from AAM-10_Low_Altitude_Air-to-Air_Employment_page_1.jpeg:
+SUPPORTS COURSES
+FIS5EBQ
+FISETX
+
+ACADEMIC STUDENT WORKBOOK
+F-15E
+
+AERIAL ATTACK MANEUVERING
+AAM-10
+LOW ALTITUDE AIR-TO-AIR
+EMPLOYMENT
+
+JULY 1998
+(OFP N/A)
+
+AIR COMBAT COMMAND
+
+
+Text from AAM-10_Low_Altitude_Air-to-Air_Employment_page_10.jpeg:
+Loss of two-ship visual mutual support significantly increases the threat
+to the trailing aircraft. Since the flight is confined to a predictable flight
+path, ground threats are forewarned when the lead aircraft passes by,
+expecting the wingman to pass the same area. Airborne threats are able
+to attack the trailing aircraft and remain unseen by the leader. In low
+threat areas, wedge is a good option for flexibility of employment and ease
+of maneuver. While flying wedge formation, tactical airspeeds must be
+adapted to terrain. In other words, 450-500 knots (KCAS) may be too fast
+when flying over rough mountainous terrain. Do not get slower than 350
+(KCAS)! This gives a small turn radius and an acceptable turn rate while
+maintaining the ability to abort the route vertically, if necessary.
+However, close attention is required to avoid airspeed bleed-off during
+repeated maneuvering.
+
+Airspeed
+
+Airspeed response to throttle adjustments is quicker at low altitudes than
+at medium/high altitude. In standard tactical formation, 450-500 KCAS is
+probably the best operating airspeed to provide offensive and defensive
+maneuvering potential. If the goal is to avoid the threat, consider higher
+speed (500-600 KCAS). Realize however, that aircraft deceleration is poor
+above 500 KCAS, is better from 500-450 KCAS, and is excellent below 450
+KCAS. At airspeeds above 500 KCAS, turn radius increases significantly
+and speed brake extension is minimal, due to air loads. Full speed brake
+extension is available below 450 KCAS. The low altitude step down
+training (LASDT) acceleration/deceleration (ACCEL/DECEL) maneuver
+will emphatically demonstrate this. On SA-1, carriage, employment and
+jettison limits for external stores become a concern. The bottom line is
+this: while “speed is life” continues to be a means for survival in a high
+threat area, slowing down to a better maneuvering airspeed to counter a
+threat requires quick response and close monitoring of aircraft
+parameters.
+
+AAM-10 D-4
+
+
+Text from AAM-10_Low_Altitude_Air-to-Air_Employment_page_11.jpeg:
+Turns (Line Abreast)
+
+Low altitude, comm-out turns may be signaled by a wing flash and
+accomplished similarly to medium/high altitude turns (without vertical
+maneuvering). At low altitude, however, the wingman must spend a lot of
+time crosschecking ground clearance and may miss wing flashes from the
+leader. This particular problem can be minimized by well coordinated
+crew lookout responsibilities.
+
+A second method of turning a flight uses a combination of check turns to
+initiate and control the turns; wing flashes are not used. To turn away
+from the wingman, the leader abruptly turns 30° and then rolls out. The
+wingman recognizes this as a turn command and immediately initiates a
+90° toward the leader. As the wingman passes through his 6 o’clock
+position, the leader completes the turn he has started (Figure D-8).
+
+AAM-10-03
+
+Figure D - 3. Turn Away from the Wingman.
+
+D-5 AAM-10
+
+
+Text from AAM-10_Low_Altitude_Air-to-Air_Employment_page_12.jpeg:
+A turn into the wingman is accomplished the same way, except that the
+leader rolls into the turn and completes it in one maneuver. The
+wingman, upon seeing lead turning toward him, check turns 30° away
+from lead. The wingman completes his turn (using visual references)
+when lead passes through his 6 o’clock (Figure D-4).
+
+Ye -
+
+Figure D - 4. Turn into the Wingman.
+
+Remember aircraft response and energy sustainability is better at low
+altitude; so, tighter radius turns are normally flown. Thus, less time is
+required to complete the turn, and aircraft planforms are not highlighted
+as long. Also, the second aircraft to turn must wait longer than at
+medium/high altitude before initiating the turn.
+
+With the aircraft under high Gs, flying through jet wash may result in an
+over-G and/or control problems. It is best to cross above jet wash rather
+than through it. If jet wash cannot be avoided, passing through it as close
+to 90° as possible with minimum aircraft loading minimizes the effects.
+
+AAM-10 D-6
+
+
+Text from AAM-10_Low_Altitude_Air-to-Air_Employment_page_13.jpeg:
+In rough terrain, reduced lateral spacing may be necessary to prevent loss
+of visual. The aircrew must remain aware of the proximity of the ground
+and the lack of vertical turning room available below the aircraft.
+
+The pilot must make terrain the major emphasis in his cross check,
+devoting every other look-out to it, while adjusting formation position and
+altitude. The pilot must allow enough cross-check time to adequately
+accomplish the following required tasks: formation, avoid the terrain and
+deconflict flight paths (especially during turns). Timing of turn initiation
+may also be the WSO’s call. Either of the two procedures described may
+be used. The wingflash option allows for a single maneuver by element
+members and is not constrained to set angular moves. The 30° check turn
+option allows the flight leader to better control/monitor the flight.
+Advantages and disadvantages of both procedures can be adapted to flight
+experience and tactical necessity.
+
+CREW COORDINATION
+
+Because the F-15E is a “crew aircraft,” crew coordination often spells
+success or failure of the mission. Crew coordination does not mean
+constant intercockpit communication/discussion; that simply fills a
+comm-jam square. On the other hand, crew coordination is not just “you
+do your job, and I'll do mine.” At low altitude, it is imperative that both
+crewmembers understand how mission priorities affect the task
+loading/management of each crew member. In this way, tasks can be
+better shared making the overall task management much easier. Crew
+coordination must not be “blown off” but rather, must be tailored to the
+experience of each pilot/WSO, the mission, flight positions and personal
+skill levels.
+
+D-7 AAM-10
+
+
+Text from AAM-10_Low_Altitude_Air-to-Air_Employment_page_14.jpeg:
+Terrain Avoidance
+
+Terrain avoidance is obviously the number one priority of the crew while
+employing at low altitude. Avoiding the rocks is the primary
+responsibility of the pilot, but the WSO can assist with S.A. on terrain
+awareness through advisory calls of upcoming terrain on the E-scope or
+TSD. Crosscheck of the velocity vector in the HUD every 3-5 seconds at
+low altitude should assure terrain clearance. While turning, this
+crosscheck becomes vitally important. AGD-1 presents specific procedures
+and factors to apply for best low altitude parameters and maneuvers.
+
+Visual/Formation Position
+
+This responsibility is really a shared item. It can normally be conducted
+while working the visual lookout priorities already discussed. The WSO
+must realize the pilot spends a great amount of attention looking forward
+at the rocks, so he/she should give formation advisory/turn calls to the
+pilot. The pilot must also crosscheck his formation position at a rate
+sufficient to maintain the best position possible. In this way, visual
+signals will not be missed and reactions to check turns or airspeed
+changes will be quicker than if called exclusively by the WSO.
+
+To coordinate actions, the pilot/(WSO should stipulate whether they are
+“heads down” or “up,” and whether looking “outside” or “inside” the
+formation. These calls can be further coordinated to be “by exception,”
+meaning it is assumed the other person is visually looking outside the
+aircraft, unless specifically stated he/she is “heads down.”
+
+Turns
+
+While turning at low altitude, the pilot may wish to select auto guns into
+the direction of the turn. (Be aware of the chance it could lock the flight
+lead.) Additionally, the pilot should have only momentary visual lookout
+responsibilities while mainly avoiding the ground. The WSO should be
+checking the flight's old 6 o’clock position if they are the first to turn. If
+turning second, check the flight’s new 6 o’clock position. Additionally, the
+WSO can advise the pilot on timing of this turn in relation to lead. During
+roll out of the turn, transition smoothly to standard visual lookout and
+WSO control of the radar.
+
+AAM-10 D-8
+
+
+Text from AAM-10_Low_Altitude_Air-to-Air_Employment_page_15.jpeg:
+Systems Operation
+
+Before the flight even starts, individual crews must make certain
+air-to-air tactical decisions. Which crewmember runs the air-to-air radar,
+how and when to transition control, and personal techniques and
+procedures must be thoroughly understood by the pilot and WSO. Actual
+war is no time for personal feelings or ego to preclude effective mission
+accomplishment. If the WSO is more adept at working complex radar
+targeting problems, then he/she should be running it. However, if the
+reverse is true, have a plan to “hand-off” the affected systems to the WSO
+when formation or low altitude responsibilities preclude maximum
+effective use of the system by the pilot. Use peacetime training to teach
+each other best employment options—not combat.
+
+After doing all this work and preparation for the air-to-air fight, do not
+forget the basics at the merge. If jets start turning and BFM is required,
+optimize the aircraft’s performance, the crew’s visual lookout and aircraft
+systems such as the ALE-45. Correct BFM is paramount. If not
+configured for an air-to-air mission, air-to-ground munitions on the jet
+reduce maneuvering limits to 6.0-6.5 symmetrical G and 3.0-4.8 G
+asymmetrical. Consider jettisoning tanks and/or bombs if getting slow
+(<350-400 KCAS) and defensive. If offensive in a BFM fight, the WSO
+should be monitoring the wingman, checking his six, and searching for
+others trying to enter the fight. Additionally, the crew must coordinate
+the dispensing of chaff and flares or they may risk dumping twice the
+desired amount or dumping none.
+
+The bottom line to low altitude air-to-air employment is that basic fight
+principles must be understood and adhered to more strictly. Variations in
+aircraft performance and proximity to the ground force the aircrew to a
+more conservative and controlled employment in this arena if they want to
+get the job done well.
+
+D-9 AAM-10
+
+
+Text from AAM-10_Low_Altitude_Air-to-Air_Employment_page_16.jpeg:
+EMPLOYMENT CONSIDERATIONS
+Radar Set-Up
+
+Use of the APG-70 at low altitude carries with it special considerations,
+just as low altitude formation does. Detailed discussion is classified, but
+certain basic facts about APG-70 operation at low altitude may be
+addressed. Remember that at low altitude, the 044 Digital Radar Signal
+Processor (DRSP) automatically gains down the radar detection capability
+in relation to signal-to-noise ratio in an effort to filter out sidelobe
+feedback and background noise. In essence, to avoid “seeing” noise coming
+into the antenna, the radar increases the target detection threshold; thus,
+a much stronger target return is required at low altitude. To get a
+stronger return, a powerful signal must be transmitted through the main
+lobe. Average peak power is highest in high pulse repetition frequency
+(HPRF). In fact, the power advantage over medium PRF (MPRF) is quite
+significant. HPRF must be utilized to achieve long range detection.
+
+Selecting HPRF-only displays only high aspect targets. At 30+ miles this
+may be fine, but bandits in the beam or tail aspect within 20 miles go
+undetected with HPRF-only search. Only medium PRF detects these
+bandits. For targets within 20 nm, signal-to-noise ratio for radar hits is
+sufficiently strong in MPRF. So, the bottom line is use interleaved search
+at low altitude to give both long range detection of hot targets and short
+range detection of cold targets.
+
+AAM-10 D-10
+
+
+Text from AAM-10_Low_Altitude_Air-to-Air_Employment_page_17.jpeg:
+Consider these other radar setup techniques at low altitude:
+
+e Frame store (FS): Wingmen should consider FS2 vs FS1. Track
+files will build and still be on the scope while crosschecking other
+low altitude priorities (watching the rocks, maintaining formation,
+visual lookout, threat avoidance, etc.).
+
+e Range scale: 40 or 80 nm scope. The APG-70 has excellent long
+range capability. Use the long range search capability to provide
+the option to work avoidance criteria or commit criteria as early as
+possible. Remember, the job is to put ordnance on target and
+survive while doing it. Early adversary detection will greatly
+enhance this goal.
+
+e Sweep scan: For maximum detection, a 120° sweep should initially
+be selected. Once groups have been targeted, a 60° sweep may aid
+in sorting.
+
+Radar Search Plan
+
+In two-ship formations, consider giving the wingman the high search
+responsibility. Remember, the wingman has other priorities such as
+formation responsibilities. The radar hits at medium/high altitude occur
+farther out, do not hide in ground clutter, and maintain track files better
+than low altitude contacts. The lead will then have the more difficult
+avionics work, which should match his time availability/capability. Have
+at least 2000 feet of search overlap at briefed acquisition symbol set
+range. Twenty nautical miles is normally briefed, but terrain features
+must be considered. If the planned route is over terrain that permits
+terrain masking, then it is also lousy for detection of low altitude bandits
+hiding behind ridges. Since visual lookout is more of a challenge during
+turns, do not plan turn points immediately after a ridge crossing. The low
+altitude radar search will not see the bandits on the other side. This
+should be considered in premission planning.
+
+D-11 AAM-10
+
+
+Text from AAM-10_Low_Altitude_Air-to-Air_Employment_page_18.jpeg:
+Four-ship formations also need to divide the high/low radar search
+responsibilities. There are two techniques for this: splitting high/low
+search between the element leads (1-low, 2-high, 3-high, 4-low); or,
+splitting it between the wingmen (1-low, 2-high, 3-low, 4-high).
+Advantages to the leads splitting search are:
+
+e Air-to-air targeting gives total picture between the element
+communication.
+
+e A wingman in each element “sees” the radar picture that the other
+element is talking about on the radio.
+
+A major disadvantage is that one of the wingmen is now responsible for
+the more difficult radar search (#4 in this example). This has already
+been identified as not optimum for wingman task loading. Advantages
+and disadvantages of splitting search plans between the wingmen are the
+opposite of the other technique. What works for a four-ship will be based
+largely on wingman experience and ability, and expected adversary
+ability/weaponry. For example, experienced wingmen are able to handle a
+low altitude search reliably. If the threat is medium/high BVR shooters,
+having an element lead with a high search becomes a big plus. Ifthe
+threat is from an IR missile equipped bandit at low altitude, then both
+leads should have low altitude search responsibility.
+
+Visual Lookout
+
+Clearing for air-to-air threats is one of the major tasks that occupy the
+time of the F-15E aircrew. Paramount to survival and tactical
+employment is developing a disciplined search pattern that is logical and
+easy to gain proficiency in. Each crew must search the entire field of view
+(FOV) around their aircraft with special emphasis on the briefed areas of
+responsibility. The particular formation dictates the areas of
+responsibility, including moving the aircraft to search blind spots (Figures
+D-5 and D-6).
+
+AAM-10 D-12
+
+
+Text from AAM-10_Low_Altitude_Air-to-Air_Employment_page_19.jpeg:
+: \1B (PRIM)
+\ 1B (SEC):
+
+\ |
+
+*. 2B (PRIM) i . 2B (SEC) /
+| 5 7
+a“
+I 7
+
+Figure D - 5. Wedge Primary Areas of Visual Search.
+
+D-18 AAM-10
+
+
+Text from AAM-10_Low_Altitude_Air-to-Air_Employment_page_2.jpeg:
+ADMINISTRATIVE INFORMATION
+
+This student workbook is designed to provide information on the F-15E, its
+systems and capabilities. It is not a sole source document, but is to be used in
+conjunction with other standard Air Force publications and technical
+manuals. If you find any differences between the material contained herein
+and other governing regulations, adhere to the regulations and notify the
+OPDR.
+
+Changes to this workbook are indicated with a heavy black line in the left
+margin.
+
+Forward recommendations for revision or change to 4 TS, SJAFB, NC 27531.
+
+Supersedes: AAM-9, March, 1998
+
+OPDR: 4 TS
+
+Index of Changes
+
+Effective Date Pages Affected
+
+
+
+Text from AAM-10_Low_Altitude_Air-to-Air_Employment_page_20.jpeg:
+pp
+
+9 2B (SEC): , 2B (PRIM) :
+
+AAM-10-06
+
+Figure D - 6. Line Abreast Primary Areas of Visual Search.
+
+AAM-10 D-14
+
+
+Text from AAM-10_Low_Altitude_Air-to-Air_Employment_page_21.jpeg:
+Do not concentrate lookout solely in the vicinity of the horizontal plane of
+the formation. When searching a particular sector around the formation,
+start level with the horizon; then, gradually move your search to the
+extreme vertical above. While searching, begin at gun range (the most
+immediate threat) and move outward to missile range. Try to focus on a
+point on the horizon and look for movement. To check blind zones, using
+check turns may enhance visual lookout at 6 o’clock. However, there is a
+risk encountered when constantly presenting the aircraft planform
+against the horizon, possibly giving an early tally to the enemy. A
+
+30° turn using 3-5 Gs allows a check of 6 o'clock with minimal effect to
+routing.
+
+The flight’s area of responsibility for visual lookout should be prioritized
+for survival. A good search of the flight's 6 o’clock is the first priority.
+Next, move your scan through the wingman as discussed above. Visual
+lookout to the forward hemisphere is necessary, but disciplined work with
+the APG-70 should limit the amount of time you spend there. More
+importantly, check outside of the formation prior to starting the search
+pattern again. Although each wingman will be clearing through and
+across the flight, the best chance of detecting threats outside the
+formation is by the wingman on that side; this is due to the long distances
+involved (lateral spacing of the formation plus the range of the threat).
+
+HUD Use
+
+Use of the HUD in the low altitude tactical arena is an excellent way to
+maintain situational awareness of your parameters while still
+maintaining “head-out” (a must when flying close to the ground). But, like
+all instruments, it must be used as part of a cross-check, with the ground
+the most important element of the check. Use of the velocity vector
+provides a good level flight reference after initially rolling into a turn and
+at timely intervals, throughout a turn.
+
+D-15 AAM-10
+
+
+Text from AAM-10_Low_Altitude_Air-to-Air_Employment_page_22.jpeg:
+Low Altitude Intercepts
+
+General Considerations
+
+As with all low altitude operations, awareness of the ground/terrain must
+be the highest priority in the attacker’s crosscheck. Some specific
+adjustments must be made for this factor.
+
+Timing of maneuvers used in low/medium altitude intercepts is affected
+by the smaller turn circles, which result from the greater air density at
+these altitudes. Consequently, pure pursuit curve numbers change from:
+
+15AA at 15 nm to 15AA at 8 nm
+14AA at 10 nm to 14AA at 7 nm
+13AA at 10 nm to 13AA at 6 nm
+
+A much hotter intercept can be run at low altitude. Aspect angles and
+pursuit curves must be adjusted for the relative speed of the bogey. Fuel
+flow is greatly increased. Full afterburner can burn fuel at a greater rate
+than the feed tanks can be replenished. A good rule-of-thumb is to get
+airspeed in afterburner, and sustain it in military power.
+
+Low-to-High Intercepts
+
+Low-to-high conversions require evaluation of both vertical and horizontal
+maneuvering room. The optimum maneuver is a chandelle, using both
+vertical and horizontal offset, to a low 6 o’clock position on the target,
+never leaving the blind zone. Obtaining a tally is not generally difficult
+unless a large altitude delta is present. From a tally to a kill, basic fighter
+maneuver (BFM) principles apply. Due to the nose-high entry, terrain
+avoidance is less of a consideration. However, there are two situations
+that deserve attention:
+
+e Attempting to square the corner in the final conversion may result
+
+in your being nose-high, slow and at low altitude. Accepting the
+overshoot through the blind zone, with energy, is a better option.
+
+AAM-10 D-16
+
+
+Text from AAM-10_Low_Altitude_Air-to-Air_Employment_page_23.jpeg:
+e After operating at minimum altitudes, 2000 feet above ground
+level (AGL) appears to be very high. It is an illusion that has
+proved fatal to many good aviators on pop-up attacks and air-to-air
+engagements with helicopters.
+
+High-to-Low Intercepts
+
+GCI, AWACS and the APG-70 enable detection of low altitude threats.
+BVR rules of engagement simplify employment, but certain situations
+dictate a conversion into the low altitude regime to employ weapons. Lost
+radar locks due to gimbal limits or beam clutter, target terrain masking,
+and camouflage, complicate a kill at low altitude. It is necessary to clear
+the area around the target with the radar, as well as visually, to prevent a
+sandwich. The high-to-low conversion at low altitude has some unique
+differences from medium/high altitude conversions. Normally, an early,
+aggressive turn gets much of the turn out of the way, which allows
+concentrating on the target, rather than the ground, in the final part of
+the conversion. Plan the conversion to end up slightly higher than the
+target so an overshoot, if it occurs, does not result in ground impact.
+
+To accomplish this conversion, get your tally on the target early (8-10 nm)
+by aggressively pulling the TD box into the HUD and/or by canopy code
+information. Once the target is in sight, discontinue pure pursuit as this
+sacrifices all vertical turning room and requires a 2-dimensional “Square
+Corner” to finish the corner slow. Rather, maintain several thousand feet
+of vertical above the target, while your nose track keeps proper proportion
+to the target's LOS. Turn hard above the target in a 2-dimensional POM
+(can be slightly descending to preserve energy) until behind the 3/9 line of
+the target.
+
+Now the conversion can be finished by dropping the nose, gaining closure
+and entering firing position while monitoring both the ground and the
+target together. Airspeed advantage for a tail chase situation can be
+achieved if some vertical separation is maintained in the final portion of
+the intercept.
+
+D-17 AAM-10
+
+
+Text from AAM-10_Low_Altitude_Air-to-Air_Employment_page_24.jpeg:
+Co-altitude Intercepts
+
+Problems encountered in the high-to-low intercept may still be a problem
+with this type intercept. Terrain masking by the target is much more of a
+problem, and dead reckoning the target's new position may be your only
+option. The TSD can be used as an aid in predicting the target’s position
+when LOS is broken. Radar employment over flat or slightly rolling
+terrain should be effective. Finally, weapons employment is more of a
+problem in low-to-low profile. Remember the pursuit curves for low
+altitude intercepts, but adjust them for target speed.
+
+Common Low Altitude Intercept Errors
+
+e Intercepting a shadow instead of the target
+e Failing to obtain a tally before the radar breaks lock
+
+e Carrying too much airspeed, which increases turn radius, requires
+more G, and is harder to slow down
+
+e Starting conversion too late and encountering difficulty in
+generating closing velocity at low altitude.
+
+Conversion Aborts
+
+The potential need to abort a conversion is a major concern in the
+high-to-low intercepts. Avoid a pure high-to-low, “Split-S” type
+conversion. Rolling more than 135° is not advised. Attempting a slice to
+an altitude slightly higher than the target’s altitude precludes ground
+impact. If dive recovery safety parameters are exceeded at any time, or
+the conversion “feels” uncomfortable, roll wings level and recover. If
+necessary use the emergency dive recovery procedures in the F-15EK Dash
+1, or the low altitude dive recovery rules in the F-15E AFTTP 3-3.
+
+High/Low Speed Targets
+
+A faster target requires a colder intercept pursuit curve with enough offset
+to prevent losing airspeed/energy in the final conversion turn. This
+requires the aircrew to monitor the radar for closure and target true
+airspeed and/or obtain target speed from AWACS/GCI. Low speed targets
+require close monitoring of the closure and aspect angle to prevent
+overshoots. Remember, the pure pursuit curve numbers, that were shown
+earlier, apply to co-speed targets.
+
+AAM-10 D-18
+
+
+Text from AAM-10_Low_Altitude_Air-to-Air_Employment_page_25.jpeg:
+WEAPONS SELECTION
+
+The increased air density at low altitude significantly decreases weapons
+envelopes because of kinematics and missile seeker difficulty in picking
+the target out of high ground clutter. Additionally, missile-to-ground
+impact is a consideration for all missile attacks. All missiles attempt to fly
+a pursuit curve (usually lead) that allows a collision course with 0° LOS to
+the target. This means if the missile is launched with the target climbing,
+the missile climbs toward the predicted impact point. It also means if the
+missile is launched while the target is descending, the missile dives
+toward the predicted impact point and may strike the ground en route.
+With either IR or radar missiles, firing with a slight nose-high attitude
+reduces ground impact problems. Flying low to achieve look-up (blue sky)
+may improve seeker acquisition, but may also plant the first round in the
+dirt 1000 feet at 12 o’clock, if the launch altitude is not sufficient for the
+missile to attain flying speed prior to ground impact.
+
+AIM-120
+
+Given early radar detection, the AIM-120, with its long range capability,
+usually presents the first shot opportunity at low altitude. The AIM-120
+has features which provide flexible employment options. These features
+include: off-boresight shot capability; all aspect, beyond visual range
+(BVR) capability; and an active seeker which does not require continuous
+radar illumination from the launch aircraft. These features permit the
+launch aircraft to fire a good data link shot and, once the missile is active,
+maneuver to use low altitude/terrain to hide and/or avoid any return
+shots. At low altitude, missile time-to-active usually occurs soon after the
+shot. Refer to AFTTP/AFTTP 3-1, Vol XVII.
+
+D-19 AAM-10
+
+
+Text from AAM-10_Low_Altitude_Air-to-Air_Employment_page_26.jpeg:
+AIM-7
+
+At low altitude, AIM-7 launch parameters must meet seeker head
+requirements and be adequate to ensure the missile does not impact the
+ground while it is gaining flying airspeed following launch. There are
+additional problems if the shooter must remain at low altitude during
+missile launch and throughout missile time of flight (TOF). Unlike in the
+AIM-120 case, following an AIM-7 launch, both the F-15E radar and
+missile must maintain line of sight (LOS) with the target throughout
+missile TOF. At low altitude, terrain features affect radar/missile
+capability against a target changing his aspect angle in relation to the
+shooter.
+
+The same maneuvers required to keep a tally also preserve radar LOS,
+but the altitude may be higher than required to deny an adversary shot.
+Refer to AFTTP 3-1 for shot/kill criteria.
+
+AIM-9
+
+The AIM-9M maintains its all aspect capability at low altitude, but its
+employment ranges are significantly decreased. It is very important to
+ensure proper seeker track of the target at low altitude both with a visual
+indication and the aural tone. Adverse background IR sources can drive
+the seeker LOS off the target.
+
+Gun
+
+Employing the gun at low altitude requires controlling the same factors as
+in medium/high altitude gun shots: range, lead and plane-of-motion
+(POM). The last of these, POM, is even more important at low altitude
+because the low altitude fight tends to be primarily two-dimensional.
+Since POM is so close to the ground, any out-of-plane maneuver by either
+the defender or attacker could be catastrophic. Lead pursuit can also put
+the attacker in the position of having a terrain obstacle in his flight path
+as he flies inside the defender's turn. Careful control of G, closure,
+airspeed and relative position are necessary to achieve a tracking solution.
+Wake turbulence when crossing the bandit's 6 o’clock position can also
+cause out-of-plane problems. Continue to look for the missile shot.
+
+AAM-10 D - 20
+
+
+Text from AAM-10_Low_Altitude_Air-to-Air_Employment_page_27.jpeg:
+CONTINGENCIES
+No Radar/Bad Systems
+
+Before takeoff, there are certain minimum essential systems that must be
+operational (go/no-go items). These include, but are not limited to: the
+RADAR, INS, ICS/CMD, RWR, IFF/MODE IV, and weapons systems.
+Once airborne, however, loss of any one of these systems may or may not
+require a mission abort. This will depend on the flight lead’s briefed
+tactical scenario and the point in the mission where the system fails. In
+terms of low altitude air-to-air employment, loss of the radar will most
+likely immediately dictate certain constraints. First, the sick-radar
+aircraft now becomes the tactical wingman; and the other aircraft, if not
+already the lead, assumes the tactical lead. Second, in any engagement,
+the radar aircraft should assume he will have a support fighter, and
+therefore, needs to ensure that the support fighter is visually tied to the
+tactical lead. Finally, the aircrew with the good radar must provide as
+much information as is tactically feasible to the other aircrew in terms of
+an engaged plan, tactics, tallies, etc. If possible, avoidance of any threat is
+probably the smartest option, unless mission requirements dictate
+otherwise.
+
+Group Targeting/Sorting
+
+When operating at low altitude, it is still necessary to maintain the
+targeting/sorting disciplines applicable to medium/high radar
+employment. However, the minimum ranges at which these tasks are
+accomplished within the flight can usually be reduced, due to reduced
+ranges on weapon envelopes (reference AFTTP 3-1 Vol XVII). Group
+targeting should be finished by 20-25 nm, with element sorting within
+those groups accomplished NLT 15 nm from the merge. If using these
+ranges for targeting/sorting, meld ranges must be briefed and complied
+with due to high radar LOS rates on the shorter range radar displays.
+
+Short Range Radar Contact/Commit
+
+If a member of the flight achieves a short range (<15 nm) hostile lock-on
+that is converting to the flight, immediate action is necessary. That
+aircraft must maneuver to engage and call the “engaged” status. This
+alerts the other aircraft who can then use the engaged aircraft as a
+pointer for radar and visual acquisition. The engaged fighter should
+immediately launch an A/A missile, if in parameters, while
+simultaneously acquiring a tally. A combination of canopy-code references
+
+D-21 AAM-10
+
+
+Text from AAM-10_Low_Altitude_Air-to-Air_Employment_page_28.jpeg:
+and the HUD TD box should be used to acquire the bandit as quickly as
+possible. This information should then be communicated to the flight.
+
+Initially, this action could lend itself to pure pursuit of the bandit, but,
+once tally is achieved, proper BFM maneuvering for weapons employment
+should be used. The wingman should not, in most cases, maneuver into
+the same POM as the engaged fighter, but should remain at low altitude
+and maneuver to a support position. This gives the element a split-plane
+BFM entry to the merge. At the merge, the flight can then either continue
+to engage, or turn high aspect to a blow-through separation.
+
+Element Targeted/Threat Reactions
+
+If the RWR signals a BVR threat in the forward quadrant, some decisions
+concerning offensive/defensive threat reaction must be made. If there is
+no radar contact on the threat, an element maneuver to put the RWR
+spike on the beam is the best move. Simultaneously, look for a tally of the
+bandits and/or a missile in the air. On the other hand, if your element is
+trading shots with the bandits, take full advantage of the range of your
+missiles, shot doctrine, and F-pole maneuvers. If taking low altitude
+Fox-1s and subsequent F-Poles, watch for the tendency to fly into a low
+altitude terrain mask situation that prohibits radar LOS. Additionally,
+the maneuvers utilized to avoid terrain may inadvertently gimbal the
+radar lock. These problems can be encountered when using simple
+avoidance maneuvers as well. Remember, the wingman on the outside of
+the formation in relation to the threat will lose radar situation awareness
+(SA) sooner than the lead. Refer to AFTTP 3-1 Volume XVII for Low
+Altitude AIM-120 Tactics.
+
+If notching a bandit, start at 12-10 nm, depending on the threat, using
+both radar and RWR information to determine what initial heading will
+put the threat on the beam. Once the bandit is on the beam, perform an
+arc much like is done when arcing a TACAN on an instrument approach.
+Since the bandit will be traveling 8-10 nm/minute, it will take 60 seconds
+for the merge to occur. Two methods work well to maintain the beam
+maneuver. The first method is to check 10° back toward the bandit every
+5 seconds. After 35-40 seconds (70-80° total turn), it is time to do an idle
+power break into the bandit that has been visually acquired. The other
+method is similar to the first but calls for a 10° check into the bandit after
+10 seconds, then 9 seconds, then 8, etc... when you get to 5 seconds (70° of
+total turn) it is time to break into the threat. The break maneuver should
+be performed 2-4 nm from the bandit which will permit a high aspect
+merge with the bandit and an opportunity to disengage. Since avoiding
+the beam IR-missile shot from the converting bandit is important, an
+
+AAM-10 D - 22
+
+
+Text from AAM-10_Low_Altitude_Air-to-Air_Employment_page_29.jpeg:
+early tally and effective IRMD is required. Refer to AFTTP 3-1 Volume
+XVII for an expanded discussion of all-aspect and IR missile defense
+tactics.
+
+Stern Threat
+
+Another situation requiring low altitude consideration is a bandit acquired
+at the element's 6 o'clock position, attempting to run down the element to
+weapons employment. Once acquired, the flight should select afterburner
+and attempt to pull away. Simultaneously, a “float” can be
+called/executed by the element. This maneuver is a 20-30° check turn by
+each aircraft, away from his wingman, causing diverging flight paths.
+
+The trailing bandit is now forced to make a positional decision as the
+element separation gets wide (2-3 nm). Ifthe trailing bandit decides to
+continue trailing the element member, this gives a turning entry to the
+wingman (Figure D-7).
+
+AAM-10-07
+
+Figure D - 7. Stern Threat Contingency.
+
+D - 238 AAM-10
+
+
+Text from AAM-10_Low_Altitude_Air-to-Air_Employment_page_3.jpeg:
+AERIAL ATTACK MANEUVERING
+
+= ae
+4 O
+¥ o\p_ a rere ere
+
+)
+
+—_=
+
+—an/
+DG ;—_
+
+COVER
+
+LOW ALTITUDE AIR-TO-AIR EMPLOYMENT
+INTRODUCTION
+
+This workbook is designed to familiarize you with air-to-air employment
+in the low altitude environment. It provides a study and reference source
+for basic tactical procedures in this regime. It deals with issues vital to
+understanding your aircraft, safe operations, and wartime capability when
+close to the ground.
+
+CONTENTS:
+
+INT RODDLUC PION sc case sae sus anes cose anes sane anus suis nase ans sans aus ouch sens ans wants aa ace os A-1
+CRITERION REFERENCED OBJECTIVES (CROs)............ eee B-1
+STUDENT PREPARATION REQUIREMENTS ...00.. eee C-1
+TEXT oc eececccceeesneeeceessseeeceeesseeeccesssaeeeceessaeeeceesssaeeeseeeeaeeesenenaes D-1
+END OF TEXT QUIZ oo... eeccceeenecceseecessneecesaeesesaeeessaeesensaeeens N/A
+GLOSSARY 00. eeeccceeeneeesneeecesaceeesaeecesaeeeessaeesesaeesesaeeseesaeeseeaaeeeseas F-1
+
+A-1 AAM-10
+
+
+Text from AAM-10_Low_Altitude_Air-to-Air_Employment_page_30.jpeg:
+If the bandit decides to stay between the element, they can now usually
+break back into the bandit for a mini-pince when their lateral separation
+gets to approximately 4 nm (Figure D-8). Refer to AFTTP 3-1 Volume
+XVII for further discussion on this topic.
+
+AAM-10-08
+
+Figure D - 8. Stern Attack Inside the Element.
+
+AAM-10 D - 24
+
+
+Text from AAM-10_Low_Altitude_Air-to-Air_Employment_page_31.jpeg:
+Other Contingencies
+
+Other situations that should be briefed but are more mission dependent
+include:
+
+e lost contacts
+
+e blind wingman
+
+e low fuel
+
+e battle damage/wounded bird
+e F-15 losses
+
+e abort criteria
+
+e winchester missiles
+
+e ALE-45 use/programming
+
+e surface-to-air threat reactions
+
+D-25 AAM-10
+
+
+Text from AAM-10_Low_Altitude_Air-to-Air_Employment_page_32.jpeg:
+(This Page Intentionally Blank)
+
+AAM-10 D - 26
+
+
+Text from AAM-10_Low_Altitude_Air-to-Air_Employment_page_33.jpeg:
+BFM
+
+BVR
+
+DRSP
+
+FOV
+
+HPRF
+
+KCAS
+
+LASDT
+
+LOS
+
+MPRF
+
+POM
+
+TOF
+
+GLOSSARY
+Basic fighter maneuvers
+Beyond visual range
+Digital radar signal processor
+Field of view
+High pulse repetition frequency
+Calibrated airspeed in knots
+Low altitude step down training
+Line of sight
+Medium pulse repetition frequency
+Plane of motion
+
+Time of flight
+
+AAM-10
+
+
+Text from AAM-10_Low_Altitude_Air-to-Air_Employment_page_4.jpeg:
+CRITERION REFERENCED OBJECTIVES (CROs)
+
+1. Identify the two common low altitude formations and their
+parameters.
+
+2. Identify the two methods of maneuvering a low altitude formation.
+
+3. Identify the verbal/nonverbal communication required in crew
+coordination at low altitude.
+
+4. Given an F-15E low altitude scenario, identify proper radar
+search/setup parameters.
+
+5. Given a low altitude missile employment scenario, identify three
+constraints specific to low altitude missile employment.
+
+6. Identify the basic concerns and common errors when conducting
+intercepts at low altitude.
+
+REFERENCES
+AFTTP 3-3 VOL XVII CHAPTER 3-7
+AFTTP/AFTTP 3-1 VOL XVII CHAPTER 15-17
+
+TO 1F-15E-34-1-1
+
+TO 1F-15E-34-1-1-1
+
+AAM-10 B-1
+
+
+Text from AAM-10_Low_Altitude_Air-to-Air_Employment_page_5.jpeg:
+STUDENT PREPARATION REQUIREMENTS
+BEFORE CLASS
+
+1. Study the information contained in this workbook.
+
+C-1 AAM-10
+
+
+Text from AAM-10_Low_Altitude_Air-to-Air_Employment_page_6.jpeg:
+(This Page Intentionally Blank)
+
+AAM-10 C-2
+
+
+Text from AAM-10_Low_Altitude_Air-to-Air_Employment_page_7.jpeg:
+TEXT
+INTRODUCTION
+
+This text deals with the air-to-air employment considerations in the low
+altitude environment. It is not feasible to incorporate all potential tactical
+options into one lesson. While medium and high altitude ingress options
+have valid applications, and the combined effects of mixed force packages
+are well recognized, this text is restricted to F-15-only formations in
+autonomous low level operations.
+
+FORMATION CONSIDERATIONS
+Line Abreast
+
+The basic two-ship tactical formation at low altitude can be virtually
+identical to those flown at medium altitude (Figure D-1).
+
+el el
+
+ELEVATION VIEW
+
+<—_——- 4000-12,000' i
+30°
+PLAN VIEW AAM-10-01
+
+Figure D - 1. Line Abreast Formation.
+
+D-1 AAM-10
+
+
+Text from AAM-10_Low_Altitude_Air-to-Air_Employment_page_8.jpeg:
+However, the flight members must consider the difficulty of maneuvering
+due to terrain features, the decreased ability to maintain visual in rough
+terrain, and the proximity of surface-to-air threats. Task loading for all
+flight members is higher at low altitude due to these considerations.
+
+The wingman's task loading can be even higher due to formation flying;
+therefore, the formation contract within the element should allow the
+wingman a more flexible lateral spacing of 4000-12,000 feet. The
+wingman may close into 4000 feet where an easier visual can be
+maintained when flight maneuvers, terrain, environment and avionics
+task load become severe. When task loading is not as demanding, the
+wingman can move out to 12,000 feet to decrease the possibility of a
+threat gaining tally on both aircraft. These ranges are not mandatory for
+all situations. Generally, maintaining visual and maneuvering the flight
+are more difficult when lateral spacing exceeds 12,000 feet. Supporting
+the wingman after an adversary has swung the flight’s 3/9 line is very
+difficult if the flight is separated by over 12,000 feet, particularly when
+only AIM-9s are available. If spacing is less than 4000 feet, the
+adversaries are guaranteed tally-2, and flight path deconfliction is much
+more involved while turning due to turn radius. Additionally, visual
+arena defensive reactions become difficult due to reduced reaction times,
+missile minimum ranges, and the wingman being inside missile
+field-of-view (weapons deconfliction).
+
+AAM-10 D-2
+
+
+Text from AAM-10_Low_Altitude_Air-to-Air_Employment_page_9.jpeg:
+Trail or Wedge
+
+Tactical trail or “wedge” formation is another option for an element at low
+altitude. However, it should only be used as a last resort. One viable
+reason for utilizing wedge is the need to remain at very low altitude.
+Another is the need to maneuver at low altitude over very rough terrain.
+Wedge is normally flown in a fluid cone 30-70° aft of line abreast of the
+leader, at fluid ranges of 4000-9000 feet (Figure D-2).
+
+9000 FT
+
+30°
+
+70°
+
+AAM-10-02
+
+Figure D - 2. Trail/Wedge Formation.
+
+D-3 AAM-10
+
+

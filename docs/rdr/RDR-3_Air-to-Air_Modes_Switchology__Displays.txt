@@ -1,0 +1,1867 @@
+Text from RDR-3_Air-to-Air_Modes_Switchology__Displays_page_1.jpeg:
+SUPPORTS COURSES
+FIS5EBQ
+
+FISETX
+
+FISESOC
+
+ACADEMIC STUDENT WORKBOOK
+F-15E
+
+AIR-TO-AIR RADAR
+RDR-3
+AIR-TO-AIR MODES,
+SWITCHOLOGY & DISPLAYS
+
+JUNE 1999
+(SUITE 3 OFP)
+
+AIR COMBAT COMMAND
+
+
+Text from RDR-3_Air-to-Air_Modes_Switchology__Displays_page_10.jpeg:
+GUNS auto locks in MPRF out to 15 nm. SS, BST and VTS auto lock in
+MPRF out to 10 nm. Long range boresight auto locks in interleaved PRF
+out to 40 nm. The minimum range for the auto acq modes is 500 feet,
+except for GUNS and LR BST, which is 3000 feet due to a longer pulse
+width.
+
+It is necessary to be in search or to reject any previous target lock before
+selecting an auto acq mode. Weapons select switch position has no effect
+on selecting SS, BST, LR BST and VTS with the FCP auto acq switch.
+Forward and release once within one second on the FCP auto acq switch
+selects supersearch. Forward (in less than one second) twice and release
+selects boresight. Forward and hold on the auto acq switch for one second
+or longer selects long range boresight. Aft for less than one second on the
+auto acq switch selects vertical scan (Figure D-4, left). The pilot activates
+the GUNS mode by selecting it on the throttle weapon select switch
+(Figure D-4, right). Auto acq modes selected on the FCP stick (auto acq
+switch) have priority over the GUNS mode and over any other radar
+search mode. When selecting auto acq modes from the FCP stick, the scan
+patterns continue until target acquisition or mode rejection. The GUNS
+auto acq scan pattern will continue until target acquisition, initiation of
+another auto acq mode or movement of the weapons select switch out of
+the GUN position. Once lock on occurs from any mode, the pilot may
+select any air-to-air weapon/attack steering display.
+
+SJ
+
+EG (@
+
+AUTO ACQ
+FORWARD
+ONCE <1": SUPERSEARCH
+TWICE <1": BORESIGHT
+HOLD > 1": LR BST
+
+AFT <1": VERTICAL SCAN
+
+WEAPON SELECT SWITCH
+FORWARD: MRM (AIM 7 / 120)
+
+CENTER: SRM (AIM 9) / COMBINED (GUN/AIM-9)
+AFT: GUN (M61A1)
+
+RDR-03-04
+
+Figure D - 4. Auto Acquisition and Weapons Select.
+
+RDR-3 D-4
+
+
+Text from RDR-3_Air-to-Air_Modes_Switchology__Displays_page_11.jpeg:
+Supersearch
+
+When activating supersearch, the radar searches a 20° x 20° area depicted
+in the HUD by a 20° reference circle (Figure D-5). The scan is an aircraft
+stabilized, six-bar pattern centered 4° below the waterline symbol and is
+used to enhance lock-on capability during F-15E target maneuvering. The
+first target detected within this pattern is automatically acquired and
+tracked. It is difficult to selectively lock a particular target when multiple
+targets are in the FOV of supersearch.
+
+10 L----.4110
+
+RDR-03-05
+
+Figure D - 5. Supersearch.
+
+D-5 RDR-3
+
+
+Text from RDR-3_Air-to-Air_Modes_Switchology__Displays_page_12.jpeg:
+The SS scan center initializes in the HUD center (-4° below waterline) and
+can be elevated/depressed up/down center to +28° or -19° via a full
+up/down action on the FCP TDC. There are no intermediate positions.
+This results in a corresponding scan shift that provides “vertical scan”
+capability with the benefit of SS area coverage (Figure D-6).
+
+SUPERSEARCH "UP"
+
+RDR-03-06
+
+SUPERSEARCH "DOWN"
+
+Figure D - 6. Positionable SS.
+
+The SS half circle down picture in the HUD represents the radar scan
+coverage fairly accurately. However, the half circle up picture can be
+misleading. 28° up center from the waterline places the radar scan
+completely above the HUD. In fact, think of the up center scan pattern as
+“sitting on top of the canopy bow.” This creates a SS blank area of +6° to
++18° (effectively from the top of the HUD to the canopy bow) that cannot
+be used for acquisition.
+
+RDR-3 D-6
+
+
+Text from RDR-3_Air-to-Air_Modes_Switchology__Displays_page_13.jpeg:
+Boresight
+
+BST slaves the antenna to the radar boresight line (RBL)(W) and
+initiates an auto acquisition range search along the antenna LOS. The
+
+4° BST reference circle on the HUD (Figure D-7) allows the pilot to
+maintain the target within the BST scan pattern and provides a rapid and
+highly discriminating lock on capability.
+
+10 _----1410
+
+RDR-03-07
+
+Figure D - 7. Boresight.
+
+D-7 RDR-3
+
+
+Text from RDR-3_Air-to-Air_Modes_Switchology__Displays_page_14.jpeg:
+Long Range Boresight
+
+Long range boresight auto acq mode acquires long range targets located
+along the RBL (pilot sees a contrail and wants to lock on with an auto acq
+mode). Once again, the radar slaves the antenna to the RBL and initiates
+an auto acq range search along the antenna LOS from 3000 feet out to
+
+40 nm. The radar continues in auto acq search until it acquires a target
+or the crew commands return to search. A 2.5° reference circle is
+displayed on the HUD to approximate search pattern coverage (Figure
+D-8).
+
+When entering LR BST from SS, the radar enters BST at initial actuation
+of the auto acq switch and then enters LR BST when the pilots holds the
+switch for 1 second or longer. When entering LR BST from any other
+mode, the radar enters SS and then goes to LR BST when the pilot holds
+the switch for 1 second or longer. If the radar achieves track before the
+pilot holds the switch for 1 second or longer, it remains in STT.
+
+During LR BST, the radar range scale changes to 40 nm. Ifthe crew exits
+LR BST to search (mode reject), the radar returns to the selected range
+scale.
+
+6)
+
+10L----1410
+
+RDR-03-08
+
+Figure D - 8. Long Range Boresight.
+
+RDR-3 D-8
+
+
+Text from RDR-3_Air-to-Air_Modes_Switchology__Displays_page_15.jpeg:
+Vertical Scan
+
+In VTS, the radar searches from 5° to 55° above RBL and 7.5° in azimuth.
+The vertical scan reference line on the HUD (Figure D-9) provides the
+pilot with an aiming reference to help bring the target within the radar
+scan pattern. This scan pattern starts at the top of the HUD (top of the
+line) and goes up to +55°. This mode affords fairly rapid and selective
+auto acquisition of visual targets positioned along the aircraft’s lift vector.
+As an example, to auto lock a bandit spotted at about 1-2 o’clock level,
+thumb aft and release on the auto acq switch, and roll 90° right to place
+him above the HUD and on an imaginary extended VTS line of the HUD
+(above the center mirror is a useful reference (Figure D-10)).
+
+a eee 1 _
+55°
+FCP HUD AND oa‘: “SaARRRERREEEEE —
+WINDSCREEN = |7.5° WIDE
+
+FCP/CENTER MIRROR
+
+RDR-03-10
+
+\ ]
+NN
+
+RDR-03-09
+
+Figure D - 10. Target Positioning in Vertical Scan.
+
+D-9 RDR-3
+
+
+Text from RDR-3_Air-to-Air_Modes_Switchology__Displays_page_16.jpeg:
+GUNS Mode
+
+The GUNS auto acq radar scan pattern covers a large volume of airspace
+(60° in azimuth, 20° in elevation) and is space stabilized to the INS
+horizon (Figure D-11). When initialized by selecting GUN on the weapon
+select switch (not in STT or DTWS), the scan centers on 0° AZ
+
+(aircraft W )/EL (INS horizon), but the pilot may slew via the TDC to the
+AZ/EL limits of the radar. Displayed altitude coverage data on the radar
+display is based on a fixed 7.5 nm range. The pilot changes elevation and
+azimuth angles by moving the acquisition symbol up/down and left/right,
+respectively, on the A/A radar display. Excessive look angles (i.e.
+acquisition symbols well above/below the center of the scope) give a false
+picture of actual radar coverage. After selection of GUN but prior to
+acquisition of a target inside 15 nm, the radar displays targets detected
+between 15 and 20 nm. These targets cannot be acquired with manual or
+auto lock while still in GUN. The pilot can select all other auto acq modes
+during the GUNS scan (i.e., they will take precedence over GUNS scan).
+
+Mode reject reinitializes the scan center to 0° AZ (aircraft w= / EL (INS
+horizon) while in GUNS search. If the radar locks and the pilot then
+selects mode reject, the radar initiates “bump” acquisition. During bump
+acquisition, the radar breaks lock, positions the scan center 5° right and
+1.7° down from the original target, and resumes the GUNS scan.
+
+i INITIALIZES TO
+5 -INS HORIZON
+
+(VERTICALLY)
+
+-AIRCRAFT
+CENTERLINE
+(HORIZONTALLY)
+
+RDR-03-11
+
+Figure D - 11. GUNS Mode.
+
+RDR-3 D-10
+
+
+Text from RDR-3_Air-to-Air_Modes_Switchology__Displays_page_17.jpeg:
+SINGLE TARGET TRACK (STT) AND PRF TRACK TRANSFER
+
+The primary function of single target track is to provide target data
+required for accurate weapon delivery. The STT mode utilizes three
+semi-independent tracking loops in its calculations: one for angle, one for
+velocity and one for range. The radar tracks the target in angle and
+velocity during HPRF. In MPRF, the radar tracks the target in angle,
+velocity and range. MPRF ranging is more accurate than the FM ranging
+employed in HPRF; however, AIM-7s require HPRF illumination of the
+target for proper guidance.
+
+If acquisition occurs in HPRF (“HI” in radar BIT window), the radar
+attempts to switch to MPRF. At target ranges beyond the MPRF
+capability, the radar performs FM ranging every % second (using the
+HPRF waveform) to provide an approximate target range. Inside 40 nm,
+the radar attempts MPRF ranging every 3 seconds. When MPRF ranging
+is successful (target is detected in MPRF), the radar stops FM ranging,
+but continues to track in HPRF. Inside 30 nm, the radar transfers to
+MPRF track (“MED” in radar BIT window). The exact range is a function
+of target size and signal strength. Selecting MRM and MASTER ARM
+does not prevent the transfer to MPRF, unless maximum AIM-7 launch
+range is outside of 30 nm. This may be the case if the F-15E is at medium
+or high altitude, or the target is extremely high and fast.
+
+While tracking a target in MPRF with master arm (ARM, MRM selected
+and an AIM-7 in priority), the radar attempts to transfer back to HPRF
+when target range is less than 1.2 Raero (Raero is based on MRM
+aerodynamic range) for frontal aspect targets and 1.05 Raero for rear
+aspect targets. HPRF track transfer from MPRF final track takes 1.5 to
+2 seconds. However, it may never occur against a beam aspect or co-speed
+tail aspect target. Maneuver to move the target out of the main beam
+clutter, or accelerate/decelerate to shift its doppler away from the altitude
+line. This may allow the radar to upgrade to HPRF final track for AIM-7
+launch. With an AIM-120 in priority, the radar continuously attempts to
+transfer to MPRF when target range is less than 30 nm.
+
+D-11 RDR-3
+
+
+Text from RDR-3_Air-to-Air_Modes_Switchology__Displays_page_18.jpeg:
+TRACK DISPLAYS
+
+In STT, the radar provides target range, range rate, velocity, antenna
+angles, and angular rates to the central computer (CC) for computation of
+weapon attack mode parameters. Once lock on occurs (either manual or
+auto acq), the track display presented is a function of the weapon select
+switch position. The parameters displayed include: target true airspeed,
+aspect angle, magnetic heading, altitude, heading vector, range and range
+rate (opening/closing velocity between fighter and target, or Vc).
+
+Figures D-12 through D-19 depict a sequence of track displays from initial
+lock through break X (weapon select switch: MRM/SRM/GUN). Aspect
+angle (AA) is the angle from the tail of the target measured around to the
+radar line of sight from the fighter and is displayed in degrees divided by
+10 (15 aspect angle equals 150°). An L or R following the aspect angle
+indicates which side of the target you are seeing. Altitude appears
+adjacent to the antenna elevation caret and above the star in thousands of
+feet. At the elevation caret, the dash between the first digit(s) and the
+last digit represents a decimal point; thus, 20-1 represents 20,100 feet. A
+caret on the right side of the display indicates range. Vc appears left of
+the range caret. The vector stick indicates target heading relative to the
+center scribe line (fighter heading) and will move if the target maneuvers.
+Bearing and range to the tracked target from the selected bullseye point
+appears to the right of fighter ground speed.
+
+NOTE
+
+The heading vector oscillates 10° to 20° (or more) in STT when there are
+multiple targets in the radar beam.
+
+RDR-3 D-12
+
+
+Text from RDR-3_Air-to-Air_Modes_Switchology__Displays_page_19.jpeg:
+TARGET TRUE
+
+AIRSPEED TARGET
+
+MAGNETIC
+HEADING
+
+TARGET ASPECT
+ANGLE
+
+Vc / TARGET
+
+RANGE
+TARGET ALTITUDE
+
+(K FEET)
+
+TARGET
+HEADING
+VECTOR
+
+ACQUISITION
+SYMBOL
+
+HPRF STT
+
+BULLSEYE
+BEARING
+AND RANGE
+
+RDR-03-12
+
+Figure D - 12. MRM, Initial Radar STT.
+
+In STT with MRM selected on the weapon select switch, the acquisition
+symbol remains on the display to facilitate range bumping. Upon STT,
+the acquisition symbol initializes at target range and approximate target
+azimuth, but shifts 7.5° toward display center. Azimuth bumping is not
+available.
+
+D-18 RDR-3
+
+
+Text from RDR-3_Air-to-Air_Modes_Switchology__Displays_page_2.jpeg:
+ADMINISTRATIVE INFORMATION
+
+This student workbook is designed to provide information on the F-15E,
+its systems and capabilities. It is not a sole source document, but is to be
+used in conjunction with other standard Air Force publications and
+technical manuals. If you find any differences between the material
+contained herein and other governing regulations, adhere to the
+regulations and notify the OPDR.
+
+Changes to this workbook are indicated with a heavy black line in the left
+margin.
+
+Forward recommendations for revision or change to 4 TS, SJAFB, NC
+275381.
+
+Supersedes: RDR-3, August, 1998
+
+OPDR: 4 TS
+
+Index of Changes
+
+Effective Date Pages Affected
+
+
+
+Text from RDR-3_Air-to-Air_Modes_Switchology__Displays_page_20.jpeg:
+The intercept symbols in Figure D-13 track display include an allowable
+steering error (ASE) circle (solid for AIM-7, dashed for AIM-120), a
+steering dot, missile launch range symbols (Raero, Ropt, Rpi, Rmnvr, Rtr,
+Rmin) and time of flight (TOF) for the AIM-7 or time to active (TTA)/time
+to impact (TTI) for the AIM-120.
+
+Raero
+STEERING DOT
+
+WOU
+tft
+Ltt A |
+
+QIUhoTol
+
+ASE CIRCLE — =
+IS DMC
+| as Rmnvr
+Rtr
+IA
+PREDICTED ES Rin
+TOF / TTA/TTI wi
+FOR MISSILE @
+UNDER THE
+
+PICKLE BUTTON
+
+RDR-03-13
+Figure D - 13. MRM Radar STT.
+
+ASE Circle/Steering Dot
+
+The ASE circle and steering dot relate lead angle error (LAE). The circle
+represents the maximum steering error that is normally acceptable for
+missile launch. The pilot should maneuver the aircraft to position the
+steering dot inside the circle.
+
+RDR-3 D-14
+
+
+Text from RDR-3_Air-to-Air_Modes_Switchology__Displays_page_21.jpeg:
+MRM Range Symbols
+
+The Raero, Ropt, Rpi, Rmnvr, Rtr and Rmin symbols display when radar
+track exists in MRM. Your aircraft velocity is assumed constant
+throughout the pickle to separation time for computation of all zones.
+Steering dot centered is assumed for computation of the displayed Raero
+and Ropt; actual (current) steering limited to the maximum size of the
+ASE circle is used for all other zone calculations. Refer to
+
+TO 1F-15E-34-1-1-1 for additional parameters used in determining missile
+ranges.
+
+Raero (Maximum Aerodynamic Range)
+
+Raero, indicated by a triangle, is the absolute maximum missile launch
+range and is calculated using optimal ownship steering, including lofting.
+This zone assumes that the target executes no maneuver (i.e., current
+velocity is assumed constant).
+
+The first time a target intercept can be computed taking into account
+Raero constraints and current steering errors is known as Raero (current).
+The presence of the shoot cue indicates that Raero (current) has been
+reached.
+
+Ropt (Maximum Range Probability of Intercept with Optimum Steering)
+
+Ropt, indicated by a circle, is a special case of Rpi calculated assuming
+steering dot centered in the ASE circle (optimal steering) and is the same
+as Rpi in other respects. This zone assumes that the target executes no
+maneuver (i.e., current velocity is assumed constant with no acceleration).
+
+For AIM-7s, Ropt cannot be greater than the calculated dynamic seeker
+range. DSR is not displayed.
+
+Rpi (Maximum Range Probability of Intercept with Current Steering)
+
+Rpi is the maximum launch range with current steering that assures a
+high likelihood of success. This zone assumes that the target executes no
+maneuver (i.e., current velocity is assumed constant with no acceleration).
+As the pilot optimizes the steering by centering the dot in the ASE circle,
+current steering closely approaches optimal steering, and Rpi approaches
+Ropt. With the dot centered, Rpi and Ropt are the same.
+
+For AIM-7s, Rpi cannot be greater than the calculated dynamic seeker
+range. DSR is not displayed.
+
+D-15 RDR-3
+
+
+Text from RDR-3_Air-to-Air_Modes_Switchology__Displays_page_22.jpeg:
+Rmnvr (Maximum Launch Range Against a Maneuvering Target)
+
+Rmnvr (indicated by the sideways golf tee shaped symbol) represents the
+maximum launch range against a target executing a constant speed, level,
+4-¢ turn towards the tail at launch, to a designated aspect angle as
+entered on the ARMT (Top Level PACS Menu, PB #16) display or via
+MC/DTM. Ifthe current target aspect is less than the entered target
+aspect (i.e., closer to tail aspect), then Rmnvr equals Rpi. Entering 180°
+aspect (OFF displayed at PB #16) inhibits computation and display of
+Rmnvr since it is impossible to turn towards the tail and be at a head
+aspect when the turn is complete. Refer to TO 1F-15E-34-1-1-1.
+
+Rtr (Range Turn and Run)
+
+Rtr indicates the maximum launch range against a target executing an
+evasive turn and run maneuver at launch and is calculated assuming
+current ownship steering. A vertical line connects Rtr and Rmin. The
+target turn capability is based on F-15E specific power (Ps) curves under
+the following conditions.
+
+F100-PW-229 engines
+Clean aircraft
+
+50% fuel remaining
+Maximum power
+Standard day
+
+This zone assumes that the target executes a maximum g level maneuver
+with instantaneous g onset in the shortest direction to tail aspect; target
+speed is assumed constant until the target reaches tail aspect, and then
+increases per the capability in the conditions listed above.
+
+RDR-3 D-16
+
+
+Text from RDR-3_Air-to-Air_Modes_Switchology__Displays_page_23.jpeg:
+Rmin (Minimum Launch Range)
+
+Rmin is the minimum launch range that assures any likelihood of success.
+Target accelerations are assumed constant for the Rmin TOF. Your
+aircraft velocity is assumed constant throughout the pickle to separation
+time.
+
+MRM Digital Maneuvering Cue (DMC)
+
+The DMC appears just below the target Vc when the target range is less
+than or equal to Rpi and greater than or equal to Rtr. The cue indicates
+the maximum number of degrees the target can turn in the shortest
+direction towards the tail without defeating the priority missile for the
+current conditions. The target maneuver is a level 4-g turn initiated at
+pickle; target speed is constant. The radar displays a T when:
+
+e the target aspect is tail, or
+e a target turn to tail will not defeat the priority missile.
+
+TOF/TTA/TTI
+
+Predicted TOF/TTA displays between Raero (current) and Rmin with the
+steering dot inside the ASE circle. TOF/TTA updates for changes in target
+radar angle and range. For AIM-7 missiles, the letter “T” precedes this
+TOF to indicate time to impact. For AIM-120, time without any preceding
+letter indicates time to active after launch. If the letter “H” or “M”
+precedes this time, then the AIM-120 missile is already inside active
+range.
+
+D-17 RDR-3
+
+
+Text from RDR-3_Air-to-Air_Modes_Switchology__Displays_page_24.jpeg:
+If target azimuth exceeds 45° right or left in STT, the radar goes into an
+expanded azimuth display and portrays azimuth out to 73°. A dashed line
+appears at 3/4 intensity to indicate the normal 60° azimuth limit (Figure
+D-14).
+
+RDR-03-14
+
+Figure D - 14.
+
+The ASE circle and steering dot flash when azimuth reaches 65° to warn
+the pilot of approaching gimbal limit. The expanded azimuth logic is
+exited when target azimuth decreases to 40°.
+
+RDR-3 D-18
+
+
+Text from RDR-3_Air-to-Air_Modes_Switchology__Displays_page_25.jpeg:
+With MRM selected and master arm switch in ARM, the triangular AIM-7
+shoot cue (Figure D-15) displays when the following conditions exist:
+
+AIM-7 in priority and ready
+
+Radar in HPRF STT final track
+
+Steering dot inside ASE circle
+
+Target range between Raero (current) and Rmin
+Target range inside DSR (calculated but not displayed).
+
+The shoot cue flashes between Rtr and Rmin.
+
+With MRM selected and master arm switch in ARM, a six-pointed star
+AIM-120 shoot cue displays when the following conditions exist:
+
+AIM-120 in priority and ready
+Radar-STT, DTT, or DTWS
+Steering dot inside ASE circle
+
+Target range between Raero (current) and Rmin. (Shoot cue flashes
+between Rtr and Rmin.)
+
+DISPLAY
+LIMITED
+Raero
+
+AIM-7
+SHOOT
+CUE
+
+RDR-03-15
+
+D-19 RDR-3
+
+
+Text from RDR-3_Air-to-Air_Modes_Switchology__Displays_page_26.jpeg:
+After missile launch (Figure D-16), a missile in-flight cue appears along
+the target heading vector. The shortest/longest TOF/TTA/TTI for the
+missile(s) in flight begins countdown in the upper right corner of the
+display. The shortest TOF/TTA/TTI is furthest left. The times are
+updated (post launch) for target maneuvers. At predicted missile impact,
+TOF/TTI hits zero. Flashing dashes (--) replace TOF/TTI when TOF/TTI
+equals zero. The flashing dashes (--) display for 10 seconds.
+
+MISSILE IN
+FLIGHT
+
+MIN / MAX TOF/
+TTA/TTIFOR
+MISSILE(S) IN
+FLIGHT
+
+PREDICTED
+TOF FOR NEXT
+AIM-7 MISSILE
+
+(TTA/ TTI FOR
+
+AIM-120)
+
+RDR-03-16
+
+Figure D - 16. AIM-7 MRM Launch.
+
+RDR-3 D - 20
+
+
+Text from RDR-3_Air-to-Air_Modes_Switchology__Displays_page_27.jpeg:
+When target range decreases to inside Rmin, a flashing X symbol displays
+(Figure D-17). If an MRM has already been launched, the break X is
+displayed “steady” until missile time of flight to impact decreases to zero.
+The ASE circle and aim dot disappear at break X.
+
+RDR-03-17
+
+Figure D - 17. Steady Break X.
+
+D-21 RDR-3
+
+
+Text from RDR-3_Air-to-Air_Modes_Switchology__Displays_page_28.jpeg:
+The AIM-9 track display (Figure D-18) is basically the same as the AIM-7
+display. The SRM presentation has Rmax LC, Rmax HC, Rmin HC and
+Rmin LC range symbols. LC and HC means low confidence and high
+confidence respectively. Refer to TO 1F-15E-34-1-1 and
+
+TO 1F-15E-34-1-1-1 (classified) for the criteria defining LC and HC. The
+AIM-9 prelaunch TOF appears next to the shoot cue (preceded by an “S”).
+There is no in-flight time countdown like exists in MRM. The break X
+flashes immediately at Rmin LC, regardless of whether a missile is in
+flight. The acquisition symbols are not available in SRM.
+
+= IUGIGIGIGI &
+
+135
+450 11R 240
+
+2©
+
+[e)
+5
+q
+
+Rmax LC
+Rmax HC
+
+Hf
+\
+
+CHIC
+
+Rmin HC
+Rmin LC
+
+a
+{A
+
+MED STT
+
+SJ
+
+Fa
+
+AIM-9 PRELAUNCH
+TOF
+
+ZS
+
+®
+
+RDR-03-18
+
+Figure D- 18. SRM STT.
+
+RDR-3 D - 22
+
+
+Text from RDR-3_Air-to-Air_Modes_Switchology__Displays_page_29.jpeg:
+The GUN STT track display (Figure D-19) is a backup steering
+presentation used when a visual on the target is lost. The circle
+represents the HUD FOV. If the HUD symbology is lost, the pilot flies to
+position the dot in the center of the circle to aid in establishing a tally on
+the target.
+
+— CWO & *D
+
+iaieiel
+
+Figure D - 19. GUN STT.
+
+RDR-03-19
+
+GUN VS GUNS
+
+GUN is a position on the weapon select switch. GUNS is a radar auto
+acquisition mode. If the radar is in STT or designated track-while-scan
+(DTWS), selecting GUN yields GUN STT (Figure D-19) immediately.
+With the radar in search, selecting GUN activates the GUNS radar auto
+acq mode. After auto acq lock on, GUN STT results.
+
+Last Track Data
+When the crew exits single target track to search, the last track data
+displays at the top left of the A/A radar display. The last track altitude
+
+information is shown where target TAS data was, and last track aspect
+angle is shown where target aspect angle data was displayed.
+
+D - 238 RDR-3
+
+
+Text from RDR-3_Air-to-Air_Modes_Switchology__Displays_page_3.jpeg:
+AIR-TO-AIR RADAR
+
+COVER
+
+AIR-TO-AIR MODES, SWITCHOLOGY & DISPLAYS
+
+INTRODUCTION
+
+This RDR-3 workbook is your guide in studying F-15E air-to-air radar
+modes, features, switchology and displays. As part of a computer-based
+training (CBT) lesson, this workbook should be read prior to taking the
+CBT instruction.
+
+CONTENTS:
+
+INTRODUCTION 0000. eecceeeseeeesneeceseeesssaeecesaaeecnsaeeeesaeesssaeesensaees A-1
+CRITERION REFERENCED OBJECTIVES (CROs).......0....eeeeeeeeeeeeees B-1
+STUDENT PREPARATION REQUIREMENTS . 0.0... eeeeeees C-1
+CL TEAT sos sures sas cos cores canis anais cru amen sexs ansis cas mo Mas oes GSA MaRS Seis MNS Ka HOEK Saws OnE CoReD MoM Ma On D-1
+END OF TEXT QUIZ oo... ec eecceeeseeessceceseeeessaeesesaeesensaeesesaeeesaees N/A
+Hp ce cere ee ees se ces cea cmt ses oe an ce ates ss ce ane ss tae sere ces ee ees se oe F-1
+
+A-1 RDR-3
+
+
+Text from RDR-3_Air-to-Air_Modes_Switchology__Displays_page_30.jpeg:
+QUESTIONS
+
+1. Manual lock on is typically employed in an intercept environment at
+
+range.
+2. SS, BST, LR BST and VTS are modes.
+a. long range
+b. aircraft stabilized
+c. HPRF
+d. extreme pulse
+
+3. The minimum radar target acquisition range of GUNS is
+feet.
+
+4. The heading vector symbol indicates target relative heading, and
+therefore does not move when the target maneuvers.
+a. True
+
+b. False
+
+5. The ASE circle and steering dot, with MRM selected, relate
+
+6. The missile TOF indication in an SRM track presentation is preceded
+by an
+
+RDR-3 D - 24
+
+
+Text from RDR-3_Air-to-Air_Modes_Switchology__Displays_page_31.jpeg:
+ANSWERS
+medium to long
+b
+3000
+b
+lead angle error
+
+S
+
+RDR-3
+
+
+Text from RDR-3_Air-to-Air_Modes_Switchology__Displays_page_32.jpeg:
+TRACK-WHILE-SCAN (TWS)
+
+TWS is a mode that affords a near all-aspect, multi-target detection and
+track capability within a selected area. TWS can provide the “big picture”
+via rapid altitude sampling between targets, wide volume search and a
+plan view of target formations with heading vectors. Track data is made
+available with reduced effect on target RWR. In addition, TWS furnishes
+a situational picture for high confidence final sorts.
+
+There are two different TWS rates and two different TWS modes
+available. The TWS rates are normal rate TWS (NTWS) and high data
+rate TWS (HDTWS). In NTWS, frame time varies from 2.2 to 2.6 seconds,
+and three scan patterns are available: 2 bar, 60° azimuth; 4 bar, 30°
+azimuth; and 6 bar, 15° azimuth. In HDTWS, two scan patterns are
+available: 3 bar/30° and 2 bar/30°. Frame time is 1.5 seconds in 3 bar
+HDTWS and 1 second in 2 bar HDTWS.
+
+Designated TWS (DTWS) mode or nondesignated TWS (NDTWS) mode
+can use either of the two rates. Designated TWS ties the scan pattern
+around a primary designated target (PDT), which provides detailed
+information on that target, and also maintains track files on other targets.
+In NDTWS, the scan pattern is not tied to any target. (The search pattern
+can be positioned to the radar and elevation scan limits).
+
+TWS selection is inhibited if GUN is selected on the weapon select switch,
+an AIM-7 launch is in progress, and/or an AIM-7 is in flight.
+
+RDR-3 D - 26
+
+
+Text from RDR-3_Air-to-Air_Modes_Switchology__Displays_page_33.jpeg:
+6-uda L6-d
+
+(YomeEG .OZT) ASOTOIPIUMS SML ‘OZ - G OansIy
+
+02-€0-HCY
+
+SMLGH
+
+/ o0E / HVE C
+
+OaS 1 < amd
+oovOlny
+
+SMLN
+o0€ / HVE Y
+
+A
+OAS | > GM4
+
+DOV OLNV
+
+OAS | > GMA
+DOV OLNV
+
+/ Lav
+
+" — O0W OLN ‘
+i SMLGH \
+fy Of /Hvae PS. \
+oaSk<amd/ ef a 9aS |< GM4
+Oov OLNW ra SS OOv OLNV
+/ oas | > am4 4s | > amd
+OO OLNY OO OLNY
+
+SMLN
+lay-oovoinvy °09/ dvd
+
+LAV - DOV OLNV
+
+loaray “. SMLGH HVA Z = 05S | < :
+“ay SMLGH HV € = O4S | > a
+% aM4 0Ov OLN + a
+NG SIBET HADI! dow / O01 dos fy way?
+
+YHADOIL dOY / OGL dds
+HOYVAS
+
+01
+
+‘dou
+UL .LAV/GMA LOALAY ACGONW,, ©q plnoys ..LAV/GMA OOV OLNV,, ‘T3-d
+pue 0Z-d eInsty Ul “OLsO] YOIMS SMALLS ytdep 1Z-q pue 0Z-C ensty
+
+ASSOTOYSIIME
+
+
+Text from RDR-3_Air-to-Air_Modes_Switchology__Displays_page_34.jpeg:
+8¢-d 6-adda
+
+‘(YOTBES ,09) ASOTOYIIMS SAL “TZ - Cd emnsiy
+
+}2-€0-YaY
+SMLGH %
+(| oe/uvaz |S
+i OaS b< amd
+/ oovOLNY
+a SM.LN \
+J O06 /HVEV \
+/ A i
+, 9aS | > aM ‘
+! OOv OLNV \
+/ 93S | > GMA i
+! ; OOv OLN \
+/ Lv \
+“DOV OLNV ‘
+f SMLGH an
+fi v o0€ / yvd € “Se \
+oaSh<amd ae “ye 9aS |< ama
+oOV OLN |” ra SS DOV OLNV
+/ O38 | > GM4 193734 O38 1 > GM4
+Ov OLN OOv OLN
+
+SMLN
+
+L4V - OV OLNV lav-vovoinvy 08 / HVE?
+
+Loaray “\, SMLGH vd 2 = 03S | < ME veya
+S SMLGH Uva € = O3S | > #
+A aM OOV OLN + uw
+Nese HADOIUL dO / OGL dos * ay-wewerny4
+HADOIWL dou / OGL dos
+
+
+
+Text from RDR-3_Air-to-Air_Modes_Switchology__Displays_page_35.jpeg:
+TWS Rates
+
+From search, depress and release the FCP TDC or go full action on the
+RCP trigger, and thumb aft on the FCP auto acq/RCP mode reject switch
+to select NTWS or auto acq forward for greater than or equal to 1 second
+or less than 1 second selects different versions of HDTWS (see Figure
+D-20 and D-21). From STT, thumb aft on the auto acq/mode reject switch
+to enable NTWS. To enter HDTWS from STT, thumb forward greater
+than or equal to 1 second or less than 1 second on the auto acq/mode reject
+switch. To enter STT from either HDTWS or NTWS, thumb aft on the
+auto acq.
+
+TWS Modes
+
+Whenever the crew enters TWS from search (or if all targets are manually
+undesignated), the radar operates in NDTWS mode. If the crew initiates
+TWS from STT (or if the crew designates a track file in NDTWS by placing
+the acq symbol over the track file and pressing the FCP TDC/RCP
+trigger), the radar enters DTWS operation with a track file established
+from the designated target (STT) data. Thus it is possible to alternate
+between NDTWS and DTWS.
+
+Positioning the weapon select switch to GUN (in DTWS) also causes the
+radar to enter STT. When the pilot selects GUN during NDTWS, the
+radar enters the auto acq GUNS mode. Note, depressing the auto acq
+switch (except in GUNS) eventually returns the radar to search.
+
+D - 29 RDR-3
+
+
+Text from RDR-3_Air-to-Air_Modes_Switchology__Displays_page_36.jpeg:
+Scan Patterns
+
+Normal TWS (Designated or Nondesignated)
+
+When the crew initiates NTWS, three AZ/EL scan parameters are
+selectable: 2 bar, 60°; 4 bar, 30°; and 6 bar, 15° TWS patterns respectively
+(Figure D-22). Az bumping is available to select between 2 bar, 60° and
+
+4 bar, 30°. To select 6 bar, 15° position the acq symbol into the radar BIT
+window. The word “NARROW” will then appear in the BIT window.
+When “NARROW?” is present, designate by pressing FCP TDC/RCP
+trigger, the scan becomes 6 bar, 15°. Az bumping changes from 6 bar, 15°
+to 4 bar, 30°. When the radar is in TWS, the radar BIT window reflects
+the number of bars of the elevation scan (2, 4 or 6) followed by the
+acronym “TWS,” followed by the PRF in which the radar is operating
+
+(H for HPRF, M for MPRF, blank for interleaved PRF). As an example, if
+the radar is in 2 bar, 60° azimuth scan, medium PRF track-while-scan,
+the BIT window would reflect “2TWSM.” Range scale switching also
+operates the same as in normal search (via the TDC).
+
+AZ BUMP
+
+AZ BUMP
+
+ACQ SYMBOLS
+IN BIT WINDOW,
+DESIGNATE
+"NARROW"
+
+AZ BUMP \
+a
+
+2 BAR 60° SCAN
+
+CO-ALTITUDE
+TARGETS WITH
+WIDE AZIMUTH
+SEPARATION
+
+4 BAR 30° SCAN
+
+GENERAL SURVEILLANCE OF
+WIDELY SPACED TARGETS
+
+6 BAR 15° SCAN
+VERTICALLY STACKED TARGETS
+
+RDR-03-22
+
+Figure D - 22. Scan Patterns.
+
+RDR-3 D - 30
+
+
+Text from RDR-3_Air-to-Air_Modes_Switchology__Displays_page_37.jpeg:
+The el wheel controls the elevation scan center in NDTWS. The
+acquisition symbol position determines the azimuth scan center. As the
+crew moves the scan pattern off the NDTWS targets, the track files go half
+intensity. If the files enter track memory (i.e., begin flashing), moving the
+search pattern back to cover the target AZ/EL position before or during
+flashing should update and retain the track files.
+
+In DTWS, the radar automatically controls the elevation and azimuth
+scan center to accommodate the designated target(s) and other track file
+targets. Lower priority targets are deleted when all detected targets
+cannot be maintained within the elevation or azimuth coverage.
+
+The crew can override DTWS azimuth scan logic by positioning the acq
+symbol left or right. Once the crew shifts the scan position in this
+manner, the radar automatically maintains only the primary designated
+target. The radar automatically recenters the az scan center with any
+subsequent target redesignation or azimuth bump.
+
+DTWS elevation scan logic may be biased up or down in 4 and 6 bar TWS
+by normal antenna elevation HOTAS. The radar BIT window will
+indicate “UTWS” for up bias and “DTWS” for down bias. Designated
+targets will be retained in coverage.
+
+D-31 RDR-3
+
+
+Text from RDR-3_Air-to-Air_Modes_Switchology__Displays_page_38.jpeg:
+High Data TWS
+
+HDTWS (Figure D-23) is available in 2 bar/30° and 3 bar/30° scan
+patterns. The faster data gathering (frame time) provides an increased
+capability against maneuvering targets. AZ bumping in HDTWS will take
+you to 2 bar/60° NTWS. When in HDTWS, the radar BIT window reflects
+2 HDT and 3 HDT to indicate 2 bar or 3 bar respectively.
+
+AZ BUMP
+WIDE PATTERN
+TWO-BAR 60° SCAN
+FOR CO-ALTITUDE TARGETS
+WITH WIDE SEPARATION
+
+IN AZIMUTH
+
+\& MEDIUM PATTERN
+AZ BUMP FOUR-BAR 30° SCAN
+
+FOR GENERAL
+SURVEILLANCE OF
+WIDELY SPACED
+TARGETS
+
+AZ BUMP
+AZ BUMP
+TWO-BAR THREE-BAR
+HIGH DATA RATE PATTERN HIGH DATA RATE PATTERN
+THREE-BAR 30° SCAN
+TWO-BAR 20" SCAN FOR TARGETS MANEUVERING
+FOR CO-ALTITUDE MANEUVERING IN ELEVATION
+TARGETS
+
+RDR-03-23
+
+Figure D - 23. HDTWS.
+
+RDR-3 D - 32
+
+
+Text from RDR-3_Air-to-Air_Modes_Switchology__Displays_page_39.jpeg:
+Target Processing
+
+The radar maintains track files (in terms of range, angle and rate) on up
+to 10 targets and supplies this data to the CC for correlation and update
+on an end of frame basis. The first hit produces an observation target (up
+to 20 of them) at the end of that frame. Observation targets are deleted if
+they do not receive a second hit within the next two frames (NTWS), or
+the next three frames (HDTWS). Targets that receive 4 hits become
+established track file targets, and are displayed with a relative heading
+vector.
+
+All established track file targets abide by the following logic:
+
+e Targets at ranges greater than 20 nm or less than 10 nm that have not
+been updated for 10 seconds are deleted (full intensity for 6 seconds,
+and then flash for 4 seconds).
+
+e At ranges between 10 nm and 20 nm, a 15 second timer is used (11
+seconds full intensity, 4 seconds flashing).
+
+When track file range is beyond (not more than 10 nm beyond) the
+displayed range scale, these track files are maintained unless outside of
+radar coverage. If all the designated targets are deleted, the radar enters
+NDTWS.
+
+Once a target has an established track file, it remains on the display and
+moves in a predicted direction based on the latest target hit. Thus, TWS
+can provide increased situational awareness through continuously
+displayed target information compared to the intermittent display of
+normal search.
+
+D - 33 RDR-3
+
+
+Text from RDR-3_Air-to-Air_Modes_Switchology__Displays_page_4.jpeg:
+CRITERION REFERENCED OBJECTIVES (CROs)
+
+1. Identify the operating characteristics and advantages/ disadvantages
+of these radar modes and features:
+
+Auto acquisition
+STT
+
+TWS
+
+DTWS
+
+NDTWS
+HDTWS
+
+DTT
+
+SORT
+
+FLOOD
+
+VI
+
+Track transfer logic
+
+ror me ao oe
+
+2. Identify the actions necessary for the following:
+
+a. Control of scan center
+
+b. Manual lock on
+
+c. Auto acq lock on
+
+d. Mode switching
+
+e. Designate and undesignate targets
+f. Quick step/quick pick
+
+g.
+
+Return to search
+
+RDR-3 B-1
+
+
+Text from RDR-3_Air-to-Air_Modes_Switchology__Displays_page_40.jpeg:
+Target Displays
+NDTWS
+
+The NDTWS display (Figure D-24) is similar to the standard A/A search
+display. The bar number readout indicates the number of bars in the
+selected scan pattern, rather than the current bar number as in normal
+search. When the crew selects HDTWS, HDT (i.e., HDTWS) follows the
+bar number. TWS track files begin as observation targets (half intensity
+symbol).
+
+CONFIRMED RANGE
+(FULL INTENSITY)
+
+OBSERVATION
+TARGET
+(v2 INTENSITY)
+FILE TARGET
+AO TRACK (WITH ALTITUDE)
+TARGET
++. (SAMPLING)
+NUMBER OF
+EL BARS
+(STATIC)
+
+RADAR PRIORITY
+TARGET (RPT)
+
+RDR-03-24
+
+Figure D - 24. NDTWS.
+
+Other target symbols are unique to the TWS display. Full intensity
+symbols with a relative heading vector indicate those targets for which the
+radar has sufficient correlation to maintain a track file and are inside the
+current scan coverage. Target altitude displays above track files with
+vector status. During NDTWS, the radar computer ranks the track file
+targets based on first merge criteria (aspect, range and velocity). The
+target determined to be the first merged target is called the radar priority
+target (RPT). A strobe of six open box symbols denotes angle only (AO)
+
+RDR-3 D - 34
+
+
+Text from RDR-3_Air-to-Air_Modes_Switchology__Displays_page_41.jpeg:
+track file targets. (Further discussion of AO and jamming targets will be
+provided in RDR-6.)
+
+Placing the acquisition symbol over a short vector target (in NDTWS or
+DTWS) moves the altitude readout to the left of the acq symbols and
+target Mach number (if Mach <0.4 or 21.1) displays to the right. The
+vector stick will increase in length to a long vector.
+
+DTWS
+
+The crew may designate up to eight TWS targets (track or observation)
+via normal lock-on procedures. One designated target will be the primary
+designated target (PDT). The seven other TWS designated targets will be
+secondary designated targets (SDTs). After entry into DTWS (at least one
+target is designated initially), auto designation of all targets with vector
+status is possible by boxing “AUTO” at PB #10. Once designated, a target
+receives a long heading vector (Figure D-26). If you observe a high
+interest track file, and 8 targets have already been designated, one of
+those targets must be undesignated prior to designating the new file. To
+do this, slew the acquisition symbols over a lower priority designated
+target, and thumb aft on the FCP boat switch, or thumb left on the RCP
+castle switch (Figure D-25). (If the crew undesignates all targets in this
+manner, the radar enters NDTWS.)
+
+D- 35 RDR-3
+
+
+Text from RDR-3_Air-to-Air_Modes_Switchology__Displays_page_42.jpeg:
+COOLIE
+
+UP: QUICK STEP P K@ | | Se
+
+BOAT SWITCH
+
+AFT: TARGET
+UNDESIGNATE
+
+CASTLE SWITCH
+LEFT: TARGET UNDESIGNATE
+DEPRESS: QUICKSTEP
+
+RDR-03-25
+
+Figure D - 25. Undesignate/Quick Step.
+
+The crew can move the PDT status to other SDTs via quick step.
+Momentary activation of quick step moves the PDT status to other SDTs
+in this order (you cannot quick step to nondesignated TWS targets):
+
+e The SDT next farther out in range
+
+e Ifthe current PDT is farthest in range, then the left most AO SDT,
+and then left to right through the designated AO SDT
+
+e Ifthe current PDT is an AO track target farthest right in azimuth
+(i.e., lowest ranking), then the shortest range SDT becomes the PDT
+
+Any SDT can be made the PDT by quick pick. Quick pick is accomplished
+by redesignating (less than one second) an SDT. That SDT then becomes
+the PDT.
+
+When the crew removes the PDT status from a designated target by quick
+step or quick pick, the target reverts to an SDT.
+
+RDR-3 D - 36
+
+
+Text from RDR-3_Air-to-Air_Modes_Switchology__Displays_page_43.jpeg:
+The DTWS display (Figure D-26) is similar to the A/A track display.
+Altitude coverage of the scan pattern at acquisition symbol range is
+presented in addition to PDT parameters. The PDT (target toward which
+ordnance will be expended) is depicted as an open star with a heading
+vector. Ajamming target PDT appears as four asterisks connected by a
+line. A symbol of six open boxes indicates an AO track file. (Four open
+boxes connected by a straight line indicate an AO secondary designated
+target.)
+
+AO TRACK
+
+FILE
+TTIOR TTA
+(IN FLIGHT)
+
+ALTITUDE
+
+COVERAGE
+SECONDARY
+DESIGNATED
+TARGET (SDT)
+
+PRIMARY
+
+DESIGNATED AO SDT
+
+TARGET (PDT)
+
+TTI/ TTA
+
+(PRIORITY
+
+MISSILE
+
+TO PDT)
+
+RDR-03-26
+
+Figure D - 26. DTWS.
+
+The dashed ASE circle, shoot cue (a six-pointed star), and missile launch
+parameters (Figure D-26) are specific to an AIM-120 presentation.
+Predicted TTI or TTA for the missile under the pickle button (priority
+missile) appears at the bottom center of the display for AIM-120.
+Minimum and maximum TTA/TTI for in-flight missiles displays to the left
+of the range scale at the top right of the display. With two or more
+AIM-120 missiles in flight, there will be two times: min TTA/TTI on the
+left and max TTA/TTI on the right.
+
+D - 37 RDR-3
+
+
+Text from RDR-3_Air-to-Air_Modes_Switchology__Displays_page_44.jpeg:
+TWS SORT
+
+The TWS sort mode enables the crew to see “raw” MPRF target hits
+superimposed over a half intensity DTWS or NDTWS display. The legend
+at PB #9 on a TWS display is SORT. Select SORT (box) at PB #9 to enter
+the TWS SORT mode. For a complete discussion of the mode refer to
+
+TO 1F-15E-34-1-1.
+
+Dual Target Track (DTT)
+
+This TWS mode allows a two-target track capability of two widely spaced
+targets—a PDT and SDT. Independent scan patterns (2 mini frames) are
+used to track these two targets. These mini frames consist of two mini
+rasters of 4 bars with 4.5° azimuth, and 1.5° elevation bar spacing each.
+To enter DTT from DTWS, redesignate a secondary designated target for
+longer than 1 second. There are several options for exiting DTT. For
+more information, refer to TO 1F-15E-34-1-1.
+
+RDR-3 D - 38
+
+
+Text from RDR-3_Air-to-Air_Modes_Switchology__Displays_page_45.jpeg:
+QUESTIONS
+
+When azimuth bumping from 2 bar, 60° azimuth TWS, the radar
+enters a bar / ° TWS pattern.
+
+The radar priority target in NDTWS is radar selected and is
+
+If all designated targets are undesignated via the boat or castle
+switches, the radar enters search.
+
+a. True
+b. False
+
+Attempting to quick step in TWS with only one target designated
+
+D - 39 RDR-3
+
+
+Text from RDR-3_Air-to-Air_Modes_Switchology__Displays_page_46.jpeg:
+ANSWERS
+1. 4,30
+2. the first merge target based on range, aspect, and airspeed.
+3. hb (enters nondesignated TWS)
+
+4. has no effect
+
+RDR-3 D - 40
+
+
+Text from RDR-3_Air-to-Air_Modes_Switchology__Displays_page_47.jpeg:
+SEARCH SORT
+
+Sort is a 30°, space-stabilized search scan (Figure D-27) that assists in
+rapid detection of closely spaced targets. The acquisition symbol and scan
+pattern stay pointed at the proper volume of space (within gimbal limits)
+to reduce crew workload during maneuvers. If the antenna reaches
+gimbal limits during this process, the 30° search continues at that limit.
+Azimuth bumping does not occur without moving the TDC. Elevation
+bars used are changed automatically according to radar range scale
+selected, and are not as selected at PB #2, “EL” control.
+
+HEADING STABILIZED
+
+RDR-03-27
+
+Figure D - 27. Sort.
+
+D-41 RDR-3
+
+
+Text from RDR-3_Air-to-Air_Modes_Switchology__Displays_page_48.jpeg:
+Sort is selectable during search or STT. The scan centers at the
+acquisition symbol when entered from search. The crew selects sort from
+search by depressing the FCP TDC or going full action on the RCP trigger
+for more than one second. It is not possible to enter sort via azimuth
+bumping, or from auto acq or flood. When the crew selects MODE
+REJECT from auto acq lock, flood or STT, the radar initializes to the sort
+mode.
+
+If the crew initiates sort while in STT, the radar breaks lock and the scan
+centers on the tracked target. If the crew initiates sort while in HOJ or
+HOJ track extrapolate, the radar enters sort scan centered on the
+jammer’s az/el position. Sort scan locus is adjustable through normal
+controls for azimuth, elevation and range. The radar automatically
+controls bar spacing and the number of bars as a function of the radar
+range scale.
+
+This sort mode is not the same as the TWS SORT mode presented earlier
+in this workbook.
+
+RDR-3 D - 42
+
+
+Text from RDR-3_Air-to-Air_Modes_Switchology__Displays_page_49.jpeg:
+FLOOD
+Manual Selection-MPRF
+
+If lock on by the preferred methods cannot be obtained, MPRF flood mode
+can be manually selected via PB #13 on the MPD/MPCD. The FLOOD
+command from PB #18 is ignored in STT, TWS, or BIT. The main
+antenna drives to a 60° look-down angle (to clear the path for the flood
+antenna) and the flood antenna output is energized (MPRF). The FLOOD
+cue appears below PB #19. This mode can provide backup air-to-air gun
+ranging (out to 2 nm) for the nearest target within flood range and flood
+antenna beamwidth. MPRF flood ranging is used with the LCOS track
+funnel gunsight display in the HUD.
+
+Manual Selection—-HPRF
+
+If the radar is in STT or DTWS, the pilot can manually select HPRF flood
+illumination at AIM-7 missile launch by holding the FCP coolie switch
+down prior to and while pressing the pickle button.
+
+The crew can also manually select HPRF flood illumination after an
+AIM-7 launch in STT by pressing aft on the auto acq switch for greater
+than 1 second.
+
+Automatic Selection—HPRF
+
+Flood horn HPRF radiation is automatically provided at certain times
+during AIM-7 operations. HPRF flood is automatically provided at AIM-7
+launch if the radar is in search. Auto flood also occurs during HPRF track
+extrapolate (memory) operations if the target is inside of flood antenna
+range and FOV, or if HPRF track is not achieved within 1 second of
+launch initiation from STT, or 3 seconds from DTWS.
+
+The radar attempts a confirmed HPRF track upgrade within % second of
+launch initiation from MPRF final track or HPRF probationary track. If
+unsuccessful, HPRF flood illumination activates. The launch-to-eject cycle
+is not delayed.
+
+The launch cycle delays for up to 3 seconds when the MRM fire signal
+occurs during DTWS operation. If the radar does not achieve HPRF STT
+within this 3 second period, the radar initiates flood illumination for
+missile launch. The radar does not delay HPRF FLOOD at launch when
+targets are within the FOV at less than 5 nm in the front and 3 nm in the
+stern.
+
+D - 43 RDR-3
+
+
+Text from RDR-3_Air-to-Air_Modes_Switchology__Displays_page_5.jpeg:
+3. Given an A/A radar display, interpret:
+
+a. Target parameters
+b. | Weapons employment zones on radar display
+
+REFERENCES
+
+TO 1F-15E-34-1-1
+
+Systems-General
+
+Stick Grip and Throttle Controls
+Hand Controllers
+
+A/A Radar Display
+
+Radar Search Modes
+Acquisition Modes
+
+Radar Special Modes
+
+Radar Employment
+
+RDR-3
+
+
+Text from RDR-3_Air-to-Air_Modes_Switchology__Displays_page_50.jpeg:
+HPRF flood illumination is effective to approximately 8 nm, depending on
+target size. As in manual HPRF flood operations, the HUD is the primary
+attack reference. The pilot steers to maintain the target within the 12°
+MRM reference circle during the AIM-7 fly out.
+
+Any activation of the auto acq switch suspends automatic flood ops and
+commands the selected mode. (GUNS scan does not interrupt flood.)
+
+Refer to TO 1F-15E-34-1-1-1 for additional information.
+Velocity Search Boresight (VS BST) Mode
+
+The VS BST mode provides HPRF AIM-7 illumination similar to the
+FLOOD mode except that VS BST uses the main antenna. The radar
+enters VS BST when the auto acq switch is pressed forward for greater
+than one second while the radar is supporting an AIM-7 shot. VS BST
+appears in the radar BIT window, at the top of the A/A radar display and
+VS replaces the scope range value. The radar does not display target
+detections or the acq symbol. A 2.5° circle is shown on the HUD.
+
+VS BST is exited as follows:
+
+e Mode reject—return-to-search to selected search mode
+e Select GUN—GUNS mode selected
+
+e Select supersearch—supersearch
+
+e Auto acq aft greater than 1 second-HPRF FLOOD
+
+RDR-3 D - 44
+
+
+Text from RDR-3_Air-to-Air_Modes_Switchology__Displays_page_51.jpeg:
+VISUAL IDENTIFICATION (VI)
+
+The crew selects the VI mode by pressing PB #5 on the MPD/MPCD
+(Figure D-28). The VI option is only available at PB #5 when the radar is
+in STT (VI is not available with GUN selected). With VI selected, the CC
+provides steering information to guide the aircraft directly behind the
+target. Steering computations are a function of F-15E velocity, target
+aspect and range.
+
+(nn
+
+E-
+
+00D voormn
+
+RDR-03-28
+
+Figure D - 28. VI.
+
+D- 45 RDR-3
+
+
+Text from RDR-3_Air-to-Air_Modes_Switchology__Displays_page_52.jpeg:
+For nose through beam aspects, steering the dot into the ASE circle
+provides lag angles between 15° and 45° to avoid excessive lateral offset or
+high-G maneuvering during the conversion turn. For target aspect angles
+less than 90°, the steering is pure pursuit to the target.
+
+The VI radar display does not contain MRM/SRM range symbols. The
+ASE circle has a fixed diameter until 1.6 nm range (10,000 feet), where
+the circle increases in size, representing a 500-foot circular radius about
+the target. Keeping the steering dot on the ASE circle perimeter will
+assure 500-foot lateral separation. If the range is less than 1 nm, and Vc
+is greater than 50 knots, the Vc will flash (HUD and A/A radar). A
+flashing break X appears at 1500 feet or 30 seconds to collision, whichever
+is greater. The ASE circle and steering dot remain on the display during
+
+break X.
+WARNING
+
+The gun and A/A missile firing circuits
+are still operational in the VI mode.
+
+RDR-3 D - 46
+
+
+Text from RDR-3_Air-to-Air_Modes_Switchology__Displays_page_53.jpeg:
+QUESTIONS
+
+The search sort scan pattern is adjustable via the
+
+Manual flood selection by pushing PB #13 provides MPRF only.
+
+a. angle
+
+b. flood ranging for air-to-air gunnery out to 2 nm
+c. velocity
+
+d. HPRF
+
+In VI mode, the GUN, SRM and MRM weapon fire circuits are
+nonfunctional.
+
+a. True
+b. False
+
+D - 47 RDR-3
+
+
+Text from RDR-3_Air-to-Air_Modes_Switchology__Displays_page_54.jpeg:
+ANSWERS
+
+1. TDC and el control
+
+RDR-3 D - 48
+
+
+Text from RDR-3_Air-to-Air_Modes_Switchology__Displays_page_55.jpeg:
+GLOSSARY
+
+A All
+
+A/A Air-to-air
+AA Aspect angle
+AO Angle only
+
+ASE Allowable steering error
+Az Azimuth
+
+BIT Built-in test
+
+BST Boresight
+
+CC Central computer
+
+DMC Digital maneuvering cue
+DSR Dynamic seeker range
+DTT Dual target track
+
+DTWS Designated track-while-scan
+EL Elevation
+
+EW Electronic warfare
+
+FOV Field of view
+
+H High
+
+HDT High data track-while-scan
+HDTWS High data track-while-scan
+HOJ Home on jam
+
+HOTAS Hands on throttle and stick (and controller)
+
+F-1 RDR-3
+
+
+Text from RDR-3_Air-to-Air_Modes_Switchology__Displays_page_56.jpeg:
+HPRF High pulse repetition frequency
+INS Inertial navigation system
+LAE Lead angle error
+
+LOS Line of sight
+
+LR BST Long range boresight
+
+M Medium
+
+MPRF Medium pulse repetition frequency
+MRM Medium range missile
+
+N Normal
+
+NDTWS Nondesignated track-while-scan
+NTWS = Normal track-while-scan
+
+PDT Primary designated target
+PRF Pulse repetition frequency
+RBL Radar boresight line
+
+RTS Return to search
+
+S SRM Time
+
+SS Supersearch
+
+STT Single target track
+
+T Time (AIM-7)
+
+TAS True airspeed
+
+TD Target designator
+
+TDC Target designator control
+
+RDR-3 F-2
+
+
+Text from RDR-3_Air-to-Air_Modes_Switchology__Displays_page_57.jpeg:
+TEWS
+
+TOF
+
+TTA
+
+TTI
+
+VS
+
+VS BST
+
+Tactical electronic warfare system
+Time of flight
+
+Time to active
+
+Time to impact
+
+Track-while-scan
+
+Velocity of closure
+
+Visual identification
+
+Velocity search
+
+Velocity search boresight
+
+Vertical scan
+
+RDR-3
+
+
+Text from RDR-3_Air-to-Air_Modes_Switchology__Displays_page_6.jpeg:
+STUDENT PREPARATION REQUIREMENTS
+BEFORE THE CBT CLASS
+1. Study the information contained in this workbook.
+
+2. Read the applicable references in TO 1F-15E-34-1-1.
+
+RDR-3 C-1
+
+
+Text from RDR-3_Air-to-Air_Modes_Switchology__Displays_page_7.jpeg:
+TEXT
+
+The APG-70 is a coherent, multiple PRF, multi-mode attack radar. It has
+the capability to search for, acquire and track airborne targets as well as
+provide air-to-ground mapping and ranging. The radar set, in concert
+with TEWS indications, provides the aircrew with the options of threat
+avoidance, engagement and air-to-surface mission accomplishment.
+Several operational modes and multiple radar features assist in air-to-air
+weapons employment.
+
+(To enhance readability, some information has been omitted from the
+radar and HUD displays throughout this workbook. Switchology
+presentations assume crewmember is in command of the air-to-air radar
+display.)
+
+TARGET ACQUISITION
+Manual Acquisition
+
+Manual radar lock on (target designation or acquisition) is typically
+employed in an intercept environment at medium to long range. In
+search, use the TDC to bracket (enclose) the target with the acquisition
+symbol (Figure D-1). This is done by pressing the TDC left/right/up/down
+to move the acquisition symbol, likewise on the radar display.
+
+(OVOUC ICO!
+a ee |
+E-1 E-2 E-3
+
+ACQUISITION
+BOL
+CONTROL
+
+T 360
+
+RIGHT HAND
+CONTROLLER
+
+RDR-03-01
+
+Figure D - 1. Manual Acquisition.
+
+D-1 RDR-3
+
+
+Text from RDR-3_Air-to-Air_Modes_Switchology__Displays_page_8.jpeg:
+Depressing and releasing the FCP TDC commands the radar to enter a
++8° azimuth acquisition scan (miniraster) centered on the acquisition
+symbol in azimuth and search the selected bar pattern in elevation. (Two
+bar initially and then the selected bar pattern after 1.5 seconds.)
+Releasing the TDC allows manual lock on or acquisition (STT), if the acq
+symbol is bracketing a target. Full action and release on the RCP
+handcontroller trigger commands miniraster. Releasing the trigger allows
+lock on, if the acq symbol is bracketing a target (Figure D-2). Ifthe pilot
+does not release the FCP TDC (WSO/RCP trigger) within one second, the
+radar enters search sort mode. Normally for a single target, depress and
+release the TDC/trigger in one action (< 1 sec) with the acquisition symbol
+on the target.
+
+TDC
+
+DEPRESS AND RELEASE (<1 SEC):
+
+RADAR SEARCH MINIRASTER AND RADAR LOCK ON
+(IF ACQ SYMBOL BRACKETING TARGET)
+
+TRIGGER
+
+HALF ACTION: EL CONTROL WITH TDC
+FULL ACTION AND RELEASE (<1 SEC):
+RADAR SEARCH MINIRASTER AND
+RADAR LOCK ON (IF ACQ SYMBOL
+BRACKETING TARGET)
+
+RDR-03-02
+
+Figure D - 2. Lock On.
+
+RDR-3 D-2
+
+
+Text from RDR-3_Air-to-Air_Modes_Switchology__Displays_page_9.jpeg:
+If the radar does not achieve lock on (no target within the acq symbol or
+the radar is unable to acquire), the scan remains in miniraster in the bar
+scan selected (never less than two). Push down on the FCP/RCP auto
+acquisition switch (mode reject) to return to search and attempt to
+reacquire, if desired (Figure D-3). If the radar achieves lock on, mode
+reject also returns to search. Mode reject also clears the radar display of
+false targets (“birds”).
+
+AY
+
+MODE REJECT SWITCH (RCP)
+DOWN: MODE REJECT
+(RETURN TO SEARCH - RTS)
+
+AUTO ACQ SWITCH (FCP)
+DOWN: MODE REJECT
+(RETURN TO SEARCH - RTS)
+
+RDR-03-03
+
+Figure D - 3. Mode Reject/Return to Search.
+
+Auto Acquisition (Auto Acq)
+
+There are several radar auto acq modes: supersearch (SS), boresight
+(BST), long range boresight (LR BST), vertical scan (VTS) and GUNS.
+These modes are only selectable from the front cockpit (assumes the pilot
+has command of the A/A radar display). These modes place the radar into
+a specific scan pattern, prepared for auto acquisition. When the pilot
+points the aircraft so that the target enters the radar scan pattern, the
+radar automatically acquires (locks on) the target. The pilot will normally
+point the aircraft by visual reference to the target. Additionally, SS, BST,
+LR BST and VTS are aircraft stabilized, while GUNS is INS horizon
+stabilized vertically and aircraft stabilized horizontally.
+
+D-3 RDR-3
+
+

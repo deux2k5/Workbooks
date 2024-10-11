@@ -36,6 +36,7 @@ nav:
   - AGW - Air-to-Ground Weapons: agw/index.md
   - AVI - Avionics: avi/index.md
   - EW - Electronic Warfare: ew/index.md
+  - Hierarchy - Sensor Hierarchy: hierarchy/index.md
   - LAN - LANTIRN: lan/index.md
   - OPS - Operations: ops/index.md
   - RDR - Radar: rdr/index.md

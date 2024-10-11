@@ -10,5 +10,3 @@ Welcome to the AGW - Air-to-Ground Weapons section. Here you'll find detailed in
 - [AGW-4 Pop-Up Attacks](agw-4.md)
 - [AGW-5 Nuclear Weapons Introduction](agw-5.md)
 - [AGW-6 Nuclear PACS](agw-6.md)
-- [AGW-7 Maverick Employment](agw-7.md)
-- [AGW-8 HARM Employment](agw-8.md)

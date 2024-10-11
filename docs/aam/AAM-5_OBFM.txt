@@ -1,0 +1,1336 @@
+Text from AAM-5_OBFM_page_1.jpeg:
+SUPPORTS COURSES
+FIS5EBQ
+
+FISETX
+
+FISESOC
+
+ACADEMIC STUDENT WORKBOOK
+F-15E
+
+AERIAL ATTACK MANEUVERING
+AAM-5
+OFFENSIVE BASIC FIGHTER
+MANEUVERS (OBFM)
+
+DECEMBER 1999
+
+(OFP N/A)
+
+AIR COMBAT COMMAND
+
+
+Text from AAM-5_OBFM_page_10.jpeg:
+Positional Geometry
+
+The three concepts of range, aspect angle and angle off [heading crossing
+angle (HCA)] describe one aircraft’s position relative to another
+
+(Figure D-2). The combination of these terms describes which aircraft has
+a positional advantage and how much advantage exists.
+
+N
+
+ANGLE-OFF
+(HCA)
+
+ASPECT ANGLE /
+(TARGET TO
+
+ATTACKER)
+
+AAM-05-02
+
+Figure D - 2. Range, Aspect Angle and Angle Off.
+
+Range The distance between two aircraft.
+
+Aspect Angle The relative position of the attacker to the target
+without regard to the attacker’s heading. Strictly
+speaking, aspect angle is measured from the tail of the
+target to the position of the attacker. Tail aspect is
+zero and head aspect is 180°.
+
+Angle Off (HCA) The angle between the longitudinal axis of the attacker
+and the longitudinal axis of the defender. Whenever
+the attacker is pointing at the defender, aspect angle
+and angle off are the same.
+
+AAM-5 D-4
+
+
+Text from AAM-5_OBFM_page_11.jpeg:
+Attack Geometry
+
+There are three available attack pursuit courses: lead, lag and pure
+(Figure D-3). The attacker’s nose position and lift vector relative to a
+target contribute to the pursuit course flown. These geometries are
+three-dimensional.
+
+In-plane If the attacker is in the bandit’s plane of motion, the
+position of the attacker’s nose determines the pursuit
+course. An attacker pointing at the adversary is in pure
+pursuit. An attacker pointing behind the bandit is in lag
+pursuit. With the nose pointed in front of the bandit, the
+attacker is in lead pursuit.
+
+AAM-05-03
+
+Figure D - 3. Pursuit Curves.
+
+
+Text from AAM-5_OBFM_page_12.jpeg:
+Out-of-plane When out of the defender’s plane of motion, the attacker’s
+pursuit course is determined by where the present lift
+vector will position the nose when reentering the defender’s
+turn plane. For example, after gaining sufficient turning
+room out of the adversary’s turn plane, the attacker that
+pulls far enough in front of the bandit to arrive back
+in-plane with the nose in front of the defender is in lead
+pursuit. The same holds true for pure or lag pursuit.
+
+Weapon Employment Zone (WEZ)
+
+The primary goal of offensive BFM is to maneuver to a position to kill the
+bandit. The area around the adversary from where you can employ
+ordnance defines the weapons employment zone (WEZ). The size of the
+WEZ depends on the types of ordnance available, airspeed, altitude,
+aspect angle, angle off and aircraft turn capability. See AFTTP 3-1 Vol I
+for specific weapon employment zones.
+
+Turning Room/Turn Circle
+
+Turning Room
+
+Turning room is the distance between the two aircraft that either aircraft
+may use to accelerate and decrease range or to turn and enter the turn
+circle. Turning room exists both in and out of the adversary’s plane of
+motion.
+
+Turn Circle
+
+The turn circle is a mental projection of the defensive turn over time
+(Figure D-4). The size of the turn circle varies with changes in the
+adversary’s TAS and G loading. If the attacker’s range to the defender is
+greater than the defenders turn diameter, the attacker is outside the
+defender’s turn circle. It is important to recognize when you are inside the
+defender’s turn circle because when you are there, the bandit cannot turn
+hard enough to move you forward of the 3/9 line.
+
+AAM-5 D-6
+
+
+Text from AAM-5_OBFM_page_13.jpeg:
+Observing and predicting the defender’s turn will create the visual cues
+that allow you to recognize when you enter the defender’s turn circle. If
+the attacker observes forward line of sight (LOS) movement by the
+defender, then the attacker is inside the defender’s turn circle. Another
+visual cue is the defender’s aspect angle remains constant or begins to
+decrease.
+
+AAM-05-04
+
+Figure D - 4. Turn Circle.
+
+D-7 AAM-5
+
+
+Text from AAM-5_OBFM_page_14.jpeg:
+Control Zone
+
+The control zone (Figure D-5) is a position along the bandit’s turn circle
+from which you can maintain pressure on or “control” the bandit. From
+this position, you can rapidly move into a WEZ once you have achieved an
+energy advantage or the bandit makes a mistake.
+
+The available weapons envelopes and the defender’s aircraft performance
+define the control zone. It is important to recognize weapons envelopes
+and develop judgement as to how far away, in terms of time, you are from
+the weapons employment zone. The inner limit of the control zone allows
+time to react to bandit maneuvers and position for an accurate gun shot,
+or maintain minimum weapons range or minimum separation for training
+rules. It also allows the attacker to reposition the nose to establish a lead
+pursuit curve to enter a WEZ. The closer you get to the inner limit, the
+more important it is to have aspect angle, angle off, and closure under
+control. At the outer limit of the control zone, you can have more aspect
+angle, angle off and closure problems, but you run the risk of taking
+pressure off the bandit.
+
+Considering F-15E performance and energy management at medium
+altitude, we can establish some generic physical boundaries on the control
+zone (Figure D-5).
+
+20° AA
+
+2500'
+
+=
+
++ 30 HCA 3
+
+50° AA AAM-05-05
+Figure D - 5. The Control Zone.
+
+AAM-5 D-8
+
+
+Text from AAM-5_OBFM_page_15.jpeg:
+This control zone is valid for F-15E vs F-15E BFM. When encountering a
+BFM situation against a dissimilar adversary (F-16, F-18, MiG-29, Su-27,
+etc.), understanding the adversaries’ capabilities helps to determine the
+control zone.
+
+OFFENSIVE MANEUVERS
+
+These maneuvers allow you to control overtake, get turning room by flying
+out of the bandit’s POM and put you in parameters to kill the bandit.
+When used correctly, they help you to maintain the advantage and an
+acceptable energy level.
+
+Lead Reposition Maneuver
+
+The lead reposition maneuver (Figure D-6) increases closure, decreases
+range and/or reduces angle off. To perform this maneuver, increase bank
+angle and pull toward the inside of the bandit’s turn circle (Figure D-7).
+By over-rotating you gain additional turn rate capability due to increased
+radial G. Pull toward the inside of the bandit’s turn circle to establish
+lead pursuit. Once in lead, reduce G and accelerate to increase your
+energy state, decrease range and increase closure.
+
+<<
+
+Figure D - 6. Lead Reposition.
+
+
+Text from AAM-5_OBFM_page_16.jpeg:
+While holding lead pursuit on the inside of the bandit’s turn, angle off
+decreases and fuselages start to align. However, lead pursuit geometry
+increases aspect angle as you maneuver across the defender’s turn circle.
+This can lead to high closure rates and a possible overshoot. Do not get
+too greedy in your bid for lead and bury your nose. Several small lead
+repositions are better than one large one. Additionally, one large lead
+reposition may telegraph a less than desirable energy state to the bandit.
+
+BANDIT DRIFTS
+IN
+
+A TO BANDIT
+FORWARD LOS
+
+LIFT
+VECTOR
+
+AAM-05-07
+
+Figure D - 7. Lead Reposition, Cockpit View.
+
+AAM-5 D-10
+
+
+Text from AAM-5_OBFM_page_17.jpeg:
+Lag Reposition Maneuver
+
+The lag reposition maneuver (Figure D-8) primarily controls excess
+closure. If the closure or overtake problem is not severe and is caused
+solely by an airspeed advantage with fuselages nearly aligned, then
+control overtake with a power reduction and/or G onset. If the overtake
+problem is more severe, then use out-of-plane maneuvering. Rotate your
+lift vector out of the bandit’s plane of motion and pull to out-of-plane lag
+pursuit. Be careful not to over-G while rolling as you reposition your lift
+vector. Once the closure/aspect problem is under control, reorient your lift
+vector and pull back into the bandit’s plane of motion. By doing several
+small lag repositions rather than one or two large ones, you can keep
+pressure on the bandit with your nose position.
+
+c we
+
+Figure D - 8. Lag Reposition.
+
+
+Text from AAM-5_OBFM_page_18.jpeg:
+The degree of reposition depends on how much closure exists and your
+range to the bandit. The earlier you recognize the problem, the less severe
+the maneuver needs to be. During the pull out-of-plane, monitor the
+bandit’s track along your canopy (Figure D-9). As the bandit’s movement
+slows or stops, roll to establish lead pursuit and continue the attack.
+
+You must be very careful when executing lag repositions. If you fly too
+high above the bandit, you will exit the control zone. Additionally, if you
+do not recognize the bandit’s lift vector on you as you try to go
+out-of-plane, you can be forced out of the control zone. The lag maneuver
+also tends to reduce aspect angle as you fly toward the bandit’s extended
+6 o’clock, but angle off tends to build rapidly. Remember, whenever your
+nose is off the bandit, you provide acceleration opportunities to the bandit
+and ease the pressure with which you drive the fight.
+
+LIFT VECTOR
+ww
+
+TOO MUCH
+CLOSURE
+
+<¢--
+
+BANDIT
+DRIFTS
+OUT
+
+AAM-05-09
+
+Figure D - 9. Lag Reposition, Cockpit View.
+
+AAM-5 D-12
+
+
+Text from AAM-5_OBFM_page_19.jpeg:
+Quarter Plane
+
+The quarter plane (Figure D-10) is normally thought of as a last ditch
+maneuver to preserve nose-tail separation and maintain a position of
+offensive advantage. Use this maneuver when faced with a high angle off,
+high aspect, high closure and short range situation. It is nothing more
+than an extreme lag reposition. To perform the maneuver, roll at least
+90° away from the defender’s plane of motion, reduce power (usually to
+idle) and pull with high G to control aspect and closure (Figure D-11).
+
+This aggressive out-of-plane maneuver to lag pursuit reduces closure and
+aspect, generates turning room, but angle off continues to build. Ifthe
+bandit continues to turn, watch for an increasing LOS rate to help
+determine when to reorient your lift vector back onto the bandit. When it
+looks like you will maintain nose-tail separation (bandit stops moving
+back on your canopy), reorient your lift vector and pull toward the control
+zone while advancing power back to afterburner. If the bandit attempts to
+deny this turning room, reorient your lift vector toward the bandit’s new 6
+o'clock and continue to pull. Eventually the bandit will fall off into a
+defensive turn or you will enter a scissors. You must continue to monitor
+the bandit for a change in the plane of motion or an attempt to separate.
+
+Figure D - 10. Quarter Plane Maneuver.
+
+
+Text from AAM-5_OBFM_page_2.jpeg:
+ADMINISTRATIVE INFORMATION
+
+This student workbook is designed to provide information on the F-15E,
+its systems and capabilities. It is not a sole source document, but is to be
+used in conjunction with other standard Air Force publications and
+technical manuals. If you find any differences between the material
+contained herein and other governing regulations, adhere to the
+regulations and notify the OPDR.
+
+Changes to this workbook are indicated with a heavy black line in the left
+margin.
+
+Forward recommendations for revision or change to 4 TS, SJAFB, NC
+275381.
+
+Supersedes: AAM-5, February, 1999
+
+OPDR: 4 TS
+
+Index of Changes
+
+Effective Date Pages Affected
+
+
+
+Text from AAM-5_OBFM_page_20.jpeg:
+Since the quarter plane is a “last ditch” maneuver to maintain the
+offensive, you must be aware of the common errors. Late recognition of
+the need for the quarter plane can result in a flight path overshoot and
+probable loss of 3/9-line advantage. Recommitting your nose too low may
+allow the bandit to force you into a vertical overshoot.
+
+LIFT VECTOR
+
+EXTREME
+CLOSURE
+
+BANDIT DRIFTS
+OUT
+
+AAM-05-11
+
+Figure D - 11. Quarter Plane, Cockpit View.
+
+AAM-5 D-14
+
+
+Text from AAM-5_OBFM_page_21.jpeg:
+OFFENSIVE BFM
+
+The name of the game offensively is to achieve a position within a
+weapons envelope in the quickest possible time and kill the bandit. A
+good working knowledge of your available ordnance and their respective
+envelopes is mandatory for success in the air-to-air environment.
+
+Objectives
+
+The primary objective of offensive BFM is to kill the bandit. If you cannot
+immediately kill the bandit, maneuver to maintain an offensive advantage
+through energy and geometry management. Finally, separate prior to
+becoming neutral or defensive. Recognize when the fight is becoming
+neutral and get out while you are still in control of the situation.
+
+Offensive BFM Setups
+
+Standard setups are fight floor plus 10,000’ AGL, 480 KCAS and line
+abreast at fight start range plus 3000’. Ensure you are recording only the
+HUD at the ready call. As a technique, do not reject the HUD pitch ladder
+or heading scale. Both aircraft strive to be on altitude +500’, at proper
+range and at least 400C to call “READY.” When both call “READY,” lead
+will check the flight 45° into the defender. The offender performs a hard
+turn and works HOTAS to obtain a radar lock. As a technique, after
+locking the bandit, use SRM or GUNS to provide easier range assessment
+via the ranging reticle. The offender will call “LOCKED, (RANGE)” and
+the defender will reverse to a 2-3 G level turn. The defender is responsible
+for controlling the angle to achieve a 4 aspect at the “fight’s on” range.
+
+The offender will maintain pure pursuit (waterline on the TD box) and call
+(range) every thousand feet. The fight begins at the briefed “fights on”
+range. Aircrews should ensure they have the proper setup airspeed (430
+KCAS +10) at the “fights on.” Terminate if the setup parameters are not
+precisely achieved.
+
+
+Text from AAM-5_OBFM_page_22.jpeg:
+After a fight terminates, deconflict flight paths, establish a 350 KCAS mil
+power climb and strive for a line abreast formation at the proper spacing
+for the next setup. Climb to altitude and accelerate to the starting
+airspeed. Do not call ready with less than 400 KCAS.
+
+Offensive BFM can be divided into two areas: long range BFM and short
+range BFM. Remember that you are not required to do any of these
+maneuvers if they are not necessary. However, if the bandit is
+uncooperative or you make a mistake, you must maneuver to maintain the
+advantage and achieve the desired weapons parameters.
+
+Long Range BFM
+
+Long range offensive BFM begins with a 3/9 advantage at a range outside
+of the defender’s projected turn circle (Figure D-12). The initial problem is
+one of range. To employ BFM, you must enter the bandit’s turn circle.
+Note that the defender has time to generate aspect angle and angle off
+problems while the attacker is accelerating toward the turn circle.
+
+The attacker’s goal is to fly to an offset point on the defender’s turn circle,
+make a max performance turn (offensive break turn) to a slight flight path
+overshoot about one turn radius behind the bandit. Three basic options of
+lead, pure and lag pursuit now become players for entry into the bandit’s
+turn circle.
+
+AAM-5 D-16
+
+
+Text from AAM-5_OBFM_page_23.jpeg:
+Lead Pursuit Entry
+
+While outside the turn circle, you can pull all the lead you want. This
+entry results in increased aspect, large HCAs, high closure and an
+excessive flight path overshoot. You may want to use this when trying for
+an AIM-9M followed by a high angle gun shot and a separation (i.e., near
+JOKER/BINGO fuel, minimum ordnance and/or fighting a superior
+bandit).
+
+, AAM-05-12
+
+Figure D - 12. Lead Entry.
+
+
+Text from AAM-5_OBFM_page_24.jpeg:
+Pure Pursuit Entry
+
+The next option is pure pursuit. When you choose pure pursuit, drive
+right at the bandit in the HUD. This forces the defender to turn to honor
+your nose, but also lets the bandit build excessive angle problems for you
+to solve (Figure D-13). This entry may work well against an inferior
+turning bandit, but against a similar turning bandit, it creates similar
+problems as the lead pursuit entry.
+
+(1) : . AAM-05-13
+
+Figure D- 13. Pure Entry.
+
+AAM-5 D-18
+
+
+Text from AAM-5_OBFM_page_25.jpeg:
+Lag Pursuit Entry
+
+A lag entry to the circle means pointing your nose to a place behind the
+bandit and flying to the bandit’s turn circle (Figure D-14). The object is to
+get there with as much turning room as you can get without going out the
+backside of the turn circle. However, you cannot threaten the bandit with
+your nose in lag for long periods of time. This takes pressure off, allows
+the bandit to accelerate and could extend the time required for the kill.
+
+Ne
+
+| ®
+
+©
+
+AAM-05-14
+
+Figure D - 14. Lag Entry.
+
+
+Text from AAM-5_OBFM_page_26.jpeg:
+Knowing when you enter the bandit’s turn circle requires constant
+assessment of your position relative to the bandit’s. As you enter the turn
+circle, the bandit’s aspect angle begins to decrease or stabilize. Following
+this, the bandit’s line of sight (LOS) rate across the canopy will increase.
+This increase in LOS is the biggest clue that you are entering the bandit’s
+turn circle.
+
+You may also need vertical turning room, but use caution getting it. The
+bandit may deny turning room below the original plane of motion with a
+slightly nose low defensive turn. Going for excessive turning room above
+the bandit may allow the bandit to use it against you, energy state
+permitting. Since the bandit will most likely not go up, to avoid an
+airspeed loss, you can usually go for a slight amount of uphill vertical
+turning room as you enter the turn circle.
+
+Displace your pursuit course from the center of the bandit’s turn circle
+opposite the direction of the defensive turn. One way to do this is to drive
+to where the bandit was when the defensive turn began. Continuously
+analyze the bandit’s defensive turn, realizing that, as the radius becomes
+smaller, the closer to the center of the circle you will have to set your
+initial turn. During this initial move, accelerate to slightly above your
+corner velocity, or about 450 knots maximum. On longer range setups, a
+slight power reduction may be required to remain below 450 knots.
+
+Approaching the turn circle, the bandit should drift about 30-40° and
+approach the canopy bow. Entering the turn circle, begin a max rate turn
+to hold the bandit no higher than just below the canopy bow. Smoothly
+pull to between the single and double rate beeper to get to the max G
+allowable. As a technique, if you are below 450 KCAS, pull the stick about
+34 the way back to the seat pan until the aircraft digs in and you feel a
+
+6-7 G onset, and then smoothly pull the stick all the way back to the seat
+pan. You should be able to achieve greater than 7.5 Gs with this
+technique. However, be very aware of your airspeed and altitude, as this
+technique is only valid for airspeeds below 450 KCAS and less than
+
+18,000 ft MSL. Remember that above corner velocity, the beeper precedes
+any buffet. As airspeed decreases toward corner, anticipate the need to
+blend in full AB to sustain a max rate turn. You may have to modulate
+power to get through corner velocity quickly. This max rate turn normally
+results in a turn radius as good as or better than the defender’s. Also, the
+energy advantage obtained before the attacker’s break turn often results
+in a slight flight path overshoot. This slight overshoot should occur no
+closer than one turn radius behind the defender. Bring the nose back
+inside the turn circle for a second offensive BFM move. This should put
+you closer, slower and with fewer angles in relation to the bandit. For
+
+AAM-5 D - 20
+
+
+Text from AAM-5_OBFM_page_27.jpeg:
+example if you started at 9000 feet, you should now be around 6000 feet.
+During the pull back inside, the geometry may allow a low aspect missile
+shot against an inferior turning adversary.
+
+Once established on or inside the bandit’s turn circle, use short range
+BFM to fly to the control zone. From the control zone you can continue to
+pressure the bandit while maintaining or regaining energy and eventually
+employ weapons.
+
+Short Range BFM
+
+Short range offensive BFM begins at, or slightly inside, the turn circle and
+behind the bandit’s 3/9 line. Once inside the turn circle, the objective is to
+control aspect, angle-off and range while maneuvering toward a position
+to employ ordnance.
+
+At the start of a short-range BFM engagement, entry into the bandit’s
+turn circle is much like the long range BFM problem. Drive to where the
+bandit’s break turn started and evaluate the bandit’s break turn. There
+are excellent cockpit references for positioning the bandit while continuing
+to threaten with your nose (Figures D-15 and D-16). In your lag
+maneuver, position the bandit about 20-30° toward the inside of the turn.
+This should be near the center of the inside canopy mirror. When the
+bandit’s LOS rate accelerates outside of the mirror, roll back in plane or to
+lead and pull the bandit to the top of the canopy bow or top of the HUD.
+Continue your pull if within weapons engagement zone range limits and
+shoot. If unable to pull the bandit to the HUD, perform another lag
+maneuver and accelerate. Repeat these maneuvers until you have
+achieved a performance advantage, then pull the bandit to the HUD and
+kill him. Remember that multiple small maneuvers are more energy
+conserving than one large one, so be patient.
+
+After obtaining a tally, the bandit’s reaction will most likely be an
+immediate max performance break turn. The quickest shot opportunity
+will occur against a poorer turning aircraft. If your max performance turn
+keeps your nose in pure or lead pursuit and inside the defender’s turn
+circle, go for a gunshot. Be aware that this method requires that you solve
+your BFM and gun sight conditions in minimum time.
+
+
+Text from AAM-5_OBFM_page_28.jpeg:
+If you cannot generate a higher rate turn than the adversary, you will not
+be able to go pure pursuit in-plane to shoot and you will remain in a lag
+position. The result is most likely a slight flight path overshoot, though it
+will be a smaller overshoot than the long range BFM setup. As the
+bandit’s LOS rate permits, pull into lead pursuit and setup for the
+gunshot.
+
+As you close on the bandit for the gunshot, overtake control is critical in
+preventing a gross overshoot. Use out-of-plane maneuvering to control
+excess closure against a slow defender. However, if inside the turn circle,
+power modulation may be all that is required to match the bandit’s LOS
+rate and obtain a gunshot. Put your pipper on the bandit and force a jink
+out of plane, reducing angles and Ve.
+
+It is normally necessary to modulate power against a performance-limited
+bandit. The intent is to stay at a higher energy state which, assuming the
+altitudes are close, implies more calibrated knots.
+
+
+Text from AAM-5_OBFM_page_29.jpeg:
+0° AZIMUTH
+20° HIGH
+
+Oe HON 20° RIGHT
+10° HIGH
+
+40° LEFT
+0° EL q
+14° LEFT 14° RIGHT 40° RIGHT
+0° AZ 0° EL
+0° EL
+30° LEFT 40° LOW
+25° LOW 30° RIGHT
+25° LOW
+
+55° RIGHT
+
+55° LEFT
+400 KIAS: HEAD CENTERED ON HEADREST
+ta“ SEATING HEIGHT SUCH THAT EYES LOOK SS
+FROM TOP OF GLARESHIELD TANGENT TO
+RADOME AAM-05-15
+
+Figure D - 14. FCP Canopy Code.
+
+0° AZIMUTH
+30° HIGH
+20° LEFT
+20° HIGH
+20° RIGHT
+20° HIGH
+30° LEFT 30° RIGHT
+0° EL 0° EL
+oo LOW 45° RIGHT
+20° LOW
+b
+\ 4
+Ye /
+N
+
+AX HEAD CENTERED é
+nm , 00 FCP SEAT FULL UP aT
+go. (1100) RCP SEAT FULL UP
+(10:00) AAM-05-16
+
+Figure D - 15. RCP Canopy Code.
+
+
+Text from AAM-5_OBFM_page_3.jpeg:
+AERIAL ATTACK MANEUVERING
+
+q
+
+J tow dso
+
+COVER
+
+OFFENSIVE BASIC FIGHTER MANEUVERS (OBFM)
+
+INTRODUCTION
+
+This workbook is your guide to an understanding of the successful
+application of basic fighter maneuvers (BFM). It will familiarize you with
+the fundamentals of BFM and factors affecting their performance in the
+air-to-air arena. It will provide knowledge needed to effectively employ
+the F-15E against an airborne adversary.
+
+CONTENTS:
+
+INTRODUCTION 0000. eeecceesneeeesneeeeeaeesesaeeeessaeesssaeesessaeeseseeeesaees A-1
+CRITERION REFERENCED OBJECTIVES (CROs)......0.....eeeeeeeeeeeeee B-1
+STUDENT PREPARATION REQUIREMENTS ...0... ee eeeeeeeeeee C-1
+TEXT oc cecececceeesseecceessseeeceesssseeecesssseeeeeeesaeeescessaeeeseessaaeessensaaeess D-1
+END OR PET UIA: cess ces sane sas sxe sens anus wens sae sen ess news cexis eave onsa sue aks ais ew E-1
+GLOSSARY... eeeceesseeceeseeeeesaceseeeeecesaeeeessaeecesaaeecssaeecesaeesssaeeeensaees F-1
+
+
+Text from AAM-5_OBFM_page_30.jpeg:
+Offensive BFM Errors
+
+In offensive BFM, the most common mistakes have to do with fight
+analysis. In analyzing the fight, the first thing to realize is the bandit’s
+initial move can determine the type fight it is going to be. If the bandit’s
+turn does not bring you through the 3/9 line, you should be able to remain
+offensive, and classic offensive BFM applies. However, if the bandit can
+get you ahead of the 3/9 line on the initial move, and you make no attempt
+to control aspect, you will most likely overshoot and become defensive. In
+this situation, many attackers start a quarter plane and zoom, trying to
+save a flight path overshoot (thinking offensively), only to have the bandit
+pull right to the attacker’s six. Although this maneuver may be successful
+against a thrust-limited aircraft, when you try this against an aircraft
+with similar capabilities, you will be surprised in a bad way. When you
+attack a highly maneuverable aircraft that gets you ahead of the 3/9 line
+on the initial move, do not give up all your energy and try to save a flight
+path overshoot. Instead, initially fight a neutral fight and use your
+energy advantage to regain the offensive.
+
+Another common offensive mistake is power and airspeed control. Again,
+the defender drives the fight. The bandits turn rate and radius determine
+where you have to be if you want to kill. If you are turning to attack the
+bandit from behind the 3/9 line, and the bandit is moving away from your
+HUD, you are probably going too fast or not applying enough G. Pull the
+throttles or stick back to stop the LOS movement on the canopy and
+continue to readjust power and G to maintain the turn performance you
+want.
+
+Fight control, or lack of it, is also a common offensive BFM mistake.
+
+Many times bandits who are out of airspeed and ideas are given a “new
+lease on life” when the attacker performs a reposition maneuver that is
+not necessary or too large. When you pull your nose off the bandit, you
+are relaxing pressure and giving the bandit options. As a rule of thumb, if
+you can keep the bandit within your canopy bow, the bandit will definitely
+feel pressure and should remain predictable. Use pure pursuit only when
+ready to employ ordnance, otherwise use lead and lag pursuit maneuvers
+to control aspect, angle off and closure problems. These maneuvers should
+be as small as possible to keep your nose on and pressuring, while
+minimizing the bandit’s options. Using the same size reposition at
+
+6000 feet when you are at 3000 feet will cause excessive angle off and ease
+pressure on the bandit. As stated earlier, patience is important. Two
+small repositions are better than one large one.
+
+
+Text from AAM-5_OBFM_page_31.jpeg:
+Finally, once you are in the control position, seek to employ ordnance.
+Remember the reason you do offensive BFM is to achieve a quick kill. In
+the Strike Eagle, prolonged maneuvering in the BFM arena may lead to a
+neutral or defensive situation or a one versus many engagement.
+
+Scissors
+
+A scissors is a series of rolls and reversals, caused by the bandit
+attempting to reverse and force a slow speed fight. This will happen if you
+are late to recognize a range or closure problem. The bandit will attempt
+to accentuate the upcoming overshoot by pulling for your 6 o’clock. As you
+react with your own roll and pull, a scissors develops (Figure D-17).
+
+AAM-05-17
+
+Figure D - 16. Scissors.
+
+
+Text from AAM-5_OBFM_page_32.jpeg:
+Flat Scissors
+
+A flat scissors is the result of an in-plane overshoot. The first priority is to
+stop your forward velocity relative to the bandit. To do so, set the wings
+relative to the horizon and pull up. Use idle power to slow forward
+velocity initially, followed by max AB to maintain pitch attitude. When
+the bandit starts to move forward on the canopy, pull to the bandit's high
+6 o’clock to establish a 3/9 line advantage.
+
+Lift vector control in the flat scissors is paramount. Overbanking causes a
+loss of lift, which will cause your nose to drop, your ground velocity to
+increase, and you will probably give up 3/9 advantage. Maintain a higher
+relative nose position and the minimum lateral spacing to keep the bandit
+out in front.
+
+Once you have a 3/9-line advantage, use an early reversal (lead turn) at
+the next pass to start reducing angle-off and slow the LOS. This in turn
+will allow you a higher Pk gun opportunity. It is possible the bandit will
+not allow you to slow the LOS sufficiently and force a low LOS snapshot.
+You can attempt additional snapshots as long as the bandit decides to stay
+in the fight. If the bandit attempts to leave, the bandit’s wings will
+telegraph the maneuver. Seeing this, do your best lead turn in-plane and
+predict the bandit’s flight path. Remember that a flat scissors is a slow
+speed flying contest won by the aircraft more maneuverable at slow speed
+and high AOA. If the outcome is in doubt, look for an opportunity to
+separate before losing 3/9 advantage.
+
+Major errors in a flat scissors are:
+
+e Not pulling parallel to the horizon and thus increasing horizontal
+travel.
+
+e Not pulling toward the bandit’s six allowing too much lateral
+separation to develop.
+
+e Not controlling bank angle at slow speed and losing nose position.
+
+e Not taking advantage of early reversal after gaining 3/9 advantage.
+
+AAM-5 D - 26
+
+
+Text from AAM-5_OBFM_page_33.jpeg:
+Rolling Scissors
+
+A rolling scissors (Figure D-18) generally occurs when the overshoot is in
+the vertical (out-of-plane) or an altitude differential exists at the initiation
+of a flat scissors. A lower wing-loaded adversary may also force you into a
+rolling scissors as a defense.
+
+In a rolling scissors, as your lift vector drops, your forward velocity vector
+increases forcing you forward. The fighter on the bottom can accentuate
+the forward “flush” by pulling the aircraft into the vertical and now the
+roles are reversed. If neither of you transition to a flat scissors when on
+top, these role reversals continue until one fighter out flies the other and
+gains a sufficient energy advantage to roll toward the other fighter’s six.
+In general, a rolling scissors will become a nose low spiral to the floor if
+continued. In a continuous rolling scissors, the fighter with the better
+maneuverability and ability to point the nose will win. Separating from a
+rolling scissors is generally easier than from a flat scissors if done early
+and properly. The best time to initiate the separation is during the roll
+down while the bandit is pulling up. Errors in rolling scissors are the
+same as a flat scissors except the aircraft must be overbanked to achieve
+the roll.
+
+@) O—~ @ ©) ()
+eS SS
+Oo © ©
+
+©
+
+AAM-05-18
+
+Figure D - 17. Rolling Scissors.
+
+
+Text from AAM-5_OBFM_page_34.jpeg:
+Separations
+
+The primary goal of offensive BFM is to maneuver into weapons
+parameters. Once you recognize you no longer have the potential to
+achieve shot parameters, it is foolish to continue maneuvering against an
+adversary. Your goal now is to attempt to separate prior to losing your
+offensive position (Figure D-19). Do not wait until a defensive situation
+develops before attempting a separation.
+
+(2) = i0
+
+OS
+
+©) ©
+
+AAM-05-19
+
+Figure D - 18. Separation.
+
+Once you have made the decision to separate, stop turning with the
+bandit. Employ ordnance against the bandit to force a reaction while you
+turn for separation. If you are unable to employ ordnance, do not close in
+an obvious nonlethal position as this wastes energy that could be better
+used for the subsequent separation. Once you recognize that you will not
+have another shot opportunity, initiate your separation. Unload to
+accelerate, but keep the aircraft banked to give the impression that you
+are just sliding into deep lag. When at deep six and hopefully out of view,
+roll and pull to establish max HCA (150-180°). Once there, unload again
+and roll to reacquire the bandit. Be aware of the aircraft’s attitude and
+altitude to avoid getting too nose low to avoid a floor kill. It is imperative
+that you reacquire the bandit to assess your next move. With the tally,
+continue small check turns to continue to increase HCA, being careful not
+to over-g. As your speed increases, continue to maintain 8-10 units AOA.
+
+AAM-5 D - 28
+
+
+Text from AAM-5_OBFM_page_35.jpeg:
+If the bandit reverses, you need to either break into the bandit or continue
+to separate out of range, based on your assessment of the WEZ. Both
+options necessitate chaff and flares.
+
+Errors in separations include:
+
+e Rolling and pulling too early thus telegraphing your intentions.
+
+e Not pulling hard enough or long enough to establish maximum HCA.
+e Not reacquiring the bandit.
+
+e Not maintaining the unload.
+
+e Hitting the ground.
+
+e Breaking into the bandit after achieving a valid separation.
+
+Short Range Radar Employment
+
+Flying good BFM will put you into a WEZ. The AIM-120, AIM-9M and
+the gun can all be launched without a radar lock. Fly BFM first and do
+HOTAS second. However, for optimum weapons employment, you should
+have a radar lock. Inability to achieve a lock on and employ weapons will
+extend your BFM engagement, and will increase your vulnerability to
+attack from an undetected bandit. The radar auto acquisition modes are
+for short range, visual acquisition and lock on. For a complete discussion
+of auto acquisition modes, refer to your Dash-34 and the RDR-3 workbook.
+It is essential that you know the acquisition limits of each mode so that
+you can rapidly determine which mode to select and achieve the lock.
+
+Auto guns mode is a space-stabilized search, meaning that the radar
+continues to search the selected volume of airspace as you maneuver. Due
+to space stabilization, auto guns is frequently considered a nonvisual
+acquisition mode. The advantages of auto guns are large search volume,
+slewable search and ability to use the radar for clearing beyond the
+immediate fight. It is important to be very precise when slewing your
+coverage, especially in altitude. The disadvantages are that the MPRF
+wave form used for auto guns does not allow a lock on inside of 3000 feet
+and you must reference the radar scope to determine actual altitude
+coverage.
+
+
+Text from AAM-5_OBFM_page_36.jpeg:
+Long range boresight, boresight, super search and vertical scan modes are
+all heading stabilized, meaning that the airspace searched moves as you
+maneuver your aircraft. Each of the modes take priority over auto guns
+search. The radar uses a short pulse MPRF waveform to lock on at ranges
+as close as 500 feet. Long range boresight is not usually used in the visual
+merge arena.
+
+Boresight mode is the most discriminating of the auto acquisition modes
+because of the small amount of airspace searched (4° around radar
+boreline). Radar discrimination is a big advantage in a multi-aircraft
+fight but the disadvantage is that the volume of airspace searched is
+small. Because the radar searches around the radar boreline, using this
+technique requires pure pursuit geometry until the radar locks on.
+Boresight is the most reliable and rapid acquisition mode.
+
+Vertical scan acquisition mode uses a very narrow azimuth search from
++5° to +55° in elevation. The advantage of vertical scan is the search
+volume is along the lift vector. The disadvantage is that your lift vector
+must be on the bandit during maneuvers and at times this is not
+appropriate. The primary problem with using this mode comes from not
+recognizing the difference between plane of motion and plane of
+symmetry. The planes are aligned only when bank angle is zero, or in
+pure vertical maneuvering. Lock on problems occur when the pilot
+positions the lift vector on the target (aligns planes of motion) and the
+vertical scan search volume (along plane of symmetry) misses the bandit.
+An additional BFM error often occurs as the pilot spends too much time
+near the bandit’s plane of motion while attempting the lock on, thus
+denying or losing turning room. A second positioning error concerns
+pulling the bandit through the HUD and below the +5° coverage of
+vertical scan. Remember, once the target is at or below the waterline, it is
+below vertical scan coverage.
+
+AAM-5 D - 30
+
+
+Text from AAM-5_OBFM_page_37.jpeg:
+The supersearch acquisition mode offers the advantages of a heading
+stabilized search with a relatively large search volume (slewable
+supersearch). The disadvantages of supersearch are that the target must
+remain relatively stable in the search volume for lock on to occur and that
+there is a blind zone from +6° to +18°. The canopy reference is from near
+the top of the HUD to just below the canopy bow. The supersearch up
+HUD display is somewhat misleading because it depicts coverage where
+no coverage exists.
+
+Generally, the pilot will select auto guns before attempting another auto
+acquisition mode. This allows the radar to search beyond the immediate
+fight while you maneuver and take command of the radar, enabling the
+other auto acquisition modes. Selection of auto guns also prevents entry
+to TWS modes if a lock on is undetected and the auto acquisition switch is
+moved forward or aft. After lock on, selection of MRM from SRM or guns
+forces the radar to attempt immediate HPRF upgrade, possibly saving a
+minimum range AIM-7 shot opportunity.
+
+
+Text from AAM-5_OBFM_page_38.jpeg:
+QUESTIONS
+
+1. The angle measured between the target’s tail and the attacker is
+
+a. aspect angle.
+b. HCA.
+c. angle off.
+d. angle of attack.
+2. When your nose is on the bandit, you arein ___ pursuit.
+a. lead
+b. pure
+ce. lag
+d. hot
+
+3. The adversary’s projected turn radius is called
+
+a. the attack plane.
+b. turning room.
+c. the plane of motion.
+d. the turn circle.
+4. The is primarily designed to control excess overtake.
+a. lag reposition
+b. lead reposition
+c. acceleration maneuver
+d. hard turn
+
+AAM-5 D - 32
+
+
+Text from AAM-5_OBFM_page_39.jpeg:
+Which of the following is not a major error in the flat scissors?
+
+a. Not pulling parallel to the horizon and thus increasing
+horizontal travel
+
+b. Not pulling toward the bandit’s six, allowing too much lateral
+separation to develop
+
+c. Not controlling bank angle at slow speed and losing nose
+position
+
+d. Pulling to the bandit’s six
+
+During short range BFM, if the defender’s turn radius is equal to
+yours, going for a quick gunshot
+
+is the optimum solution.
+
+should only be accomplished after a quarter plane.
+
+will result in an overshoot if turn circles are not aligned.
+will prevent the defender from separating.
+
+pe op
+
+
+Text from AAM-5_OBFM_page_4.jpeg:
+CRITERION REFERENCED OBJECTIVES (CROs)
+
+1. Identify the basic positional geometry associated with BFM to
+include aspect angle, angle off and turn radius/circle.
+
+2. Identify the three basic pursuit curves.
+
+3. Identify selected offensive BFM maneuvers, their purpose and when
+they should be employed.
+
+AAM-5 B-1
+
+
+Text from AAM-5_OBFM_page_40.jpeg:
+l. a
+2. b
+3. d
+4, a
+5. d
+6. Cc
+
+AAM-5
+
+ANSWERS
+
+
+Text from AAM-5_OBFM_page_41.jpeg:
+(This Page Intentionally Blank)
+
+AAM-5
+
+
+Text from AAM-5_OBFM_page_42.jpeg:
+END OF TEXT QUIZ
+
+The angle measured between the longitudinal axis of the attacker
+and that of bandit is the
+
+a. aspect angle.
+
+b. angle off.
+
+c. angle of attack.
+
+d. angle of incidence.
+
+When your nose is behind the bandit you are in ____ pursuit.
+
+a. pure
+
+b. lead
+
+ce. lag
+
+d. hot
+
+The is a last ditch maneuver to preserve nose/tail separation.
+a. lag reposition
+
+b. lead reposition
+
+c. quarter plane
+
+d.  lagroll
+
+The is primarily designed to increase closure through lead
+
+pursuit and cutoff acceleration.
+
+lag reposition
+
+lead reposition
+acceleration maneuver
+hard turn
+
+ao op
+
+In offensive BFM the most common mistakes have to do with
+
+a. fight analysis and control (not driving the fight and not keeping
+pressure on the bandit).
+. the F-15E being inferior to almost all fighters.
+c. using BFM.
+d. being there in the first place!
+
+
+Text from AAM-5_OBFM_page_43.jpeg:
+6. Which is not a common mistake in long range BFM?
+
+a. Insufficient lateral turning room due to excessive pure pursuit
+while outside the bandit’s turn circle, resulting in an overshoot
+and, possibly, a reversal.
+
+b. Too much lateral offset or lag pursuit, resulting in releasing
+pressure on the bandit, allowing the bandit to increase range by
+extending away, or using the turning room to make the fight
+neutral.
+
+c. Too much vertical turning room too early (while outside the
+defender’s turn circle) which again releases pressure on the
+bandit and allows the bandit to use it to improve the situation.
+
+d. ‘Flying into the turn circle to reach an offset point from the
+bandit’s path from which a max turn can be made to a slight
+flight path overshoot, about one radius behind the defender.
+
+7. Once you realize you no longer have the potential to achieve shot
+parameters you should
+
+a. wait until the bandit makes a mistake.
+b. continue BFM.
+
+c. separate.
+
+d.
+
+transfer to the Army and go to helicopter school.
+
+8.  Ifan excessive amount of lag or a bandit acceleration while your nose
+is off results in becoming stagnated or stuck in lag, reestablish
+closure with a/an
+
+lag reposition.
+
+lead reposition maneuver.
+lag roll.
+
+Immelman turn.
+
+ao oP
+
+9. From a 9000 foot perch, what pursuit curve would you initially follow
+when attacking a max performing bandit with similar turn and
+power capabilities?
+
+a. Lead
+b. Lag
+c. Pure
+
+AAM-5 E-2
+
+
+Text from AAM-5_OBFM_page_44.jpeg:
+AOA
+
+BFM
+
+HCA
+
+HPRF
+
+LOS
+
+MPRF
+
+MRM
+
+Pk
+
+SRM
+
+WEZ
+
+GLOSSARY
+
+Angle of attack
+
+Basic fighter maneuvers
+
+Heading crossing angle
+
+High pulse repetition frequency
+Line of sight
+
+Medium pulse repetition frequency
+Medium range missile
+
+Probability of kill
+
+Short range missile
+
+Weapon employment zone
+
+AAM-5
+
+
+Text from AAM-5_OBFM_page_45.jpeg:
+AAM-5
+
+(This Page Intentionally Blank)
+
+
+Text from AAM-5_OBFM_page_5.jpeg:
+STUDENT PREPARATION REQUIREMENTS
+
+BEFORE CLASS
+
+1. Study the information contained in this workbook and complete the
+end of text quiz.
+
+2. Read the BFM sections of AFTTP 3-1, Vol XVII and AFTTP 3-3, Vol
+XVII, Chapter 4.
+
+
+Text from AAM-5_OBFM_page_6.jpeg:
+AAM-5
+
+(This Page Intentionally Blank)
+
+
+Text from AAM-5_OBFM_page_7.jpeg:
+TEXT
+INTRODUCTION
+
+In every conflict since WWI, aircraft have been used to destroy other
+aircraft. Although aircraft, weapons and arenas have changed, basic
+concepts and basic maneuvering have remained the same. With this in
+mind, this workbook covers those basic fighter maneuvers (BFM) that
+currently apply to the F-15E and the threats we face.
+
+The purpose of air-to-air combat is to destroy the enemy and survive. To
+accomplish this task, you may be required to employ BFM. Basic fighter
+maneuvers are not exact maneuvers flown to a specific conclusion, but
+combinations of maneuvers blended together. How you combine these
+maneuvers depends on your continual assessment of the situation. First,
+force a reaction from the bandit, predict where the bandit is going and
+then maneuver to achieve weapons parameters. You must constantly
+reassess the effectiveness of your maneuvers and the reactions of the
+bandit. By maintaining a continual process of force, predict and
+maneuver, you will achieve the kill or a tactical separation.
+
+Basic fighter maneuvers are a blend of rolls, turns and accelerations to
+gain an energy or a positional advantage, or both, over an airborne
+adversary. You should remember that the primary purpose of these
+maneuvers is to place your aircraft within weapons parameters (offensive)
+to kill the bandit or to deny an adversary entry into weapons parameters
+(defensive) to survive.
+
+
+Text from AAM-5_OBFM_page_8.jpeg:
+BFM MECHANICS AND DEFINITIONS
+
+BFM is the application of aircraft handling skills to solve the problems of
+
+range, closure,
+
+aspect and angle off in relation to another aircraft. The
+
+three BFM tools are roll, turn and acceleration.
+
+Roll
+
+Turn
+
+Acceleration
+
+AAM-5
+
+Roll allows you to position your lift vector and determine
+the plane of motion (POM) in which you turn. Roll also
+aids you in keeping sight of the bandit.
+
+A turn allows you to attain weapons employment zones or
+defeat your bandit’s attack/weapons. As your instructor
+will show you, optimum or max turns can be defined by
+aircraft angle of attack.
+
+Energy is an important commodity during air-to-air
+maneuvering. Your aircraft will not always do everything
+you want it to and maintain a high-energy state. Thus,
+you will often need to regain energy. The quickest way to
+do this is through a well-executed acceleration. The F-15E
+generally does its best acceleration at 8-10 units AOA.
+
+Although getting energy back is your main goal, keep these
+in mind:
+
+e Be cognizant of your attitude (do not try to
+accelerate going up), altitude (if you hit the ground
+you have finished the enemy's job) and airspeed (do
+not spend valuable time out of the fight accelerating
+if you do not really need the extra airspeed). During
+BF, there is a constant trade off between energy
+and nose position.
+
+e Be aware of your nose position. Acceleration
+maneuvers often result in a nose low attitude.
+Allowing your nose to get buried forces you to give
+up your newly gained energy to get back in the fight.
+
+
+Text from AAM-5_OBFM_page_9.jpeg:
+BFM and Aircraft Feel
+
+Successful energy management is often the key element in determining
+the outcome of a maneuvering fight. The challenge of energy
+management is knowing your aircraft’s envelope and developing a
+“heads-up” feel for aircraft performance and energy state. AOA control is
+essential in performing each of the basic maneuvers. Figure D-1
+illustrates some key numbers that provide a reference for “max
+performing” the Strike Eagle.
+
+FUEL/STORE ASYMMETRY
+LIMIT
+
+AILERON GYROSCOPE
+WASHOUT _/] EFFECT
+RUDDER
+MIN WASHOUT
+DRAG
+OPTIMUM
+TURN c L MAX
+
+2 4 6 8 10 12 14 16 18 20 22 24 26 28 30 32 34 36 38 40 42 44
+COCKPIT ANGLE OF ATTACK (AOA) UNITS
+
+AAM-05-01
+
+Figure D - 1. BFM AOA Guide.
+
+Geometry
+
+In order to execute successful BFM, a pilot must understand the geometric
+relationship to the target and how it affects weapon employment
+capability. The spatial relationship of two aircraft can be analyzed from
+three perspectives: positional geometry, attack geometry and the weapons
+envelope.
+
+
+

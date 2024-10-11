@@ -1,0 +1,351 @@
+Text from Hieracrhy_page_1.jpeg:
+DESIGNATIONS AND A/G HIERARCHY
+
+A quick review of the basic bombing triangle will help you understand how we get bombs on target. At
+some point the jet must put a stake in the ground to know how far away, and how high it is in reference to the
+TGT to determine Slant Range (SR). There are six ways that we can designate a target: NAV, RDR, POD,
+HUD, CDIP and SIT designations will be covered. Zero point will not be covered. We have 6 different ranging
+sources to complete the bombing triangle: LAS, HRM, SYS, AGR, RALT, and PASS. PASS will not be
+
+covered. Let’s go over different designation options with the associated ranging options (depending on what
+you set up in the hierarchy).
+
+SLANT RANGE (SR)
+HEIGHT ABOVE TGT (HAT)
+
+AN
+
+GROUND RANGE (GR)
+
+(Figure 1)
+
+The above figure matters to you mainly because of HAT. When you take a designation (RDR for example), the
+jet determines your Alt by looking at SYSG (assuming good EGI). HAT = SYSG — TGT ELEV (which you
+put into the point data submenu). Don’t think that number matters for accuracy? Reference figure 2 below.
+
+> Scenario: You don’t put in the TGT Elevation in the UFC Point Data Submenu. After flying 300+ NM to the
+TGT area, you designate the DMPI in the RDR. After transitioning to the TGT Pod, you cannot find your DMPI
+anywhere in your FOV so you go thru dry. BOTOT - not quite. Your jet thinks it is much farther away due to its
+SR calculation. Since you put in nothing (0’) in the data submenu, the jet performed the equation this way:
+SYSG (20K) — 0 = 20K’. That number will push your SR farther away and your pod is probably queuing up
+short. Yes, there are other places in the world besides Dare County and the Sandbox MOA in Iraq.
+
+A/C ALT: 20,000’ MSL
+
+SR
+
+TGT Elev: 5000’
+HAT — 15,000’
+
+(Figure 2)
+
+
+Text from Hieracrhy_page_2.jpeg:
+Hopefully you understand how the bombing triangle works and answered a few questions on why your pod may
+not be looking where you expect it to be. Let’s move onto the meat of the mission. What the hell do I set for my
+hierarchy, why do I set that, and what exactly is the best solution for multiple scenarios?
+
+1 or CDES
+1 or CDES
+1
+1 or CDES
+
+Notes: (Figure 3) (Ref: F-15E -34)
+C= Continuously calculates impact point for CDIP
+
+1= One time shot when you take your designation
+
+CDES= __ Continuous designation w/TPOD track and no TDC Pressure (CDES Containerized)
+
+15°= HAT is updated at 15” TREL — Assuming it is in the hierarchy
+
+I'll cover all designation options with various setting on the A/G Delivery page (Hierarchy).
+
+1. NAV DESIGNATION: When you steer to a TGT point, you place a NAV designation with your PPKS. This
+places a stake in the ground only as accurate as your coordinates input into the system and your PPKS, which is
+normally EGI giving the solution of ground range (GR) to the target. You should look at your Menu 2 page to
+continually check on your EGI accuracy and/or give EGI updates to your MN but that discussion will be saved
+for later. What you should see on Menu 2 is: Y *4EGI 24’. Y=Military code. *=blended solution. 4=# satellites
+tracking. 24’=position uncertainty.
+
+NAV designations with good EGI is an accurate ranging source but as you know, we like to, and normally are
+required to, verify and/or update/designate our DMPI with active sensors before being cleared to release. This is
+mainly due to ROE restrictions. A NAV designation can be overwritten by any other designation procedure but
+it is also one of the most accurate with good EGI and mensurated coordinates.
+
+Bottom Line: If you do nothing else but type in your TGT point into the UFC and steer to the target, you can
+only satisfy one of three ranging sources (reference Fig. 3): AGR, RALT, or SYS. Both LAS and HRM require
+an active sensor to be used for the designation — 1.e. fire the laser for LAS and RDR designate w/ a pod
+designation for HRM.
+
+SYS: Height Above Target (HAT) will come from SYSG (assuming EGI is PPKS). The number comes from
+the system altitude that can be found on the A/G delivery page. GR comes from accuracy of coordinates and
+PPKS. This is a one time (thus passive) ranging source taken at designation. SR is the last part of the triangle
+that is “computed” from the other two known sides.
+
+RALT: Active ranging source when in an AUTO delivery and automatically chimes in at 15” TREL. HAT is
+assumed to be equal to HAG while using RALT ranging. Obviously a huge miscalculation in the making if your
+TGT if it is at a different altitude than you are (mountainous terrain). So whatever HAG you are at pickle, the
+CC assumes that also is your HAT. RALT has a validity check and the data is only used if the aircraft attitude is
+less than 60° of bank and pitch. Use only in flat terrain.
+
+AGR: Air-to-ground ranging (AGR) is the method of computing target elevation during designations and HAT
+for weapons delivery using A/G radar slant range. It provides a one time HAG computation at designation and
+SR derived from antenna depression angle by pointing at the target coordinates using a 1.25° radar beam OR
+points at the target through the TGT Pod LOS. Low altitudes will increase your RDR footprint and decrease
+your bombing accuracy. GR is the last part of the triangle that is computed from the other two known sides.
+
+
+Text from Hieracrhy_page_3.jpeg:
+e Valid if: Graze angle >1.25°, Within RDR gimbal limits, and Range must be within —10,000 to +15,000
+feet of the designated target position
+When the pilot takes command of the HUD and the target pod laser is not firing, the CC commands the radar to
+provide AGR to a HUD reference (pipper pointing). In AUTO bombing mode, AGR is provided to the
+designated target. In CDIP bombing mode, AGR is always to the CDIP pipper (with or without a target
+
+designation). All this assumes that AGR is in the hierarchy & above Sys (LHAS). Also can get by taking
+command of the pod 2x as long as AGR is in the hierarchy - anywhere.
+
+2. RADAR DESIGNATION: When you designate off a .67 HRM patch map you refine the stake in the ground
+accuracy from your PPKS to ~8.5 feet at best (pretty damn good). Many factors go into getting that number
+down to 8.5 feet. A recent INS and MN PVU, speed, squint, graze, G, and range, are a few key factors.
+Bottom Line: You can only satisfy one of three ranging sources (reference Figure 3): AGR, RALT, or SYS if
+you do nothing but designate a TGT using an HRM patch map and hit the pickle button at TREL. Sound
+familiar? Reference the earlier definitions of SYS, RALT and AGR. You WILL NOT get an HRM designation
+by ONLY designating the TGT with the A/G RDR. See following paragraph for HRM. Bottom line is this is
+one of the BEST ways to get an accurate designation. It also forces good Radar Scope Interpretation (RSI) for
+the young WSO’s. Kill it in the RDR! I like to think of it as “verifying and refining”. With your standard LHS
+or LHSA, assuming good EGI, this is the most accurate designation source. This is of course debatable which
+you'll read about next.
+
+3. TGT POD DESIGNATIONS (TP): Laser ranging (LAS) is the means of using Laser slant range for
+computing target range/elevation and/or HAT for target designations and computed weapons deliveries. With a
+TP designation, you can have any of the 6 ranging sources applied: LAS, HRM, SYS, AGR, RALT, and PASS.
+Same rules apply with SYS, AGR, and RALT. Let’s cover the HRM validity.
+
+HRM: * HRM takes the stake in the ground from your RDR Des (GR) and uses TP Angle (SR) to determine
+HAT.
+To get an HRM designation, you must:
+1. Take a RDR designation of the TGT.
+2. Update your designation of the TGT with the TGT POD without firing the laser sometime prior to
+hitting the pickle button.(which we never do--intentionally). With the standard LHS, LHAS or
+LHSA, when you fire the laser to re-designate with the pod, LAS will become the valid ranging
+source. *Note: There are rare cases where LAS will get stuck in “San” meaning sanity checks not
+complete. Take a look at your A/G Delivery page. HRM in and of itself is not the best choice with
+LAS or SYS stacked above; although not a bad choice at low altitude. At best, you’re looking at
+100’ accuracy.
+
+LAS: Do steps 1 and 2 above AND fire the laser? Now you get LAS ranging (LHS hierarchy setup). LAS is
+best used if =2.5° graze (I actually like closer to 5°). Note how low altitude delivers will hurt you by updating
+and designating in the Pod using laser ranging due to spotlight effect.
+
+HAT DIST in NM from TARGET
+Feet 1 75 10 15 20
+
+30 40 50 60
+0.4
+te
+0.7 :
+
+0.9 0.5
+1.9 1.0 0.6 0.5
+1.4 0.9 0.7 0.5
+
+(Figure 4)
+
+
+Text from Hieracrhy_page_4.jpeg:
+Here is where the misconception lies when aircrew think that Pod designations are getting you a “better
+designation”. Look at Figure 3 closely and you’ll see that under a TGT Pod Designation using LAS as a ranging
+
+source it says “1 or CDES”. People always say, “Gutter, I thought that the pod using laser ranging is one of the
+most accurate sources out there?” Before I get into scenarios, I’1l preface my words with —I do not teach to
+sport bombing. Young WSO’s should practice solid procedures on the range so that they’re second nature when
+in combat — Period. RSI in this community is much worse than bad........ it sucks. I could care less where a
+BDU-33 flies on the range if the procedures are solid.
+
+EXAMPLES AND TTP ’'s
+
+Scenario 1: Dropping LGB’s with good EGI or a MN update & designation: I designate my DMPI perfectly in
+the RDR. I do nothing else (with my sensors) until 8” TIMPCT and guide my bomb to the DMPI. Yes the
+assumption is the time from designation to drop is well within 5+00 minutes. This is not a paper on TGT pod
+search so by “do nothing,” I mean — no update and designation with the pod on final.
+
+Scenario 2: Dropping LGB’s with good EGI: I designate my DMPI perfectly in the RDR. I then wait for valid
+LAS ranging (5 digit) in the POD and re-designate. I do nothing else until 8” TIMPCT and guide my bomb to
+the DMPI.
+
+** Tn both scenarios, I’m actually dropping BDU’s — doesn’t matter whether they’re 50’s or 33’s or MK-82’s
+for that matter. Which bomb score is going to be better? I will argue that Scenario 1 will be better — or at least is
+less likely to get jacked up. Remember that “1 or CDES” statement? I will bet on my one time designation in
+the RDR over my one time designation using the Targeting Pod. Remember, it’s the “one time” in the pod I
+could potentially have a problem with. CDES selected with LAS ranging is a whole different story but we don’t
+practice those procedures due to delay Las options on most drops. Many factors affect that one time
+designation: water, laser energy, pod pointing errors, did you really have 5 digit ranging or “4.5nm” in the upper
+left hand corner of the pod when you designated? I learned under the old school of killing things in the RDR
+and you know what, it works. I’ve seen many students since I’ve been an instructor not have a clue what they’re
+looking at in the RDR, transition to the Pod and are assholes and elbows hoping, searching and praying that
+they find their target in the pod on a check ride. It’s easy to compare the student that confidently kills their
+DMPI in the RDR, and sits on his/her hands waiting for TREL knowing that the DMPI will be somewhere very
+close to their cursors when they return to cue. No frantic searching and heavy breathing during that 1+30 from
+designation to TREL!
+
+One disclaimer here is the difference between Training Laser and Combat Laser. In short, Training Laser
+updates (or solves the bombing triangle) at a rate of 1 Hz or 1 time per second. Combat laser works the same
+equation at a maximum of 20 times per second. So remember this difference if you’re at the range and your
+scores suck but your procedures are solid — with training laser set, you’ ll loose quarters. If I’ve designated with
+my sensor capable of achieving ~8.5’ accuracy and have good EGI, I’m not sure I can “increase the accuracy”
+of my designation. Remember, we’re dropping LGB’s so why really “increase the accuracy” by a few feet when
+my bomb is looking for a basket anyway? Again, less likely to get jacked up if I killed it in the radar already.
+
+The last thing I’ll say about Pod designations is this. There are scenarios where you should take that one time
+designation in the Pod. Answer this question to your self — not now, but while going 9 miles a minute: “ Will a
+designation in the pod increase the accuracy of my designation?” If the answer is yes — than do it! Weapons
+effects that you planned at 0 knots is the goal. Here are a few examples:
+
+A. Good EGI, found my DMPI in the RDR, found it at 15” TREL in the pod — I’m done until 8” TIMPCT.
+Assumes medium altitude and LGB’s. I’ve already verified and refined my designation. *This is
+debatable and my technique. My mentality is this: how much am I refining my designation — we’re
+talking a couple of feet at best. I believe that the LGB’s can handle that cross range vs. what could go
+wrong by messing with the pod and laser at 15” TREL.
+
+
+Text from Hieracrhy_page_5.jpeg:
+B. Bad EGI or running MN, couldn’t find the DMPI or offset in the RDR, found it in the pod at 15” TREL
+- Get valid Las ranging and designate. Assumes medium altitude or >2.5°graze angle.
+
+C. Low Alt loft with or without EGI — climb to map and designated my DMPI in the RDR. I’m done until
+8” TIMPCT to las. Don’t mess with the pod in a loft!
+
+D. Low Alt loft w/EGI- climb to map and couldn’t find my DMPI in the RDR. I’m done until 8” TIMPCT;
+don’t mess with the pod in a loft!
+
+E. Low Alt loft no EGI — climb to map, took an update designation within 5+00 minutes of release — I’m
+done until 8” TIMPCT. Have I mentioned, don’t mess with the pod in a loft!
+
+F. Low Alt LAT w/ good EGI — climb to map and designated my DMPI in the RDR. I will put in AGR
+above SYS or fire the laser down the chute to get active ranging for a countdown in the HUD.
+
+G. Low Alt LAT w/ bad EGI or running MN- climb to map and couldn’t find my DMPI in the RDR. I now
+have a NAV Des which I’ Il follow up with a TGT Pod Designation while in the check-to-climb or down
+the chute (remember when there is G on the jet (insert range), stop firing the laser. Again, use AGR or
+LAS for an active source for SR in the HUD.
+
+H. Low Alt loft no EGI or running MN — no update/designation within the last 5+00 minutes due to threat
+reactions, gross RSI or whatever. I’m designating in the pod — especially if the TGT has good vertical
+development. Re-attack would be my first option but without getting into a whole tactical scenario, this
+must be a high risk mission, we have to get in and out and I only got one chance to kill this target. I'll
+take a designation while the front-seater is in a pull to sacrifice some CTBE. I think in this case, I
+answered the above question to myself “can I increase the accuracy of the designation” as “YES”.
+
+Disclaimer: Don’t take what I say or this paper and use it as a checklist. After the B-course and after MQT, you
+must be able to think while traveling at high rates of speed with multiple tasks being thrown at you. As with
+most operations the F-15E, the best route to take depends on the situation. In weapons delivery, the
+situation depends on the type of ordnance, delivery, weather, threat, terrain, ROE and aircrew
+proficiency. The above eight examples certainly DO NOT cover ALL possible scenarios, they merely hammer
+home the point to know what delivery your doing (and your backup) and keep track of what you have set for
+your hierarchy so you’re not surprised when AGR kicks in and takes the A/A RDR at 15” TREL (for example).
+
+**Remember, I’m not saying DO NOT re-designate in the pod...... this is my technique for LGB’s. If I did not
+kill it in the RDR w/ bad EGI or running MN is my #1 case where I’ll designate in the Pod. Another may be a
+update / designation outside of 5+00 with or without good EGI. Others will say always designate in the pod but
+most of those people are not fully on board with how accurate my EGI actually is (or I’m trying to teach habit
+pattern to the B-course studs).
+
+4. HUD DESIGNATIONS: HUD designations are handled by the CC in the same way as a Pod Des. It derives
+it’s SR from Pipper to TGT and it’s HAT from SYS G assuming good EGI. Two techniques are to designate
+using the TDC or the pickle button. I highly recommend only using the TDC method with today’s ROE’s and
+constraints with regards to dropping weapons in anger. When you reach for the red button with your thumb — I
+think you better mean it.
+
+5. CDIP: LAS, AGR, RALT and SYS are the four ranging sources used with CDIP. I’ll cover the most
+common scenario. At a minimum we’ll have some kind of designation out there on or close to the target that
+we’re getting ready to roll in on. If doing diving deliveries, I normally want AGR or RALT in the equation prior
+to SYS. I want an active source for two reasons. 1. I want SR displayed in the HUD. 2. I want an active ranging
+source down the chute for the most accurate designation at release.
+
+5. SIT DESIGNATIONS: I won’t get too involved here but simply mention this. You have to know where
+your designation is coming from. Is it coming from JSTARS, AWACS, or another Strike Eagle. Bottom line is
+as of this paper August 2006 we really use the SIT to cue our systems and then rely on standard designation
+
+
+Text from Hieracrhy_page_6.jpeg:
+procedures. If you’re wondering how accurate you’re pod or RDR will cue, look at the altitude when you hook
+the designation, this is the most inaccurate measurement taken from the SIT designation.
+
+Final Suggestions and Common Student Errors:
+
+Next time you’re out flying CT — Flush the quarters BS at the range and go out there to learn something. Here is
+a recommended profile (assuming LGB procedures on each drop), have an A/G delivery page up on your
+R-MPCD to watch the validity checks done real-time. Reference Figure 5 at the end of the paper for where to
+find Designation source and Ranging source on the A/G Event Page.
+
+1. Fly with LHSA. Take a RDR Designation and do nothing else until 8” TIMPCT.
+
+. Same LHSA, this time take a RDR Designation, then update that with the TGT Pod prior to pickle.
+
+3. Same LHSA, this time take a RDR Designation (or don’t), PTRK your DMPI and fire the Laser
+continuously until just prior to pickle. Next time fire the Laser all the way through pickle simulating a
+drop with continuous laser planned. Take command of the pod 2x and see if AGR kicks in.
+
+4. Next switch to LHAS. Designate in the RDR. See when exactly your AGR kicks in on an Auto attack —
+what does the A/A radar look like.
+
+5. Next switch to LHRS. Designate in the RDR and leave it, see what RALT give you.
+
+Do the same designation (.67 RDR with expand) on each pass and see what your scores are. I bet you'll be
+surprised. Remember these are BDU’s not LGB’s. Bent fins, slow firing carts, winds etc will all lead to various
+scores so don’t take your best score and file that as your #1 hierarchy setup in the future. I’ve done similar
+profiles on many trips to the range and I’ve learned a ton. I recommend you do the same.
+
+There are many, many more checks that you can do from diving and climbing deliveries out of the RDR pattern
+to pilot events. Bottom line; know what each setting gives you.
+
+I’ve already hinted at common student error #1: No RSI. Dare County sets you up for failure here; there’s no
+doubt about that in my mind. Remember when killing TGT’s in the RDR to know what you’re looking for. A
+3.3 map is a confirmation tool for me. Do I see the relationships from my TGT to my offsets? Yes, then lets
+scroll down to a 1.3 or a 6.7 and dig out my DMPI. Dare County sets your pacing for “real” targeting way off.
+You should not be so conditioned to “freeze” the RDR if it’s not giving you what you want. Let it cook off
+another map and you may have a much clearer picture the second or maybe even third .67. WSO’s be
+DIRECTIVE is the FCP isn’t giving you what you need — Squint, graze, airspeed etc....
+
+Pod search, confirmation and tracking techniques are not good from young studs. Remember, this all starts on
+the systems check. I will focus and tune my pod when I start to pass the altitude that I’m doing my primary
+attack. I take a look at Auto Level Gain (ALG) but rarely set it. You can get a better picture if you spend a few
+seconds on it. When I’m on final, I’m switching from BHT to WHT to see which gives me the best picture and
+it also serves as a shadows confirmation tool. I’m also looking for all the confirmers, fakers, and pointers that
+1B talked to me about in the brief. I refuse to sit in NFOV and stare at the crosshairs waiting for my DMPI to
+appear. Take a look around from 1+30” to +30” TREL. At 30” TREL, it’s time to start digging out your DMPI
+and giving the pilot a ““DMPI captured, cleared to release” call. If you can that call earlier, great. Just don’t
+expect it and certainly don’t get nervous if it hasn’t happened by 30” TREL. Remember around 13 NM is the
+max range for combat laser. That equates to about 1+30 on the clock prior to TREL anyway. Later you’ll learn
+about CDE and the bus load of nuns. Remember these are LGB’s so if you see friendlies coming into your
+FOV endgame, slowly drag it off your target!
+
+
+Text from Hieracrhy_page_7.jpeg:
+Radar setup starts on the ground. I set B or C Channels on the Radar. I turn my gain down to 6. I can always
+bring it up if need real-time. I don’t buy the ML2 in an urban area. Use it if you’re conditioned to freeze the first
+map you see because it’s probably as good as it’s going to get. If you use my technique, I’m sure that a good
+INS PVU in the cap followed up with a MN PVU prior to mapping (assuming MN PPKS) and letting a few
+.67’s cook off will get you just as good a picture as ML2 (My technique). If you’re in the B-course or MQT- set
+MLI — period.
+
+I’m done — questions or comments, see me.
+
+Capt “Gutter” Artzer
+
+A/G EVENT DATA
+
+DLVRY PARAMETERS
+AGR
+
+>
+DEZ SOURCE
+SN, TGT INFO
+
+DESG RDR/SYSB/AUTO
+
+(Figure 5)
+
+

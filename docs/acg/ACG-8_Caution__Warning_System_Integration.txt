@@ -1,0 +1,1445 @@
+Text from ACG-8_Caution__Warning_System_Integration_page_1.jpeg:
+SUPPORTS COURSES
+FIS5EBQ
+
+FISETX
+
+FISESOC
+
+ACADEMIC STUDENT WORKBOOK
+F-15E
+
+AIRCRAFT GENERAL
+ACG-8
+CAUTION & WARNING SYSTEM
+INTEGRATION
+
+NOVEMBER 1998
+
+(SUITE 3 OFP)
+
+AIR COMBAT COMMAND
+
+
+Text from ACG-8_Caution__Warning_System_Integration_page_10.jpeg:
+“MESSAGE” and “THREAT WARNING’ are joint tactical information
+distribution system (JTIDS) voice messages. They are only heard during
+COMM BIT until JTIDS is installed in the aircraft.
+
+Voice warning volume cannot be adjusted.
+
+Once the voice warning is stated it is not given again unless the condition
+causing the voice warning system to activate is corrected and the
+condition recurs.
+
+Voice warnings for “OBSTACLE AHEAD” or “TF FAIL” are repeated until
+the condition causing them is corrected.
+
+Certain failures of the overload warning system (OWS) would result in a
+continuous “OVER-G” warning. If “OVER-G” comes on for 30 seconds and
+then stops, it may not be because the system has corrected itself. Logic is
+incorporated to shut down the overload warning system after 30 seconds
+of accumulated voice warning. Check the HUD current G and maximum
+allowable G to verify proper OWS operation.
+
+The “PULL-UP, PULL-UP” voice warning associated with the ground
+
+collision warning system (GCWS) is given a maximum of four times and
+has precedence over all other voice warnings.
+
+ACG-8 D-4
+
+
+Text from ACG-8_Caution__Warning_System_Integration_page_11.jpeg:
+The VW/TONE SILENCE button is located on the RICP and ICSCP
+(Figure D-3) and can be used to silence any current voice or tone warning
+for up to one minute. Only the current voice warning can be silenced.
+New voice warnings are always heard.
+
+TEWS
+A.cAUTION Fics Ous
+OR © © WPN oracan Xf)
+
+CRYPTO MIC VW / TONE
+HOLD RAD ORIDE
+
+g~ wont @*
+
+UHF ANT VHF ANT TONE CIPHER TEXT
+UPPER UPPER UHF 1 ONLY
+
+e-8 Oe
+
+LOWER LOWER uUHF 2 NORM
+
+MODE MASTER
+UGHT Low
+
+Aupio
+
+©
+
+VW / TONE
+SILENCE
+
+TONE CIPHER TEXT R
+UHF 1 ‘ONLY
+
+Q-@ °
+
+ACG-08-03
+
+Figure D - 3. RICP/ICSCP.
+
+D-5 ACG-8
+
+
+Text from ACG-8_Caution__Warning_System_Integration_page_12.jpeg:
+Combined Voice Warnings and Warning Lights
+In conjunction with voice warnings, red warning lights are available for:
+
+AB BURN-THROUGH LEFT/RIGHT
+LOW ALTITUDE
+
+OBSTACLE AHEAD
+
+TF FAIL
+
+WARNING - AMAD FIRE
+
+WARNING - ENGINE FIRE LEFT/RIGHT
+
+The voice warning system for the AMAD fire detection and FTIT overtemp
+indicators first become operational with application of external power or
+JFS operation.
+
+Voice warnings for engine fire detection and fuel low level become
+operational with the application of external power, and/or when the
+emergency generator comes on-line during the first engine start.
+
+NOTE: Each voice warning cause and corrective action is covered in the
+
+associated system lesson and in the subsequent lesson on Emergency
+Procedures/Abnormal Operations (ACG-9).
+
+ACG-8 D-6
+
+
+Text from ACG-8_Caution__Warning_System_Integration_page_13.jpeg:
+QUESTIONS
+1. Where do you find a quick reference to the warnings, cautions, and
+
+advisories by display, cause, and initial corrective action?
+
+2. What color(s) are all warning lights?
+
+D-7 ACG-8
+
+
+Text from ACG-8_Caution__Warning_System_Integration_page_14.jpeg:
+ANSWERS
+1. TO1F-15E-1, Section III, and aircrew checklist
+
+2. Red
+
+ACG-8 D-8
+
+
+Text from ACG-8_Caution__Warning_System_Integration_page_15.jpeg:
+Warning Tones
+Warning tones are available for:
+
+Angle of attack (gear down)
+Overload warning system (OWS)
+High angle of attack (gear up)
+Departure (yaw rate)
+
+Unsafe landing gear
+
+Automatic terrain following
+
+Five of the warning tones use audible frequencies from 250 to 1600 Hz.
+Chart D-1 shows how these tones relate to each other and are used to
+warn the aircrew.
+
+NAME FREQUENCY INTERRUPT RATE
+(Hz)
+ANGLE OF ATTACK 1600 + 160 PROPORTIONAL 1 Hz AT 25°
+
+(30 UNITS), INCREASES 2
+Hz/deg UNTIL 32°, THEN
+CONSTANT 20 Hz
+
+OVERLOAD WARNING 900 + 180 4 Hz AT 85% TO 92%
+SYSTEM (“OVER-G") (“SINGLE RATE”)
+10 Hz AT 92% TO 99%
+(‘DOUBLE RATE”)
+STEADY AT 100%
+
+HIGH ANGLE OF ATTACK 900 = 180 TWO SHORT 10 Hz BEEPS
+(GEAR UP) FOLLOWED BY 0.3 SECOND
+PAUSE.
+PROGRAMMABLE FROM
+
+20-45 UNITS AOA
+
+DEPARTURE (YAW RATE) 900 = 180 PROPORTIONAL 2 Hz TO 10
+Hz, 15 TO 60 DEG/SEC
+
+UNSAFE LANDING GEAR 250 + 50 5 Hz
+
+Chart D - 1. Warning Tone Frequencies.
+
+D-9 ACG-8
+
+
+Text from ACG-8_Caution__Warning_System_Integration_page_16.jpeg:
+AOA Warning Tone (with Landing Gear Down)
+
+The AOA warning tone only sounds when the landing gear is down. At
+approximately 30 units AOA a beeping tone sounds. The beep rate
+increases as the AOA increases. You should eliminate the tone by
+reducing the AOA.
+
+OWS Warning Tone
+
+An overload warning tone beeps (single rate) at 85% maximum allowable
+G or 1 G below the maximum allowable, whichever is lower. G readout on
+the HUD flashes in conjunction with the tone onset to warn that
+maximum allowable G is being approached. The beep rate increases as
+the percentage of maximum allowable G increases. At 92%, the tone rate
+doubles. At 100% the tone becomes steady. The voice warning (“OVER-G,
+OVER-G”) replaces the OWS tone above 100%. The warning continues
+until the overload condition is corrected, or stops after 30 seconds.
+
+High AOA Warning Tone (with Landing Gear Up)
+
+The programmable high AOA warning tone cues the aircrew when the
+programmed AOA is exceeded. The system defaults to 30 units AOA at
+aircraft power up with CFTs and A/G stores loaded, but can be
+programmed for 20-45 units AOA (entering a value between 46-50 units
+turns the tone OFF). The warning tone is heard and the AOA on the
+HUD flashes when the limit is reached or exceeded. The warning tone is
+characterized by a series of audio “doublets” and remains on until AOA is
+reduced to below the programmed AOA.
+
+Departure Warning Tone
+
+The departure (yaw rate) tone sounds only with the gear up. A beeping
+tone sounds when actual or predicted yaw rate reaches 15°/second. As the
+yaw rate increases, the beep rate increases and reaches its maximum at
+60°/second yaw rate. In addition, a voice warning “YAW RATE, YAW
+RATE? is also heard.
+
+ACG-8 D-10
+
+
+Text from ACG-8_Caution__Warning_System_Integration_page_17.jpeg:
+The “YAW RATE” warning tone may be checked by pressing the takeoff
+trim button. When the takeoff trim light is on and the takeoff trim button
+is depressed, the “YAW RATE” voice warning sounds and the yaw rate
+warning tone beeps until the takeoff trim button is released.
+
+The 900 Hz tone is obviously used for three distinct conditions. In certain
+flight conditions, parameters may exist to initiate one or more of these
+tones. The CC priority is: (1) departure warning (yaw rate), (2) overload
+warning (OVER-G), and (3) high AOA. In addition, a high AOA tone may
+be heard in conjunction with “OVER-G” voice warning. A departure tone
+will inhibit the high AOA for three seconds, and always has priority.
+
+The relation of the three 900 Hz tones is presented graphically in
+Figure D-4.
+
+D-11 ACG-8
+
+
+Text from ACG-8_Caution__Warning_System_Integration_page_18.jpeg:
+YAW RATE -
+
+900 Hz TONE. REPEAT
+
+RATE INCREASES AS | | | | | | | | | | | |
+YAW RATE INCREASES.
+
+VOICE WARNING, "YAW
+
+RATE, YAW RATE" 15°7/SEC ————————————_. 60°/SEC
+SOUNDS DEPENDING ON
+
+AIRCRAFT RESPONSE AND
+PILOT INPUTS.
+
+JUUUL
+
+OWS - 85% — 91%
+900 Hz TONE. REPEATS FOUR
+
+TIMES PER SECOND (SINGLE
+BEEP RATE) FROM 85 - 91%
+
+OF MAX ALLOWABLE G; 10
+
+TIMES PER SECOND (DOUBLE
+
+BEEP RATE) FROM 92 - 99%; 92% — 99%
+
+STEADY AT 100%. VOICE
+
+WARNING, "OVER-G, OVER-G"
+SOUNDS ABOVE 100%. | |
+
+100%
+HIGH AOA -
+900 Hz TONE. REPEATS
+TWICE FOLLOWED BY A
+0.3 SECOND PAUSE, THEN
+REPEATS AGAIN.
+
+ACG-08-04
+
+Figure D - 4.
+
+ACG-8 D-12
+
+
+Text from ACG-8_Caution__Warning_System_Integration_page_19.jpeg:
+Landing Gear Warning Tone
+
+The landing gear warning tone sounds under the following conditions:
+
+e Ten seconds after the landing gear handle is placed in the down
+position. The tone continues until all gear is down and locked.
+
+e When the following conditions exist simultaneously:
+
+aircraft is below 10,000 feet MSL,
+
+airspeed is less than 200 knots,
+
+rate of descent is greater than 250 feet per minute,
+gear handle is not down.
+
+@ When the air data computer (ADC) fails. The tone sounds regardless
+of the altitude, airspeed, or rate of descent. The warning tone may be
+silenced by pressing the button next to the gear handle (Figure D-5).
+
+ACG-08-05
+
+D-13 ACG-8
+
+
+Text from ACG-8_Caution__Warning_System_Integration_page_2.jpeg:
+ADMINISTRATIVE INFORMATION
+
+This student workbook is designed to provide information on the F-15E,
+its systems, and capabilities. It is not a sole source document, but is to be
+used in conjunction with other standard Air Force publications and
+technical manuals. If you find any differences between the material
+contained herein and other governing regulations, adhere to the
+regulations and notify the OPDR.
+
+Changes to this workbook are indicated with a heavy black line in the left
+margin.
+
+Forward recommendations for revision or change to 4 TS, SJAFB, NC,
+275381.
+
+Supersedes: ACG-8, July, 1998
+
+OPDR: 4 TS
+
+Index of Changes
+
+Effective Date Pages Affected
+
+7
+
+
+Text from ACG-8_Caution__Warning_System_Integration_page_20.jpeg:
+NOTE
+
+The VW/TONE silence button stops any current AOA, yaw and OWS tone
+for up to 1 minute. To silence the landing gear warning tone, use the
+landing gear warning tone silence button.
+
+LANTIRN Bell
+
+The LANTIRN system produces a “BINK-BINK’” tone to advise the
+aircrew that automatic terrain following (ATF) has been selected but is
+not controlling the aircraft (no ATF condition) or that the terrain following
+system is unarmed (no AUTO FLYUP protection provided).
+
+In some cases, the bell tone may not be heard simultaneously with
+illumination of the UNARMED/NO ATF light, since the TF related voice
+warnings have priority over the bell tone. The bell tone sounds after the
+other voice warnings with a higher priority have sounded.
+
+CAUTION INDICATIONS
+
+Cautions provide indications of system malfunctions which require less
+than immediate attention.
+
+There are two ways that cautions are usually displayed:
+
+e Amber lights on the CAUTION LIGHTS panels in the front and rear
+cockpits.
+
+e Onthe MPD/MPCDs in both cockpits.
+Though there are technically no voice messages defined as cautions (they
+
+are all voice warnings), some voice warnings may be received with display
+cautions; e.g., BINGO FUEL and XFER PUMP.
+
+ACG-8 D-14
+
+
+Text from ACG-8_Caution__Warning_System_Integration_page_21.jpeg:
+Caution Lights
+
+MASTER CAUTION Light
+
+MASTER CAUTION lights on both cockpit instrument panels
+
+(Figures D-6 and D-7) are used to direct your attention to displayed
+cautions. The MASTER CAUTIONS light up at the same time as the
+following: EMER BST ON, BST SYS MAL, NUCLEAR, FUEL LOW, L/R
+GEN, ENGINE, FLT CONTR, HYD, DSPL FLO LO, OXYGEN, or when
+any MPD/MPCD (display) caution comes on.
+
+The MASTER CAUTION lights do not light up with the red warning
+lights. However, conditions/malfunctions that generate cautions as a
+result of the warning condition will illuminate the MASTER CAUTION.
+
+MASTER
+
+CAUTION
+
+[—4| CI | FCP LL
+
+ACG-08-06
+
+Figure D - 6. Master Caution Light (Front Cockpit).
+
+D-15 ACG-8
+
+
+Text from ACG-8_Caution__Warning_System_Integration_page_22.jpeg:
+Ey a | || | | |
+==) | EE L_L__JL_JL_JL_J_]
+
+Ouusns ia
+
+rarer ars rer I rare
+
+ACG-08-07
+
+Figure D - 7. Master Caution Light (Rear Cockpit).
+
+Pressing the FCP MASTER CAUTION light turns off both master
+cautions and resets the master caution circuit. The caution lights and
+MPD/MPCD display cautions do not go out until the condition/malfunction
+is corrected.
+
+An exception to the display caution logic is the autopilot caution system.
+The FLT CONTR light and AUTO PLT display caution are extinguished
+by pressing the MASTER CAUTION light. Subsequent autopilot related
+problems alert the aircrew using the same system and display cautions.
+
+The RCP MSTR CAUT light does not turn off the master caution lights or
+reset the master caution light circuit.
+
+Master cautions do not light with the AV BIT caution. Still, pressing
+either master caution does turn off the AV BIT caution light.
+
+ACG-8 D-16
+
+
+Text from ACG-8_Caution__Warning_System_Integration_page_23.jpeg:
+Caution Lights Panel
+
+The caution lights panel is located on the front cockpit subpanel and above
+the RCP MPD/MPCDs (Figure D-8).
+
+(EMER BST ON J (BST SYS MAL J
+[ NUCLEAR [ FUEL LOW
+
+L GEN R GEN
+[ [ F
+
+( ENGINE J{ FLT CONTR J CAUTION LIGHTS
+HYD ( SIMULTANEOUSLY
+
+[ DSPL FLO LO [ OXYGEN
+
+FLT DISPLAY
+LGEN R GEN FUEL LOW || NUCLEAR | OXYGEN
+
+RCP ACG-08-08
+
+Figure D - 8. Caution Lights Panel.
+
+D-17 ACG-8
+
+
+Text from ACG-8_Caution__Warning_System_Integration_page_24.jpeg:
+Even though the EMIS LMT (RCP), AV BIT, MINIMUM, CHAFF,
+FLARE, and UNARMED/NO ATF (RCP) amber caution lights are located
+on the caution lights panel, they do not illuminate the MASTER
+
+CAUTION.
+
+Major Category Caution Lights
+
+ENGINE, FLT CONTR, and HYD are considered major category caution
+lights. They are prompts that MPD/MPCD cautions are displayed.
+
+CAUTION MPD/MPCD DISPLAYS POSSIBLE
+
+LIGHT
+
+ENGINE FUEL HOT L BST PUMP L BLEED AIR
+L INLET R BST PUMP R BLEED AIR
+R INLET LENG CONTR  LOIL PRESS
+INLET ICE RENG CONTR ROIL PRESS
+FIRE SENSOR
+
+FLT CONTR AUTO PLT CAS PITCH PITCH RATIO
+RUDR LMTR CAS YAW ROLL RATIO
+LAT STK LMT CAS ROLL HI AOA DGRD
+
+HYD UTLA UTLB L PUMP
+PCIA PC1B R PUMP
+PC2A PC2B
+
+ACG-8 D-18
+
+
+Text from ACG-8_Caution__Warning_System_Integration_page_25.jpeg:
+Miscellaneous Caution Lights
+
+The miscellaneous caution lights, including the EMIS LMT (FCP),
+FLAPS, LASER ARMED, and LOCK/SHOOT cautions, are located as
+shown in Figure D-9. MASTER CAUTION does not illuminate with these
+caution lights.
+
+[| LOCK/ LOCK/
+SHOOT SHOOT
+|
+
+EMS LMT
+
+ACG-08-09
+
+Figure D - 9. Miscellaneous Caution Lights.
+
+D-19 ACG-8
+
+
+Text from ACG-8_Caution__Warning_System_Integration_page_26.jpeg:
+MPD/MPCD Caution Displays
+
+Normal Operation
+
+The MPD/MPCD cautions are initially displayed on the FCP right MPD
+and the RCP right MPCD (Figure D-10). (Cautions go to the designated
+MPD/MPCD, even if it is off or inoperative.) The cautions are displayed in
+three columns and written from left to right. The most recent caution is
+displayed furthest right on the highest row. When displayed, they
+normally occlude the information behind them. MPD/MPCD display
+cautions are removed when conditions are corrected, or the cautions are
+decluttered from the MPD/MPCD.
+
+se MOST
+FCP RECENT
+CAUTION
+
+CAS ROLL CAS YAW
+BINGO FUEL
+
+CAUTIONS
+DISPLAYED IN THREE COLUMNS
+
+ACG-08-10
+
+Figure D - 10. MPD/MPCD Caution Display.
+
+ACG-8 D - 20
+
+
+Text from ACG-8_Caution__Warning_System_Integration_page_27.jpeg:
+Caution Declutter
+
+As long as at least one display caution is available for viewing, the crew
+may declutter all cautions from the display. This is done in the FCP by
+holding the MASTER CAUTION depressed while pressing down (in) on
+the castle switch on the FCP stick. In the RCP, holding the MSTR CAUT
+
+light depressed while thumbing aft on either coolie switch will provide the
+same function.
+
+All currently displayed cautions are removed and a boxed CAUT is
+displayed in the lower left corner of the MPD/MPCD of each cockpit
+
+(Figure D-11). The boxed CAUT only occludes the area behind it and not
+the whole line.
+
+Cautions decluttered mode is exited and all current cautions are
+redisplayed when:
+
+e Anew caution occurs.
+e Acaution self-corrects then fails again.
+
+e Kither crew member exits the mode through the same HOTAS used
+to enter it.
+
+e Cycling power with weight on wheels.
+Vv RNG A
+SEQ 20
+Or dn
+V8 3 ty
+A
+e 6
+—
+E
+es
+12>
+A Ae: 15.
+CAUTIONS L TON tx V7, ) gy \\)
+DECLUTTERED G 335/200 ii 108/120
+
+ACG-08-11
+
+Figure D - 11. Decluttered Cautions.
+
+D-21 ACG-8
+
+
+Text from ACG-8_Caution__Warning_System_Integration_page_28.jpeg:
+IFF MODE 4 Display Caution
+
+The IFF MODE 4 display caution can be caused by failure to respond to a
+valid interrogation, zeroized code, or internal component failure. The IFF
+MODE 4 caution is removed from the MPD/MPCD by pressing PB #16
+(M/4 CAUT DSBL) on the BIT 2 display (Figure D-12). This removes the
+caution if it is displayed on the cautions display or if the cautions are
+decluttered from the caution display.
+
+If the MODE 4 caution disable is deselected with display cautions
+decluttered (CAUT boxed), a MODE 4 caution causes the cautions
+decluttered mode to be exited. The IFF MODE 4 caution is displayed
+along with other current cautions.
+
+III:
+| ft ST Li)
+
+|__| MODE 4 CAUTION
+MAINT DETAIL M/4 REMOVED FROM
+DISPLAYS
+
+DMS IDLP
+
+eee
+
+BIT 2 PAGE
+
+ACG-08-12
+
+Figure D - 12. BIT 2 Page.
+
+ACG-8 D - 22
+
+
+Text from ACG-8_Caution__Warning_System_Integration_page_29.jpeg:
+Moving Cautions
+
+If desired, the right MPD/MPCD caution display may be moved to another
+display. Cautions then appear on the newly designated MPD/MPCD. If
+the causes for the cautions are cleared, any new cautions again appear on
+the last display selected for display of cautions.
+
+It may be necessary to move the MPD/MPCD caution display for purposes
+of regaining information that is being occluded, or to monitor cautions
+when the designated MPD/MPCD is inoperative or turned off.
+
+In the FCP, cautions are moved by holding the MASTER CAUTION light
+depressed while:
+
+e moving the castle switch left to move the cautions to the left MPD.
+e moving the castle switch aft to move the cautions to the MPCD.
+
+In the RCP, the MSTR CAUT light and hand controllers are used to move
+the cautions.
+
+e THE RIGHT HAND CONTROLLER MANAGES THE RIGHT SIDE
+MPD/MPCD. Cautions are moved:
+
+e tothe right MPD by holding down the MSTR CAUT light and
+moving the right hand controller coolie switch inboard.
+
+e THE LEFT HAND CONTROLLER MANAGES THE LEFT SIDE
+MPD/MPCD. Cautions are moved:
+
+e to the left MPD by holding down the MSTR CAUT light and
+moving the left hand controller coolie switch inboard.
+
+e __ to the left MPCD by holding down the MSTR CAUT light and
+moving the left hand controller coolie switch outboard.
+
+D - 23 ACG-8
+
+
+Text from ACG-8_Caution__Warning_System_Integration_page_3.jpeg:
+AIRCRAFT GENERAL
+
+COVER
+
+CAUTION & WARNING SYSTEM INTEGRATION
+
+INTRODUCTION
+
+This workbook is designed to familiarize you with the nomenclature,
+components, and operational characteristics of the F-15E caution and
+warning system.
+
+CONTENTS:
+
+Ie EDO USGI exe ce ase ees ese sesame ses se aoe: ces seam Ses ee an cee: ator se ese ao so A-1
+CRITERION REFERENCED OBJECTIVES (CROs)..........0.eeeeseeeeeeeees B-1
+STUDENT PREPARATION REQUIREMENTS . 0.00... eeeeeeeeeeeeeee C-1
+CERT, 5 sees sas ces cas ws one sae eas was we ss was ates ws ant eas es aU cs ca te OS aa le Ma 8 D-1
+END OF TEXT QUIZ... eecccessneecesneeeessaeecssaeeceesaeesesaeessseeeeeaees E-1
+CS OIBIS AY cess ans sane anus aesn ssn news canis ave aise Sue MOR mS EMG NSS Mate MG GS ENG Mens ER A F-1
+
+A-1 ACG-8
+
+
+Text from ACG-8_Caution__Warning_System_Integration_page_30.jpeg:
+The EMER BST ON and the BST SYS MAL are the only cautions
+displayed on both the MPD/MPCDs and the caution lights panel (FCP
+only) (Figure D-13).
+
+EMER BST ON | |[BST SYS MAL
+
+EMER BSTON BST SYS MAL
+X ILST GT
+
+ACG-08-13
+
+Figure D - 13. EMER BST ON/BST SYS MAL Cautions.
+
+ACG-8 D - 24
+
+
+Text from ACG-8_Caution__Warning_System_Integration_page_31.jpeg:
+QUESTIONS
+
+How do you move the FCP MPD/MPCD cautions from the left MPD
+to the MPCD?
+
+How do you move the RCP MPD/MPCD cautions from the right
+MPCD to the left MPCD?
+
+What caution(s) do not simultaneously turn on the MASTER
+CAUTION light, but can be turned off using the MASTER CAUTION
+light?
+
+In what format are the cautions displayed on the MPD/MPCDs?
+
+D - 25 ACG-8
+
+
+Text from ACG-8_Caution__Warning_System_Integration_page_32.jpeg:
+ANSWERS
+
+1. Simultaneously press the MASTER CAUTION light and move the
+castle switch aft.
+
+2. Simultaneously press the MASTER CAUTION light and move the
+left hand controller coolie switch to the left.
+
+3. AVBIT
+4. Cautions are displayed in three columns, written from left to right as
+
+they occur. The most recent caution will be located on the furthest
+right on the top line.
+
+ACG-8 D - 26
+
+
+Text from ACG-8_Caution__Warning_System_Integration_page_33.jpeg:
+Emergency Operation Caution Display
+Central Computer (CC) Failure
+
+CC failure causes the MPD/MPCD cautions to be displayed on the radar
+display, regardless of which MPD displays the radar format. (Both
+air-to-air and air-to-ground radar formats support the caution display).
+
+Figures D-14 and D-15 show the initial position of the MPD/MPCD
+displays during CC failure. The radar display may be scrolled to other
+displays if necessary. However, if a radar display is not selected, the
+cautions are not displayed.
+
+PPP
+
+al ty
+Z ke B)
+
+open 3 ©
+
+R
+
+ACG-08-14
+
+Figure D - 14. Failure Caution Location (Front Cockpit).
+
+D-27 ACG-8
+
+
+Text from ACG-8_Caution__Warning_System_Integration_page_34.jpeg:
+ACG-08-15
+
+Figure D - 15. CC Failure Caution Location (Rear Cockpit).
+
+ACG-8 D - 28
+
+
+Text from ACG-8_Caution__Warning_System_Integration_page_35.jpeg:
+Dual Generator Failure
+
+Dual generator failure results in only the FCP MPCD being operational.
+(Both cockpit caution panels remain operational.) The MPD/MPCD
+cautions are displayed on the FCP MPCD as shown in Figure D-16. The
+cautions may be removed from the FCP MPCD (or returned to the display)
+by moving the castle switch in any direction (Figure D-17).
+
+PEPE 2
+
+‘al oowr
+Ts (0
+
+R
+
+ACG-08-16
+
+Figure D - 16. Dual Generator Failure Caution Location.
+
+D - 29 ACG-8
+
+
+Text from ACG-8_Caution__Warning_System_Integration_page_36.jpeg:
+ACG-8
+
+——<———————————— DISPLAYED
+CAS ROLL CAS PITCH CAUTIONS
+L BST PUMP R BST PUMP CAS YAW
+R INLET INLET ICE ATTITUDE
+RENG CONTR LENGCONTR L INLET
+
+TO SELECT/DESELECT MPCD
+CAUTION DISPLAY, MOVE CASTLE
+SWITCH IN ANY DIRECTION
+
+ACG-08-17
+
+Figure D - 17. Dual Generator Failure Caution Selection.
+
+
+Text from ACG-8_Caution__Warning_System_Integration_page_37.jpeg:
+Caution Tones
+
+Caution tones are provided for reception of valid IFF interrogations and
+TEWS signal detections (Figure D-18).
+
+DSi oh il
+
+otacen (hp
+
+VW/TONE 1y
+gene one SILENCE |
+
+bos Nora e.
+
+TONE CIPHER: TEXT
+
+Ss
+Cc
+
+R
+A
+D
+I
+E
+
+CS SET-1 SET-2 SET-3
+nxn ©
+
+eee]
+
+@|
+
+@| AT
+
+TEWS CONTROL PAN =
+
+ACG-08-18
+
+Figure D - 18. Caution Tones.
+
+NOTE: Each caution display, cause, and corrective action is covered in
+the associated system lesson and in the subsequent lesson on Emergency
+Procedures/Abnormal Operations (ACG-9).
+
+D-31 ACG-8
+
+
+Text from ACG-8_Caution__Warning_System_Integration_page_38.jpeg:
+ADVISORY LIGHTS
+
+The advisory lights provide the aircrew with an indication of normal and
+safe operation and information of routine nature. Advisory lights are
+colored either green or white and are located as shown in Figures D-19,
+D-20, and D-21.
+
+The Green Advisory Lights Include:
+
+FCP GEAR, FLAPS, VTR REC, JFS READY, (AAR) READY,
+PROGRAM, TAKEOFF TRIM, and A/P
+
+RCP GEAR, FLAPS, MASTER ARM, PROGRAM, and A/P
+The White Advisory Lights Include:
+
+FCP HUD Master Mode selection lights, VTR EOT, and IFF
+REPLY
+
+RCP HUD Master Mode selection lights
+
+ACG-08-19
+
+ACG-8 D - 32
+
+
+Text from ACG-8_Caution__Warning_System_Integration_page_39.jpeg:
+NOSE
+
+[RIGHT
+
+i DAY Hue [e) cr oa
+lA Y AUTO a] ‘@
+NIGHT fas
+
+AIG NAV inst ®
+
+ccc
+
+SPARE
+
+li
+
+CONT (S)
+@
+
+SPARE
+
+ARMED |
+@
+
+u
+
+i
+
+rat | mL a
+=| FCP CO eo) @
+
+Vets 0 ery
+tT
+
+elelele
+O
+
+<2 Tb
+
+ACG-08-21
+
+Figure D - 20. Advisory Lights (RCP).
+
+D - 33 ACG-8
+
+
+Text from ACG-8_Caution__Warning_System_Integration_page_4.jpeg:
+CRITERION REFERENCED OBJECTIVES (CROs)
+
+1. Identify the operational characteristics of the warning and caution
+lights.
+
+2. Identify the operational characteristics of the voice warning system.
+
+3. Identify the operational characteristics of the warning and caution
+tones.
+
+4. Identify the function and operation of the MASTER CAUTION light.
+
+5. Identify the operational characteristics of the MPD/MPCD caution
+indications.
+
+6. Identify the operational characteristics of the advisory lights.
+
+REFERENCES
+TO 1F-15E-1 Section I Warnings, Cautions, and
+Advisory Lights
+Section III All Warnings, Cautions, and
+Advisories
+
+ACG-8 B-1
+
+
+Text from ACG-8_Caution__Warning_System_Integration_page_40.jpeg:
+QUESTIONS
+1. With dual generator failure, how do you
+
+a. move the cautions from the MPCD display?
+
+b. return the cautions to the display?
+
+2. What systems have caution tones?
+
+3. What color(s) are the advisory lights?
+
+ACG-8 D - 34
+
+
+Text from ACG-8_Caution__Warning_System_Integration_page_41.jpeg:
+ANSWERS
+
+1. a. Move the castle switch in any direction.
+b. Move the castle switch in any direction.
+
+2. IFF and TEWS
+
+3.  Green/white
+
+D-35 ACG-8
+
+
+Text from ACG-8_Caution__Warning_System_Integration_page_42.jpeg:
+(This Page Intentionally Blank)
+
+ACG-8 D - 36
+
+
+Text from ACG-8_Caution__Warning_System_Integration_page_43.jpeg:
+END OF TEXT QUIZ
+
+How many times are voice warnings stated?
+
+oS
+
+Continuously until conditions are corrected.
+
+Six times.
+
+Twice except for “OVER-G,” “OBSTACLE AHEAD,” “TF FAIL,”
+and “PULL-UP.”
+
+Twice except for “THREAT WARNING.”
+
+The VW/TONE SILENCE button on the RICP/ICSCP
+
+o ©
+
+silences all voice warnings and tones until pressed again.
+silences all voice warnings and tones for one minute.
+silences the current voice warning and tone for up to one
+minute.
+
+silences all voice warnings and tones until reset button is
+pressed.
+
+Warning tones are available for
+
+pe op
+
+OWS, AOA, and low fuel.
+
+AOA, departure rate warning, landing gear, and OWS.
+yaw rate, OVER-G, and landing gear.
+
+AOA, yaw rate, OVER-G, and OWS.
+
+How can you silence the high AOA gear down (1600 Hz) warning
+tone?
+
+a.
+b.
+c.
+
+Press the VW/TONE SILENCE button or reduce the AOA.
+Press the LG tone silence button.
+
+Press the MASTER CAUTION and the castle switch
+simultaneously.
+
+E-1 ACG-8
+
+
+Text from ACG-8_Caution__Warning_System_Integration_page_44.jpeg:
+5. At what G value will the OWS warning tone begin to sound?
+
+a.
+
+85% max allowable G or 1 G below max allowable G, whichever
+is lower.
+
+92% max allowable G.
+
+At max allowable G.
+
+95% max allowable G.
+
+6. Both MASTER CAUTION lights will turn off when
+
+Boop
+
+the AV BIT caution is illuminated.
+
+you toggle the FCP castle switch.
+
+EMER BST ON caution is displayed.
+
+the FCP MASTER CAUTION light is pressed.
+
+7. On which MPD/MPCDs are the cautions initially displayed?
+
+Boop
+
+FCP - left MPD; RCP - left MPD.
+FCP - left MPD; RCP - left MPCD.
+FCP - right MPD; RCP - right MPCD.
+FCP - right MPD; RCP - right MPD.
+
+8. In what position on the MPD/MPCD caution display do you find the
+most recent caution located?
+
+pe op
+
+Bottom row, furthest right.
+Bottom row, furthest left.
+Top row, furthest right.
+Top row, furthest left.
+
+9. On what display are the MPD/MPCD cautions located during CC
+
+failure?
+
+a. ADI
+
+b. TSD
+
+c. TEWS
+d. Radar
+
+ACG-8
+
+
+Text from ACG-8_Caution__Warning_System_Integration_page_45.jpeg:
+10.
+
+11.
+
+What cautions are displayed on both the MPD/MPCDs and the FCP
+caution lights panel?
+
+BST SYS MAL; EMER BST ON
+BST SYS MAL; FLT CONTR
+EMER BST ON; FLT CONTR
+FLT CONTR; FUEL LOW
+
+Boop
+
+With ADC failure how do you silence the warning tone?
+
+Press the VW/TONE SILENCE button on the RICP or ICSCP.
+Press either MASTER CAUTION light.
+
+Press the WARN TONE SIL button on the LG control panel.
+Press the CC RESET button on the sensor panel.
+
+Boop
+
+E-3 ACG-8
+
+
+Text from ACG-8_Caution__Warning_System_Integration_page_46.jpeg:
+(This Page Intentionally Blank)
+
+ACG-8 E-4
+
+
+Text from ACG-8_Caution__Warning_System_Integration_page_47.jpeg:
+A/G
+AB
+ADC
+AMAD
+AOA
+ATF
+BIT
+CC
+CFT
+COMM
+FCP
+FTIT
+GCWS
+HOTAS
+HUD
+Hz
+ICSCP
+IFF
+JFS
+
+JTIDS
+
+GLOSSARY
+Air-to-ground
+Afterburner
+Air data computer
+Airframe mounted accessory drive
+Angle of attack
+Automatic terrain following
+Built-in test
+Central computer
+Conformal fuel tank
+Communication
+Front cockpit
+Fan turbine inlet temperature
+Ground collision warning system
+Hands on throttle and stick
+Head-up display
+Hertz
+Intercommunication set control panel
+Identification friend or foe
+Jet fuel starter
+
+Joint tactical information distribution system
+
+LANTIRN Low altitude navigation and targeting infrared for night
+
+F-1 ACG-8
+
+
+Text from ACG-8_Caution__Warning_System_Integration_page_48.jpeg:
+MPCD Multipurpose color display
+
+MPD Multipurpose display
+
+MSL Mean sea level
+
+OWS Overload warning system
+
+RCP Rear cockpit
+
+RICP Remote intercommunication control panel
+TEWS Tactical electronic warfare system
+
+TF Terrain following
+
+VW Voice warning
+
+ACG-8 F-2
+
+
+Text from ACG-8_Caution__Warning_System_Integration_page_49.jpeg:
+(This Page Intentionally Blank)
+
+F-3 ACG-8
+
+
+Text from ACG-8_Caution__Warning_System_Integration_page_5.jpeg:
+STUDENT PREPARATION REQUIREMENTS
+
+BEFORE CLASS
+
+1. Study the information contained in this workbook and complete the
+End of Text Quiz.
+
+2. Read TO 1F-15E-1, Sections I and III, Warnings, Cautions, and
+Advisory lights.
+
+C-1 ACG-8
+
+
+Text from ACG-8_Caution__Warning_System_Integration_page_50.jpeg:
+BACK PAGE
+COVER SHEET
+
+
+Text from ACG-8_Caution__Warning_System_Integration_page_6.jpeg:
+(This Page Intentionally Blank)
+
+ACG-8 C-2
+
+
+Text from ACG-8_Caution__Warning_System_Integration_page_7.jpeg:
+TEXT
+INTRODUCTION
+
+The F-15E Warning, Caution, and Advisory system alerts the aircrew to
+system degrades, failures, malfunctions, and routine operation by the use
+of the following.
+
+Warning Indications - Lights, voice, and tones that warn of a system
+malfunction and/or other important information.
+
+Caution Indications - Lights, MPD/MPCD display, and tones indicating
+system malfunction and/or information to be noted.
+
+Advisory Lights - Provide signs of safe and normal conditions and
+impart information for routine purposes.
+
+WARNING INDICATIONS
+Warning Lights
+
+All warning lights are red and provide indications of system malfunctions
+that require immediate aircrew attention. They are located at or near the
+top of the instrument panel in both cockpits (Figures D-1 and D-2).
+Exceptions are the gear handle light (FCP) and the gear unsafe light
+(RCP). The AMAD fire and AB burn-through lights are located in the
+FCP only. When the condition that caused the warning light to come on is
+corrected, the light goes off.
+
+D-1 ACG-8
+
+
+Text from ACG-8_Caution__Warning_System_Integration_page_8.jpeg:
+L R
+BURN THRU BURN THRU
+
+@ NOSE
+
+[ier
+»© ©
+WARN
+
+TONE
+SIL
+
+2 @
+
+LDG GR
+
+LOW
+ALT
+
+TF CAN
+OBST FAIL UNLKD
+
+°
+8
+
+lee)
+Exo)
+eeee
+896
+
+C4
+
+Qo0e
+o®
+oa O
+
+{CHEE | —— 9}
+
+ACG-08-01
+
+Figure D - 1. Warning Lights (Front Cockpit).
+
+CANOPY
+UNLOCKED
+
+ENG FIRE || ENG FIRE
+LEFT RIGHT
+
+LOW ALT |
+MSTR
+TF FAIL be CAUT
+
+\
+:
+
+=—
+
+=
+
+OOl%|a
+fe) 20 Ole|/2
+
+=
+=_=
+ox
+
+=
+2 2 Olo|O C
+
+ACG-08-02
+
+Figure D - 2. Warning Lights (Rear Cockpit).
+
+ACG-8
+
+D-2
+
+
+
+Text from ACG-8_Caution__Warning_System_Integration_page_9.jpeg:
+NOTE: Each warning light display, its cause, and corrective action are
+covered in the associated system lesson and in the following lesson,
+Emergency Procedures/Abnormal Operations (ACG-9).
+
+For quick reference of warning light causes and initial corrective action,
+use the Warnings, Cautions, and Advisories matrix found in TO 1F-15E-1,
+Section III, and the Emergency Procedures Section of the F-15E aircrew
+checklist.
+
+Voice Warnings
+Voice warnings are available for the following and are stated as:
+
+“AB BURN-THROUGH LEFT”
+
+“AB BURN-THROUGH RIGHT”
+“BINGO FUEL”
+
+“LOW ALTITUDE”
+
+“OBSTACLE AHEAD”
+
+“OVER-G”
+
+“TF FAIL”
+
+“WARNING, AMAD FIRE”
+“WARNING, OVERTEMP LEFT”
+“WARNING, OVERTEMP RIGHT”
+“WARNING, FUEL LOW”
+“WARNING, ENGINE FIRE LEFT”
+“WARNING, ENGINE FIRE RIGHT”
+“WARNING, TRANSFER PUMP”
+“YAW RATE”
+
+“MESSAGE”
+
+“THREAT WARNING”
+
+“PULL-UP, PULL-UP”
+
+With the exception of “OVER-G,” “OBSTACLE AHEAD,” “PULL-UP,” and
+“TF FAIL” warnings, all voice warnings are stated twice. For example, a
+left engine fire causes the voice warning system to state:
+
+e “WARNING - ENGINE FIRE LEFT; WARNING - ENGINE FIRE
+LEFT”
+
+or an AMAD fire causes the voice warning to state:
+
+e “WARNING - AMAD FIRE; WARNING - AMAD FIRE”
+
+D-3 ACG-8
+
+

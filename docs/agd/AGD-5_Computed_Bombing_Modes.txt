@@ -1,0 +1,3095 @@
+Text from AGD-5_Computed_Bombing_Modes_page_1.jpeg:
+SUPPORTS COURSES
+FIS5EBQ
+
+FISETX
+
+FISESOC
+
+ACADEMIC STUDENT WORKBOOK
+F-15E
+
+AIR-TO-GROUND DELIVERY
+AGD-5
+COMPUTED BOMBING MODES
+
+JULY 1998
+
+(SUITE 3 OFP)
+
+AIR COMBAT COMMAND
+
+
+Text from AGD-5_Computed_Bombing_Modes_page_10.jpeg:
+Air Data Computer (ADC)
+
+The ADC provides true airspeed, air density, and angle of attack to the CC
+for use by the A/G module. The temperature corrected ADC pressure
+altitude, aided by inertial velocities, is system altitude (SYSB), and is used
+for height above target computations. Some of the information (airspeed
+and Mach) is needed for the ballistics computations. Other information
+(altitude) is used if the mission NAV determines that particular
+information is the best available.
+
+Reference System
+
+The INS and AHRS deposit pitch, roll, heading, and inertial velocities
+data into the CC data base to be used as required by the mission NAV and
+the A/G module.
+
+Equipment (96-0200 and up or after TCTO 1F-15E-737, Embedded
+GPS/INS)
+
+The central computer, multipurpose display processor, head-up display,
+multipurpose display/color display and programmable armament control
+set remain essentially the same. However, the air data computer and
+reference system have changed.
+
+Air Data Processor (ADP)
+
+The air data computer has been replaced by the ADP. This change is
+transparent to the operator. The system altitude is present position
+keeping source (PPKS) selection dependent. With the EGI as the PPKS
+EGI altitude outputs are taken into the position/velocity consistency
+(PVC) filter into the CC. This filter uses EGI blended altitude and
+blended vertical velocity to produce the system altitude (SYSG) which
+provides stable and consistent data for weapons delivery computations.
+For any PPKS other than EGI the system altitude (SYSB) is the
+temperature corrected pressure altitude aided by FNU INS velocities.
+
+Reference System
+With the EGI selected as the PPKS EGI position and velocities are also
+
+used for the weapons delivery computations. The FNU INS provides the
+primary attitude, heading, attitude rates and accelerations.
+
+AGD-5 D-4
+
+
+Text from AGD-5_Computed_Bombing_Modes_page_11.jpeg:
+Switches and Controls
+
+Quite a few switches are needed to set up the AUTO delivery mode. Many
+of these (PACS primarily) can be programmed using the DTM or can be
+set before takeoff.
+
+A/G Master Mode
+
+The A/G master mode enables the bomb release circuits. It takes the
+pickle button out of the A/A release circuitry. Additionally, it initiates the
+A/G module and permits air-to-ground symbology to be displayed on the
+HUD.
+
+MPD/MPCD
+
+The MPD/MPCD and its push buttons provide the means to select one of
+four ARMT programs, define an AUTO program, select armament, and
+select sequencing and fuzing options on the PACS. The displays and push
+buttons also allow the input of weapon delivery variables, selection of
+sensor hierarchy, and status display via the A/G DLVRY and associated
+PROG formats. Most designation methods also require a functional
+MPD/MPCD.
+
+Master Arm Switch
+
+The master arm must be placed in ARM to enable the release circuits,
+obtain a PACS ready, and generate the HUD gun cross and mode
+indicator (AUTO) in the HUD data block.
+
+Pickle Button
+
+In AUTO, the pickle button normally provides release consent.
+Additionally, it designates a target if designation did not occur prior to
+pickle.
+
+Release Programming
+
+Full PACS release sequencing is available. Simply establish an AUTO
+program and select the desired release options. For ripple programs, the
+CC computes for the center point of a string as a default, but allows the
+option of defining which bomb/salvo in a string will exactly hit the target.
+When this option is selected with both LC and RC stations selected,
+steering will bracket the target in azimuth based on TCFT PACS loading.
+
+D-5 AGD-5
+
+
+Text from AGD-5_Computed_Bombing_Modes_page_12.jpeg:
+Data Transfer Module (DTM) (Before TCTO 1F-15E-700)
+
+During preflight, all the PACS combat and training weapons data and
+four combat plus four training A/G programs can be transferred into the
+aircraft through the DTM. Remember the CC will not accept DTM PACS
+weapon loading data unless both the A/A and A/G combat modes are
+selected.
+
+DMS Mission Cartridge / Data Transfer Module (MC / DTM) (96-0200 and
+up or after TCTO 1F-15E-700)
+
+After the DMS is installed the DMS mission cartridge is the primary
+means to read mission data to the CC and to write recorded mission
+events and maintenance data from the CC.
+
+The DTM and receptacle may also be used by the aircrew to read mission
+data and write mission events and maintenance data.
+
+Armament (ARMT)
+
+The ARMT display on any MPD/MPCD is your access to the PACS. With
+at least one loaded station boxed you can select an AUTO or CDIP
+delivery option. Selecting the station enables the pull-up cue to be
+displayed based on the frag of the weapon loaded. AUTO appears above
+PB #6 indicating the selected PACS program is set up for the AUTO
+delivery mode. After selecting single or multiple releases, quantity and
+spacing options, and compatible fuzing, you will have a valid PACS
+program. No legends should remain below “OPTIONS” at the bottom of
+the display. Remember, once you have a program established, you can
+change parameters such as quantity, interval, or fuze options at will.
+Using the conventional PACS, the armament display for AUTO looks like
+Figure D-2.
+
+AGD-5 D-6
+
+
+Text from AGD-5_Computed_Bombing_Modes_page_13.jpeg:
+FUEL
+
+LOFT 30°
+TARM 6.5 SEC
+
+2 MRM
+
+PACS 2 SRM
+
+DELIVERY
+MODE
+
+CBT 1C STORE
+
+Y
+[
+
+UCAIOIOIG
+
+AUTO RPSGL N/T
+OPTIONS
+
+atyo4 CBT 2 LCRC STORE
+
+6
+
+AJA CBT
+AT 38'
+CT R 130'
+
+INTVL 150
+
+Figure D - 2. Armament - AUTO.
+
+BOMB ON
+TARGET
+SELECTION
+
+BOXED
+STATIONS
+
+AGD-05-02
+
+RDY is boxed and appears above PB #10 when the master arm switch is
+moved to ARM, the PACS selections are valid, and A/G master mode is
+
+selected.
+
+A/G Programming
+
+The A/G DLVRY (Figure D-3) and A/G DLVRY PROG (Figure D-4) page
+formats play a significant part in CC programming. It is through these
+displays that the CC determines its priority for using sensor information
+to compute height above target (HAT) or height above ground (HAG) for
+the vertical component of the bombing triangle. The A/G module uses this
+
+information for bomb range and time of fall computations.
+
+In addition, parameters that affect HUD steering displays such as loft
+angle and AT/CT are input or modified through these pages. The loft
+angle programmed is used by the CC to present time to the predicted
+pull-up point and provide pitch steering to the climb angle desired for the
+delivery. AT biases adjust the range aim point while CT biases adjust the
+steering for known or observed azimuth errors.
+
+D-7
+
+AGD-5
+
+
+Text from AGD-5_Computed_Bombing_Modes_page_14.jpeg:
+The CC also uses the time to arm and minimum recovery altitude (MRA)
+programmed by the aircrew as part of its calculation for display of the
+
+pull-up cue during delivery.
+
+la viD2
+
+WIND
+MODEL ie)
+
+AIG
+DLVRY i)
+
+MC/ VIDS HUD
+DTM PROG
+
+A/G DLVRY JA/G
+WIND MODEL
+
+v
+
+A/G STORE DATA
+PROGRAM PAGE
+i |_|
+LS
+RETICLE DEPRESSION YL
+L]
+MINIMUM OA
+RECOVERY —
+ALTITUDE CH
+-——T |
+YL
+A/G PROGRAM =
+SELECTED —
+
+©)
+
+== [ET
+
+PPC
+
+MENU 2
+
+A/G DLVRY
+
+FUEL
+1
+AT
+
+AUTO PRIOR STATUS
+
+ou VAL
+AGR SAN
+sys VAL
+
+SYSB 12384'
+WIND M 270°/023
+TIME 15:30:20
+
+AUTO RPSGL NIT
+QTY 04 INTVL 150° [RDY]
+
+AIA CBT
+a
+
+Seee
+
+CT R130'
+
+Tw
+
+ON
+
+CN J
+IN
+
+— 5
+iO
+
+—
+a}|
+
+=
+
+O
+
+@ a |
+
+CONT
+
+AGD-5
+
+A/G DELIVERY DISPLAY, A/G CBT
+
+Figure D - 3. A/G DLVRY Page.
+
+WEAPON DELIVERY DATA
+
+SENSOR HIERARCHY
+
+AGD-05-03
+
+
+Text from AGD-5_Computed_Bombing_Modes_page_15.jpeg:
+A/G STORE DATA
+
+PROGRAM PAGE
+
+RETICLE DEPRESSION
+
+MINIMUM
+RECOVERY
+ALTITUDE
+
+A/G PROGRAM
+SELECTED
+
+LOFT ANGLE
+
+RANGE BIAS
+
+AZ BIAS
+
+PULL-UP CUE
+
+Wind Model
+
+NIOIOTONOUC IT
+
+NIE TE
+
+PAGE
+AT "38"
+TARM 6.5 SEC CT R130"
+RET
+are PRIOR STATUS
+“Ty TAS) svat
+AGR SAN
+sys VAL
+
+SYSB 12384'
+WIND M 270°/023
+TIME 15:30:20
+
+AUTO RPSGL NIT
+QTY 04 INTVL 150
+
+\ NA CBT
+
+A/G DLVRY PROG
+
+AUTO PRIOR STATUS
+“Tt) [AS] ~~ vAL
+AGR SAN
+sys VAL
+
+WEAPON DELIVERY DATA
+
+SENSOR HIERARCHY
+
+AGD-05-04
+
+Figure D - 4. A/G DLVRY PROG Page.
+
+A wind model is available on MPD/MPCD Menu 2 for selection as a
+display programming option. It allows the aircrew to input or capture
+wind speed and direction at up to 10 specific altitudes. The CC uses this
+data to provide a wind-corrected impact point. This information is
+presented on the HUD as steering to an upwind aim point offsetting the
+winds identified from the aircraft wind model.
+
+AGD-5
+
+
+Text from AGD-5_Computed_Bombing_Modes_page_16.jpeg:
+This is especially important for situations where the weapon is subjected
+to wind effects for longer periods of time such as medium and high
+altitude attacks or the use of high drag weapons.
+
+The wind model data affects the computed ballistics for most A/G weapons
+released in AUTO, CDIP, LADD, and CDIP GUN. It does not affect the
+ballistics for any weapons released in DIRECT or MANUAL (FF/RET).
+The following weapons are unaffected by wind model data in any mode:
+AGM-65, GBU-24, or GBU-28.
+
+Altitude, wind speed, and wind true direction may be entered into ten
+data points by one of four methods.
+
+e DTM or MC/DTM (96-0200 and up or after TCTO
+1F-15E-700) read.
+
+e Manually via UFC scratchpad and MPD/MPCD transfer.
+e Automatic capture at programmed altitudes.
+e Selective capture at the current altitude by aircrew.
+When capturing winds, manual or automatic, captured data will be less
+accurate when roll rate exceeds 5°/second or yaw rate exceeds 3°/second
+
+due to wind measuring limitations. Wind data is filtered during heavy
+maneuvering.
+
+AGD-5 D-10
+
+
+Text from AGD-5_Computed_Bombing_Modes_page_17.jpeg:
+Wind Model Display
+
+The wind model display is available as a display programming option from
+MPD/MPCD Menu 2 (M2) (Figure D-5).
+
+6
+
+T |
+Cc.
+
+MC / VIDS AUTO
+DTM PRO PT
+
+(Ooo
+
+sys WIND
+8900 T 032°/ 020
+
+1000 T 045°/ 020
+2000 T 033°/020
+4000 T 045°/018
+5000 T 045°/015
+
+ite leal emi
+ee
+
+A/GDLVRY [JA/G
+WIND MODEL[2]
+
+@ a OO
+
+WIND MODEL AGD-05-05
+
+Figure D - 5. Wind Model Display.
+
+Current system altitude (same as displayed on the UFC and TGT IR
+UPDT display) and true wind direction/speed are displayed near the top of
+the display. OFF is shown if system altitude is invalid. The wind data is
+never invalid, but may be frozen if TAS is less than 80 knots, the present
+position keeping source (PPKS) is A/D, or the PPKS is TCN (86-0183
+through 92-0366 before TCTO 1F-15E-737, EGD with aircrew wind data
+entered on the UFC.
+
+A table of 10 wind data points is displayed below the system altitude and
+wind. A selection box is used to identify the point being entered, updated,
+or deleted.
+
+Clear Wind (CLR WIND)
+
+Pressing PB #1 clears all wind values from the display and the wind
+model. All altitudes will remain unchanged.
+
+D-11 AGD-5
+
+
+Text from AGD-5_Computed_Bombing_Modes_page_18.jpeg:
+Clear All (CLR ALL)
+
+Pressing PB #2 clears the entire wind table. It clears all altitudes and
+wind directions/speed, unboxes AUTO (if boxed), the wind point number at
+PB 46 is 1, and the selection box is placed at point 1.
+
+Sort
+
+Pressing PB #4 puts the table in order of ascending altitude. It unboxes
+AUTO (if boxed) and places the selection box at the first empty data
+location (altitude or wind). The selection box moves to point 1 if the table
+is full.
+
+Wind Point Number
+
+The wind point number shows the location of the selection box. If PB #6 is
+pressed with an empty scratchpad, the selection box moves to the next
+data point. If PB #6 is pressed with a valid wind point number in the
+scratchpad, the selection box moves to that point. AUTO becomes
+unboxed when the selection box is moved manually.
+
+Altitude
+
+Pressing PB #8 with a valid altitude entry in the scratchpad (-99,999 thru
+99,999 in 1-foot increments) puts the scratchpad altitude into the selected
+point, or if the altitude already exists in the table, moves the selection box
+to that point. Altitudes in the wind table are rounded to the nearest 10
+feet. AUTO becomes unboxed when manually entering altitudes.
+
+Wind
+
+Pressing PB #10 with a valid wind speed and direction in the scratchpad
+puts the scratchpad wind into the selected point. AUTO becomes unboxed
+when manually entering wind. For a wind to be valid and used by the
+systems for wind model calculations, it must have both an altitude and
+wind speed/direction entered on the wind model display.
+
+Wind is typed into the scratchpad as true direction (0° thru 360°), a dash
+(-), and the speed in knots. Trailing zeroes are not required for the
+direction. Leading zeroes are not required for speed. The dash may be
+omitted if all six digits are typed.
+
+AGD-5 D-12
+
+
+Text from AGD-5_Computed_Bombing_Modes_page_19.jpeg:
+Capture Point (CAPT PT)
+
+Pressing PB #16 captures the current system altitude and wind, puts
+them into the selection box, and moves the box to the next point. AUTO
+becomes unboxed when manually commanding wind capture. CAPT PT is
+not displayed if system altitude is invalid.
+
+AUTO
+
+Boxing PB #18 sets up the system to automatically capture at the
+altitudes that have been entered into the table. It automatically sorts the
+table in order of ascending altitude and puts the selection box at the first
+anticipated wind point (based on altitude). As the aircraft passes each
+stored altitude, the true wind direction and speed are automatically
+captured and the selection box is moved to the next anticipated point.
+Wind capture continues as long as PB #18 is boxed, continuously updating
+every time the aircraft passes through a programmed altitude. Unbox
+
+PB #18 to stop automatic wind capture. AUTO is automatically unboxed
+anytime manual changes are made to the wind table.
+
+At power up, AUTO is boxed by default. If system altitude is invalid,
+AUTO may still be selected but wind capture will not occur.
+
+Clear Point (CLR PT)
+Pressing PB #20 clears all the data at the selected point and moves the
+
+selection box to the next data point. AUTO becomes unboxed when a
+point is manually cleared.
+
+D-13 AGD-5
+
+
+Text from AGD-5_Computed_Bombing_Modes_page_2.jpeg:
+ADMINISTRATIVE INFORMATION
+
+This student workbook is designed to provide information on the F-15E,
+its systems, and capabilities. It is not a sole source document, but is to be
+used in conjunction with other standard Air Force publications and
+technical manuals. If you find any differences between the material
+contained herein and other governing regulations, adhere to the
+regulations and notify the OPDR.
+
+Changes to this workbook are indicated with a heavy black line in the left
+margin.
+
+Forward recommendations for revision or change to 4 TS, SJAFB, NC,
+275381.
+
+Supersedes: AGD-5, September, 1997
+
+OPDR: 4TS
+
+Index of Changes
+
+Effective Date Pages Affected
+
+
+
+Text from AGD-5_Computed_Bombing_Modes_page_20.jpeg:
+Wind Model Calculations
+
+Wind is factored into the CC ballistics calculations in one of three ways
+based on the number of wind points entered by the aircrew.
+
+No Valid Wind Points
+If there are no data points in the wind model at pickle, the CC captures
+
+the instantaneous wind (displayed under SYS and WIND) and assumes a
+linear reduction in velocity to zero knots at -4000 feet MSL (Figure D-6).
+
+“TOIFIGIGIL &
+
+|
+1 '
+' 1 AUTO
+-- -- -- - 4.4000
+
+i)
+
+1
+' 1 sys D
+1
+
+'
+'
+
+'
+
+a
+
+3000 T 135° /020
+
+mit
+i
+i
+1.
+|
+1
+1
+i
+ke
+I
+I
+i
+ee ee ee
+I
+I
+1
+L
+I
+a
+-
+t
+i
+I
+eee eee!
+i
+1
+1
+1
+I
+2
+Ps
+8
+8
+
+i
+\
+1 Ol
+i —T —
+ami ‘aaa roprocc denn 77742000 1 1000
+1 2 1500
+er ene ee, Meee: GE: ee cape, emer? Geren 4
+pont t E fog — 3 2000 —
+1
+H 1 i WIND
+L---4-------fi--- 4 L---4--------1--- 40 POINT 4 2500) =H
+! I : 1 i ' ! I 1 ALTITUDE 5 3000
+l 1 ! I a I —« —_
+sen pesscefcbees sata Tn ar a i +4000 6 3500
+I 1
+l 1 1 1 7 4000
+‘ice ial pares, PRRs Spe earne es 2000 — 8 4500 —
+1
+! i ! 1 9 5000
+sory worn rooeyeo irra o = 18000 10 5500
+1 I \
+ee eee eke eee Kemer eee) Bouse Nooo Mores Uhre ggg)
+
+©
+
+1 \ \ \ \
+40 0 10 20 -20 -10 oO 10 20 ALTITUDE
+
+! a
+:
+
+WIND NORTH WIND EAST
+(wor (iors) L | <j Jj J
+WIND POINT VELOCITY
+
+Sere ||
+
+IMIMIM IP ~'s
+
+AGD-05-06
+Figure D - 6. No Valid Wind Point.
+
+All steering and weapons ballistics will be calculated using the data in the
+wind model. For greatest accuracy, try to build a wind model which is
+most likely to reflect target area winds.
+
+AGD-5 D-14
+
+
+Text from AGD-5_Computed_Bombing_Modes_page_21.jpeg:
+One Valid Wind Point
+
+If there is one data point in the wind model at pickle, the CC produces a
+linear interpolation from the current wind to the entered wind, and from
+the entered wind to -4000 feet MSL (Figure D-7).
+
++f--- q
+
+1
+
+Y 1 1
+
+#8 i 2
+eee ee |
+
+! ' 3 248°/ 010
+
+1
+
+a i oe a 4
+y 1
+
+yo 5
+1
+
+wanton aqe-- Panna 6
+! '
+
+_
+weer--- 4
+
+r 8
+H 1
+
+---b---4 9
+
+1 ! 10
+‘i 1
+a Koad
+
+~ 10 20 id - 4 ALTITUDE
+WIND NORTH WIND EAST
+(KNOTS) (KNOTS) Al L J jj
+WIND POINT VELOCITY iI
+
+GPP
+
+Figure D - 7. One Valid Wind Point.
+
+AGD-05-07
+
+D-15 AGD-5
+
+
+Text from AGD-5_Computed_Bombing_Modes_page_22.jpeg:
+Multiple Valid Wind Points
+
+If there are two or more data points in the wind model at pickle, the CC
+produces a linear interpolation from current wind, through all lower
+entered winds and from the lowest entered wind to -4000 feet MSL
+(Figure D-8).
+
+in pore peppy roereco ojo
+1 ' 1 1 I 1 !
+(i \ L t 1 !
+a “4 po for---4----F- ~~ 45000
+1 ' i 1 1 '
+' re ee
+1 i
+LINEAR somboscqeog Bao r-q-wpe:--4----F--- 44000
+INTER- ! t } #7 1 7 i WIND
+POLATION 1 ! 1 1 i °
+OF WINDS. F~~~4-~-- ----] Rano -4o---b = =~ 13000 T 135°/ 020
+we ' i | 1
+1 / 1
+8 ' 1 1 T 035°/ 020
+rf I 1 ' 1 WP ! 1 ! 2
+1 1 '
+i 1 2
+__--W weecdlvechess bs eae eeeetbaooo 3 T 315°/010
+' I 1 1 t
+i F ! ; t 1 1 WIND 4
+segeoed ca r---4 pect powedsee h---10 POINT 5
+| l \ 1 4 ! 1 ALTITUDE
+i 6
+L ! L ! L Fi L 1-1000
+CONSTANT. a en ty en 7 T1tov01s | &
+WINDS 1 I 1 i \ ' 1 ' 8
+1 i ' \ \ ' ' 9
+i I 1 ; 1 \ 1 J
+' 1 1 1 1 10
+: iainians eine Si ro--t--44---- +---4.3000
+1 1 ' 1 1 t '
+i I 1 i 1 1 1 q
+a Ae a | a ee, een ee er ALTITUDE
+20-10 0 10 2 -20 +40 0 10 20
+WIND NORTH WIND EAST
+(KNOTS) (KNOTS)
+WIND POINT VELOCITY
+
+Figure D - 8. Multiple Valid Wind Points.
+
+AGD-5 D-16
+
+
+Text from AGD-5_Computed_Bombing_Modes_page_23.jpeg:
+AUTO Delivery Symbology
+HUD Symbology
+
+The HUD (Figure D-9) provides azimuth steering information to the
+target, a target symbol to visually acquire the target, and visual cues to
+anticipate the computer release of the bombs.
+
+The data block in the lower right corner of the HUD provides navigation
+and weapon release data. This block contains the target identification,
+ground range to the target, time to the next event, a PACS mode
+indicator, and sensor being used for HAT computations. The weapon
+delivery sensor will be dependent on the automatic or manual sensor
+hierarchy selection and validity. The indication will include a “C” prefix
+when the targeting pod is in continuous designation mode. Digital slant
+range is displayed above the target identification when valid radar or
+laser ranging is available. TRNG displayed at the bottom of the data
+block indicates the training PACS is selected.
+
+CMD HEADING
+BUG
+
+HEADING
+CARET
+
+AZIMUTH
+STEERING LINE
+
+LARGE
+
+ELEVATION e
+STEERING ic RETICLE
+LINE
+
+PIPPER
+
+TD 23000 TIME TO
+DIAMOND poo cag 2A INITIATE
+817 a 00:05 TPULL DELIVERY
+1.0 9.06 AUTO AGR MANEUVER
+10 L—-- -~10
+DATA BLOCK
+
+AGD-05-09
+
+Figure D - 9. HUD - AUTO Symbology (1).
+
+D-17 AGD-5
+
+
+Text from AGD-5_Computed_Bombing_Modes_page_24.jpeg:
+Heading
+
+The heading caret displays current heading as in all other HUD modes.
+Initially, the command heading bug displays the heading to overfly the
+target. After target designation, it displays the heading to fly to reach the
+proper upwind release point.
+
+A/G Reticle
+
+The reticle is displayed coincident with the velocity vector. It consists of a
+50 mil diameter solid circle and a 2 mil pipper (dot) in the center or a 25
+mil circle with a 1 mil pipper selectable via the HUD repeater format at
+PB #5. The pipper in AUTO mode is fixed in the center of the velocity
+vector.
+
+An analog range bar wraps around the inside of the large reticle
+displaying radar or laser slant range to the target. Each clock position of
+the range bar represents 1000 feet; the bar wraps around twice for a
+maximum displayed range of 23,000 feet. An index on the end of the bar
+indicates the range displayed. A tic mark replaces the range bar with the
+small reticle displayed. The tic for ranges 0 to 11,999 feet is half the size
+of the tic mark used for 12,000 to 23,000 feet. In either case, the range
+bar is normally displayed if LAS or AGR is selected and valid. It is
+removed if they are selected but go invalid. It is not displayed if RALT or
+SYSB is selected.
+
+Target Designator Diamond
+
+The target designator (TD) diamond is a line of sight reference to the
+designated target. The TD diamond flashes at the appropriate edge of the
+HUD when the target is within 1.5° of a vertical or horizontal edge of the
+HUD and continues to be displayed as long as the target is within 60° of
+the nose. If the target is beyond 60° of the nose, the symbol is not
+displayed.
+
+In command of the HUD, the TD diamond can be used to designate a
+target by pressing the FCP TDC and then slewing the diamond. Upon
+releasing the TDC after slewing (if necessary), a target is designated at
+the TD diamond LOS and the diamond is ground stabilized. If the HUD
+reticle was slewed prior to designating, it is returned to the velocity
+vector.
+
+AGD-5 D-18
+
+
+Text from AGD-5_Computed_Bombing_Modes_page_25.jpeg:
+Azimuth Steering Line (ASL)
+
+The ASL is displayed vertically relative to the earth and extends from the
+top of the TD diamond to the top of the HUD. Wind effects may displace
+the ASL left or right of the TD diamond. Flying to place the velocity
+vector over the ASL provides steering to the wind-corrected release point.
+When the target is outside the HUD field of view, the ASL is displayed at
+the appropriate HUD limit. If the pattern steering line (PSL) is
+designated on the A/G radar, the ASL is replaced by a bank steering bar
+when outside of 15 seconds TREL.
+
+Elevation Steering Line (ESL)
+
+The ESL provides steering commands to achieve either a max range loft or
+a specific loft angle, up to 45°, programmed on the A/G DLVRY display
+format. The ESL is displayed perpendicular to the azimuth steering line
+(ASL). It provides a 4 G pull-up to the selected loft angle. The ESL comes
+on at five seconds TPULL and initially appears at the velocity vector
+unless the TF radar is on. In this case, it appears at the pitch command
+line or box. To disable the ESL, set loft angle to 0° or designate a PSL.
+The ESL is unavailable when high drag weapons are selected. It is
+removed when the target is overflown, aircraft G and commanded G differ
+by 2.5, or weapon release is complete.
+
+Time To Pull (TPULL)
+If a loft angle is programmed, TPULL is displayed in minutes and seconds
+until the pull-up is required to begin the delivery. TPULL only displays
+
+when the aircraft heading is +60° of the heading to the target. The ESL
+comes on five seconds prior to the expiration of TPULL.
+
+D-19 AGD-5
+
+
+Text from AGD-5_Computed_Bombing_Modes_page_26.jpeg:
+Pull-up Cue
+The pull-up cue (Figure D-10) computations include weapon dud
+conditions, fragmentation damage conditions, and programmed minimum
+recovery altitude to indicate a pull-up to prevent dud (D) ordnance,
+frag (F) damage or the violation of MRA (M). The velocity vector should
+be above the pull-up cue at release/detonation to avoid violating the
+indicated condition. Do not confuse the pull-up cue with loft elevation
+
+steering.
+
+RELEASE CUE
+
+AZIMUTH
+STEERING
+LINE
+
+10—
+
+5—<
+
+PULL-UP
+CUE
+
+TIME TO
+RELEASE
+
+23000
+
+TGT 2.A
+
+G 38
+
+817 00:02 TREL
+AUTO AGR
+
+20_—— —~~~20
+
+IN CMD
+
+25ine= — ac 25
+F
+
+PULL-UP CUE
+CONDITION (F) (D) (M)
+
+AGD-05-10
+
+Figure D - 10. HUD - AUTO Symbology (2).
+
+The pull-up cue is displayed for the worst case violation (largest
+negative/least positive) of a pull-up cue condition. When a condition is
+violated, the pull-up cue is displayed flashing above the velocity vector,
+but no higher than 2° above it. If flight conditions satisfy clearance
+criteria, the steady pull-up cue is displayed up to a maximum of 14° below
+the velocity vector to confirm the clearance is better than desired
+
+minimum.
+
+AGD-5
+
+
+Text from AGD-5_Computed_Bombing_Modes_page_27.jpeg:
+Pull-up Cue Condition
+
+When the aircraft flight conditions violate the criteria (pull-up cue above
+velocity vector), the condition is shown by a letter F, D, or M
+
+(Figure D-10). When F (fragmentation envelope) or M (minimum recovery
+altitude) is displayed, clearance altitudes are based on 5 G pull-up
+attained in two seconds for ripple releases. The D (dud) cue, when
+appropriate, is displayed for the first bomb in the release sequence and is
+maintained until the pickle button is released.
+
+The pull-up cue and condition require A/G MM for display. F and D are
+shown with the master arm in ARM and weapon selected for AUTO and
+CDIP modes. (F is also displayed for guided mode; D is not.) Ground
+range must be less than 15 nm to the target for F. M only requires A/G
+MM and aircraft altitude lower than programmed.
+
+Release Cue
+
+The release cue appears at 10 seconds prior to release. It is centered on
+and perpendicular to the ASL, and is initially positioned 5° above the
+velocity vector. As the release point is approached, the release cue moves
+down the ASL. When the release cue reaches the velocity vector, release
+occurs if the pickle button is being held down.
+
+Time To Release (TREL)
+
+TREL is displayed when TPULL expires. TREL indicates time remaining
+to weapon release. TREL will be displayed when the aircraft heading is
+within 20° of the ASL and 0° is entered for a loft angle (level delivery).
+
+Time To Target (TTGT)
+
+TTGT is displayed in all A/G modes except manual.
+
+Time To Impact (TIMPCT)
+
+After weapon release, TIMPCT is displayed on the HUD, on the TGT IR,
+and in the TEWS and HSI NAV data blocks. (The legend “TIMPCT” is not
+shown on the TEWS or HSI, just the time.) TIMPCT counts down to 0:00
+in one second intervals and then displays “:_ _” for TOF plus 10% until
+
+being removed. (The pad time for LGB and SUU-20 is 10% or 10 seconds,
+whichever is greater.
+
+D-21 AGD-5
+
+
+Text from AGD-5_Computed_Bombing_Modes_page_28.jpeg:
+HSI
+
+While the HSI (Figure D-11) may not be the most desirable choice of
+displays during an attack, it does display useful attack/reattack steering
+information. This information may be particularly valuable in the event
+of HUD failure.
+
+— CURRENT
+CO GROUND
+— TRACK
+
+CMD HDG =
+OH CMD HDG
+|_— MARKER
+—
+-—T NAV
+BEARING
+TI POINTER
+1) y R \
+A tontosx “74 7 F assy vd \'8 TST 14.
+00:02:20. 00:01:48 E : NAV
+-— DATA
+
+TON ILST ILSN BLOCK
+
+AGD-05-11
+
+Figure D - 11. HSI.
+
+Current ground track is displayed by the diamond near the lubber line
+and the CRS readout between PBs #14 and #15.
+
+Command heading is displayed by the command heading marker and the
+CMD HDG readout between PBs #1 and #2.
+
+Bearing to the target is displayed by the NAV bearing pointer.
+
+The NAV data block shows the target identification, ground range and
+bearing, and the ETE (or ETA) to time over target (not time to release).
+TIMPCT is shown after release but is not labeled as such.
+
+When a target is designated and the A/G master mode is selected, the
+command heading is relative to the wind-corrected release point rather
+than the target. The bearing on the NAV bearing pointer and the NAV
+point block data are to the target’s absolute location.
+
+AGD-5 D - 22
+
+
+Text from AGD-5_Computed_Bombing_Modes_page_29.jpeg:
+A/G Event Data
+
+The A/G EVENT display enables the crew to review A/G weapon delivery
+data, target data, and delivery parameter data. Each time the CC
+generates a release, it stores this data for computed deliveries. The
+EVENT format (Figure D-12) is entered by selecting EVENT (PB #19) on
+MPD/MPCD Menu 1. A total of 20 events can be recorded in the CC. The
+event number (PB #16) can be changed through the UFC scratchpad and
+subsequent depression of PB #16; or incrementally by one to a maximum
+of 20 and then back to one by depressions of PB #16.
+
+During postflight, all the A/G event data plus additional weapons delivery
+parameters can be written to the MC/DTM for analysis.
+
+ToS <a
+
+EVENT ENG HUD EVENT
+15
+
+©
+
+7
+al
+
+|
+
+A/G EVENT DATA
+PACSWPN DLVRY PARAMETERS
+
+a
+
+(OfOTO)
+
+BOT CTR
+
+TGT INFO
+DESG TGTP/LAS/AUTO
+N 39°40.6
+
+LONG w84"02.9
+ELV
+
+Olio
+
+AT
+CT
+
+Seeieiel Geese
+
+AGD-05-12
+
+Figure D - 12. EVENT Format.
+
+Events are written sequentially from 1 through 20. Once the twentieth
+event has been written, subsequent events will start overwriting previous
+events from the beginning.
+
+D - 23 AGD-5
+
+
+Text from AGD-5_Computed_Bombing_Modes_page_3.jpeg:
+AIR-TO-GROUND DELIVERY
+
+COVER
+
+C OMPUTED BOMBING MODES
+
+INTRODUCTION
+
+This workbook is your guide to the F-15E computed weapons delivery
+modes. It describes the modes and leads you through the basic steps to
+execute computed weapons deliveries in the F-15E.
+
+CONTENTS:
+
+INTRODUCTION 0.00. eeeccceeseeesseeceseeseesaeecesacecensaeeeesaeeessaeeseenaeeens A-1
+CRITERION REFERENCED OBJECTIVES (CROs)............eeeeeeeeeeeeeee B-1
+STUDENT PREPARATION REQUIREMENTS . 0.00... eeeeeeeeeeeeee C-1
+TEXT oc eeccccccessseecceesseeeecessseeecesesaeeeceesssaeeeseesssaeeesesssaeeeseeeeaaeeseee D-1
+END OF TEXT QUIZ o.oo eeecceessneeesseeeeesaeecesaeeeensaeesesaeeseseeeeeaees E-1
+GLOSSARY. ee eeceeesecessneecesseeecesaeecesaeecessaeecesaeeseesaeecesaaesessaeeseeaeeeneas F-1
+
+A-1 AGD-5
+
+
+Text from AGD-5_Computed_Bombing_Modes_page_30.jpeg:
+QUESTIONS
+
+1. Cockpit displays and weapons release are a function of the chosen
+A/G PACS release mode (AUTO/CDIP/DIRECT, etc.). Ifa station
+with a guided weapon is selected, the CC is set to the
+
+mode.
+a. AUTO
+b. GUIDED
+c. CDIP
+d. LADD
+
+2. The maximum range which can be displayed on the HUD reticle
+range bar is
+
+a. 12,000 feet.
+b. 12,000 meters.
+c. 23,000 feet.
+d. 23,000 meters.
+
+3. A flashing TD diamond on the HUD indicates
+
+bombs have been released.
+
+laser ranging.
+
+you need to make a 4 G pull-up.
+
+the designated target is within 60° of the nose but the
+diamond is HUD limited.
+
+po op
+
+4. If the HUD fails, which of the following provides a backup means to
+perform an AUTO delivery?
+
+a. Air-to-ground radar
+b. HSI
+
+c. Event page
+
+d. TSD
+
+AGD-5 D - 24
+
+
+Text from AGD-5_Computed_Bombing_Modes_page_31.jpeg:
+If the CC fails, the release pulse in AUTO or CDIP is generated by
+the
+
+a. PACS.
+
+b. FNU INS/EGI.
+
+c. MN.
+
+d. N/A—computed release is inhibited when the CC fails.
+
+If there are no data points in the wind model at pickle, the CC
+captures the instantaneous winds and
+
+a. assumes constant wind speed and direction at all altitudes.
+
+b. assumes a linear reduction in wind velocity to zero knots at
+minus 4000 feet MSL.
+
+c. assumes the wind speed and direction is constant above the
+highest point flown and constant below the lowest point
+flown.
+
+d. adjusts current system altitude to compensate for captured
+wind data.
+
+D - 25 AGD-5
+
+
+Text from AGD-5_Computed_Bombing_Modes_page_32.jpeg:
+ANSWERS
+
+1 b
+2. e
+3 d
+4 b
+5 d
+6 b
+
+AGD-5 D - 26
+
+
+Text from AGD-5_Computed_Bombing_Modes_page_33.jpeg:
+AUTO DELIVERIES
+
+AUTO is used to deliver bombs using virtually any type profile: climbing,
+level, and diving. Since the CC is continuously computing bomb range
+and comparing it to range to go to the designated target, the pilot has
+complete use of the vertical for maneuvering. Vertical maneuvering may
+take the form of level, dive, dive toss or loft delivery parameters. Azimuth
+error must be nulled to hit the target.
+
+LOFT
+
+The LOFT climbing profile in AUTO is available for low drag, unretarded
+nuclear and conventional weapons. LOFT commands are provided
+automatically in the AUTO mode if a target is designated far enough out,
+a pattern steering line is not designated, loft angle is not programmed for
+0°, and a high drag weapon is not selected on the PACS display.
+
+LOFT is a climbing delivery from low altitude (Figure D-13) employed to
+achieve some degree of standoff with low drag weapons. After bomb
+release, a hard descending turn is accomplished to get back to low altitude
+and avoid overflight of the target and weapon frag. Targets may be
+designated by any means; however, for pull-up deliveries, NAV, radar, and
+IR are the most likely designation modes. Once A/G master mode is
+selected, the HUD displays symbology for the selected delivery mode. At
+designation, the CC begins computing bomb range, range to the target,
+and displays attack steering.
+
+CC calculations are done in two separate phases for a loft delivery. The
+first phase begins at designation and ends at two seconds TREL. This is
+the projected ballistics phase. The second phase, beginning at two seconds
+TREL, and lasting until release, is called the instantaneous ballistics
+phase.
+
+D-27 AGD-5
+
+
+Text from AGD-5_Computed_Bombing_Modes_page_34.jpeg:
+GROUND
+TRACK —+}—SA |
+
+DESIGNATION PULLUP
+
+2 SEC TREL
+TIME TO
+
+EVENT |+—— PROJECTED ——_} INSTANT
+
+AGD-05-13
+
+Figure D - 13. LOFT.
+
+Approach
+
+The approach to the target may be from virtually any altitude or heading.
+Normally, the approach is from very low altitude. After designating a
+target and going to A/G master mode, azimuth steering is available via
+the command heading bug and the ASL. In addition to range, the CC also
+computes the time to reach the pull-up point and displays it as TPULL in
+the HUD data block if the target is within 60° of the nose. At five seconds
+TPULL an elevation steering line appears.
+
+The projected ballistics phase assumes the aircraft speed and altitude will
+be the same at TPULL = 0 as they are during the run-in. Assuming a
+constant power pull (MIL power) and deceleration during the climb, the
+CC projects the effect of pulling up at 4 Gs to the programmed loft angle.
+This yields a bomb range and TOF, TPULL and bomb trajectory to fine
+tune the max loft angle for present and projected conditions.
+
+Pull-up
+
+At TPULL =0, the ESL programs a 2 Gs/second buildup (Figure D-14) to
+4 Gs in order to release at the desired loft angle. If the ESL is followed,
+release occurs with G on the aircraft.
+
+AGD-5 D - 28
+
+
+Text from AGD-5_Computed_Bombing_Modes_page_35.jpeg:
+The instantaneous ballistics phase uses feedback from the current aircraft
+load factor to calculate an elevation steering error. If the pilot is
+underpulling, the ESL is placed higher on the HUD. If the pilot overpulls
+the steering, the ESL is positioned lower to achieve the programmed
+parameters.
+
+The bomb is released when instantaneous ballistics indicate the selected
+weapon will hit the target. This may not coincide with programmed
+parameters, and may occur before the selected parameters are achieved.
+The overriding concern is to get the bomb on target.
+
+15
+x 12.5 rf} 10 —
+
+5
+
+IN CMD 5Le-- 45 TGT 2.A
+G 3.7
+
+817 00:21 TREL
+
+AUTO RALT
+
+10 -—-- -~10 F
+
+AGD-05-14
+
+Figure D - 14. LOFT - Pull-up.
+
+Tracking
+
+Tracking is a matter of following both the ESL and ASL until bomb
+release. This means placing the velocity vector over the steering lines.
+The ASL, in particular, is quite sensitive, and it may be easier to follow
+the command steering on the HUD or HSI initially. Once the velocity
+vector is on or near the ASL, transition to it for steering. With the
+steering properly aligned, the TD diamond is still over the target, the ASL
+steers you to a point upwind from the target, and the aircraft is crabbed
+into the wind.
+
+D - 29 AGD-5
+
+
+Text from AGD-5_Computed_Bombing_Modes_page_36.jpeg:
+Release
+
+At 15 seconds TREL the radar is pointed at the designated target and A/G
+ranging begins automatically if AUTO or AGR is the priority sensor and a
+NAV or radar designation is used. If TPULL is being computed, the CC
+predicts TREL based on TPULL pull-up maneuver time, and automatic
+A/G ranging occurs when the predicted TREL is equal to 15 seconds. (For
+a BDU-33 max range loft, this occurs at about 8 seconds TPULL.) This is
+verified by the appearance of a range bar in the reticle which indicates
+slant range to the target. At 10 seconds TREL, the release cue appears on
+the ASL above the velocity vector. When it reaches the velocity vector, the
+CC generates a release pulse; and, if the pickle button is being held down,
+the bomb is released (Figure D-15). Before the release cue reaches the
+velocity vector, you should check the pull-up cue to be sure it is below your
+velocity vector. This ensures you will clear the weapon frag and allow
+time to arm the fuzes. Release is inhibited if the velocity vector is not
+within 20° of the ASL or if pickle occurred inside of release range. When
+the last release pulse is generated, the reticle flashes and TREL changes
+to TIMPCT unless a nuclear bomb was released. If a nuke was released,
+TREL changes to TBURST.
+
+Error Analysis
+
+Two conditions may result in not achieving the desired/max range loft
+programmed. One is underpulling (lagging the ESL), and the second is
+increasing thrust at zero TPULL or during the pull-up. Both result in
+placing the aircraft closer to the target than projected when the desired
+loft angle is achieved, either of which would result in a long bomb. So an
+early release must occur to hit the target.
+
+Overpulling is a set of conditions where the bomb would fall short if
+released at the max loft angle. This results from the max loft angle being
+achieved further up range from the target than the projected point. The
+bomb may not be released. This no release condition may be corrected by
+bunting the aircraft over or significantly easing off on the pull until
+release occurs.
+
+AGD-5 D - 30
+
+
+Text from AGD-5_Computed_Bombing_Modes_page_37.jpeg:
+If standoff from a max range delivery is the primary concern, consider the
+following.
+
+6 Anticipate the ESL rise, and be prepared to pull up at
+
+TPULL = 0.
+
+e Track the ESL as carefully as possible to avoid leading or
+lagging.
+
+e Set the throttles (constant thrust) and maintain a constant
+
+altitude on run-in, to allow the projected calculations to
+accurately mirror the actual aircraft conditions.
+
+e If no release occurs, bunt over until release and complete the
+planned maneuver/recovery.
+
+FLASHING
+(AT RELEASE)
+
+19540
+
+IN CMD 35r-—_| —135 TGT 2.A
+G 3.2
+802 00:02 TREL
+
+AUTO AGR
+
+AGD-05-15
+
+Figure D - 15. LOFT - Release.
+
+D-31 AGD-5
+
+
+Text from AGD-5_Computed_Bombing_Modes_page_38.jpeg:
+Egress
+
+After the bombs are released, roll to 135° of bank and pull the nose back
+down below the horizon. After about 135° of turn, the target is behind you
+and you should roll out to generate maximum separation from weapon
+effects.
+
+Reattack
+
+Whether bombs are released or not, as long as the target remains
+designated and A/G master mode remains selected, steering continues to
+the target. This allows the crew to have immediate steering back to the
+target in the event a reattack is required. The ASL is stuck to one side or
+the other of the HUD and the TD diamond is removed. When the airplane
+is once again turned toward the target and the target is within 60° of the
+nose, the TD diamond returns. When the attack is complete, select the
+NAV master mode or undesignate and the steering should auto-sequence
+to the next steer point (if auto-sequencing is enabled).
+
+Level
+The level attack profile provides an accurate means to lay down ordnance
+
+in all types of weather. As far as displays are concerned, the level attack
+is very similar to the LOFT attack (Figure D-16).
+
+GROUND
+TRACK 7
+
+DESIGNATE RELEASE
+
+AGD-05-16
+
+Figure D - 16. AUTO - Level.
+
+AGD-5 D - 32
+
+
+Text from AGD-5_Computed_Bombing_Modes_page_39.jpeg:
+Approach
+
+The approach to the target may be from any altitude or direction. The
+attack steering is based on present position direct to the target or via a
+crew selected attack heading if pattern steering is designated. As with the
+LOFT attack, once the target is designated, command heading on the
+HUD and HSI is the heading to fly in order to reach the wind-corrected
+release point (Figure D-17). Once the gross steering corrections are made,
+keep the velocity vector centered on the ASL. If 0° is the selected loft
+angle, TPULL and the ESL are not displayed and TREL is displayed on
+the HUD. Elevation steering is inhibited for those weapons that are
+programmed for non-LOFT delivery profiles, such as high drag bombs and
+AGMs; otherwise if a LOFT angle is programmed, then HUD cues for a
+LOFT delivery will initially be displayed. At five seconds TPULL the ESL
+appears, but in this case, do not follow it when it begins to program up.
+After five seconds, the ESL is removed from the HUD if the elevation
+steering is not followed.
+
+If a loft angle other than 0° is selected for a level delivery, expect a delay
+in the TREL computation and a possible jump in the ASL as the CC
+compensates for the change in release conditions when the ESL is
+removed. It is very important to be mindful of weapon frag in this mode.
+
+13 ‘h 15
+LLiiititpiriiiiiy
+
+5 r—|—5
+
+540 15
+10
+
+12.5
+
+LL. —J
+
+Fite eed § TGT 2.A
+
+G 10.0
+817 01:03 TREL
+AUTO RALT
+
+10 --- -~4110
+
+AGD-05-17
+
+Figure D - 17. AUTO - Approach.
+
+D - 33 AGD-5
+
+
+Text from AGD-5_Computed_Bombing_Modes_page_4.jpeg:
+CRITERION REFERENCED OBJECTIVES (CROs)
+1. Identify the attributes of the auto mode.
+2. Identify the attributes of the CDIP mode.
+3. Interpret air-to-ground HUD, ARMT, and wind model displays.
+
+4. Identify the steps to perform climbing, level, and diving deliveries
+using the auto mode.
+
+5. Identify the steps to perform climbing, level, and diving deliveries
+
+using the CDIP mode.
+
+REFERENCES
+
+TO 1F-15E-34-1-1 Section I UFC A/G Weapon Submenu
+Data Transfer Module
+DTM and A/G Event Data
+Air-to-Ground Bombing
+
+Section II Attack Bombs and Dispensers
+
+Post Flight Procedures
+
+AFTTP 3-3 Vol XVII Computed Bombing
+
+AGD-5 B-1
+
+
+Text from AGD-5_Computed_Bombing_Modes_page_40.jpeg:
+Tracking
+
+The primary task in tracking the target is to keep the velocity vector
+centered on the ASL. At 15 seconds TREL, the radar automatically goes
+to the air-to-ground ranging mode (depending on the designation source
+and priority sensor). Ranging is pointed through the TD diamond. The
+crew should look for the presence of the release cue and TREL to know
+when they are within the 20° cone and should also be aware of the time
+remaining to release to know when to concentrate their effort to zero out
+any steering error. If the steering error is greater than 20°, the release
+cue and TREL are not displayed on the HUD and weapon release is
+inhibited.
+
+It is also extremely important at this time to check the pull-up cue to be
+
+sure it is below the velocity vector. Weapon release is not inhibited by
+values of pull-up or ground clearance.
+
+AGD-5 D - 34
+
+
+Text from AGD-5_Computed_Bombing_Modes_page_41.jpeg:
+Release
+
+The pickle button may be depressed anytime after the target is
+designated. At 10 seconds TREL, the release cue appears and begins to
+track down toward the velocity vector (Figure D-18). When the release
+cue reaches the velocity vector, release occurs if the pickle button is being
+held down. When the last bomb is released, the reticle flashes and TREL
+changes to TIMPCT, TTGT or TBURST depending on the type weapon
+released.
+
+The release pulse is inhibited in the AUTO mode if the pickle button is
+pressed after the center of the pattern is past.
+
+14 15
+bpiiiiiity
+4s
+
+5 —|-15
+
+10 —
+
+i
+
+—
+
+7500
+
+IN CMD 5.45 TGT 2.A
+G 12
+817 00:03 TREL
+
+AUTO AGR
+
+10 --- -~410
+
+AGD-05-18
+
+Figure D - 18. AUTO - Release.
+
+Egress
+
+After release, fly the safe escape maneuver used in planning the delivery.
+Failure to do so will increase the potential for frag damage.
+
+Reattack
+Target designation and attack steering is retained for purposes of reattack
+until the master mode is changed from A/G or the target is undesignated
+
+(auto-sequencing enabled). If auto-sequencing is disabled, steering to
+target is retained regardless of master mode or designation status.
+
+D-35 AGD-5
+
+
+Text from AGD-5_Computed_Bombing_Modes_page_42.jpeg:
+Diving
+
+The diving attack using the AUTO mode may be accomplished with or
+without a predesignated target. All the cockpit indications are virtually
+the same.
+
+Designated
+
+If a target is designated by radar or some other means, the attack can be
+accomplished like any other type of diving attack; the velocity vector is
+placed over an aim-off point and dive angle is maintained until bomb
+release (Figure D-19).
+
+cron? hy | a
+
+DESIGNATE RELEASE
+
+AGD-05-19
+
+Figure D - 19. AUTO Dive (Designated).
+
+Once the target is designated, by whatever means, the dive angle need no
+longer be maintained. With the velocity vector/reticle centered on the
+ASL, a 2-4 G pull can be initiated. The CC releases the weapon at the
+proper range to hit the target. With the proper planning, this occurs near
+level flight. Once the weapon is released, the desired escape maneuver
+can be performed. This entire delivery process is called a long range dive
+toss (LRDT).
+
+AGD-5 D - 36
+
+
+Text from AGD-5_Computed_Bombing_Modes_page_43.jpeg:
+Approach: The approach to the target is like any other dive attack. You
+must get into a position from which you can acquire the target and deliver
+ordnance and recover by minimum altitude for ground and frag clearance.
+
+Tracking: Tracking depends somewhat on whether the target is
+designated before or after the dive begins. If the target is designated
+before the dive, tracking amounts to rolling out on final with the velocity
+vector centered on the ASL and pressing the pickle button (Figure D-20).
+
+§L--|~-45
+
+8480
+
+IN CMD 15L-—t “4 ~ 115 TGT 2.A
+G 1.3
+-820 L- — 00:07 TREL
+
+AUTO LAS
+20_-—-— ~~~20
+
+AGD-05-20
+
+Figure D - 20. AUTO Dive (Designated).
+
+D - 37 AGD-5
+
+
+Text from AGD-5_Computed_Bombing_Modes_page_44.jpeg:
+Undesignated
+
+If a target is not designated prior to the roll in (Figure D-21), designation
+may be accomplished by placing the velocity vector over the desired target
+and pressing the pickle button (Figure D-22).
+
+GROUND , 14
+
+TRACK
+DESIGNATE RELEASE
+
+AGD-05-21
+
+Figure D - 22. AUTO Dive (Undesignated).
+
++
+10e.- 4 10
+
+AUTO AGR
+
+25L—-— ~~125
+
+AGD-05-22
+
+Figure D - 21. AUTO Dive Rollin (Undesignated).
+
+AGD-5 D - 38
+
+
+Text from AGD-5_Computed_Bombing_Modes_page_45.jpeg:
+Roll out on final and position the velocity vector over the target and press
+the pickle button; this designates the target (Figure D-23). After the
+target is designated, the steering looks like any other AUTO attack.
+
+By virtue of having to put the velocity vector/pipper on the target to
+designate, the dive angle must be decreased for release to occur. This may
+mean shallowing the dive angle by tracking the aim-off point after
+designation for a diving delivery or initiating a 2-4 G pull for a dive toss
+delivery.
+
+19000
+
+TGT
+
+G 3.0
+00:08 TREL
+AUTO AGR
+
+25L—— —~125
+
+AGD-05-23
+
+Figure D - 23. AUTO Dive (Designated).
+
+D - 39 AGD-5
+
+
+Text from AGD-5_Computed_Bombing_Modes_page_46.jpeg:
+Release: Regardless of when the target is designated, once designation
+occurs and the velocity vector is placed at 12 o’clock to the target, the
+release phase of the delivery is the same (Figure D-24). While it is not
+necessary to keep the pickle button down from designation to release, it is
+necessary to have the button down when release range is reached. For
+most diving attacks, this means the pickle is continuous from pipper
+designation through release.
+
+4390
+TGT
+G 7
+00:02 TREL
+AUTO AGR
+
+AGD-05-24
+
+Figure D - 24. AUTO Dive - Release.
+
+AGD-5 D - 40
+
+
+Text from AGD-5_Computed_Bombing_Modes_page_47.jpeg:
+Egress: Execute the planned dive recovery/safe escape maneuver.
+
+Reattack: Steering for the diving attack is like any other AUTO profile.
+
+SL-- --45 TGT7.A
+
+G 5.1
+00:27 TREL
+AUTO CLAS
+
+10 -—- -~10
+
+AGD-05-25
+
+Figure D - 25. Pattern Steering Line Enabled.
+
+When the pattern steering line (PSL) is enabled, the ASL is replaced on
+the HUD by the PSL (Figure D-25) as long as the PSL heading is within
+roughly +30° of the target bearing. Otherwise the ASL straight-in
+steering is used. When available, the PSL attempts to provide alignment
+for wings level steering on the PSL selected heading for the last 15
+seconds of the attack. The ASL returns at 15 seconds TREL (or when the
+aircrew undesignates the PSL).
+
+D-41 AGD-5
+
+
+Text from AGD-5_Computed_Bombing_Modes_page_48.jpeg:
+Crew Coordination
+
+For an AUTO attack, the WSO is primarily interested in designating the
+target through the best means available while the pilot is primarily
+concerned with flying the attack profile. The pilot selects A/G master
+mode and turns the master arm on. The WSO checks the PACS for proper
+programming and a RDY indication. If required, he turns the VTRS on.
+Once the WSO gets his final designation with the A/G radar and has
+cleared the target area with the A/A radar, he may tell the pilot to take
+command of the HUD. If the pilot sees the target approaching and the
+WSO has not cleared him to take command, he advises the WSO and then
+takes command, if required.
+
+If the WSO is using the targeting IR and plans on redesignating the
+target, he informs the pilot because of possible jumps in the ASL. The
+pilot evaluates the WSO’s designation through the HUD, if able, and must
+be ready to make a visual designation, if required, or make azimuth
+corrections as necessary. At approximately five seconds TREL (for other
+than visual designations) the pilot pushes down on the pickle button to
+give release consent. After release he flies the planned safe escape
+maneuver while the WSO clears the area visually and/or with the radar.
+
+Error Analysis
+Probably the most significant questions to answer are whether the TD
+diamond was over the target and the velocity vector over the ASL at
+
+release.
+
+Steering Error
+
+If the velocity vector was not over the ASL at release, the next question is
+why not. If it was because of late designation, attempt to designate
+earlier. If it was due to control technique, try using the command heading
+for gross heading changes then the ASL for final small corrections. An
+error in following the ESL should not normally cause a bomb range error,
+simply a change in the release point.
+
+AGD-5 D - 42
+
+
+Text from AGD-5_Computed_Bombing_Modes_page_49.jpeg:
+System Error
+
+If the TD diamond was over the target with the velocity vector glued to
+the ASL and the bomb still did not hit the target, the system has an error.
+If EGI (after TCTO 1F-15E-737) is installed and EGI is the PPKS, check
+to see if it has stopped tracking satellites. The EGI present position and
+SYSG inputs should remain usable for short periods. Select INS or MN
+PPKS for SYSB after longer periods of lost track. FNU INS and MN
+information will become more accurate.
+
+Before TCTO 1F-15E-737 or if INS or MN is the PPKS, check the INS and
+MN for a velocity or altitude error and update as necessary. The mission
+navigator should be updated as close to designation as possible. If there is
+no appreciable MN or INS error some other system aiming error is likely
+the culprit. If you are satisfied the error is constant and predictable,
+compensate by adjusting the designation, if possible or adjusting the along
+track and/or cross track values on the A/G DLVRY format.
+
+A/G Event Data
+
+On the range, A/G events may be reviewed on downwind. The crew can
+review delivery parameters including steering deviations. CTBE gives the
+distance from the ASL at release and is valuable in determining auto
+steering errors.
+
+D - 43 AGD-5
+
+
+Text from AGD-5_Computed_Bombing_Modes_page_5.jpeg:
+STUDENT PREPARATION REQUIREMENTS
+
+BEFORE CLASS
+
+1. Study the information contained in this workbook and complete the
+End of Text Quiz.
+
+2. Read the references in TO 1F-15E-34-1-1, Sections I and II.
+
+3. Read AFTTP 3-3 bombing chapters.
+
+C-1 AGD-5
+
+
+Text from AGD-5_Computed_Bombing_Modes_page_50.jpeg:
+QUESTIONS
+
+1. Which of the following modes are normally used for climbing
+profiles?
+a. AUTO and CDIP
+b. AUTO
+c. CDIP
+d. AUTO and DIRECT
+
+2. In AUTO, after a radar designation and loft angle is equal to 0°,
+air-to-ground radar ranging begins automatically
+
+a. at 15 nm from the target.
+b. at 15 seconds TREL, if priority sensor is AGR or AUTO.
+c. at 15 seconds TPULL.
+d. as soon as the A/G master mode is selected.
+3. In AUTO, release occurs when the release cue reaches
+a. the TD diamond.
+b. the ESL.
+c. the velocity vector.
+d. the ASL.
+5. In AUTO, in order for release to occur, which of the following must
+be true?
+a. The velocity vector must be within 20° of the ASL.
+b. The pickle button must not be depressed until after the
+reticle flashes.
+G. The velocity vector must overlay the TD diamond.
+d. The pipper must overlay the target.
+
+AGD-5
+
+
+Text from AGD-5_Computed_Bombing_Modes_page_51.jpeg:
+ANSWERS
+
+D - 45 AGD-5
+
+
+Text from AGD-5_Computed_Bombing_Modes_page_52.jpeg:
+CDIP
+CDIP Mode Description
+
+The CDIP mode uses the same set of equations as AUTO to compute bomb
+range and TOF. The main difference between the modes is in the display.
+
+In CDIP, the current bomb range is used to determine the position of the
+pipper. The pipper contained in the reticle is an aiming index. Pickle
+always designates the point behind the pipper as a target in CDIP even if
+a previous designation existed at pickle. If the pipper position becomes
+HUD limited, the reticle is displayed at the HUD limit along with the time
+to release to cause the bomb to impact at the spot on the ground under the
+pipper. This is called a saturated HUD. A saturated HUD is referred to
+as having “time in the sight.”
+
+Because CDIP displays are normally for instantaneous release on the
+pickle point, climbing/loft maneuvers are not feasible. Toss deliveries are
+possible under conditions where the reticle is saturated; i.e., HUD limited.
+
+Equipment (86-0183 through 92-0366 before TCTO 1F-15E-737,
+Embedded GPS/INS)
+
+In order to effectively use the CDIP mode, the CC, MPDP, HUD,
+MPD/MPCD, PACS, ADC, and FNU INS or AHRS must be functional.
+
+Central Computer (CC)
+
+Unlike AUTO where weapon impact point computation begins with target
+designation, the CC begins impact point computations when CDIP is
+selected.
+
+Display Processor
+
+The MPDP is the device which creates all the symbology for display on the
+HUD and MPD.
+
+AGD-5 D - 46
+
+
+Text from AGD-5_Computed_Bombing_Modes_page_53.jpeg:
+HUD
+
+The HUD is the device which presents the steering information and other
+delivery cues to the pilot.
+
+Multipurpose Display
+
+A MPD/MPCD is needed to gain access to the PACS. It may also be used
+to obtain steering information from a HSI or ADI.
+
+Information pertinent to a CDIP delivery is presented on the HUD and a
+MPD (ARMT and A/G DLVRY displays). A limited amount of steering
+information is available on the HSI and ADI. Unlike AUTO, without the
+HUD, you do not have enough information to complete the attack.
+
+PACS
+
+The PACS is used to build the delivery program. A CDIP program may be
+set up to include the stations, sequencing options, and fuzing options.
+AUTO display symbology as a result of a designation with an AUTO
+PACS program may be changed to CDIP symbology via HOTAS.
+
+Air Data Computer
+
+The ADC deposits data into the CC data base for use by the A/G module.
+Some of the information is required for the ballistics computations. Other
+information is used if the mission NAV determines that information is the
+best source.
+
+Attitude Reference
+The INS and AHRS also deposit information into the CC data base to be
+
+used as required by the mission NAV and the A/G module. Essentially,
+attitude, velocity, and acceleration data are provided.
+
+D - 47 AGD-5
+
+
+Text from AGD-5_Computed_Bombing_Modes_page_54.jpeg:
+Equipment (96-0200 and up or after TCTO 1F-15E-737, Embedded
+GPS/INS)
+
+The central computer, multipurpose display processor, head-up display,
+multipurpose display/color display and programmable armament control
+set remain essentially the same. However, the air data computer and
+reference system have changed.
+
+Air Data Processor (ADP)
+
+The air data computer has been replaced by the ADP. This change is
+transparent to the operator. The system altitude is present position
+keeping source (PPKS) selection dependent. With the EGI as the PPKS
+EGI altitude outputs are taken into the position/velocity consistency
+(PVC) filter into the CC. This filter uses EGI blended altitude and
+blended vertical velocity to produce the system altitude (SYSG) which
+provides stable and consistent data for weapons delivery computations.
+For any PPKS other than EGI the system altitude (SYSB) is the
+temperature corrected pressure altitude aided by FNU INS velocities.
+
+Reference System
+With the EGI selected as the PPKS EGI position and velocities are also
+used for the weapons delivery computations. The FNU INS provides the
+
+primary attitude, heading, attitude rates and accelerations.
+
+Switches and Controls
+
+There are many switches involved in setting up the CDIP delivery mode.
+Many of the switches, those associated with the PACS primarily, can be
+programmed using the DTM or set before takeoff. Additionally, there are
+two ways to enter the CDIP mode.
+
+A/G Master Mode
+
+The A/G master mode enables the bomb release circuits. Additionally, it
+permits air-to-ground symbology to be displayed on the HUD.
+
+AGD-5 D - 48
+
+
+Text from AGD-5_Computed_Bombing_Modes_page_55.jpeg:
+FCP Castle Switch
+
+This switch is used to take command of the HUD. Command is required
+to get AGR in the PACS CDIP mode and to permit auto acq switching to
+the CDIP mode from PACS AUTO mode.
+
+MPD/MPCD
+
+The MPD and its push buttons are your means to set up a CDIP or AUTO
+program, select armament, and select sequencing and fuzing options. A/G
+DLVRY inputs will adjust the CC aim point just as in AUTO as well as
+allow sensor selection and pull-up cue condition inputs.
+
+Master Arm Switch
+
+The master arm must be placed in ARM to enable the release circuits,
+obtain a PACS ready, and provide a gun cross and mode indicator on the
+HUD.
+
+Pickle Button
+
+The pickle button normally initiates release. Additionally, it always
+designates a target at the current pipper position in CDIP.
+
+Release Programming
+
+Full PACS release sequencing is available. Simply establish a CDIP or
+AUTO program and select the desired release options. For ripple
+programs, the CC computes for the center point of the string by default.
+Minimum release interval considerations are the same as for AUTO.
+
+D - 49 AGD-5
+
+
+Text from AGD-5_Computed_Bombing_Modes_page_56.jpeg:
+Armament
+
+You can bring up an ARMT display (Figure D-26) on any MPD/MPCD.
+You must have a CDIP or AUTO program selected with at least one
+loaded station boxed. You must also have a RDY indication next to
+
+PB #11. Remember, once you have a program established, you can change
+parameters such as quantity, interval, or fuze options at will.
+
+LOVOMOVO"O!
+| | |
+( ret V
+
+LOW BOT
+510M ee TR
+
+A/A CMBT
+LOFT 0° AT 38
+TARM 6.5 SEC CT R130°
+AIA
+
+QTY 12 INTVL 290
+
+CBT 1C STORE
+
+PACS DELIVERY PROG 1 CBT 2 IREYLON MENU
+MODE CDIP RP MPL TAIL RDY
+OPTIONS
+
+eee
+
+Figure D - 26. Armament - CDIP.
+
+PACS READY
+CUE
+
+AGD-05-26
+
+AGD-5 D - 50
+
+
+Text from AGD-5_Computed_Bombing_Modes_page_57.jpeg:
+CDIP Delivery Symbology
+
+The HUD (Figure D-27) displays a 50 mil reticle with the 2 mil pipper (or
+a 25 mil reticle with a 1 mil pipper) at the predicted bomb impact point.
+The reticle is connected to the velocity vector by a displayed impact line
+(DIL). The reticle may contain a range bar if the pilot takes command of
+the HUD and LAS or AGR is available.
+
+LLL tit ttt titty)
+
++
+10 L--- ~-#10
+
+PULL-UP
+CUE
+
+RETICLE
+
+2000
+NAV 3A
+N 2.3
+
+CDIP AGR
+
+25L-- ~~.125
+
+AGD-05-27
+
+Figure D - 27. HUD - CDIP Symbology.
+
+The computer calculates and displays a DIL to aid the pilot in flying a
+course line projected through the target. The pilot steers so the target
+appears to move along the DIL towards the reticle and applies the release
+signal when the pipper crosses the target. The release signal designates
+the target and initializes the AUTO display.
+
+The computations of weapon ballistics and the HUD reticle position are
+started when the CDIP mode is selected. Selection may be from a CDIP or
+AUTO PACS program. If a CDIP program is used, the legend in the lower
+right corner reads CDIP and tells which sensor is being used for HAT
+computations. If CDIP is entered from AUTO (by taking command of the
+HUD and thumbing aft on the FCP auto acq switch), the legend reads
+AUTO but the rest of the symbology is obviously CDIP until pickle.
+
+D-51 AGD-5
+
+
+Text from AGD-5_Computed_Bombing_Modes_page_58.jpeg:
+If the impact point is outside the HUD field of view, the reticle is
+displayed at the HUD limit along with a time to release (TREL), and the
+point under the pipper is still the predicted impact point. Because the
+computed impact point for the bomb range would occur under the nose,
+the pipper is positioned on the HUD to show where the bombs will
+eventually hit if the pickle button is pressed right now (designation). An
+AUTO symbology is displayed until multiple or delayed releases are
+complete.
+
+Displayed Impact Line (DIL)
+
+The DIL provides an azimuth steering reference to aid in positioning the
+reticle on the target. It is limited to the edge of the reticle to allow clearer
+viewing of objects in the reticle.
+
+When the pickle button is pressed, the CDIP display is terminated until
+
+the pickle button is released. The AUTO delivery display is used while
+the pickle button is held, including all HUD symbols.
+
+AGD-5 D - 52
+
+
+Text from AGD-5_Computed_Bombing_Modes_page_59.jpeg:
+CDIP Deliveries
+
+CDIP is the primary visual delivery mode. It can be employed with or
+without a target designation prior to the final attack. The point under the
+pipper is always designated the target at pickle. At pickle, the display
+looks just like AUTO until the pickle button is released.
+
+Climbing
+
+While a climbing attack is possible from CDIP, it is not the normal profile.
+In the event the reticle is HUD limited and a TREL is displayed, it is
+possible to place the pipper on the target, press the pickle button, and
+begin a pull-up. Due to the ranges involved, this should result in a very
+quick release.
+
+Level
+
+The level attack is normally conducted from low altitude but can be
+accomplished from any altitude (Figure D-28). If the HUD reticle is
+displayed at the HUD limit, TREL is displayed in the data block and is
+your only clue that release will be delayed. Designation is not required
+prior to final attack but may aid in target acquisition.
+
+GROUND /
+TRACK
+
+DESIGNATE RELEASE
+
+AGD-05-28
+
+Figure D - 28. CDIP Level.
+
+D-53 AGD-5
+
+
+Text from AGD-5_Computed_Bombing_Modes_page_6.jpeg:
+(This Page Intentionally Blank)
+
+AGD-5 C-2
+
+
+Text from AGD-5_Computed_Bombing_Modes_page_60.jpeg:
+Approach
+
+Depending on the type target, the approach to the target may be at very
+low altitude with a climb to delivery altitude just prior to release. If the
+target is such that detection is very difficult, it may be necessary to climb
+slightly to acquire the target and deliver in a very shallow dive.
+Cross-check the pull-up cue and be sure you are above the weapon frag.
+
+A prior designation may enhance the pilot’s visual acquisition of the
+target. A target designation may also be used to stabilize the CDIP
+reticle. When there is no target designated, target altitude is computed
+from laser range, AGR, SYSG (96-0200 and up or after TCTO 1F-15E-737,
+EGI), radar altimeter, or system barometric (SYSB) altitude. Terrain
+altitude variation is continuously used in computing the impact point.
+Rough or hilly terrain results in a changing CDIP display. When a target
+is designated the vertical component relative to the target is used to
+compute bomb range and position the pipper. This results in a stabilized
+display.
+
+Tracking
+
+Tracking is by visual means until a target is designated. You should
+maneuver the airplane to place the DIL over the target and allow the
+target to move down the DIL to the pipper (Figure D-29). If a target is
+designated by some means other than the pipper, command heading is
+available and the TD diamond marks the target.
+
+AGD-5 D- 54
+
+
+Text from AGD-5_Computed_Bombing_Modes_page_61.jpeg:
+10
+
+TGT 2.A
+G 4.0
+
+CDIP RALT
+
+AGD-05-29
+
+Figure D - 29. CDIP Level - Tracking.
+
+Release
+
+When the pickle button is pressed, the point under the pipper is
+designated. If a target had been previously designated, the designation is
+changed to the point under the pipper (Figure D-30).
+
+10
+
+G 1.0
+00:00 TREL
+CDIP RALT
+
+AGD-05-30
+
+Figure D - 30. CDIP Level - Pickle.
+
+D-55 AGD-5
+
+
+Text from AGD-5_Computed_Bombing_Modes_page_62.jpeg:
+As the pickle button is pressed, the HUD display changes to an AUTO
+display. Press and hold the pickle button until after the reticle begins
+flashing. Due to ballistics, multiple releases, and HUD limits, the
+release(s) may not occur immediately.
+
+If the CDIP reticle had been HUD limited at pickle, TREL is displayed,
+and bomb release does not occur until TREL 0:00. While the pickle button
+is held down, the AUTO display provides wind-corrected steering for the
+interval between pickle and generation of the last release pulse or for
+delayed releases (Figure D-31).
+
+FLASHING
+
+10
+
+9120
+TGT 2.A
+
+G 1.0
+00:07 TTGT
+CDIP AGR
+
+AGD-05-31
+
+Figure D - 31. CDIP Level - Release.
+
+Egress
+
+Execute the planned safe escape maneuver. If a loaded station is selected
+(bombs remaining) and CDIP was entered from a CDIP program, when
+the pickle button is released, the display returns to CDIP. (If you entered
+CDIP from AUTO by use of the auto acq switch, the AUTO display
+remains after the pickle button is released until you again thumb aft on
+the auto acq.)
+
+AGD-5 D - 56
+
+
+Text from AGD-5_Computed_Bombing_Modes_page_63.jpeg:
+Reattack
+
+The designation is held by the CC to help relocate the target should a
+reattack be necessary. Command heading is available on the HUD and
+HSI. The TD diamond is also present when the target is once again in the
+HUD field of view. Depending on the pickle button, station loading, and
+PACS programming, an ASL may be available to aid in reattack steering.
+
+Diving
+
+The diving attack is readily accomplished using CDIP (Figure D-32). You
+must fly your airplane to a position from which you can roll in, track,
+pickle, and recover without hitting the ground or the weapon frag. This is
+the same thing you do for a noncomputed delivery. The computer simply
+refines your accuracy.
+
+GROUND Jf.
+TRACK
+
+DESIGNATE RELEASE
+
+AGD-05-32
+
+Figure D - 32. CDIP Dive.
+
+D-57 AGD-5
+
+
+Text from AGD-5_Computed_Bombing_Modes_page_64.jpeg:
+Approach
+
+The approach is from any altitude as dictated by the threat. Steering is to
+the current steer point which may or may not be a target. The approach
+has all the flexibility of any other diving attack. Once rollout is
+accomplished with the velocity vector on the aim-off point, attempt to
+maintain a constant dive angle until release (Figure D-33).
+
+ny ae
++
+
+Bien
+
+NAV 2A
+
+N 3.4
+00:00 TREL
+CDIP RALT
+
+AGD-05-33
+
+Figure D - 38. CDIP Dive - Approach.
+
+Tracking
+
+At rollout, the target is between the pipper and the velocity vector.
+Whether the target is closer to the pipper or closer to the velocity vector
+depends on dive angle, track time, and ordnance ballistics. These are the
+same things that determine IPP (initial pipper placement) for manual dive
+bomb. Tracking consists of maintaining the velocity vector on the aim-off
+point and killing target drift. Drift is nulled by flying the airplane to place
+the DIL over the target. As altitude decreases during the dive, the DIL
+shortens and the target appears to track along the DIL to the pipper.
+When the pipper is superimposed over the target, press the pickle button.
+The HUD display changes to an AUTO display until the pickle button is
+released.
+
+AGD-5 D -58
+
+
+Text from AGD-5_Computed_Bombing_Modes_page_65.jpeg:
+Release
+
+The TD diamond appears at the pipper (Figure D-34). The ASL is
+displayed to help maintain a ground track through the target. The reticle
+jumps to the velocity vector and the data block destination changes to
+TGT. When the last bomb is released, the reticle flashes.
+
+13 14 15
+a
++
+
+§L-- ~-45
+
+TGT
+G 1.1
+
+00:00 TREL
+CDIP RALT
+
+AGD-05-34
+
+Figure D - 34. CDIP Dive - Pickle.
+
+Egress
+
+After the last bomb is released, execute the planned dive recovery/safe
+escape maneuver.
+
+Reattack
+
+When the pickle button is released the HUD display returns to the CDIP
+display. Once again, the designation is retained for the purpose of
+reattack should it be necessary. The command heading is displayed on
+the HUD and HSI.
+
+D -59 AGD-5
+
+
+Text from AGD-5_Computed_Bombing_Modes_page_66.jpeg:
+Crew Coordination
+
+During the CDIP attack, the pilot is concerned with visually navigating to
+and acquiring the target. How much coordination is required before going
+to CDIP depends to some extent on how CDIP is entered. If entered from
+AUTO, the pilot must take command of the HUD, which also takes the
+radar to AGR. A second act of taking command of the HUD points the
+targeting pod through the CDIP pipper.
+
+If CDIP is entered through a PACS program, the radar and IR are
+available to the WSO until the pilot takes command of the HUD to get
+AGR.
+
+In any event, if the pilot wants to use the radar designation to help locate
+the target during a CDIP pass, he must wait until the WSO has at least
+frozen a usable map prior to taking command of the HUD or use some
+other means of designation.
+
+Error Analysis
+
+As in all error analysis, you must first answer the question of where the
+pipper was at pickle. If not on the target, put it there the next pass. If
+you made a lateral error, attempt to get the DIL over the target as soon as
+possible. If the DIL is not over the target as you approach pickle, it is fair
+to use a small amount of bank to put it there. If the error was in range,
+ask yourself if you held a constant dive angle through the pass. If you pull
+the pipper up to the target, range accuracy is degraded because of CC
+solution time.
+
+If you do not have command of the HUD during a CDIP pass, neither
+radar nor laser range is available. If this is the case, IN CMD is not
+displayed, and there is no range bar in the reticle. If you significantly
+deviate from planned parameters, the CC still solves the bombing problem
+but possibly at the expense of frag and/or ground clearance.
+
+AGD-5 D - 60
+
+
+Text from AGD-5_Computed_Bombing_Modes_page_67.jpeg:
+QUESTIONS
+
+Which of the following is true concerning CDIP deliveries?
+
+You can only accomplish a CDIP delivery from a PACS CDIP
+program.
+
+You can only accomplish a CDIP delivery from a PACS
+AUTO program (you must thumb aft).
+
+You can accomplish a CDIP delivery from either an AUTO or
+a CDIP program.
+
+You can accomplish an AUTO delivery from a PACS CDIP
+program (you must thumb aft).
+
+In CDIP, to have an AGR range bar displayed on the reticle
+
+pe op
+
+the pilot must be in command of the radar.
+the WSO must be in command of the radar.
+the pilot must be in command of the HUD.
+the WSO must be in command of the TGT IR.
+
+After pickling in CDIP with the pickle button held down, the HUD
+
+display
+
+a. remains the same as before.
+
+b. changes to an AUTO display postdesignate.
+Gc. changes to a DIRECT display.
+
+d. goes blank until the pickle button is released.
+
+Which of the following is true concerning CDIP?
+
+a.
+
+Although primarily a visual mode, CDIP does have excellent
+capability in a nonvisual environment.
+
+CDIP is the primary visual delivery mode.
+
+When attacking a previously designated target, the system
+converts to AUTO at pickle and the weapon will impact the
+previously designated target.
+
+Climbing deliveries may be accomplished in CDIP but only
+when attacking a previously designated target (designated
+CDIP).
+
+D-61 AGD-5
+
+
+Text from AGD-5_Computed_Bombing_Modes_page_68.jpeg:
+ANSWERS
+
+1. c
+2. c
+3 b
+4 b
+
+AGD-5 D - 62
+
+
+Text from AGD-5_Computed_Bombing_Modes_page_69.jpeg:
+END OF TEXT QUIZ
+
+In AUTO (conventional weapons) bombs are released based on
+
+po op
+
+elapsed time.
+bomb time of fall.
+bomb range.
+aircraft altitude.
+
+Assuming the radar is turned on and is the priority sensor, it goes
+into air-to-ground ranging during an AUTO attack (assume a radar
+designation and 0° loft angle set)
+
+ao op
+
+only if the pilot takes command of the HUD.
+automatically at 15 seconds TREL.
+automatically at 15 nm from the target.
+only if the laser is not firing.
+
+The primary HUD indication of weapon release is a flashing
+
+ao op
+
+TD diamond.
+
+gun cross diamond.
+reticle.
+
+velocity vector.
+
+During an AUTO attack you have passed over the target. How do
+you get steering back to the target for a reattack?
+
+a.
+b.
+c.
+
+You must deselect and reselect the A/G master mode.
+
+You must undesignate and redesignate the target.
+
+Simply follow the current command steering but you must
+provide your own turning room.
+
+You must select a new PACS program to reintialize the system.
+
+E-1 AGD-5
+
+
+Text from AGD-5_Computed_Bombing_Modes_page_7.jpeg:
+TEXT
+CENTRAL COMPUTER A/G PROCESSING
+A/G Module
+
+In the F-15E, all air-to-ground weapon release computations are
+accomplished by the A/G module (Figure D-1) in the central computer
+(CC). Within the CC, the A/G module interacts with the navigation
+(NAV), flight director (FD), and controls and displays (C&D) software
+modules and data bases. These modules, in turn, pass information to and
+from other avionics systems.
+
+The A/G module functions only when the A/G master mode is selected and
+uses a generic set of ballistics equations to compute weapon time of fall
+and range. These computations include rack characteristics and specific
+weapon characteristics stored in the PACS. The CC compensates for CFT
+station location and weapon lateral departure angle. If a ripple release
+program is set, default computations and steering information are for the
+string center point. The aircrew may request an aim point to select a
+specific bomb to hit the target. Wind, coriolis, and separation effects are
+accounted for by adjusting the steering aim point for the computed miss
+distance. Wind is factored into the CC ballistics calculations based on a
+wind model.
+
+LEGEND
+EGI 2
+[____] CC MEMORY AHRS 1 EXEC
+[___] AVIONICS SYSTEMS [ADC 1]
+ADC 1
+[5] SOFTWARE MODULES ADP 2
+[7] sensors RADAR eo[ nay fe
+1. (86-0183 THRU 92-0366 FNU INS
+BEFORE TCTO 1F-15E-737)
+DATA
+2. (96-0200 AND UP AFTER PACS <> <>| Base [<>] A/G
+TCTO 1F-15E-737)
+TGT POD
+COCKPIT CONTROLS |—» > Pare
+DISPLAYS —_]<—»[_MPDP | -
+
+AGD-05-01
+
+Figure D - 1. A/G Module.
+D-1 AGD-5
+
+
+Text from AGD-5_Computed_Bombing_Modes_page_70.jpeg:
+5. Tracking during an AUTO attack is achieved by
+until the last weapon is released.
+
+a. keeping the waterline symbol superimposed on the ASL and
+ESL (if present)
+
+b. keeping the velocity vector superimposed on the ASL and ESL
+
+(if present)
+
+keeping the ASL superimposed over the TD diamond
+
+d. keeping the velocity vector superimposed on the TD diamond
+
+°
+
+6. In CDIP, if TREL is displayed,
+
+a. _ the reticle is HUD limited and the predicted bomb impact is not
+
+displayed.
+
+b. the reticle jumps to the velocity vector and the system reverts
+to AUTO.
+
+c. abreak X appears through the reticle indicating an out of range
+condition.
+
+d. the reticle is displayed at the HUD limit and still displays the
+predicted bomb impact point.
+
+7. To properly track in CDIP (diving attack),
+
+a. hold the velocity vector on the aim-off point until the pipper
+reaches the target.
+
+b. hold the velocity vector on the target until the pipper reaches
+the target.
+
+c. simply pull the pipper up to the target and hold it there for one
+second prior to pickle.
+
+d. put the DIL over the target and pickle anytime prior to the
+pipper reaching the target.
+
+AGD-5 E-2
+
+
+Text from AGD-5_Computed_Bombing_Modes_page_71.jpeg:
+To enter CDIP from a PACS AUTO program using HOTAS switches
+
+a. push down on the FCP auto acq switch.
+
+b. take command of the HUD and pull aft on the auto acq switch
+in either cockpit.
+
+c. take command of the HUD and pull aft on the auto acq switch
+in the front cockpit.
+
+d. pull aft on the auto acq switch in the front cockpit while pulling
+up on the coolie switch.
+
+E-3 AGD-5
+
+
+Text from AGD-5_Computed_Bombing_Modes_page_72.jpeg:
+(This Page Intentionally Blank)
+
+AGD-5 E-4
+
+
+Text from AGD-5_Computed_Bombing_Modes_page_73.jpeg:
+GLOSSARY
+
+A/A Air-to-air
+
+A/D Air data
+
+A/G Air-to-ground
+
+ADC Air data computer
+
+ADI Attitude director indicator
+
+AFMSS Air Force Mission Support System
+AGM Air-to-ground missile
+
+AGR Air-to-ground ranging
+
+AHRS Attitude heading reference system
+ARMT Armament
+
+ASL Azimuth steering line
+
+AT Along track
+
+AUTO Automatic
+
+BDU Bomb dummy unit
+
+C&D Controls and displays
+
+CC Central computer
+
+CDIP Continuously displayed impact point
+CFT Conformal fuel tank
+
+CMD Countermeasures dispenser; command
+CRS Course; Component Repair Squadron
+CT Cross track
+
+F-1 AGD-5
+
+
+Text from AGD-5_Computed_Bombing_Modes_page_74.jpeg:
+D Dud cue
+
+DIL Displayed impact line
+
+DTM Data transfer module
+
+EGI Embedded GPS/INS
+
+ESL Elevation steering line
+
+ETA Estimated time of arrival
+ETE Estimated time en route
+
+F Fragmentation pattern (frag) cue
+FCP Front cockpit
+
+FD Flight director
+
+FNU Fighter navigation unit
+GBU Guided bomb unit
+
+HAG Height above ground
+
+HAT Height above target
+
+HDG Heading
+
+HOTAS Hands on throttle and stick
+HSI Horizontal situation indicator
+HUD Head-up display
+
+INS Inertial navigation system
+IR Infrared
+
+LADD Low altitude drogue delivery
+LAS Laser
+
+AGD-5 F-2
+
+
+Text from AGD-5_Computed_Bombing_Modes_page_75.jpeg:
+LC
+
+LRDT
+
+mil
+
+MIL
+
+MM
+
+MN
+
+MPCD
+
+MPD
+
+MPDP
+
+MRA
+
+MRI
+
+NAV
+
+hm
+
+PACS
+
+PB
+
+PSL
+
+RALT
+
+RC
+
+RCD
+
+SYSB
+
+SYSG
+
+Left conformal fuel tank
+
+Long rang dive toss
+
+Minimum recovery altitude cue
+Milliradian
+
+Military (power)
+
+Master mode
+
+Mission navigator
+Multipurpose color display
+Multipurpose display
+Multipurpose display processor
+Minimum recovery altitude
+Minimum release interval
+Navigation
+
+Nautical miles
+
+Programmable armament control set
+
+Push button
+
+Pattern steering line
+Radar altimeter
+
+Right conformal fuel tank
+Record
+
+System (barometric)
+
+System altitude derived by EGI
+
+AGD-5
+
+
+Text from AGD-5_Computed_Bombing_Modes_page_76.jpeg:
+TCFT
+
+TD
+
+TF
+
+TGT
+
+TIMPCT
+
+TOF
+
+TOT
+
+TPULL
+
+TREL
+
+TRNG
+
+TTGT
+
+UFC
+
+VTRS
+
+WSO
+
+AGD-5
+
+Tangential conformal fuel tank
+Target designator
+
+Terrain following
+
+Target
+
+Time to impact
+
+Time of flight; time of fall
+Time on target
+
+Time to pull
+
+Time to release
+
+Training
+
+Time to target
+
+Upfront control
+
+Video tape recorder system
+
+Weapon systems officer
+
+
+Text from AGD-5_Computed_Bombing_Modes_page_77.jpeg:
+(This Page Intentionally Blank)
+
+F-5 AGD-5
+
+
+Text from AGD-5_Computed_Bombing_Modes_page_78.jpeg:
+BACK PAGE
+COVER SHEET
+
+
+Text from AGD-5_Computed_Bombing_Modes_page_8.jpeg:
+A/G PACS Modes
+
+The same ballistics equations are used regardless of release mode; the
+presentation in the cockpit is what is different. Weapon release cockpit
+displays are a function of the release mode choice. Delivery steering,
+timing, and range cues may be optimized for weapon type, target type,
+and designation characteristics.
+
+If a loaded station is not selected on the PACS ARMT display, no steering
+is available except NAV steering.
+
+Regardless of the determined PACS mode, if a station with a guided
+weapon loaded is selected, the CC is set to the GUIDED mode. For
+conventional weapons, if the PACS mode is AUTO, the CC may be set to
+AUTO or CDIP. The AUTO low altitude drogue delivery (LADD) option is
+also available with a retarded nuclear weapon selected.
+
+AUTO delivery symbology allows weapon delivery in a nonvisual
+environment. The continuously displayed impact point (CDIP) mode
+allows the pilot to deliver ordnance by visually positioning an aiming
+index on the target.
+
+An AUTO PACS program allows the flexibility of switching the display
+between AUTO and CDIP via HOTAS. While in command of the HUD
+with an AUTO PACS program, the pilot selects AUTO ACQ AFT to switch
+to the CDIP aiming index. Subsequent aft selections toggle the display
+symbology.
+
+If CDIP is the PACS mode with no loaded stations selected, and AUTO
+ACQ AFT is selected while in command of the HUD, the CC is set to CDIP
+GUN.
+
+AUTO
+
+Auto Mode Description
+
+The AUTO mode is the basic computed delivery mode of the F-15E. It
+
+provides a means to deliver ordnance accurately with little or no visual
+reference to the target.
+
+AGD-5 D-2
+
+
+Text from AGD-5_Computed_Bombing_Modes_page_9.jpeg:
+At target designation, the CC determines the absolute position of the
+target based on the aircraft actual position and target relative position
+and begins to compute weapon impact position. The relative bomb impact
+point is corrected for ballistics, wind, coriolis, and rack delays. Bomb
+range is compared to the existing range to the target, and when the two
+ranges are equal, weapons release occurs if the aircrew consents to it.
+
+Equipment (86-0183 through 92-0366 before TCTO 1F-15E-737,
+Embedded GPS/INS)
+
+In order to effectively use the AUTO mode, the CC, MPDP, HUD,
+MPD/MPCD, PACS, ADC, and FNU INS or AHRS must be functional.
+
+Central Computer (CC)
+
+The CC is the key element of the computed modes. It actually works the
+bombing problem through the A/G module, and generates the release
+signal. If the CC fails, computed deliveries are not available. Cockpit
+indications are based on the selected delivery mode.
+
+Multipurpose Display Processor (MPDP)
+
+The MPDP creates all the symbology for display on the HUD and
+MPD/MPCD.
+
+Head-up Display (HUD)
+
+The HUD presents the steering information and other delivery cues to the
+pilot.
+
+Multipurpose Display / Multipurpose Color Display (MPD /MPCD)
+
+An MPD/MPCD provides access to program and monitor the PACS and
+A/G delivery (DLVRY) program format. It may also be used to display an
+HSI or ADI to obtain backup steering information.
+
+Programmable Armament Control Set (PACS)
+The PACS provides the CC an interface with the weapons. It is used to
+help build the delivery program. An AUTO program includes station
+
+selections, sequencing options (quantity/interval/bomb-on-target), and
+fuzing/drag options.
+
+D-3 AGD-5
+
+

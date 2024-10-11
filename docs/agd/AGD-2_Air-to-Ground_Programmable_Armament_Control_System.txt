@@ -1,0 +1,1598 @@
+Text from AGD-2_Air-to-Ground_Programmable_Armament_Control_System_page_1.jpeg:
+SUPPORTS COURSES
+FIS5EBQ
+
+FISETX
+
+FISESOC
+
+ACADEMIC STUDENT WORKBOOK
+F-15E
+
+AIR-TO-GROUND DELIVERY
+AGD-2
+A/G PROGRAMMABLE ARMAMENT
+CONTROL SYSTEM (PACS)
+
+JULY 1998
+(SUITE 3 OFP)
+
+AIR COMBAT COMMAND
+
+
+Text from AGD-2_Air-to-Ground_Programmable_Armament_Control_System_page_10.jpeg:
+Loading an A/G Store
+
+To correlate information, here are the steps to program an A/G stores
+load. Assume there are two MK-84s onboard, one each on stations 2 & 8,
+and 12 CBU-58s, six on each CFT. When the aircrew brings up the A/G
+LOAD format (Figure D-2), the number is visible, but not the type of
+stores on stations 2, 8, LC and RC. Also visible is that a centerline fuel
+tank is loaded (fuel tanks self-identify).
+
+MK82SE
+
+AIG COMBAT
+WEAPON LOAD
+
+A/G COMBAT
+WEAPON LOAD
+
+BLU107 MK82 BLU107
+
+MK82AR MK82AR,
+
+MK84AR MK8&4AR,
+
+MENU MENU
+
+AIG COMBAT
+WEAPON LOAD
+
+STATIONS LOADED AGD-02-02
+
+Figure D - 2. A/G Combat Weapon Load.
+
+AGD-2 D-4
+
+
+Text from AGD-2_Air-to-Ground_Programmable_Armament_Control_System_page_11.jpeg:
+If the MC/DTM data was loaded before bringing up the display, the
+display would have initialized with the MC/DTM programmed legends. In
+this case, all the munitions previously loaded on the aircraft were dropped
+during the last mission, therefore the legends come up blank. When
+munitions are physically loaded on the aircraft, the PACS is able to sense
+the correct quantity of munitions, but not the correct type. For ballistics
+and OWS purposes, the PACS must be programmed with the air-to-
+ground munitions that are actually aboard the aircraft. This can be
+accomplished via a MC/DTM, or via the display itself. The MK-84s are in
+Group 4. Push the button beside MK-84 and a box appears around the
+legend. This shows that it is selected to load. Next, push PBs #16 and
+#20; a boxed MK84 appears below the buttons showing what is loaded on
+the stations. That is all there is to identifying dumb bombs to the PACS.
+
+Loading a CBU/MK-20
+
+Page 3 of the PACS weapons load menu lists all dispenser munitions
+certified for carriage on the F-15E (Figure D-3). To identify the stores
+actually loaded on a station, select (box) the store by pressing the push
+button next to the appropriate store legend and then press the appropriate
+station push buttons. In this example (Figure D-3), box CBU58 by
+pressing PB #13; then press PBs #17 and #19 to locate CBU58 on stations
+RC and LC. When a dispenser munition is selected and located on a
+station it initializes with the default fuze and settings (or AFMSS selected
+fuze and settings). At this point, the FUZE LOAD option appears at PB
+#7.
+
+O-
+la MK84 iICBU58 FUEL ICBU58 MK84
+1 1 6 1
+
+6
+
+CBU87
+
+CBU89
+
+il
+
+AIG COMBAT A/G COMBAT
+WEAPON LOAD WEAPON LOAD
+
+Oo)
+
+FUZE AIA TCFT
+LOAD LOAD LOAD STEP
+
+AGD-02-03
+
+Figure D - 3. Loading a Dispenser Munition.
+
+D-5 AGD-2
+
+
+Text from AGD-2_Air-to-Ground_Programmable_Armament_Control_System_page_12.jpeg:
+Pressing PB #7 brings up the FUZE LOAD page (Figure D-4). Fuzes
+compatible with the weapon are listed in the lower center of the display
+with the current selection boxed. Pressing PB #4 steps through the fuze
+choices. Selectable fuze settings are displayed between PBs #2 and #3
+and/or between PBs #14 and #13. PBs #2, #8, #13 and #14 are used to
+increment or decrement setting values. Additionally, burst height and
+time can be entered by typing a valid entry into the UFC scratchpad and
+pressing the appropriate pushbutton (PB #2/3 or PB #13/14). After the
+desired fuze and settings are selected, selecting ENTER at PB #10
+completes the programming. In the example, the default fuze for the
+CBUS8 is the FMU26 with a 2.0-second timer. To select the FMU56,
+press PB #4 once. Since the FMU56 is a radar fuze, the altitude setting
+appears between PBs #18 and #14. After setting the desired altitude, in
+this case 250 feet, press PB #10 to enter the settings.
+
+6 eG ©;
+
+(- MK84 CBUS8 FUEL CBU58| MK84 la MK84 CBU58 FUEL CBUS8| MK84
+1 6 1 6 1 1 6 1 6 1
+
+AGD-02-04
+
+Figure D - 4. Fuze Load Options.
+
+AGD-2 D-6
+
+
+Text from AGD-2_Air-to-Ground_Programmable_Armament_Control_System_page_13.jpeg:
+Fuze load options for the MK-20 and CBU-87 are shown in Figure D-5.
+These examples show the multiple settings required for these
+munition/fuze combinations. Note that in all cases, once entered with
+PB #10, the new fuze settings appear under the weapon/quantity at the
+top of the display.
+
+MK20 ] FUEL
+
+CBU87 FUEL CBU87| MK84
+6 1 6
+
+3.83 3.83
+2600 2600
+SPIN2 SPIN2
+
+a
+
+OPTION
+100.0 SEC
+
+FUZE LOAD Vv FUZE LOAD
+
+INTEGRL
+
+FZU39
+
+MK339-1
+
+AGD-02-05
+
+Figure D - 5. MK-20 and CBU-87 Examples.
+
+Tangential Conformal Fuel Tank (TCFT) Stores
+
+When a CFT store is detected in the PACS, TCFT LOAD is displayed at
+PB #9. After the weapon type has been identified and entered on the A/G
+LOAD display, pressing PB #9 selects the TCFT LOAD display (Figure
+D-6). The aircrew can now enter the exact CFT position of each store
+loaded on this display. This enables the CC to accurately determine CFT
+release sequence in order to apply the correct lateral ejection component,
+and provide the proper azimuth steering to compensate for lateral
+displacement of the weapon impact point(s) on the ground.
+
+Stores entered on the TCFT LOAD display are also used for determination
+of laser masking zones.
+
+D-7 AGD-2
+
+
+Text from AGD-2_Air-to-Ground_Programmable_Armament_Control_System_page_14.jpeg:
+MK82] FUEL  MK82 [MKs2] FUEL = Mk82
+4 ‘ 6 4 6
+OF IF IF OF
+
+Ic oc
+OA IA IA OA
+
+AIG COMBAT BLUIOZ AIG COMBAT
+WEAPON LOAD WEAPON LOAD
+
+AIA TCFT
+LOAD
+
+MK82
+4
+
+MK82
+6
+IF OF
+Ic oc
+IA OA
+
+FUEL
+1
+
+OF
+oc Ic
+OA
+
+AIG COMBAT
+WEAPON LOAD
+
+ood"
+
+Figure D - 6. TCFT Load.
+
+.
+a | CONT
+Pt" @
+
+AGD-02-06
+
+AGD-2 D-8
+
+
+Text from AGD-2_Air-to-Ground_Programmable_Armament_Control_System_page_15.jpeg:
+The aircrew selects each weapon load position by pressing the
+corresponding PB (Pushbuttons) listed in Table D-1 below on the TCFT
+LOAD display:
+
+PB # Corresponding TCFT Station
+Inboard Forward (INB FWD/IF)
+[4 Tinhostd Canter NB CrRIG)
+| 5 Inboard AMLCNBAFTIA)
+| 6 | Outboard Forward (QUT FWD/OF) |
+
+Outboard Center (OUT CTR/OC)
+| gs Outboard Aft (OUT AFT/OA)
+
+Table D - 1.
+
+The station position legend(s) are boxed when selected and are accepted
+when ENTER (PB #10) is depressed. The legend(s) is/are then unboxed
+and the station positions are displayed under the corresponding CFT
+weapon load (Figure D-6).
+
+With the landing gear handle up, if the aircrew entered CFT position load
+does not agree with the PACS supplied quantity, the PACS overrides the
+aircrew entries in the following manner:
+
+@ Ifthe aircrew entered too many CFT positions for the quantity
+determined by the PACS, the PACS removes the aircrew entered
+positions in the release order (IA, IF, OA, OF, OC and IC) until the
+quantity matches the positions.
+
+@ Ifthe aircrew entered too few (or no) CFT positions, the PACS fills out
+the quantity with positions from the reverse release order.
+
+D-9 AGD-2
+
+
+Text from AGD-2_Air-to-Ground_Programmable_Armament_Control_System_page_16.jpeg:
+Other Weapons Loading
+
+Other weapons or stores like AGM-65s, GBUs, ECM pods, etc., are covered
+in later, dedicated lessons. As mentioned previously, fuel tanks identify
+themselves to the PACS so the aircrew does not have to load them except
+in the training mode.
+
+When loading a SUU-20, the aircrew must identify individual bombs
+(BDU-33 or MK-106) for each of the six SUU-20 positions. After loading a
+SUU-20 on the appropriate station, a bomblet submenu will appear as
+shown in the middle part of Figure D-7. The A/G weapon load menu for
+the SUU-20 displays the dispenser position numbers 1-6. To load a
+SUU-20, first select the type of bombs (MK-106 or BDU-83), then select
+the SUU-20 positions, then select enter. The type of bomb (BDU-33 or
+MK-106) should be displayed next to the desired position under the
+station where the SUU-20 is loaded. The aircraft PACS display tells the
+operator the SUU-20 bomb positions (1-6) and type of bomb in the release
+sequence. Note that the number of bombs remaining is not displayed;
+only the SUU-20 bomb position next in the release sequence and type of
+store loaded (Figure D-7).
+
+AGD-2 D-10
+
+
+Text from AGD-2_Air-to-Ground_Programmable_Armament_Control_System_page_17.jpeg:
+SUU-20( ) DISPENSER POSITIONS
+
+FWD 2 Gl AFT
+[2]
+TOP VIEW
+RELEASE SEQUENCES
+oe
+a a
+SUU-20 WEAPON LOADING eT 1
+
+1. SELECT MK106 OR BDU33 TO LOAD.
+
+2. SELECT POSITIONS FOR LOAD
+SELECTED.
+
+3. ENTER.
+
+4. POSITION LOADS ARE DISPLAYED
+UNDER SUU-20 STATION SELECTED wee
+
+FOR LOADING.
+
+A/G PACS DISPLAY
+CT R130'
+1. STATION 2 DISPLAYS A SUU-20
+LOADED WITH A BDU33 AT asew
+DISPENSER POSITION 3 NEXT IN 4MRM
+THE RELEASE SEQUENCE
+
+CBT 1LR RACK
+CBT 2 C STORE
+
+2. STATION 8 DISPLAYS A SUU-20
+LOADED WITH A MK106 AT
+DISPENSER POSITION 2 NEXT IN AUTO STEP
+THE RELEASE SEQUENCE.
+
+A/G PACS DISPLAY
+
+AGD-02-07
+
+Figure D - 7. SUU-20 Loading.
+
+D-11 AGD-2
+
+
+Text from AGD-2_Air-to-Ground_Programmable_Armament_Control_System_page_18.jpeg:
+The SUU-20M/N does not have mixed load capability like the SUU-20B/A.
+With the SUU-20M loaded, the PACS initializes with 6 x MK-106s per
+dispenser; with a SUU-20N loaded, the PACS initializes with 6 x BDU-33s
+per dispenser. The display on the A/G status menu is identical for both
+SUU-20M/N and SUU-20B/A. The only difference is bomb types
+associated to the SUU-20 itself.
+
+A/G WEAPON STATUS AND RELEASE PROGRAMMING
+
+Once the munitions are loaded in the PACS, call up the A/G display to
+program delivery functions and to monitor status. To do this, go back to
+the menu and press PB #3, A/G. The resulting A/G display is shown in
+Figure D-8.
+
+/ [MK84] CBUS8 FUEL CBUS58 \\
+1 6 1 6 1
+
+LOW AIG CMB
+400M 250 250
+
+AJACMBT
+
+LOFT 0° AT 38'
+TARM 6.0 SEC CT R130°
+AIA
+
+CBT 1
+CBT 2
+
+MENU
+
+AUTO STEP NOSE
+
+AG NA _NUC
+\ LOAD LOAD LOAD y,
+
+AGD-02-08
+
+Figure D - 8. A/G Display.
+
+At the top are the munitions/stores loaded into the PACS, including
+dispenser program information, if appropriate. Next to PB #1 is the gun
+data, including firing rate and number of rounds remaining. It is
+programmed on the A/A LOAD display; however, the firing rate can be
+changed here by alternate depressions of PB #1. Below that is A/A; by
+pressing PB #2, it is possible to go directly to the air-to-air PACS display.
+In the middle of the display is a readout of the A/A missiles on board,
+showing SRMs that are not HUNG and MRMs that are in STBY or RDY.
+
+AGD-2 D-12
+
+
+Text from AGD-2_Air-to-Ground_Programmable_Armament_Control_System_page_19.jpeg:
+Beside PB #5 is the delivery program option legend. A program consists of
+the desired weapon delivery parameters and release options. The display
+always initializes to the program option last displayed; depressing PB #5
+cycles through the four program options. Program the delivery options by
+first calling up the desired program number and then boxing the
+appropriate munitions. In Figure D-9, the MK-84s on stations 2 and 8 are
+assigned to PROG 1. The release options that the crew has are release
+mode, release sequence, and drag/fuze arming. Whatever is in CC
+memory will be what is initially displayed.
+
+To change a release option, depress the button below it; this blanks out
+the legend and brings up the choices for that option at the bottom of the
+display. Figure D-9 shows this for the release mode options. Then by
+pressing the button below the choice, CDIP or AUTO, enter it into PROG
+1 and the display changes back, showing the new option, ready for more
+programming.
+
+MK84] CBU58 FUEL  CBU58 H MK84] CBU58 FUEL  CBU58
+1 6 4 1 6 4 6 1
+AIG CMBT AIG CBT
+250 “AIACMBT 250 250 AIACMBT
+AT 38" LOFT 0° AT 38"
+CT R130' TARM 6.0 SEC CT R130'
+AIA
+
+CBT1 CBT1
+CBT2 CBT2
+
+STEP NOSE STEP NOSE
+OPTIONS re OPTIONS
+
+AGD-02-09
+
+Figure D - 9. Delivery Mode Programming.
+
+D-18 AGD-2
+
+
+Text from AGD-2_Air-to-Ground_Programmable_Armament_Control_System_page_2.jpeg:
+ADMINISTRATIVE INFORMATION
+
+This student workbook is designed to provide information on the F-15E,
+its systems and capabilities. It is not a sole source document, but is to be
+used in conjunction with other standard Air Force publications and
+technical manuals. If you find any differences between the material
+contained herein and other governing regulations, adhere to the
+regulations and notify the OPDR.
+
+Changes to this workbook are indicated with a heavy black line in the left
+margin.
+
+Forward recommendations for revision or change to 4 TS, SJAFB, NC
+275381.
+
+Supersedes: AGD-2, August, 1997
+
+OPDR: 4 TS
+
+Index of Changes
+
+Effective Date Pages Affected
+
+
+
+Text from AGD-2_Air-to-Ground_Programmable_Armament_Control_System_page_20.jpeg:
+The options available and their explanation are given below.
+
+DIRECT
+
+AUTO
+
+CDIP
+
+1/STA
+
+STEP
+
+RP SGL
+
+RP MPL
+
+AGD-2
+
+RELEASE MODE (PB #6)
+
+the pilot must achieve preplanned release parameters
+appropriate for the mil setting entered through the UFC. The
+direct mode is available only with a SUU-20 or GBU 24/28
+selected.
+
+automatically releases munitions, with switches properly set,
+when aircraft slant range from the target equals CC
+computed delivery slant range.
+
+continuously displayed impact point: allows the pilot to put
+the reticle on the target visually and initiate a computed
+delivery.
+
+RELEASE SEQUENCE (PB #7)
+
+one weapon is released from each selected station each time
+the pickle button is pressed.
+
+one weapon is released each time the pickle button is
+pressed. If more than one station is selected, the release
+signals are sequenced as follows: LC, RC, 2, 8, 5, LC, etc.
+
+ripple single: with the pickle button depressed, weapons
+release continuously, one at a time, at the set interval until
+the quantity selected on the quantity indicator has been
+released. If more than one station is selected, the sequence
+follows that in the STEP program.
+
+ripple multiple: with the pickle button depressed, one weapon
+is released from each selected station simultaneously and
+continues at the selected interval until the selected quantity
+has been released. If only one station is selected, the mode
+works the same as ripple single.
+
+
+Text from AGD-2_Air-to-Ground_Programmable_Armament_Control_System_page_21.jpeg:
+When either RP SGL or RP MPL is selected, the quantity (QTY) and
+interval (INTVL) are displayed (Figure D-10). To change the quantity of
+bombs to be released, use alternate depressions of PB #8 for the unit's
+digit and PB #4 for the ten's digit. Any number from 01 through 29 may
+be used. The minimum release interval is weapon dependent (i.e., the CC
+or PACS will ultimately determine the interval at which weapons are
+released). If you program a weapon release interval less than the MRI,
+the weapons will be dropped at the PACS or CC determined minimum
+release interval. Refer to TO 1F-15E-34-1-1, A/G bombing, minimum
+release interval. Now program the desired interval (feet between
+impacts). Use PB #12 to change the ten's digit and PB #13 to change
+hundreds. The stick length (first bomb to last bomb) for Figure D-10 is
+150 feet.
+
+MK84 CBUS58 FUEL  [CBU58 MK84
+1 6 1 6 1
+
+AIG CMBT
+250 250 "NA CMBT oad
+
+LOFT 0° AT 38
+TARM 6.0 SEC CT R130°
+
+QTy08 CBT 1 INTVL 050
+
+CBT 2
+
+PROG 2
+CDIP RP-MPL ~~ HEIGHT
+OPTIONS
+
+AGD-02-10
+
+Figure D - 10. QTY/INTVL Options.
+
+D-15 AGD-2
+
+
+Text from AGD-2_Air-to-Ground_Programmable_Armament_Control_System_page_22.jpeg:
+The cross and along track corrections, loft angle and arming time are set
+through the A/G delivery display on the MPD/MPCD. Note that each
+PACS program has its own set of A/G delivery parameters. After exiting a
+specific PACS program and entering another, the desired loft angle,
+cross/along track corrections must be entered for the new program.
+
+After completing a delivery program, the three remaining programs may
+be used for the remaining munitions or to establish an alternate release
+program for the ones just set up. When finished, stay in the A/G display
+or exit to something else. There is no harm in leaving one or more
+delivery programs blank.
+
+As stated earlier, the PACS is smart and will keep the crew from making
+many programming errors. For example, assume there are MK-84s on
+station 2 and MK-20s on the left CFT. If the pilot tries to assign both of
+them to the same program, as soon as the second munition is boxed, the
+boxes will disappear. This should alert the pilot to the mismatch.
+
+DRAG/FUZE OPTIONS (PB #8)
+
+NOSE the nose and center arming solenoids are energized at
+release.
+
+TAIL the tail arming solenoid is energized at release.
+
+N/T nose/tail: all three solenoids are energized at release.
+
+PRIMARY for use with MK-20 and CBUs with MK-339 fuze; selects
+
+nose arming unit at release.
+
+OPTION for use with MK-20 and CBUs with MK-339 fuze; selects
+nose/tail arming at release.
+
+TIME CBU with fuzes other than MK-339; selects nose arming
+unit at release.
+
+HEIGHT CBU with fuzes other than MK-339; selects nose/tail arming
+at release.
+
+AGD-2 D-16
+
+
+Text from AGD-2_Air-to-Ground_Programmable_Armament_Control_System_page_23.jpeg:
+Some weapons can be wired to provide the option of selecting the type
+profile after airborne, either low drag or high drag. In these cases, for
+MK-82SE, MK-82-AR, and MK-84/AR the nose option selects both the
+nose and center arming units and the low drag options. The tail or N/T
+option selects either the tail or all three arming units, respectively, and
+the high drag option. For the BLU-107, only the nose option is available;
+this option selects both the nose and center arming units and the high
+drag option.
+
+The A/G PACS display with dispensers loaded and programmed is shown
+on Figure D-11. In display A, CBU-52s are loaded and selected with the
+MK-339-1 fuze options of PRIMARY and OPTION available at PBs #6 and
+#7. In display C, CBU-87s are loaded and selected with the FZU-39 fuze
+options of TIME and HEIGHT available at PBs #6 and #7. Choosing one
+of the options at PB #6 or #7 selects the fuzing as programmed on the
+FUZE LOAD display. Display B reflects the OPTION setting being
+selected for the CBU-52s, and display D indicates the TIME function was
+selected for the CBU-87s.
+
+D-17 AGD-2
+
+
+Text from AGD-2_Air-to-Ground_Programmable_Armament_Control_System_page_24.jpeg:
+AIATRNG CTR AATRNG CTR
+AT 38° ° AT 38°
+CT R130' i CT R130'
+
+es
+aty12 INTVL 290 ITY 12 INTVL 290
+CBT 1 C STORE CBT 1 C STORE
+
+CBT 2 LC RC STORE CBT 2LC RC STORE
+[PROG] 1 [PROG] 1
+
+AUTO RP SGL AUTO RP SGL OPTION
+OPTIONS OPTIONS
+\Q pamazy OPTION
+
+FUEL
+6 1 6
+
+3.83 3.83
+2600 (AIG CMBT] BOT 2600 BOT
+SPIN2 “WATRNG 7 SPIN2 “QATRNG 7
+AT 38! ° AT 38!
+CT R130' TARM 6.5 SEC CT R130°
+
+ee
+
+QTy12 INTVL 290 QTy12
+CBT 1 C STORE CBT 1 C STORE
+
+CBT 2 LC RC STORE CBT 2LC RC STORE
+[PROG] 1 [PROG] 1
+
+AUTO RP SGL AUTO RP SGL_ TIME
+OPTIONS OPTIONS
+Ne TIME _HEIGHT
+
+HOMO
+
+C. CBU87 SELECTED, FZU39 FUZE D. TIME FUZE SELECTED
+
+AGD-02-11
+
+Figure D - 11. CBU Fuze Options.
+
+AGD-2 D-18
+
+
+Text from AGD-2_Air-to-Ground_Programmable_Armament_Control_System_page_25.jpeg:
+Bomb on Target (BOT)
+
+For each delivery program (TRNG and CMBT) with a ripple delivery and
+a quantity (QTY) greater than 1 selected, a BOT selection is available at
+PB #15 (Figure D-12). The BOT initializes to the center of the string
+(CTR). The first actuation of PB #15 advances the BOT to the first bomb
+in the string. Each successive actuation increments the value by 1 until
+the selected release QTY is reached. When the BOT number equals the
+selected release QTY, the next actuation returns to CTR. If the selected
+QTY is changed and increased, the BOT is not affected. If the new QTY is
+decreased to less than the current BOT, the BOT defaults to CTR.
+
+The BOT can also be entered through the UFC. If 0 is selected on the
+scratchpad and PB #15 is pressed, CTR is selected. If a number between 1
+and the selected QTY is entered in the scratchpad and PB #15 is pressed,
+that number is displayed below the BOT at PB #15. If the selected QTY is
+greater than the total number of bombs loaded on the selected stations,
+that QTY number is displayed at PB #15, but all station and position on
+target information is for the last bomb on the string. If a number greater
+than the selected release QTY, or less than 0 is entered via the
+scratchpad, the number in the scratchpad flashes and the BOT number at
+PB #15 does not change.
+
+With an even number of bombs in the string and CTR selected, the target
+
+will be bracketed by the two middle bombs in the sequence. With an odd
+number of bombs, the middle bomb will be on target.
+
+D-19 AGD-2
+
+
+Text from AGD-2_Air-to-Ground_Programmable_Armament_Control_System_page_26.jpeg:
+> Os rer 126X RIP GTITF
+
+CBU52 FUEL [CBU52
+6 1 6
+
+1.2 1.2
+100.0 100.0 eower BOT
+IK CTR
+LOFT 0° AT 38'
+TARM 6.5 SEC CT R130'
+
+CT -
+QTy12
+
+INTVL 290
+CBT 1 C STORE
+CBT 2LC RC STORE
+
+AUTO RP SGL OPTION
+OPTIONS
+
+TIFF 123C4 Res/eE 14S
+
+AGD-2
+
+MENU 1 DISPLAY
+
+CBU52 FUEL [CBU52
+6 1 6
+
+1.2 1.2
+100.0 100.0 ecer
+4
+LOFT 0° AT 38'
+TARM 6.5 SEC CT R130°
+
+ee
+
+2 INTVL 290
+CBT 1 C STORE
+
+CBT 2 LC RC STORE
+
+AUTO RP SGL OPTION
+OPTIONS
+
+QTYy12 INTVL 290
+CBT 1 C STORE
+
+CBT 2 LC RC STORE
+PROG 1
+
+AUTO RP SGL OPTION
+OPTIONS
+
+AGD-02-12
+
+Figure D - 12. BOT Display.
+
+
+
+Text from AGD-2_Air-to-Ground_Programmable_Armament_Control_System_page_27.jpeg:
+Releasing a Weapon
+
+The pilot or WSO will probably not fly around all the time with a PACS
+format on one of the displays. So, when ready to drop bombs, bring up the
+A/G PACS display (as a technique, many aircrew program an ARMT page
+to the A/G master mode on one display). When it initializes, verify the
+correct program number is showing. Insure that A/G master mode is
+selected, then put the MASTER ARM switch to ARM. This satisfies all
+the logic required by the PACS for delivery. A boxed RDY appears on the
+display (Figure D-13) and the MASTER ARM light on the RCP caution
+panel illuminates. The last step is to press the pickle button. Do not
+quick pickle; both computed modes use the pickle button as a consent
+
+switch. Immediate release will not occur in AUTO and may not occur in
+CDIP.
+
+NOTE
+
+Although it is not absolutely necessary to have the A/G PACS display
+called up, it is the only way to change intervals, weapons and delivery
+options. Programs may be changed and the green “RDY” light status
+
+verified on both the A/G PACS and the A/G Delivery Display.
+
+CBUS8] FUEL [CBUSS] MKa4
+1 6 1 6 1
+AIG CMBT
+250 260 "AIA TRNG Bor
+
+LOFT 0° AT 38
+TARM 4.0 SEC CT R130'
+
+QTY 12 CBT 1 INTVL 100
+
+CBT 2
+ROG 2 MENU
+AUTO RP-SGL_ HEIGHT
+
+OPTIONS
+
+me)
+
+READY
+
+AGD-02-13
+
+D-21 AGD-2
+
+
+Text from AGD-2_Air-to-Ground_Programmable_Armament_Control_System_page_28.jpeg:
+As munitions are released, the stores aboard sensors keep track of the
+quantity and update the display. However, these computations are not
+instantaneous; it is possible for the OWS to register an over-G condition
+while pulling off target based on stores you have already released. When
+all weapons on a station are gone, the weapon legend is erased and
+replaced by what is left, i.e., RACK, PYLON, or blank if nothing is there.
+If a release signal is sent to a pylon or rack station and a store present
+indication is still there after the signal is removed, a HUNG legend will
+appear. However, in the case of the rack, this does not occur until all
+subsequent stores have been sent a release signal.
+
+A/G TRAINING WEAPONS MODE
+
+The PACS training mode works in both A/A and A/G, giving the capability
+to simulate any weapons delivery with or without stores actually loaded
+aboard. However, the training mode may not prevent the release of real
+ordnance (live or inert). The A/G TRNG mode should not be used when
+carrying releasable stores. The A/A TRNG mode may be used when
+carrying certain releasable stores; restrictions will be discussed in your
+flight briefings.
+
+The A/G training mode can be entered anytime “A/G TRNG” shows beside
+PB #15. First press PB #15 with the top level PACS menu showing. This
+boxes A/G TRNG, enabling the A/G training mode (Figure D-14).
+
+ARMT MENU nop.an-
+
+Figure D - 14. A/G Training Mode.
+
+AGD-2 D - 22
+
+
+Text from AGD-2_Air-to-Ground_Programmable_Armament_Control_System_page_29.jpeg:
+Next, press PB #7, A/G LOAD. All these displays look just about the same
+as the actual weapons’ displays except that the A/G TRNG legend is boxed
+and the page title shows “A/G Training Weapon Load.” Once in A/G
+LOAD, program munitions/stores as desired; the range of choices is made
+available by paging through the groups with the STEP button. The
+operation is done just as explained previously for actual A/G weapon
+programming.
+
+In A/G TRNG, whenever a munition or store is programmed, its quantity
+initializes to the maximum number that can be carried on that station,
+i.e., six MK-82s on station 2. Cycling PB #6, DECR QTY (a training only
+legend), decreases the quantity of each boxed munition by one (Figure
+D-15). Depressing the button with “1” showing takes the quantity back to
+the maximum.
+
+BLU107
+
+AIG TRAINING
+WEAPON LOAD MKS2AR
+
+MK84AR
+
+AGD-02-15
+
+Figure D- 15. Training Quantities.
+
+D - 238 AGD-2
+
+
+Text from AGD-2_Air-to-Ground_Programmable_Armament_Control_System_page_3.jpeg:
+AIR-TO-GROUND DELIVERY
+
+COVER
+
+A/G PROGRAMMABLE ARMAMENT CONTROL SYSTEM (PACS
+
+INTRODUCTION
+
+This workbook is your guide in studying the F-15E programmable
+armament control system (PACS). It contains background information
+essential for accomplishing the associated CBT lesson. It familiarizes you
+with the components, nomenclature and operational characteristics of the
+system and provides you with knowledge needed to safely operate the
+F-15E aircraft.
+
+CONTENTS:
+
+INTRODUCTION 0.00. eeccceeeseecesneeeeesaeeeesaeeesesaeecesaeeeesaeesesaeeens A-1
+CRITERION REFERENCED OBJECTIVES (CROs).............eeee B-1
+STUDENT PREPARATION REQUIREMENTS ...... eens C-1
+TEXT oo ceecscecceessseeceessseeeeceesssseeceesssaeeecesssaaeeeceesaeeesesessaaeeseeeeaas D-1
+END OF TEXT QUIZ sxe sxes cess sive sues sun ses see ceive sues sun snivs sete ouiie mens sume anivs oles N/A
+GLOSSARY... eeeeceeesceceesneeceseecesaeecesaeecesaeesesaeesesaeesssaeesesaeeeneas F-1
+
+A-1 AGD-2
+
+
+Text from AGD-2_Air-to-Ground_Programmable_Armament_Control_System_page_30.jpeg:
+Once the A/G training load is programmed, exit by pressing the menu
+button, which takes you back to the top level PACS menu. Now go to the
+A/G TRNG display by selecting A/G. There will be a display like Figure
+D-16, which again looks almost exactly like the real A/G display. Set up
+release programs, monitor status, release simulated weapons, and when
+the stations indicate empty, just press the RESET button and the training
+load reinitializes. Notice that A/G TRNG is boxed showing the PACS is in
+the training mode and not dropping actual weapons.
+
+MK84 CBUS8 FUEL [CBU58 MK84
+1 6 1 6 1
+
+AIG TRNG
+20 'ATRNG on
+
+AT 38
+CT R130!
+
+RESET
+
+QTY 12 CBT 1 INTVL 100
+
+CBT 2
+
+PROG 2
+AUTO RP-SGL_ HEIGHT
+
+OPTIONS
+
+AGD-02-16
+
+Figure D - 16. A/G Training Mode.
+
+At any time, it is possible to change to the A/A TRNG display by pressing
+PB #2, or return to the top level PACS menu by pressing PB #11. When
+the PACS is in the training mode, TRNG appears in window 21 of the
+HUD. If you want to transition to the A/G CMBT mode, deselect PB #15
+(A/G TRNG) on the top level PACS menu.
+
+AGD-2 D - 24
+
+
+Text from AGD-2_Air-to-Ground_Programmable_Armament_Control_System_page_31.jpeg:
+QUESTIONS
+
+The stations on the F-15E that can carry and release A/G weapons
+are, __,__,__, and
+
+To go from the menu display on an MPD/MPCD to a PACS display,
+press PB #2, labeled
+
+With electrical power, pushing the emergency jettison button while on
+the ground will/will not jettison stores. (choose one)
+
+The PACS data on which external stores are loaded is used by the
+OWS for
+
+After six release pulses have been sent to a SUU-20N, its quantity
+legend on the A/G display .
+
+You can set up as many as program option(s) for releasing A/G
+weapons.
+
+To enter the A/G training mode press the button next to the
+legend on a PACS display.
+
+D-25 AGD-2
+
+
+Text from AGD-2_Air-to-Ground_Programmable_Armament_Control_System_page_32.jpeg:
+Use Figure D-17 for questions 8-10.
+
+AGD-02-17
+
+Figure D - 17.
+
+8. The first step in loading MK-82SK on stations LC & RC is to
+
+9. The STEP PB, #10, is used to
+
+10. The FUEL legend below PB #18 shows that
+
+AGD-2 D - 26
+
+
+Text from AGD-2_Air-to-Ground_Programmable_Armament_Control_System_page_33.jpeg:
+8.
+
+9.
+
+ANSWERS
+2, LC, 5, RC and 8
+ARMT
+
+will
+
+computing maximum allowable G and over-G warning information
+
+remains “1”
+
+4
+
+A/G TRNG
+
+press the button beside MK-82SE, PB #1
+
+step through the five weapon groups for A/G loading
+
+10. a fuel tank is loaded on the centerline station
+
+AGD-2
+
+
+Text from AGD-2_Air-to-Ground_Programmable_Armament_Control_System_page_34.jpeg:
+JETTISON AND MANUAL RELEASE
+Selective Jettison
+
+The PACS has several ways to jettison A/G stores from the aircraft, which
+in all cases come off unarmed. For the circuitry to work, the pylon, rack or
+CFT Bomb Release Unit (BRU) must have ejector carts installed;
+otherwise, the firing signal is sent, but nothing happens. In addition, the
+landing gear handle must be up or the armament safety switch in
+OVERRIDE for the selective jettison circuits to be energized. Nuclear
+weapons cannot be jettisoned using the combat jettison (CBT JETT)
+options. When presented on an MPCD, the jettison symbology is colored
+blue for discrimination.
+
+NOTE
+
+The combat jettison program is displayed in training and is
+reprogrammable for the training mode display. However, when
+
+CBT JETT is performed, the system exits training mode and
+jettisons actual stores loaded and programmed in the nontraining
+mode.
+
+Combat Jettison
+
+The two combat jettison options give a preprogrammed means to
+selectively jettison a part of the A/G load (including fuel tanks) and retain
+the rest. This could be very handy if you are intercepted en route to the
+target and need to run or fight but want to retain some air-to-ground
+capability.
+
+AGD-2 D - 28
+
+
+Text from AGD-2_Air-to-Ground_Programmable_Armament_Control_System_page_35.jpeg:
+To program the combat jettison options, press PB #4, CBT JETT, on the
+top level PACS menu. This brings up the combat jettison programming
+display (Figure D-18). The display shows the stores loaded and any
+previously programmed options beside CBT 1 and CBT 2. In the example
+below, nothing is programmed.
+
+ae
+
+Va MK84 CBU58 CBUS8 MK84
+1
+
+®
+CT)
+
+Cc
+||
+
+AIG NUC
+LOAD LOAD LOAD
+
+Figure D - 18. CBT JETT Programming Display.
+
+Boxing a station calls up 1 and 2 legends at PB #6 and PB #7,
+respectively. To enter or change a program, press PB #6 or #7, which
+boxes the number above it, showing the selection as in Figure D-19 (1).
+Press the button(s) above the station(s) to be included in the jettison
+program (2). If making a change, also unbox the unwanted station(s).
+Next, choose RACK, STORE, or PYLON (they are mutually exclusive) (8).
+These options and their function are detailed below.
+
+RACK Jettisons whatever is loaded on the pylon, i.e., a single bomb,
+a bomb rack (multiple ejector rack - MER; or triple ejector
+rack - TER).
+
+STORE Jettisons a single store from a pylon or ripple jettisons stores
+
+from a bomb rack at 66 +6 ms intervals (the rack remains) or
+ripple jettisons the stores from a CFT.
+
+PYLON Jettisons the pylon with anything attached to it.
+
+D - 29 AGD-2
+
+
+Text from AGD-2_Air-to-Ground_Programmable_Armament_Control_System_page_36.jpeg:
+The last step is to press the ENTER PB (4) which updates the program
+and displays the choices selected for that program beside the appropriate
+CBT legend (5). To exit the combat jettison programming mode you must
+press PB #11 and return to the top level PACS menu. The combat jettison
+
+program legend is also displayed on the A/G and A/A displays for quick
+reference.
+
+BIT (RET) [MK84_] CBUS8 cpuss [MK84
+
+6 1
+
+fa
+
+CBT 1 LC RC STORE
+CBT2LRPYLON «
+
+(OUCOUOT
+
+OPTIONS ENTER
+
+AGD-02-19
+
+Figure D - 19. CBT JETT Programming.
+
+AGD-2 D - 30
+
+
+Text from AGD-2_Air-to-Ground_Programmable_Armament_Control_System_page_37.jpeg:
+To perform a combat jettison operation (landing gear handle up or
+armament safety switch in OVERRIDE), the pilot places the selective
+jettison knob on the armament control panel to COMBAT. This action
+boxes CBT 1 and CBT 2 on the A/G or A/A display to indicate the selection
+(Figure D-20). Then by pressing the selective jettison button once, the
+stores in the CBT 1 program are jettisoned. The second depression of the
+button jettisons the stores in the CBT 2 program. The station inventory is
+updated after each release. Keep the jettison button depressed until all
+selected stores are jettisoned.
+
+If the jettison knob is rotated back to the off position after the CBT 1
+stores are jettisoned, the program will re-initialize to the CBT 1 program;
+two depressions will then be required to jettison the CBT 2 stores.
+
+@f ARMT
+
+ALTN
+
+Va [Kez] cBus8 cpuss [MK84_]
+6 6 1
+
+7
+
+A/G CMBT_
+LOW 250 250 AIATRNG BOT
+400M CTR
+
+LOFT 0° AT 38°
+TARM 4.0 SEC CT R130'
+
+MAN
+
+REI
+RET ofr = SEL
+JETT
+FF COMBAT
+”
+
+MASTER
+
+ARM
+
+1
+ary08 INTVL 050
+CBT 1]LC RC STORE
+CBT 2|L R PYLON
+
+CDIP RP-MPL TAIL
+
+ARMAMENT CONTROL
+PANEL AGD-02-20
+
+Figure D - 20. Combat SEL JETT.
+
+It is possible to program combat jettison options in the training mode.
+However, do not attempt to exercise the options because selecting a
+jettison option with the jettison knob results in the system exiting the
+training mode making the jettison button HOT for actual stores jettison.
+
+D-31 AGD-2
+
+
+Text from AGD-2_Air-to-Ground_Programmable_Armament_Control_System_page_38.jpeg:
+A/G Selective Jettison
+
+Another way of getting rid of on-board stores is by using the A/G or A/A
+selective jettison options. By placing the selective jettison knob to either
+A/G or A/A, the A/G or A/A selective jettison display is called up on any
+MPD/MPCD that has a PACS format displayed and on the FCP MPCD.
+The A/G format is similar to the combat jettison programming format; the
+“A/G JETTISON” legend verifies which display the pilot has selected
+(Figure D-21).
+
+@f ARMT
+
+ALTN
+
+(7 MK84 CBUS8 CBUS8 MK84 \
+
+1 6 6 1
+
+MAN
+RET
+
+REL
+ofr = SEL
+JETT
+FF COMBAT
+ANA RACK
+ny
+
+AIG JETTISON
+
+STORE
+
+MASTER
+
+ARM
+
+ARMAMENT CONTROL
+PANEL AGD-02-21
+
+Figure D - 21. A/G SEL GETT.
+
+The stores loaded are shown at the top and the appropriate suspension
+option is boxed. If there are single stores or stores on racks on board, it
+initializes to STORE, as indicated by it being boxed. If empty racks
+remain, it initializes to RACK, and if only empty pylons are installed, it
+goes to PYLON. Select the option desired, if different than the one boxed,
+and then select the item(s) you want to jettison by pressing the adjacent
+button. With the landing gear handle up or the armament safety switch
+in OVERRIDE, press the selective jettison button and, after a 65 ms delay
+for safing, all boxed items should depart the aircraft. If a CFT station and
+the wing station next to it are both selected, the CFT stores are jettisoned
+first, followed about 65 ms later by the other station. The store type and
+quantity readouts are also updated. When the jettison operation is
+complete, move the knob back to OFF and displays return to the original
+presentation. CFT stations are jettisoned sequentially. Keep the jettison
+
+AGD-2 D - 32
+
+
+Text from AGD-2_Air-to-Ground_Programmable_Armament_Control_System_page_39.jpeg:
+button depressed until all stores are jettisoned. Selective jettison for A/A
+and nuclear weapons is covered in other lessons.
+
+Emergency Jettison
+
+If the need arises to jettison all carted stores, racks and pylons from the
+aircraft immediately, the emergency jettison circuitry is the way. Keep
+the jettison button depressed until all stores are jettisoned (Figure D-22).
+During emergency jettison, bomb pairs are jettisoned from each CFT (two
+bombs from LC and two from RC) when the CFT releases occur. With the
+
+CFT fully loaded, the bomb pairs are positions 1/4, 3/6, and 2/5. The
+pairing may be affected if the CFT is not fully loaded. The interval
+between releases of bomb pairs from a CFT is 140+20 msec. Emergency
+jettison pulse timing is as follows:
+
+EMERG JETT Button Pressed
+
+35+5 msec (delay)
+35+5 msec Station 5 (pylon eject)
+35+5 msec (delay)
+oA 35+5 msec CFT stations (MRM eject/
+ESU MAU store release)
+y, 35+5 msec (delay)
+35+5 msec Stations 2, 5, 8 (pylon eject)
+35+5 msec (delay)
+35+5 msec CFT stations (MRM eject/
+EMERG JETT ESU MAU store release)
+EMERG JETT BUTTON 3545 msec (delay)
+AGD-02-22 35+5 msec Station 2, 5, 8 pylon eject
+35+5 msec (delay)
+35+5 msec CFT stations (MRM eject/
+
+ESU MAU store release)
+
+Figure D - 22. Emergency Jettison.
+
+The following includes two exceptions that will not be jettisoned:
+
+1. pylons and CFT stations without ejectors carts installed, and
+
+2. nuclear weapons with their BRUs locked.
+
+It is important to remember that any time internal or external power is
+applied to the aircraft, the emergency jettison button is hot.
+
+AGD-2
+
+
+Text from AGD-2_Air-to-Ground_Programmable_Armament_Control_System_page_4.jpeg:
+CRITERION REFERENCED OBJECTIVES (CROs)
+
+1. Select the proper option to load a given weapon and program delivery
+options.
+
+2. Select the proper procedures for A/G selective jettison, combat
+jettison and emergency jettison.
+
+3. Interpret a PACS A/G display.
+
+4. Identify how the PACS is affected by failures in related
+systems/components.
+
+5. Identify the operational characteristics of the following PACS
+functions:
+
+a. Weapons indications
+b. Release programming
+c.  Jettison
+
+REFERENCES
+TO 1F-15E-1 Section I Stores Jettison Systems
+TO 1F-15E-34-1-1 Appropriate A/G PACS
+
+Information
+
+AGD-2 B-1
+
+
+Text from AGD-2_Air-to-Ground_Programmable_Armament_Control_System_page_40.jpeg:
+Manual Release
+
+In case certain malfunctions in the PACS system do not allow normal
+deliveries, there are backup means of releasing A/G weapons armed. Two
+positions on the armament control panel, MAN FF and MAN RET, bypass
+many computer and display circuits giving both a free fall and retarded
+manual delivery capability.
+
+MAN FF - manual freefall position selects a manual store release and
+nose-only fuzing option. While the pickle button is held down, a release
+pulse train of 35 ms on and 35 ms off is generated (one pulse every 70 ms).
+Each pulse releases one weapon from each selected station (Figure D-23).
+
+MAN RET - manual retard position selects a manual store release and tail
+only fuzing. The release pulse train is 115 ms on and 115 ms off (one
+pulse every 230 ms); each pulse releases one weapon from each selected
+station while the pickle button is depressed.
+
+ARMAMENT CONTROL
+PANEL
+
+AGD-02-23
+
+Figure D - 23. Manual Release Option.
+
+Before ordnance can be released, it is necessary to be in the A/G master
+mode. When selecting MAN FF or MAN RET, all PACS displays in both
+
+AGD-2 D - 34
+
+
+Text from AGD-2_Air-to-Ground_Programmable_Armament_Control_System_page_41.jpeg:
+cockpits change to the main menu with ARMT missing at PB #2, except
+for the FCP MPCD which changes to the format in Figure D-24. It is the
+only display on which selections can be made.
+
+MANUAL
+
+AGD-02-24
+
+Figure D - 24. Manual Release Display.
+
+Select the station(s) for release by pressing the appropriate PB (#16-20).
+In the manual mode, the buttons are backlighted so the legends, as in
+Figure D-24, appear at the first depression to show the selection. A
+second depression deselects the station and blanks the button legend. To
+release the store(s), place the master arm switch to ARM and hold down
+the pickle button. When selecting OFF on the selective jettison knob, the
+manual PACS display returns to the original presentation.
+
+D- 35 AGD-2
+
+
+Text from AGD-2_Air-to-Ground_Programmable_Armament_Control_System_page_42.jpeg:
+DEGRADED OPERATION
+
+As described, the PACS has a lot of capability to deliver A/G weapons in
+many combinations and configurations. When certain components of the
+PACS or related systems fail, some capability is lost but, in most cases, a
+backup exists. The following information addresses a complete failure of
+the particular item; partial failures probably will leave some reduced
+capability in the PACS area affected.
+
+Central Computer Failure
+
+If the CC fails, the program functions of the PACS are lost. However, A/G
+weapons can still be released using MAN FF or MAN RET and A/G
+selective jettison and emergency jettison can be performed.
+
+Multipurpose Display Processor
+
+The MPDP processes the display signals. If it fails, all MPD/MPCDs
+appear blank. Manual release modes can be commanded from the FCP
+MPCD and emergency jettison is still available.
+
+MPD/MPCD
+
+If only an individual MPD or MPCD fails, the desired PACS display can be
+called up on another one in either cockpit and all functions are available.
+However, if the FCP MPCD goes completely dead, the manual modes
+cannot be used.
+
+Armament Panel
+
+If the armament panel fails, all normal PACS functions are available
+except combat jettison, providing the master arm switch still works.
+Manual release modes and selective jettison are lost, but emergency
+jettison remains. If just the master arm switch fails, A/G and A/A weapons
+cannot be released armed (but can be jettisoned safe). If both the selective
+jettison knob/button and the master arm switch fail, emergency jettison is
+all that remains.
+
+Weapon Release Button
+
+If one pickle button fails, try the one in the other cockpit. Jettison
+functions are available if both fail.
+
+AGD-2 D - 36
+
+
+Text from AGD-2_Air-to-Ground_Programmable_Armament_Control_System_page_43.jpeg:
+QUESTIONS
+
+List three means of jettisoning A/G stores from the F-15E.
+
+To jettison stores using the combat jettison mode, set up all the
+switches then depress and hold the button.
+
+If you box PYLON on the A/G selective jettison display, when jettison
+is accomplished comes off the aircraft.
+
+a. asingle store from the selected pylon(s)
+b. the stores from a rack loaded on the selected pylon(s)
+c. the selected pylon(s)
+
+The emergency jettison button is hot anytime
+
+If the central computer fails, the A/G weapons employment and
+jettison capabilities still available are
+
+D-37 AGD-2
+
+
+Text from AGD-2_Air-to-Ground_Programmable_Armament_Control_System_page_44.jpeg:
+ANSWERS
+1. a. Combat jettison
+b. A/G selective jettison
+c. Emergency jettison
+2. selective jettison button on the armament control panel.
+3. Cc
+
+4. electrical power is on the aircraft
+
+5. both manual release modes, A/G selective jettison, and emergency
+jettison
+
+AGD-2 D - 38
+
+
+Text from AGD-2_Air-to-Ground_Programmable_Armament_Control_System_page_45.jpeg:
+GLOSSARY
+ACP Armament control panel
+BIT Built-in test
+BRU Bomb release unit
+CFT Conformal fuel tank
+OWS Overload warning system
+
+PACS Programmable armament control system
+
+F-1 AGD-2
+
+
+Text from AGD-2_Air-to-Ground_Programmable_Armament_Control_System_page_5.jpeg:
+STUDENT PREPARATION REQUIREMENTS
+
+BEFORE CLASS
+
+1. Study the information contained in this workbook and complete the
+quiz.
+
+2. Read the Dash 1 and Dash 34 references.
+Proper preparation is essential as the CBT lesson on PACS is oriented
+
+toward practical applications. Satisfactory performance may not be
+possible without this background information.
+
+C-1 AGD-2
+
+
+Text from AGD-2_Air-to-Ground_Programmable_Armament_Control_System_page_6.jpeg:
+(This Page Intentionally Blank)
+
+AGD-2 C-2
+
+
+Text from AGD-2_Air-to-Ground_Programmable_Armament_Control_System_page_7.jpeg:
+TEXT
+INTRODUCTION
+
+The programmable armament control system (PACS) provides the
+capability for load and release programming, arming, monitoring, and
+releasing/firing of air-to-surface and air-to-air munitions. The system is
+made up of computers and processors (CC, MPDP, PACS), wiring,
+displays, controls and carriage stations. It is software programmable,
+which allows for easy updating and has an extensive built-in test (BIT)
+feature that isolates faults down to the specific module for simplified,
+rapid repair. This lesson addresses air-to-ground munitions. Air-to-air
+and nuclear operations are covered in separate lessons.
+
+A/G COMBAT WEAPON LOAD PROGRAMMING
+
+There are a couple of reasons to tell the computers what is actually on
+board. For one thing, the overload warning system (OWS) uses the data
+to compute over-G warning information; if it bases its calculations on
+incorrect data, the pilot could overstress the plane without knowing it.
+Also, the computer uses the ballistics for whatever weapon is entered,
+which could make for some interesting scores if programmed for “high
+drags” when really carrying “slicks.”
+
+The PACS is also smart in that it does not allow programming
+store/station incompatibilities. For example, it knows that GBU-15s
+cannot be carried on CF'Ts, so it does not allow the crew to load them
+there.
+
+D-1 AGD-2
+
+
+Text from AGD-2_Air-to-Ground_Programmable_Armament_Control_System_page_8.jpeg:
+To begin programming, start at the menu on an MPD/MPCD. Pressing
+PB #2 (ARMT) brings up the ARMT (top level PACS) menu (Figure D-1)
+and then use PB #7 (A/G LOAD) to bring up the A/G combat weapon load
+display and the first page of weapons (Figure D-1).
+
+5
+a
+(Ofoh
+
+AIG COMBAT.
+WEAPON LOAD
+
+FS
+ila
+|
+
+ARMAMENT MENU A/G COMBAT WEAPON LOAD - PAGE 1
+
+AGD-02-01
+
+Figure D - 1. A/G Combat Weapon Load Format.
+Stations and Quantities
+
+The five air-to-ground weapons stations correspond to PBs #16-20 at the
+top of the display (Figure D-1). The number of munitions present on a
+station is automatically identified to the PACS. Some stores, like fuel
+tanks, self-identify their type. However, the crew normally has to identify
+
+other stores, either through MC/DTM programming or the PACS A/G
+LOAD format.
+
+AGD-2 D-2
+
+
+Text from AGD-2_Air-to-Ground_Programmable_Armament_Control_System_page_9.jpeg:
+Loading Controls
+
+On the A/G LOAD format, the legends opposite PBs #1-5 and #12-14 are
+the specific A/G munitions that can be loaded. Figure D-1 shows the
+options available in group 1. The load display will initialize to the group
+that was last viewed on for the previous mission. There are six groups
+(pages) containing all the munitions for which the PACS has a program.
+All six groups are listed in TO 1F-15E-34-1-1. Note the “NONE” by PB #1.
+It is used to clear legends under PBs #16-20 in the training mode. There
+are also three “SUU-20” legends; SUU-20M is for MK-106s (high drags),
+SUU-20N is for BDU-338s (low drags), and SUU-20 is programmable for a
+mixed load. SUU-20 dispensers are discussed in detail in AGW-1.
+Alternate depressions of PB #10 (STEP) pages through the six groups.
+From each A/G load display, it is also possible to change to A/A LOAD by
+pressing PB #8, enter the A/G TRNG mode by pressing PB #15, or return
+to the top level PACS menu by pressing PB #11. Entering NUC LOAD at
+PB #9 is possible only on the top level PACS menu.
+
+D-3 AGD-2
+
+

@@ -1,0 +1,2381 @@
+Text from OPS-3_Performance_Data_page_1.jpeg:
+SUPPORTS COURSES
+FIS5EBQ
+
+FISETX
+
+FISESOC
+
+ACADEMIC STUDENT WORKBOOK
+F-15E
+
+OPERATIONS
+OPS-3
+PERFORMANCE DATA
+
+JANUARY 1999
+
+(SUITE 3 OFP)
+
+AIR COMBAT COMMAND
+
+
+Text from OPS-3_Performance_Data_page_10.jpeg:
+SURFACE ATTACK COMBAT
+
+Basic Aircraft 47,730 0
+
+2X -4 CFTs (JP-8) 14,147 20.1
+
+2 X SUU-59C/A Wing Pylons 742 6.6
+
+4 X LAU-128/A Missile Rails with Adapters 424 4.4
+
+2 X AIM-9M 390 4.0
+
+2 X AIM-120 676 4.8
+
+NAV Pod (with CFT A/G stores) 520 7.6
+
+Target Pod (with CFT A/G stores) 621 6.0
+
+2 X 610 Gallon Fuel Tanks (full, loaded on
+
+wings, with stores on outboard CFT pylons) 8,936 16.4
+
+12 X MK-82 LDGP (on CFTs, tanks on wing 6,060 12.0
+
+stations)
+
+TOTAL 80,246 81.9
+
+Note: The maximum gross weight for ground operations is
+81,000 lbs.
+
+PERFORMANCE CHARTS EXAMPLE
+
+In this section, performance data is computed for four specific phases of
+flight—Takeoff and Landing, Climb, Cruise, and Emergency Divert. The
+sample problem presented will use the transition configuration, typical of
+your first few transition sorties.
+
+For this problem the following data applies:
+
+Runway 26
+
+Wind 280/30G40
+Temperature 68° F
+Takeoff Gross Weight 60,000 lbs
+Landing Gross Weight 45,000 lbs
+
+“Rules of Thumb” used in training will be presented where applicable.
+
+OPS-3 D-4
+
+
+Text from OPS-3_Performance_Data_page_11.jpeg:
+Gotchas
+
+There are several places in performance charts where important
+information is often overlooked. Most performance charts have a
+configuration entry. The configuration sometimes states “individual drag
+indexes,” “flaps and gear retracted, all drag indexes,” or “without CFTs.”
+
+There are other items to check also. Look for notes which contain
+definitive information (e.g., preclimb figures for time, distance, and fuel).
+The chart title can also include such things as gear and flap configuration,
+gross weight, power settings, and engine type. Some charts look alike, so
+it is imperative that you read the small print on these charts. If you are
+careless, it is easy to get into the wrong chart and get some very
+misleading data.
+
+Takeoff and Landing Data (TOLD)
+
+Wind Components
+
+Before computing TOLD, the wind components and density ratio must be
+computed. The Wind Components Chart is on the back cover of your
+checklist.
+
+This chart is used to break down the wind into head/tail and crosswind
+components. You must add half of the gust velocity to the steady state
+velocity.
+
+Given:
+Wind 280/30G40
+Runway 26
+
+Find: (Figure D-1)
+Headwind and crosswind components.
+Enter with the relative bearing of the wind and wind speed on the arcs.
+
+For example, 280° wind - 260° runway = 20° off RWY HDG. Given 30G40
+and G = 10, add 5 kts to get 35 kts effective wind speed.
+
+D-5 OPS-3
+
+
+Text from OPS-3_Performance_Data_page_12.jpeg:
+10° 20° 30° 40°
+
+45
+%
+40 Nose f Ss
+it: ‘ 50
+> Scu= 0,
+30 0 I
+0 Q SINKS
+€ 30 Y
+; 5 CANO
+7 a (REE GEPRE 60°
+il 25 St SANS
+6 =i RER 7m
+& gi Nog Ay
+= 20 & 2 4
+0 wWAxA Ste @
+a iS PERSON 70°
+Z 15 ANE Src? s
+AUVols» \
+7619 OPV Ob u s
+10 a abate ths
+- %, A i W 14 0) 80°
+= = =
+SEO 8 SFat6
+WwW Ww Ww
+x cd a
+
+0 5 10 1 20 2 30 3 40 4
+CROSSWIND COMPONENT - KNOTS
+
+OPS-03-01
+
+Figure D - 1.
+
+The headwind component is 33 knots.
+The crosswind component is 12 knots.
+
+Notes:
+
+OPS-3
+
+1.
+
+The F-15E crosswind limits for different RCRs are also
+included on this chart.
+
+The maximum crosswind limit for formation takeoffs is 15
+knots. The limit for formation landings is 10 knots.
+
+The maximum crosswind limit for student solo is the same
+as for mission ready aircrews.
+
+D-6
+
+
+Text from OPS-3_Performance_Data_page_13.jpeg:
+Density Ratio (DR)
+
+Compute the DR from your checklist by comparing pressure altitude and
+temperature.
+
+Given:
+Pressure Altitude Sea Level
+Temperature 68° F
+
+Find: (Figure D-2)
+Density ratio.
+The density ratio is found at the intersection of the columns.
+The density ratio is 0.98.
+
+Note: Standard Day values yield a DR of 1.00.
+
+DENSITY RATIO
+
+PRESSURE ALTITUDE - FEET
+
+2000 |; 3000 | 4000 | 5000 | 6000
+
+0.83 | 0.80 | 0.77 | 0.74
+
+Figure D - 2.
+
+D-7 OPS-3
+
+
+Text from OPS-3_Performance_Data_page_14.jpeg:
+Maximum Abort Speed
+
+The maximum abort charts provide the maximum speed at which an abort
+decision can be made, the abort initiated, and the aircraft stopped within
+the remaining runway length. Time allowances are 3 seconds with both
+engines operating at the initial thrust setting, 2 seconds to apply wheel
+brakes, and 5 seconds to reach idle thrust.
+
+The checklist only has charts for density ratios of 0.8 and 1.0, so use the
+closest one.
+
+Given:
+
+Aircraft with CFTs, maximum thrust takeoff, -220 engines
+
+Gross Weight 60,000 lbs
+Density Ratio 0.98
+Available Runway 11,000 feet (dry)
+
+Find: (Figure D-3)
+
+Maximum abort speed.
+
+OPS-3 D-8
+
+
+Text from OPS-3_Performance_Data_page_15.jpeg:
+AIRPLANE
+
+MAXIMUM ABORT SPEED
+WITH CFT
+
+DENSITY RATIO 1.0 HARD RUNWAY
+MAXIMUM THRUST
+
+CONFIGURATION:
+ALL DRAG INDEXES
+FLAPS DOWN
+
+ENGINES:
+
+(2) F100-PW-220
+
+GROSS
+WEIGHT
+POUNDS
+
+NOTES
+
+© DATA IS FOR A NO-WIND CONDITION.
+ADD HEADWIND OR SUBTRACT
+TAILWIND TO DETERMINE ACTUAL
+MAXIMUM ABORT SPEED.
+HALF AFT STICK APPLIED AT THE
+ROTATION SPEED. 12 DEGREE PITCH
+ATTITUDE IS MAINTAINED AFTER
+ROTATION UNTIL ALTERED BY ABORT
+PROCEDURES.
+
+e IF A 10° PITCH ATTITUDE IS HELD,
+INCREASE GROUND TAKEOFF LENGTH
+BY 10%.
+
+MAXIMUM ABORT SPEED (KCAS)
+
+RUNWAY
+CONDI
+TION
+
+AVAILABLE RUNWAY - 1,000 FEET
+
+50,000
+
+60,000
+
+DRY
+
+WET
+
+ICY
+
+as CE
+
+81,000
+
+OPS-03-03
+
+Figure D - 3.
+
+The maximum abort speed is 146 knots.
+
+D-9 OPS-3
+
+
+Text from OPS-3_Performance_Data_page_16.jpeg:
+Notes:
+
+OPS-3
+
+1:
+
+This speed must be adjusted for headwind/tailwind (33
+knots) so the abort speed in this example is 179 knots.
+
+The maximum abort speed chart does not take into account
+barrier engagement, but only aircraft stopping performance
+for the given field conditions. Any abort above this speed
+must have a successful cable engagement to stop on the
+runway.
+
+Lower weight aircraft are often shown to have lower
+maximum abort speeds than higher weight aircraft. This is
+because they accelerate to a faster speed during the abort
+decision period used in the calculations, thus a lower
+decision speed must be used.
+
+
+Text from OPS-3_Performance_Data_page_17.jpeg:
+Minimum Go Speed
+
+The Minimum Go Speed chart was developed to let the aircrew know
+when it would be possible to continue the takeoff in a heavyweight single
+engine situation. There is no Minimum Go Speed chart in the checklist, so
+you must use TO 1F-15E-1-1. This chart was built such that, at the
+indicated minimum go speed, you can suffer an engine failure, take 3
+seconds to make a decision, and still make it off the ground. In the case of
+a military thrust takeoff, another 3 seconds is allowed to push the good
+throttle to max AB. Use a 10° pitch attitude for all single engine takeoffs.
+
+Given:
+
+Aircraft with CFTs, maximum thrust takeoff, -220 engines
+
+Density Ratio 0.98
+
+Available Runway Length 11,000 feet (dry)
+Takeoff Gross Weight 60,000 lbs
+Takeoff Gross Weight (Combat) 80,000 lbs
+
+Find: (Figure D-4)
+Minimum go speed for both gross weights.
+
+Enter with density ratio on the left side. Project across to the available
+
+runway length. Parallel the nearest guideline to intersect the baseline.
+
+From that intersection, move to intersect the gross weight line and then
+read left to determine minimum go speed. The dotted lines are used for
+air-to-ground weapons or fuel tanks on the wing stations.
+
+D-11 OPS-3
+
+
+Text from OPS-3_Performance_Data_page_18.jpeg:
+MAXIMUM THRUST TAKEOFF
+AVAILABLE RUNWAY LENGTH - 1000 FEET
+0 2 4 6 8
+
+10 12
+1.2
+BASE
+LINE
+1.0
+[e)
+5 0.8
+2 0.6
+O
+Zz
+ti
+fa)
+200
+= oe
+\ & ee
+180 TONT\S
+2\ Ks
+Lo \
+160 ‘ "
+\ \
+® 140 , 7
+g \ ow ;
+1 Vo
+A 120 % 2\aHe
+i (e) AS \e\\\c
+a B a\e \e 7
+o O'\G\n\ |
+o \
+© 100 BHabalelole\24 © 4
+(0) ra) OVO |O1 |O w \
+5 \
+= 80} a o> |m |
+g 3 | 1
+: LAL AL
+T— \
+60 a rf
+OPS-03-04
+Figure D - 4.
+
+The minimum go speed for combat (Figure D-4) is 166 KCAS. For practice
+load gross weights less than 75,000 lbs, the minimum go speed is not
+
+available at standard temperatures and lower altitudes. The high
+
+minimum go speed at heavy weight makes the decision to abort more
+critical.
+
+OPS-3
+
+
+Text from OPS-3_Performance_Data_page_19.jpeg:
+Note: The minimum go speed for a maximum thrust takeoff is less
+than that for a military thrust takeoff due to the greater
+acceleration achieved by being in afterburner from the start of
+takeoff up to and including the 3 second decision time. There is
+more runway still available for acceleration on the one engine.
+
+WARNING
+
+If an engine is lost above the maximum
+abort speed but below the minimum go
+speed, the pilot can neither abort nor take
+off safely on the runway length remaining
+without considering such factors as
+reducing gross weight or engaging the
+arrestment cable.
+
+Referring back to the maximum abort speed chart (Figure D-3) the
+maximum abort speed is about 141 knots for an 80,000 pound aircraft
+which means that between 141 and 166 knots you would need a cable to
+stop.
+
+Rule of Thumb:
+
+At Seymour Johnson, with an available runway length greater than
+11,000 feet, a density ratio above .9, and a gross weight of less than
+65,000 lbs, the minimum go speed will not usually be a factor.
+
+D-13 OPS-3
+
+
+Text from OPS-3_Performance_Data_page_2.jpeg:
+ADMINISTRATIVE INFORMATION
+
+This student workbook is designed to provide information on the F-15E,
+its systems, and capabilities. It is not a sole source document, but is to be
+used in conjunction with other standard Air Force publications and
+technical manuals. If you find any differences between the material
+contained herein and other governing regulations, adhere to the
+regulations and notify the OPDR.
+
+Changes to this workbook are indicated with a heavy black line in the left
+margin.
+
+Forward recommendations for revision or change to 4 TS, SJAFB, NC,
+275381.
+
+Supersedes: OPS-3, August, 1998
+
+OPDR: 4TS
+
+Index of Changes
+
+Effective Date Pages Affected
+
+
+
+Text from OPS-3_Performance_Data_page_20.jpeg:
+Takeoff Distance
+
+The takeoff distance charts are used to determine how much of the
+available runway the aircraft needs to get airborne with a particular gross
+weight, drag index, and thrust setting.
+
+Given:
+
+Aircraft with CFTs, maximum thrust takeoff, -220 engines
+
+Pressure Altitude Sea Level
+Temperature 68° F
+Gross Weight 60,000 lbs
+Wind 280/30G40
+
+Find: (Figure D-5)
+
+Takeoff distance.
+
+OPS-3 D-14
+
+
+Text from OPS-3_Performance_Data_page_21.jpeg:
+TAKEOFF DISTANCE
+WITH CFT
+MAXIMUM THRUST
+HARD DRY RUNWAY
+
+AIRPLANE CONFIGURATION REMARKS
+
+ALL DRAG INDEXES ENGINE(S): (2) F100-PW-220
+GEAR & FLAPS DOWN
+
+GROUND RUN-FEET TEMP
+
+60000
+1600 1850 2200
+
+1800 2100 2500
+3100
+
+2600
+
+2050
+
+2400
+
+NOTES
+1. THIS DATA BASED ON HALF AFT STICK APPLIED AT THE ROTATION
+SPEED AND A 12 DEGREE PITCH ATTITUDE HELD AFTER ROTATION.
+2. GROUND RUN DATA IS BASED ON A NORMAL REPRESENTATIVE CG FOR
+THE VARIOUS TAKEOFF GROSS WEIGHTS.
+3. IF A 10° PITCH ATTITUDE IS HELD, INCREASE GROUND TAKEOFF LENGTH
+BY 10%.
+
+OPS-03-05
+
+Figure D - 5.
+
+The takeoff distance on the chart is 2100 feet. However, the chart is
+based on a maximum performance takeoff using 12° of pitch and no wind
+(Figure D-5, Note 3). For our normal 10° takeoff, you must add 10% to the
+takeoff distance.
+
+The maximum takeoff distance would then be 2310 feet (2100 x 110%).
+With a headwind component of 33 knots the takeoff roll will obviously be
+
+less.
+
+D-15 OPS-3
+
+
+Text from OPS-3_Performance_Data_page_22.jpeg:
+Notes: 1. Since the charts offer limited choices, you must interpolate
+for varying temperatures, altitudes, and gross weights.
+
+2. Ifa significant tail wind exits (more than 10 knots), you
+must use the charts in TO 1F-15E-1-1.
+
+Rotation Speed/Nosewheel Liftoff Speed/Takeoff Speed
+The point at which the nose comes off the ground, and when the aircraft
+starts flying, depends on gross weight, position of the center of gravity
+(CG), and the amount of thrust. Thrust affects both the pitching moment
+and the ability to hold the nose up. This is a relatively simple chart in the
+checklist and it also gives a brief description of normal takeoff procedures.
+Given:
+Aircraft with CFTs, maximum thrust takeoff, -220 engines
+Gross Weight 60,000 lbs
+CG 25%
+Find: (Figure D-6)
+
+Rotation speed/nosewheel liftoff speed/takeoff speed.
+
+OPS-3 D-16
+
+
+Text from OPS-3_Performance_Data_page_23.jpeg:
+ROTATION SPEED/NOSEWHEEL LIFT-OFF
+SPEED/TAKEOFF SPEED (KCAS)
+WITH CFT
+
+AIRPLANE CONFIGURATION REMARKS C)
+
+FULL FLAPS, GEAR DOWN ENGINE(S): (2) F100-PW-220,
+ALL DRAG INDEXES U.S. STANDARD DAY, 1966
+
+NORMAL TAKEOFF
+e ONE-HALF AFT STICK APPLIED OVER A PERIOD OF 1 SECOND STARTING
+AT THE ROTATION SPEED LISTED BELOW AND 12° PITCH ATTITUDE
+HELD AFTER ROTATION
+e IFA 10° PITCH ATTITUDE IS HELD, INCREASE GROUND TAKEOFF LENGTH BY
+10% FOR MAX TAKEOFF OR 15% FOR MIL TAKEOFF.
+
+MAXIMUM THRUST MILITARY THRUST
+
+GROSS
+WEIGHT - LB
+
+45,000 115/130/154 120/127/144
+115/132/156 120/129/146
+115/133/156 120/129/146
+118/137/159 125/134/150
+
+120/134/158 125/132/148
+120/136/159 125/134/150
+120/137/160 125/134/150
+125/142/163 130/139/154
+
+125/138/161 130/137/155
+125/139/162 130/138/155
+125/141/163 135/142/156
+
+60,000 6 0/143/16 414/16
+130/144/166 135/142/163
+4 46/109 4U/14 @)
+
+Figure D - 6.
+
+OPS-03-06
+
+The rotation speed is 180 KCAS.
+The nosewheel liftoff speed is 144 KCAS.
+The takeoff speed is 166 KCAS.
+
+Note: The CG can be obtained by referring to the Form 365-4
+
+(FORM F) located in the flying squadron. The differences are of
+little significance and you can just use the 25% value.
+
+D-17 OPS-3
+
+
+Text from OPS-3_Performance_Data_page_24.jpeg:
+Single Engine Takeoff
+In the event of an engine loss during takeoff, you must accelerate above
+normal takeoff speed before rotating to ensure adequate flying speed with
+
+the reduced thrust at liftoff. This may require lowering the nose back to
+the runway if an engine fails after normal rotation.
+
+Given:
+Aircraft with CFTs, maximum thrust takeoff, -220 Engines
+Gross Weight 60,000 lbs
+CG 25%
+
+Find: (Figure D-7)
+
+Single engine rotation speed/nosewheel liftoff speed/takeoff
+speed.
+
+OPS-3 D-18
+
+
+Text from OPS-3_Performance_Data_page_25.jpeg:
+SINGLE ENGINE ROTATION
+SPEED/NOSEWHEEL LIF T-OFF
+SPEED/TAKEOFF SPEED
+WITH CFT
+AIRPLANE CONFIGURATION: REMARKS
+FULL FLAPS, GEAR DOWN ENGINES:
+
+ALL DRAG INDEXES, ALL CG (2) F100-PW-220,
+LOCATIONS U.S. STANDARD DAY, 1966
+
+CONTINUED (SINGLE ENGINE) TAKEOFF
+
+@ ONE-HALF AFT STICK APPLIED OVER A PERIOD OF 1 SECOND, STARTING
+AT THE ROTATION SPEED LISTED BELOW AND 10° PITCH ATTITUDE
+HELD AFTER ROTATION
+
+¢ IF A 10° PITCH ATTITUDE IS HELD, INCREASE GROUND TAKEOFF
+LENGTH BY 10% FOR MAX TAKEOFF.
+
+NOTE :NOSEWHEEL BOUNCING MAY OCCUR DURING
+ONE-ENGINE-OUT TAKEOFF AT GROSS WEIGHTS
+OF 65000 LBS AND LESS
+
+GROSS ROTATION/NOSEWHEEL LIFT-OFF/TAKEOFF
+WEIGHT-LB SPEEDS (KCAS)(MAXIMUM THRUST)
+
+170/171/177 TO BE USED WHEN NO
+STORES OTHER THAN
+180/181/187 AIR-TO-AIR WEAPONS
+ARE INSTALLED ON THE
+185/186/192 WING STATIONS
+190/191/196
+
+60,000 190/191/196
+190/192/197
+190/192/197
+190/192/199
+
+190/192/207
+
+190/192/198 TO BE USED WHEN CAR-
+RYING AIR-TO-GROUND
+190/193/204 WEAPONS OR FUEL
+TANKS ON THE WING
+190/193/213 STATIONS
+
+OPS-03-07
+
+Figure D - 7.
+
+The single engine speeds are 190/191/196 KCAS respectively.
+
+D-19 OPS-3
+
+
+Text from OPS-3_Performance_Data_page_26.jpeg:
+Landing Speed and Distance
+
+During planning, you should compute landing data for an emergency
+heavyweight landing as well as a normal end of mission landing.
+
+The charts offer two landing roll-out techniques:
+
+1. Aerodynamic Braking
+
+2. Maximum Antiskid Braking
+As you will see in the following examples and due to the minimal
+deceleration above 100 knots with antiskid, aerodynamic braking is the
+recommended technique, especially when heavyweight or landing on a wet
+
+runway.
+
+Notes: 1. All landing distances are based on speed brake extension at
+touchdown.
+
+2. Ifa significant tailwind exists (more than 10 knots), you
+must use the charts in TO 1F-15E-1-1.
+
+The following four landing distance charts compute landing distance
+under the given conditions.
+
+Given: (End of Mission Data)
+
+Gross Weight 45,000 lbs (5000 Ibs fuel)
+Pressure Altitude Sea Level
+Temperature 68° F
+Aerodynamic Braking
+
+Find: (Figure D-8)
+
+The landing distance and approach speed for a dry and wet
+runway.
+
+OPS-3 D - 20
+
+
+Text from OPS-3_Performance_Data_page_27.jpeg:
+LANDING DISTANCE
+
+GROSS WEIGHT - 35,000 TO 45,000 POUNDS
+AERODYNAMIC BRAKING
+IDLE THRUST
+
+AIRPLANE CONFIGURATION:
+
+ALL DRAG INDEXES
+FLAPS AND GEAR DOWN
+SPEEDBRAKE EXTENDED
+WITH OR WITHOUT
+
+CFT INSTALLED
+
+GROSS
+
+(KIAS)
+
+LANDING ROLL - FEET
+
+REMARKS
+
+ENGINES:
+(2) F100-PW-220 or
+(2) F100-PW-229
+
+DRY RUNWAY/WET RUNWAY
+
+35,000
+
+4120/5000
+4400/5250
+
+4700/5700 5200/6400 5750/7000
+
+4440/5300
+4700/5700
+
+40,000
+
+154
+
+4600/5500
+4900/5900
+
+4920/6000
+5250/6400
+
+45,000 TEMP
+Le
+
+5050/6200
+
+5400/6600
+
+5420/6600
+
+5000/6000
+
+6050/7500
+6500/8100
+
+5600/6850
+
+6700/8400
+7250/9150
+
+7450/9400 mo] a2 |
+
+6900/8650
+
+7750/9900
+
+8600/11000 4 1
+
+6550/8200
+7000/8800
+7500/9500
+
+7300/9200
+7850/10000
+8400/10750
+
+DATA IS BASED ON A NO WIND CONDITION AND THE USE OF
+AERODYNAMIC BRAKING BY RAISING THE NOSE TO A 12°
+PITCH ATTITUDE AFTER TOUCHDOWN AND MAINTAINING AS
+
+LONG AS POSSIBLE.
+
+NOTES
+
+8100/10300
+
+8700/11200 ff 20| 68 |
+9400/12200 40
+
+20
+0
+0
+8000/10200 20
+0
+0
+20
+
+32
+68
+104
+32
+5780/7100 68
+
+32
+68
+04
+32
+68
+04
+
+1
+
+Figure D - 8.
+
+The approach speed is 164 knots.
+The landing distance is 5400 feet dry/6600 feet wet.
+
+OPS-03-08
+
+OPS-3
+
+
+Text from OPS-3_Performance_Data_page_28.jpeg:
+Given: (End of Mission Data)
+
+Gross Weight 45,000 lbs (5000 lbs fuel)
+Pressure Altitude Sea Level
+
+Temperature 68° F
+
+Maximum Antiskid Braking
+
+Find: (Figure D-9)
+
+The landing distance and approach speed for a dry and wet
+runway.
+
+OPS-3 D - 22
+
+
+Text from OPS-3_Performance_Data_page_29.jpeg:
+LANDING DISTANCE
+
+GROSS WEIGHT - 35,000 TO 45,000 POUNDS
+MAXIMUM ANTI-SKID BRAKING
+IDLE THRUST
+
+AIRPLANE CONFIGURATION: REMARKS
+ALL DRAG INDEXES
+FLAPS AND GEAR DOWN
+SPEEDBRAKE EXTENDED
+WITH OR WITHOUT
+
+CFT INSTALLED
+
+ENGINES:
+(2) F100-PW-220 or
+(2) F100-PW-229
+
+LANDING ROLL - FEET
+DRY RUNWAY/WET RUNWAY
+
+-_
+LL
+fo)
+Oo
+o
+=
+'
+Ww
+Qa
+=)
+=
+k-
+a
+<x
+
+3650/6600
+
+4500/8000
+
+5100/9000
+
+TEMP
+c°
+0
+
+3950/7000 4850/8600 5500/9700
+
+4250/7700
+
+5250/9250
+
+6000/10500
+
+3950/7000
+
+4250/7700 5250/9250 6000/10500
+
+4650/8250
+
+4900/8700
+
+5700/10000
+
+5700/10000
+
+7200/12500
+
+5500/9700
+
+6550/11400
+
+8300/14250
+
+:
+32
+68
+40 | 104
+
+6200/10800
+
+7850/13600
+
+9050/ -
+
+6800/11800
+
+8600/14800
+
+9950/ -
+
+6300/11000
+6950/12000
+
+8000/13750
+8750/15000
+
+9200/ -
+
+7700/13250 9600/ -
+
+10000/ - 20
+10900/ - 40
+NOTES
+DATA IS BASED ON A NO WIND CONDITION AND LOWERING
+
+THE NOSE IMMEDIATELY AFTER TOUCHDOWN AND APPLY-
+ING MAXIMUM ANTI-SKID BRAKING.
+
+OPS-03-09
+Figure D - 9.
+The approach speed is still 164 knots.
+The landing distance is 5500 feet dry/9700 feet wet.
+
+Note: There is only a 100 foot difference dry but a 3100 foot difference
+
+on a wet runway.
+
+OPS-3
+
+
+Text from OPS-3_Performance_Data_page_3.jpeg:
+OPERATIONS
+
+COVER
+
+PERFORMANCE DATA
+
+INTRODUCTION
+
+This workbook is your guide in studying the F-15E performance data. It
+familiarizes you with the performance charts and provides you with the
+knowledge needed to accurately determine the performance envelope for
+the aircraft in a training configuration.
+
+CONTENTS:
+
+INTRODDUGCTION 6 ces cuss sss sess sen sens sews suns sues sure sens set sews sues sur seins sen seis sess sumn axes « A-1
+CRITERION REFERENCED OBJECTIVE (CRO)... eeeeeeeeeeeeeeee B-1
+STUDENT PREPARATION REQUIREMENTS . 0.00... eeeeeeeeeeee C-1
+TEXT oc eecccccceessseecceesseeeecessseeeceessseeeecesssseeeseeessaeeeseessaeeeseeeeaaeeseeea D-1
+SPONGY RC esate Ae Wad see ces ane es toe see ce ape ses tas cee se aes: ees arse seas ses ese ee ase: E-1
+GLOSSARY. ieee eeccceeseeesscecssneeecesaeeceseecessaeeceseecessaeesesaaeeeesaeeeesnaeeeseas F-1
+
+A-1 OPS-3
+
+
+Text from OPS-3_Performance_Data_page_30.jpeg:
+Given: (Emergency Heavyweight)
+
+Gross Weight 55,000 lbs (15,000 lbs fuel)
+Pressure Altitude Sea Level
+Temperature 68° F
+Aerodynamic Braking
+Note: This situation might be an emergency after takeoff and
+assumes 7000 lbs of fuel was consumed or dumped prior to
+landing.
+
+Find: (Figure D-10)
+
+The landing distance and approach speed for a dry and wet
+runway.
+
+OPS-3 D - 24
+
+
+Text from OPS-3_Performance_Data_page_31.jpeg:
+LANDING DISTANCE
+GROSS WEIGHT - 50,000 TO 60,000 POUNDS
+AERODYNAMIC BRAKING
+IDLE THRUST
+
+AIRPLANE CONFIGURATION REMARKS
+
+ALLDRAG INDEXES ENGINES:
+
+FLAPS AND GEAR DOWN (2) F100-PW-220 or
+SPEEDBRAKE EXTENDED (2) F100-PW-229
+WITH OR WITHOUT
+
+CFT INSTALLED
+
+LANDING ROLL - FEET
+DRY RUNWAY/WET RUNWAY
+
+GROSS 55,000 60,000
+WEIGHT
+(LB)
+AP- 184 192
+PROACH
+SPEED
+(KIAS)
+
+fo 5700/7000 6500/8100 7100/8800
+| __-6950/8700 _|
+
+0 | 32
+6950/8700
+6500/8100 7400/9400 8000/10200 40 | 104
+6550/8200 7450/9400 8100/10300 20 | 68
+7000/8800 7900/10000
+
+a
+8400/10750 9550/12400 10400/13700
+
+0} 32
+9100/11750 10250/13500 11150/15000 20| 68
+9700/12600 11000/14700 11950/- 40 | 104
+9150/11800 10400/13700 11300/- 0} 32
+9850/12800 11200/- 12100/- 20| 68
+10500/13800 11950/- 12800/- 40
+NOTES
+DATA IS BASED ON A NO WIND CONDITION AND THE USE OF
+AERODYNAMIC BRAKING BY RAISING THE NOSE TO A 12°
+
+PITCH ATTITUDE AFTER TOUCHDOWN AND MAINTAINING AS
+LONG AS POSSIBLE.
+
+OPS-03-10
+
+Figure D - 10.
+
+The approach speed has now increased to 184 knots.
+The landing distance is 6950 feet dry/8700 feet wet.
+
+D - 25 OPS-3
+
+
+Text from OPS-3_Performance_Data_page_32.jpeg:
+Given: (Emergency Heavyweight)
+
+Gross Weight 55,000 lbs (15,000 lbs fuel)
+Pressure Altitude Sea Level
+
+Temperature 68° F
+
+Maximum Antiskid Braking
+
+Find: (Figure D-11)
+
+The landing distance and approach speed for a dry and wet
+runway.
+
+OPS-3 D - 26
+
+
+Text from OPS-3_Performance_Data_page_33.jpeg:
+LANDING DISTANCE
+
+GROSS WEIGHT - 50,000 TO 60,000 POUNDS
+MAXIMUM ANTI-SKID BRAKING
+IDLE THRUST
+
+AIRPLANE CONFIGURATION REMARKS
+
+ALL DRAG INDEXES ENGINES:
+
+FLAPS AND GEAR DOWN (2) F100-PW-220 or
+SPEEDBRAKE EXTENDED (2) F100-PW-229
+WITH OR WITHOUT
+
+CFT INSTALLED
+
+LANDING ROLL - FEET
+DRY RUNWAY/WET RUNWAY
+
+GROSS : 60,000
+
+WEIGHT
+
+(LB)
+
+AP- 192
+
+PROACH
+SPEED
+(KIAS
+
+5800/10200 6650/11500 7400/12800
+
+6900/12000 7900/13700 8850/-
+6400/11200 7300/12600 8100/14000
+6900/12000 7900/13700 8850/-
+7600/13100 8700/14950 9800/-
+
+9700/- 11100/- 12650/-
+10600/- 12300/- 14000/-
+11700/- 13600/- -/-
+10750/- 12500/- 14200/-
+11850/- 13800/- -/-
+13000/- 15000/- -/-
+
+NOTES
+DATA IS BASED ON A NO WIND CONDITION AND LOWERING
+
+THE NOSE IMMEDIATELY AFTER TOUCHDOWN AND APPLY-
+ING MAXIMUM ANTI-SKID BRAKING
+
+OPS-03-11
+
+Figure D - 11.
+
+The approach speed is still 184 knots.
+The landing distance is 7250 feet dry/12,550 feet wet.
+
+Note: There is a 300 foot difference dry and a 3850 foot difference wet
+
+which exceeds the available runway. For a wet runway, you must plan for
+a departure-end cable, reduce weight, or use aerobraking.
+
+D-27 OPS-3
+
+
+Text from OPS-3_Performance_Data_page_34.jpeg:
+Rule of Thumb:
+
+To compute a backup approach speed for 21 units AOA, use 155 Knots
++ (2 X fuel remaining in thousands of pounds)
+
+Example: 10,000 lbs of fuel remaining
+155 + 20 = 175 knot approach speed
+If making a no flap approach add 15 knots
+155 + 15 + 20 = 190 knot approach speed
+Remember to add the extra weight of unexpected stores to fuel weight if
+
+applicable. CFTs, Pylons/Pods and SUUs are included in the 155 knot
+baseline.
+
+Landing Distance Rules of Thumb:
+
+Lower nose by 100 knots to keep control of nose drop. Do not raise flaps in
+aerobrake unless runway is icy. Lower nose NLT 2 runway remaining.
+
+Keep CAS < 2 X runway remaining marker X 10.
+
+If runway length is greater than fuel remaining, landing distance on a dry
+runway is within limits.
+
+Maximum Cable Engagement Speeds
+
+Due to the light structure of the F-15E hook system, there are limits on
+cable engagement ground speeds. When planning an approach-end cable
+engagement or the possibility of a departure-end cable engagement exists
+(wet runway), compute the maximum cable engagement ground speed
+from the chart in the emergency section of the checklist (Figure D-12).
+When flying an approach for an approach-end cable engagement, it is good
+technique to have ground speed displayed on the HUD and to consider the
+effect of surface winds on calibrated airspeed in anticipation of cable
+engagement ground speed.
+
+OPS-3 D - 28
+
+
+Text from OPS-3_Performance_Data_page_35.jpeg:
+TO 1F-15E-1CL-1
+
+ARRESTMENT GEAR DATA
+MAXIMUM ENGAGEMENT
+GROUNDSPEEDS
+
+AIRCRAFT GROSS WEIGHT - POUNDS
+
+SYSTEM BELOW
+50,000
+
+BAK-9
+
+BAK-12/
+BAK-14
+
+BAK-12/
+BAK-14
+Dual or
+extended
+runout
+
+BAK-13
+
+@Use standard BAK-12 limitations unless you positively
+determine that BAK-12 dual or extended runout is
+installed.
+
+@Avoid hard braking and/or abrupt steering inputs
+during arrestment.
+
+@ Maximum engagement speeds are valid only with idle
+thrust, aircraft in 3-point attitude and engage on
+center.
+
+@For arrestment in gear other than those listed, engage
+at the lowest possible weight and speed.
+
+@Engagements may be made at speeds slightly higher
+than those shown but there is a possibility of hook
+failure or structural damage.
+
+-14 system can require up to seconds
+from activation to fully up and locked. Controller
+reaction time will increase this time.
+
+Figure D - 12.
+
+O
+
+O
+
+OPS-03-12
+
+OPS-3
+
+
+Text from OPS-3_Performance_Data_page_36.jpeg:
+Rule of Thumb:
+
+Heavy weight landings begin with full weights in excess of 10,000 lbs. For
+a transition configured aircraft, plan to dump fuel to 7000 lbs or less for
+an approach-end cable engagement. This will allow an engagement below
+160 knots ground speed.
+
+Climb/Cruise Charts
+
+These checklist charts are dual-purpose, with a climb section at the top,
+and four different optimum cruise sections below based on the fuel
+remaining. Each chart is based on a specific drag index and engine type.
+Recommended climb schedules are also included on the charts.
+
+For training, use the DI = 40 chart for transition and air-to-air missions,
+and the DI = 60 chart for surface attack missions. For combat
+heavyweight loads, compute the DI and use the chart with a DI equal or
+higher, if available, or you must use the charts in
+
+TO 1F-15E-1-1.
+
+Climb Section
+
+This section of the chart is used to determine time, distance, and fuel
+remaining to reach the desired altitude. Preclimb data and assumptions
+are included at the bottom of the chart.
+
+Notes: 1. Climb charts are based on a sea level takeoff. Takeoffs
+from a higher altitude will result in actual time/
+distance/fuel numbers slightly lower than those computed.
+
+2. The checklist charts all assume military power climbs. For
+maximum power climbs use the climb charts in
+TO 1F-15E-1-1.
+
+3. Fuel for start, taxi, run-up and takeoff to the start climb
+point are included in the checklist charts. However, the
+assumptions made may be unrealistic. For precise data,
+refer to the climb charts in TO 1F-15E-1-1.
+
+OPS-3 D - 30
+
+
+Text from OPS-3_Performance_Data_page_37.jpeg:
+4. These charts are still based on JP-4 fuel. The starting fuel
+will be about 1000 lbs greater with JP-8. Using the chart
+numbers will be conservative.
+
+5. Time to climb is in decimal format; 1.45 minutes is 1
+minute and 27 seconds.
+
+Given:
+Aircraft with CFTs, maximum thrust takeoff, -220 engines
+DI = 40
+Level-off at 25,000 feet
+
+Find: (Figure D-13)
+
+Climb data.
+
+D-31 OPS-3
+
+
+Text from OPS-3_Performance_Data_page_38.jpeg:
+F-15E CLIMB/CRUISE DATA
+WITH CFT
+REMARKS
+
+AIRPLANE ENGINE(S): (2) F100-PW-220
+CONFIGURATION U.S. STANDARD DAY, 1966
+DI = 40 OPTIMUM
+
+ALTITUDE
+CRUISE
+
+ALT. 1000 FEET L 25
+
+MACH ! ; . 83
+
+TIME (MIN)
+
+UEL REMAINING AT | 20809 19793 J 19481 ff 19119
+
+LEVEL-OFF (2)
+ALTITUDE
+
+MIL THRUST CLIMB
+
+350 KCAS
+
+TOTAL FUEL
+FLOW (LB/HR)
+
+AT LEVEL-OFF POUNDS
+
+g
+2
+$
+ra
+
+ALTITUDE .L. 10 20
+MACH J 54 63
+KCAS 299 290
+
+KTAS 345 388
+
+TOTAL FUEL 6404 5758
+FLOW (LB/HR)
+
+2,000 POUNDS
+REMAINING
+
+NOTES
+1. FULLY SERVICED FUEL = 22,473 POUNDS.
+2. 1,664 POUNDS FUEL ALLOWANCE FOR 6 MINUTES GROUND OP-
+ERATION AT T/W = 0.2, AND MAX THRUST
+TAKEOFF ACCELERATION TO MIL CLIMB SPEED.
+3. CLIMB FROM SEA LEVEL AT 350 KCAS UNTIL INTERCEPTION OF
+.88 MACH, THEN MAINTAINING MACH TO CRUISE ALTITUDE
+
+OPS-03-13
+
+Figure D - 13.
+CAS Climb 350 knots
+Time to Climb: 4.77 minutes
+Distance from Takeoff 34 nm
+Fuel Used: 2992 (22,473 - 19,481)
+
+Fuel Remaining at Level-off 19,481
+
+OPS-3 D - 32
+
+
+Text from OPS-3_Performance_Data_page_39.jpeg:
+Cruise Section
+
+For optimum cruise data, select the section which corresponds to your fuel
+situation. Normally, use the “at level-off pounds remaining” for the
+majority of the mission; use the appropriate 2000/5000/10,000 pounds
+remaining section for RTB or divert planning. If you select an altitude
+below optimum cruise, data is provided for optimum airspeed conditions at
+the given altitude.
+
+Given:
+Aircraft with CFTs, maximum thrust takeoff, -220 engines
+DI = 40
+Cruise Alt = 25,000 ft
+Immediately after Level-off
+Cruise Time at 25,000 feet - 45 minutes
+Find: (Figure D-14)
+
+Cruise data.
+
+D - 33 OPS-3
+
+
+Text from OPS-3_Performance_Data_page_4.jpeg:
+CRITERION REFERENCED OBJECTIVE (CRO)
+
+From an F-15E performance chart, extract the specified data for given
+ground or flight conditions.
+
+REFERENCES
+
+TO 1F-15E-1-1 Appendix A Performance Data With
+F100-PW-220 Engines
+
+TO 1F-15E-1CL-1 Reference Data
+
+OPS-3 B-1
+
+
+Text from OPS-3_Performance_Data_page_40.jpeg:
+F-15E CLIMB/CRUISE DATA
+WITH CFT
+REMARKS
+
+AIRPLANE ENGINE(S): (2) F100-PW-220
+CONFIGURATION U.S. STANDARD DAY, 1966
+
+DI = 40 OPTIMUM
+ALTITUDE
+CRUISE
+
+ALT. 1000 FEET
+
+MACH
+
+TIME (MIN)
+DIST (NM)
+
+FUEL REMAINING AT
+LEVEL-OFF (2)
+
+a
+=
+a
+)
+=
+D
+=)
+x
+xr
+=
+=
+=
+
+Q
+<<
+1S)
+x
+2
+Q
+oo)
+
+AT LEVEL-OFF POUNDS
+
+OPS-03-14
+
+Figure D - 14.
+Cruise Mach 81
+CAS 341 knots
+TAS 486 knots
+Fuel Flow 7699 lbs/hr
+Fuel used 5774 lbs (7699 x .75)
+Note: Checklist cruise charts are limited by airspeed choices. Only
+
+optimum cruise conditions are available. For high speed flight
+at low or high altitude, use the cruise charts in TO 1F-15E-1-1.
+
+OPS-3 D - 34
+
+
+Text from OPS-3_Performance_Data_page_41.jpeg:
+Rule of Thumb:
+
+With a drag index below 40, 100 pounds/minute is a conservative fuel
+consumption at optimum altitude and airspeed.
+
+Emergency Divert
+
+To plan a maximum range divert in a fuel critical situation, refer to the
+“Fuel Used to Divert, PW-220 Engine” chart in the emergency section of
+the checklist. This chart provides fuel data for two “no-wind” divert
+options:
+
+1. Climb from sea level to optimum divert altitude, cruise and
+descent back to sea level.
+
+2. Cruise at sea level throughout the divert.
+
+In all cases, the climb/cruise/descent profile uses less total fuel but over
+diverts of less than 50 nm, the difference is negligible.
+
+Note 6 at the bottom of the chart is critical. You must add landing fuel to
+determine if you should attempt the divert. The minimum planned fuel at
+the divert field is 2000 pounds for Seymour Johnson aircraft.
+
+Note: For a given amount of fuel (1000 lbs) in JP-8, there will be a
+smaller volume than if JP-4. However, thrust is based partly on
+mass of fuel. Therefore if 1000 lbs is required by the chart and
+you have 1000 lbs of JP-8 you will be able to go about the same
+distance.
+
+Given:
+Aircraft with CFTs, -220 engines
+Divert Rng = 100 nm
+DI = 40
+Sea Level
+
+Find: (Figure D-15)
+
+Divert data.
+
+D-35 OPS-3
+
+
+Text from OPS-3_Performance_Data_page_42.jpeg:
+O O
+
+FUEL USED TO DIVERT, PW-220 ENGINE
+STANDARD DAY, NORMAL NO WIND
+
+FUEL USED ALTITUDE (FEET) CRUISE DESCEND SL FUEL USED
+(POUNDS) MACH TO SL (NM) (POUNDS)
+
+0/20 800/900 18,000/18,000 1,000/1,100
+40/60 1,000/1,100 18,000/18,000 1,200/1,300
+80/100 1,200/1,200 15,000/15,000 1,400/1,500
+120/140 1,300/1,400 18,000/18,000 1,500/1,600
+
+40/60 1,700/1,900 33,000/33,000 2,400/2,600
+
+120/140 2,300/2,400 30,000/28,000 3,100/3,200
+0/20 1,700/2,000 40,000/40,000 3,000/3,300
+40/60 2,300/2,600 40,000/38,000 3,600/3,900
+80/100 2,900/3,100 35,000/33,000 4,200/4,400
+120/140 3,200/3,400 34,000/33,000 4,600/4,800
+
+1. FOR 0 DRAG INDEX, ASSUME CFTs ARE NOT PRESENT. ALL OTHER Dis, ASSUME CFTs ARE PRESENT.
+
+2. CHART ASSUMES THAT AIRCRAFT IS INITIALLY AT SEA LEVEL.
+
+3. SEA LEVEL CRUISE AT 310 KCAS.
+
+4, MIL THRUST CLIMB AT 350 KCAS TO .88 MACH (DI < 40), 330 KCAS TO .83 MACH (DI>40 =< 100),
+310 KCAS TO .74 MACH (DI > 100), UNTIL CRUISING ALTITUDE.
+
+5. DESCENTS AT IDLE THRUST, 220 KCAS, AND SPEEDBRAKE RETRACTED.
+
+6. AIRCREW MUST ADD LANDING FUEL.
+
+OPS-03-15
+
+Figure D - 15.
+
+The total fuel used to divert at 33,000 feet is 1700 pounds. The climb
+speed (note 4) would be 350 KCAS/.88 M. Cruise at .80 Mach and descend
+at 220 KCAS (note 5) when 57 nm from destination.
+
+Notes: 1. 57% of your 100 nm divert is in a descent. It also took
+about 25 nm to climb. Therefore, short diverts will include
+very little cruise at optimum altitude.
+
+2. Diversion at sea level will use about 700 lbs more. For a
+diversion of 50 nm, you only save 200 lbs by climbing to
+18,000 feet.
+
+3. Do not forget to add landing fuel.
+
+4. The divert chart is located in the last few pages of the EP
+portion of the checklist.
+
+OPS-3 D - 36
+
+
+Text from OPS-3_Performance_Data_page_43.jpeg:
+Cruise Data Display
+
+Cruise data is on the engine monitor display (EMD) (Figure D-16) to
+provide the aircrew a recommended flight profile based on optimizing for
+max range and comparing this range to the straightline ground range to
+his base or other specified navigation point. These calculations are
+computed using data for the P229 engines rather than P220 engines. This
+will give you a slightly pessimistic fuel figure.
+
+OIL PSI
+
+CRUISE DATA
+
+RANGE NM 900
+TIME HRS:MIN 2:14
+COMMAND ALT KFT 30
+
+COMMAND MACH 0.75
+
+OPS-03-18
+
+Figure D - 16. Engine/Cruise Data.
+
+The aircrew enters the sequence point desired as the terminus by
+scratchpad transfer from the UFC to PB #10. The system defaults to
+BASE at power-up as the return point at power-up with weight on wheels.
+The current straightline range to the selected point appears above the
+entry.
+
+D - 37 OPS-3
+
+
+Text from OPS-3_Performance_Data_page_44.jpeg:
+The aircrew enters the desired ending (reserve) fuel by scratchpad
+transfer to PB #8. The system defaults to 1200 pounds at power-up with
+weight on wheels, and this is also the minimum allowable value. Values
+less than 1200 pounds or more than the current fuel quantity will not be
+accepted. At Seymour Johnson minimum fuel is 1900 pounds.
+
+The max cruise profile is based on the aircraft performing a standard,
+constant airspeed climb to the recommended altitude, cruising at that
+altitude at the recommended airspeed, and making a standard descent to
+the destination. Drag indices are implied from aircraft weight.
+
+For weights under 55,000 pounds, the climb is a constant airspeed climb
+at 350 KCAS to 0.90 M to the recommended altitude.
+
+For weights over 55,000 pounds it is a 300 KCAS to 0.75 M climb.
+The descent is based on idle power, 220 KCAS, speed brake retracted.
+
+Optimum cruise altitude and airspeed are presented on the cruise data
+display on the MPD engine display as “Command Altitude” and
+“Command Mach.”
+
+The system then subtracts the fuel used to ascend from the current
+altitude to the cruise altitude, the fuel consumed during the descent from
+cruise altitude to the destination, and the end (reserve) fuel from the fuel
+available. The resultant fuel available for cruise is divided by the fuel
+consumption rate to determine the max time at optimum cruise altitude.
+Cruise time is converted to cruise range using nominal true airspeed and
+current winds to calculate ground speed.
+
+Time to climb, time to cruise, and time to descend are summed to give
+total time in max cruise profile, which is displayed to the aircrew.
+
+Distance covered during climb, distance covered during cruise, and
+
+distance covered during descent are summed to give total range in max
+cruise profile, which is displayed to the aircrew.
+
+OPS-3 D - 38
+
+
+Text from OPS-3_Performance_Data_page_45.jpeg:
+When there is invalid or required mission data for the computations, or
+there is no fuel available for cruise, advisory messages will be displayed
+instead of values. Table D-1 summarizes the conditions, display legend,
+and parameters affected. When data is restored, the computed values are
+redisplayed.
+
+CONDITION LEGEND | PARAMETERS
+
+Baro Corrected INVA Range, Time
+
+Altitude Invalid
+
+Weight Invalid INVW Range, Time, Command Altitude,
+Command Mach
+
+Aircraft Position INVP Range, Time
+
+Invalid
+
+Zero Fuel Available | INVF Range, Time, Command Altitude,
+for Cruise Command Mach
+
+Table D - 1. Cruise Advisory Messages.
+
+D - 39 OPS-3
+
+
+Text from OPS-3_Performance_Data_page_46.jpeg:
+Divert Rules of Thumb:
+
+While determining precise divert data, you can save fuel by using the
+following ROTs as soon as you determine a divert is needed.
+
+1.
+
+2.
+
+7.
+
+Put your divert base on the nose.
+
+Climb in mil power at 350 K/.88 Mach (DI < 40)
+
+. Climb to 1/8 the divert distance (maximum of 47,000 ft)
+
+Example: Divert Distance = 90 nm
+Climb to 30,000 ft
+
+(Do not use more than ‘% of your fuel in the climb).
+
+. Cruise at Max Range AOA:
+
+14 units if below 25,000 ft
+14.5 units if above 25,000 ft
+
+. Begin your descent at twice your altitude in miles from
+
+destination.
+
+Example: Cruise Altitude = 30,000 ft
+Begin descent 60 nm out
+
+Based on “no-wind.” Decrease range for a headwind, increase for a
+tailwind.
+
+. Descend at Max Endurance AOA or 220 knots:
+
+17.0 units if above 25,000 ft
+18.0 units if below 25,000 ft
+
+Enter data on the cruise data display on the MPD engine display and
+
+compare to the checklist divert charts for precise data as soon as you are
+able.
+
+OPS-3 D - 40
+
+
+Text from OPS-3_Performance_Data_page_47.jpeg:
+Divert With Gear Extended
+
+The checklist has two charts in the reference data section designed for
+emergency diverts when some or all of the landing gear is extended.
+
+For transition/air-to-air missions, the drag index will be about 123, with
+all gear extended. Use the first chart (Figure D-17) for a constant altitude
+cruise.
+
+Given:
+DI 33
+GW 45,000 lbs
+All landing gear extended
+
+Find: 1. Fuel used to divert 70 nm at sea level and at 15,000
+feet (Figure D-17).
+
+2. Maximum endurance airspeed and fuel flow at sea
+level and 10,000 feet (Figure D-18).
+
+D-41 OPS-3
+
+
+Text from OPS-3_Performance_Data_page_48.jpeg:
+CONSTANT ALTITUDE CRUISE
+
+AIRPLANE CONFIGURATION REMARKS
+FLAPS RETRACTED
+TOTAL FUEL FLOW (LB/MIN)
+
+GROSS DRAG INDEX
+WT (LBS)
+
+30,000
+35,000
+40,000
+45,000 O U6
+
+0,000 O4 6
+
+EA LEVEL
+
+S)
+
+30,000
+35,000
+
+45,000
+
+15,000 FEET
+
+92 99
+71 78
+74 81
+78 85
+83 90
+50,000 89 96 104
+
+NOTES
+1. DATA APPLICABLE FOR ANY TEMPERATURE.
+2. CRUISE AT 250 KCAS.
+3. LANDING GEAR DRAG MUST BE INCLUDED IN CALCULATING
+DRAG INDEX.
+DI = 40 FOR NLG; DI = 25 FOR EACH MLG
+
+20,000 FEET
+
+OPS-03-16
+
+Figure D - 17.
+
+OPS-3 D - 42
+
+
+Text from OPS-3_Performance_Data_page_49.jpeg:
+At sea level, the fuel flow is 120 pounds/minute.
+
+70 nm at 250 KCAS = 17 minutes
+120 pounds/minute X 17 minutes = 2040 pounds
+
+At 15,000 ft, the fuel flow is 107 pounds/minutes.
+70 nm at 250 KCAS (300 KTAS) - 14 minutes
+107 pounds/minute X 14 minutes = 1498 lbs
+plus about 600 lbs to climb = 2098 lbs
+
+Note: There is little difference made by climbing with a high drag
+index and in this case you may actually use more fuel.
+
+OPS-3
+
+
+Text from OPS-3_Performance_Data_page_5.jpeg:
+STUDENT PREPARATION REQUIREMENTS
+BEFORE CLASS
+
+1. Study the information contained in this workbook and complete the
+End Of Text Quiz.
+
+2. Become familiar with the TO 1F-15-1CL-1 Reference Data section.
+
+3. Browse through TO 1F-15E-1-1 Appendix A, Performance Data With
+F100-PW-220 Engines.
+
+4. Bring to class:
+
+a. This workbook
+
+b. TO1F-15E-1-1
+
+ce. TO1F-15E-1CL-1
+
+d. Straight edge
+
+e. Calculator (optional)
+
+C-1 OPS-3
+
+
+Text from OPS-3_Performance_Data_page_50.jpeg:
+OPS-3
+
+CONSTANT AL T/TUDE
+ENDURANCE
+
+REMARKS
+
+ENGINE(S): (2) F100-PW-220
+ESTIMATED
+U.S. STANDARD DAY, 1966
+
+AIRPLANE CONFIGURATION
+LANDING GEAR EXTENDED TOTAL FUEL FLOW (LB/MIN)
+FLAPS RETRACTED
+
+GROSS AIRSPEED ALTITUDE (1000 FT)
+
+WEIGHT DI
+(LBS) (KCAS) 2)4)]6]8
+
+30 178 69 | 67 | 66 | 64
+60 175 72 | 70 | 69 | 67
+30,000 | 90 172 76 | 74] 72 /| 71
+170 79 | 77 | 75 | 74
+168 81 | 79 | 78
+
+40,000
+
+45,000
+
+1. LANDING GEAR DRAG MUST BE INCLUDED IN CALCULATING
+DRAG INDEX:
+DI=40 FORNLG DI =25 FOR EACH MLG
+
+OPS-03-17
+
+Figure D - 18.
+
+D - 44
+
+
+Text from OPS-3_Performance_Data_page_51.jpeg:
+The drag index is again 123.
+
+The airspeed is 209 KCAS at the closest drag index.
+
+The fuel flow is 109 lbs/minute at sea level and 100 lbs/minute at 10,000
+feet.
+
+Note: The fuel used to climb exceeds the advantage of slightly lower
+fuel flow at altitude. With turbine engines, there is little to be
+saved by climbing for short periods of holding below 10,000 ft.
+
+Stopping Distance Charts
+
+Stopping distance charts were added with change 3 to the F-15E-1CL-1.
+There is general agreement that the stopping distance charts are not as
+useful as they could be. Data is incomplete and charts for aerobraking on
+wet and icy runways are not provided. Another observation is that the
+numbers are slightly in conflict with the landing distance charts. For
+example, the landing distance charts all show that aerobraking is better
+than max antiskid. The stopping distance charts show the opposite. (For
+minimum run landings with all kinds of runway conditions, see
+
+TO 1F-15E-1, pages 2-22 and 7-3.) The questions are “what is the
+difference between landing and stopping distance?” and “when do crews
+need to use both sets of data?” Current guidance and the AFMSS (Air
+Force Mission Support System) only require aircrews to calculate landing
+distance (normal and heavyweight, wet and dry runway) and landing
+distance charts assume landing over a 50-foot obstacle, whereas stopping
+distance charts only consider the distance required to stop.
+
+Considering only the stopping distance charts, simple rule of thumb
+conclusions would be:
+
+Runway Condition
+
+Dry Max antiskid braking as soon as possible*
+
+Wet or icy Aerobrake until the nose falls through, then
+max antiskid braking to a stop.
+
+*According to the stopping distance charts, aerobraking on a dry runway
+results in slightly longer stopping distances, but probably saves wear and
+tear on the brakes. For maintenance reasons, you might want to
+aerobrake anyway, but if you decide to use max antiskid you should
+consider use of speed brake as another form of aerobraking.
+
+D - 45 OPS-3
+
+
+Text from OPS-3_Performance_Data_page_52.jpeg:
+Wind Shear and Microburst Activity
+
+Wind shear is beyond the scope of this course and will sometimes be
+addressed as a special topic in instrument refresher training. There is no
+clear guidance in TO 1F-15E-1, but a good technique would be to compute
+a reference ground speed (approach speed corrected for known winds),
+have ground speed displayed on the HUD, and Data 1 displayed on the
+UFC. Ifthe aircrew is in the habit of including displayed ground speed as
+compared to reference ground speed in their cross-check, the need for an
+immediate go-around due to unsuspected wind shear and microburst
+activity would be more readily apparent. As was mentioned earlier in the
+discussion on approach-end cable engagements, knowing your planned
+versus actual ground speed on final and having the WSO cross-check the
+UFC for winds can help for wind shear detection, cable engagements, and
+landing distances.
+
+Combat Planning
+
+For combat missions, there are other factors that must be considered. As
+mentioned earlier, with heavier gross weights, minimum go speeds
+become important. In addition, the mission length may cause fuel
+computations to be critical. You will need to run computations for each
+phase of flight. You need to figure fuel used in a heavyweight climb and
+cruise to the descent point; time, fuel and distance to descend; and the
+higher fuel rates for low level ingress. You then need to refigure the
+return portion of flight using the same charts, in reverse order at the
+lighter weights following ordnance delivery.
+
+There are a few charts in the checklist for high drag indices and fuel
+
+configurations, but most of the time you will need to use a computer
+program or go to TO 1F-15E-1-1.
+
+OPS-3 D - 46
+
+
+Text from OPS-3_Performance_Data_page_53.jpeg:
+END OF TEXT QUIZ
+
+Use the performance data charts of the current TO 1F-15E-1CL-1 to
+answer the following questions.
+
+GIVEN:
+
+Basic aircraft with -4 CFTs, 2 LANTIRN Pods, 1 AIM-9M on 4 LAU-128/A
+launchers, 2 X Wing Pylons, 2 X SUU-20s with 12 BDU-33 practice bombs
+and 512 rounds of ammunition.
+
+Gross weight 65,207 lbs
+T/O Gross Weight 63,800 lbs
+Drag index 51.5
+Temperature 59° F
+Pressure altitude Sea Level
+Available runway 11,000 feet (dry)
+Thrust Maximum (10° pitch)
+Density ratio see question #1
+CG 25%
+FIND:
+
+1. Density Ratio.
+
+a. 8
+b. 1.0
+c. 7
+d. 6
+
+2. Maximum abort speed.
+
+a. 150 KCAS
+b. 136 KCAS
+c. 146KCAS
+d. 132 KCAS
+
+3. The takeoff distance is approximately
+
+a. 2350 feet.
+b. 2640 feet.
+c. 4700 feet.
+d. 3850 feet.
+
+E-1 OPS-3
+
+
+Text from OPS-3_Performance_Data_page_54.jpeg:
+4. Nosewheel liftoff speed (interpolation required).
+
+a. 152 knots
+b. 140 knots
+c. 159 knots
+d. 171 knots
+
+5. The landing distance immediately after takeoff (at takeoff weight,
+aerobraking) is approximately (interpolation required)
+
+a. 7200 feet.
+b. 8000 feet.
+c. 6100 feet.
+d. 9000 feet.
+6. The fuel used to divert 200 nm at sea level without climbing is
+approximately
+a. 38000 pounds.
+b. 5200 pounds.
+c. 8200 pounds.
+d. 5400 pounds.
+7. With surface winds of 290/40, what is the crosswind component for
+Runway 26?
+a. 385 knots
+b. 20 knots
+ce. 18 knots
+d. 23 knots
+
+8. What is the maximum ground speed to engage a BAK-12/BAK-14
+(extended run out) arrestment gear cable immediately after takeoff
+without dumping?
+
+a. 145 knots
+b. 188 knots
+ec. 140 knots
+d. 160 knots
+
+OPS-3 E-2
+
+
+Text from OPS-3_Performance_Data_page_55.jpeg:
+10.
+
+What is the fuel remaining after a climb to 30,000 feet?
+
+po op
+
+19,119 pounds
+18,790 pounds
+18,889 pounds
+18,393 pounds
+
+What is the fuel flow for the return leg at 10,000 feet with 5,000
+pounds of fuel?
+
+po op
+
+6292 pounds/hour
+6715 pounds/hour
+5858 pounds/hour
+7194 pounds/hour
+
+OPS-3
+
+
+Text from OPS-3_Performance_Data_page_56.jpeg:
+(This Page Intentionally Blank)
+
+OPS-3 E-4
+
+
+Text from OPS-3_Performance_Data_page_57.jpeg:
+AB
+ACC
+AFMSS
+A/G
+AIM
+AOA
+BDU
+CAS
+CFT
+CG
+DI
+DR
+EMD
+
+EP
+
+GW
+HUD
+KCAS
+
+KTAS
+
+LDGP
+
+GLOSSARY
+
+Afterburner
+
+Air Combat Command
+
+Air Force Mission Support System
+
+Air-to-ground
+
+Air intercept missile
+Angle of attack
+
+Bomb dummy unit
+Calibrated airspeed
+Conformal fuel tank
+Center of gravity
+
+Drag index
+
+Density ratio
+
+Engine monitor display
+Emergency procedure
+Fahrenheit
+
+Gross weight
+
+Head-up display
+Calibrated airspeed in knots
+True airspeed in knots
+Launcher adapter unit
+
+Low drag general purpose
+
+OPS-3
+
+
+Text from OPS-3_Performance_Data_page_58.jpeg:
+M
+
+MK
+MPD
+NAV
+NLT
+RCR
+ROT(s)
+SETOS
+SUU
+TO
+
+T/O
+TOLD
+
+UFC
+
+OPS-3
+
+Mach
+
+Mark
+
+Multipurpose display
+
+Navigation
+
+Not later than
+
+Runway condition reading (or report)
+Rule(s) of thumb
+
+Single engine takeoff speed
+
+Stores suspension and release unit
+Technical order
+
+Takeoff
+
+Takeoff and landing data
+
+Upfront control
+
+
+Text from OPS-3_Performance_Data_page_59.jpeg:
+(This Page Intentionally Blank)
+
+F-3 OPS-3
+
+
+Text from OPS-3_Performance_Data_page_6.jpeg:
+(This Page Intentionally Blank)
+
+OPS-3 C-2
+
+
+Text from OPS-3_Performance_Data_page_60.jpeg:
+BACK PAGE
+COVER SHEET
+
+
+Text from OPS-3_Performance_Data_page_7.jpeg:
+TEXT
+GENERAL INFORMATION
+
+This workbook is intended to be used with your Dash 1 checklist,
+Performance Data with F100-PW-220 engines, using JP-8 fuel weights, to
+familiarize you with the information available for the F-15E. However,
+some data is only found in TO 1F-15E-1-1.
+
+Although F-15E mission data may be computed using AFMSS or other
+software mission planning programs (to be taught in other lessons), the
+aircrew must be able to compute all required information using the
+checklist and other charts when a computer is not available.
+
+Aircrews are required to compute and have the following takeoff and
+landing data (TOLD) on their mission data (lineup) cards: acceleration
+check speed (N/A for F-15E until appropriate performance data is
+incorporated in the Dash 1), refusal/maximum abort speed (dry/wet),
+takeoff speed and distance, normal/heavyweight landing distance
+(dry/wet), and single engine takeoff speed (SETOS). At present, this is an
+Air Combat Command (ACC) requirement only.
+
+Weight And Drag Index
+
+Several charts require drag index (DI) and gross weight (GW) values.
+Specific drag indexes and gross weight data for external stores are found
+in the Station Loading charts, Part 1 of Appendix A of
+
+TO 1F-15E-1-1.
+
+The drag index for a specific configuration is found by multiplying the
+number of stores carried by its drag index, and adding the drag index of
+the suspension equipment. Always use a checklist chart of a higher drag
+index than you have computed (i.e., round “up” to be conservative). Gross
+weight computations are made the same as drag computations with JP-8
+fuel weights.
+
+D-1 OPS-3
+
+
+Text from OPS-3_Performance_Data_page_8.jpeg:
+Typical Loads
+
+The following loads illustrate typical configurations used in three different
+phases of training.
+
+TRANSITION/AIR-TO-AIR TRAINING
+
+Weight Drag
+
+Empty Aircraft 33,500 0
+
+2 X Aircrew 430 0
+Full Internal Fuel (JP-8) 13,511 0
+Ammunition 289 0
+Basic Aircraft Total 47,730 0
+2X -4 CFTs (JP-8) 14,147 20.1
+
+2 X SUU-59C/A Wing Pylons 742 6.6
+4 X LAU-128/A Missile Rails with Adapters 424 4.4
+1X AIM-9M 195 2.0
+TOTAL 63,238 33.1
+
+OPS-3 D-2
+
+
+Text from OPS-3_Performance_Data_page_9.jpeg:
+SURFACE ATTACK TRAINING
+
+Basic Aircraft 47,730 0
+2X -4 CFTs (JP-8) 14,147 20.1
+2 X SUU-59C/A Wing Pylons 742
+
+4 X LAU-128/A Missile Rails with Adapters 424
+1X AIM-9M 195
+NAV Pod (with no CFT A/G stores) 520
+Target Pod (with no CFT A/G stores) 621
+
+2 X SUU-20B/A Practice Bomb Dispensers
+
+with 12 X BDU-33 Practice Bombs 828
+TOTAL 65,207
+
+6.6
+
+4.4
+
+2.0
+
+6.6
+
+5.2
+
+51.5
+
+OPS-3
+
+

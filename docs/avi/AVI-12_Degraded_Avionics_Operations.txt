@@ -1,0 +1,1842 @@
+Text from AVI-12_Degraded_Avionics_Operations_page_1.jpeg:
+SUPPORTS COURSES
+FIS5EBQ
+
+FISETX
+
+FISESOC
+
+ACADEMIC STUDENT WORKBOOK
+F-15E
+
+AVIONICS
+AVI-12
+DEGRADED AVIONICS OPERATIONS
+
+MAY 1999
+
+(SUITE 3 OFP)
+
+AIR COMBAT COMMAND
+
+
+Text from AVI-12_Degraded_Avionics_Operations_page_10.jpeg:
+ADI May be displayed on any MPD/MPCD but is the only
+display available on the front cockpit MPCD.
+
+TSD Not available in the front cockpit. May be displayed
+on either rear cockpit MPCD.
+
+A/A Radar,
+
+A/G Radar,
+
+TEWS, and
+
+TF Can be displayed on any MPD but not on MPCDs.
+
+The radar initially defaults to the A/A format; however, the A/G format
+can be selected from the radar display. Except for the FCP MPCD, which
+provides only a “hardwired” ADI, the remaining displays may be scrolled
+through, as desired, to obtain the formats available on each display. The
+available (scrollable) formats are listed in Figure D-2. Note that the TSD
+format is not available in the FCP and no HUD repeater is available in
+the rear cockpit.
+
+The HSI is not an available display format in either cockpit. The compass
+rose, TCN/NAV data blocks, and TCN/NAV bearing pointers are still
+available on the TEWS display (Figure D-3) and some of the HSI functions
+are transferred to the ADI format (Figure D-4). Some information (e.g.,
+function of bank steering bar, display of pitch steering bar, ILS
+localizer/glide slope raw data) is dependent upon what steer mode is
+selected. These multimode/steer mode dependent display features are
+addressed in the following section as they apply to the HUD, but
+remember, such information is generally applicable to the ADI as well.
+Section I of the Dash 1 contains illustrations of the ADI with the different
+steer modes selected (ADI—backup mode).
+
+AVI-12 D-4
+
+
+Text from AVI-12_Degraded_Avionics_Operations_page_11.jpeg:
+¢ COMPASS ROSE
+
+e TCN DATA BLOCK /
+BEARING POINTER
+
+e NAV DATA BLOCK /
+BEARING POINTER
+
+NOTE:
+FOLLOWING CC FAILURE, m
+THE NAV DATA BLOCK ne 7
+INFORMATION AND BEARING onaroe © 721 TES sre
+POINTER ARE NOT AVAILABLE = | Snrtee teens
+UNTIL THE STEER POINT
+LOCATIONS ARE IDENTIFIED
+THROUGH THE UFC POINT
+DATA SUBMENU.
+
+=
+e@
+%
+2
+4
+
+AVI-12-03
+
+Figure D - 3. TEWS Display - CC Failure.
+
+DISPLAY ITEMS ADDED
+e STEER MODE SELECTIONS
+e STEER POINT DATA BLOCK
+e TACAN DATA BLOCK
+
+e¢ COURSE SELECT (WITH TCN,
+ILST, OR ILSN SELECTED)
+
+e TO/FROM (WITH TCN
+
+SELECTED) AT PB #6 ptr
+
+AVI-12-04
+Figure D - 4. ADI-CC-Failure Format (TCN Steer Mode Selected).
+
+D-5 AVI-12
+
+
+Text from AVI-12_Degraded_Avionics_Operations_page_12.jpeg:
+HUD
+
+Another very noticeable indication of CC failure is the MPDP (as bus
+controller/integrator) defaulting the HUD to a degraded format.
+Figure D-5 shows the degraded HUD format and data available on the
+HUD in the different steer modes as selected from the ADI.
+
+¢ MAGNETIC HEADING
+¢ GROUND SPEED
+¢ RADAR ALTITUDE
+¢ VERTICAL VELOCITY
+¢ VELOCITY VECTOR
+e PITCH LADDER
+¢ BANK SCALE
+e GUN CROSS
+¢ WATERLINE SYMBOL
+¢ MRM
+REFERENCE CIRCLE
+¢ CURRENT "G" LOADING
+e PITCH / BANK ~10L ——— 10
+STEERING BARS* “arya
+e SELECTED STEER
+MODE / ID*
+e¢ STEER POINT RANGE*
+e ILS GLIDE SLOPE / LOCALIZER RAW DATA*
+¢ TACAN / ILS CDI*
+¢ TACAN CHANNEL IN TCN OR ILST*
+¢ TACAN RANGE IN TCN OR ILST*
+@ RADAR ALTITUDE SCALE (IF BELOW 1500 FEET RALT)
+
+* DEPENDENT ON STEER MODE SELECTED
+AVI-12-05
+
+Figure D - 5. HUD Format with CC Failure (NAV Steer Mode).
+
+The MPDP defaults the HUD to the same degraded format regardless of
+the master mode selected. In fact, master mode selection is inoperative.
+However, changing steer modes does affect the HUD presentation (see the
+asterisked items in Figure D-5). This information is generally depicted
+just as it would be on a normal HUD with the NAV or INST master mode
+selected. Remember that the HUD repeater is not available in the RCP
+when the CC fails. HUD programming and symbols reject functions are
+not available.
+
+AVI-12 D-6
+
+
+Text from AVI-12_Degraded_Avionics_Operations_page_13.jpeg:
+Upfront Control (UFC)
+
+When CC failure occurs, any UFC displayed information which requires
+CC computation/support (that is not assumed by the MPDP) is blanked on
+the UFC. The MPDP initially defaults the UFC to Menu 1 (Figure D-6).
+Note that the current steer point (PB #10) initially defaults to STR 0
+indicating that no steer point is available for navigation. Remember, the
+routes were stored in CC nonvolatile memory.
+
+POINT DATA
+MENU 1 LAT/LONG SUBMENU
+@ ®
+
+(J-frawi2000: | stro)
+(Ja[L FF 12304 Al 3/E34] K{ ]\
+
+(# [TE NORM N-F NORM H{_ ]
+
+STR 1
+CY J [N85°4 1.241"
+(}4|wo75°53.072
+
+(}4[.U226.125 _U228.100Gx| Kf}
+
+ELV 465'
+
+[U226.125 _U228.100Gx|L{_}
+
+e CC FAILURE
+o)
+TO MENU 1
+PP KEEPING
+MENU 2 SOURCE SUBMENU
+
+e © @ 2) MISSING
+
+CC DATA
+(_JsVvc OFF FL} (_J5|PP-1.Ns NS] HL}
+
+€ (_4|RET 0 UPDT MENU][-[_ } 3 € (4 (ns5°41.241" LO Z
+{HILLS 109.90 BE STR] |} (_}4(M075°53.072' KL}
+4 [PP-1 NS EGI 30°] (J (4 [wv Etet3" LC)
+(F-[ue26.125 _u228.100c BO) A ( J4[U226.125 U228.100Gx| Lf}
+x1 20
+AVI-12-06
+
+Figure D - 6. UFC Menu Options (CC Failure).
+
+D-7 AVI-12
+
+
+Text from AVI-12_Degraded_Avionics_Operations_page_14.jpeg:
+The MPDP supports selection and display of the following UFC formats
+(Figure D-6).
+
+@ Menu 1 and 2
+@ Point data lat/long submenu (from Menu 1, PB #10)
+@ PP keeping source submenu (from Menu 2, PB #4)
+
+e INS is the only PP source available for navigation. If MN
+or EGI was selected prior to CC failure, the PP source
+defaults to INS automatically at CC failure.
+
+Additionally, with CC failure the MPDP/AIUs continue to support and
+allow display of the following UFC formats/information.
+
+@ UHF 1 and 2 (row 5 & 6) including UHF 1 and 2 submenus
+(including the KY-58 submenu)
+
+@ TACAN including TACAN submenu but excluding TACAN
+program submenu
+
+@ = IFF/AAT including submenus but excluding the IFF phasing
+submenu and the EID submenu
+
+Data 1 and 2 formats are not available. If an unavailable UFC format is
+requested, the UFC display will not change.
+
+The MPDP supports the capability for only two steer points. The HUD,
+ADI, and TEWS NAV data blocks initialize as NAV INV (HUD) or STR
+NONE (ADI/TEWS) while the UFC (Menu 1) initializes to STR 0. To
+enter data for the two steer points, call up the UFC point data submenu
+and enter (STR) 1 and/or (STR) 2 and their respective lat/long coordinates.
+No syntax other than 1 or 2 will be accepted. These points can be
+successively changed as the aircraft progresses along a flight route
+(leapfrog). Only manual sequencing is available. Current NAV steering
+(NAV data blocks on the HUD/ADI/TEWS, the bank steering bars in the
+HUD/ADI and the bearing pointer on the TEWS) reflect the current steer
+point showing at Menu 1, PB #10 (again either STR 1 or STR 2).
+Command (CMD) heading is not available on the HUD or ADI.
+
+AVI-12 D-8
+
+
+Text from AVI-12_Degraded_Avionics_Operations_page_15.jpeg:
+TSD/RMR
+
+With CC failure the TSD format loses cursor related functions because
+TGT IR and radar patch maps are not functional capabilities with CC
+failure. Therefore, the sensors cannot be cued from the TSD.
+Additionally, the look ahead function is inoperative and most of the
+pushbutton options normally available are unavailable with CC failure
+(Figure D-7).
+
+e ALL PRIMARY RMR
+STATUS CUES ARE
+DISPLAYED
+
+e AIRCREW
+SELECTABLE
+PARAMETERS
+- MAP SCALE
+- INS POSITION UPDATE (ADDED)
+
+UNAVAILABLE
+FUNCTIONS
+- NO SEQUENCE POINTS
+
+- NO. SENSOR FUNCTIONS
+(AIG RDR / TGT IR)
+
+- NO LOOK AHEAD CAPABILITY
+
+AVI-12-07
+
+Figure D - 7. TSD CC Failure Format.
+
+The TSD continues to provide all primary status cues; i.e., “MAP NOT
+AVAILABLE,” “SCALE NOT AVAILABLE,” “RMR NOT READY,” etc. It
+provides selectable parameters for MAP scale; i.e., TSD range. Note in
+Figure D-6 (Menu 2) that the UFC UPDT MENU format (OVERFLY,
+HUD, ALTITUDE, TACAN) is not one of the available UFC formats.
+However, with CC failure, the INS can be updated by defining the point
+on the UFC point data submenu, selecting the point as the current steer
+point (Menu 1, PB #10), then overflying the point and pressing PB #16
+(O/F UPDT) on the TSD display to accomplish the update (Figure D-7).
+This procedure updates the INS directly (no Kalman filtering); so
+obviously, this capability must be used very judiciously. Again, the TSD is
+available only in the rear cockpit with CC failure.
+
+D-9 AVI-12
+
+
+Text from AVI-12_Degraded_Avionics_Operations_page_16.jpeg:
+PACS
+
+CC failure results in the loss of the ARMT display format and many PACS
+capabilities, including all AIM-120 functions.
+
+Remaining operable PACS functions/capabilities include:
+
+AVI-12
+
+Master arm (including RCP advisory light and the HUD gun
+cross)
+
+Weapons release (pickle) buttons
+
+Manual free fall or retard (FF/RET) air-to-ground weapons
+delivery (as selected with the FCP selective jettison knob)
+
+AIM-7 (single target track [STT] or FLOOD)
+
+AIM-9 boresight or uncaged shots (no seeker reference circles or
+radar slaving available)
+
+AIM-120 inhibited
+The gun fires normally, but you cannot select firing rate or
+set/monitor rounds count. The gun cross or manual sight
+
+provide the only aiming references.
+
+Air-to-air and air-to-ground selective jettison (no combat jettison
+[CBT JETT])
+
+Emergency jettison (“panic button”)
+
+
+Text from AVI-12_Degraded_Avionics_Operations_page_17.jpeg:
+The following is a short synopsis of available combat capability.
+
+A/G Radar Real beam map (RBM) only, no high
+resolution map (HRM). No RCP control
+of radar.
+
+A/G Weapons Delivery Visual, noncomputed deliveries only.
+
+Sight depression angle can be entered
+on UFC Menu 2. (RET 0 replaces
+GCWS and 0-250 mils are selectable
+through a UFC scratchpad entry).
+
+A/A Radar Range-while-search (RWS), single
+target track (STT), and track while scan
+(TWS). No RCP control of radar.
+
+A/A Weapons Delivery Employment of AIM-7s/AIM-9s. No
+AIM-120 capability (AIM-120 launch
+
+initiate is inhibited).
+
+Caution Functional Capability
+
+With CC failure, the MPDP continues to support all systems that have a
+display caution capability. The warning, caution, and advisory lights also
+work normally for the available systems. The main difference is visual,
+with the cautions displayed on the radar format only (Figure D-8). The
+displayed cautions do not blank out any background display
+(nonoccluded). Selecting the radar format for display provides any display
+cautions, even if the radar is off or inoperative. Obviously, with the
+illumination of the master caution and/or other caution lights, you would
+call up a radar display and check the display cautions. The built-in test
+(BIT) system is a CC function, so with CC failure, there is no BIT display
+available, and the BIT system is inoperative.
+
+D-11 AVI-12
+
+
+Text from AVI-12_Degraded_Avionics_Operations_page_18.jpeg:
+e FULL DISPLAY OF
+SUPPORTED SYSTEMS
+
+¢ ON RADAR, NONOCCLUDED
+
+¢ RADAR NOT DISPLAYED
+- CAUTIONS NOT DISPLAYED
+
+Figure D - 8.
+
+AVI-12
+
+II
+
+a
+
+Eeeee
+
+AVI-12-08
+
+Caution Format - CC Failure.
+
+
+Text from AVI-12_Degraded_Avionics_Operations_page_19.jpeg:
+CC Failure Corrective Action
+
+The principal corrective action available to the aircrew whenever CC
+failure occurs or is suspected, is to press the CC reset button located on
+the FCP sensor panel (Figure D-9). Another possible means of resetting
+the CC is to cycle the CC switch on the ground power panel to OFF and
+back to AUTO if CC reset did not work.
+
+G
+N
+D
+|
+C
+O
+O
+L
+
+AVI-12-09
+
+Figure D - 9. CC Reset.
+
+NOTE
+
+There are three circuit breakers (labeled CCC on circuit breaker panel
+
+No. 2 in the rear cockpit). The CC must have main generator power in
+order to function.
+
+D-13 AVI-12
+
+
+Text from AVI-12_Degraded_Avionics_Operations_page_2.jpeg:
+ADMINISTRATIVE INFORMATION
+
+This student workbook is designed to provide information on the F-15E,
+its systems, and capabilities. It is not a sole source document, but is to be
+used in conjunction with other standard Air Force publications and
+technical manuals. If you find any differences between the material
+contained herein and other governing regulations, adhere to the
+regulations and notify the OPDR.
+
+Changes to this workbook are indicated with a heavy black line in the left
+margin.
+
+Forward recommendations for revision or change to 4 TS, SJAFB, NC,
+275381.
+
+Supersedes: AVI-12, July, 1998
+
+OPDR: 4TS
+
+Index of Changes
+
+Effective Date Pages Affected
+
+
+
+Text from AVI-12_Degraded_Avionics_Operations_page_20.jpeg:
+QUESTIONS
+
+1. What is indicated by the MPD/MPCD displays defaulting (left to
+right) to A/A radar, ADI, and TEWS in the front cockpit, and to ADI,
+A/A radar, TEWS, and TSD in the rear cockpit?
+
+a. CC failure
+
+b. Double generator failure
+ce. Failure of both AIlUs
+
+d. MPDP failure
+
+2. What happens to the HUD during a CC failure?
+
+The HUD provides allowable G-loading, but not current G.
+
+The HUD provides both AOA and allowable G.
+
+c. The HUD provides only calibrated airspeed and barometric
+altitude.
+
+d. The HUD provides only ground speed and radar altitude.
+
+o£
+
+3. Which of the following is applicable with a CC failure?
+
+The UFC Data 1 and 2 formats are available.
+The TACAN program submenu is available.
+The UFC Menu 1 and 2 are available.
+
+UHF radio information is unavailable.
+
+ao op
+
+4. How are display cautions displayed with a CC failure?
+
+a. They are displayed on the radar display.
+
+b. They are displayed on the FCP right MPD, rear cockpit right
+MPCD.
+
+They are inoperative.
+
+d. They are displayed on the ADI, both cockpits.
+
+a
+
+AVI-12 D-14
+
+
+Text from AVI-12_Degraded_Avionics_Operations_page_21.jpeg:
+With CC failure, which of the following is true of the UFC?
+
+po op
+
+It can display Data 1 and 2 formats.
+
+It displays current CC data on selected formats.
+It can display Menu 1/Data 1 formats.
+
+It defaults to Menu 1.
+
+With CC failure, what is the status of ILS/TACAN data when
+
+selected?
+
+a. This data is not available.
+
+b. This data is available on the HSI.
+
+c. This data is available on the HUD only.
+
+d. This data is available on the ADI and HUD.
+
+When the UFC Data 1 format is displayed, what is the result of a CC
+
+failure?
+
+a. It has no effect on the display.
+
+b. It causes the steer point to blank.
+
+c. It causes the display to default to Menu 1.
+d. It blanks the TAS and GS.
+
+D-15 AVI-12
+
+
+Text from AVI-12_Degraded_Avionics_Operations_page_22.jpeg:
+ANSWERS
+
+l. a
+2. d
+3. Cc
+4. a
+5. d
+6. d
+Te f
+
+AVI-12 D-16
+
+
+Text from AVI-12_Degraded_Avionics_Operations_page_23.jpeg:
+DOUBLE GENERATOR FAILURE
+
+The aircraft electrical system provides full capability to the normal
+avionics systems as long as at least one main generator is on-line.
+However, if neither main generator is on-line (i.e., double generator
+failure), avionics systems are affected as follows.
+
+Failure Indications
+
+Failure of both main generators results in the immediate blanking of the
+HUD and all MPDs/MPCDs, except the FCP MPCD, which defaults to the
+ADI format (Figure D-10). No other display format is available. Double
+generator failure includes failure of the central computer, so all the
+failures induced by a CC failure are also induced by double generator
+failure. However, many of the backup capabilities available with a CC
+failure are unavailable with a double generator failure. A CC failure
+backup, for example, provides four steer mode selections on the ADI. With
+double generator failure, only the NAV steer mode is available, because
+the TACAN and ILS systems, themselves, are inoperative.
+
+OQ
+4
+
+ol
+
+ol
+
+—<<===—, N
+IFF MODE 4
+
+CAS PITCH CAS YAW
+L BST PUMP R BST PUMP R BST PUMP
+4) R INLET INLET ICE ATTITUDE
+L INLET LENG CONTR R ENG CONTR
+
+Ol
+
+costo 320/12.0
+DISPLAYED ee ee eee wl
+CAUTIONS (WTOP " «
+
+AVI-12-10
+
+A=)
+
+Figure D - 10. Double Generator FCP MPCD ADI Display.
+
+D-17 AVI-12
+
+
+Text from AVI-12_Degraded_Avionics_Operations_page_24.jpeg:
+As shown in Figure D-10, display cautions are displayed at the bottom of
+the ADI. These cautions can be removed or recalled by moving the pilot’s
+castle switch in any direction. The warning, caution, and advisory lights
+are fully supported (assuming the emergency generator is operating in
+AUTO/MAN). Display blanking and illumination of numerous caution
+lights (about 7, including L GEN/R GEN) is the big clue to double
+generator failure, along with landing gear unsafe indications (horn/light in
+gear handle), because the ADC is not powered.
+
+Functional Capability
+
+TO 1F-15E-1 and TO 1F-15E-1CL-1, Emergency Power Distribution,
+provide a complete list of operative/inoperative systems with double
+generator failure. The following is a partial list of lost avionics
+capabilities.
+
+CC ILS AIU 2 AHRS (prior to GPS)
+ADC/ADP PACS HUD OWS
+
+MPDs AAI KY-58 AOA GAUGE
+
+RCP MPCDs UHF 2 TEWS VVI gauge
+
+TACAN RALT ADF
+
+With double generator failure the following avionics components remain
+operative (assuming the emergency generator is operating in AUTO or
+MAN modes).
+
+MPDP (supports FCP MPCD with ADI only)
+
+UFC (degraded since the CC has failed with double generator failure)
+
+FCP MPCD (ADI only)
+
+INS and EGI (after GPS installation - backup attitude/heading only)
+
+IFF (EMER only)
+
+UHF 1 (UHF 2 is inoperative)
+
+Intercom
+
+AIU 1
+
+Standby ADI, altimeter, airspeed indicators (AOA and VVI are
+unpowered)
+
+AVI-12 D-18
+
+
+Text from AVI-12_Degraded_Avionics_Operations_page_25.jpeg:
+NOTE
+
+The emergency generator switch may require cycling to the ISOLATE
+position and back to the AUTO position to obtain the ADI on the front
+cockpit MPCD. On aircraft before 89-0497, if a double generator
+
+failure occurs, the front cockpit MPCD may not receive enough power
+to operate and consequently the ADI display will be lost. If this occurs,
+use the standby flight instruments, which will still be operational
+(except AOA and VVI).
+
+Corrective Action
+
+Accomplish the double generator failure procedure. If one main generator
+can be brought back on-line, all the avionics equipment will again be
+operative. If this is not possible, use the operating avionics (listed in
+
+TO 1F-15E-1CL-1) to return to base. Double generator failure is obviously
+an emergency procedure and depending upon conditions (night, bad
+weather, etc.), can be a very serious situation. The only available cockpit
+lighting is the storm flood lights and the utility lights.
+
+D-19 AVI-12
+
+
+Text from AVI-12_Degraded_Avionics_Operations_page_26.jpeg:
+MPDP FAILURE
+
+The MPDP is powered as long as the MPDP/AIU 1 switch on the ground
+power panel is in AUTO and aircraft power is available; i.e., at least one
+main generator operating or the emergency generator operating in the
+AUTO or MAN mode (not in ISOLATE). Internally (within the black box)
+the MPDP is configured with four separate power supplies. As shown in
+Figure D-11, display processing channels are powered to preclude loss of
+the entire MPDP capability should a single power supply (P/S) failure
+occur within the unit.
+
+P| P/S A P/S B P/S C P/S D
+
+EWWS RADAR VTRS
+RWR (*) ows
+ows HUD
+
+(*)
+
+DISPLAYS FCP- MPCD FCP- RMPD FCP- LMPD FCP- MPCD
+LOST: LMPD- |RCP- RMPCD RMPD LMPD
+RCP- RMPD LMPD- |RCP-LMPCD |RCP-LMPCD
+LMPCD LMPD RMPD
+RMPCD
+
+* NO HUD NAV FLIR
+AVI-12-11
+
+Figure D - 11. MPDP Power Supply Redundancy.
+
+Failure Indications
+Partial Failure
+
+Partial failure usually results from a MPDP internal power supply
+malfunction and causes the loss of the displays and display formats as
+shown in Figure D-11. At least one display should be available in each
+cockpit. Available displays can be time-shared with available display
+formats as mission requirements dictate.
+
+AVI-12 D - 20
+
+
+Text from AVI-12_Degraded_Avionics_Operations_page_27.jpeg:
+Complete Failure
+
+Complete failure of the MPDP usually results from a total failure of the
+processor itself, or loss of power to the MPDP. The HUD and all the
+MPDs/MPCDs go blank (or display STANDBY). If the CC is operating,
+the UFC continues to function normally; however, if the CC and the
+MPDPFP are both failed, the UFC is blank. The UHF radios continue to
+operate but channel frequency changes are not possible (blank UFC).
+
+Corrective Action
+
+Corrective actions for failure of the MPDP consist of actions to restore
+electrical power.
+
+@ Ensure that at least one main generator is operating, or the
+emergency generator is operating in other than the ISOLATE
+mode (AUTO or MAN).
+
+@ Ensure that the MPDP/AIU 1 switch on the ground power panel
+is in the AUTO position (cycle as appropriate).
+
+@ Ensure that an ECS overheat condition has not caused an
+automatic avionics shutdown (ground operations, single engine).
+
+@ On the ground, with a partial failure, perform (if available) a
+DSPL (MPDP) BIT.
+
+@ There are three MPDP circuit breakers on the No. 2 circuit
+breaker panel (left side, rear cockpit).
+
+@ The most effective action is to reset the MPDP by cycling the
+MPDP/AIU 1 switch on the ground power panel to OFF and
+back to AUTO.
+
+Obviously, with no displays available, your capabilities are seriously
+degraded. All standby instruments are operational (assuming generator
+power). Additionally, the UFC Data 1 display provides altitude, speed,
+and bearing/range to NAV points. However, with no displays available,
+there is no means to get TACAN or ILS steering.
+
+D-21 AVI-12
+
+
+Text from AVI-12_Degraded_Avionics_Operations_page_28.jpeg:
+AIU FAILURES
+
+The AlUs (AIU 1 and AIU 2) provide the interface between the aircrew
+and aircraft systems; e.g., turn on, turn off, select modes, change
+channels, etc. AIU failures manifest in the loss of continuity between a
+switch/button and the avionics equipment itself. If the failure is an
+internal processor failure, the equipment remains in its last operating
+state (OFF/ON, mode selected/deselected). If the failure is an internal
+power supply failure, then the equipment is, in effect, turned off. The
+equipment is still operable, but is isolated from the avionics system.
+
+Three possible AIU malfunction conditions may exist:
+@ Partial failure of either or both AIUs.
+@ Total failure of either AIU.
+@ Total failure of both AIUs.
+
+Failure Indications
+
+Partial AIU Failure
+
+Initial notifications of partial (or total) failure of either AIU may be
+indicated by:
+
+AIU 1 CAUTION displayed on the MPD/MPCD
+(Figure D-12). Cautions (lights and display cautions)
+are unreliable and are not displayed.
+
+AIU 1 or 2 Illumination of the AV BIT caution to alert the aircrew
+to check the BIT status. If AIU 1 has failed a BIT, the
+legend “AIU 1” appears in the BIT failure window. If
+AIU 2 has failed a BIT, the legend “AIU 2” appears in
+the BIT failure window.
+
+AVI-12 D - 22
+
+
+Text from AVI-12_Degraded_Avionics_Operations_page_29.jpeg:
+AVI-12-12
+
+Figure D - 12. AIU 1 Failure Caution.
+
+Total Failure of Either AIU
+
+Total failure of AIU 1, ATU 2, or both AIUs results in the inability of the
+aircrew to interface with, or complete loss of, the equipment as depicted in
+Figure D-13.
+
+Equipment with a redundant backup capability (Figure D-13, center
+column) continues to function normally with complete failure of either
+AIU. All components without redundant capability are affected when
+their associated AIU fails (Figure D-13).
+
+D - 23 AVI-12
+
+
+Text from AVI-12_Degraded_Avionics_Operations_page_3.jpeg:
+AVIONICS
+
+=)
+
+—
+Dif —t_t_Wyp y g hon oo
+
+COVER
+
+DEGRADED AVIONICS OPERATIONS
+
+INTRODUCTION
+
+This workbook is designed to familiarize you with the effects of various
+avionic system degrades and malfunctions.
+
+CONTENTS:
+
+INTRODUCTION 000. eecccceseceeseeceseeeeesaeecesaeesensaeessseeeensaeesesnaeeens A-1
+CRITERION REFERENCED OBJECTIVES (CROs)............eeeeeeeeeeeeeee B-1
+STUDENT PREPARATION REQUIREMENTS . 000... eeeeeeeeeeeenees C-1
+TEXT oc eeccccccessseecceesseeeecessseeecesesaeeeceesssaeeeseesssaeeesesssaeeeseeeeaaeeseee D-1
+END QF TEXT QUID sssis cass sass snore sexe cons ones sass snivs seve sete mens suns suns suns sere ens aes auiws oes E-1
+GLOSSARY. ee eeceeesecessneecesseeecesaeecesaeecessaeecesaeeseesaeecesaaesessaeeseeaeeeneas F-1
+
+A-1 AVI-12
+
+
+Text from AVI-12_Degraded_Avionics_Operations_page_30.jpeg:
+Total Failure of Both AIUs
+
+Remember, if failure results from internal processor failure(s), the
+components remain in the last position and are usable (for example, the
+affected UHF would operate, but frequency change would not be possible).
+A malfunction which causes an internal AIU power failure causes the
+components to be unusable (AIUs are used to turn on equipment). Loss of
+both AIUs blanks rows 1 through 6 on both cockpit UFCs and all control
+stick avionics switch functions (HOTAS) are lost, except for weapons
+release (pickle) buttons and the FCP trigger. Throttle switch functions
+are also lost, except the speed brake switch.
+
+FCP
+I UFC Il
+FAILS W/AIU1 FAILURE | I FAILS W/ AIU 2 FAILURE
+
+LEFT HAND
+RIGHT HAND
+WARNINGS CONT
+ADF RADAR
+
+| AF DR UH 2
+RICP / ICSCP
+IR
+ws
+
+il
+
+ae
+oul
+10
+
+UH
+
+iE
+
+TACAN
+
+:
+
+KY-58
+
+AVIONICS BIT
+
+tt
+
+EWws RCP SEN
+AlU 1 E MODES | AlU 2 PANEL
+SEAT BEACON FCP SEN
+ENG DISPLAY FCP
+FUEL FLOW HOTAS
+ENGINE LOW ALT
+OVERTEMP GCWS AND LASER
+VOICE VOICE ARMED ENGINE
+WARNING WARNINGS OVERTEMP
+WARNING
+VOICE
+WARNING
+GCWS
+._——_——_— — AVI-12-13
+
+Figure D - 13. AIU Block Diagram.
+
+Corrective Action
+
+With partial AIU 1 failure and/or partial or total AIU 2 failure, a possible
+corrective action is to run an AIU BIT.
+
+Corrective action for AIU 1 failure is to cycle the MPDP/AIU 1 switch on
+the ground power panel. You should use this action judiciously, since
+cycling the MPDP blanks all the displays momentarily or perhaps longer
+if the MPDP does not reinitialize. Try the AIU BIT before cycling the
+MPDP/AIU 1 switch.
+
+AVI-12 D - 24
+
+
+Text from AVI-12_Degraded_Avionics_Operations_page_31.jpeg:
+MISCELLANEOUS DEGRADES/FAILURES
+Invalid Information (Heading, Speed, Altitude, etc.)
+
+On the MPDs/MPCDs there are no mechanical OFF flags to warn of
+degraded/failed components. Numerous “graphics” means are used to
+provide failure notifications. Generally, if information is invalid, its
+normal location on the HUD/ADI/HSI is replaced with “OFF” (colored red
+on a color display) or the display area will be blanked. (Figure D-14 shows
+ADI and Figure D-15 shows HUD.)
+
+HEADING
+SOURCE
+INVALID
+AIRSPEED Lo BAR
+INVALID = ALTITUDE
+INVALID
+AOA INVALID Sy
+AL
+GROUND SPEED ey VV INVALID
+ATTITUDE |
+SOURCE ALTITU
+SOURGI ALTITUDE
+INVALID
+~ TURN AND
+SLIP INVALID
+AVI-12-14
+
+Figure D - 14. ADI - Invalid Information Cues.
+
+D - 25 AVI-12
+
+
+Text from AVI-12_Degraded_Avionics_Operations_page_32.jpeg:
+IF INVALID, MAX ALLOWABLE
+G NOT DISPLAYED (OR 1.1 OWOFF
+OR OWOFF)
+
+IF INVALID, AOA
+NOT DISPLAYED
+
+IF INVALID,
+MACH NOT
+DISPLAYED
+
+NAV DEGD
+N OFF
+OFF E
+
+10L — — — —_110
+
+AVI-12-15
+
+Figure D - 15. Invalid HUD Information.
+
+TACAN Data Invalid
+
+If the TACAN is failed, not powered, or the selected TACAN station is off
+the air/out of range (and TACAN is the selected steer mode), the CDI,
+course arrow, and bank steering bar are removed from the HUD. The
+TACAN data block displays “OFF.” On the ADI, the bank steering bar is
+removed. Normal and TACAN failed HUDs are shown in Figure D-16.
+
+AVI-12 D - 26
+
+
+Text from AVI-12_Degraded_Avionics_Operations_page_33.jpeg:
+TON 112X
+T 16.0
+
+00:02:45
+
+INVALID TACAN INDICATIONS
+
+Figure D - 16. TACAN Indications.
+
+AVI-12-16
+
+AVI-12
+
+
+Text from AVI-12_Degraded_Avionics_Operations_page_34.jpeg:
+On the HSI, the TO/FROM indicator, TACAN position symbol, course
+deviation indicator (CDI) and course arrow, and TACAN bearing pointer
+are all removed. The TACAN data block displays “OFF.” OFF is
+displayed above the TCN steer mode selection. Figures D-17 and D-18
+show normal and TACAN failed HSI displays.
+
+7
+TON 112X
+
+21 1s» S
+TON ILST GT ILSN NAV
+| J jf
+
+!
+
+Figure D - 17. HSI Display - TCN (Normal Indications).
+
+AVI-12 D - 28
+
+
+Text from AVI-12_Degraded_Avionics_Operations_page_35.jpeg:
+NO COURSE
+POINTER OR CDI
+
+NO TACAN
+BEARING POINTER
+
+NO TO/FROM
+INDICATOR
+
+NO TACAN
+POSITION SYMBOL
+
+TACAN STATUS ———~
+
+(BRG / RNG)
+(ETE)
+
+(elie)
+
+<
+5 is
+
+/ \ STR 14B
+
+11,8, \0\ 105 /12.0
+
+| 00:01:48 E
+
+ILST GT ILSN NAV
+
+gigi
+
+AVI-12-18
+
+Figure D - 18. HSI Display - TCN Invalid.
+
+AVI-12
+
+
+Text from AVI-12_Degraded_Avionics_Operations_page_36.jpeg:
+ILS Failure
+
+The cues for ILS not powered/data invalid generally follow the same
+pattern as those for TACAN data invalid. On the HUD the glide slope
+deviation scale/caret, the CDI and course arrow, and pitch/bank steering
+bars are removed. The ILSN/ILST data block remains valid as long as
+NAV/TCN range information is valid (depending on whether ILSN or
+ILST is selected).
+
+The cues for ILS not powered/data invalid on the ADI and HSI are shown
+in Figures D-19 and D-20.
+
+[OTOUOIGICI oo
+
+a ee ee ee = | LOCALIZER
+
+x L—. L+-T DATA INVALID
+GLIDE SLOPE
+
+DATA INVALID L_,
+
+(CARET PITCH AND / OR
+REMOVED) BANK STEERING
+
+BARS REMOVED
+
+(ONOIICE
+
+Figure D - 19. ADI - ILS Invalid.
+
+AVI-12 D - 30
+
+
+Text from AVI-12_Degraded_Avionics_Operations_page_37.jpeg:
+AUTO Vv RNG A
+SEQ 20
+
+CDI SCALE AND
+COURSE POINTER
+REMOVED SINCE
+ILS REFERENCE
+IS OFF
+
+INDICATES
+ILS OFF
+
+M
+
+AVI-12-20
+
+Figure D - 20. HSI - ILS Invalid.
+
+ADC/ADP Failure
+
+The primary indications of ADC/ADP failure are OFF displayed for
+vertical velocity, calibrated airspeed, and barometric altitude, and loss of
+AOA on the HUD/ADI. There is a warning light (unsafe gear indication)
+in the landing gear handle and a PITCH RATIO display caution. The
+standby VVI and AOA gauges display OFF flags. If airborne, the landing
+gear warning tone activates and can be silenced by the landing gear
+warning tone silence button adjacent to the landing gear handle. Due to
+the various system interfaces, information normally provided by the
+ADC/ADP (to the CC for instance) is lost and may cause navigation/attack
+steering to become unreliable. The ADC/ADP requires at least one main
+generator for power. There is an ADC/ADP circuit breaker in the rear
+cockpit. Other than that, the aircrew has no control over the ADC/ADP.
+
+D-31 AVI-12
+
+
+Text from AVI-12_Degraded_Avionics_Operations_page_38.jpeg:
+Standby Instruments
+
+VVI (both cockpits) - Displays an OFF flag if electrical power is lost or
+information is not valid (ADC/ADP failure).
+
+Standby ADI (both cockpits) - Displays an OFF flag if power is lost or the
+gyro is caged.
+
+AOA indicator (front cockpit only) - Displays an OFF flag if electrical
+power is lost, information is not valid (ADC/ADP failure), or if an internal
+failure occurs.
+
+HUD
+
+If you experience difficulties with the HUD, ensure it is turned on and
+that brightness/contrast controls are properly set. From a BIT display
+format, selecting MAINT, then DSPL allows the aircrew to perform a
+HUD BIT or select the backup (secondary) HUD graphics processor at
+PB #12 (Figure D-21). The P or S at PB #12 indicates which processor
+(primary or secondary) is selected. There are three HUD circuit breakers
+on CB panel No. 2 (left side, rear cockpit).
+
+BUILT-IN TEST BUILT-IN TEST
+
+Te
+
+if
+
+BIT MAINTENANCE SUBMENU COMPONENT SELECTION PAGE
+
+AVI-12-21
+
+O
+5
+:
+
+Figure D - 21. HUD Failure.
+
+AVI-12 D - 32
+
+
+Text from AVI-12_Degraded_Avionics_Operations_page_39.jpeg:
+QUESTIONS
+Which of the following is true with a double generator failure?
+
+The UHF 2, TACAN, and PACS are operative.
+Neither UHF 1 nor UHF 2 is operative.
+
+Both UHF 1 and UHF 2 are operative.
+
+UHF 2, TACAN, and PACS are inoperative.
+
+Boop
+
+After double generator failure, how may you regain operation of all
+lost avionics components?
+
+By bringing at least one main generator back on-line.
+By switching the main generators to OFF.
+
+By operation of the emergency generator.
+
+By placing the emergency generator switch to MAN.
+
+BaP oP
+
+What is a result of total failure of both AIUs?
+
+The HSI displays relative bearing.
+
+Rows 1 through 6 on the UFC blank.
+
+The HUD is inoperative.
+
+The ADI is automatically displayed on the FCP MPCD.
+
+no op
+
+Which of the following is true concerning double generator failure?
+
+a. The UFC is fully operational.
+
+b. An EADI will always be automatically displayed in both
+cockpits, with no pilot action required.
+
+c. TACAN/ILS steering can be selected from the EADI, since the
+HSI is not displayed.
+
+d. The UFC is degraded in the same manner as it is with CC
+failure.
+
+D - 33 AVI-12
+
+
+Text from AVI-12_Degraded_Avionics_Operations_page_4.jpeg:
+CRITERION REFERENCED OBJECTIVES (CROs)
+
+1. With the aid of TO 1F-15E-1CL-1, identify the aircraft avionic
+systems, display formats, and UFC formats which are affected by a
+central computer (CC) failure and appropriate corrective actions.
+
+2. With the aid of TO 1F-15E-1CL-1, identify the operative/inoperative
+avionic equipment, cockpit displays/data available, and systems
+adversely affected by a double generator failure and corrective
+actions.
+
+3. Identify the avionic systems affected by a MPDP failure and
+corrective actions.
+
+4. With the aid of TO 1F-15E-1CL-1, identify the aircraft avionics
+systems affected by AIU failures and corrective actions.
+
+5. Identify HUD, ADI, HSI, and standby instrument indications for
+invalid data and failure of the following:
+
+a. Displayed data
+b. TACAN
+ec. ILS
+d. ADC/ADP
+e. Graphics processor (HUD)
+REFERENCES
+TO 1F-15E-1 Section I Backup Mode (CC failed) Displays
+Avionics Interface Units (AIU)
+Air Data Computer (ADC)
+Air Data Processor (ADP)
+Section III Central Computer Failure
+
+Double Generator Failure
+
+Multipurpose Display Processor
+(MPDP) Failure
+
+Avionics Interface Unit Failure
+
+ADC Failure (ADP Failure)
+
+TO 1F-15E-1CL-1
+
+AVI-12 B-1
+
+
+Text from AVI-12_Degraded_Avionics_Operations_page_40.jpeg:
+5. Which of the following is true concerning complete MPDP failure?
+
+ao op
+
+The UFC is inoperative.
+
+The UFC is operative if the CC is operational.
+TACAN/ILS approaches can be flown.
+Steering to NAV points is not available.
+
+6. Which of the following is true concerning AIU failure?
+
+A “CAUTION” on a MPD/MPCD indicates AIU 2 failure.
+
+A single failure of either AIU will cause loss of all voice
+warnings/cautions.
+
+Performing an AIU BIT may clear an AIU problem.
+
+A single AIU failure can cause loss of all UHF radio capability.
+
+7. Which of the following is true concerning a complete MPDP and CC
+
+failure?
+
+a. Only the FCP MPCD is operational.
+b. The HUD continues to function.
+
+ec. The UFC will not be functional.
+
+d. Only UHF 1 remains operational.
+
+AVI-12
+
+
+Text from AVI-12_Degraded_Avionics_Operations_page_41.jpeg:
+ANSWERS
+
+D-35 AVI-12
+
+
+Text from AVI-12_Degraded_Avionics_Operations_page_42.jpeg:
+(This Page Intentionally Blank)
+
+AVI-12 D - 36
+
+
+Text from AVI-12_Degraded_Avionics_Operations_page_43.jpeg:
+END OF TEXT QUIZ
+Which of the following is true with double generator failure?
+
+The ADI, HSI, and HUD are inoperative.
+
+The HUD and all MPD/MPCDs are inoperative.
+The FCP MPCD ADL is the only operative display.
+Only the HSI and HUD are operative.
+
+po op
+
+With CC failure, the HSI display is not available. How is the steer
+mode selection affected?
+
+It is transferred to the ADI.
+
+It is transferred to only the HUD.
+It is transferred to the UFC.
+
+It is no longer available.
+
+Boop
+
+What TSD functions does the aircrew have available with a CC
+failure?
+
+Look ahead function
+Cursor control functions
+Map scales and INS update
+Sequence points
+
+Boop
+
+What displays are available in at least one cockpit with CC failure?
+
+ARMT, BIT, TEWS, TFR, and radar formats
+TEWS, radar, ADI, TFR, and TSD formats
+TEWS, radar, HSI, and ADI formats
+
+TSD, radar, HSI, and PACS formats
+
+Boop
+
+E-1 AVI-12
+
+
+Text from AVI-12_Degraded_Avionics_Operations_page_44.jpeg:
+5. How is the UFC affected by a complete MPDP failure (CC operative)?
+
+All UFC functions are lost.
+
+Only Data 1 and Data 2 are available.
+All UFC functions are available.
+
+Only the UHF submenus are functional.
+
+ao op
+
+6. When the MPDP becomes primary system controller (CC failed),
+what is the status of CC data?
+
+It is available only on UFC Data 1.
+It is available on all UFC formats.
+It is not available.
+
+It is available only on UFC Menu 1.
+
+Re op
+
+7. “CAUTION” written as a display caution, indicates loss of which
+
+system?
+
+a. AIU1
+
+b. AIU2
+
+c. Both AIU 1 and AIU 2
+
+d. The equipment supported redundantly by the AIUs
+
+8. If TACAN data is invalid (and TACAN is the HSI-selected steer
+mode), which of the following is true concerning HUD information?
+
+The pitch and bank steering bars display “OFF.”
+The CDI and course arrow display “OFF.”
+
+The CDI and course arrow are removed.
+
+The TACAN data block is removed.
+
+ao op
+
+AVI-12 E-2
+
+
+Text from AVI-12_Degraded_Avionics_Operations_page_45.jpeg:
+GLOSSARY
+
+A/G Air-to-ground
+
+A/A Air-to-air
+
+AAI Air-to-air interrogator
+
+ADC Air data computer
+
+ADF Automatic direction finding
+
+ADI Attitude director indicator
+
+ADP Air data processor
+
+AHRS Attitude heading reference system
+AIU Avionics interface unit
+
+AOA Angle of attack
+
+AUTO Automatic
+
+AV Avionics
+
+BIT Built-in test
+
+CB Circuit breaker
+
+CC Central computer
+
+CDI Course deviation indicator
+
+CMD Command
+
+DTM Data transfer module
+
+EADI Electronic attitude director indicator
+ECS Environmental control system
+
+EGI Embedded GPS/INS
+
+F-1 AVI-12
+
+
+Text from AVI-12_Degraded_Avionics_Operations_page_46.jpeg:
+EID
+
+EMER
+
+FCP
+
+FF
+
+GCWS
+
+GS
+
+GPS
+
+HOTAS
+
+HRM
+
+HSI
+
+HUD
+
+IFF
+
+ILS
+
+ILSN
+
+ILST
+
+INS
+
+INST
+
+IR
+
+LHC
+
+MAN
+
+MC
+
+AVI-12
+
+Enhanced Identification
+Emergency
+
+Front cockpit
+
+Free fall
+
+Ground collision warning system
+Ground speed
+
+Global positioning system
+Hands on throttle and stick
+High resolution map
+
+Horizontal situation indicator
+Head-up display
+
+Identification friend or foe
+Instrument landing system
+Instrument landing system navigation combination
+
+Instrument landing system tactical air navigation
+combination
+
+Inertial navigation system
+Instrument
+
+Infrared
+
+Left hand controller
+Manual
+
+Mission cartridge
+
+
+Text from AVI-12_Degraded_Avionics_Operations_page_47.jpeg:
+MN
+MPCD
+MPD
+MPDP
+NAV
+
+OWS
+
+PACS
+PB
+PP
+P/S
+RALT
+RBM
+RCP
+RET
+RHC
+RMR
+
+RWS
+
+STT
+
+TACAN
+
+Mission navigator
+Multipurpose color display
+Multipurpose display
+Multipurpose display processor
+Navigation
+
+Overload warning system
+Primary
+
+Programmable armament control set
+Pushbutton
+
+Present position
+
+Power supply
+
+Radar altimeter
+
+Real beam map
+
+Rear cockpit
+
+Reticle; retard (delivery mode)
+Right hand controller
+
+Remote map reader
+
+Range while search
+
+Secondary
+
+Single target track
+
+Tactical air navigation
+
+F-3 AVI-12
+
+
+Text from AVI-12_Degraded_Avionics_Operations_page_48.jpeg:
+TAS
+
+TCN
+
+TEWS
+
+TF
+
+TGT
+
+TSD
+
+UFC
+
+UHF
+
+VTRS
+
+AVI-12
+
+True airspeed; calibrated airspeed corrected for temperature
+and pressure
+
+Tactical air navigation
+
+Tactical electronic warfare system
+Terrain following
+
+Target
+
+Tactical situation display
+
+Track while scan
+
+Upfront control
+
+Ultra high frequency
+
+Video tape recorder system
+
+Vertical velocity indicator
+
+
+Text from AVI-12_Degraded_Avionics_Operations_page_49.jpeg:
+(This Page Intentionally Blank)
+
+F-5 AVI-12
+
+
+Text from AVI-12_Degraded_Avionics_Operations_page_5.jpeg:
+STUDENT PREPARATION REQUIREMENTS
+
+BEFORE CLASS
+
+1. Study the information contained in this workbook and complete the
+End of Text Quiz.
+
+2. Read the references in Sections I and III of TO 1F-15E-1 and
+applicable information in the Dash 1 checklist.
+
+C-1 AVI-12
+
+
+Text from AVI-12_Degraded_Avionics_Operations_page_50.jpeg:
+BACK PAGE
+COVER SHEET
+
+
+Text from AVI-12_Degraded_Avionics_Operations_page_6.jpeg:
+(This Page Intentionally Blank)
+
+AVI-12 C-2
+
+
+Text from AVI-12_Degraded_Avionics_Operations_page_7.jpeg:
+TEXT
+INTRODUCTION
+
+The F-15E aircraft avionics system is designed to operate as an integrated
+unit with the CC as the system controller. The MPDP and AIUs provide
+an interface between the CC and the system display and control functions,
+respectively (Figure D-1).
+
+VIDEO
+
+(MPDs /
+
+MPCDs / HUD) FLIGHT CONTROL
+AFCS / TF / AOA
+
+ENGINE CONTROL
+EDU / AIC / SENSORS
+
+CENTRAL
+COMPUTER
+(BIT / OWS)
+
+NAVIGATION
+INS (GPS)
+
+|
+
+FLIGHT
+
+ANALYSIS
+
+TEWS | ‘Mc/DTM
+VTRS
+
+AlUs
+(CAUTIONS SYSTEM)
+
+AHRS (EGI)
+ADF
+ILS
+
+COCKPIT AVIONICS
+CONTROLS
+
+(SWITCHES / PBs) AVI-12-01
+
+Figure D - 1. Components.
+
+When the CC fails, the MPDP becomes the system controller and provides
+degraded operation of selected system components and displays to provide
+a self-defense and return to base capability.
+
+This lesson covers how failures affect those systems whose degrades/
+failures have not been previously presented. Since normal operation for
+these systems has been covered, we will discuss only the avionics system
+malfunction indications, modified capability, and corrective actions.
+
+A chart showing system/component status relative to various avionics
+failures is found in Table D-1. You may find it helpful to refer to it as you
+read the text in order to understand the “big picture” for each avionics
+failure.
+
+D-1 AVI-12
+
+
+Text from AVI-12_Degraded_Avionics_Operations_page_8.jpeg:
+AVIONIC COMP SYSTEM FAILURE
+
+= DUAL GEN MPDP AIU 1 AIU 2
+
+rsecn | orm | om [om | om | om
+Farms oxtsoens | omm | wor [orn | orm [ome |
+Trace ome | wor [xo | wor [ome |
+fas ome | wor [| two [ome |
+a ee ee
+faa oe | wor [x omm | nor |
+[aot oe | ore [>| orm | ome |
+few one |e | >| orm | ome |
+fecome [xp | [x ome [ome |
+[nso one || >| orm | ome |
+Tancacr | omm | wor [orn | oom | anor |
+fuxommcy | omm | ore [orn | anor | omn |
+Faroe | pee | ore [wo | orm | omn |
+Tracs | oe | wor | xo | orm | ome |
+Fasten | omm | ore [orn | orm [ome |
+Tracsemenaser | omm | orn [orn | orm [ome |
+fms) wor | wor [>| omm [ome |
+[cP wor [orn | orm | ome |
+fener | oes | ome | ome |
+fms [nee | wor [wo | orm | omn
+Fanon) | onm | wor | orn | orm | omn |
+
+OPR = OPERATIVE; INOP = INOPERATIVE
+ND = NO DISPLAY; DEG = DEGRADED OPERATION
+
+Table D - 1. System Failure Summary.
+AVI-12 D-2
+
+
+Text from AVI-12_Degraded_Avionics_Operations_page_9.jpeg:
+CC FAILURE
+
+Total CC failure is usually obvious; however, some malfunctions and
+partial failures may be insidious. Since most system data is used for more
+than one function, other systems and equipment should be checked
+anytime a CC malfunction is suspected. Only total CC failure is
+addressed in this workbook.
+
+Failure Indications
+
+MPDs/MPCDs
+
+The most obvious indicator of total CC failure is presented on the
+MPDs/MPCDs. When total CC failure occurs, the MPDP becomes the
+avionics system controller and defaults the MPDs/MPCDs to a set display
+format. You may find it helpful to think of this as a “CC failure master
+mode.” These initial displays are the underlined formats in Figure D-2.
+Following the initial default, the displays can be scrolled through the
+other available display formats.
+
+LEGEND
+—_ INITIALIZATION FORMAT
+
+* INITIALIZED TO A/A RADAR
+
+WITH A/G RADAR
+SELECTABLE FROM THE
+RADAR DISPLAY.
+FCP
+AVI-12-02
+
+Figure D - 2. MPD/MPCD Displays - CC Failure.
+
+D-3 AVI-12
+
+

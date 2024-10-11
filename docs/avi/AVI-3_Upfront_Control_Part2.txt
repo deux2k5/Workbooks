@@ -1,0 +1,854 @@
+Text from AVI-3_Upfront_Control_Part2_page_1.jpeg:
+AAI and UFC Menu 1
+
+With no interrogation in progress, the modes selected on both the AAI and
+EID submenus are displayed on UFC Menu 1 at PB #8 (Figure D-44).
+
+a|LAU 12882" STR i9R
+Vd N u
+
+Aie7E34] EL
+
+[TF NORM N-F NORM | EL
+
+Ueeb.ieS U2ees. 188G%
+
+: s SOOO
+OFRASS@
+eocesste
+
+MENU 1
+
+AVI-03-44
+
+Figure D - 44. UFC Menu 1.
+
+Entry of a mode (1, 2, 3 or 4) selects or deselects the mode with the
+existing code. Entry of mode and code (i.e. 1-11 or 4A) selects or deselects
+the mode and sets the input code. Entry of the mode or mode/code with an
+N or C selects the mode or mode/code and also selects Normal or Correct
+code for that mode. Although “N” or “C” can be entered (and displayed) for
+Mode 4, Mode 4 always interrogates correct code (A, B or AB).
+
+AVI-3 D - 62
+
+
+Text from AVI-3_Upfront_Control_Part2_page_10.jpeg:
+Use Figure D-51 to answer questions 4 and 5.
+
+LAU 1288s" STR i9A
+
+RIP NAY
+
+TIFF ie3C4 AZ/E CFF
+
+(TF NORM N-F NORM
+
+| Ueeb.teS Uees .i28G% | Lr)
+
+*e
+
+18
+@ 5
+
+AVI-03-51
+
+Figure D - 51.
+
+D-71 AVL-3
+
+
+Text from AVI-3_Upfront_Control_Part2_page_11.jpeg:
+4. Ifyou press the MENU key in Figure D-51, which of the following
+will be displayed on the UFC?
+
+[PH- -IFF- Mm i-4eN -ARI-
+
+a 1-88 WC | M e- 1234C BARS 2
+
+[>t 2 PROGRAM
+
+wM 3-432 1C EID
+
+Mm 4YRBN RUTO IB-EID
+Ueeb.1e5 U2e8. eb%
+
+*e 18
+
+[>t 3° 1234 RAI SLY ]
+
+[ Ueeb.1e5 U2ee8. Web%
+
+[ee 18
+
+[uve OFF
+
+GCUS OFF UPDT MENU |
+ILS 189.78 BE STR
+
+[PP-INS GPS INP |
+
+PH- 18 elPre 81:12:51
+
+wM 1-42 me
+
+aM 2 PROGRAMK
+
+Mm 3-34e1 RAI SLY
+Ueeb.1e5 U228. Web%
+
+*e 18
+
+[ Ueeb. 125 U2ee. eb%
+
+[xe 12
+
+AVI-03-52
+
+Figure D - 52.
+
+5. Which keys and buttons would you press to change the IFF code of
+Mode 8 to 4321?
+
+AVI-3 D - 72
+
+
+Text from AVI-3_Upfront_Control_Part2_page_12.jpeg:
+ANSWERS
+a
+Modes 1, 2 and 3
+Modes 1 and 2 (AAT)/Modes 3 and 4 (EID)
+c (Menu 2)
+Can be done two ways:
+Press 3, SHF, -, 4, 3, 2 and 1, verify in the scratchpad, and then press
+the IFF button (on Menu 1); (Figure D-51)
+or
+Press PB #3 on Menu 1 (Figure D-51) to call up the IFF submenu
+
+(Figure D-52A). Then press the 4, 3, 2 and 1 keys. Verify the entry
+in the scratchpad, and then press the Mode 3 button (PB #4).
+
+D- 73 AVI-3
+
+
+Text from AVI-3_Upfront_Control_Part2_page_13.jpeg:
+OTHER OPERATIONS
+LAWS
+
+The LAWS is designed to warn you of descent below a predetermined
+altitude above ground level (AGL). It uses the radar altimeter for altitude
+measurement.
+
+Control and display for the LAWS is provided on the UFC, Menu 1, PB #1
+(Figure D-53). The system is alternately enabled (to the last selected
+value) and disenabled by pressing PB #1 with an empty scratchpad.
+Enabled status is indicated by the selected altitude replacing OFF at PB
+#1.
+
+LAWS STATUS
+AND READOUT
+
+ae
+
+AVI-03-53
+
+Figure D - 58. LAWS Readout.
+
+To change the altitude, type the new number into the scratchpad, and
+then press PB #1. The new altitude replaces the old one and the
+scratchpad blanks. If the LAWS is not enabled (“OFF”), entering the
+scratchpad value enables the LAWS.
+
+AVI-3 D-74
+
+
+Text from AVI-3_Upfront_Control_Part2_page_14.jpeg:
+Warning Indications
+
+In flight, if the actual aircraft AGL altitude goes below the LAWS
+altitude, the LOW ALT warning lights and voice warning are activated.
+The LAWS warnings are independent of the TF system. If the LAWS is
+enabled on the ground, the LAWS does not provide the visual or aural
+warnings until the aircraft climbs above the LAWS value and then
+descends back down through the LAWS altitude. The LAWS warnings
+also activate if the LAWS is enabled and the radar altimeter fails or if it
+breaks track with aircraft parameters below 5000 feet (AGL), <60° roll
+and <60° pitch.
+
+The LAWS warnings (lights and voice) terminate if:
+e The aircraft climbs at least 20 feet above the LAWS altitude.
+e The LAWS function is turned off via the UFC.
+
+e The LAWS altitude is changed to a value below the present aircraft
+AGL altitude.
+
+D-75 AVI-3
+
+
+Text from AVI-3_Upfront_Control_Part2_page_15.jpeg:
+Ground Collision Warning System (GCWS)
+
+The central computer (CC) utilizes aircraft inputs to provide visual and
+aural warnings of a controlled flight into terrain (CFIT). It is a passive
+system in that it provides no automatic recovery. Not all impending
+CFITs produce a GCWS warning.
+
+The CC uses inputs from the INS, ADC, FCC, ATUs, radar altimeter and
+PACS to compute the altitude (AGL) to initiate the warnings. If OWOFF
+or INVARM (stores identified on the PACS does not match aircraft-sensed
+stores aboard) is displayed on the HUD, the GCWS is inoperative.
+
+GCWS modes are aircrew selectable through UFC Menu 2 (Figure D-54).
+
+(ve OFF ADV
+
+GCUS ON
+
+ILS 183.78
+
+PP-INS GPS INV
+
+| Ueeb.125 U2ee. Waox
+
+CG)
+HIE)
+JOO
+o[**] 1]
+
+(GCWS ON)
+
+AVI-03-54
+
+Figure D - 54. GCWS On.
+
+AVI-3 D-76
+
+
+Text from AVI-3_Upfront_Control_Part2_page_16.jpeg:
+GCWS/UFC
+
+Cycling UFC Menu 2 PB #2 cycles the GCWS as follows:
+
+GCWS ON
+
+GCWS AUTO
+
+GCWS ADV
+
+GCWS OFF
+
+Warnings are enabled (defaults to ON at aircraft
+power up).
+
+Warnings are enabled, but only between 400 feet
+and 5000 feet AGL and only if INST master mode is
+not selected. In a high speed steep dive the
+warnings may occur too late to prevent ground
+impact or an aircraft over-G.
+
+Warnings are disabled. An OFF advisory is
+provided above baro altitude on the HUD between
+400-5000 feet AGL, if not in INST master mode.
+
+Warnings are disabled, but there is no HUD
+advisory that the GCWS is off.
+
+D-77 AVI-3
+
+
+Text from AVI-3_Upfront_Control_Part2_page_17.jpeg:
+GCWS Warnings
+
+When an impending CFIT is detected, a “pull up” voice warning is
+provided (a maximum of four times (“PULL UP, PULL UP, PULL UP,
+PULL UP”) and a large arrow is displayed on all MPDs/MPCDs and the
+HUD (Figure D-55). The arrow indicates the up direction for recovery.
+The aircrew should roll toward the arrow and pull to the OWS tone for
+recovery.
+
+NAV 1A
+
+N 26
+00:00:24
+
+HUD WITH GCWS PULL-UP WARNING
+
+AVI-03-55
+
+Figure D - 55. HUD with GCWS Pull Up Warning.
+
+GCWS warnings are inhibited under certain conditions, some of which
+follow:
+
+e Landing gear handle down and < 1500 AGL.
+
+e On takeoff until gear handle is raised and > 115 AGL.
+e Radar altitude > 36,000 feet.
+
+e Dive recovery in progress.
+
+e Airspeed < 150 KCAS.
+
+AVI-3 D- 78
+
+
+Text from AVI-3_Upfront_Control_Part2_page_18.jpeg:
+Setting the Time of Day (Prior to GPS)
+
+Time is entered through the Data 1 display (Figure D-56).
+
+@33°/28.5
+
+ETE OFF Rg
+
+TIME 18:89:45
+
+WIND OFF ]L,
+
+J) Ueeb.ieS Uees. 1886%
+
+3 BORE
+D: Boone
+Acicin SE A.
+
+DATA 1
+
+AVI-03-56
+
+Figure D - 56.
+
+Enter the time via the keyboard. For the time 0730, type 0, 7, 3, in the
+scratchpad, and press PB #8. Colons and trailing zeros do not have to be
+used; leading zeros are required.
+
+The CC clock time is used for command speeds to achieve TOTs, IFF
+phasing and ETAs. The CC battery keeps the time running with electrical
+power removed from the aircraft. The CC time reads OFF at aircraft
+start. Anytime power is interrupted to the CC, TIME OFF is displayed at
+PB #8. Assuming a good CC battery, simply pressing PB #8 redisplays the
+current time. Command speeds, IFF phasing and ETAs are only as
+accurate as the CC clock time. Command speed, IFF phasing and ETA
+computations will not be provided with CC clock time OFF.
+
+Setting the Time of Day (after GPS)
+
+With GPS, the aircrew can choose among totally GPS time, totally CC
+clock time or a partial CC clock time that is completed by GPS. Total GPS
+time is always ZULU; the aircrew can choose to use local hours with the
+minutes/seconds filled in with GPS sourced time. With weight-on-wheels,
+power up will initialize the clock to GPS time, if GPS time is valid. If GPS
+time is invalid, the clock will initialize to CC clock time. If GPS time
+
+D-79 AVI-3
+
+
+Text from AVI-3_Upfront_Control_Part2_page_19.jpeg:
+becomes valid, after power up, with weight-on-wheels and the aircrew has
+not made a time input, the time will reset to GPS time.
+
+The aircrew can use PB #8 to make partial time entries that will be
+completed with GPS time (if GPS time is valid). The aircrew can also use
+a complete time entry (hours, minutes, seconds), so that GPS time is
+totally excluded. Lastly, by pressing PB #8 with a blank scratchpad, the
+aircrew can reselect total GPS time (if valid) over CC time. Table D-2
+summarizes the aircraft time of day mechanization.
+
+GPS Time of Day Mechanization
+
+PB #8 Scratchpad | GPS Time Result of Pressing PB #8
+Display Entry Valid
+. .
+
+F
+F
+
+Yes Value displayed when PB #8
+pressed will be GPS time
+None No Value displayed when PB #8
+pressed will be CC clock time
+Time None Yes TIME RESET displayed for 700
+msec, followed by GPS time
+Time None TIME INV displayed for 700
+msec, followed by return to
+previous time
+Time or Partial Time | Yes Time entry completed with GPS
+OFF time
+Time or Partial Time | No Time entry completed with
+OFF current CC time
+
+Time or Complete Don’t Care Time entry input as CC time
+OFF Time
+
+Table D - 2. Time of Day Mechanization.
+
+AVI-3 D - 80
+
+
+Text from AVI-3_Upfront_Control_Part2_page_2.jpeg:
+If an interrogation is in progress, UFC Menu 1 shows which mode/code is
+currently being interrogated and whether the interrogation in Normal (N)
+or correct code (C) (Figure D-45). The mode currently being interrogated
+(i.e. AAT 3N, EID 4AN etc) is also displayed on the A/A radar during an
+interrogation. Again, although N or C can be assigned and displayed for
+Mode 4, the interrogation is always correct code.
+
+CYCLES THROUGH MODES AS INTERROGATIONS
+PERFORMED (SIMILAR INFORMATION ALSO
+
+a LAU 1888" STR 16.1C PROVIDED ON A/A RADAR DISPLAY)
+y C) TON 112X RIP GTITF 5
+
+RAIL e-77770
+
+POSSIBLE INDICATIONS:
+
+AAI 1-##C EID 1-##C
+AAI 1-###N EID 1-###N
+AAI 2-4#HHIC EID 2-4#HHIC
+AAI 2-4#HHIN EID 24##HIN
+AAI 3-4#HHIC EID 3-4##HIC
+AAI 3-#HHIN EID 3-4H#IN
+
+Rte OR3 6) AAI 4AN EID 4AN
+fi] Ss AAI 4BC EID 4BC
+© & AAI 4BN EID 4BN
+au AAI 4ABC EID 4ABC
+= AAI 4ABN EID 4ABN
+ene ve] ®
+
+UFC MENU 1 - INTERROGATION IN PROGRESS
+
+AVI-03-45
+
+Figure D - 45. Menu 1-Interrogation in Progress.
+
+D - 63 AVI-3
+
+
+Text from AVI-3_Upfront_Control_Part2_page_20.jpeg:
+Table D-3 illustrates how aircrew entry of partial time is handled.
+
+Partial Time Entry*
+
+Input to PB #8 on Results when GPS Results when GPS
+UFC Data 1 Time is Valid a is Invalid
+One digit entry X0:GG:GG XOTTTT TT:TT
+
+Two digit entry XX:GG:GG XX:TT:TT
+
+*G=GPS Time;
+T=Existing CC Time
+
+Table D - 3. Partial Time Entry.
+
+D-81 AVL-3
+
+
+Text from AVI-3_Upfront_Control_Part2_page_21.jpeg:
+QUESTIONS
+
+1. An indication that LAWS is enabled is
+
+2. The LAWS warning system will function with the TF turned off.
+
+a. True
+b. False
+
+3. When you initially apply electrical power to the aircraft, the aircraft
+clock will display the correct time.
+
+a. True
+b. False
+
+4. While airborne, if you enter a LAWS altitude value that is above the
+current aircraft radar altitude, you will receive an immediate “Low
+Altitude” warning.
+
+a. True
+b. False
+
+5. Which GCWS option provides CFIT warning (even at steep dive
+angles and high airspeed) at sufficient altitude to avoid ground
+impact and without aircraft over-G.
+
+AUTO
+
+ADV
+
+ON
+
+OFF, but with LAWS activated.
+
+pe op
+
+AVI-3 D - 82
+
+
+Text from AVI-3_Upfront_Control_Part2_page_22.jpeg:
+ANSWERS
+an altitude (versus off) displayed at PB #1 on Menu 1.
+a
+
+b (“TIME OFF” will be displayed until a time is entered or DATA 1
+PB #8 is pressed with a blank scratchpad.)
+
+a
+
+D - 83 AVI-3
+
+
+Text from AVI-3_Upfront_Control_Part2_page_23.jpeg:
+(This Page Intentionally Blank)
+
+AVI-3 D - 84
+
+
+Text from AVI-3_Upfront_Control_Part2_page_24.jpeg:
+ADF
+
+AGL
+
+AJ
+
+BIT
+
+CFIT
+
+EGI
+
+EID
+
+GCWS
+
+GPS
+
+HSI
+
+ICSCP
+
+IFF
+
+ILS
+
+INS
+
+LCD
+
+PB
+
+PP
+
+RHC
+
+RICP
+
+GLOSSARY
+Air-to-air identification
+Automatic direction finding
+Above ground level
+Anti-jam
+Built-in test
+Controlled flight into terrain
+Embedded GPS/INS
+Enhanced identification
+Ground collision warning system
+Global positioning system
+Horizontal situation indicator
+Intercommunication set control panel
+Identification Friend or Foe
+Instrument landing system
+Inertial navigation system
+Liquid crystal display
+Push buttons
+Present position
+Right hand control
+
+Remote intercommunication control panel
+
+F-1 AVI-3
+
+
+Text from AVI-3_Upfront_Control_Part2_page_25.jpeg:
+ROE
+
+TACAN
+
+UFC
+
+AVI-3
+
+Rules of engagement
+Tactical air navigation
+
+Upfront control
+
+
+Text from AVI-3_Upfront_Control_Part2_page_3.jpeg:
+AAI Submenu
+
+The AAI submenu is accessed from UFC Menu 1, PB #8 (Figure D-46,
+left). On the AAI submenu (Figure D-46, right), Modes 1 through 3 can be
+activated and their respective codes can be entered in exactly the same
+manner as the IFF. As with the IFF submenu, the asterisks indicate
+which modes are selected for interrogation. The “N” or “C” following each
+mode identifies which master mode is selected for each mode. The “N” or
+“C” can be changed from either Menu 1 or the AAI submenu utilizing the
+scratchpad. The “N” or “C” can be entered separately (AAI submenu) or in
+conjunction with a mode or mode/code change (from Menu 1), or in
+conjunction with a code change from the AAI submenu. The “N” indicates
+that correct mode replies will be shown on the radar. The “C” indicates
+that only replies with the correct code will be shown on the radar for that
+mode.
+
+LAY 12808" STR 193A |e hei 1-42N -ARI-
+
+TON 1 12X AIP NAV Heie- 1234C
+
+TIFF 123C4 RTaTES4 | —it3-432 1C
+
+F NORM N-F NORM ] Ly a (i4ABC AUTO ID-OFF | LL
+Le
+Ue26.125 Ue28. 1886% Ueesb.125 Uees. 806%
+
+AVI-03-46
+
+Figure D - 46.
+
+The only options for Mode 4 are A, B or AB (both). The A/B are the Mode
+4 codes and their “identity” is entered by maintenance personnel (exterior
+to the cockpit). These identities define A and B for both IFF and for AAI
+purposes.
+
+AVI-3 D - 64
+
+
+Text from AVI-3_Upfront_Control_Part2_page_4.jpeg:
+AUTO-ID (PB #7):
+
+EID (PB #8):
+
+BARS (PB #9):
+
+Toggling PB #7 will show:
+
+e OFF - Auto ID feature is off
+
+e STT - Auto ID feature active (for STT)
+e PDT - Auto ID feature active (for PDT)
+
+Additionally the legend will read AUTO ID-EID if
+the AUTO feature is selected on the EID submenu.
+STT, PDT, will be discussed again in later lessons.
+For now, in simple terms, with AUTO ID, STT or
+PDT selected, the system will automatically start
+an AAT interrogation sequence cycling through all
+modes selected on the AAI (or EID) submenu, when
+the radar enters track on a target and that target
+does not already have an AAI-ID associated with it
+(from a previous interrogation). The sequence
+commanded via the auto ID feature is the same as
+would result from a manual interrogation (via
+
+HOTAS).
+Pressing selects the EID submenu (discussed later).
+Alternately 2 or 4. Determines the duration of the
+
+interrogation (how many radar sweeps for each
+selected AAI mode).
+
+D - 65 AVI-3
+
+
+Text from AVI-3_Upfront_Control_Part2_page_5.jpeg:
+HOTAS
+
+Activate an AAI interrogation sequence (defined by the asterisked modes
+on the UFC) with pilot coolie switch outboard for greater than 1 second or
+RCP right hand control (RHC) AAI switch forward for greater than 1
+second. The switch action locks in the sequence for the selected modes,
+each for the selected number of bars. Either crew member can stop their
+own initiated sequence with a second switch activation for greater than 1
+second. The pilot cannot stop a RCP initiated sequence, or vice versa.
+
+Interrogation
+
+The legend in the lower left corner (Figure D-47) of the A/A radar cycles
+through each selected mode/master mode (AAI 1N, AAT 2C, AAT 3N, etc.)
+as each is interrogated. Diamonds (Modes 1, 2 and 3 reply or low
+confidence Mode 4 reply) or circles (high confidence Mode 4 reply) are
+displayed at the correct azimuth and range on the radar. At PB #8
+(AAT/EID) on the UFC Menu 1, the modes, codes and master modes (C or
+N) will cycle through as they are interrogated. Once the interrogation is
+complete both the radar and UFC Menu 1 return to normal format.
+
+oow~ c0oornmn
+
+AVI-03-47
+
+Figure D - 47. A/A Radar During AAI Interrogation.
+
+AVI-3 D - 66
+
+
+Text from AVI-3_Upfront_Control_Part2_page_6.jpeg:
+EID Submenu
+
+The EID submenu is accessed from the AAI submenu (Figure D-48). The
+only exits from the EID submenu are with the MENU/DATA keys to
+Menu 1/Data 1 or to the UHF submenus.
+
+i 1-42N -EIB- Fr)
+
+TAU 12888" STR ISA
+jor ex AIP HAY) TIex ATP NAD) Ly
+OnE a4 Aieles4
+——
+CAF are R-F NORM) L
+
+| Yeeb.12eS Uees. 1WeG* | Ly
+
+ee 18
+
+ie-1234C BARS 4 IFO
+
+eM 3-432 1N "Xe -_)
+—=
+eM ABN AUTO ID-PDT -(_}
+
+U28S 8886 use eaox ){
+
+AVI-03-48
+
+Figure D - 48. EID Submenu.
+
+The EID submenu allows AAI selections totally independent of the AAI
+submenu. It is mechanized almost exactly like the AAI submenu, except
+changes to the EID selections cannot be implemented from UFC Menu 1.
+The legends on UFC Menu 1 showing selected modes and showing the
+progress of an interrogation, as well as the A/A radar cues showing the
+progress/results of an interrogation are the same as for AAI, except
+information is prefaced by “EID” vice “AAI.” The HOTAS switchology is
+the same, except the FCP coolie is moved inboard (vice outboard for AAT)
+and the RCP interrogate switch is moved aft (vice forward for AAI). The
+significance of PB #8 (“MX 2”) will be addressed at a later time.
+
+D - 67 AVI-3
+
+
+Text from AVI-3_Upfront_Control_Part2_page_7.jpeg:
+Obviously, the capability to program two separate interrogation sequences
+on the AAI/EID submenus provides a great deal of flexibility. The
+optimum way to use the capability is totally situation dependent. Another
+lesson, in the A/A radar block of instruction, will further address AAI/EID.
+For now, consider the following examples.
+
+AVI-3
+
+You are flying night trail formation beyond visual range of your
+leader. You have programmed the AAI submenu to interrogate
+your leader’s discrete Mode 1 code (M1-11C) and the EID submenu
+to interrogate for VFR traffic (M3-1200C).
+
+You are flying a combat mission escorting a strike package. You
+have programmed the AAI submenu to interrogate the strike
+package’s discrete mode (M2-7777C) and the EID submenu to fulfill
+the ROE to discriminate enemy aircraft—absence of Mode 4A and
+absence of Mode 1 (M4A and M1-11N).
+
+You are flying a low level training mission, and for see-and-avoid
+you want to interrogate for both VFR civilian traffic (M3-1200) and
+VFR military special use airspace traffic (M3-4000). You program
+M8-1200C on the AAI submenu and M38-4000C on the AAT
+submenu. You use correct code because you do not want to see
+replies from IFR traffic squawking Mode 3.
+
+
+Text from AVI-3_Upfront_Control_Part2_page_8.jpeg:
+QUESTIONS
+
+Use Figures D-49 and D-50 to answer questions 1-3.
+
+STR i9A
+
+LAU 1288s"
+
+RIP NAY
+
+1ieX
+
+TON
+
+AleTes4 Ly
+
+k
+N-F NORM] L,
+
+Uees. 1886%
+
+U2eeb.ie5
+
+18
+
+*e
+
+°. FOUOUE.:.°
+©BHBOS
+DO
+
+MENU 1
+AVI-03-49
+
+(2)
+=
+
+Figure D - 49. AAI Operation.
+
+AVI-3
+
+
+Text from AVI-3_Upfront_Control_Part2_page_9.jpeg:
+1. Ifyou press the IFF button in Figure D-49, which of the following
+UFC displays will result?
+
+(i T4eN
+
+[i 2-1e234C BARS 2 ]
+
+Gu 3-432 1C EID |
+
+(it 4YABN RUTO ID-EID ]
+
+Ueeb.12e5 Ue2e8. Web%
+
+[xe 18
+
+( U226.125 u228.1886x |
+
+*e 18
+
+(Corr [PH-1@ 0 -IFF- Bh eS1]
+
+*e 18
+
+wM 1-42 me
+
+aM 2 PROGRAMNK
+
+Mm 3-342 1 RAI SLY
+( J
+
+[ Ueeb 125 U22e8. eb% ]
+
+[#e |
+
+AVI-03-50
+
+Figure D - 50.
+
+2. What IFF mode(s) has/have been selected?
+
+3. What AAI/EID mode(s) has/have been selected?
+
+AVI-3 D - 70
+
+

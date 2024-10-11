@@ -1,0 +1,2736 @@
+Text from OPS-4_Formation_Procedures_page_1.jpeg:
+SUPPORTS COURSES
+FIS5EBQ
+FISETX
+
+ACADEMIC STUDENT WORKBOOK
+F-15E
+
+OPERATIONS
+OPS-4
+FORMATION PROCEDURES
+
+NOVEMBER 1998
+
+(OFP N/A)
+
+AIR COMBAT COMMAND
+
+
+Text from OPS-4_Formation_Procedures_page_10.jpeg:
+The automatic pitch trim feature and the relative stability of the F-15E
+significantly reduce the problem of maintaining proper position. Proper
+position can be maintained with relatively small throttle and control stick
+adjustments.
+
+The large wingspan, combined with a wing well aft of the cockpit, requires
+the fingertip formation position to be flown well forward of the leader’s
+wing line. The above references are established to provide wingtip
+clearance and enable you to maintain a stable position. Since the fan lags
+the core engine response, every throttle movement is followed by an
+additional delayed thrust change. Anticipate this delayed thrust response
+when making changes. Additionally, due to the nature of stick force
+sensor, a “white knuckle” grip on the stick tends to cause jerky flight
+control inputs. Use a relaxed grip.
+
+Common Errors
+
+@ Overcontrolling power.
+
+Flying too close.
+
+Overcontrolling roll and/or pitch.
+
+Focusing on one reference, and not using all references to crosscheck
+for good position.
+
+Weather Position
+
+Weather formation in the F-15E may require some adjustment in your
+formation procedures. There are some considerations that are
+particularly noteworthy. The flight control system produces excellent
+handling qualities that enhance formation flying. When flying fingertip
+formation in turbulent conditions, do not attempt to rapidly counteract
+every gust with control inputs. Remember, your leader is flying in the
+same patch of air and both your aircraft and his react in a similar manner
+to rough air.
+
+When flying formation in the weather, a little more of the lead or
+reference aircraft is needed by the wingman. This position produces
+significant wingtip overlap; therefore, if you lose sight, immediately
+execute the applicable lost wingman procedure.
+
+OPS-4 D-4
+
+
+Text from OPS-4_Formation_Procedures_page_11.jpeg:
+Weather visual references (Figure D-4):
+
+@ Line up wingtip position light with the bottom of the upper UHF
+antenna.
+
+@ Line up trailing edges of the vertical stabilizers.
+
+@ This position is slightly lower and aft of the normal fingertip position.
+
+PLAN VIEW SIDE VIEW
+
+OPS-04-04
+
+Figure D - 4. Weather Position.
+
+D-5 OPS-4
+
+
+Text from OPS-4_Formation_Procedures_page_12.jpeg:
+Echelon
+Echelon formation is generally used in the traffic pattern for landing or to
+get all wingmen on one side when the leader plans to turn away from the
+
+formation.
+
+Visual References
+
+The relative position on the leader or preceding aircraft is the same as
+fingertip. Avoid turns into the echelon, if at all possible. If making a turn
+into the echelon, each aircraft maintains the same relative position as for
+straight and level flight. On turns away from the echelon, maintain the
+fuselages in the same horizontal plane (Figure D-5) to ensure the aircraft
+is in fingertip upon roll out. Fore/aft position is maintained by keeping
+the preceding aircraft's intake ramp leading edge on the pilot’s helmet.
+
+XY A—
+———
+2.
+
+OPS-04-05
+
+Figure D - 5. Echelon Turn Away.
+
+Common Errors
+
+@ A tendency to get behind initially by not matching lead’s rate of roll, or
+pull and/or not adding power, and then adjusting too late and/or
+overcontrolling.
+
+@ Climbing at the beginning of the turn.
+
+OPS-4 D-6
+
+
+Text from OPS-4_Formation_Procedures_page_13.jpeg:
+Route
+
+Route (Figure D-6) is an extension of fingertip formation with up to
+approximately 500 feet between aircraft. It allows the wingman increased
+mission crosscheck time and enhances the ability to clear for the
+formation when tactical formation is not practical. Route position is also
+used for rejoins.
+
+Visual References
+
+@ Line up the anticollision light under the UHF antenna as in fingertip.
+
+OPS-04-06
+
+Figure D - 6. Route.
+
+@ Fly out to a maximum of 500 feet.
+
+@ When turned into, stack down as necessary to stay out of lead's
+maneuvering plane and to keep lead in sight.
+
+@ When turned away from, use echelon references.
+
+D-7 OPS-4
+
+
+Text from OPS-4_Formation_Procedures_page_14.jpeg:
+8-d v-SdO
+
+‘UOI}eULIOY peoeidg ‘) - q eInsly
+
+20-v0-SdO
+
+,000€-0001
+
+“ATTV10FLT 490} YNOY 10 opnjryye 490} OOT SOprIsyno uorTyeULIOF , prepuLysuoU,,
+oY} JO o1eMB ST ADUNSE [0.1]UO0D DIJesy Te oy} SuIprAosd Ariys-anoz
+
+0} poydepe oq osTe Ud 4] ‘pombe o1e SUN} JI SULIOANOURUL pInyy
+
+YIM UOTJVULIOJ UOTJESTAVU OpNyi}[e YsTYy 04 UNIpew ‘esueI SUOT B Se posn
+Ajjeu10u st pesidg ‘(1,-q e1Ns1y) Jseei1qe our] Jo ye ,Qg 0} dn uowsuIM
+YIM IeroITe WdeMyoq 182J NOOSE 01 OOOT UTM UorzeuLIO; & St peoadg
+
+peoids
+
+‘OJUL POULIN} UIYM MOT 00} SUTIeIS
+
+‘UOI}ISOd ULCJUICUL 0} SUOIJIEIION AGI] 0} SUIPRO] ‘SUIN} S.Jepeey 04
+JRO 0} MOS SUING PUL SYDOYNSSO.1D UOISSTW UO SUIT} YONUI 00} Sutpuedg
+
+‘oul dijtesuly pepueyxe oy} pullyeq yoeq SuIpr[S
+‘peel ye SULIeYS
+
+‘OpIM OO],
+
+SLOILG WOULUIOT)
+
+
+Text from OPS-4_Formation_Procedures_page_15.jpeg:
+Cross-unders
+
+The cross-under is an integral part of close formation. It is the disciplined
+and safe way to change formation so that lead and the wingmen know
+how, when and what to do.
+
+Procedures
+
+Some of these moves or procedures are done simultaneously. However, in
+the learning stages each move should be perfected before combining.
+
+After receiving the prebriefed voice or visual signal for a cross-under,
+pull back power slightly.
+
+Drop down slightly to be clear of lead’s jetwash, remembering your
+aircraft’s tails are tall.
+
+Establish nose-tail separation, and add power slightly to stop aft
+movement.
+
+Use a small bank angle to change heading 2-3° and add power to
+cross-under to the same relative position on the other side and readjust
+power to stop the overtake/closure. Align your heading with lead's
+heading.
+
+Add power slightly to move forward and up, with wingtip clearance,
+into close formation, and stabilize.
+
+D-9 OPS-4
+
+
+Text from OPS-4_Formation_Procedures_page_16.jpeg:
+If Number Two is required to cross-under in a flight of three or more,
+Number Three must move out wider to make room for Number Two. Once
+Number Two moves forward, Three reforms on Two’s wing.
+
+When an element performs a cross-under, the element drops below and aft
+for nose-tail clearance. Number Four also crosses Three during the
+
+element cross-under.
+
+Common Errors
+
+@ Excessive power changes.
+
+@ Too fast for conditions or proficiency.
+
+@ Dropping too far aft or too low.
+
+@ Getting tails (rudders) in lead’s jet wash.
+
+@ Dishing out or moving too wide in the new position.
+
+@ Element or Number Three moves too wide as Number Two assumes
+new position.
+
+Trail Formation Exercise
+The purpose of the trail formation (Figure D-8) as described in this lesson
+is to increase the student’s “heads-out” piloting skills in the F-15E and to
+
+improve his/her skill in three-dimensional maneuvering with respect to
+another aircraft.
+
+OPS-4 D-10
+
+
+Text from OPS-4_Formation_Procedures_page_17.jpeg:
+v-SdO Il-d
+
+‘UOTJOULIO [lel], *8- q eansty
+
+80-70-SdO
+
+‘aoedsire
+
+SUIULEI] UL SUIUTeUIOL UY} 1dY}O Lope] OY} 0} UOT}eTO1 UL UOTIDLI4SEL
+OpN}I}[e OU ST O10], “UOTJENIZIS 4-10A0 UL UT 4[NSeI AVUI STU} SB “4FerOITe
+Pe2T OY} JO SooT}.I0A di}SuULM pue YyseM Jol oy} Aq poyeroues soUETNG.1n4
+oY} YSNO1y} SULAT] PIOAY ‘UePULSUTM 94} Ves 04 AjIUNL10ddo 97341] JepeeT oy}
+Sp1o0jye JI SV SUIT} JO YASUE] AU OJ peploAe oq prNoyYs uoT}ISOd STyy “es.1eA
+OIA IO SK] 04 JJOJND WOT SUTUOT}ISULT} O[IYA WOT}ISOd YIOII,0 XIS peep
+Slopes] oy} Ysno.1yy ssed 0} Aressedeu oq ABU I YSsnoyI[Y ‘SULloAnouUeUT
+Se] pue JjOyNd Jo osn oy} YSsnor1y} poyst[duiodoe SI sIyy, “‘WOV spun
+
+GZ pue SX G 0} dn SuLIoANoUReUI Jepea] oY} YLM S97}}014} SuTye[ndiuew
+qNOY}LA UOTIISOd STYY ULeJUTeU 04 oTqe oq P[NoYs UPUTSULM OU],
+
+SIXB [BUIPNILSUO] Speo] Jo OpIs JOYE Gh @
+
+pes, pulyeq yee} NONE 97 ODOT ©
+
+Soouotoyoy TENSTA
+
+
+Text from OPS-4_Formation_Procedures_page_18.jpeg:
+Night Formation
+The position is the same as Day Fingertip but the references are different.
+
+Visual References
+
+The fore/aft reference is placing the wingtip formation light one length in
+front of the tail formation light.
+
+The vertical reference is placing the wingtip formation light about 1/2 foot
+above a line between the nose and the tail formation lights (Figure D-9).
+For night weather formation position, slide back to put the wingtip light
+halfway between the fuselage lights.
+
+VERTICAL TAIL FLOOD LIGHTS
+(ONE EACH SIDE)
+
+FORMATION LIGHTS
+(LUMINESCENT PANELS
+ON EACH SIDE)
+
+OPS-04-09
+
+Figure D - 9. Night Lighting.
+
+OPS-4 D-12
+
+
+Text from OPS-4_Formation_Procedures_page_19.jpeg:
+The vertical tail floodlights aid in maintaining formation position. When
+in formation, lead has anti-collision lights off and position lights steady.
+All others are lit the same except the last aircraft keeps the anti-collision
+lights on unless briefed otherwise by lead.
+
+Staring at one light can cause it to appear to move, thereby creating
+
+confusion for the wingman and a dangerous situation. Keep eyes moving,
+
+using all references.
+
+Procedures
+
+@ 3800 feet spacing for taxi on the centerline.
+
+@ No visual signals at night except for no radio (NORDO).
+
+@ Lead changes are called over the radio in wings level flight.
+
+@ No lead changes below 1500 feet AGL unless on GCA downwind.
+
+@ If the flight splits up, lead calls attitude, airspeed, altitude and
+altimeter setting, and the wingman must acknowledge and confirm
+
+good navigation aids.
+
+@ Formation landings will only be made at night for safe aircraft
+recovery.
+
+@ When in positions other than fingertip, route, or tactical, aircraft
+spacing will be maintained primarily by instruments, radar/AAI,
+and/or timing with visual reference secondary. If aircraft spacing
+cannot be ensured, altitude separation (minimum of 1000 feet) will be
+established. At all times, aircrews will crosscheck instruments to
+ensure ground clearance.
+
+D-18 OPS-4
+
+
+Text from OPS-4_Formation_Procedures_page_2.jpeg:
+ADMINISTRATIVE INFORMATION
+
+This student workbook is designed to provide information on the F-15E,
+its systems and capabilities. It is not a sole source document, but is to be
+used in conjunction with other standard Air Force publications and
+technical manuals. If you find any differences between the material
+contained herein and other governing regulations, adhere to the
+regulations and notify the OPDR.
+
+Changes to this workbook are indicated with a heavy black line in the left
+margin.
+
+Forward recommendations for revision or change to 4 TS, SJAFB, NC
+275381.
+
+Supersedes: OPS-4, October, 1997
+
+OPDR: 4 TS
+
+Index of Changes
+
+Effective Date Pages Affected
+
+
+
+Text from OPS-4_Formation_Procedures_page_20.jpeg:
+FORMATION TAKEOFFS AND LANDINGS
+
+Formation Takeoffs
+
+Procedures
+
+Fore/aft reference is head abeam UHF antenna.
+
+Wingman lines up assuring wingtip clearance.
+
+80% power is selected upon runup signal.
+
+Brakes are released on lead’s head nod.
+
+Power is advanced to full AB and adjusted as necessary.
+
+Tap brakes (if necessary) to prevent overrunning lead.
+
+Maintain lateral and fore/aft position and match lead’s rotation.
+
+The flight leader will retract gear and flaps when the wingman is
+observed to be safely airborne. If no visual signal is briefed, the
+wingman’s cue to retract gear and flaps is when lead's nose gear door
+opens.
+
+Transition to fingertip references and assume that position after gear
+and flap retraction. The WSO must devote primary attention to
+monitoring the engines, warnings and cautions, and gear/flap
+
+retraction since the pilot is devoting primary attention to formation
+positioning.
+
+OPS-4 D-14
+
+
+Text from OPS-4_Formation_Procedures_page_21.jpeg:
+Four-Ship Line-Up
+
+For four-ship line-up (Figure D-10), it is important for Number Two to
+line-up with his inside pylon on the runway centerline. This position
+allows both Number Three and Four to move into position. Number Three
+positions himself to the outside, aligning helmets. Four’s position is in
+tight between Number One and Two, pulling forward of the tails far
+enough to see both pilot and WSO in Number Three’s jet. This position
+keeps Number Four out of the lead element’s jet wash during their
+run-up. An alternative is a 2 + 2 lineup with 500 foot element spacing.
+
+C
+
+L
+
+®D)
+
+c lz
+i @)
+(C1!
+e #2 PYLON ON CENTERLINE
+e #3 LINE UP HELMETS
+e #4 FORWARD TO SEE #3 WSO AHEAD OF #2 TAILS
+e ALL MUST HAVE WINGTIP CLEARANCE OPS-04-10
+
+Figure D - 10. Four-Ship Line-Up.
+
+D-15 OPS-4
+
+
+Text from OPS-4_Formation_Procedures_page_22.jpeg:
+Takeoff Restrictions
+
+Formation takeoffs will not be made when:
+
+@ There are more than two ship elements.
+
+@ Aircraft are more than 3000 lbs difference in weight.
+
+e@ Aircraft are not symmetrically loaded.
+
+@ The runway width is less than 125 feet.
+
+@ There is standing water, ice, slush or snow on the runway.
+@ The crosswind or gust component exceeds 15 knots.
+
+@ Carrying live air-to-ground munitions.
+
+@ Ferrying from contractor/AFMC.
+
+@ Computed takeoff roll exceeds 70% of available runway.
+
+Formation Takeoff Aborts
+
+Formation abort procedures must be briefed and thoroughly understood
+by all flight members. Ifa flight member aborts, the first priority is
+aircraft control. A radio call should be made when control is assured to
+alert the other flight members. Make every effort to maintain the
+appropriate side of the runway.
+
+OPS-4 D-16
+
+
+Text from OPS-4_Formation_Procedures_page_23.jpeg:
+Formation Landings
+
+Wingman Procedures
+
+Configure when signaled and use approximately 1/2 speedbrake as
+briefed.
+
+When VMC on final:
+
+@ Stack level with lead. A good reference for stacking level with lead is
+to position the aircraft so that the leader’s opposite MPD is visible.
+Another vertical reference is lead’s helmet on the true horizon; you
+should also be able to see 6-8 inches of the opposite engine hump.
+
+@ Align abeam UHF antenna.
+@ Maintain a minimum of 10 feet wingtip clearance.
+
+Fly formation to touchdown, but crosscheck runway approaching flare and
+touchdown. Anticipate power reduction and flare.
+
+After touchdown, maintain your side of the runway and aerobrake as soon
+as prudent (to approximately 13° of pitch with fully extended speed
+brake).
+
+If the wingman overruns the leader, accept the overrun and maintain the
+appropriate side of the runway and aircraft control. Do not attempt
+reposition behind the leader. The most important consideration is wingtip
+clearance.
+
+D-17 OPS-4
+
+
+Text from OPS-4_Formation_Procedures_page_24.jpeg:
+Landing Restrictions
+
+Formation landings will not be made when:
+
+There are more than two ship elements.
+
+There is not a straight-in approach (precision preferred).
+Combined fuel/stores weight is greater than 10,000 pounds.
+
+There is more than 3000 lbs difference in weight.
+
+Aircraft are not symmetrically loaded.
+
+The runway width is less than 125 feet.
+
+The runway is wet or icy, or there is slush or snow on the runway.
+The crosswind or gust component exceeds 10 knots.
+
+The wingman is not upwind with a crosswind greater than 5 knots.
+
+Landing with hung ordnance or unexpended live ordnance, excluding
+live air-to-air munitions.
+
+The weather is less than 500 feet and 1.5 nm, or your weather
+category, whichever is greater.
+
+Common Errors
+
+Flying too low or too far back.
+
+Not maintaining proper wingtip spacing.
+
+Making corrections too large or too fast, thus overcontrolling.
+
+Not compensating for different handling characteristics at slow speed.
+
+Not aerobraking or maintaining your side of the runway.
+
+OPS-4 D-18
+
+
+Text from OPS-4_Formation_Procedures_page_25.jpeg:
+JOIN-UPS
+General
+
+Any join-up requires an accurate appraisal of position and closure. The
+low drag nature of the airframe and relative effectiveness of the speed
+brake requires some anticipation for throttle reduction. If desired, obtain
+an auto acquisition lock-on and select GUN or SRM mode during the
+rejoin to provide additional range and overtake information. (Note:
+Reference TO 1F-15E-34-1-1 for information on the HUD gun display.
+Remember that Vc includes angular closure, so watch your airspeed, too).
+
+@ NEVER LOSE SIGHT OF LEAD.
+@ Join in sequence.
+
+@ Adhere to the weather restrictions of 1500/3 for day join-ups and
+3000/5 for night join-ups.
+
+Turning Join-Ups
+
+Lead Procedures
+
+@ Maintain airspeed of 350 KCAS, unless otherwise briefed/called.
+@ Maintain a bank angle of 30° or less.
+
+Wingman Procedures
+
+Join on the inside of the turn. Number Two remains on the inside, and
+Numbers Three and Four slide to the outside. Four crosses behind Three
+as the element crosses behind the lead element. A radar lock-on will
+provide range and overtake information.
+
+Techniques to control overtake include:
+
+@ Maintain approximately 400 KCAS = about 50-100 knots of actual
+overtake (Vc).
+
+@ Use bank angle control for fore/aft position.
+@ Airspeed advantage and cut-off together provide the closure rate.
+
+@ For vertical separation, keep lead slightly above the horizon.
+
+D-19 OPS-4
+
+
+Text from OPS-4_Formation_Procedures_page_26.jpeg:
+Use bank angle to get inside lead’s turn.
+
+Align with an extension of normal fingertip fore/aft position.
+Superimpose lead's far tail over outside wingtip.
+
+Maintain position with bank angle and G as necessary.
+
+Strive to keep fuselage aligned with lead’s.
+
+Maintaining airspeed advantage, cut off, and fuselage aligned with lead
+provides smooth decrease of lateral separation. At approximately 3000
+feet, start power reduction to control overtake. The overtake at 1500 feet
+should be about 50 knots—do not stagnate here.
+
+Stabilize in route, and then slide to fingertip. When the overtake is
+excessive, initiate a controlled overshoot.
+
+Reduce bank angle, keep lead (flight) in sight, ensure nose-tail
+separation and pass behind and below lead. Slide to the outside of the
+turn. Do not slide forward of lead.
+
+Stabilize, smoothly cross back under, move back to route and then slide
+to fingertip.
+
+Both crew members should monitor the rejoin to prevent late
+recognition of an overshoot situation.
+
+Common Errors
+
+Dropping too low.
+
+Not establishing quick, proper cut-off.
+Matching airspeed too soon and stagnating.
+Fixation with radar and HUD.
+
+Not recognizing, or properly accomplishing, an overshoot.
+
+OPS-4 D - 20
+
+
+Text from OPS-4_Formation_Procedures_page_27.jpeg:
+Straight Ahead Join-Up
+Lateral separation and overtake are very difficult to judge, and the F-15E
+provides a fairly small visual profile from the rear. This requires planning
+
+and attention when performing the straight ahead rejoin.
+
+Lead Procedures
+
+Maintain 350 KCAS unless otherwise briefed/called.
+
+Wingman Procedures
+
+@ Aim for a lateral position 200-500 feet from lead.
+
+@ Closure of 100-125 knots at 6000 feet is controllable.
+
+@ Reduce overtake to reach 3000 feet with 50 knots closure.
+
+@ Stabilize in route and smoothly move to fingertip.
+
+@ Use the velocity vector as an aid by placing it just to the side of lead.
+
+The technique of obtaining a radar lock-on is even more important here to
+judge overtake.
+
+If a controlled overshoot is required:
+@ Maintain a position slightly below lead and turn slightly away.
+
+@ Keep lead in sight, stabilize, and move back to route and then proceed
+to the fingertip position.
+
+@ Don’t cross control to lose speed (throttles and speedbrakes should be
+sufficient)
+
+Number Two normally joins on the left wing and the element joins on the
+right wing unless otherwise briefed.
+
+D-21 OPS-4
+
+
+Text from OPS-4_Formation_Procedures_page_28.jpeg:
+Common Errors
+
+@ Too much overtake.
+
+@ Matching airspeed too soon and stagnating.
+
+@ Not recognizing or properly executing an overshoot.
+VISUAL SIGNALS
+
+Radio discipline is essential for the conduct of safe and effective formation
+flight; therefore, visual signals are used whenever the situation allows.
+These signals are the same as those used in other aircraft and are listed in
+AFI 11-205 and in section H of this workbook.
+
+When using visual signals for changing radio frequencies, additional
+information is required to determine whether the change is meant for
+radio 1 or radio 2. This is often prebriefed before flight if visual radio
+frequency changes are anticipated. In the situation where a flight
+member becomes “lost” on a particular radio frequency drill, it should be
+obvious which radio is referenced.
+
+LOST WINGMAN PROCEDURES
+General
+
+Execution of lost wingman procedures is principally an instrument
+procedure, which should be initiated upon losing sight of lead, or if unable
+to maintain formation due to spatial disorientation (SD). Lost wingman
+procedures listed below are extracted from AFI 11-2F-15E, Vol 3,
+
+Chapter 7. Note that the procedures while operating with a tanker are
+different (refer to TO 1-1C-1-25).
+
+@ Review lost wingman procedures before any mission involving night or
+IMC.
+
+@ Practicing lost wingman procedures (only VFR) is a good idea to see
+the spacing obtained.
+
+@ Do not penetrate dense cloud conditions unnecessarily in close
+formation. Try radar trail formation or separate clearances. If you are
+flying as a two-ship formation, the wingman usually has an easier time
+if he flies on the right side of the formation.
+
+OPS-4 D - 22
+
+
+Text from OPS-4_Formation_Procedures_page_29.jpeg:
+When you are flying on the wing, keep up with the navigation and
+listen closely to clearances. Crosscheck your attitude whenever
+feasible. When you anticipate entering the weather on the wing,
+selecting an ADI on the MPD in the direction of lead allows you to
+easily crosscheck attitude while flying formation. Maintain “situation
+awareness.” Anticipate going “lost wingman.” Trim the aircraft and
+concentrate on smooth, relaxed throttle and stick movements.
+
+Notify the other crew member and the flight leader if you are
+experiencing spatial disorientation. They may be able to establish a
+wings-level attitude to clear your head, or give you the lead to allow
+you to fly instruments for a short time.
+
+When you can no longer maintain visual reference with your leader’s
+aircraft in the briefed formation position, go lost wingman without
+hesitation.
+
+When you execute lost wingman procedures, smoothly transition to
+your instruments and make the radio call when conditions permit.
+Establish lateral, vertical and nose-tail clearance in a prompt but
+controlled manner, and then stabilize your aircraft under instrument
+flight conditions. Once you initiate the procedures, carry through until
+you have control of your aircraft. Do not attempt to rejoin without
+clearance from your flight leader!
+
+Lead or aircraft with operational radio will obtain a separate clearance
+for the remaining formation.
+
+NORDO lost wingman will fly previous clearance and turn IFF/SIF to
+
+NORMAL code 7600. If an emergency arises with radio failure, turn
+the IFF/SIF to EMERGENCY for the remainder of the flight.
+
+D - 238 OPS-4
+
+
+Text from OPS-4_Formation_Procedures_page_3.jpeg:
+OPERATIONS
+
+COVER
+
+FORMATION PROCEDURES
+INTRODUCTION
+This workbook is your guide to studying the visual references, spacing,
+
+parameters, and procedures for F-15E close and tactical two- and
+four-ship formations.
+
+CONTENTS:
+
+INTRODUCTION 000. eececeesneccesnceeeesaeesesaeeseesaeecssaeeesssaeeesseeeesaees A-1
+CRITERION REFERENCED OBJECTIVES (CROs)............eee eee B-1
+STUDENT PREPARATION REQUIREMENTS ...00... eee eeeeeeeeeeee C-1
+CELA a snes sass ons cosa cou nas oes cnn cones ents ans SOR MNSA Ss SARIS MU KOT HEH SONS SSIS Ge Mo eS Haas GHEE D-1
+END OF TEXT QUIZ ou. eecccccesnceeesseeecesaeeeessaeecesaeesensaeesesneeeeneas E-1
+SRS sere ce asec crass sre ce ae eos es cece cet ese ee rs cece ct seme sees se aoe cee eae ws F-1
+HANDOUT 000i eeeccecesneeesseeceseeecesaeecessaeecssaeeeessaeeceseeeessaeesesaeseneas G-1
+
+A-1 OPS-4
+
+
+Text from OPS-4_Formation_Procedures_page_30.jpeg:
+Lead Considerations
+
+Acknowledge the lost wingman’s radio call.
+
+Transmit attitude, heading, altitude, airspeed and other parameters as
+appropriate.
+
+Observe published terrain clearance limits.
+
+Coordinate rejoin or separate clearance for lost wingman.
+
+Wingman Considerations
+
+Maintain aircraft control and simultaneously transition to instruments
+and execute the appropriate procedure.
+
+Call lost wingman to lead.
+
+Use required bank angle to ensure separation.
+
+Do not overbank.
+
+Obtain a separate clearance or rejoin as coordinated with lead.
+
+Do not rejoin without permission.
+
+OPS-4 D - 24
+
+
+Text from OPS-4_Formation_Procedures_page_31.jpeg:
+Two- or Three-Ship Flights
+
+Wings Level
+
+@ Simultaneously inform lead and turn away using 15° of bank for
+15 seconds.
+
+@ Resume heading.
+@ Obtain separate clearance.
+
+Outside the Turn
+
+@ Reverse the direction of turn using 15° of bank for 15 seconds.
+
+@ Inform lead.
+
+@ Continue straight ahead to ensure separation before resuming turn.
+@ Obtain separate clearance.
+
+Inside the Turn
+
+@ Momentarily reduce power to ensure nose-tail separation.
+@ Inform lead to roll out of the turn.
+
+@ Maintain angle of bank to ensure lateral separation.
+
+@ Obtain a separate clearance.
+
+@ Leader may resume turn only after separation is ensured.
+
+Final Approach
+
+@ Momentarily turn away to ensure separation.
+@ Inform lead.
+@ Commence missed approach procedure.
+
+@ Obtain separate clearance.
+
+D-25 OPS-4
+
+
+Text from OPS-4_Formation_Procedures_page_32.jpeg:
+Missed Approach
+
+@ Momentarily turn away to ensure separation.
+
+Inform lead.
+
+Continue with missed approach procedure.
+
+Climb to 500 feet higher than lead.
+@ Obtain a separate clearance.
+Four-Ship Flights, Number Four Procedures
+
+If in three-ship echelon, Number Three uses the same procedures that
+apply to Number Four.
+
+Wings Level
+
+@ Simultaneously inform lead and turn away using 30° of bank for 30
+seconds.
+
+@ Resume heading.
+@ Obtain a separate clearance.
+
+Outside the Turn
+
+@ Reverse direction of the turn using 30° of bank for 30 seconds to ensure
+separation.
+
+@ Obtain a separate clearance.
+
+Inside the Turn
+
+@ Momentarily reduce power to ensure nose/tail separation.
+
+@ Increase bank angle by 15°.
+
+Inform lead to roll out.
+
+Obtain a separate clearance.
+
+Lead may resume turn only when separation is ensured.
+
+OPS-4 D - 26
+
+
+Text from OPS-4_Formation_Procedures_page_33.jpeg:
+QUESTIONS
+
+Identify the correct visual references for standard day F-15E fingertip
+formation.
+
+a. Light on the star, trailing edges of the vertical stabilizers even
+and high enough to see top of inside wing
+
+b. Anticollision light on the upper UHF antenna, leading edges of
+the vertical stabilizers even and see the top of the inside wing
+
+c. Anticollision light on the upper UHF antenna, leading edges of
+the vertical stabilizers even and wingtip on the RCP
+
+d. Wingtip formation light equidistant between the nose and tail
+formation lights, leading edges of the vertical stabilizers even
+and see the top of the inside wing
+
+In an echelon turn away, what are the key references to keep in the
+same horizontal plane with lead and maintain lateral spacing?
+
+a. Fuselages in the same horizontal plane and the preceding
+aircraft’s intake ramps leading edge on the pilot’s helmet.
+
+b. Nose of lead on the horizon and your head aligned with lead's
+topside intake
+
+c. Anticollision light on the bottom of the upper UHF antenna and
+pilot’s helmet on the horizon
+
+d. Nose of lead on the horizon and wingtip formation light about
+1/2 foot above a line between the nose and tail formation lights
+
+What is a key point to remember when making a cross-under in the
+F-15E?
+
+a. Drop down slightly to keep the tall tails out of the jetwash.
+
+b. You will combine fore/aft and lateral moves from the outset.
+
+c. Because of the fighter’s size, a healthy heading change is
+required to cross-under.
+
+d. The turbofan engine renders jetwash a nonconcern.
+
+D-27 OPS-4
+
+
+Text from OPS-4_Formation_Procedures_page_34.jpeg:
+4. Describe the wingman’s lineup and takeoff roll for a formation
+takeoff.
+
+5. Formation landings will not be made when
+
+at a strange field.
+
+the crosswind or gust component exceeds 5 knots.
+
+any live ordnance is on board, including air-to-air munitions.
+the runway width is less than 125 feet.
+
+po op
+
+6. Ina two-ship turning join-up, the wingman
+
+a. joins on the inside.
+b. joins on the left wing.
+c. maintains about 200 knots of overtake until nearing the route
+
+position.
+d. constantly keeps the fuselage angled toward the lead.
+
+7. Inastraight ahead join-up, overtake should be
+
+a. 200 knots at 6000 feet.
+b. 100 knots at 3000 feet.
+c. 50 knots at 3000 feet.
+d under 25 knots.
+
+8. You are Number Two on the outside of a turn and you lose sight of
+lead. You should maintain aircraft control,
+
+a. retard power to ensure nose-tail separation, and inform lead.
+
+b. — roll out wings level and inform lead.
+
+c. reverse direction of turn using 15° of bank for 15 seconds and
+inform lead.
+
+d. _ reverse direction of turn using 30° of bank for 30 seconds and
+inform lead.
+
+OPS-4 D - 28
+
+
+Text from OPS-4_Formation_Procedures_page_35.jpeg:
+ANSWERS
+
+a
+Wingman lines up assuring wingtip clearance, abeam UHF antenna,
+runs up to 80% power when signaled, releases brakes on lead's signal,
+advances power as briefed and matches lead's rotation for takeoff.
+
+d
+
+a
+
+D - 29 OPS-4
+
+
+Text from OPS-4_Formation_Procedures_page_36.jpeg:
+TACTICAL FORMATION
+General
+
+The standard combat formation employed by tactical fighters is the four-
+ship flight. Within this formation, the two-ship element is the basic
+fighting unit. The purpose of tactical formation is to combine firepower in
+a disciplined, coordinated unit while providing mutual support against
+threats. The various elements of the combat arena (weather, threats,
+mission, flight size, etc.) determine the optimum position and role of each
+flight member. The formations described here are applicable to both A/A
+and A/S operations. As the tactical situation changes, positions,
+responsibilities and maneuvering techniques change as well.
+
+Formation Selection
+
+Several criteria are addressed when selecting the best tactical formation
+for a given mission.
+
+@ Role/mission objectives
+
+@ Threats-air and surface
+
+@ Flight size
+
+@ Flight leader/wingman capabilities
+
+@ Ordnance capability versus air threats
+
+@ Ordnance/fuel load—maneuvering capability
+@ Tactics—low or medium altitude
+
+@ Surface attack tactics/timing
+
+@ Terrain
+
+@ Weather-ceiling, visibility, TFR and FLIR
+@ Support assets-GCI, EW, SEAD
+
+@® Communication ROE-comm out, comm jamming
+
+OPS-4 D - 30
+
+
+Text from OPS-4_Formation_Procedures_page_37.jpeg:
+Visual Lookout
+
+Formation Design
+
+A tactical formation provides an offensive capability against enemy
+aircraft while maintaining security against attack. The formation
+selected, therefore, must allow flight members to detect and maneuver
+against an attack before the attacker can achieve a lethal position.
+
+Search Responsibility
+
+The number of aircraft and their position within the formation is designed
+to cope with the expected threat. In all tactical formations, each flight
+member has a definite visual search responsibility. Even though each
+pilot/WSO concentrates on a different area, this does not preclude
+searching other areas when tasking, threats or the environment requires
+it.
+
+Visual Search Techniques
+Limiting Factors
+
+The threshold of visual detection depends upon factors such as aspect
+angle, atmospheric conditions (haze, smoke, moisture), background, and
+the condition of the helmet visor and canopy. Detection of threats at
+maximum distance requires an efficient visual search pattern. Focus at a
+distance of approximately 5 miles. With this focal point, the depth of FOV
+approximates a range of 1 mile to infinity.
+
+Focus Technique
+
+Focus by initially viewing an object at the approximate detection range,
+usually the ground. Once focused, various search patterns are used
+(vertical, horizontal, etc.) depending upon individual preference.
+
+However, no more than a 30° segment of the search area is scanned at one
+time. After 20 to 30 seconds of searching empty sky, the eye focal distance
+drifts back to a point less than 10 feet away. Before this occurs, refocus
+and search another segment. Using these techniques, the aircrew can
+establish a definite visual search pattern instead of random gazing.
+Reference to canopy code and F-15E cockpit visibility charts can also
+improve visual lookout techniques (Figures D-11 through D-14).
+
+D-31 OPS-4
+
+
+Text from OPS-4_Formation_Procedures_page_38.jpeg:
+0° AZIMUTH
+20° HIGH
+
+Oe thew : 20° RIGHT
+10° HIGH
+
+40° LEFT
+
+0° EL
+40° RIGHT
+0° EL
+30° LEFT ;
+25° LOW ie Dee 30° RIGHT
+25° LOW
+55° RIGHT
+
+55° LEFT
+400 KCAS: HEAD CENTERED ON HEADREST
+a SEATING HEIGHT SUCH THAT EYES LOOK SSS
+FROM TOP OF GLARESHIELD TANGENT TO
+RADOME
+OPS-04-11
+
+Figure D - 11. FCP Canopy Code.
+
+0° AZIMUTH
+30° HIGH
+20° LEFT
+20° HIGH
+20° RIGHT
+20° HIGH
+30° LEFT 30° RIGHT
+a 15° LEFT 15° RIGHT
+oo Low 10° LOW 10° LOW 45° RIGHT
+> A an 20° LOW
+as ! /
+SO ! OA
+AX HEAD CENTERED (
+vs, 00 FCP SEAT FULL UP (1:00) ON
+60L co) RCP SEAT FULL UP " 60R
+(10:00) (2:00) OPS-04-12
+
+Figure D - 12. RCP Canopy Code.
+
+OPS-4 D - 32
+
+
+Text from OPS-4_Formation_Procedures_page_39.jpeg:
+DESIGN EYE STANDBY COMPASS
+
+SEAT HEAD
+REST
+
+SPEED BRAKE
+EXTENDED
+
+SEAT RAIL VERTICAL
+
+CANOPY
+SPLICE
+STRUCTURE
+INLET-FULL UP
+INLET-FULL DOWN
+OPS-04-13
+Figure D - 13. Cockpit External Visibility.
+75°
+
+OPS-04-14
+
+Figure D - 14. Aircraft References for Look Angles (Rearward).
+
+D - 33 OPS-4
+
+
+Text from OPS-4_Formation_Procedures_page_4.jpeg:
+CRITERION REFERENCED OBJECTIVES (CROs)
+
+1. Identify the visual references and spacing required for standard
+formation positions in the F-15E.
+
+2. Identify procedures for formation takeoffs and landings.
+3. Identify parameters and references for making a join-up/rejoin.
+
+4. Given a description of a day or night in-flight visual signal, identify
+the meaning.
+
+5. Identify lost wingman procedures for a given flight position.
+
+6. Identify parameters and applicability for basic two-ship and
+four-ship tactical formation.
+
+7. Identify characteristics of specific tactical formations.
+
+REFERENCES
+
+Transition Phase Manual Formation Sections
+
+AFTTP 3-3, Vol XVII Chapter 3, Formation
+
+AFI 11-2F-15E, Vol 3 Chapter 3, Formation
+Chapter 7, Lost Wingman
+Procedures
+
+AFI 11-205 Standard Formation
+Signals
+
+OPS-4 B-1
+
+
+Text from OPS-4_Formation_Procedures_page_40.jpeg:
+Basic Lookout Rules
+
+@ Each crew member searches the entire FOV around his aircraft with
+special emphasis on briefed areas of individual responsibility (See
+Figure D-15).
+
+@ The particular formation dictates the areas of responsibility (including
+moving the aircraft to search blind spots).
+
+@ Do not concentrate lookout near the horizontal plane of the formation.
+
+© Do not forget the requirement to search 12:00, especially with the
+advent of all-aspect enemy weapon systems. The HUD drives visual
+concentration to the TD box. The F-15E pilot must guard against
+channelizing visual attention on the TD box; instead the pilot must
+search the full forward spectrum.
+
+@ The use of a dark helmet visor or sunglasses may reduce visual
+acquisition and detection range.
+
+OPS-4 D - 34
+
+
+Text from OPS-4_Formation_Procedures_page_41.jpeg:
+SINGLE SHIP
+
+TACTICAL SPREAD
+
+WEDGE
+
+OPS-04-15
+
+Figure D - 15. Visual Search.
+
+D- 35 OPS-4
+
+
+Text from OPS-4_Formation_Procedures_page_42.jpeg:
+Two-Ship Tactical Formation
+
+General
+
+When planning the mission, the flight lead selects the best formation
+(lateral spacing, vertical stack and wingman position) based on the threat,
+tactics and maneuvering considerations. Different flight leaders brief a
+given formation differently. Only the general concepts are described here.
+Each unit has its own standards for tactical formation, and individual
+flight leads add their specific requirements to meet the mission or training
+objectives.
+
+Maneuverability
+
+Maneuverability is dependent upon:
+@ Position and flight members’ ability.
+@ Type of formation:
+
+e Line abreast is best for visual mutual support, but it sacrifices some
+maneuverability.
+
+e Wedge formations are more maneuverable with the wingman
+protecting lead, allowing lead to maneuver aggressively, but it
+sacrifices some mutual support. Wedge is good in poor visibility
+and at low altitude, where terrain blocks the bandit’s approach
+avenues.
+
+OPS-4 D - 36
+
+
+Text from OPS-4_Formation_Procedures_page_43.jpeg:
+Two-Ship Line Abreast
+
+Wingman is 0-30° back (Figure D-16) with 6000-12,000 feet lateral
+spacing as briefed or locally prescribed/restricted.
+
+Stack vertically at 2000-5000 feet or as briefed or locally
+prescribed/restricted.
+
+When a trend toward a parameter limit is detected, use power/altitude as
+necessary to correct.
+
+@ If high approaching aft limit, unload and trade altitude for airspeed to
+reach fore/aft position with enough power to allow slow climb back to
+altitude parameter. Converse to move aft.
+
+@ If too close or too wide, use small heading changes. Keep track of
+
+lead’s heading by listening, accurately noting new heading to turn to
+and relative position of your fuselage to lead’s.
+
+6000-12,000'
+
+PLAN VIEW
+
+2000-5000' (HIGH OR LOW)
+
+| yy
+
+ELEVATION VIEW
+
+OPS-04-16
+
+Figure D - 16. Two-Ship Line Abreast.
+
+D - 37 OPS-4
+
+
+Text from OPS-4_Formation_Procedures_page_44.jpeg:
+Advantages
+
+Line abreast formation provides both aircraft optimum visual
+cross-coverage and good position for rapid maneuvering and mutual
+support to counter an attack. It diminishes the opportunity for a ground
+threat to be alerted by the leader’s overflight and carry out a successful
+engagement of the wingman. This formation also makes it easy for the
+leader to check the wingman’s position and status.
+
+Disadvantages
+
+If the flight leader does not keep relatively strict formation parameters
+(heading and airspeed), he/she forces the wingman to devote excessive
+time to maintaining position instead of visual/radar search.
+
+At low altitude, more of the responsibilities of maintaining formation
+position shift to the WSO, reducing his/her ability to operate systems and
+check six. At very low altitudes, line abreast formation is impractical to
+fly because the position of the wingman does not allow adequate terrain
+avoidance and maintenance of the assigned formation position.
+
+OPS-4 D - 38
+
+
+Text from OPS-4_Formation_Procedures_page_45.jpeg:
+Two-Ship Wedge
+
+Wingman is 30-70° aft of lead's 3/9 line (Figure D-17) and 4000-9000 feet
+out.
+
+This formation provides enhanced maneuverability at the expense of
+visual and firepower support for the wingman.
+
+Wingman is in a more flexible position to cover lead’s six.
+
+9000 FT
+
+30°
+
+70° OPS-04-17
+
+Figure D - 17. Two-Ship Wedge.
+
+D - 39 OPS-4
+
+
+Text from OPS-4_Formation_Procedures_page_46.jpeg:
+Advantages
+
+The primary advantage of wedge formation is both the leader and
+wingman are free to maneuver aggressively. This is an extremely
+offensive formation lending itself to a split-plane entry into a visual fight.
+The wingman has more flexibility in maintaining position and also has
+more time to employ the radar. The formation can be flown at very low
+altitudes because the wingman keeps lead in sight, while adequately
+scanning approaching terrain.
+
+Disadvantages
+A disadvantage of wedge formation is the wingman has little help in
+clearing six. There is less flexibility in reacting to attacks aft of the 3-9
+
+line, and, because more time must be devoted to checking six, other
+wingman responsibilities may suffer.
+
+OPS-4 D - 40
+
+
+Text from OPS-4_Formation_Procedures_page_47.jpeg:
+Two-Ship Fluid Formation
+
+Fluid formation is defined as the wingman positioned within a cone 30° to
+70° aft of the leader’s 3/9 line, with lateral spacing normally 1000 to 4000
+feet (Figure D-18). Arenas for use include holding in a tactical
+environment or maneuvering around obstacles or clouds. This formation
+is employed by elements when flying fluid four.
+
+Advantages
+
+This formation allows the element to maintain flight integrity while
+holding, under marginal conditions, or in rough terrain.
+
+Disadvantages
+A disadvantage of fluid formation is the poor to nonexistent mutual
+
+6 o'clock visual coverage. This formation allows for easy detection by a
+single threat.
+
+4000 FT
+
+30°
+
+70° OPS-04-18
+
+Figure D - 18. Fluid Formation.
+
+D-41 OPS-4
+
+
+Text from OPS-4_Formation_Procedures_page_48.jpeg:
+Tactical Turns
+
+Basic maneuvering requires check turns, delayed 90°, 45° and in-place
+180° or cross 180° turns. Turns may be signaled by lead’s turns, wing
+flashes or called on the radio. All flight members must maintain a
+disciplined visual search.
+
+Check Turn
+
+A check turn is a simultaneous turn by both fighters to a heading 45° or
+less from the original heading (Figure D-19). This turns a flight in a
+desired direction, or regains line abreast positioning when a specific
+heading is not important. A check turn is usually used to signal a turn
+when at low altitude below 5000 feet. At medium altitudes, a wing flash
+may be used by some flight leads. At medium altitude, after a check turn
+in which line abreast positioning is lost, the vertical is used to regain line
+abreast. At low altitude, the aircraft in front maneuvers as required to
+regain line abreast.
+
+OPS-04-19
+
+Figure D - 19. Check Turn.
+
+OPS-4 D - 42
+
+
+Text from OPS-4_Formation_Procedures_page_49.jpeg:
+Line Abreast Turns
+
+The general contract for line abreast is:
+@ The wingman always strives for line abreast.
+@ The wingman stays within 90° of lead’s heading.
+
+@ Turns are made in MIL power and airspeed is maintained. Four G
+turns at low altitude or buffet onset at medium altitude may be used
+for the duration of the turn.
+
+@ All turns are assumed to be 90°.
+Delayed Turns
+
+The delayed turn is used to turn a line abreast formation while
+maintaining maximum mutual support and lookout. It allows both the
+new and old 6:00 areas to be searched. Visual cross-coverage and mutual
+support are momentarily degraded as the outside F-15E is crossing in
+trail, but are regained when the turn is complete.
+
+The leader initiates the delayed 90° turn using a prebriefed signal,
+generally a radio call or a wing flash.
+
+At low altitude, lead may substitute a 30° check turn for the wing flash to
+signal turns away from the wingman. The check turn is at 3-4 Gs to
+preclude it being mistaken for a belly check or minor navigation
+correction. If the turn is into the wingman, lead initiates a 3-4 G turn to
+the new heading, the same as at medium altitude. The wingman checks
+30° away, maintains heading until lead crosses six, then completes his
+turn to roll-out line abreast.
+
+D - 43 OPS-4
+
+
+Text from OPS-4_Formation_Procedures_page_5.jpeg:
+STUDENT PREPARATION REQUIREMENTS
+BEFORE CLASS
+1. Read the listed references.
+
+2. Study the information contained in this workbook and complete the
+end of text quiz.
+
+C-1 OPS-4
+
+
+Text from OPS-4_Formation_Procedures_page_50.jpeg:
+wW-d v-SdO
+
+‘UBULSUTAA OY} OJUL SUIN], “0% - G ANSIY
+
+02-v0-SdO
+
+NYNL MOSHO LNOHLIM ES] NYNL YOSHO LNOHLIM LS
+NYNL OSHS HIM NYN.L OSHS HLM
+
+“XIS SIY Sesso19 ATTeNJOe peor [IjUN AeSsUOT OT} B UINY
+
+oy} SABTOP URULSULM OY} “JUSULdpe_MOUyoe Sv UINY Yoyo B SesN UPUTSUIM
+oY} pue OpNj}[e MOT 3e JT “UPUSULM oY} Sessed U.N} OY} UT JepeeyT
+
+oY} JO 9SOU 9} USM S.1Nd90 STYyy ‘suloeds 1f ONDE IV “jSee1Qe OUT] SUIPeOY
+PoIISep 9Y} UO 4NO TOI 0} S1oJouTVIed OUTeS OY} Je UN B SoyeI}IUT US}
+pue uorye.1edes [e104] JO YF OOOT Youre 10J puooes [ AToyeuITxo1dde skelep
+UVULSUIM OY], “SUIPBOY MOU OY} 0} SUINY Peg] ‘UN ,0G B ST UN} 94} JT
+
+‘apis 1ey}0 oy} UO UOT}ISOd ouINsse
+0} Yyed JUSITf STy Sesso.1d peo] Joye [[JUN UINy oY} ABTEp 10 oAvOM ACUI
+UVULSULM OU], “SUIPBEY MOU OY} UO JNO STOI peoy ‘UIN} ,GP B ST UINY OY} JT
+
+‘peal Aq pourULteyJep ST UANY Jo JUNOUTe
+
+oy “opes] oy} WO1, AVM SYOYD UPULSUIM OY} ‘poZzI[IN o1e SUINY yDeYo
+Ji opnyryye Mop TV “GUSTY pue ory ‘OZ-C eNSIq) UN} 06 & pue .GF B Y}0q
+IO} UBULSUIM OY} OJUL UIN} OY} SoYeTPIUL pBaT :UwNWFU1M, AY], OJUT SUANT,
+
+
+Text from OPS-4_Formation_Procedures_page_51.jpeg:
+Turns Away From The Wingman: Lead initiates the turn. If check turns
+are utilized, lead checks away from the wingman. The wingman turns
+into lead (Figure D-21, Left and Right).
+
+For 45° turns, lead turns back into the wingman as the wingman turns
+approximately 45°. The wingman rolls out as lead turns into the
+wingman. Lead crosses the wingman's flight path and maneuvers to line
+abreast and/or the new heading. The wingman then maneuvers to correct
+the line abreast formation.
+
+For 90° turns, lead begins when the wingman is pointing at him, or if a
+check turn was used when the wingman passes lead’s six.
+
+MMM. «WITH CHECK TURN MN. WITH CHECK TURN
+[-_] WITHOUT CHECK TURN [___] WITHOUT CHECK TURN
+
+OPS-04-21
+
+Figure D - 21. Turns Away from the Wingman.
+
+Lookout Responsibilities During Delayed Turns: These turns allow the
+element to maintain maximum mutual support and lookout.
+
+The stabilized fighter checks the new six and the turning fighter checks
+
+the old six. Nevertheless, visual cross coverage and mutual support is
+momentarily degraded as the outside F-15E is crossing in trail.
+
+D- 45 OPS-4
+
+
+Text from OPS-4_Formation_Procedures_page_52.jpeg:
+In-Place Turn
+
+A turn away from the wingman does not require a call since lead keeps
+turning. Generally, the in-place turn (Figure D-22) is used to quickly turn
+a line abreast formation 180°. When the flight lead signals, both aircraft
+simultaneously execute a turn at prebriefed parameters (power setting, G-
+loading, airspeed) to the desired heading.
+
+A radio call is usually made for a turn into the wingman, otherwise the
+wingman would assume a delayed turn. If the turn is to the right, the
+aircraft on the right leads the turn for 90°, with the fighter on the left
+matching the turn and maintaining proper flight path clearance. At the
+90° point, responsibilities switch as relative positions (right and left)
+change.
+
+NEW SIX
+
+OLDISIX OPS-04-22
+
+Figure D - 22. In-Place Turns.
+
+In-place turns are also used for other than 180° heading reversals. For
+example, they are used to convert to or from a trail/staggered position to
+line abreast. If roll-out is to be other than 180°, a radio call is made and
+the loss of line abreast positioning at roll-out is to be anticipated.
+
+The primary advantage of an in-place turn is that it gets all aircraft
+turned around in minimum time with the proper spacing.
+
+The primary disadvantage is the loss of visual cross-coverage on the
+trailing fighter during the turn.
+
+OPS-4 D - 46
+
+
+Text from OPS-4_Formation_Procedures_page_53.jpeg:
+Cross Turn
+
+This turn is another 180° reversal option. The fighters turn into each
+other, with altitude split for flight path deconfliction (Figure D-23).
+Maneuvering is also out of the horizontal plane to decrease effective turn
+radius if the threat arena permits. At low altitude the wingman should
+fly above the leader’s flight path.
+
+NEW SIX
+
+OLD SIX
+
+OPS-04-23
+
+Figure D - 23. Cross Turn.
+
+Use of the vertical helps maintain proper spacing on roll-out, but in
+general, some sort of follow-on maneuver, such as a check turn or a
+shackle, is necessary to regain proper spacing. The formation is
+vulnerable after the fighters pass due to the loss of visual cross-coverage
+(belly-side) and mutual support potential. In a very low altitude
+environment, the cross turn is difficult to perform due to the need for
+vertical maneuvering to avoid excessive spacing and prevent collisions. In
+all cases, the wingman deconflicts his flight path from the flight leader.
+
+D - 47 OPS-4
+
+
+Text from OPS-4_Formation_Procedures_page_54.jpeg:
+Shackle
+
+This maneuver is used to get the wingman on the required side or to
+adjust for excessive spacing. It is often used after 180° turns (especially
+cross turns), or to establish a new reference heading (Figure D-24). A
+weave is a continuous shackle.
+
+Weaving can be used on egress to help check six and can be prebriefed or
+called as the situation dictates.
+
+OPS-04-24
+
+Figure D - 24. Shackle.
+
+Procedures for a shackle:
+
+@ Simultaneous turns by both aircraft toward each other within 30-45° of
+reference heading.
+
+@ Cross to maintain mutual support and lookout.
+@ Delay turn back momentarily after crossing to obtain proper spacing.
+If Number Two is in trail, a weave by lead would mean for Two to
+
+maintain heading while lead restabilizes line abreast. A check turn by
+lead with Two in trail would be a signal for an in place 90° turn.
+
+OPS-4 D - 48
+
+
+Text from OPS-4_Formation_Procedures_page_55.jpeg:
+Wedge Turns
+
+Wedge formations are more maneuverable since the wingman generally
+has time to react to the leader’s maneuvers. The wingman uses fluid
+maneuvering to stay in wedge formation as lead turns (Figure D-25).
+
+A delay is required if the wingman is on the inside of lead’s turn.
+Normally, this delay forces the wingman to switch sides.
+
+During turns away, the wingman maneuvers as soon as he perceives a
+heading change greater than 40°. When lead turns away from the
+wingman and rolls out with the wingman at six, trail formation results.
+For example, a 45° check turn away from a wingman in 45° wedge leaves
+no maneuver options for the wingman other than to split altitude, or use
+power to reposition.
+
+INTO WINGMAN
+
+AWAY FROM WINGMAN
+
+OPS-04-25
+
+Figure D - 25. Turns in Wedge Formation.
+
+Visual search responsibilities during maneuvering require the leader to
+check the old six area as lead turns. The wingman clears the new six area
+of lead until stabilized on course.
+
+The 180° turns from wedge formation require the wingman to use fluid
+maneuvering and reposition in formation on the reciprocal heading.
+
+D - 49 OPS-4
+
+
+Text from OPS-4_Formation_Procedures_page_56.jpeg:
+Formation positions are usually not rigid and the wingman may need to
+close up spacing for weather or terrain clearance. If conditions require
+rejoining to maintain the formation, wingmen request permission and are
+cleared by lead.
+
+Four-Ship Tactical Formation
+
+This basic fighting formation concentrates firepower, increases mutual
+support and multiplies options.
+
+The four-ship formation is under control of one flight lead and is employed
+as a single entity until forced to separate into two elements. An element
+should never sacrifice element integrity attempting to maintain the four-
+ship formation. Each two-ship element has its own radar and visual plan
+so no changes are required if the four-ship is split into two separate two-
+ships.
+
+Fluid Four
+
+Figure D-26 shows two elements in fluid formation operating line abreast.
+
+——— 9000 FT - 12,000 FT—: :——_
+
+OPS-04-26
+
+Figure D - 26. Fluid Four.
+
+OPS-4 D- 50
+
+
+Text from OPS-4_Formation_Procedures_page_57.jpeg:
+Advantages
+
+@ Concentration of force.
+
+@ Maneuverability is good.
+
+@ Fuel consumption is reduced.
+Disadvantages
+
+@ An adversary may acquire all four aircraft.
+
+@ Defensive maneuvering becomes confusing due to the proximity of the
+aircraft.
+
+Visual Search
+
+Each element maintains a visual lookout pattern as described under
+two-ship fluid formation. Number Three positions the second element off
+the flight leader.
+
+Maneuvering
+
+Number Three maneuvers off the flight lead as if in line abreast, and
+usually stays high for deconfliction. Numbers Two and Four maneuver off
+their element leaders, as in fluid, to maintain position on the outside of
+the formation. Visual responsibilities remain the same. Flight path
+deconfliction, especially in altitude, is more critical.
+
+D-51 OPS-4
+
+
+Text from OPS-4_Formation_Procedures_page_58.jpeg:
+Wall
+Figure D-27 shows two elements in line abreast formation operating line
+
+abreast.
+
+“© 9000 FT - 12,000 FT-- ~~
+0° - 30° (eae eres
+
+6000 FT - 12,000 FT- OPS-04-27
+Figure D - 27. Wall.
+Advantages
+
+Firepower is concentrated. This formation is well-suited for a mission
+with BVR authority.
+
+Targeting is easier because all four aircraft are looking at the same radar
+picture.
+
+Disadvantage
+
+This formation tends to be unwieldy and maneuvering is difficult if the
+line abreast position is maintained. As a result, inexperienced flight
+members spend too much time monitoring and maintaining formation
+instead of working the radar, checking six, monitoring RWR, etc. This
+formation is not well suited to most CAP missions.
+
+Visual Search
+
+Each element maintains a visual lookout pattern as described under
+two-ship line abreast formation.
+
+OPS-4 D - 52
+
+
+Text from OPS-4_Formation_Procedures_page_59.jpeg:
+Maneuvering
+
+Each element maneuvers as a line abreast element and Number Three
+flies off the flight lead (Figure D-28).
+
+Heavy maneuvering can be unwieldy. Disciplined crew coordination is
+required to retain full systems capabilities.
+
+OPS-04-28
+
+Figure D - 28. Wall, 90° Left.
+
+D - 53 OPS-4
+
+
+Text from OPS-4_Formation_Procedures_page_6.jpeg:
+(This Page Intentionally Blank)
+
+OPS-4 C-2
+
+
+Text from OPS-4_Formation_Procedures_page_60.jpeg:
+The elements do not always have to be line abreast and, on some
+occasions, transition to a container formation (Figure D-29).
+
+OPS-04-29
+
+Figure D - 29. Wall to Container.
+
+OPS-4 D- 54
+
+
+Text from OPS-4_Formation_Procedures_page_61.jpeg:
+Container
+In the container formation, elements use the basic line abreast two-ship
+maneuvering and lookout principles. The second element is positioned in
+
+trail from 1 to 3 miles. Elements are split in altitude (both interelement
+and intraelement) and may also have lateral offset (Figure D-30).
+
+CONTAINER OFFSET OPTION
+
+6000 FT - 9000 FT | 6000 FT - 9000 FT
+
+OPS-04-30
+
+Figure D - 30. Container.
+
+D-55 OPS-4
+
+
+Text from OPS-4_Formation_Procedures_page_62.jpeg:
+Advantages
+
+Concentration of firepower.
+
+The lead element is offensively oriented while the rear element
+provides defensive coverage in addition to their offensive potential.
+
+Formation maneuvering potential is good, with element spacing for an
+attack built into the formation.
+
+The formation potentially masks the actual number of aircraft from
+enemy GCI/AWACS.
+
+Disadvantages
+
+The trail element must devote a significant amount of time to
+maintaining visual contact with the lead element. A/A TACAN (if
+emission control allows) and/or AAI are useful for the trailing element
+to maintain desired spacing.
+
+The trailing element may be momentarily mistaken as a threat. The
+trailing element should not lock onto the lead element for ranging
+information unless absolutely required, and then should give a “Buddy
+Lock” call when this occurs.
+
+Visual Search
+
+Responsibilities are essentially the same as two-ship line abreast.
+However, both elements need to remain aware of the other element’s
+position.
+
+Maneuvering
+
+The elements use line abreast maneuvering with Number Three
+maneuvering off the lead element. The trail element’s proximity aids in
+mutual lookout, defensive reaction and coordination during the intercept
+phase.
+
+OPS-4 D - 56
+
+
+Text from OPS-4_Formation_Procedures_page_63.jpeg:
+Other Tactical Formations
+
+AFTTP 3-3 explains other tactical formations not covered in this
+workbook. They include:
+
+2-3 nm trail. Useful for TFR and FLIR operations.
+Arrowhead (a variation of box).
+
+Three-ship VIC, line abreast and trail.
+
+Low Altitude
+
+Fly line abreast at or above 300 feet AGL.
+
+Below 300 feet AGL, wedge is recommended.
+
+Below 1000 feet AGL, wingman (element) is no lower than lead.
+Aircraft in front is responsible to get the element back to line abreast.
+Crossing steep or hilly terrain, maintain positive G and use no more
+than 120° of bank. Maneuvering at less than 1 G is limited to upright
+
+bunting maneuvers.
+
+Maintain a minimum airspeed of 300 KIAS or minimum TF, whichever
+is higher.
+
+If ever unable to devote sufficient time to terrain clearance tasks, climb
+out of the low altitude structure.
+
+D-57 OPS-4
+
+
+Text from OPS-4_Formation_Procedures_page_64.jpeg:
+Collision Avoidance
+
+@ Collision avoidance is the responsibility of the wingman during
+formation maneuvering. Unless directed otherwise by the flight lead,
+wingmen maneuver to keep lead in sight and normally deconflict high
+and to the outside.
+
+@ There are times when the primary responsibility for deconfliction
+transfers to the flight lead.
+
+e When turn geometry forces a wingman to lose visual contact during
+formation defensive reaction to a threat
+
+e When a wingman calls “Blind”
+e When a wingman calls “Padlocked”
+
+@ Primary responsibility transfers back to the wingman after the
+wingman regains a visual on lead. Although tactical formations are
+spread generally to allow flexibility of wingman maneuvers, the
+differences in responsibilities between the leader and the wingman
+demand there be no confusion over roles. Lead changes are usually
+made using the radio.
+
+OPS-4 D - 58
+
+
+Text from OPS-4_Formation_Procedures_page_65.jpeg:
+QUESTIONS
+
+In the line abreast tactical formation two-ship element, what is the
+position of the wingman, subject to local restrictions?
+
+a.  0-15° back, 2000-5000 feet out and a 2000-12,000 feet vertical
+
+spread
+
+b.  0-30° back, 6000-12,000 feet out and 2000-5000 feet vertical
+stack
+
+c.  0-45° back, 9000-12,000 feet out and a 2000-3000 feet vertical
+spread
+
+d. 0-90° back, 4000-12,000 feet out and 5000 feet
+
+In a line abreast formation, check turns are
+
+a. used by the wingman when on the wrong side.
+
+b. turns by either aircraft to check six.
+
+c. simultaneous turns by both aircraft into each other to correct
+spacing.
+
+d. simultaneous turns by both fighters for a heading change of less
+than 45°.
+
+180° tactical turns are necessary and generally are either in-place or
+
+a. delayed.
+
+b. _in-trail.
+
+Cc. Cross.
+
+d. series of check turns.
+
+The shackle is a/an
+
+a. positioning maneuver whereby each aircraft simultaneously
+turns into the other, crosses and turns back to original heading
+as necessary to achieve proper spacing.
+
+b. positioning maneuver after cross turns only to affect proper
+lateral spacing.
+
+c. positioning maneuver that requires one aircraft to turn hard
+into the other until proper lateral spacing is regained.
+
+d. alternative very low level tactical formation to the wedge.
+
+D-59 OPS-4
+
+
+Text from OPS-4_Formation_Procedures_page_66.jpeg:
+ANSWERS
+
+1. b
+2. d
+3. Cc
+4, a
+
+OPS-4 D - 60
+
+
+Text from OPS-4_Formation_Procedures_page_67.jpeg:
+END OF TEXT QUIZ
+
+The basic difference between the normal fingertip formation position
+and the weather position is that the weather position is flown
+
+closer and higher to keep sight of lead.
+
+high and aft to have more reference to see.
+slightly down and aft to see more of the reference.
+with the anticollision lights on.
+
+Boop
+
+In route formation, the spacing is approximately
+
+a.  two-ship lengths out.
+
+b. 1000 feet out.
+
+c. down and aft.
+
+d. out toa maximum of 500 feet.
+
+At night there will be no lead changes below unless on GCA
+downwind.
+
+a. 1000 feet AGL
+
+b. 1500 feet AGL
+
+c. 2000 feet AGL
+
+d. 2500 feet AGL
+
+If no signal is briefed, what is the cue for gear and flaps retraction to
+the wingman on an F-15E formation takeoff?
+
+Head nod from lead
+
+Both aircraft safely airborne
+Lead’s main gear doors open
+Lead’s nose gear door opens
+
+ao oP
+
+E-1 OPS-4
+
+
+Text from OPS-4_Formation_Procedures_page_68.jpeg:
+5. When does the wingman transition to the fingertip references on a
+formation takeoff?
+
+After gear and flaps retraction
+At liftoff
+
+When safely airborne
+
+Just prior to turn out of traffic
+
+Boop
+
+6. The standard join-up speed for lead to hold, unless briefed/called
+otherwise, is
+
+a. 330 KCAS.
+b. 350 KCAS.
+c. 400 KCAS.
+d. 300-350 KCAS.
+
+7. | When approaching the route point in a join-up with excessive
+overtake the best thing to do is to
+
+drop low and pull hard Gs to the inside.
+
+climb and go over the top.
+
+initiate a controlled overshoot.
+
+pop speedbrake, pull throttles to idle and yaw aircraft hard
+away from lead.
+
+pe op
+
+8. You are flying Number Two in route formation and lead closes his
+fist and extends his thumb touching his oxygen mask in a drinking
+motion. What is he asking?
+
+Fuel state
+
+Oxygen state
+Weapons/ammo state
+Tell me your problem
+
+pe op
+
+OPS-4 F-2
+
+
+Text from OPS-4_Formation_Procedures_page_69.jpeg:
+10.
+
+11.
+
+Your leader holds up a clenched fist and then two fingers. He is
+
+signifying
+
+a. an engine problem.
+
+b. a fuel problem.
+
+c. anelectrical problem.
+
+d. that he has 2000 lbs of fuel.
+
+You are Number Four during level flight in the weather, and you lose
+sight of Number Three. You should maintain aircraft control and
+
+a.
+b.
+C.
+
+d.
+
+turn away using 15° of bank for 15 seconds and inform lead.
+climb 500 feet and inform lead.
+
+simultaneously inform lead and turn away using 30° of bank for
+30 seconds, resume heading and obtain a separate clearance.
+pull back power and inform lead.
+
+You are on the wing on GCA final when you lose sight of lead. What
+should you do?
+
+a.
+
+b.
+
+a
+
+Reduce power, begin missed approach, observe terrain/obstacle
+limits and call lead.
+
+Momentarily turn away to ensure separation, inform lead,
+commence missed approach and obtain a separate clearance.
+Climb 500 feet, observe terrain/obstacle limits and call lead.
+Add power to assure separation, inform lead, commence missed
+approach and observe terrain/obstacle limits.
+
+E-3 OPS-4
+
+
+Text from OPS-4_Formation_Procedures_page_7.jpeg:
+TEXT
+FORMATION INTRODUCTION
+Requirement
+
+Formation flying is required for the efficient employment of the F-15E in
+the air-to-surface or air-to-air roles. During combat operations, formation
+is required for coordinated offensive maneuvering, mutual support and
+survivability; therefore, formation discipline is essential.
+
+The Basic Fighting Unit
+
+The basic fighting unit is the two-ship element (Figure D-1). The leader is
+responsible for briefing, selecting tactics and employing the flight within
+its capabilities to carry out the assigned mission. The wingman's main
+duty is to fly the briefed formation and to support the leader at all times.
+
+OPS-04-01
+
+Figure D - 1. Two-Ship.
+
+D-1 OPS-4
+
+
+Text from OPS-4_Formation_Procedures_page_70.jpeg:
+12. The tactical formation two-ship wedge allows the wingman more
+flexibility and his position is
+
+a.
+
+b.
+
+a 90° cone either side of lead's 3/9 line, 4000-12,000 feet out and
++5000 feet.
+
+45-70° back, 4000-12,000 feet out and altitude spread as
+required.
+
+from lead’s 3/9 line aft to 45°, 4000-12,000 feet out and +5000
+feet.
+
+30-70° aft of lead's 3/9 line, 4000-9000 feet out.
+
+13. The two-ship wedge is best applicable to
+
+©
+
+a defensive medium altitude air-to-surface mission.
+
+very low level formation and elements of a fluid four that are
+primarily offensive.
+
+offensive hard maneuvering formation only.
+
+a defensive situation in which mutual support for survival is
+the primary purpose.
+
+14. The four-ship fluid four tactical formation composition and spacing
+parameters are two elements of
+
+pe op
+
+two-ship fluid in line abreast spaced 9000-12,000 feet apart.
+line abreast, spaced 9000-12,000 feet apart.
+
+line abreast operating autonomously.
+
+wedge in line abreast spaced 4000-6000 feet apart.
+
+15. The fluid four tactical formation is best suited for
+
+e
+
+OPS-4
+
+maneuverability and defensive mutual support.
+concentration of force, maneuverability and element mutual
+support.
+
+air-to-air offensive operations only.
+
+air-to-surface offensive operations only.
+
+
+Text from OPS-4_Formation_Procedures_page_71.jpeg:
+AFMC
+
+AOA
+
+CAP
+
+FLIR
+
+FOV
+
+GCI
+
+IMC
+
+NORDO
+
+ROE
+
+SD
+
+SRM
+
+TF
+
+TFR
+
+VMC
+
+GLOSSARY
+Air Force Material Command
+Angle of attack
+Combat Air Patrol
+Forward looking infrared
+Field of view
+Ground controlled interception
+Instrument meteorological conditions
+No radio
+Rules of engagement
+Spatial disorientation
+Short range missile
+Terrain following
+Terrain following radar
+
+Visual meteorological conditions
+
+OPS-4
+
+
+Text from OPS-4_Formation_Procedures_page_72.jpeg:
+(This Page Intentionally Blank)
+
+OPS-4 F-2
+
+
+Text from OPS-4_Formation_Procedures_page_73.jpeg:
+OPS-4
+Standard Formation Signals
+
+The following standard formation signals for day and night operations
+have been extracted from AFI 11-205 (19 May 1994).
+
+STANDARD FORMATION SIGNALS FOR DAYTIME COMMUNICATION
+
+Table 1. Standard Formation Signals for Daytime Communication (See Notes).
+
+Afterburner in or out Move clenched fist inboard or Nod head.
+NOTE: Not required during outboard as appropriate.
+formation takeoff.
+
+Attention in the air Execute rapid shallow rocking of
+wings.
+
+Battle Damage Assessment (BDA) Hold clenched fist with index
+
+Check finger and thumb extended, back
+of hand towards canopy.
+Wingman responds by executing
+prebriefed BDA check.
+
+Change Lead Make several forward pointing Pilot of aircraft assuming the lead
+motions, then hold up number of nods head.
+fingers to indicate present
+position of the point which is to
+assume the lead.
+
+Echelon to the Right or Left Dip wing to the right or left,
+whichever is appropriate.
+
+Echelon Turn Extend clenched fist with
+forefinger and little finger
+extended upward for each echelon
+turn performed.
+
+*Flaps Up or Down Hand flat, fingers forward, Nod head.
+NOTE: During a formation downward motion of hand from
+
+takeoff, preparatory or execution wrist to lower flapsBreverse
+
+signals are not required for motion to raise flaps.
+
+raising flaps. Initial gear
+
+movement on the flight lead=s
+
+aircraft may be used as the
+
+wingmanses signal for gear and
+
+flap retraction.
+
+Fuel Check Close fist with the thumb
+extended and perform drinking
+motion with thumb touching the
+oxygen mask.
+
+* Means standardized with NATO.
+
+G-1 OPS-4
+
+
+Text from OPS-4_Formation_Procedures_page_74.jpeg:
+Table 1. (Cont=d)
+
+Fuel Remaining for like type In response to Fuel Check. Extend one finger for each 1000
+
+aircraft Ibs. of fuel board. Extend
+finger(s) vertically for 1000 to
+5000 lbs; horizontally for 6000 to
+9000 lbs. After signaling 1000 lbs.
+increments, pull hand out of sight
+then signal 100 lbs increments in
+the same manner. Signal zero
+with closed fist. For example: To
+signal 6300 lbs., extend one finger
+horizontally (indicating 6000 lbs.);
+pull hand out of sight (indicating
+a change from thousands to
+hundreds); and extend three
+fingers vertically (indicating 300
+Ibs.).
+
+*Fuel Remaining for dissimilar In response to Fuel Check. a. Less than 10 minutes
+
+aircraft remaining: use the ALand
+Immediately@ signal in
+attachment 2.
+b. For more than 10 minutes, use
+up to five fingers to indicate each
+10 minute increment of fuel as
+follows:
+1 finger = 10 to 19 minutes
+2 fingers = 20 - 29 minutes
+3 fingers = 30 - 39 minutes
+4 fingers = 40 - 49 minutes
+5 fingers = more than 50 minutes
+
+Gear Down Downward motion with a closed Nod head.
+fist, thumb extend downward.
+
+Gear Up Upward motion with closed fist,
+NOTE: During a formation thumb extended upward.
+takeoff, preparatory hand signals
+
+are not required for raising the
+
+gear.
+
+Jettison Stores Hold fist at top of canopy and Nod head.
+make several al motions.
+
+| Lanyard Check = Check PT Show hooked index | Show hooked index finger.
+
+Oxygen Check Cup hand over oxygen mask,
+
+NOTE: If the response is not an followed by query in the form of
+
+OK, use the radios or appropriate an OK sign (circle formed by
+
+HEFOE signal. touching ends of thumb and
+forefinger, other fingers
+extended).
+
+OPS-4 G-2
+
+
+Text from OPS-4_Formation_Procedures_page_75.jpeg:
+Table 1. (Cont=d)
+
+Pitchout Make a circular motion with
+vertically extended index
+finger.
+
+Radio Frequency Change Tap helmet near ear with Extend finger(s) vertically for
+fingers extended. digits 1 through 5,
+
+horizontally for digits 6
+through 9, pulling hand down
+out of sight between digits.
+Signal zero with a clenched
+fist. Ensure signals are made
+against a visible background.
+For example:
+a. Present channel
+changeBtap helmet, extend
+appropriate number of fingers
+for channel desired, pulling
+hand down out of sight
+between digits.
+b. Prebriefed manual
+frequencyBtap helmet, hold
+up clenched fist next to
+helmet.
+c. Manual frequency not
+prebriefedBtap helmet, hold
+up clenched fist next to the
+helmet, extend appropriate
+number of fingers for
+frequency desired, pulling
+hand down out of sight
+between digits.
+
+Ready for Takeoff After run up, the leader looks | Wingman nods head yes or
+at the wingman. no.
+
+Reform or Tighten formation Po Rock wings slowly.
+
+Run up Engine for Takeoff Make a circular motion with
+vertically extended index
+finger.
+
+*Speed Brake(s) in or out Biting motion with hand; Nod head.
+fingers and thumb opening
+and closing.
+
+Start Engines Extend arm over head and
+make a circular motion with
+the hand.
+
+G-3 OPS-4
+
+
+Text from OPS-4_Formation_Procedures_page_76.jpeg:
+Start Takeoff Roll Lead places head back toward | Lead nods head for brake
+headrest. release. For aircraft equipped
+
+with afterburner, after the
+aircraft are rolling straight
+down the runway, a second
+head nod is a signal to light
+afterburner (unless after-
+burner light up is initiated
+simultaneously with brake
+release).
+
+Tactical Formation Make a series of porpoising
+maneuvers, spacing as
+briefed.
+
+NOTES:
+
+1. Pilots in formation will relay visual signals; the leader must allow enough time for the relay of
+each signal after it is given.
+
+2. The head nod is the signal to acknowledge understanding of preparatory signals.
+
+OPS-4 G-4
+
+
+Text from OPS-4_Formation_Procedures_page_77.jpeg:
+IN-FLIGHT DISTRESS SIGNALS
+
+Table 2. In-Flight Distress Signals.
+
+Approach End Cable Engagement a. Escorted: Extend tail hook. Escorting
+aircraft with relay intent.
+b. Unescorted: Fly parallel to the active
+runway at 1000 feet above the field elevation
+with tail hook extended. Rock wings until
+reaching the departure end of the runway,
+turn to downwind and check tower or mobile
+control for light signals. If a straight-in cable
+engagement must be flown, flash landing light
+on final.
+
+*Bailing Out or Ejection One or both clenched fists pulled downward
+across the face to simulate pulling an ejection
+face curtain.
+
+Descend to Lower Altitude Hold hand at top of canopy, palm down,
+fingers extended and joined, move hand
+forward and down.
+
+*Desire to Land Movement of the hand, flat, with palm down,
+forward and downward, finishing the
+movement in a simulated roundout. As an
+alternate signal, lower the landing gear.
+
+Electrical Failure Landing (No Assist Aircraft | Distressed aircraft will fly 500 feet over the
+
+Available) tower or mobile control, then continue to the
+far end of the runway and pull up into a wide
+downward leg. Proceed with a landing and
+pattern approach for the type of aircraft being
+flown while watching the tower or mobile for
+signals. The control tower will clear the area
+of other aircraft and will call emergency crash
+equipment to the scene.
+
+I Must Land Immediately Close fist and hold it to top of canopy with
+thumb extend downward, then move arm and
+down rapidly. (Do not confuse with AGEAR
+DOWNG signal, which is generally not used
+with altitude.)
+
+I Must Land on Your Wing Pat shoulder, palm down. To prevent
+confusion with other signals, use right hand
+and left shoulder or vice versa. To
+acknowledge, other pilot must give the OK
+signal; the basic signal indicates a jet
+approach speed of 180 knots. If the distress
+aircraft desires a higher approach speed, the
+pilot must raise one finger for each 10 knot
+increase desired. The distressed aircraft
+lands and the escort executes a go around.
+
+G-5 OPS-4
+
+
+Text from OPS-4_Formation_Procedures_page_78.jpeg:
+Table 2. (Cont=d)
+
+Intercepting Signals The intercepting aircraft positions itself in
+front of and usually to the left of the
+intercepted aircraft and rocks its wings. This
+is a signal that the interceptor wishes the
+other aircraft to follow it. A responding
+irregular flashing of all available lights in this
+case indicates distress.
+
+Radio Failure Tap microphone or earphone of helmet and
+signal as appropriate:
+a. Receive Failure: With palm of hand over
+the ear position, move hand forward and
+backward.
+b. Transmitter Failure: With palm of hand
+toward and in front of the face, move hand up
+and down.
+
+Radio Inoperative Landing (No Assist Aircraft | Fly aircraft along the side of the landing
+
+Available) runway, 1000 feet above the field elevation,
+rocking wings until reaching end of the
+runway. Turn to downwind and check the
+tower or mobile control for green light on base
+leg and final approach for landing clearance.
+
+System Failures (HEFOE System) Clench fist and hold it at top of canopy, then
+hold up the required number of fingers to
+denote which system is involved (see a
+through e below). If the clenched fist signal is
+seen but no finger signal is seen or the
+intercepting pilot is unable to understand the
+signal given, the pilot will assume the aircraft
+in distress has one or more systems
+inoperable and should proceed with caution.
+
+System Failures (HEFOE System) The receiving pilot acknowledges the signal by
+(Continued) repeating it:
+a. HydraulicBone finger
+b. ElectricalBtwo fingers
+c. FuelBthree fingers
+d. OxygenBfour fingers
+e. EngineBfive fingers
+NOTE: For multi-engine aircraft, point to the
+side, left or right, that corresponds with the
+engine failure.
+
+NOTES:
+1. For use only when radio is inoperative or not available.
+2. Day visual signals.
+
+OPS-4 G-6
+
+
+Text from OPS-4_Formation_Procedures_page_79.jpeg:
+NIGHT VISUAL SIGNALS
+
+Table 3. Night Visual Signals.
+
+Aircraft Emergency (Must Land As Soon As Signal escort aircraft by repeated intermittent
+
+Possible) flashes with a flashlight, then assume the
+wing position. This signal indicates a jet
+approach speed of 130 knots. If a higher
+approach speed is desired, the pilot must
+pause after the basic signal, and then blink
+flashlight at the top of the canopy, once for
+each 10-knot increase desired. The escort
+pilot will lead to the nearest suitable field,
+declare an emergency with the controlling
+agency, then fly a straight-in approach with
+the distressed aircraft on the wing. The
+distressed aircraft lands and the escort
+executes a go around.
+NOTE: On a straight-in approach, the escort
+aircraft turns the position lights to bright, or
+dim and steady as appropriate, to alert the
+wingman to prepare to lower flaps and
+landing gear. The corresponding signal of
+execution will be for the lead aircraft to return
+position lights to the original setting.
+However, if the aircraft is equipped with only
+a steady-bright light position, the lead aircraft
+will blink lights for alerting signal of
+execution.
+
+Approach End Cable Engagement Fly parallel to active runway at 1000 feet
+above field elevation with gear down and flash
+landing light. Turn downwind and check
+tower or mobile control for light signal. Ifa
+straight-in cable engagement must be flown,
+flash landing light on final.
+
+Attention Attract attention by switching on the landing
+light, or other means of illumination.
+
+Change Lead Pilot of distressed aircraft holds flashlight
+parallel with canopy rail and sends a steady
+light while making a straight line from rear
+toward the front of the canopy.
+
+Descend to Lowest Practical Altitude Make a rapid vertical movement with a
+flashlight.
+
+Electrical Failure Landing (No Assist Aircraft | Procedure same as described for day visual
+
+Available) signal in attachment 2.
+
+Radio Inoperative Make a large circular motion with a
+flashlight.
+
+Radio Inoperative Landing Same as day signal procedures in
+attachment 2.
+
+Signal Acknowledgment Point a steady light from the flashlight at the
+signaling aircraft.
+
+G-7 OPS-4
+
+
+
+Text from OPS-4_Formation_Procedures_page_8.jpeg:
+The Basic Fighting Formation
+
+A four-ship flight (Figure D-2) is the basic fighting formation, consisting of
+two elements with some degree of mutual support between the two.
+
+OPS-04-02
+
+Figure D - 2. Four-Ship.
+
+THE CARDINAL RULE - KEEP LEAD IN SIGHT
+
+OPS-4 D-2
+
+
+Text from OPS-4_Formation_Procedures_page_80.jpeg:
+(This Page Intentionally Blank)
+
+OPS-4 G-8
+
+
+Text from OPS-4_Formation_Procedures_page_9.jpeg:
+FORMATION POSITIONS
+
+Fingertip
+
+In the F-15E, fingertip formation position (Figure D-3) is maintained by
+using the following visual references:
+
+Line up the anticollision beacon with upper UHF antenna.
+Line up the leading edges of vertical stabilizers.
+
+Maintain wingtip clearance.
+
+Fly high enough to see the top of the inside wing.
+
+Number Four should line up helmets of one and three.
+
+PLAN VIEW SIDE VIEW
+
+OPS-04-03
+
+Figure D - 3. Plan View and Side View.
+
+D-3 OPS-4
+
+

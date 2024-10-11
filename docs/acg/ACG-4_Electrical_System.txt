@@ -1,0 +1,2338 @@
+Text from ACG-4_Electrical_System_page_1.jpeg:
+SUPPORTS COURSES
+FIS5EBQ
+
+FISETX
+
+FISESOC
+
+ACADEMIC STUDENT WORKBOOK
+F-15E
+
+AIRCRAFT GENERAL
+ACG-4
+ELECTRICAL SYSTEM
+
+OCTOBER 1998
+
+(SUITE 3 OFP)
+
+AIR COMBAT COMMAND
+
+
+Text from ACG-4_Electrical_System_page_10.jpeg:
+JFS Generator
+
+The JFS generator provides power for:
+
+JFS ignition and control
+
+Intercom system (cockpit & ground crew chief)
+Front cockpit utility light
+
+AMAD fire warning/extinguisher system
+
+JFS ready light
+
+The JFS READY light (Figure D-4) tells you when the JFS is up to speed
+and the intercom, utility light, and AMAD fire warning are available.
+
+BMAv>=z ozmr =
+AmMANPreE @gzm WV
+
+ACG-04-04
+
+FRONT COCKPIT ENGINE CONTROL PANEL
+
+Figure D - 4. Engine Control Panel.
+
+If the JFS READY light does not come on within 10 seconds (15 seconds if
+below 0°) and the JFS sounds normal, test the AMAD fire light. If it tests
+OK, have the crew chief replace the JFS light.
+
+ACG-4 D-4
+
+
+Text from ACG-4_Electrical_System_page_11.jpeg:
+Emergency Generator
+
+Emergency AC/DC power is available through the emergency generator,
+driven by the utility hydraulic system (Figure D-5). The emergency
+generator is separate from the primary system and provides electrical
+power during electrical system failure and initial engine start.
+
+=
+
+ACG-04-05
+
+Figure D - 5. Emergency Generator.
+
+The emergency generator is a critical backup system. When you are ready
+to start, hack the clock and raise the right finger lift to start the right
+engine.
+
+When the engine reaches 15-17%, enough hydraulic pressure is present to
+
+start the emergency generator. This should occur within 30 seconds
+(maximum) after raising the finger lift.
+
+D-5 ACG-4
+
+
+Text from ACG-4_Electrical_System_page_12.jpeg:
+During a normal start, you can verify that the emergency generator comes
+on-line. Note in Figure D-6 that the top two lines (RPM and FTIT) are
+powered by the emergency generator and register on the engine monitor
+display (EMD).
+
+ENGINE
+RPM %
+
+TEMP °C EMD INDICATES ENGINE RPM
+i, AND FTIT WHEN THE EMERGENCY
+GENERATOR COMES ON-LINE
+PRIOR TO THE MAIN GENERATOR
+COMING ON-LINE.
+
+NOZ
+
+\\
+100 100
+OIL PSI
+
+ENGINE MONITOR DISPLAY ACG-04-06
+
+Figure D - 6. Engine Monitor Display.
+
+If the engine is rotating and the top two lines of the EMD fail to register
+readings, it is possible (but unlikely) that the EMD, rather than the
+emergency generator, has failed. An easy way to troubleshoot is to test
+the engine fire lights. If they test good, the problem is the EMD. If they
+test bad, the problem is the emergency generator.
+
+ACG-4 D-6
+
+
+Text from ACG-4_Electrical_System_page_13.jpeg:
+If the emergency generator does not come on-line, cycle the emergency
+generator switch through ISOLATE. If that does not solve the problem,
+position the engine master switches and JF'S switch to OFF and abort the
+
+mission.
+
+When the right main generator comes on-line (about 56% rpm), the EMER
+BST ON and L GEN cautions illuminate to show that both emergency
+generator and emergency boost pump are operating properly (Figure D-7).
+(Other cautions—such as ENGINE, FLT CONTR, HYD, etc.—illuminate
+
+also.)
+
+(EMER BST ON
+2) |
+in ii (__LGEN
+= i ZI = ("ENGINE _) [FLT CONTR
+aoe ek j 288 Oo [Aver
+800/00
+STO o%o 83
+ae a0 (lel}o_o
+[=| —, G
+FRONT COCKPIT CAUTION LIGHTS PANEL
+
+ACG-04-07
+
+Figure D - 7. Caution Lights Panel (FCP).
+
+D-7 ACG-4
+
+
+Text from ACG-4_Electrical_System_page_14.jpeg:
+During normal start, 30 seconds after the main generator comes on-line,
+the emergency generator shuts off to avoid needless operation. The only
+indication of this is the BST SYS MAL caution light (Figure D-8). It
+comes on in addition to the EMER BST ON caution to show that the
+emergency fuel boost pump is now operating from an abnormal power
+source—a main generator.
+
+(EMER BST ON ( BST SYS MAL
+( L GEN (
+
+( ENGINE ( FLT CONTR
+( AV BIT
+
+ACG-04-08
+
+Figure D - 8. Caution Lights Panel.
+
+If the BST SYS MAL caution illuminates less than 30 seconds after the
+first main generator comes on-line, the emergency generator has dropped
+off-line prematurely. (If rpm and FTIT go blank before the BST SYS MAL
+caution illuminates, this is also an indication of premature cutoff.)
+Position the throttles and engine master switches to OFF and have
+maintenance investigate.
+
+When the second main generator comes on-line, the EMER BST ON and
+BST SYS MAL cautions go out along with the L GEN, ENGINE, and HYD
+caution lights.
+
+ACG-4 D-8
+
+
+Text from ACG-4_Electrical_System_page_15.jpeg:
+NOTE
+
+The FLT CONTR light will be on because the CAS switches have not been
+reset (yaw CAS, roll CAS, pitch CAS, HIGH AOA DEGRADE cautions
+also illuminate). The AV BIT light is usually on (unless an aircrew
+member has pressed a master caution light) because most systems are
+turned off.
+
+AC Generators
+
+The two main AC generators are mounted on the right and left AMADs. A
+constant speed drive (CSD) maintains frequency control throughout the
+entire rpm range of the engines. When both generators are operating,
+each independently supplies power to certain aircraft AC buses
+
+(Figure D-9). If either generator should fail, the other provides necessary
+power via a crossover system.
+
+NTIAL |) ESSENTIAL
+T DC BUSES
+
+LEFT AC ESSENTIAL RIGHT AC
+BUSES if AC BUSES BUSES
+| LEFT DC
+JFS BUSES
+ESSENTIAL -
+DC BUSES = GOREN RIG
+T TRCU /~— “J N= R
+t LIMITERS
+RECTIFIER
+AND FILTER
+| CURRENT |p — po
+JFs \t 5 GCU
+GEN LIMITERS > — TIR.GEN
+EMER :
+GEN
+TAMA
+LD D
+OTO
+AC
+TO UTILITY
+SYSTEM DC
+| MB MECHANICAL
+
+ACG-04-09
+
+Figure D - 9. Electrical System.
+
+D-9 ACG-4
+
+
+Text from ACG-4_Electrical_System_page_16.jpeg:
+Current Limiters
+
+Each generator circuit is also protected by a current limiter (a slow-blow
+type fuse that cannot be reset). It prevents a fault in one generator from
+damaging the other generator, which causes both generators to be shut
+down. It also prevents overloads on the remaining generator during
+single generator operation. If a current limiter (i.e., current limited fuse)
+blows, the associated crossover circuit is broken. The generator control
+unit (GCU) logic assumes that improper current fed from that generator
+caused the current limiter to blow. It then takes that generator off-line to
+prevent further damage. Therefore, power is removed from the associated
+bus. However, if the other generator is on-line, it transfers current via the
+remaining crossover circuit, and powers both buses. The GCU continues
+to monitor current output from the off-line generator. When that current
+is within standards again, the generator can be reset (placed back on-line)
+to power its own bus.
+
+Generator Control Switch
+
+The L and R GEN control switches are two position (OFF and ON)
+lever-lock type switches (Figure D-10). They must be raised before being
+moved to a new position. You may disconnect a generator from its buses
+(place it off-line) at any time by positioning its switch to OFF.
+
+EMERG GEN
+Aro
+
+Cc
+EO
+NN
+GT
+
+R
+
+O
+
+1)
+Z
+AMADYSAYW |
+
+AmMmMAwor=s AZM DW
+
+°
+9
+a
+L_
+
+ACG-04-10
+
+Figure D - 10. Engine Control Panel.
+
+ACG-4 D-10
+
+
+Text from ACG-4_Electrical_System_page_17.jpeg:
+Generator Control Unit
+
+Each generator is protected against damage due to voltage, frequency, and
+mechanical failure by the GCU (Figure D-11).
+
+7s ESSENTIAL
+
+DC BUSES
+LEFT AC ESSENTIAL RIGHT AC
+BUSES if AC BUSES BUSES
+LEFT DC RT DC
+JFS BUSES BUSES
+ESSENTIAL |
+DC BUSES = COBREN RIG
+TRCU n ( } TRCU R Ff
+LIMITERS
+CURRENT _
+
+*| LIMITERS me
+
+EMER
+GEN
+D
+OTOR
+AC
+TO UTILITY
+SYSTEM pc
+| MECHANICAL
+
+ACG-04-11
+
+Figure D - 11. Electrical System.
+
+The GCU disconnects the generator from its buses if a fault occurs, then
+transfers the electrical load to the other main generator. When this
+occurs, the master caution and L GEN or R GEN caution lights come on
+and you may notice a momentary interruption of power. When a
+generator caution light flashes, the GCU has identified an under
+frequency condition and is trying to reset the generator automatically.
+
+The generator control switch must be cycled OFF/ON to reset the
+generator after most faults (except under frequency) occur.
+
+D-11 ACG-4
+
+
+Text from ACG-4_Electrical_System_page_18.jpeg:
+DC Power
+
+TRs convert AC power from the main generators to DC power for the DC
+buses. The left and right TRs have a protection system (TRCU) similar to
+the AC system. If the system isolates a faulty TR, the remaining TR
+powers the entire DC system. A third TR (the essential TR) operates
+independently of the other TRs.
+
+No cockpit warning of a single TR failure is provided. The emergency
+
+generator only activates when both main TRs fail. TR failure is covered in
+the emergency operations section of this text.
+
+ACG-4 D-12
+
+
+Text from ACG-4_Electrical_System_page_19.jpeg:
+QUESTIONS
+
+State the main functions of each component of the electrical system.
+
+a. Main generator:
+
+b. GCU:
+
+d. Emergency generator:
+
+e. Bus system:
+
+f. Current limiter:
+
+g. JFS generator:
+
+Using TO 1F-15E-1, page FO-13, determine when the 28 volt DC
+armament bus is energized.
+
+D-13 ACG-4
+
+
+Text from ACG-4_Electrical_System_page_2.jpeg:
+ADMINISTRATIVE INFORMATION
+
+This student workbook is designed to provide information on the F-15E,
+its systems, and capabilities. It is not a sole source document, but is to be
+used in conjunction with other standard Air Force publications and
+technical manuals. If you find any differences between the material
+contained herein and other governing regulations, adhere to the
+regulations and notify the OPDR.
+
+Changes to this workbook are indicated with a heavy black line in the left
+margin.
+
+Forward recommendations for revision or change to 4 TS, SJAFB, NC,
+275381.
+
+Supersedes: ACG-4, July, 1998
+
+OPDR: 4 TS
+
+Index of Changes
+
+Effective Date Pages Affected
+
+
+
+Text from ACG-4_Electrical_System_page_20.jpeg:
+3. State the function of each of the following switches.
+
+a.
+
+b.
+
+Generator control switch:
+
+Emergency generator switch:
+
+4. Ifthe JFS READY light is out but the JFS sounds normal, what
+action should you take?
+
+5. Circuit breakers are provided in the F-15K front cockpit for
+
+AFCS, pitot heat, vertical velocity indicator, flaps, landing gear,
+and nose gear steering.
+
+pitot heat, AFCS, landing gear, flaps, EMD, and nose gear
+steering.
+
+AFCS, pitot heat, speed brake, flaps, landing gear, and nose
+gear steering.
+
+AFCS, pitot heat, AOA indicator, speed brake, flaps, and landing
+gear.
+
+6. With no external power connected and only the JFS running,
+available electrical power is restricted to
+
+a.
+
+b.
+
+ACG-4
+
+emergency boost pump, JFS ready light, utility light, and the
+AMAD fire warning light.
+
+FCP utility light, AMAD fire warning, intercom, JFS ready
+light, and JFS ignition.
+
+emergency boost pump, emergency boost pump caution, AMAD
+fire warning, and the JFS ready light.
+
+JFS ready light, AMAD fire warning, intercom, and emergency
+boost pump.
+
+
+Text from ACG-4_Electrical_System_page_21.jpeg:
+Situation A: (Questions 7-9) You are starting an F-15E (no external power
+connected). With the JFS running, you raise the finger lift and the whine
+of the JFS tells you that the JFS has engaged the engine and operation is
+normal. You feel the engine rpm increase, but 30 seconds later you have
+no rpm indications on the EMD.
+
+7. What is the electrical system malfunction?
+
+8. What is your first course of corrective action?
+
+9. What additional action would you take if your initial corrective action
+failed?
+
+Situation B: (Questions 10-12) While starting the right engine, you note
+that the rpm and FTIT indications are normal. The EMER BST ON
+caution appears (i.e., R main generator comes on-line). Fifteen seconds
+later the BST SYS MAL caution appears.
+
+10. What is the abnormal indication?
+
+11. What is the electrical system malfunction?
+
+12. What corrective action would you take?
+
+D-15 ACG-4
+
+
+Text from ACG-4_Electrical_System_page_22.jpeg:
+ANSWERS
+
+1. a. Main generator: The two main generators supply AC electrical
+power to the aircraft.
+
+b. GCU: The GCU protects the generator against damage due to
+voltage, frequency, and mechanical failure. It disconnects the
+generator from its buses if a fault occurs. At the same time, it
+transfers the electrical load to the other main generator’s bus.
+
+c. TR: TRs are used to convert AC to DC. There are three of them.
+Two power the left and right DC buses. One powers the
+essential TR DC bus.
+
+d. Emergency generator: Supplies emergency AC/DC power in the
+aircraft. It can power all systems necessary for a safe recovery.
+
+e. Bussystem: The bus system distributes power to the aircraft
+electrical systems.
+
+f. Current limiter: A current limiter prevents a fault in one
+generator from causing both generators to be shut down or
+damaged.
+
+g. JFS generator: Provides JFS ignition and control, AMAD fire
+detection/extinguisher during start, FCP utility light and
+intercom system until the main generator comes on-line.
+
+2. See note 2 on page FO-13. The armament bus is energized with the
+landing gear handle up. If the landing gear handle is in the down
+position, the armament bus can be energized by placing the
+armament safety override switch to the OVERRIDE position.
+
+3. a. Generator control switch: Connects/removes a generator to/from
+its buses.
+
+ACG-4 D-16
+
+
+Text from ACG-4_Electrical_System_page_23.jpeg:
+10.
+
+11.
+
+12.
+
+b. Emergency generator switch: Controls emergency generator. If
+placed in the AUTO position, the emergency generator will be
+automatically activated if either/both main generators are
+inoperative, both left and right TRs fail, or if either/both main
+fuel boost pumps fail. The MAN position provides manual
+activation of the emergency generator. The ISOLATE position
+restricts the emergency generator to powering the emergency
+fuel boost pump, arresting hook, and emergency air refueling
+switch.
+
+Test the AMAD fire light. If it tests OK, have the crew chief replace
+the JFS light.
+
+é
+b
+
+Situation A: (Questions 7-9) You are starting an F-15E (no external
+power connected). With the JFS running, you raise the finger lift and
+the whine of the JFS tells you that the JFS has engaged the engine
+and operation is normal. You feel the engine rpm increase, but 30
+seconds later you have no rpm indications on the EMD.
+
+The emergency generator did not come on-line.
+
+You should try to bring the emergency generator on-line by cycling
+the emergency generator switch to ISOLATE and then back to the
+AUTO position.
+
+Position the engine master switches to OFF, JFS to OFF, and abort.
+Situation B: (Questions 10-12) While starting the right engine, you
+note that the rpm and FTIT indications are normal. The EMER BST
+ON caution appears (i.e., R main generator comes on-line). Fifteen
+
+seconds later the BST SYS MAL caution appears.
+
+The BST SYS MAL caution illuminated prematurely (30 seconds has
+not elapsed).
+
+The emergency generator failed and dropped off-line prematurely.
+
+Position the throttles OFF, the engine master switches off, and have
+maintenance investigate the malfunction.
+
+D-17 ACG-4
+
+
+Text from ACG-4_Electrical_System_page_24.jpeg:
+ADDITIONAL ELECTRICAL SYSTEM TOPICS
+External Power
+
+External power may be connected to the aircraft through an external
+electrical receptacle near the nose gear wheelwell (Figure D-12). External
+power is used mainly by the ground crew during repair and maintenance.
+On rare occasions, you may be requested to do an external power start.
+Follow your checklist.
+
+AS aS aS AY ae AY A a A A
+
+oor Pars
+Cree ttt tt terre
+
+_ EXTERNAL POWER
+POWER CABLE RECEPTACLE & DOOR
+
+ACG-04-12
+
+EXTERNAL POWER
+
+Figure D - 12. External Power.
+
+The aircraft buses are energized by external power in a manner similar to
+an operating main generator. Exceptions are those buses which furnish
+power to systems that do not have on/off control switches and/or require
+cooling air. Power can be applied to these buses by using ground power
+switches (covered later in this section).
+
+If you are on external power and start the left engine first, the complete
+electrical system automatically switches to internal power when the left
+generator comes on-line.
+
+ACG-4 D-18
+
+
+Text from ACG-4_Electrical_System_page_25.jpeg:
+If the right engine is started first, however, the right generator powers
+only the buses it normally feeds. The buses usually fed by the left
+generator remain on external power (except those supported by the JFS
+generator) until external power is removed or the left engine is started
+and the left generator comes on-line.
+
+External Power Control Switch
+
+The three position external power control switch, located on the engine
+control panel (Figure D-13), controls application of external power to the
+aircraft electrical buses. An external power monitor prevents faulty
+external power from being connected to the aircraft.
+
+EMERG GEN
+A'™O
+
+@zm
+DAZOO
+
+ISOLATE
+READY-
+
+O
+
+ON
+
+zman>d40 —
+AmMAn>rSE AZM DW
+
+ie)
+7
+aul
+L_
+
+ACG-04-13
+
+Figure D - 13. External Power Switch.
+
+External power control switch positions are:
+
+NORM Allows the aircraft electrical buses to be energized by external
+power if no aircraft generators are operating. The switch will
+remain in normal unless OFF is selected manually.
+
+RESET Establishes external power if it is not on the line. The RESET
+position is spring-loaded to NORM.
+
+OFF Disconnects external power from the aircraft.
+D-19 ACG-4
+
+
+Text from ACG-4_Electrical_System_page_26.jpeg:
+Ground Power Control Panel/Switches
+
+Seven ground power switches are located on the ground power control
+panel (Figure D-14). These switches are primarily used by maintenance
+to power up systems that require cooling air. Be sure they are in AUTO.
+Placing these switches to ON allows external power to be connected to the
+avionics group associated with the individual switch. The switches are
+electrically held on and will revert to auto if internal power is available or
+external ground power is disconnected. OFF prevents any power from
+being applied to the respective avionics group(s).
+
+G
+N Ear
+5 :
+| Bie
+7 a
+> @
+PACS ON CC ON C ome
+ee
+G70 Grr Eel S
+OFF OFF Heal aa
+/ 35
+MPBE! AlU1 aa
+© <<
+[os
+ACG-04-14
+GND PWR CONTROL PANEL FRONT COCKPIT
+
+Figure D - 14. Ground Power Control Switches.
+
+ACG-4 D - 20
+
+
+Text from ACG-4_Electrical_System_page_27.jpeg:
+Aircraft Lighting System - Exterior Lights
+
+Landing/taxi lights
+Anticollision lights
+Position lights
+Formation lights
+Vertical tail flood lights
+Slipway lights
+
+Air refueling receptacle flood light
+
+External lighting is controlled from the exterior lights control panel
+(Figure D-15) and the miscellaneous control panel (Figure D-17,
+page D-23). Both are located on the left console of the front cockpit.
+
+|(@ FORMATION ethan POSITION
+
+VERT TAIL 9 OFF—
+FLOOD
+
+T
+S 5
+BRT FLASH _LBRT
++ DIM
+OFF
+
+EXT LT CONTROL PANEL FRONT COCKPIT
+
+ACG-04-15
+
+Figure D- 15. Exterior Lights Control Panel.
+
+D-21 ACG-4
+
+
+Text from ACG-4_Electrical_System_page_28.jpeg:
+i_]
+TAXI! LIGHT
+
+LANDING LIGHT
+
+ACG-04-16
+
+Figure D - 16. Nose Gear.
+
+ACG-4 D - 22
+
+
+Text from ACG-4_Electrical_System_page_29.jpeg:
+Landing/Taxi Lights
+
+The landing and taxi lights are located on the nose gear strut
+
+(Figure D-16). They are controlled by the LDG LIGHT/TAXI LIGHT
+switch. This is a three-position toggle switch (TAXI LIGHT, OFF, LDG
+LIGHT) located on the miscellaneous control panel (Figure D-17). The
+light is automatically turned off regardless of the switch position when the
+landing gear handle is up.
+
+R
+©) LIGHT
+
+MISC CONTROL POWER PANEL FRONT COCKPIT
+
+ACG-04-17
+
+Figure D - 17. Miscellaneious Control Panel.
+
+D - 23 ACG-4
+
+
+Text from ACG-4_Electrical_System_page_3.jpeg:
+AIRCRAFT GENERAL
+
+COVER
+
+ELECTRICAL SYSTEM
+
+INTRODUCTION
+
+This workbook is your guide in studying the F-15E electrical system. It
+will familiarize you with the components, nomenclature, and operational
+characteristics of the electrical system and provide you with knowledge
+needed to safely operate the F-15E aircraft.
+
+CONTENTS:
+
+INTRODUCTION 0.00. eeeccceeseeesseeceseeseesaeecesacecensaeeeesaeeessaeeseenaeeens A-1
+CRITERION REFERENCED OBJECTIVES (CROs)............eeeeeeeeeeeeeee B-1
+STUDENT PREPARATION REQUIREMENTS . 0.00... eeeeeeeeeeeeee C-1
+TEXT oc eeccccccessseecceesseeeecessseeecesesaeeeceesssaeeeseesssaeeesesssaeeeseeeeaaeeseee D-1
+END OF TEXT QUIZ o.oo eeecceessneeesseeeeesaeecesaeeeensaeesesaeeseseeeeeaees E-1
+GLOSSARY. ee eeceeesecessneecesseeecesaeecesaeecessaeecesaeeseesaeecesaaesessaeeseeaeeeneas F-1
+
+A-1 ACG-4
+
+
+Text from ACG-4_Electrical_System_page_30.jpeg:
+Anticollision Lights
+
+There are three red anticollision lights. Two are on the leading edge of
+each wing, just outboard of the air intake. The other is below the tip of
+the right vertical tail fin. Figure D-18 indicates the location of the
+anticollision and position lights.
+
+S oe =
+i
+
+ANTICOLLISION LIGHTS
+(FLASHING RED)
+
+b
+\, FLOOD
+BR
++ DIM}
+OFI
+
+POSITION LIGHTS ACG-04-18
+
+Figure D - 18. Anticollision and Position Lights.
+
+Position Lights
+
+The position lights include a green light on the forward edge of the right
+wingtip, a red light on the forward edge of the left wingtip and a white
+light just below the tip of the left vertical tail fin. The position lights
+automatically go to bright/steady regardless of this knob position when
+the anticollision switch is ON.
+
+ACG-4 D - 24
+
+
+Text from ACG-4_Electrical_System_page_31.jpeg:
+Formation Lights
+
+Six green electroluminescent formation lights are provided. Two lights
+are on the wingtips behind the position lights, two lights are on the side of
+the forward fuselage just forward of the cockpit, and two lights are on the
+aft fuselage just aft of the wing trailing edge. Figure D-19 indicates the
+location of the formation and vertical tail flood lights.
+
+(@®) FORMATION lof NSIOn POSITION
+
+FORMATION LIGHTS
+(PANEL VARIABLE INTENSITY)
+ELECTROLUMINESCENT
+
+ANTI
+(@ FORMATION cof gon @ Position
+
+Sa)
+—— Ee
+
+VERTICAL TAIL FLOOD LIGHTS ACG-04-19
+
+Figure D - 19. Formation and Vertical Tail Flood Lights.
+
+Vertical Tail Flood Lights
+
+A white flood light is located on each side of the aircraft just aft of the
+wing root. These lights flood both vertical tails to aid in night join-up and
+make the aircraft more visible at night.
+
+Slipway Lights
+
+There are two slipway lights that come on when the slipway door is
+opened to allow the tanker boom operator to see the A/R receptacle at
+night. These slipway lights are on the essential AC bus and will come on
+even if the slipway door has to be opened by the emergency air refueling
+switch or if only the EMER generator is operating (auto or manual).
+
+D - 25 ACG-4
+
+
+Text from ACG-4_Electrical_System_page_32.jpeg:
+Air Refueling Receptacle Flood Light
+
+There is an external flood light mounted near the canopy hinge point (over
+WSO’s left shoulder) that floods the air refueling receptacle area to aid in
+night refueling. The flood light is also on the essential AC bus and will
+come on when the slipway door is opened by either the normal or
+emergency switch or if only the EMER generator is operating (auto or
+manual).
+
+Aircraft Lighting System - Interior Lights:
+
+e Instrument lighting
+
+e Console lighting
+
+e Storm/flood lighting
+
+e Standby compass light
+
+e §=6—UFC lighting
+
+e = Chart light
+
+e =~ Display lighting
+
+e = Lights test switch
+
+e = Warning/caution lights control knob
+
+e Utility flood lights
+
+With the exception of the utility flood lights, all interior lighting is
+
+controlled from the interior lights control panel on the right console of
+each cockpit (Figure D-20).
+
+ACG-4 D - 26
+
+
+Text from ACG-4_Electrical_System_page_33.jpeg:
+CONSOLE INST PNL
+
+FRONT COCKPIT omen be
+ra %
+OFF BRT
+io WARNING
+mn lele@lelele CAUTION
+a
+aka ‘= 0
+[o}
+oO ra 4 ra \
+OFF BRT OFF BRT
+268 ae 208 RESET W
+eo 20
+a!
+= i
+ACG-04-20
+REAR COCKPIT
+
+Figure D - 20. Interior Lights Control Panel.
+
+Instrument Lighting
+
+Integral lighting is provided for all instruments and panels on the front
+cockpit instrument panel. This includes the MPDs/MPCD, circuit breaker
+panel, HUD, radio call, arresting hook, emergency vent panel and standby
+compass (if STBY compass switch is on).
+
+Integral lighting is also provided for the rear cockpit instrument panel.
+This includes the MPDs/MPCDs, command selector valve panel, the
+arresting hook panel, and the radio call panel.
+
+The lights are controlled by the instrument panel lights knob in either
+cockpit labeled INST PNL (Figure D-21), and provide variable lighting
+between the OFF and BRT positions.
+
+D-27 ACG-4
+
+
+Text from ACG-4_Electrical_System_page_34.jpeg:
+Console Lighting
+
+The console knob on the interior light control panel (Figure D-21) controls
+the console lights and provides variable lighting between the OFF and
+BRT positions.
+
+CONSOLE INST PNL
+
+Z \
+OFF BRT
+
+WARNING
+CAUTION
+
+ACG-04-21
+
+Figure D - 21. Interior Lights Control Panel.
+
+UFC Lighting Knob
+
+The UFC lighting knob on the interior lights control panel, controls the
+lighting (OFF to BRT) of the UFC push buttons and control keyboard, and
+the HUD control panel (Figure D-21). (The UFC video display and the
+HUD display are controlled by separate knobs located respectively in the
+lower left-hand corner of the UFC and on the HUD control panel.)
+
+ACG-4 D - 28
+
+
+Text from ACG-4_Electrical_System_page_35.jpeg:
+Standby Compass Light
+
+Lighting for the standby compass is controlled by the STBY COMP switch
+and the INST PNL knob (Figure D-22). With the STBY COMP switch on,
+the lighting varies with the instrument panel lighting. There is a STBY
+COMP switch on the RCP interior lights control panel, but there is no
+standby compass in the rear cockpit.
+
+CONSOLE INST PNL
+
+CHART LT
+
+Via N
+OFF BRT
+
+WARNING
+CAUTION
+
+ACG-04-22
+
+Figure D - 22. Interior Lights Control Panel.
+
+Storm/Flood Lighting
+
+The front cockpit has a storm/flood light above each console and two above
+the main instrument panel. The rear cockpit has one light above each
+console. The lights in each cockpit are controlled by the storm flood knob
+(Figure D-22) and provide variable lighting between OFF and BRT. If the
+storm/flood lights are placed in the BRT position, the warning/caution/
+advisory lights revert to full intensity regardless of the position of the
+warning caution control knob.
+
+D - 29 ACG-4
+
+
+Text from ACG-4_Electrical_System_page_36.jpeg:
+Chart Lights
+
+There is a chart light in the front cockpit on the canopy bow and in the
+rear cockpit above the right console. The light illuminates the crew
+member’s kneeboard and is controlled by the CHART LT knob
+
+(Figure D-23).
+
+Display Lighting Switch
+
+A two position (DAY/NIGHT) display switch (Figure D-23) controls the
+intensity of all MPDs/MPCDs in each cockpit. Each MPD/MPCD also has
+its own brightness and contrast controls.
+
+CONSOLE INST PNL
+
+7 N
+OFF BRT
+
+WARNING
+CAUTION
+
+ort :
+BRT
+RESET
+
+ACG-04-23
+
+Figure D - 23. Interior Lights Control Panel.
+
+ACG-4 D - 30
+
+
+Text from ACG-4_Electrical_System_page_37.jpeg:
+Lights Test Switch
+
+Use the LT TEST switch (Figure D-23) to test the warning/caution/
+advisory lights in each cockpit.
+
+OFF The switch is spring-loaded off.
+
+ON All serviceable warning/caution/advisory lights illuminate
+(except takeoff trim).
+
+Warning/Caution Lights Control Knob
+
+Momentarily selecting reset on the WARNING/CAUTION light control
+knob (Figure D-23) allows you to control brightness of the warning/
+caution/advisory lights unless:
+
+e the INST PNL knob is OFF
+
+e the STORM/FLOOD light is full BRT
+
+Once in the low intensity range, the warning/caution/advisory lights can
+be brought back to full intensity by either:
+
+e Turning the WARNING/CAUTION knob to full BRT or OFF,
+
+e Turning the INST PNL knob off,
+
+e Turning the STORM/FLOOD knob to full BRT, or
+
+e Removing and reapplying power to the aircraft.
+
+The MASTER CAUTION light is also dimmed when the WARNING/
+CAUTION light knob is placed in the RESET position, but its intensity
+
+cannot be varied.
+
+The LOCK/SHOOT lights are disabled when in the low intensity range.
+
+D-31 ACG-4
+
+
+Text from ACG-4_Electrical_System_page_38.jpeg:
+Utility Flood Light
+
+There is a portable utility flood light stowed on a bracket above the right
+console in each cockpit. It has an alligator clip and an integral ON
+(variable brightness) and OFF switch (Figure D-24). The utility light in
+the front cockpit is the only lighting available with JFS generator power.
+
+NOTE
+
+The JFS cannot be started with both engines running. So, carry a
+flashlight in of total electrical failure!
+
+BB
+fe)
+
+COCKPIT UTILITY FLOOD LIGHT
+REAR COCKPIT ACG-04-24
+
+Figure D - 24. Utility Flood Light.
+
+ACG-4 D - 32
+
+
+Text from ACG-4_Electrical_System_page_39.jpeg:
+QUESTIONS
+State the function of the following switches:
+
+a. External power control switch:
+
+b. Ground power control panel switches:
+
+Match these external lights to locations indicated in Figure D-25.
+Formation
+
+Position
+
+Anticollision
+
+Vertical floods
+
+ACG-04-25
+
+Figure D - 25.
+
+D - 33 ACG-4
+
+
+Text from ACG-4_Electrical_System_page_4.jpeg:
+CRITERION REFERENCED OBJECTIVES (CROs)
+
+1. Identify the functions of the electrical system’s main components to
+include the AC, DC, and emergency systems.
+
+2. Identify the exterior and interior lighting system controls and match
+the controls with their functions.
+
+3. Identify the effects of electrical system malfunctions and the
+appropriate corrective actions.
+REFERENCES
+
+TO 1F-15E-1 Section I Electrical System and Electrical
+System Components
+
+Section IT Cockpit Interior Checks and
+Engine Starts
+
+Section III Emergency Procedures
+
+ACG-4 B-1
+
+
+Text from ACG-4_Electrical_System_page_40.jpeg:
+3. Match the titles to the items marked in Figure D-26.
+Exterior lights control panel
+Miscellaneous control panel
+Interior lights control panel
+
+Utility flood light
+
+J
+
+=m
+
+FRONT COCKPIT REAR COCKPIT
+
+ACG-04-26
+
+Figure D - 26.
+
+4. Which interior light is powered from the JFS?
+
+5. To dim the warning and caution lights the knob on the
+INTERIOR LT control panel must be ON and the knob must
+not be in the full BRIGHT position.
+
+STORM/FLOOD, INST PNL
+CONSOLE, STBY COMP
+
+INST PNL, WARNING/CAUTION
+INST PNL, STORM/FLOOD
+
+Re op
+
+ACG-4 D - 34
+
+
+Text from ACG-4_Electrical_System_page_41.jpeg:
+The lights test switch tests all warning/caution/advisory lights except
+
+a. JFS READY light.
+
+b. AMAD fire warning light.
+ce. Takeoff trim light.
+
+d. MASTER CAUTION light.
+
+D-35 ACG-4
+
+
+Text from ACG-4_Electrical_System_page_42.jpeg:
+ANSWERS
+
+1. a. External power control switch - Controls the application of
+external power to the aircraft electrical buses. In NORM
+position, aircraft electrical buses can be energized by external
+power if no aircraft generators are running. RESET will
+establish external power if it is not on the line. (RESET is
+spring-loaded to NORM.) OFF disconnects external power from
+the aircraft.
+
+b. Ground power control panel switches - Maintenance uses these
+switches to power up systems that require cooling air. Check to
+be sure they are in AUTO position.
+
+2. C= Formation
+B = Position
+A = Anticollision
+D = Vertical tail floods
+
+3. B= Exterior lights control panel
+C = Miscellaneous control panel
+A = Interior lights control panel
+D = Utility flood light
+
+4. FCP utility light
+
+5. d
+
+ACG-4 D - 36
+
+
+Text from ACG-4_Electrical_System_page_43.jpeg:
+EMERGENCY OPERATIONS
+
+This section deals with electrical system operation and corrective action
+necessary in the following emergencies:
+
+Emergency generator operation/failure
+Main generator failure
+
+Transformer rectifier(s) failure
+
+Complete electrical system failure
+
+Smoke, fumes, or fire in cockpit (electrical)
+
+AMAD failure
+
+Emergency Generator Operation/Failure
+
+System features: The emergency generator supplies power to the
+essential AC/DC buses, the emergency/essential buses, and ground power
+switch number 1 (28 volt DC bus for operation of the engine monitor
+display). The emergency generator automatically comes on-line when:
+
+Either or both main generators fail,
+Both left and right TRs fail,
+Either or both main boost pumps fail (or pressure is low),
+
+Or some combination of these faults occur.
+
+D - 37 ACG-4
+
+
+Text from ACG-4_Electrical_System_page_44.jpeg:
+The emergency generator control switch is located at the top center of the
+engine control panel (Figure D-27). It is a three-position toggle switch
+with positions of AUTO, MAN, and ISOLATE. The switch is electrically
+held in ISOLATE when positioned there.
+
+EMERG GEN
+f''™O
+
+ISOLATE
+
+AmMADYriAMH |
+
+°
+fo)
+a
+L_
+
+AmaAnr=s O2ZM W
+
+L
+E
+N
+G
+M
+A
+Ss
+T
+E
+R
+
+ACG-04-27
+
+Figure D - 27. Emergency Generator Switch.
+
+AUTO provides automatic activation of the emergency generator. In this
+position, after an internal power ground start, the emergency generator
+will shut down 30 seconds after the first main generator comes on-line.
+(For all starts with external power the emergency generator will not
+operate while external power is connected.)
+
+MAN provides manual activation of the emergency generator and connects
+it to its buses.
+
+ISOLATE restricts the emergency generator. It supplies power to the
+emergency fuel boost pump, the EMER BST ON caution light, arresting
+hook, the emergency/essential 28 volt DC bus (for the emergency air
+refueling switch to open the slipway door) and ground power switch
+number 1 (28 volt DC bus for operation of the engine monitor display
+[EMD)]) (top two lines only).
+
+NOTE
+
+MSOGS and cockpit intercom are not available in ISOLATE.
+
+ACG-4 D - 38
+
+
+Text from ACG-4_Electrical_System_page_45.jpeg:
+The EMER BST ON and BST SYS MAL cautions are the only cautions
+that display on both the MPD or MPCD and the caution lights panel
+(Figure D-28).
+
+MASTER
+CAUTION
+
+35 01
+
+36
+Hott ttt
+
+MULTIPURPOSE DISPLAY (MPD) CAUTION LIGHTS PANEL
+
+ACG-04-28
+
+Figure D - 28. MPD and Caution Lights Panel.
+
+If the BST SYS MAL caution is displayed in addition to the EMER BST
+ON caution, the emergency generator is not powering the emergency fuel
+boost pump.
+
+If this occurs in flight, the emergency fuel boost pump is being powered by
+a main generator. DO NOT turn the generator switch off or place the
+emergency generator switch to ISOLATE, as this may fail the emergency
+fuel boost pump.
+
+If the L GEN or R GEN cautions are not on, the respective main
+generator’s circuits are working.
+
+D - 39 ACG-4
+
+
+Text from ACG-4_Electrical_System_page_46.jpeg:
+Main Generator Failure
+
+System features: Each of the two main generators is capable of carrying
+the entire basic aircraft electrical load. If one fails, the GCU and
+crossover circuit automatically transfer the load to the other generator
+(Figure D-29).
+
+NTIAL |_| ESSENTIAL
+T
+
+DC BUSES
+LEFT AC ESSENTIAL RIGHT AC
+BUSES if AC BUSES BUSES
+| LEFT DC RT DC
+JFS BUSES BUSES
+ESSENTIAL Hl i
+DC BUSES = SURE RIG
+T TRCU 7 ‘ TRCU & R
+t LIMITERS
+RECTIFIER
+AND FILTER
++ + < || | CURRENT — —
+t [ecu i FS GCU
+L. GEN * . . *L_LIMITERS - — IR. GEN
+0 EMER .
+GEN
+AMAD
+D
+OTOR
+AC
+TO UTILITY
+SYSTEM DC
+| MB MECHANICAL
+
+ACG-04-29
+
+Figure D - 29. Electrical Ssytem.
+
+ACG-4 D - 40
+
+
+Text from ACG-4_Electrical_System_page_47.jpeg:
+Single Generator Failure
+
+A single generator failure is indicated by a master caution and a L GEN or
+R GEN caution (Figure D-30).
+
+RCP
+
+EMER BST ON
+
+MASTER
+"GEN CAUTION
+
+FCP
+
+|
+
+ACG-04-30
+
+Figure D - 30. Caution Lights.
+
+The emergency generator should automatically come on-line. You should
+also see the EMER BST ON caution. This tells you that the emergency
+generator is operating and powering the emergency boost pump.
+
+If the emergency generator fails to come on-line, you will see BST SYS
+MAL in addition to L or R GEN. (This failure is remote since you verified
+
+the emergency generator was working during start.)
+
+NOTE
+
+A generator must be recycled to reset over/under voltage, over frequency,
+feeder faults or generator locked rotor after the fault clears in order to put
+the generator back on-line.
+
+D-41 ACG-4
+
+
+Text from ACG-4_Electrical_System_page_48.jpeg:
+Actions for single generator failure:
+
+e Check that the L/R GEN caution is not caused by an AMAD failure or
+engine problem (e.g., a stall/stagnation or flameout).
+
+e Cycle the failed generator’s switch to OFF and back ON - once.
+e RESTORED? - Leave it alone and write it up later.
+
+e FAIL TO RESTORE? - Turn the switch OFF and return to base.
+e CAUTION - Be sure that you cycle the CORRECT SWITCH!
+
+Double Generator Failure
+
+A double generator failure is indicated by:
+
+e All MPDs and rear cockpit MPCDs go blank. The front cockpit
+MPCD displays an ADI and indicates the cautions.
+
+e = Loss of normal cockpit lighting.
+
+e Both L GEN and R GEN cautions light (along with the master
+caution).
+
+e Emergency generator and emergency boost pump activate (EMER
+BST ON caution).
+
+e HYD caution lights (warning systems lose power source).
+e Landing gear warning is displayed (air data computer is out).
+
+e Loss of power to the instruments and equipment listed as inoperative
+in the Dash 1 and/or in the checklist.
+
+NOTE: In the event of a double generator failure, the inertial navigation
+system (INS) is backed up by the emergency generator, through the
+essential AC bus. The crew would have INS for navigation and IFF and
+UHF #1 available for a GCA recovery. (ILS and TACAN are inoperative.)
+The attitude heading reference system (AHRS) works off the left 115V AC
+bus, so it would not be available. Under TCTO 1F-15E-737, the EGI
+(embedded GPS/INS) replaces the AHRS and the exact wiring is not yet
+known.
+
+ACG-4 D - 42
+
+
+Text from ACG-4_Electrical_System_page_49.jpeg:
+®
+
+@®
+
+EMER BST ON
+
+MASTER
+L GEN RGEN CAUTION
+
+ENGINE FLT CONTR
+AV BIT
+
+CAS ROLL CAS PITCH EMER BST ON
+L.BST PUMP R BST PUMP CAS YAW
+INLET ICE
+
+RINLET
+RENG CONTR LENG CONTR
+
+a
+
+FRONT COCKPIT MPCD
+
+ACG-04-31
+
+Figure D - 31. Double Generator Failure.
+
+While many other cautions are also on, you are interested in knowing if
+the emergency generator is working. Check EMER BST ON caution
+(Figure D-31).
+
+The emergency generator can provide enough power to get you home after
+a dual generator failure. It automatically powers the essential buses IF
+you left the emergency generator switch in AUTO or MAN.
+
+Actions for double generator failure:
+
+e Maintain control of the aircraft.
+
+e Verify that the emergency generator is working. Check EMER BST
+ON.
+
+e Cycle each main generator’s switch to OFF and back ON - once.
+e RESTORED? - Leave it alone and try the other one.
+
+e FAIL TO RESTORE? - Turn the applicable main generator switch
+OFF.
+
+Refer to the emergency power distribution chart in your checklist for a
+listing of operative and inoperative systems.
+
+D - 43 ACG-4
+
+
+Text from ACG-4_Electrical_System_page_5.jpeg:
+STUDENT PREPARATION REQUIREMENTS
+BEFORE CLASS
+
+1. Study the information contained in this workbook and complete the
+End of Text Quiz.
+
+2. Read TO 1F-15E-1, Sections I, I, and III, Electrical System.
+
+3. Study electrical system foldouts 13 and 15 in TO 1F-15E-1.
+
+C-1 ACG-4
+
+
+Text from ACG-4_Electrical_System_page_50.jpeg:
+Critical equipment and instruments - The Dash 1 and checklist provide
+some vital information for you. Get to know the equipment and
+instruments that will and will not work during a double generator failure.
+Even if you can look it up while in the air, the situation may call for faster
+action. Plan for those situations now.
+
+Follow the double boost pump failure procedure. You can navigate using
+INS but you will not have TACAN available. Since ILS is inoperative, you
+must fly a visual approach or a GCA on the EADI and standby
+instruments using UHF #1. If your emergency generator fails, you must
+be prepared to perform the total boost pump failure procedure.
+
+Transformer Rectifier Failure
+
+If either left or right TR fails, the other TR powers the entire DC system.
+The failure of both left and right TRs automatically activates the
+emergency generator if the emergency generator switch is in AUTO.
+
+Remember, you have no cockpit indication of a single TR failure;
+therefore, it is possible to accept an aircraft with only one operational left
+or right TR. Test switches for the TRs are located in the electronic bays
+and are checked by maintenance.
+
+The failure of both left and right TRs result in loss of the left and right 28
+volt DC buses. Flight capabilities may be degraded by the loss of the
+equipment powered by these buses (Ref. TO 1F-15E-1, pages FO-13 and
+15). The most noticeable equipment lost would include:
+
+Right 28V DC bus Right boost pump relay (lose pump)
+HYD pressure indication
+XFER pump indication
+Aft left and right MPCD
+Right air inlet control
+Armament bus
+LANTIRN NAV/TGT POD
+
+Left 28V DC bus Left boost pump relay (lose pump)
+ILS
+TACAN T/R
+UHF 2
+ADF
+Radar
+
+ACG-4 D - 44
+
+
+Text from ACG-4_Electrical_System_page_51.jpeg:
+Complete Electrical System Failure
+Certain manual systems are available without electrical power.
+Remember, there is no battery in this aircraft.
+
+With no electrical power available (AC or DC), you lose the use of all fuel
+boost pumps and the arresting hook.
+
+But even then, the aircraft can be recovered.
+
+The following systems are still available:
+
+e = =Flight controls (manual)
+
+e =6 Engine ignition
+
+e §=6© Gravity fuel feed
+
+e Emergency landing gear extension
+
+e Emergency nosewheel steering and brakes
+
+e  =Brakes (no antiskid protection)
+
+e Standby airspeed, heading, and altimeter (ADI for 9 minutes)
+
+With the limited equipment available, remain VFR and land as soon as
+possible.
+
+D - 45 ACG-4
+
+
+Text from ACG-4_Electrical_System_page_52.jpeg:
+Smoke, Fumes, or Fire in the Cockpit
+
+Equipment in the cockpit uses low current levels, so wiring insulation may
+smolder, but there is little chance of a serious fire. Also, there are no fuel
+or hydraulic lines passing through or near the cockpit area.
+
+Smoke, fumes, or fire in the cockpit indications:
+
+The indications are self-explanatory; however, some general guidance is in
+order:
+
+e Consider all unidentified odors as toxic.
+
+e Do not confuse condensation from the air conditioning system as
+smoke.
+
+e Acharacteristic of the F-15E is emission of a pungent blue-gray
+smoke from the air or defog outlets during engine run-up and takeoff
+roll. It is something you learn to recognize.
+
+Action for smoke, fumes, or fire in the cockpit:
+
+e Go to 100% oxygen and emergency on the regulator.
+
+e Ifrequired, turn and pull the emergency vent handle when you are
+below 18,000 feet (below 25,000 feet if situation warrants).
+
+e = Follow steps listed in your checklist.
+
+Attempt to trace the source of unidentified smoke or fumes. (Electrical
+smoke is usually white or grey in color).
+
+e If cockpit visibility is restricted, jettison the canopy.
+
+WARNING
+
+If the cockpit is the source of smoke or
+fumes, jettisoning the canopy may cause
+an eruption of flames around the
+occupants.
+
+ACG-4 D - 46
+
+
+Text from ACG-4_Electrical_System_page_53.jpeg:
+AMAD Failure
+
+An AMAD failure is indicated by the simultaneous loss of the PC system,
+the utility pump, and the generator on the same side.
+
+The corrective action is to position the throttle to idle, reduce electrical
+requirements, and then refer to the checklist for a list of inoperative
+equipment.
+
+Double AMAD Failure
+
+If double AMAD failure occurs, total electrical and hydraulic power is lost
+and aircraft control is not possible. EJECT.
+
+D - 47 ACG-4
+
+
+Text from ACG-4_Electrical_System_page_54.jpeg:
+QUESTIONS
+
+1. How do you verify that the emergency generator is working?
+
+2. During flight, the L GEN caution is displayed on the caution panel.
+If the emergency generator switch is in the AUTO position, what
+other cues will be displayed?
+
+Situation A: (Questions 3-6) - During flight, you notice the loss of
+many systems and equipment. The MASTER CAUTION is
+illuminated and the L GEN, R GEN, and EMER BST ON cautions
+are displayed.
+
+3. What is the malfunction?
+
+4. How do you know if the emergency generator is operating?
+
+5. Since the emergency generator is operating, what is the first
+corrective action that you need to take?
+
+6. After you take corrective action, you notice that the power has been
+restored to all systems and equipment; however, the R GEN and
+EMER BST ON cautions remain illuminated. Explain what has
+happened.
+
+Situation B: (Questions 7-8) - During flight, you have lost both main
+generators and are using the emergency generator as your primary
+source of electrical power. Weather and available facilities require
+that you make an ILS approach if you wish to land at Seymour
+Johnson AFB.
+
+7. Are you able to make the approach at Seymour Johnson AFB?
+
+8. Why?
+
+ACG-4 D - 48
+
+
+Text from ACG-4_Electrical_System_page_55.jpeg:
+10.
+
+11.
+
+12.
+
+13.
+
+14.
+
+15.
+
+16.
+
+17.
+
+18.
+
+Situation C: (Questions (9-11) - During flight, you notice an EMER
+BST ON displayed on the right MPD. You also note L GEN is
+illuminated on the caution panel. You have determined that the left
+main generator has malfunctioned.
+
+How do you know that the emergency generator is operating?
+
+What other systems should you check?
+
+Why should you check these systems?
+
+Situation D: (Questions 12-14) - During flight, the MASTER
+CAUTION illuminates. You note that PC1 A, PC1 B, EMER BST
+ON and L PUMP are displayed on the MPD. You then check the
+caution panel and see the L GEN and HYD caution is illuminated.
+
+What is the malfunction?
+
+What will be your corrective action?
+
+Is the emergency generator operating?
+
+Situation E: (Questions 15-18) - During flight, you notice the
+MASTER CAUTION illuminate. You note that R BST PUMP, EMER
+BST ON, and BST SYS MAL cautions are displayed.
+
+What is the malfunction?
+
+Is the emergency generator operating?
+
+What is powering the emergency fuel boost pump?
+
+Would you cycle the emergency generator switch from AUTO to
+ISOLATE?
+
+D - 49 ACG-4
+
+
+Text from ACG-4_Electrical_System_page_56.jpeg:
+ANSWERS
+
+1. During a normal start, you can verify the emergency generator is
+on-line by noting that the right engine rpm registers on the engine
+monitor display (EMD). The fan turbine inlet temperature (FTIT) is
+too low at this point to display.
+
+When a main generator comes on-line, the EMER BST ON and R or
+L GEN cautions illuminate to show that both emergency generator
+and emergency boost pump are operating properly.
+
+2. EMER BST ON will be displayed. It is important because it is the
+only indication that the emergency generator is working.
+
+Situation A: (Questions 3-6) During flight, you notice the loss of
+many systems and equipment. The MASTER CAUTION is
+illuminated and the L GEN, R GEN, and EMER BST ON cautions
+are displayed.
+
+3. The malfunction is double generator failure.
+
+4. Because the BST SYS MAL caution is not displayed, and EMER BST
+ON is displayed, the emergency generator is operating.
+
+5. Try to restore one or both of the generators by cycling the generator
+switches.
+
+6. The corrective action brought the left main generator back on-line
+and restored power to all the electrical equipment. The right main
+generator remained failed resulting in the R GEN and EMER BST
+ON cautions continuing to be displayed.
+
+Situation B: (Questions 7-8) During flight, you have lost both main
+generators and are using the emergency generator as the primary
+source of electrical power. Weather and available facilities require
+that you make an ILS approach if you wish to land at Seymour
+Johnson AFB.
+
+7. No
+
+8. ILS is inoperative with both main generators failed (see your
+checklist). Go to your alternate.
+
+ACG-4 D - 50
+
+
+Text from ACG-4_Electrical_System_page_57.jpeg:
+10.
+
+11.
+
+12.
+
+13.
+
+14.
+
+15.
+
+16.
+
+17.
+
+18.
+
+Situation C: (Questions (9-11) During flight, you notice an EMER
+BST ON displayed on the right MPD. You also note L GEN is
+illuminated on the caution panel. You have determined that the left
+main generator has malfunctioned.
+
+EMER BST ON is displayed. If the emergency generator is
+inoperative, the BST SYS MAL caution is also displayed.
+
+Check for a hydraulic caution/low pressure and also check the engine
+instruments.
+
+The hydraulic caution/low pressure indicates a possible AMAD
+failure and the engine instruments indicate engine stall/stagnation,
+or flameout.
+
+Situation D: (Questions 12-14) During flight, the MASTER
+CAUTION illuminates. You note that PC1 A, PC1 B, EMER BST ON
+and L PUMP are displayed on the MPD. You then check the caution
+panel and see the L GEN OUT and HYD caution is illuminated.
+
+A left AMAD failure.
+
+Reduce the throttle to IDLE, reduce electrical requirements, and
+refer to Electrical and Hydraulic Failures.
+
+The emergency generator is operating since EMER BST ON is
+displayed and the BST SYS MAL caution is not displayed.
+
+Situation E: (Questions 15-18) During flight, you notice the
+MASTER CAUTION illuminate. You note that R BST PUMP, EMER
+BST ON, and BST SYS MAL cautions are displayed.
+
+The malfunction is a right boost pump failure.
+
+The EMER BST ON indicates that the emergency boost pump is
+operating; however, since the BST SYS MAL caution is displayed, the
+emergency fuel boost pump is being powered by an abnormal
+electrical source.
+
+A main generator.
+
+No. Cycling the emergency generator to ISOLATE may fail the
+emergency fuel boost pump (refer to Boost Pump Failure).
+
+D-51 ACG-4
+
+
+Text from ACG-4_Electrical_System_page_58.jpeg:
+(This Page Intentionally Blank.)
+
+ACG-4 D - 52
+
+
+Text from ACG-4_Electrical_System_page_59.jpeg:
+END OF TEXT QUIZ
+
+During initial engine start, the first main generator should come
+on-line at approximately what % rpm?
+
+a. 26
+b. 44
+c. 56
+d. 70
+
+During second (left) engine start, what item is not a valid indication
+after the second main generator is on-line?
+
+Left generator light out
+
+EMER BST ON and BST SYS MAL lights both out
+JFS off, JFS light OFF
+
+EMER BST ON light on
+
+no op
+
+You may disconnect a generator from its buses at any time by
+
+cycling from AUTO to ISOLATE.
+
+turning the respective generator switch off.
+cycling the GCU off.
+
+pulling the AFCS ESS AC circuit breaker.
+
+no op
+
+Which of the following lights can be powered by the JFS generator?
+
+a. FCP chart light
+
+b. Both utility and chart lights
+ce. FCP utility light
+
+d. RCP chart light
+
+E-1 ACG-4
+
+
+Text from ACG-4_Electrical_System_page_6.jpeg:
+(This Page Intentionally Blank)
+
+ACG-4 C-2
+
+
+Text from ACG-4_Electrical_System_page_60.jpeg:
+5. During initial engine start, enough hydraulics are present to start
+the emergency generator when engine rpm reaches
+
+Re op
+
+44%,
+15-17%.
+24-30%.
+56%.
+
+6. Ifa left or right TR fails, what is the cockpit indication?
+
+Re op
+
+TR FAIL caution light illuminates.
+
+CROSSFEED light illuminates.
+
+Generator light illuminates.
+
+There are no indications of a left or right TR failure.
+
+7. Asingle generator failure is indicated by
+
+Re op
+
+EMER BST ON and BST SYS MAL lights on.
+
+MASTER CAUTION and CHECK ELEC GAUGES lights on.
+MASTER CAUTION and EMER BST ON lights on.
+
+MASTER CAUTION, R (or) L GEN lights on, and EMER BST
+ON.
+
+8. Ifdouble generator failure occurs,
+
+a
+
+the R RCP MPCD displays an ADI.
+
+all MPDs and RCP MPCDs go blank. The FCP MPCD displays
+an ADI.
+
+only the standby gauges are available.
+
+all MPDs and MPCDs go blank.
+
+9. Ifin AUTO, the emergency generator automatically comes on-line
+
+when
+
+a. _ either the left or right TRs fail.
+
+b. either or both main boost pumps fail.
+c. the JFS switch is moved to OFF.
+
+d. the right engine reaches 56%.
+
+ACG-4
+
+
+Text from ACG-4_Electrical_System_page_61.jpeg:
+10. The landing light is automatically turned off regardless of switch
+position when
+
+a. antiskid is in NORM.
+
+b. the flaps are down.
+
+c. the landing gear is up.
+
+d. the landing gear handle is up.
+
+E-3 ACG-4
+
+
+Text from ACG-4_Electrical_System_page_62.jpeg:
+(This Page Intentionally Blank)
+
+ACG-4 E-4
+
+
+Text from ACG-4_Electrical_System_page_63.jpeg:
+A/R
+AC
+ADF
+ADI
+AFCS
+AHRS
+AMAD
+AOA
+
+AV BIT
+
+BST SYS MAL
+
+CB
+
+CSD
+
+DC
+
+EADI
+
+EGI
+
+EMD
+
+EMER BST
+
+EMER GEN
+
+ENG
+
+ESS
+
+EXT
+
+GLOSSARY
+Air refueling
+Alternating current
+Automatic direction finding
+Attitude director indicator
+Automatic flight control system
+Attitude heading reference system
+Airframe mounted accessory drive
+Angle of attack
+Avionics built-in test
+Boost system malfunction
+Circuit breaker
+Constant speed drive
+
+Direct current
+
+Electronic attitude director indicator
+
+Embedded GPS/INS
+Engine monitor display
+Emergency boost pump
+Emergency generator
+Engine
+
+Essential
+
+External
+
+ACG-4
+
+
+Text from ACG-4_Electrical_System_page_64.jpeg:
+FCP
+
+FLT CONTR
+FNU (INS)
+FTIT
+
+GCA
+
+GCU
+
+GPS
+
+HUD
+
+ILS
+
+INS
+
+JFS
+
+L GEN
+
+LANTIRN
+
+LG
+MAN
+MPCD
+MPD
+MSOGS
+NAV
+NWS
+PC
+
+R GEN
+
+ACG-4
+
+Front cockpit
+
+Flight controls
+
+Fighter navigation unit (INS)
+Fan turbine inlet temperature
+Ground control approach
+Generator control unit
+Global positioning system
+Head-up display
+
+Instrument landing system
+Inertial navigation system
+Jet fuel starter
+
+Left generator
+
+Low altitude navigation and targeting infrared for
+night
+
+Landing gear
+
+Manual
+
+Multipurpose color display
+
+Multipurpose display
+
+Molecular sieve oxygen generating system
+Navigation
+
+Nosewheel steering
+
+Power control
+
+Right generator
+
+F-2
+
+
+Text from ACG-4_Electrical_System_page_65.jpeg:
+RCP
+
+rpm
+
+TACAN
+
+TGT
+
+TR
+
+TRCU
+
+UFC
+
+UHF
+
+WSO
+
+Rear cockpit
+
+Revolutions per minute
+
+Tactical air navigation
+
+Target
+
+Transformer rectifier
+Transformer rectifier control unit
+Upfront control
+
+Ultra high frequency
+
+Visual flight rules
+
+Weapon systems officer
+
+ACG-4
+
+
+Text from ACG-4_Electrical_System_page_66.jpeg:
+BACK PAGE
+COVER SHEET
+
+
+Text from ACG-4_Electrical_System_page_7.jpeg:
+TEXT
+ELECTRICAL SYSTEM COMPONENTS
+
+The electrical power system for the F-15E consists of two main AC
+generators, three transformer rectifiers (TRs), a hydraulically driven
+emergency generator, and a power distribution (bus) system (Figure D-1).
+The main generators are driven by the airframe mounted accessory drive
+(AMAD).
+
+The main generators produce 115 volt AC power and three TRs convert
+the AC to 28 volt DC. During typical operation, each main generator
+powers its own separate AC/DC bus. Each has the capacity to supply all
+the basic aircraft electrical requirements. If a fault is detected in one
+system, either generator picks up the load of the other automatically.
+
+The emergency generator automatically comes on when one or both of the
+main generators fail or are turned off. The emergency generator can
+power systems necessary for a safe recovery.
+
+NTIAL |_| ESSENTIAL
+T ise
+
+DC BUSES
+LEFT AC ESSENTIAL RIGHT AC
+BUSES if AC BUSES BUSES
+] LEFT DC RT DC
+JFS BUSES BUSES
+ESSENTIAL 7 i
+DC BUSES = ey RIG
+7 TRCU - ' =) TRCU 4
+t LIMITERS
+RECTIFIER
+AND FILTER
+CURRENT ] i
+ups \t GCU NF GCU
+GEN L.GEN|] ~~ s . *| LIMITERS | — — |R.GEN
+EMER ;
+GEN
+2 AMAD
+BD D
+OTOR
+AC
+TO UTILITY
+SYSTEM DC
+| MB MECHANICAL
+
+ACG-04-01
+
+Figure D - 1. Electrical System.
+
+D-1 ACG-4
+
+
+Text from ACG-4_Electrical_System_page_8.jpeg:
+Circuit Breakers
+
+Front cockpit circuit breakers are located on the instrument panel, lower
+center (Figure D-2). They control power to the automatic flight control
+system (AFCS), pitot heat, speed brake, flaps, landing gear, and nose gear
+steering.
+
+FRONT COCKPIT
+
+ACG-04-02
+
+Figure D - 2. Circuit Breaker Panel Assembly.
+
+ACG-4 D-2
+
+
+Text from ACG-4_Electrical_System_page_9.jpeg:
+Two other circuit breaker panels are located in the rear cockpit, above the
+right and left consoles (Figure D-3).
+
+o™~
+
+GHJKLM NPQR
+
+Ooahwhn =
+
+LEFT CIRCUIT BREAKER PANEL NO. 2 RIGHT CIRCUIT BREAKER PANEL NO. 3
+
+ACG-04-03
+
+Figure D - 3. Circuit Breaker Panel (RCP).
+
+To check the circuit breakers, just press in until fully seated. (Do not
+trust your eyes. Dust can cover up a tripped circuit breaker.) All other
+aircraft circuit breakers are inaccessible after start.
+
+D-3 ACG-4
+
+

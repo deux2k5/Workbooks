@@ -1,0 +1,1288 @@
+Text from AGR-4_Navigation_page_1.jpeg:
+SUPPORTS COURSES
+FIS5EBQ
+
+FISETX
+
+FISESOC
+
+ACADEMIC STUDENT WORKBOOK
+F-15E
+
+AIR-TO-GROUND RADAR
+AGR-4
+NAVIGATION
+
+SEPTEMBER 1998
+
+(SUITE 3 OFP)
+
+AIR COMBAT COMMAND
+
+
+Text from AGR-4_Navigation_page_10.jpeg:
+The UTM coordinates are entered as one number (meters) starting with
+the east component and followed by the north. The east and north
+components are entered in true direction (rather than magnetic direction).
+In Figure D-2, the east component is 69,135 meters (true) and the north
+component is 90,285 (true). Combining the components into a single
+number, they are entered into the UTM submenu at PB #38 as
+6913590285. UTM coordinates must be entered with an even number of
+digits. If the components are not measured to the same magnitude,
+leading zeros are added to the components to keep the number of
+component digits the same. Additionally, trailing zeros need not be
+entered as the system uses the first half of the digits as the east
+component and the second half as the north component (e.g., to enter a
+component of 64,120 meters east and 520 meters north of the block
+identifier, enter 64120052). When entered, this will be displayed at PB #3
+as 6412000520. The point elevation is entered at PB #7 and TOT at PB
+#9,
+
+Note that you would have to select the LAT/LONG point data submenu to
+enter a minimum en route altitude (MEA). If the spheroid or grid zone
+identifier must be changed, the UTM programming submenu is accessed
+by pressing PB #8, PROGRAM. The asterisk following PROGRAM
+indicates that you are in the UTM programming submenu. The spheroid
+is changed by cycling PB #9 until the desired spheroid is displayed. The
+grid zone identifier number is changed by typing the number into the
+scratchpad and then pressing PB #2. The block identifier letters are
+changed by pressing PB #2 (with a clear scratchpad) to move the caret to
+the desired letter. Then, press PB #4 to increase or PB #7 to decrease
+through the alphabet until the desired letter is displayed (the letters I and
+O are not used). Numbers (UTM coordinates or the grid zone numbers)
+can be entered (or changed) either on the UTM programming submenu or
+the UTM submenu. Letters (spheroid or block identifier letters) can only
+be entered (or changed) on the UTM programming submenu.
+
+AGR-4 D-4
+
+
+Text from AGR-4_Navigation_page_11.jpeg:
+Programming RNG/BRG and DIR/RNG Data
+
+The UFC RNG/BRG and DIR/RNG submenus (Figure D-5) allow the
+aircrew to program sequence points using range and true (not magnetic)
+bearing or directional (north/south, east/west—again in true) components
+from known sequence points which are already in memory. The known
+reference points (from which the RNG/BRG or DIR/RNG components are
+applied to identify the geographical position of derived points) were
+entered via DTM, list point, or manually utilizing LAT/LONG or UTM
+coordinates. When a target is the known point, up to seven TGT offset
+(O/S) points can be derived (Figure D-3). Likewise, there can be up to
+seven aim points (AIM) derived from a known steer point.
+
+\ 8.01A
+LA
+8.07A “ /
+LX ;
+‘ /
+Sy /
+“S F A 8.02A
+aN / -Z \
+Ss / Leo
+TARGET AS Nf en A 8.03A
+A KNOWN B.A et ge 7 \
+POINT y y ' ing
+v7 TET. Wo AL
+ra * SL
+x \ A
+gt is sn
+Ave \ SA
+B.0Gh 3 ~” 8.044
+va \ &
+V\ 8.054
+A
+A 9.01A
+me O/SASA
+TGTO/S se KNOWN POINT
+
+TGT
+
+AGR-04-03
+
+Figure D - 3. TGT and O/S as Known Point(s).
+
+D-5 AGR-4
+
+
+Text from AGR-4_Navigation_page_12.jpeg:
+However, if a TGT O/S (or aim point) is the known point, only one
+associated TGT point (or steer point) may be derived (Figure D-3). In
+either case, the known point may only be displayed in the UTM or
+LAT/LONG format while the derived point data may be displayed using
+UTM, LAT/LONG, RNG/BRG, or DIR/RNG formats. (Regardless of which
+of the four formats is used to define the derived point, once entered, it can
+be displayed in any of the four formats.)
+
+CLOSE
+LUKE AT AUX NAY
+1106
+
+/E 20,156" |:
+
+ci { O/ANG) §
+
+AGR-04-04
+
+Figure D - 4.
+
+Referring to Figure D-4, TGT O/S 8.01A can be entered into the CC using
+either range and bearing (RNG/BRG) or directional component and range
+(DIR/RNG) from known TGT 8.A. The RNG/BRG and DIR/RNG formats
+serve exactly the same purpose and either may be used. However,
+DIR/RNG can be programmed more accurately (in feet) than can
+RNG/BRG (in tenths of a nm).
+
+In the example, TGT O/S 8.01A is 3.4 nm, bearing 076° true from TGT
+8.A. In the same example, TGT O/S 8.01A is 20,156 feet true east and
+4850 feet true north from TGT 8.A. TGT O/S 8.01A has an elevation at
+1315 feet MSL.
+
+AGR-4 D-6
+
+
+Text from AGR-4_Navigation_page_13.jpeg:
+RNG/BRG data is programmed by accessing the RNG/BRG point data
+submenu. Figure D-5 (left) depicts a typical RNG/BRG format. To
+program data, call up the correct TGT O/S point (i.e., 8.01A) by entering
+the point identifier in the scratchpad, and pressing PB #1. Then enter the
+range, bearing and elevation data. TOTs and MEAs cannot be entered for
+offsets or aim points, only for targets and steer points. In the example,
+enter 8.01A into PB #1, 3.4 into PB #2, 076 into PB #3, and 1315 into
+
+PB #7. The data for PBs #2, #3 and #7 can be programmed into the UFC
+in any order. Remember, the RNG/BRG submenu uses true versus
+magnetic bearing, as do the DIR/RNG and UTM point data submenus.
+
+4 (0/5 8.8 1h LIST @]h 4
+
+()4{3.4 NM Lf) (4iN 4858" (—)
+(4 (76° () (jE 28 156° (_)
+(> (BTRIRNG 13 15°
+
+81S 8.8 IR
+
+(| CATTLONG 1315"
+
+—_|uee6 25 2e8-TeUoe
+
+J KL
+© FE 15 — ©) © A 15
+4 OORIDE 2 ODDIE
+
+—_| uses. 125 See TeUoX
+
+VOL
+RIe ORS
+
+wo
+
+m
+
+o
+
+°
+
+©
+
+z-
+
+POINT DATA RNG/BRG SUBMENU POINT DATA DIR/RNG SUBMENU
+AGR-04-05
+Figure D - 5.
+
+DIR/RNG components can be programmed in a similar manner by
+accessing the DIR/RNG submenu. Start by pressing PB #4 in any point
+data submenu until the DIR/RNG submenu is displayed (Figure D-5,
+right). Then, enter the desired sequence point at PB #1, followed by the
+directional components and point elevation in PBs #2, #3 and #7. For the
+example in Figure D-4, you enter 8.01A at PB #1, N4850 feet at PB #2,
+E20156 feet at PB #3, and 1315 at PB #7. The directional components
+and elevation may be input in any order. Remember, the N/S and E/W
+direction must be entered in true degrees from the known point (in this
+case, TGT 8.A).
+
+D-7 AGR-4
+
+
+Text from AGR-4_Navigation_page_14.jpeg:
+Once TGT O/S 8.01A is correctly programmed in the RNG/BRG or
+DIR/RNG format, it may be displayed in any of the other formats by
+pressing PB #4 to cycle to the desired format. When the aircrew
+designates TGT O/S 8.01A from the A/G radar or TGT IR, the CC will
+provide steering and computed weapons delivery (in A/G master mode) to
+TGT 8.A. In later lessons you will learn about the various ways to
+designate targets and the weapons employment steering/release cues that
+are provided.
+
+You are only able to access the RNG/BRG and DIR/RNG point data
+submenus if a derived point syntax (vice a known point syntax) is at PB
+#1 on a point data submenu. For example, if you identified target 7. first
+(using LAT/LONG or UTMs), the RNG/BRG or DIR/RNG formats would
+only be available with 7.01 through 7.07 showing at PB #1. If you enter
+the offset first, say 7.01, (using LAT/LONG or UTM's) the RNG/BRG or
+DIR/RNG formats are available only with the corresponding target, 7., at
+PB #1. The same logic applies to steer points and their associated aim
+points.
+
+Data Verification
+
+Before departing on the mission, check sequence point data accuracy. One
+technique is to make a list during preflight planning of magnetic bearings
+and ranges from the parking ramp to the sequence points defining the
+planned route. Unfortunately, the Air Force Mission Support System
+(AFMSS) cannot compute this information in the current C3.0 release.
+After defining the sequence points, either by data transfer module (DTM)
+or UFC, access the UFC Data 1 display (Figure D-6) and compare the
+bearing/range displayed at PB #1 to the listed bearings/ranges. By
+entering each point you are able to confirm the accuracy of the sequence
+point coordinates (commonly called a swing check).
+
+AGR-4 D-8
+
+
+Text from AGR-4_Navigation_page_15.jpeg:
+Figure D-6 shows a list of sequence points, the bearing and range to each
+point, and the Data 1 display, with STR 2A as the current aircraft
+
+sequence point. By comparing the bearing and range at PB #1 to the list,
+the geographical accuracy of STR 2A programmed coordinates is verified.
+
+®
+@)
+
+3 /148°/76.8 STR eR
+
+q _ (ETP OFF a 2
+SEYMOUR JOHNSON AFB RAMP TO: Te TITHE 18-84-15 ]L-4,
+
+(a WIND OFF
+
+STR 1A 171°/32 =
+2A 148°/76 J \
+3A 145°/99 _lecmi ™
+AA 160°/93 °F APICIE . =
+IP 5A 169°/66 sti a
+TGT 6.A 192°/59 ©) EVIE ©)
+7A 218°/34 & (J GIG Cle)
+
+DATA 1 DISPLAY
+
+_|{ Uees. 725 Uees. Weox
+
+a
+
+cs
+
+°
+
+AGR-04-06
+
+Figure D - 6.
+
+If desired, the HUD information and/or HSI/TEWS NAV data blocks can
+be used for this check. (Bearings on the Data 1/Data 2 UFC pages, and
+steering on the HUD/ADI and HSI/TEWS are magnetic bearings.) If there
+are significant discrepancies between planned and programmed data,
+recheck the inputs. You can also verify the point data programming by
+stepping through the points on the TSD. Check that all points are
+overlaid at the correct location on the moving map, and in the proper
+sequence. Compare the “big picture” as shown on the mission charts to
+the shape of the route displayed on the TSD.
+
+The above techniques allow you to verify the geographical accuracy for
+each sequence point. However, point elevation, MEA and TOT
+information are important and should be verified on a UFC point data
+submenu.
+
+D-9 AGR-4
+
+
+Text from AGR-4_Navigation_page_16.jpeg:
+Last Minute Route/Timing Changes—Programming the New Route
+The navigation system accommodates last minute route and/or timing
+changes. Suppose that before takeoff the command post calls and changes
+
+the route. The first three points of the old and new route are:
+
+OLD ROUTE NEW ROUTE
+
+STR 1A info 1A is a new point
+STR 2A info 2A uses data from list point 27
+STR 3A info 3A is the same as old STR 1A
+
+To program the changes, access the point data LAT/LONG submenu
+(Figure D-7) and select STR 1A at PB #1. Manually enter the data for the
+new STR 1A, and then push PB #1 to step to STR 2A. Copy the point data
+from list point 27 to STR 2A by inputting list 27 at PB #10 (Figure D-7).
+Point data is saved when either a new point is selected or you exit the
+submenu. TOT/MEA data is not part of the list point stored information.
+Step to STR 3A. Since point data cannot be transferred from one
+sequence point to another, the new data for STR 3A must be entered
+manually. If you desire to delete a point, display the sequence point at
+PB #1. Enter “0” into the scratchpad, then press PB #1 to clear the
+sequence point from CC memory. Deleting a target (or steer point) also
+deletes the associated offsets (or aim points). You cannot delete base,
+mark points or the current aircraft sequence point. If the aircraft is
+currently steering to an offset or aim point, you cannot delete the
+associated target or steer point. After modifying the route, verify the new
+data by stepping through the TSD points or by performing a swing check.
+
+If you want to change a steer point to a target (7A to 7.A) or vice versa,
+you can do so on the point data submenus. Simply enter the new syntax
+(sequence point and optional letter) through the scratchpad into PB #1.
+The aim points/offsets associated with the previous point will be modified
+to reflect the syntax of the new point (e.g., target offsets will be changed to
+aim points when the target is changed to a steer point and vice versa).
+
+NOTE
+
+The base point cannot be changed, and a designated target cannot be
+changed to a steer point (more in future lessons on designations).
+
+AGR-4 D-10
+
+
+Text from AGR-4_Navigation_page_17.jpeg:
+On the point data submenu, (Figure D-7) you can cycle PB #1 through all
+sequence points of a particular route (the points cycle in numerical order).
+To look at a sequence point of a different route, enter it through the
+scratchpad (including the route identifier). Once entered, cycle through
+all the sequence points reflecting the new route. To change from base,
+mark, 0. or bullseye enter a new point through the scratchpad, including
+the route identifier. To review mark points, enter a mark point (M1
+through M10) at PB #1, and cycle PB #1 through the 10 mark points (in
+numerical order). Review bullseye points in the same manner (B1
+through B10).
+
+(® ®)
+
+46TR eA [ist e7)k OR DELTA TOT
+(| "seer. er TOT OFF JL
+(Jj ee7sss. 12s MER OFF }L(7
+
+—_| OTH ELV 4556"
+
+rj jfUeeb. tes Ueee. weox | Ly
+
+Zz, IN
+fn TS JL
+E IE va ©
+2 C/M
+R2e OR4
+
+wo
+
+2 QOEIDE
+©. AGIA ©
+POINT DATA LAT/LONG SUBMENU
+
+AGR-04-07
+
+o
+
+©
+
+Figure D - 7.
+
+TOTs can be entered using a missionized DTM or manually on the UFC
+point data submenu (or on the UFC data 2 display). There are no TOTs
+associated with list points; so, if route points are defined via list points,
+TOTs for those points must be manually programmed.
+
+If TOT OFF is displayed at PB #9 (any UFC point data submenu format),
+you can enter a TOT through the scratchpad for the associated sequence
+point (PB #1). TOTs for other sequence points are not affected. If a TOT
+is already displayed (for example TOT 09:00:00), entering a new TOT
+changes the PB #9 TOT, but it also changes all other TOTs on that route
+by the difference between the old and new TOT. Therefore, to change one
+TOT and leave all other TOTs unaffected, use UFC Data 2 rather than a
+UFC point data submenu. All TOTs on a particular route can also be
+
+D-11 AGR-4
+
+
+Text from AGR-4_Navigation_page_18.jpeg:
+changed using the Delta TOT capability. The DELTA TOT format is
+selected by pressing PB #9 with a blank scratchpad next to any TOT on
+the point data submenu. If "TOT OFF" is displayed at PB #9, the DELTA
+TOT format is unavailable.
+
+From the Delta TOT format, positive or negative values (shift - on the key
+pad) entered through the scratchpad and PB #9 will be added to, or
+subtracted from, all sequence point TOTs on the route. Valid Delta TOT
+entries are from 1 second to 28 hours, 59 minutes and 59 seconds.
+Trailing zeros are assumed (leading zeros are required). For example,
+entering “1” to a 10:00:00 TOT would change the TOT to 20:00:00 and add
+10 hours to all other TOTs on that route.
+
+USE OF UFC DATA 2
+
+Data 2 is utilized to display information concerning fuel remaining,
+ETE/ETA, TOT/TOA and required groundspeed to make a particular TOT.
+The above information can be displayed relative to sequence points (steer
+points, targets, and base only) as selected by the aircrew.
+
+The information on the first two lines is relative to the line of sight (LOS)
+point. The information is valid only if you fly direct to the LOS point
+displayed at PB #1. The following applies: (Refer to Figure D-8)
+
+SP 5A 15888 LBS SP 5A 176° 14
+6 395 ETA te:e 1:37 6 395 ETE 88:82:88
+SP 19.7 FUEL REM SP 19.7 S682 LBS
+PeCGYSS TOT 12:45:38 CG TOR 12:58: 18
+Ueeb.i2eS Uccs. ebx Uceb.i25 Ucce. iBeb%
+pe 1 I 15 mK 14 15
+AGR 04-08
+Figure D - 8.
+
+AGR-4 D-12
+
+
+Text from AGR-4_Navigation_page_19.jpeg:
+PB #1 - you may enter (through the scratchpad) any steer point
+(including base) or target that is stored in the CC, but the SP
+identifier number must be equal to or greater than the current
+aircraft sequence point. Toggling PB #1 will sequentially step
+through subsequent steer points and targets on the displayed route
+(A,B,C). If you wish to change the displayed route (A,B,C), simply use
+the scratchpad to display any steer point or target on the desired
+route. The point at PB #1 does not affect current sequence point
+steering (i.e., steering on the TEWS, HUD, ADI, HSI or the points
+displayed on the A/A radar, A/G radar, or TSD).
+
+PB #2 shows current aircraft groundspeed (the same as displayed on
+UFC Data 1 and on the HUD/ADI if groundspeed is selected from
+Data 1 for HUD/ADI display). PB #10 may be cycled to alternately
+display fuel remaining or bearing/range information. Both reflect
+flying directly to the LOS point at PB #1, and the fuel is computed at
+current throttle setting, fuel flow, and current GS (reflected at PB #2).
+PB #9 may be cycled to alternately display ETE or ETA to the LOS
+point, again based on the current groundspeed at PB #2.
+
+Lines 3 and 4 display information relative to a look ahead point. Display
+of the look ahead steer point (including BASE) or target at PB #3 follows
+the same logic as display of the LOS point at PB #1 (e.g., scratchpad entry
+or toggling). You cannot enter a look ahead point that is earlier on the
+route than the LOS point.
+
+Cycling either PB #4, PB #7, or PB #8 alternately displays two sets of
+information for the 3 PBs (i.e., if you push any of the three PBs, you
+change the information displayed at all three.) The two sets are:
+
+1. PB#4: CG (no number); PB #8: fuel figure in pounds; and
+PB #7: TOA.
+or
+
+2. PB#4: CG (followed by a number); PB #8 “FUEL REM”; and
+PB #7 TOT.
+
+The significance of this information is that if you proceed directly to the
+LOS point and then fly the programmed route until reaching the look
+ahead point (PB #3) at the command groundspeed (PB #4), you will arrive
+at the look ahead point at your preselected TOT (PB #7) with the fuel
+displayed at PB #8. All computations (fuels, times, and speeds) are based
+on flying the bank angle selected on the TSD.
+
+D-18 AGR-4
+
+
+Text from AGR-4_Navigation_page_2.jpeg:
+ADMINISTRATIVE INFORMATION
+
+This student workbook is designed to provide information on the F-15E,
+its systems and capabilities. It is not a sole source document, but is to be
+used in conjunction with other standard Air Force publications and
+technical manuals. If you find any differences between the material
+contained herein and other governing regulations, adhere to the
+regulations and notify the OPDR.
+
+Changes to this workbook are indicated with a heavy black line in the left
+margin.
+
+Forward recommendations for revision or change to 4 TS, SJAFB, NC
+275381.
+
+Supersedes: AGR-4, July, 1998
+
+OPDR: 4 TS
+
+Index of Changes
+
+Effective Date Pages Affected
+
+
+
+Text from AGR-4_Navigation_page_20.jpeg:
+Do not associate look ahead point fuel remaining (PB #8) or TOA (PB #7)
+with command groundspeed. They are applicable only at current
+groundspeed (PB #2). Obviously, if your current groundspeed is the same
+as command groundspeed then the fuel is applicable to both (and
+TOT/TOA will read the same). Remember that look ahead point fuel
+remaining assumes that the current fuel flow and ground speed will
+remain constant.
+
+If you want to put everything in sync, check the command groundspeed
+(PB #4) required to make the TOT (PB #7). Accelerate/ decelerate to make
+the current groundspeed (PB #2) match the command groundspeed. Only
+then should you check the look ahead fuel figure and TOA. With matched
+command and current ground speeds, TOA/TOT (cycle PB #7) are the
+same.
+
+An analog command velocity “wiper” is displayed to the left of the HUD
+calibrated airspeed window (Figure D-9) (if the gear handle is up, a TOT
+has been entered for the current route and the CC clock has been set).
+This “wiper” rotates up or down from a horizontal position to indicate the
+difference between the current speed and command velocity (CMD VEL)
+to meet the next TOT on the current route. The right side of the wiper
+points down (slow down) or up (speed up) at a maximum angle of +80° (1°
+per knot for a maximum of 80 knots). A horizontal “wiper” indicates the
+current speed will achieve the next TOT on the current route.
+
+/ v \
+Py yy
+
+10 L—— --10
+
+Figure D - 9.
+
+AGR-4 D-14
+
+
+Text from AGR-4_Navigation_page_21.jpeg:
+CMD velocity on the EADI (Figure D-10, left) is digitally displayed below
+the CAS window. On the EADI, CMD velocity is accompanied by the
+sequence point identifier of the sequence point to which the TOT is being
+computed (next sequence point on the current route—A,B,C—with a TOT
+assigned).
+
+@)
+
+ISP 4A 1588 LBS Ji
+
+(j4\6 Yee ETR 18:23:54 |hL
+
+ISP 6A FUEL REM |L]
+
+a -CG 475 TOT 18:35:88 —
+
+_|pUeee es Ueee Ook
+
+re 1} 1S
+
+DATA 2
+
+®6) -
+
+@
+
+o
+
+©o
+
+AGR-04-10
+
+Figure D - 10.
+
+All aircraft displayed ETEs, ETAs and command speeds are computed
+assuming you will turn (using the bank angle selected on the TSD) to
+steer directly to the current aircraft steer point/target, and then fly the
+route in numerical sequence. Computations are based on turns initiated
+over each point (no lead turns). Remember this when flight planning: to
+ensure the most accurate aircraft displayed information, always select
+coordinates for the exact point at which you plan to begin your turn.
+
+TOTs can be entered on the point data submenu or on Data 2. Entering
+(or changing) a TOT on either of these UFC formats also changes that
+TOT on the other format. Remember, TOTs changed on UFC Data 2
+affect only the TOT assigned to the look ahead point. They do not adjust
+other route TOTs like a changed TOT entry does on the UFC point data
+submenus.
+
+D-15 AGR-4
+
+
+Text from AGR-4_Navigation_page_22.jpeg:
+CMD speed on the HUD/ADI may be different from the CG displayed on
+Data 2 (Figure D-10, right). The HUD/ADI command speed is always to
+the next assigned TOT on the current aircraft route. The DATA 2, CMD
+GS may be to any point with an assigned TOT, even to a point on a
+different route (A,B,C) than the one you are currently flying. Additionally,
+the HUD/ADI information is based on flying direct to the current aircraft
+sequence point. The UFC Data 2 information is based on flying direct to
+the LOS point (which may or may not be the same as the current aircraft
+sequence point).
+
+EN ROUTE CUTOFFS, CHANGES
+
+To cut off a portion of the route, decide which point(s) to cut off. Select
+Data 2 (Figure D-11) and enter the next desired LOS point at PB #1. For
+example, to check fuel, BRG/RNG and timing from near STR 2A direct to
+STR 4A (cutting off sequence point 3A), enter STR 4A at PB #1 and TGT
+6.A at PB #3. The UFC displays the current GS, ETE or ETA, and either
+bearing and range or fuel remaining from your present position, direct to
+STR 4A at current GS and fuel flow. Bearing/range or fuel remaining is
+cycled by pressing PB #10. ETE/ETA is cycled by pressing PB #9.
+
+With the look ahead point (TGT 6.A) displayed at PB #3, the CMD GS to
+achieve the programmed TOT (cutting off sequence point 3A) can be
+displayed at PB #4. The TOT/TOA to the look ahead point is displayed at
+PB #7, and “FUEL REM” or the estimated fuel remaining is displayed at
+PB #8. The fuel figures are based on turning direct to STR 4A, then flying
+to the remaining points along the route to the look ahead point, 6.A, at
+current groundspeed, fuel flow and TSD-selected bank turns. The LOS
+point (at PB #1) and the look ahead point (at PB #3) must be steer, target
+or base points. These actions performed on the Data 2 page do not affect
+HUD/ADI/HSI/TEWS steering or HUD/ADI command velocity. To steer
+direct to STR 4A, enter STR 4A at PB #10 on Menu 1 or Data 1 to display
+HUD/ADI/HSI/TEWS steering information and HUD/ADI command
+velocity to 4A (assuming a TOT is assigned to 4A, otherwise the command
+velocity will be to the next point on the route that has been assigned a
+TOT).
+
+AGR-4 D-16
+
+
+Text from AGR-4_Navigation_page_23.jpeg:
+OR BEARING/RANGE
+
+6)
+Los POINT ——lsj4pr ce e500 tes |
+
+4 6 335 ETA 18:29:54
+
+LOOK AHEAD amet
+POINT & JEP oA 8500 LBS
+aie Ip (CG OFF TOR 10:36:10
+) DAES _ Were TeRT
+
+e
+
+OR TOT XX:XX:XX
+
+= _ OD
+SUH) 2H SM Sally |
+é ai z2@ Al
+ra
+35
+6
+
+AGR-04-11
+
+Figure D - 11.
+
+D-17 AGR-4
+
+
+Text from AGR-4_Navigation_page_24.jpeg:
+Alternate Routes
+
+The CC can store up to 365 points (99 list points, 100 steer points/targets,
+100 aim points/offsets, 10 mark points, base, 10 bullseye points, and 45
+avoidance points) for en route use and including alternate routes. Routes
+with A, B, or C suffixes can be stored during preflight operations,
+providing excellent tactical flexibility. For the following example (Figure
+D-12), assume a priority target must be struck at a precise TOT,
+regardless of weather, threats, or other factors. Preflight planning,
+therefore, includes routes A, B, and C with the same TOT and target (8.A,
+8.B, and 7.C, respectively). Route A is the primary route; B and C are
+alternate routes. The crew ingresses via route A, and passes STR 1A and
+STR 2A. At STR 3A, it is apparent the weather ahead is not acceptable.
+The crew enters the next feasible alternate route point (STR 5B) into the
+LOS point at PB #1 on Data 2. The next route B point with a TOT then
+automatically appears at PB #3 (TGT 8.B in this case). The CC computes
+LOS range and bearing, ETE, ETA, and fuel remaining from present
+position to STR 5B and displays this data at PBs #9 and #10. The CC
+displays TOT/TOA, command groundspeed, and fuel remaining at TGT
+8.B (via direct to STR 5B). After viewing this data, the crew decides to go
+direct to STR 5B, then continue to the TGT on route B. To go direct to
+STR 5B, they enter STR 5B at PB #10 on Data 1 or Menu 1 and achieve
+STR 5B steering on the HUD/ADI/HSI/TEWS. They will probably want to
+select route B on the TSD as well.
+
+ACTUAL ROUTE
+PLANNED A = ———
+PLANNED B --------
+PLANNEDCG = --------
+
+AGR-04-12
+
+Figure D - 12.
+
+AGR-4 D-18
+
+
+Text from AGR-4_Navigation_page_25.jpeg:
+Between STR 6B and STR 7B, the aircraft is attacked by SAMs (Figure
+D-13). The evasive maneuvers push the intrepid aviators off course
+toward route C (Figure D-13). No problem. Data 2 provides alternate
+routing information. The aircrew enters the nearest feasible route C point
+(STR 6C) at PB #10 on Data 1 (or Menu 1). This provides immediate
+steering direct to the new IP (STR 6C) and to the same target (TGT 7.C)
+via the IP to TGT run from STR 6C to TGT 7.C.
+
+ACTUAL ROUTE
+PLANNEDA = ———
+PLANNEDB = --------
+PLANNEDC = ~------~
+
+AGR-04-13
+
+Figure D - 13.
+
+D-19 AGR-4
+
+
+Text from AGR-4_Navigation_page_26.jpeg:
+Weather and SAMs have forced the aircrew to fly a longer route than
+planned. Evasive maneuvers used more fuel than expected. To check fuel
+remaining at the base via TGT 7.C, they select TGT 7.C at PB #1 and B
+(base) at PB #3 on Data 2 (Figure D-14, left). Flying present position
+direct to TGT 7.C then home, they would RTB with 1200 lbs. Note that
+their actual fuel remaining should be higher (barring battle damage or
+afterburner use) because dropping their ordnance will decrease their drag
+index; in addition, they should be able (once in friendly territory) to climb
+to a more efficient cruising altitude and perform an en route descent.
+After the strike at TGT 7.C, they select B at PB #10 on Data 1 (or Menu 1)
+for immediate steering home (Figure D-14, right).
+
+PRESS TO DISPLAY
+BRG/RNG
+
+®
+spies 7yeS a4 STR B
+
+(ETA 18:34:38 R 3588" |LC] Sg
+
+7088 LBS
+LOS POINT
+DATA
+
+ETA @S:46:1e
+
+TIME 89:47:18 ]
+
+1e@B LBS (F S68
+
+LOOK
+AHEAD
+POINT DATA
+
+G S43 WIND M 188/819
+
+eS es Po
+| Ueeb.te5 Ueew. 1abx
+
+we 14
+
+AD “= EICIIR
+FUEL REMAINING AT BASE BASE SELECTED AS CURRENT
+(DATA 2) STEER POINT (DATA 1)
+
+AGR-04-14
+
+CG OFF TOR 18:18:48
+
+Ueeb.1e5 Uees. weox
+
+Figure D - 14.
+
+The previous example shows some poor technique in the aircrews’ flight
+planning. It is generally advisable to make the IP and target point
+numbers match between the A, B and C routes. The C route IP should
+have been loaded as 7C and the target as 8.C-this is much easier to
+remember, and auto sequencing will function normally from 5C to 7C.
+This also helps in the drawing of offset predictions, which may be shared
+between 8.A, 8.B and 8.C.
+
+AGR-4 D - 20
+
+
+Text from AGR-4_Navigation_page_27.jpeg:
+0. Targeting
+
+The zero point (0.) target feature allows the aircrew to visually overfly a
+point and get steering and weapons delivery computations to a TGT that
+is at a known location relative to the point. The target syntax must be 0.
+(no other target numbers are allowed).
+
+TOT @.
+
+(J4iN 37ee2' (—)
+(alu 95 te" ()
+
+RNGTBRG Wie
+
+(| (Bees. 12s Uece. Waox
+
+re 1] 1S
+
+IIE.
+nee
+
+AGR-04-15
+
+gal
+
+IMARK
+
+? "iy a '
+
+, Sar fl Pen, Hy VOL
+
++ i ‘al H R1@ ORS
+
+“) ee s seel\ a
+
+‘het OBE
+: } 220 FIT R-ORBE [ IC
+
+‘@) Sci
+@® A/P CLR 0
+
+Figure D - 15.
+
+Either DIR/RNG or RNG/BRG UFC formats can be used. In preflight
+planning, choose a visual point near the target as a backup in case other
+delivery options are not viable. For example, using an old airplane at the
+10,000 feet marker on the run-in to a range nuclear target (Figure D-15)
+as the visual point, the following steps are used to program a 0. target in
+the DIR/RNG format (0. data can also be entered in RNG/BRG format,
+although this is less accurate than the DIR/RNG format).
+
+e Enter 0. on any point data submenu.
+
+e Press PB #4 to access the DIR/RNG submenu.
+
+e Enter the north directional component (3722 feet) from the old
+airplane to the target at PB #2, the west directional component
+
+(9512 feet) at PB #3, and target (repeat, target) altitude (1032 feet)
+at PB #7. Remember, the direction is entered in true direction, not
+
+magnetic.
+
+D-21 AGR-4
+
+
+Text from AGR-4_Navigation_page_28.jpeg:
+e Ifusing RNG/BRG, you would enter the true bearing from the
+visual point to the target (to the nearest degree) and the range (to
+the nearest tenth of a mile).
+
+e To designate TGT 0., step to Data 1 or Menu 1 in preparation for
+making TGT 0. the current aircraft sequence point (Figure D-16).
+Enter 0. in the scratchpad. When you fly precisely over the visual
+point (old airplane), press PB #10. This makes TGT 0. the current
+target, and steering and weapons delivery computations are to TGT
+0.
+
+e After bombing TGT 0. (and in A/G master mode), manually enter
+the next sequence point number and route letter (at PB #10) on
+Data 1 or Menu 1. This clears the 0. target steering, and resets
+NAV steering data to the desired off-target sequence point.
+
+e 0. programming can be checked in the chocks (in A/G master mode).
+For example, using RNG/BRG, enter the range and true bearing to
+a known point. Then, when 0. is entered as the current aircraft
+sequence point on Data/Menu 1, the magnetic bearing and range
+can be used to validate the data entry.
+
+6579 VIND M@98/84 |
+
+(Bees. 125 Uees. 1BBb%*
+1
+tt
+
+rk iS
+
+AGR-04-16
+
+Figure D - 16.
+
+AGR-4 D - 22
+
+
+Text from AGR-4_Navigation_page_29.jpeg:
+QUESTIONS
+
+As long as a known point has been previously entered (in LAT/LONG
+or UTM coordinates) to use as a reference for the derived point, it is
+possible to program any applicable type sequence point (steer point,
+target, aim point, target offset), in any of the four available Point
+Data Submenu programming formats.
+
+a. True
+b. False
+
+Command groundspeed is computed if
+
+a. the CC retains a TOT on the current route from a previous flight
+(DTM not read).
+TOA is entered at PB #7 on Data 2 for the current route.
+
+c. a TOT fora steer, target or base point is entered from Data 2 ora
+point data submenu.
+
+d. Hither a orc.
+
+Command groundspeed on the UFC Data 2 display is
+
+to the LOS point at PB #1.
+
+to the look ahead point at PB #3.
+to the target if at PB #1.
+
+always to the target.
+
+Be op
+
+You have just bombed TGT 8.A, but had to use the 0. function. You
+wish to proceed to steer point 9A. You should
+
+allow the system to auto sequence to the steer point.
+enter “9A” at PB #10 on Data 1 or Menu 1.
+
+enter “9” at PB #10 on Data 1 or Menu 1
+undesignate the target using HOTAS.
+
+po op
+
+D - 238 AGR-4
+
+
+Text from AGR-4_Navigation_page_3.jpeg:
+AIR-TO-GROUND RADAR
+
+Ss SS
+SW. ©
+=. o\ fi a area eri
+
+)
+
+j}—__
+
+—s/
+ST | =
+
+COVER
+
+NAVIGATION
+INTRODUCTION
+
+This workbook introduces programming and applications of the
+navigation system (EGI/INS/MN). It also explains how to use navigation
+functions for safe, effective low level navigation. As part of a computer-
+based instructional (CBT) lesson, this workbook should be read prior to
+taking the CBT instruction.
+
+CONTENTS:
+
+INTRODUCTION 000... eeecceceesneecesnceeessneeessaeeeessaeesessaeesesaeesenaees A-1
+CRITERION REFERENCED OBJECTIVES (CROs).............. B-1
+STUDENT PREPARATION REQUIREMENTS ....00. eee C-1
+TEXT oc eecccccccessseeeeceessneeecceesaeeeceessseeeccessaeeeceeesaaeeseeeeaeeeseeeeaes D-1
+END OF TET QUIZ cose case sae sass secs cose ans sais ans seis cass ans canis ans axsh see ans aan N/A
+GLOSSARY. eecccessneecesneeeessaeecesaeeeeesaeecsseeeessaeesesaeesnseesessaeeens F-1
+
+A-1 AGR-4
+
+
+Text from AGR-4_Navigation_page_30.jpeg:
+5. Which of the following changes all TOTs on a route?
+
+AGR-4
+
+Changing a TOT on a Data 2 display
+
+Initial entry of a TOT on a point data submenu (from a TOT
+“OFF”)
+
+Utilizing the Delta TOT (or changing a TOT) on a point data
+submenu
+
+All of the above
+
+
+Text from AGR-4_Navigation_page_31.jpeg:
+ANSWERS
+a
+d (TOA cannot be entered; it is a computation)
+b
+
+b
+
+D-25 AGR-4
+
+
+Text from AGR-4_Navigation_page_32.jpeg:
+ADI
+AFMSS
+CMD VEL
+DIR/RNG
+DTM
+
+EGI
+
+ETA
+
+ETE
+
+HSI
+
+LOS
+
+MEA
+
+MM
+RNG/BRG
+SAM
+
+SP
+
+TOA
+
+TOT
+
+TSD
+
+UTM
+
+GLOSSARY
+
+Attitude direction indicator
+
+Air Force Mission Support System
+Command velocity
+
+Directional components and range
+Data transfer module
+
+Embedded GPS/INS
+
+Estimated time of arrival
+Estimate time en route
+Horizontal situation indicator
+Line of sight
+
+Minimum en route altitude
+Master mode
+
+Range and bearing
+
+Surface-to-air missile
+
+Sequence point
+
+Time of arrival
+
+Time on target
+
+Tactical situation display
+
+Universal transverse mercator
+
+AGR-4
+
+
+Text from AGR-4_Navigation_page_4.jpeg:
+CRITERION REFERENCED OBJECTIVES (CROs)
+
+1. Identify the procedures for programming sequence points (including
+TOTs) using UTM, range/bearing and direction/range data.
+
+2. Identify the procedures for checking route point data.
+
+3. Identify the procedures for programming a 0. target.
+
+4. Identify the procedures for using UFC Data 2 information including
+modifying a planned route (including TOTs) and determining fuel
+
+and timing information.
+
+MAIN TOPICS
+
+Navigation
+
+REFERENCES
+
+TO 1F-15E-1 Section I
+
+Section II
+
+AGR-4
+
+Upfront Controls/UFC
+Displays (Data 2 Display)
+
+UFC Navigation Displays
+
+UFC Procedures
+
+
+Text from AGR-4_Navigation_page_5.jpeg:
+STUDENT PREPARATION REQUIREMENTS
+
+BEFORE THE CBT CLASS
+
+1. Study the information contained in this workbook and complete the
+questions.
+
+2. Read the reference material in TO 1F-15E-1.
+
+C-1 AGR-4
+
+
+Text from AGR-4_Navigation_page_6.jpeg:
+(This Page Intentionally Blank)
+
+AGR-4 C-2
+
+
+Text from AGR-4_Navigation_page_7.jpeg:
+TEXT
+PROGRAMMING AND CHECKING NAVIGATION DATA
+
+Latitude and longitude data for sequence points (SP) is entered on the
+point data LAT/LONG submenu (Figure D-1) as you practiced during the
+INS lesson. There are three additional UFC submenus available for
+defining sequence points to the CC.
+
+The Universal Transverse Mercator (UTM), range and bearing
+(RNG/BRG), and directional components and range (DIR/RNG) point data
+submenus provide additional flexibility for programming the various
+sequence points used in low level/surface attack missions.
+
+Programming Data as UTMs
+
+The UTM is a grid system used to define specific points or areas in a
+manner similar to LAT/LONGs. The UTMs consist of a spheroid identifier
+that designates a part of the world containing the point. The eight
+spheroids are: INTL (International), BESSEL, CLARKE-66, CLARKE-80,
+EVEREST, AUST NAT (Australian National), WGS 72 and, WGS 84 (the
+aircraft initializes to WGS 84). Within the spheroid are alpha numeric
+grid zone identifiers (the southwest corner of a 10,000 meter square block,
+e.g., 12 SUL) which provide a specific starting point for the UTM
+coordinates. A series of numbers express the point location, in meters,
+east and north of the grid zone identifier. UTMs are always read from the
+lower left hand corner (southwest corner) of the grid zone to the right
+(east) and up (north).
+
+The easiest way to access UTM data is to define the sequence point using
+LAT/LONG on the LAT/LONG submenu, then press PB #4, UTM (Figure
+D-2) to display the previously entered LAT/LONG data as UTM data on
+the UTM submenu. Similarly, if you define sequence points in the UTM
+format, the CC performs the conversion and you can display the
+information in the LAT/LONG format.
+
+NOTE
+
+The identifier at UFC Point Data Submenu, PB #4, identifies the next
+format (LAT/LONG, UTM, RNG/BRG, or DIR/RNG) that will be called
+
+up if the button is pushed. It does NOT identify the currently
+displayed format.
+
+D-1 AGR-4
+
+
+Text from AGR-4_Navigation_page_8.jpeg:
+(® ®
+
+[ Ja [LAu 920° STR 139A <— PRESS TO SELECT
+
+_ POINT DATA SUBMENUS
+€ (J (TEN 112x ATP NAVITF | L( Z
+
+‘(J ftfete3 A ele s4 Tal
+
+[FE NORM N-F NORM Lo
+
+‘_| (ees 125 Ueen lax ra
+
+MENU 1
+@ @)
+| Ja fatR ISR LIST @) el |
+ne N39°47.373' TOT 12:45:38 inl
+ee W876°24 696 MER 1588" ee
+CH UTM ELV 465S' Tal
+pm. Ueeb. 125 UccB. Waox* Tal
+PRESS TO SELECT
+
+POINT DATA SUBMENUS — POINT DATA LAT/LONG SUBMENU
+®)
+
+©
+TEED ELE STR 193A 1]
+
+PY AIETA 12:45:38 R 1808 K{)
+(A/F Sei TIME t2:4e:87 (|
+
+6579 WIND M188°/8 1S —(
+
+a{ Ueeb. tes UccB. Wao* -(_]
+
+eC A 14
+
+DATA 1 AGR-04-01
+
+Figure D - 1. Point Data Submenu Selection.
+
+AGR-4 D-2
+
+
+Text from AGR-4_Navigation_page_9.jpeg:
+GRID ZONE12,
+
+BLOCK SUL
+PRESS TO SELECT
+LATITUDE/LONGITUDE EAST 69135 METERS
+PRESS TO SELECT SUBMENU AND NORTH 90285 METERS
+UTM SUBMENU AND COORDINATES
+COORDINATES PRESS TO SELECT UTM
+PROGRAM SUBMENU
+
+®
+
+S|STR I9R LIST @ STR| 139A LIST &
+
+T
+|O 4
+
+le SUL TOT 12:45:38
+
+®
+a4 {N35°47.373' TOT 2:45:38 | Le 7 Les
+er _——————————
+(Po (we76°e4 696° MER 1588" |] Le) 63 13598¢e85 PROGRAM ft]
+
+LAT/LON ELV 465°
+
+LC q py _ Uees.1e5 Uees. We6%* (—)
+
+LWT
+: i) ELV 465°
+
+Ueeb.125 Uecs. 186%
+
+POINT DATA LAT/LONG SUBMENU POINT DATA UTM SUBMENU
+PRESS TO MOVE
+CARET TO NEXT ® ®
+LETTER PRESS TO SELECT
+4(STR 9A LIST @ K(_} NEW SPHEROID
+afie SeuUL CLARKE-66 L (4
+PRESS TO GO TO [GE sStebs  PROGRAR® |e ay UTM PROGRAMMING
+NEXT LETTER IN SS ———————orie SELECTED (*)
+ALPHABET me ja ih =
+—_) Ueeb.1e25 Uec8. ieb6% C) PREVIOUS LETTER
+IN ALPHABET
+
+UTM PROGRAM SUBMENU
+
+AGR-04-02
+
+Figure D - 2. UTM Data.
+
+D-3 AGR-4
+
+

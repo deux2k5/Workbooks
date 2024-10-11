@@ -11,5 +11,3 @@ Welcome to the AGD - Air-to-Ground Delivery section. Here you'll find detailed i
 - [AGD-5 Computed Bombing Modes](agd-5.md)
 - [AGD-6 Continuously Computed Impact Point (CCIP)](agd-6.md)
 - [AGD-7 Dive Toss (DTOS)](agd-7.md)
-- [AGD-8 Loft Delivery](agd-8.md)
-- [AGD-9 Strafe Employment](agd-9.md)

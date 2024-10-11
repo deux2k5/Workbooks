@@ -15,9 +15,6 @@
 ## AAW - Air-to-Air Weapons
 - AAW-1 A/A Programmable Armament Control Set (PACS)
 - AAW-2 HUD Air-to-Air Displays
-- AAW-3 AIM-9 Employment
-- AAW-4 AIM-7 Employment
-- AAW-5 AIM-120 Employment
 - AAW-6 Gun Employment
 
 ## ACG - Aircraft General

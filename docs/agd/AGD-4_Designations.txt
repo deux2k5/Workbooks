@@ -1,0 +1,3069 @@
+Text from AGD-4_Designations_page_1.jpeg:
+SUPPORTS COURSES
+FIS5EBQ
+
+FISETX
+
+FISESOC
+
+ACADEMIC STUDENT WORKBOOK
+F-15E
+
+AIR-TO-GROUND DELIVERY
+AGD-4
+DESIGNATIONS
+
+JANUARY 1999
+
+(SUITE 3 OFP)
+
+AIR COMBAT COMMAND
+
+
+Text from AGD-4_Designations_page_10.jpeg:
+It is recommended that the EGI be used as the primary PPKS. The EGI
+position, velocity, and altitude outputs are taken into the position/velocity
+consistency (PVC) filter in the CC. The PVC filter provides stable and
+consistent data which is used for navigation, steering, and weapon
+delivery. The FNU INS will continue to provide the primary attitude,
+heading, attitude rate, and accelerations to the CC.
+
+NOTE: The remaining text refers to aircraft before EGI unless
+noted at that paragraph.
+
+Coordinate Transformations
+
+In processing information for the various avionics systems, several
+reference/coordinate systems are used (e.g., earth coordinates, aircraft
+coordinates). For the various systems to talk back and forth, any spatial
+point of interest must be known relative to each of the frames of reference.
+This function is accomplished by the MN.
+
+Symbol Placement/Steering
+
+When INS is the selected PP source, the MN PP is used only to place A/G
+radar and TGT IR display symbology during A/G radar or TGT IR position
+updates and A/G weapon(s) release steering/cues. When MN is the
+selected PP source, MN PP is used to position all navigation symbology on
+the HUD, TSD, A/A and A/G radar, TGT IR, TEWS/EADI/EHSI, and for
+UFC navigation information.
+
+Sensor Pointing
+
+As in the case of symbol placement, the CC uses the present position of
+the PP keeping source to point sensors (A/G radar, TGT IR) at specific
+points of interest. Once a target is designated, all weapon(s) release
+symbology is based on MN present position, regardless of the PP keeping
+source.
+
+AGD-4 D-4
+
+
+Text from AGD-4_Designations_page_11.jpeg:
+Target Designation
+
+Target designation is nothing more than identifying to the A/G module
+[weapon(s) release program] that a particular CC-stored sequence point
+(usually a target) has been chosen to receive your load of iron. The MN
+gets the job because it is the most accurate short-term navigator if it is
+properly updated (position and velocities). Although a stored target or
+target offset is normally used for the target designation, the system is
+capable of bombing other sequence points (steer points, aim points, base,
+mark points) or locations not stored in the CC (targets of opportunity).
+
+Requirement for Designation
+
+Normally, there are many sequence points stored in the CC (base, steer
+points, aim points, targets, target offsets, mark points, bullseye points,
+avoidance points). Although the system allows us to bomb targets of
+opportunity, we normally identify (with target syntax) those points on
+which we anticipate the need to employ air-to-ground ordnance.
+Additionally, at any given time, the A/G radar cursor, TGT IR cursor,
+HUD reticle, and current aircraft sequence point may all be different
+geographic locations. In order to employ our computed weapons delivery
+modes [AUTO and continuously displayed impact point (CDIP)] we must
+identify to the CC our intent to release weapons and where we want those
+weapons to impact. This process is referred to as target designation. Only
+after target designation do we obtain weapons delivery information
+(versus simply navigation information) on the HUD and the ability to
+release weapons via the AUTO or CDIP weapons delivery modes.
+
+Once a designation has occurred, it is presented on various cockpit
+displays. This can be an aid to visually identify the target. With most
+designation methods the target pod is pointed to the target location to
+further refine the designation.
+
+The act of designation always occurs before the bombs are released for
+
+computed deliveries. For CDIP this may be a very short period of time,
+but can be a long time (minutes) for some auto deliveries.
+
+D-5 AGD-4
+
+
+Text from AGD-4_Designations_page_12.jpeg:
+Definitions
+
+Designation Triangle
+
+In order to put bombs on the target with the F-15E, the first task is to
+have the most accurate designation possible. Once a designation is
+obtained, the system (MN) will use the information it has to figure all
+parts of the designation triangle (Figure D-2). It is important to note that
+it can be a single shot computation or can be updated frequently during
+the bombing run.
+
+The three sides of the triangle are known as height above target (HAT),
+slant range (SR) to the target, and ground range (GR) to the target. The
+angle between the aircraft INS horizon and the line of sight of the sensor
+to the designation is referred to as the graze angle. With any two of these
+four values known, the computer is able to calculate the remaining values.
+Of particular interest are the HAT and ground range which are used for
+weapons ballistics computations.
+
+GRAZE ANGLE
+
+GROUND RANGE
+
+MEAN SEA LEVEL
+
+AGD-04-02
+
+Figure D - 2. Designation Triangle.
+
+AGD-4 D-6
+
+
+Text from AGD-4_Designations_page_13.jpeg:
+Definitions (Altitudes/Elevations)
+
+There are several altitude/elevation terms that we must understand
+during any discussion of target designations (and air-to-ground weapons
+delivery). The definitions are important because they represent separate
+means of altitude information needed by the MN to determine where to
+place the target vertically (Z coordinate) when we designate and to
+determine our aircraft’s location-to-target vertical relationship during
+sensor cueing and computed weapons deliveries.
+
+Target Elevation (Ht)
+
+Ht is entered by the aircrew during route construction through the DTM
+or manually on the UFC point data submenu. List points can transfer Ht.
+Alternately, Ht is calculated by the navigation module during the
+designation process.
+
+Steer Point Elevation (Hsp)
+
+Hsp is a stored sequence point altitude as entered by the aircrew during
+route construction (DTM, list point transfer, or manually through the
+UFC). Hsp and Ht can be synonymous, but are not necessarily so.
+
+System Altitude (Hsys)
+
+System altitude is ADC corrected pressure altitude smoothed by the CC
+using INS vertical velocities. It is not necessarily the same as MSL
+altitude as read on the HUD and ADI. System altitude is always
+measured/calculated by the NAV module and cannot be entered directly
+by the aircrew. The aircrew resets the system altitude during preflight
+ground operations so that the system altitude is the same as the elevation
+(MSL) of the ground under the aircraft. The aircrew then updates the
+system altitude using overfly freeze position updates, overfly freeze
+altitude updates over a known point or flat surface, and TGT IR updates
+(position and altitude, or altitude only). HUD or A/G radar updates do not
+update system altitude.
+
+D-7 AGD-4
+
+
+Text from AGD-4_Designations_page_14.jpeg:
+It is extremely important to ensure accurate system altitude as it is the
+primary altitude/elevation source for some types of designations and is
+always a default/backup altitude/elevation source for all methods of
+designation and all computed weapons deliveries. One point to remember
+is that a CC reset (CC reset button or CC ground power switch) rejects
+your system altitude update, and a subsequent system altitude update
+before designating targets and dropping bombs is highly advised.
+
+Height Above Target (HAT)
+
+HAT is the true altitude of the aircraft above the target. It is one of the
+pieces of information used by the mission NAV to provide steering to the
+designated target. It is also a critical bit of information used by the A/G
+module (ballistics computer) to figure the computed release range of the
+weapons selected.
+
+Height Above Ground (HAG)
+
+HAG is also a true altitude above the ground, always computed in the
+central computer and used for updates in the course of the flight. This is
+also used by the ballistics computer if an undesignated CDIP delivery is
+attempted.
+
+Designation Sources Versus Ranging/Altitude Sources
+
+There are a variety of methods to designate targets. Each of these
+methods has a variety of possible sources of determining where the target
+is, in range/elevation relative to the aircraft, and when the
+aircraft-to-target relationship matches the computed ballistics of the
+selected weapons. The designation methods include NAV, A/G radar, TGT
+IR and several visual methods utilizing the A/G HUD symbology. Possible
+methods of determining range to target and/or our aircraft’s height above
+target (HAT) include laser ranging (LAS) through the TGT IR pod, high
+resolution map (HRM) ranging, air-to-ground radar ranging (AGR),
+passive ranging from TGT IR pod pointing angles (PASS), radar altitude
+(RALT), and aircraft system altitude (SYS). Not all designation methods
+are created equal—some are more accurate than others. Neither are all
+ranging/altitude sources created equal.
+
+AGD-4 D-8
+
+
+Text from AGD-4_Designations_page_15.jpeg:
+SYS (Before TCTO 1F-15E-737)
+
+SYS is the means of using Hsys to compute target elevation and aircraft
+height above target (HAT) for target designations and weapons delivery.
+This method can be the primary means for computing HAT, and is always
+a backup means. It is compatible with all designation methods.
+
+SYS (After TCTO 1F-15E-737)
+
+SYSG: With EGI as the PPKS, the system altitude (SYSG) is the EGI
+blended altitude combined with the blended vertical velocity by the
+position/velocity consistency filter in the CC.
+
+SYSB: For other PPKS selections, the system altitude (SYSB) is
+temperature corrected pressure altitude.
+
+Radar Altitude (RALT)
+
+RALT is the means of computing target elevation for target designations
+and/or HAT using inputs from the radar altimeter. It is only used if
+included in the manual hierarchy as programmed by the aircrew and only
+if the manual (versus auto) hierarchy is selected by the aircrew. RALT is
+only used if the aircraft attitude is less than 60° of bank and pitch. RALT
+is compatible with all designation methods, but is usually programmed as
+a backup, versus primary, source. When RALT is used, HAT is computed
+as HAT = RALT. Obviously, RALT would not be a good source of HAT if
+the approach to the target/computed weapon(s) release point was over
+changing terrain elevation or terrain elevation differed from the target
+elevation. RALT will not be used for a NAV or A/G radar designation for
+computing target elevation. However, it can be used for computing HAT
+once the aircraft reaches 15 seconds to weapon(s) release (15 TREL) ona
+target designated with a NAV or radar designation.
+
+D-9 AGD-4
+
+
+Text from AGD-4_Designations_page_16.jpeg:
+Air-to-Ground Ranging (AGR)
+
+AGR is the method of computing target elevation during target
+designations and HAT for weapons delivery using A/G radar slant range.
+AGR is available for use if the aircrew selects the auto sensor hierarchy
+(LAS, AGR, SYS—in that order of precedence), and is available if
+programmed into the manual hierarchy. AGR is compatible with all
+designation methods and can be slaved to the target designation (HUD TD
+diamond), to the TGT IR pod LOS, to the AUTO delivery mode pipper or
+to the CDIP delivery mode pipper.
+
+Even if included in the selected hierarchy (AUTO/MAN), AGR inputs will
+not be used if the radar antenna elevation is not depressed at least -1.25°.
+The system does not want to use unreliable information from shallower
+radar graze angles.
+
+AGR is commanded automatically when the CC determines that a slant
+range measurement is required. During any designated AUTO weapons
+delivery a slant range measurement is required for the last 15 seconds
+prior to computed weapon(s) release. Just like RALT, AGR will not be
+used to determine target elevation during a NAV or radar designation but
+it can be used to determine HAT once 15 TREL is reached.
+
+The CC commands the radar to AGR at the target pod LOS, providing
+ranging for TGT IR designations and weapons deliveries:
+
+e@ when the target pod cursor function TGT (or UPDT) is selected,
+e AGR is included in the selected hierarchy,
+e the aircrew is in command of the TGT IR, and
+
+e laser range is not available, not valid, or above LAS in the manual
+hierarchy.
+
+The AGR value can then be used for computing target elevation for
+designations and HAT for weapons delivery calculations.
+
+When the pilot takes command of the HUD and the target pod laser is not
+firing, the CC commands the radar to provide AGR to the HUD. In AUTO
+bombing mode AGR is provided to the designated target or to the AUTO
+pipper if there is no designated target. In CDIP bombing mode, AGR is
+always to the CDIP pipper (with or without a target designation).
+
+AGD-4 D-10
+
+
+Text from AGD-4_Designations_page_17.jpeg:
+In summary, AGR slant range can be used to compute HAT following a
+NAV or A/G radar target designation and can be used for target
+designation/HAT computations for TGT IR and AUTO/CDIP pipper
+designations.
+
+Since some sensors could provide unreliable data for use in slant
+range/HAT data, the CC performs sanity and/or validity checks to
+determine whether the sensor-provided information should be used.
+Before AGR is used, the following conditions must be satisfied to assess
+the AGR as valid.
+
+e AGR grazing angle must be kept at or greater than 1.25°.
+
+e The designated target during designated AUTO weapons deliveries
+must be within the radar antenna gimbal limits.
+
+e The computed range from AGR must be within -10,000/+15,000 feet
+of the designated target position as calculated by the CC (MN) during
+designated AUTO weapons deliveries from a NAV or A/G radar
+designation.
+
+LASER Ranging (LAS)
+
+LAS is the means of using LASER slant range for computing target
+range/elevation and/or HAT for target designations and computed
+weapons deliveries using the TGT IR laser. LAS can be used for TGT IR
+and HUD designations, and for weapons delivery computations from these
+designations. It is the first priority sensor if AUTO sensor hierarchy is
+selected on the A/G delivery display and can be included, at aircrew
+discretion, in MAN sensor hierarchy, programmed using the A/G delivery
+display.
+
+Laser sensor validity checks are applied for HUD designations only. The
+sensor fails the check if the target pod is not actively slaved to the:
+
+e designated target (for designated AUTO weapons deliveries).
+e AUTO pipper for undesignated AUTO weapons deliveries.
+
+e CDIP pipper for all CDIP (designated or undesignated) weapons
+deliveries.
+
+D-11 AGD-4
+
+
+Text from AGD-4_Designations_page_18.jpeg:
+If the auto sensor hierarchy is selected or if the manual sensor hierarchy
+is selected and includes LAS, when the pilot takes command of the HUD a
+second time, the TGT IR LOS (and hence the laser) is slaved to the HUD.
+It is slaved to the TD diamond (if a target is designated) or to the
+AUTO/CDIP pipper if there is no target designation (undesignated
+AUTO/CDIP).
+
+PASS (Passive Ranging)
+
+Target elevation and HAT are computed using TGT IR pod pointing
+angles and line of sight rates (trigonometric calculations) without using
+any of the other altitude or ranging sources. It is compatible only with
+TGT IR designations.
+
+HRM
+
+HAT is computed using TGT IR pod pointing angles and ranging from a
+HRM patch map. It is utilized only for TGT IR pod designations, which
+follow an A/G radar patch map designation.
+
+Designation Methods
+
+There are six methods which can be used to designate a target. They are
+NAV, radar, TGT IR, AUTO pipper, CDIP pipper, and zero point. The
+flow on a typical mission would be to plan for each type as you get closer
+to the target. There is a time/distance relationship with the target for
+each. A NAV designation can be done at any distance. The radar
+designation will be done inside radar range, typically less than 30 nm. A
+target pod designation would typically be planned at 8-5 nm from the
+target. The pipper designation inside visual range to target, 4-1 nm. In
+this context a zero point could be used as a reattack option. In general
+terms the accuracy of the designation will also improve as you move down
+the list, with the exception of zero point which is mechanically the same as
+a NAV designation. Another important relationship that exists is the fact
+that each of the first five will “overwrite” any of the previous designations
+on the list. For example, a TGT IR will overwrite a NAV or radar, but not
+an AUTO or CDIP pipper designation. A description of each method is
+presented later in the text.
+
+AGD-4 D-12
+
+
+Text from AGD-4_Designations_page_19.jpeg:
+Range/Altitude Source Hierarchy
+
+Hierarchies of the range/altitude sources to be used may be programmed/
+selected by the aircrew utilizing the A/G delivery (A/G DLVRY)
+MPD/MPCD display format (more later in this text on mechanics). The
+aircrew may choose to use either the auto hierarchy or manual hierarchy.
+The auto selection allows only LAS, AGR and SYS to be used, in that
+order of precedence. The manual selection allows the aircrew to build the
+hierarchy with only one or as many as all six range/altitude sources
+included. One constraint is that SYS must always be included.
+Remember, regardless of the sensor hierarchy selected (AUTO or MAN)
+the range/altitude sources will only be used if they are compatible with
+the current designation method.
+
+Finally, not all ranging/altitude sources are available/compatible with all
+designation sources/methods. Figure D-3 shows which range/altitude
+sources are compatible with each designation method.
+
+HUD
+(AUTO/CDIP PIPPER OR TD)
+
+A/G RADAR
+
+AGD-04-03
+
+Figure D - 3. Designation Sources Versus Range/Altitude Sources.
+
+D-13 AGD-4
+
+
+Text from AGD-4_Designations_page_2.jpeg:
+ADMINISTRATIVE INFORMATION
+
+This student workbook is designed to provide information on the F-15E,
+its systems, and capabilities. It is not a sole source document, but is to be
+used in conjunction with other standard Air Force publications and
+technical manuals. If you find any differences between the material
+contained herein and other governing regulations, adhere to the
+regulations and notify the OPDR.
+
+Changes to this workbook are indicated with a heavy black line in the left
+margin.
+
+Forward recommendations for revision or change to 4 TS, SJAFB, NC,
+275381.
+
+Supersedes: AGD-4, July, 1998
+
+OPDR: 4 TS
+
+Index of Changes
+
+Effective Date Pages Affected
+
+
+
+Text from AGD-4_Designations_page_20.jpeg:
+A/G DELIVERY DISPLAYS
+A/G Delivery (A/G DLVRY) Display
+
+The A/G delivery display (A/G DLVRY) MPD/MPCD format is used to
+select/program a variety of target designation/weapons delivery functions.
+A/G DLVRY is selected from display Menu 2 (Figure D-4).
+
+(oe ee es
+
+vib2 Mc/ VIDS. —s HUD
+or pRoe A/G DLVRY
+
+SUU20 SUUZI
+WIND TBDU33 TBDU33
+MODEL PAGE
+
+LOFT 30° AT— 38
+TARM6.5SEC MLAS 0:12 CT R 130°
+
+AUTOPRIOR = STATUS
+
+2] AGR
+BE] sys
+
+fe}
+9g
+q
+
+Ha
+
+AIG
+DLVRY
+
+SYSB 12384'
+WIND 270°/023
+TIME 15:30:20
+
+Tall COLO!
+
+OO
+fle
+
+AUTO STEP
+
+watene [AGceT] = [PY
+
+é
+
+AGD-04-04
+
+MENU 2 | DLVRY DISPLAY
+
+Figure D - 4. A/G DLVRY Display.
+
+The selections input by the aircrew on the A/G ARMT (PACS) display are
+visually repeated on the A/G DLVRY display format. Generally, the
+selections can be programmed through the DTM or input manually. Most
+of the inputs are tied to a specific A/G PACS weapons delivery program
+(PROG 1-4). By changing the PACS PROG, the aircrew also selects the
+A/G DLVRY parameters tied to that program. The following discusses
+A/G DLVRY display options.
+
+e RET XXX, PB #2: Provides entry (through the UFC scratchpad) of a
+reticle depression angle (mils) for use in noncomputed (direct or
+manual) bombing. The manual or direct HUD reticle will be
+depressed from the aircraft flight path by the value set (0 through
+250 mils).
+
+AGD-4 D-14
+
+
+Text from AGD-4_Designations_page_21.jpeg:
+e Minimum Recovery Altitude (MRA), PB #3: Values of 0 through
+50,000, in one foot intervals, can be set using a UFC scratchpad
+entry. The entry will provide HUD cues that can be used to
+deconflict from the weapons effects (fragmentation envelope) of
+ownship or other aircraft A/G weapons.
+
+e PROG (1-4), PB #5: Pressing the button will cycle through the four
+PACS weapons delivery programs.
+
+The PACS program parameters (delivery mode, release sequencing,
+fuzing) and the PACS selections for A/A CBT or TNG and A/G CBT or
+TNG are reflected at the bottom of the display. (These selections can only
+be made from a PACS display.) The current aircraft master mode
+selection is boxed. Current aircraft system altitude, current winds and
+current CC clock time are also displayed. The |RDY | mimics the status
+on the A/G PACS display.
+
+Across the top of the display are the loaded store legends and quantities.
+The store legends are boxed only if they are selected on the A/G PACS
+display (selection/deselection can only be accomplished from A/G PACS
+display).
+
+The data below the stations (LOFT, TARM, MLAS, AT, CT, etc.) mimic
+values programmed on a separate A/G delivery program (A/G DLVRY
+PROG) display, which is addressed later in this workbook.
+
+The programmed/selected sensor hierarchy (AUTO or MAN)/status is
+depicted in the center of the display. The sensor currently being used for
+HAT calculations is boxed. The selection of the auto or manual sensor
+hierarchy is made at PB #18. The manual hierarchy can only be
+programmed/changed on a separate A/G DLVRY PROG display format.
+
+D-15 AGD-4
+
+
+Text from AGD-4_Designations_page_22.jpeg:
+A/G Delivery Program (A/G DLVRY PROG) Display
+
+The A/G DLVRY PROG display format is accessed by pressing PB #1 on
+the A/G DLVRY display format (Figure D-5).
+
+A/G DLVRY LAS HRM AGR PASS — RALT
+
+2
+|_||[PROG
+PAGE
+
+LOFT
+30°
+
+SUU20 SUU20
+PROG 1BDU33 1 BDU33
+PAGE
+
+LOFT 30° T- 38"
+TARM6.5SEC MLAS 0:12 CT R 130"
+AUTOPRIOR STATUS
+2] GR
+B] sys
+
+A/G DLVRY PROG
+
+MAN PRIOR = STATUS.
+VAL
+AT 2] HRM VAL
+38 AGR SAN
+PASS VAL
+RALT OFF
+sys VAL
+
+a
+
+cT
+SYSB 12384' R130'
+WIND 270°/023
+
+TIME 15:30:20
+
+PIS
+
+AUTO STEP
+AIA TRNG A/G CBT TARM MLAS
+6.5 SEC CONT
+
+a ee ee at, | | |
+SIMIPIEP ~ EIIEIE|
+A/G DLVRY DISPLAY A/G DLVRY PROG DISPLAY
+
+AGD-04-05
+
+Figure D - 5. A/G DLVRY and A/G DLVRY PROG Display.
+
+Sens ||
+
+Toggling PB #1 alternately selects the two formats (A/G DLVRY and A/G
+DLVRY PROG). The PB #1 legend (PROG PAGE) is boxed when the
+PROG DISPLAY is the currently viewed format.
+
+The A/G DLVRY PROG display is mechanized as follows.
+
+e Data displayed adjacent to PB #2 (LOFT XX), PB #3 (AT), PB #4
+(CT), PB #6 (TARM XX.X), PB #7 (DGR), and PB #8 (MLAS) are
+associated with the weapon program at PB #5 and its associated
+weapon as programmed on the A/G PACS. Ifa weapon is not selected
+(boxed) on the A/G PACS display for the particular program, then the
+legends are blank. If any legend parameters are not available for the
+selected weapon, the appropriate PB legend is blank. After
+programming, the option values are mimicked on both the A/G PACS
+display and the A/G DLVRY display (for that program) (PROG 1-4).
+
+AGD-4 D-16
+
+
+Text from AGD-4_Designations_page_23.jpeg:
+Loft Angle, PB #2: With a blank UFC scratchpad, pressing PB #2
+toggles between LOFT XX and LOFT MAX. With LOFT XX selected,
+a value (0-45) can be entered through the UFC scratchpad. The CC
+computes a maximum range loft weapon(s) release or a loft weapon(s)
+release using the loft angle selected. HUD cues include a time to pull
+(TPULL XX) and an elevation steering bar to enable the aircrew to
+execute the desired loft weapons delivery profile. The HUD cues are
+only available if LOFT MAX or an angle greater than 5° is
+programmed.
+
+Along Track (AT) Bias (PB #8) and/or Cross Track (CT) Bias (PB #4):
+The aircrew can adjust the impact point for ballistic weapons. Values
+for each PACS PROG can be entered via a UFC scratchpad entry at
+PB #3/PB #4. Toggling PB #3/PB #4 allows biases to be entered
+(utilizing the UFC scratchpad) in mils or in feet. A negative [UFC
+shift (-)] value moves the computed weapons impact short or left. No
+sign signifies a long or right bias to the CC-computed impact point.
+Values that can be entered are -9999 to +9999 feet or -50 to +50 mils.
+
+Cycling PB #5 selects the PACS weapons delivery program that the
+aircrew influences with the A/G DLVRY PROG inputs.
+
+TARM, PB #6: A UFC scratchpad entry (0 through 99.9) enters a
+weapon time to arm after release from the aircraft. If a decimal is
+not manually entered, it is automatically entered before the right
+most displayed entry. The aircrew entry should agree with the time
+fuze set on the weapon, itself. The entry enables HUD cues (“DUD”)
+which signify that under current conditions, the weapon(s), if
+released, will have insufficient arming time and will impact
+unarmed.
+
+Desired Ground Range (DGR), PB #7: As with the other pushbutton
+legends, this one is only displayed when applicable for the weapon
+type associated with the PB #5 selected PROG (from the PACS A/G
+display). DGR is only available for GBU-24 or GBU-28 employment.
+Allowable values are 0 through 99,999 feet. GBU-24/-28 and DGR
+are beyond the scope of our discussion.
+
+D-17 AGD-4
+
+
+Text from AGD-4_Designations_page_24.jpeg:
+e Auto Lase (ALAS)/Manual Lase (MLAS), PB #8: Toggling the button
+alternates between ALAS X:XX (or ALAS CONT) and MLAS X:XX (or
+MLAS CONT). UFC scratchpad entries of time or C (for continuous)
+influence the displayed values. Time values allowed depend on the
+type of weapon selected for the PACS PROG (GBU-10/-12/-24/-28).
+This feature can also be used for SUU-20 employment (simulating
+GBU employment). For SUU-20, valid entries are from one second
+(0:01) to one minute, thirty seconds (1:30). If a colon is entered, two
+digits must be entered after the colon or the display will not accept
+the UFC scratchpad entry.
+
+e SYS, RALT, PASS, AGR, HRM, LAS, PBs #15 through #20: These
+buttons allow the aircrew to build a hierarchy of aircraft sensors to be
+used in providing/computing slant range (SLR), height above target
+(HAT), or height above ground (HAG) which will be utilized during
+arriving at a weapon(s) release solution. Pressing PBs #15 through
+#20 allows assignment of a hierarchy sequence number. If a
+sequence number is already displayed, pressing the button removes
+the number. The smallest unused sequence number is assigned to
+the applicable sensor.
+
+e CLEAR (PB #14): Pressing PB #14 removes all sequence numbers
+adjacent to the sensor legends at PBs #15 through #20.
+
+e AUTO/MAN, PB #13: Pressing PB #13 toggles between MAN and
+AUTO sensor hierarchy. This determines the hierarchy that is
+displayed in the center of the A/G PROG display format, either
+AUTO or MAN. The sequence displayed will be utilized for target
+designation and weapons delivery, given that the sensor information
+is available (and in some cases valid) and compatible with the
+designation method.
+
+e ENTER, PB #10: Pressing PB #10 enters the sensors selected at
+PBs #15 through #20 into the manual sensor hierarchy. If MAN is
+selected at PB #18, the center of the display reflects the entered
+hierarchy. If a sensor is not assigned a sequence number, it does not
+appear in the display hierarchy. With AUTO selected, only LAS,
+AGR or SYS are displayed in the hierarchy.
+
+AGD-4 D-18
+
+
+Text from AGD-4_Designations_page_25.jpeg:
+The sensor hierarchy selection (MAN or AUTO) that will actually be used
+during weapons delivery is that selected on the A/G DLVRY (not the A/G
+DLVRY PROG) display.
+
+The center of the display (both the A/G DLVRY display and the
+
+A/G DLVRY PROG display) also shows sensor status as VAL (valid), SAN
+(valid, but not passing sanity checks), or OFF (not passing validity or
+sanity checks). TO 1F-15E-34-1-1 provides explanations of validity and
+sanity.
+
+A/G HUD
+
+The following discussion does not include all possible HUD symbology.
+The HUD depictions are simplified to show only the symbology that is
+germane to this lesson. A full description of AUTO/CDIP HUD weapons
+employment symbology will follow in the Computed Bombing Modes
+workbook and lecture.
+
+NAV/INST Master Mode
+
+In the NAV/INST master mode (Figure D-6), the HUD depicts steering
+(wind-corrected) to the current aircraft sequence point (NAV 4.A) utilizing
+a bank steering bar and a command heading bug. The data block depicts
+the current aircraft sequence point (4.A), the slant range (N5.0) and the
+ETE or ETA to the sequence point. If the sequence point is within the
+HUD FOV, it is depicted as a LOS circle. All the above assumes NAV
+steering is selected on the HSI.
+
+The NAV/INST master mode HUD remains essentially the same,
+
+regardless of the PACS status and/or whether or not a target is
+designated. (The gun cross is visible if the master arm is in ARM).
+
+D-19 AGD-4
+
+
+Text from AGD-4_Designations_page_26.jpeg:
+36° 36 "1
+ny Vn Sa
+
+15 —
+
++ 10 —
+480 -—— - {— 2500 -
+x 8.3 O
+
+G 480
+
+R 450
+5L-- -~45
+
+IN CMD
+
+NAV 4.A
+10L—- -~110 N 5.0
+12:30:05A
+
+15L-——- —-~115
+
+AGD-04-06
+Figure D - 6. HUD (NAV MM) (With or Without a Target
+Designation PACS RDY or not RDY).
+
+AGD-4
+
+
+Text from AGD-4_Designations_page_27.jpeg:
+With A/G MM selected and no target designation, the display with an auto
+program selected is shown in Figure D-7. The ETE/ETA HUD window is
+
+blank and the current aircraft sensor is displayed on line four of the data
+
+block.
+
+38° 3601
+15 —
+10 —
+
++
+780 —C)— -
+5 —
+
+oC 8.3
+G 480 R 450
+
+5L-- --i5
+
+NAV 4.A
+10--- --10 NN 5.0
+
+IN CMD
+
+RALT
+
+15L—— -—-115
+
+AGD-04-07
+
+Figure D - 7. A/G MM With AUTO PACS Delivery Mode (no
+Designation).
+
+In A/G master mode with a RDY on the PACS, but with no designation,
+the current (AUTO or CDIP) delivery mode appears on line four of the
+
+data block. (Otherwise, it is just like Figure D-7.)
+
+AGD-4
+
+
+Text from AGD-4_Designations_page_28.jpeg:
+In A/G master mode with a RDY PACS and a designated target
+
+(Figures D-8 and D-9), the LOS cue is replaced by a HUD TD diamond.
+The data block changes from NAV 7.A to TGT 7.A (and G5.0 versus N5.0).
+In the AUTO mode, an azimuth steering line (ASL) is visible. The ASL
+provides steering to wind-corrected weapon(s) release point (versus to the
+NAV point).
+
+a Cane
+-O-
+x 8.3
+
+©
+
+§L-- -~15
+
+R 450
+
+11200
+TCT 4A
+10+ —— ~~+110 G 17
+0:10 TREL
+AUTO LAS
+
+15-—— —~115
+
+AGD-04-08
+
+Figure D - 8. Designated AUTO (AUTO Delivery Mode With a Target
+Designated).
+
+AGD-4 D - 22
+
+
+Text from AGD-4_Designations_page_29.jpeg:
+15L—— -—415
+
+AGD-04-09
+
+Figure D - 9. Designated CDIP (CDIP Delivery Mode With a Target
+Designated).
+
+In short, to obtain HUD PACS cues and target designation cues/steering,
+A/G MM needs to be selected. Whether CDIP or AUTO is the current
+delivery mode is obvious from the presentation [pipper at the velocity
+vector for AUTO; pipper suspended from the velocity vector by a displayed
+impact line (DIL) in CDIP]. Along with a PACS RDY light, the
+AUTO/CDIP legend in the HUD data block is a visible indication that the
+PACS is RDY. The best cues to determine that a target designation has
+occurred are the “TGT” versus “NAV” in the data block, the ASL (in AUTO
+PACS mode) and the TD diamond (versus LOS circle) if the designated
+target is within the HUD FOV.
+
+D - 23 AGD-4
+
+
+Text from AGD-4_Designations_page_3.jpeg:
+AIR-TO-GROUND DELIVERY
+
+y
+
+COVER
+
+DESIGNATIONS
+
+INTRODUCTION
+
+This workbook is your guide to target designation capabilities and
+procedures.
+
+CONTENTS:
+
+INTRODUCTION 000. eecccceseceeseeceseeeeesaeecesaeesensaeessseeeensaeesesnaeeens A-1
+CRITERION REFERENCED OBJECTIVES (CROs)............eeeeeeeeeeeeeee B-1
+STUDENT PREPARATION REQUIREMENTS . 000... eeeeeeeeeeeenees C-1
+TEXT oc eeccccccessseecceesseeeecessseeecesesaeeeceesssaeeeseesssaeeesesssaeeeseeeeaaeeseee D-1
+END QF TEXT QUID sssis cass sass snore sexe cons ones sass snivs seve sete mens suns suns suns sere ens aes auiws oes E-1
+GLOSSARY. ee eeceeesecessneecesseeecesaeecesaeecessaeecesaeeseesaeecesaaesessaeeseeaeeeneas F-1
+
+A-1 AGD-4
+
+
+Text from AGD-4_Designations_page_30.jpeg:
+QUESTIONS
+
+1. Prior to target designation, the MN present position is used by the
+CC to position all aircraft navigation steering information and
+navigation sequence point symbology
+
+if either INS or MN is selected as the PP keeping source.
+only if MN is selected as the PP keeping source.
+
+only if NAV master mode is selected.
+
+only if NAV steer mode is selected on the HSI.
+
+pe op
+
+2. LASER ranging can be used to accomplish the following types of
+
+designations.
+
+a. All six designation methods
+
+b. NAV and A/G radar only
+
+c. TGTIR and HUD designations
+d. Only TGT IR designations
+
+3. The manual range/altitude sensor hierarchy is programmed through
+the DTM or manually utilizing the
+
+a. PACS A/G load display.
+
+b. A/G delivery display.
+
+c. UFC.
+
+d. A/G delivery program display.
+
+4. With AUTO range/altitude sensor hierarchy selected on the
+A/G delivery display, the following sensor priority is established.
+
+a. LAS, AGR, RALT, SYS, HRM, PASS.
+b. AGR, SYS, LAS.
+c. LAS, AGR, SYS.
+d. LAS, SYS, AGR.
+
+5. It is not important to ensure the target sequence point elevation is
+correct, as the system will use its sensors to determine HAT.
+
+a. True
+b. False
+
+AGD-4 D - 24
+
+
+Text from AGD-4_Designations_page_31.jpeg:
+The selection of which (AUTO or MAN) sensor hierarchy that the CC
+will actually use for range/altitude information during designations
+and computed weapons deliveries is made on the
+
+UFC.
+
+A/G delivery display.
+
+A/G delivery program display.
+
+A/G delivery display or A/G delivery program display.
+
+Boop
+
+Designated target position and steering to an A/G weapon(s) release
+point are displayed on the HUD
+
+a. in NAV or A/G master modes as long as a target is designated
+and the PACS is ready.
+. only in A/G master mode with a PACS ready.
+c. only in A/G master mode, but even without a PACS ready.
+d. only with a PACS ready, even if no target is designated.
+
+A good cue that a target is designated is the HUD data block
+displaying TGT X., versus NAV X.
+
+a. True
+b. False
+
+A valid HUD cue that the PACS is in a ready condition for a
+computed weapons delivery (CDIP or AUTO) is
+
+TGT (versus NAV) in the HUD data block.
+AUTO or CDIP legend in the HUD data block.
+a gun cross.
+
+an AUTO or CDIP reticle displayed.
+
+Ro op
+
+D - 25 AGD-4
+
+
+Text from AGD-4_Designations_page_32.jpeg:
+ANSWERS
+
+1. b
+2. ¢
+3. d
+4. ¢
+5. b
+6. b
+Te f
+8. a
+9. b
+
+AGD-4 D - 26
+
+
+Text from AGD-4_Designations_page_33.jpeg:
+DESIGNATION DESCRIPTIONS
+
+This section examines the six methods of target designation (NAV, A/G
+radar, TGT IR, AUTO pipper, CDIP pipper and zero point). Some of the
+methods are very similar to others, some require visual flight conditions,
+some are easier to accomplish than others, and some methods provide
+better accuracy than others. The following section describes how each
+method works, how to designate using each of the methods, and the
+pitfalls associated with each.
+
+NAV Designation
+
+This designation method is not dependent on data outside the CC. It is
+virtually automatic and provides a means of designating a target with
+little crew effort. It provides no better accuracy than the MN NAV
+steering; however it identifies to the CC that weapons delivery on the
+target sequence point is intended, and provides HUD steering cues (and
+weapons delivery information cues) to a weapon(s) release point rather
+than to the target sequence point, itself.
+
+Description
+
+The NAV module recognizes crew-entered sequence point data (lat/long,
+elev) as belonging to a target by its syntax (xx.). With the A/G master
+mode selected, when the system sequences (automatically or manually) to
+a target sequence point, the NAV module retrieves the stored target data
+and the MN present position. With the two sets of coordinates, the NAV
+module is able to calculate the location of the target (X, Y, Z coordinates).
+
+Normally, the target elevation is entered and stored along with the
+coordinates. The NAV module sets target elevation (Ht) equal to the
+stored elevation. If the target elevation (Ht) is not stored, the NAV
+module sets the target altitude equal to zero (sea level). The NAV module
+then converts the retrieved latitude, longitude, and target elevation to a
+geocentric position. The module determines HAT by subtracting target
+elevation from system altitude (Hsys). The NAV designation uses this
+HAT determination routine regardless of the sensor priority selected on
+the A/G delivery display.
+
+Once made, this designation is retained until undesignated or replaced by
+
+another designation. Any of the other designation methods can be used
+for a subsequent designation as they all overwrite a NAV designation.
+
+D-27 AGD-4
+
+
+Text from AGD-4_Designations_page_34.jpeg:
+With the target designated and coordinate transformations complete, the
+CC commands the TGT IR to the A/G mode and wide field of view, and
+directs the pod head to the target line of sight (laterally and vertically).
+The cue point is saved (in that, if the target pod is slewed it can, via
+HOTAS, be returned to the previously cued position) and the target
+sequence point syntax is displayed at PB #17 of the TGT IR display in
+preparation for a possible TGT IR redesignation.
+
+Procedures
+
+The bulk of this procedure, and certainly the most critical part, takes
+place during mission planning.
+
+Obtain Coordinates: Since the coordinates become the target, right or
+wrong, use the most accurate source possible. Do not pick them off of a
+JNC chart. In addition to the lat/long, it is very important to use the
+correct target elevation.
+
+If coordinates are obtained from a map, they can be no more accurate than
+the basic accuracy of the map. If the target coordinates are chosen off a
+1:250,000 JOG, the best expected accuracy is 500 feet horizontally and
+100 feet vertically.
+
+Assign / Enter Coordinates: Assign the data to a target syntax sequence
+point (xx.) utilizing AFMSS/DTM or manual procedures.
+
+Select Target: As the route is flown, either allow the system to
+auto-sequence, or enter the target point directly into the UFC as the
+current aircraft sequence point. The designation occurs when both the
+target sequence point becomes the current point and A/G MM is selected.
+(These two requirements can occur in either order.)
+
+No Other Designation: The NAV module only makes the designation with
+no current designation. This method cannot overwrite an existing
+designation.
+
+MN performance has a significant effect on the accuracy of this method. If
+the MN present position is in error, the calculated relative position of the
+target is also in error. This results in sensor pointing errors, attack
+steering errors, and weapon(s) release errors.
+
+AGD-4 D - 28
+
+
+Text from AGD-4_Designations_page_35.jpeg:
+Although it is the MN which calculates the location of the target and
+provides weapon(s) release steering, INS performance is important to
+overall system accuracy. Its primary effect, as far as designation is
+concerned, is on MN performance. It is important to MN accuracy because
+the MN receives essential information from the INS.
+
+HAT Update
+
+The engineers who designed the designation methods realized that a HAT
+measurement taken at a great distance/time from the target may not be
+very accurate. Therefore, an automatic update to the HAT portion of the
+designation triangle is attempted at 15 TREL. RALT and AGR are the
+only choices for this update.
+
+RALT
+
+Although only SYS is used to establish the aircraft-to-target relationship
+at the time of the NAV designation, RALT can be used to update the
+aircraft-to-target relationship, but only after the aircraft has reached 15
+seconds to weapon(s) release (15 TREL). RALT must be valid (aircraft
+within radar altimeter pitch and bank limits). Additionally, the manual
+hierarchy must be selected on the A/G DLVRY display and RALT must be
+higher than SYS (and AGR) in the hierarchy. With all the above satisfied,
+the aircrew may see the target designator (TD) diamond symbol on the
+HUD shift in elevation as the system transitions from SYS to RALT. The
+NAV data block on the HUD will also change from SYS to RALT as the
+transition occurs. It is important to note that the position of the target
+(coordinates/elevation) has not changed. Only the “aircraft CC
+understanding” of the aircraft-to-target relationship has changed.
+
+AGR
+
+The CC automatically commands the radar to provide a slant range
+measurement [aircraft to target designation (the TD diamond)] when the
+CC determines a slant range measurement is required. For a NAV
+designation the CC forces the radar to the AGR mode at 15 TREL (AUTO
+delivery PACS mode), but only if the radar is not supporting an in-flight
+MRM.
+
+D - 29 AGD-4
+
+
+Text from AGD-4_Designations_page_36.jpeg:
+Even after the CC has commanded AGR and AGR has been achieved,
+AGR will not be used unless:
+
+e The radar elevation angle (graze angle) is at least -1.25°.
+
+e Kither the AUTO sensor hierarchy is selected on the A/G DLVRY
+display or the MANUAL sensor hierarchy is selected with AGR above
+SYS and RALT (assuming RALT is valid) in the hierarchy.
+
+e The computed range from AGR must be within -10,000/+15,000 feet
+of the existing designation (in this case, the original NAV
+designation).
+
+e The target designation is within the radar gimbal limits.
+
+Once valid AGR is achieved, a range analog bar appears at the reticle
+displaying slant range (pegged at 23,000 feet until slant range reaches
+23,000 feet) and digital slant range appears above the sequence point line
+in the HUD data block. “RNG” appears in the A/G radar display BIT
+window and a digital range readout appears centered at the top of the A/G
+radar display.
+
+If AGR is being used by the system to compute HAT (it is the highest
+usable member of the selected sensor hierarchy on the A/G DLVRY
+display), then “AGR” appears in the bottom right of the HUD NAV data
+block following the delivery mode (i.e., AUTO AGR) and AGR is boxed on
+the A/G DLVRY display.
+
+Once inside 15 seconds TREL, when the radar goes to AGR, neither crew
+member can take command of the radar (A/A or A/G) until the target is
+undesignated (more later on how to undesignate) or the designated target
+location exceeds radar gimbal limits.
+
+If the radar is supporting an in-flight MRM, another attempt to go to AGR
+is made at 10 TREL. When MRM support is no longer required, the radar
+will enter AGR if and when all the other prerequisites for AGR are valid.
+If AGR becomes invalid, the CC will default to the next appropriate
+member of the HAT sensor hierarchy as selected on the A/G DLVRY
+display.
+
+AGD-4 D - 30
+
+
+Text from AGD-4_Designations_page_37.jpeg:
+Crew Errors
+
+Choosing erroneous coordinates/elevation is the most basic crew error
+concerning the NAV designation. Another basic crew error could involve
+data entry. If the target data is entered incorrectly, an erroneous
+designation occurs. The NAV module designates the stored
+coordinates/elevation as the target, whatever those coordinates/
+elevation are.
+
+A not quite so obvious error is mismanagement of INS/MN updates. Make
+sure the present position and velocities of the INS and MN are as accurate
+as possible, and guard against putting an error into either system. Do not
+update position unless the coordinates of the update point are certain and
+more accurate than the existing error. You can feel confident about a
+PVU of the MN, and should consider accomplishing one within five
+minutes of bomb release, and before designations. Remember, for five
+minutes following a MN PVU, the MN uses INS velocity corrected by the
+error measured by the PVU. After this five minute period the corrections
+are removed and potential velocity errors in the mission NAV can cause
+bad bomb scores.
+
+A/G Radar Designation
+
+Description
+
+When the crew member in command of the air-to-ground radar commands
+target designation, the CC sends a mark command to the radar. The
+radar marks the cursor position and returns a time tagged Rx and Ry to
+the CC which identifies the target designation position relative to the
+aircraft MN present position.
+
+D-31 AGD-4
+
+
+Text from AGD-4_Designations_page_38.jpeg:
+The next step is to determine the elevation of the marked target and
+aircraft height above the target (HAT). If a sequence point is displayed at
+the A/G radar (PB #17), the NAV module retrieves the sequence point
+data and sets the ground point elevation equal to sequence point
+elevation. If the sequence point displayed at PB #17 is a target offset
+point, the NAV module retrieves the associated target point data and
+computes target position by applying the target offset-to-target
+relationship to the cursor position (and uses the target elevation, vice the
+offset elevation). If the PB #17 sequence point’s elevation is unknown or if
+“SP” is displayed at PB #17, the NAV module uses the current aircraft
+sequence point stored elevation. If the current aircraft sequence point
+elevation is unknown, ground point elevation is set equal to sea level.
+This altitude determination routine is used regardless of the priority
+sensor selected on the A/G delivery display.
+
+With target relative position and target elevation now known, the NAV
+module calculates earth coordinates and designates the target at lat/long
+and Ht. This designation is retained until undesignated or replaced by
+another designation. An A/G radar designation can be overwritten by any
+subsequent type of designation except NAV, including another A/G radar
+designation. Following the designation, the NAV module completes all of
+the required coordinate transformations and sends them to the data base
+for use by avionic systems as required.
+
+With the target designated, the CC commands the TGT IR to the A/G
+mode and wide field of view, and directs the target pod to the target line of
+sight (azimuth and elevation). The cue point is saved (again, for a return
+to cue, via HOTAS, if the target pod is slewed off the cued position).
+
+When a target designation or cue occurs on the A/G radar format (TGT or
+CUE cursor function selected) with a sequence point number adjacent to
+PB #17, the sequence point number will also be displayed on the TGT IR
+format adjacent to PB #17. When a target offset number is displayed
+adjacent to PB #17 on the A/G radar (e.g., 3.01) and a target designation
+occurs with the A/G radar (TGT cursor function), the TGT IR would be
+cued to the target (versus the offset) and the target number (i.e., 3.) would
+be displayed on the TGT IR format at PB #17. With CUE cursor function
+the TGT IR will be cued to the target offset line of sight and TGT IR
+
+PB #17 will reflect the offset syntax.
+
+AGD-4 D - 32
+
+
+Text from AGD-4_Designations_page_39.jpeg:
+If “SP” is displayed adjacent to PB #17 for A/G radar designation then
+“SP” will be displayed at TGT IR (PB #17).
+
+Procedures
+
+A/G Radar: To employ this procedure, an A/G radar display must be on
+one of the MPDs and you must be in command of the display
+(Figure D-10).
+
+SEQUENCE
+RSO
+FUNCTON POINT
+STEERING
+DESIGNATE
+
+Seeee
+
+Figure D - 10. Radar Designation.
+
+AGD-04-
+
+=
+Oo
+
+Radar Mode: Select the desired radar display mode. Target designations
+can be accomplished in RBM, GMT, HRM (PPI or patch map), or BCN
+modes. The display may be frozen or unfrozen; usually it is frozen.
+
+Cursor Function: Select the TGT cursor function via PB #7 of the radar
+display or by moving the castle switch aft on the RCP hand controller.
+
+D - 33 AGD-4
+
+
+Text from AGD-4_Designations_page_4.jpeg:
+CRITERION REFERENCED OBJECTIVES (CROs)
+
+1. Identify the operating characteristics of the following means of
+designation: NAV, A/G radar, TGT IR, HUD (AUTO and CDIP
+pipper), and zero point.
+
+2. Identify the procedures to accomplish designation using each of the
+following methods: NAV, A/G radar, TGT IR, HUD (AUTO and CDIP
+
+pipper), and zero point.
+
+3. Identify how to utilize the A/G delivery display and the A/G delivery
+program display to:
+
+a. Program and select height above target (HAT) source
+hierarchies.
+
+b. Program/select weapons delivery options including mils,
+minimum recovery altitude (MRA), loft angles, along track/cross
+track corrections, time to arm (TARM), desired ground range
+(DGR), and manual/auto laser options (MLAS/ALAS).
+
+4. Identify the procedures to undesignate a target.
+REFERENCES
+
+TO 1F-15E-34-1-1 Section I Air-to-Ground Delivery
+Programming
+
+AGD-4 B-1
+
+
+Text from AGD-4_Designations_page_40.jpeg:
+Beware: The DESIGNATE message is overused in the current software.
+If TGT is not displayed at PB #7 on the A/G radar display when
+DESIGNATE appears, a target for weapon(s) release has not been
+designated. CUE and MARK cursor function also provide the
+DESIGNATE message.
+
+Cursor Position: To designate the target of interest, put the cursor over
+the target or one of its offsets. The fastest and most accurate way to do
+this is to step the cursor via the FCP coolie switch or RCP castle switch
+and refine with the TDC. Make it a practice to step the cursor to the
+target (or offset) to prevent a cursor/PB #17 sequence point mismatch.
+When designating, the altitude stored against the PB #17 sequence point
+becomes the target elevation, even if the point is the wrong one.
+
+TDC/Trigger: With the cursor over the desired geographic point video,
+press the TDC in the FCP or squeeze the hand controller trigger to full
+action in the RCP. DESIGNATE appears in the center of the radar screen
+for five seconds, the solid or segmented triangle centers over the target or
+offset, respectively, and a pattern steering line is initialized over the
+target pointing directly away from the aircraft.
+
+Pattern Steering Line (PSL): If designating through the A/G radar, it is
+possible to activate the PSL and establish steering to a desired delivery
+heading.
+
+e Auto acq aft - moving the auto acq on the FCP stick grip or the RCP
+hand controller aft enables the PSL for slewing.
+
+e TDC - eccentric force on the TDC causes the PSL to rotate clockwise
+or counterclockwise. The line itself rotates 360° but HUD PSL
+steering will not be activated if it will result in a heading change of
+more than 30° in either direction from the current line of sight to the
+target. Inability to achieve PSL steering is not apparent on the
+radar, but the HUD steering cue does not change from an azimuth
+steering line to a bank steering bar.
+
+e TDC/trigger - depressing the FCP TDC or the RCP hand controller
+
+trigger to full action designates the PSL. As a result, DESIGNATE
+appears on the display for five seconds.
+
+AGD-4 D - 34
+
+
+Text from AGD-4_Designations_page_41.jpeg:
+HAT Derivation
+
+HAT derivation for A/G radar designation is almost exactly the same as it
+is for a NAV designation. Only SYS is used until 15 TREL. Hsys - Hsp of
+the A/G radar PB #17 displayed sequence point is used. If target offset
+syntax is displayed at PB #17, the elevation stored against the associated
+target is used. If there is no sequence point displayed at PB #17 (“SP” is
+displayed), then the CC uses the current aircraft sequence point elevation
+as the target elevation.
+
+RALT or AGR may be utilized once the aircraft reaches 15 TREL, but only
+if included in the selected hierarchy above SYS. RALT will never be used
+if the AUTO hierarchy is selected. The CC’s logic for RALT and AGR is
+exactly as previously discussed for a NAV designation.
+
+Factors Affecting Accuracy
+
+INS performance is important to system accuracy because it provides
+information to the MN and is the source of stabilization for the radar.
+
+INS/MN present position accuracy has a significant effect on the accuracy
+of this method. The sequence point symbols are positioned as a function of
+the selected PP keeping source. If the present position is incorrect, the
+sequence point symbols will be mispositioned on the radar display making
+it more difficult to identify the target or offset. The earth coordinates
+generated for the designated target will be in error by the existing PP
+error, but the aircraft’s relative position to the target should still be
+correct and bombing accuracy is not seriously affected. If a MN velocity
+error exists, steering and release errors result. Their magnitudes depend
+on the elapsed time between map video construction and weapon(s)
+release (drift).
+
+All the standard errors that apply to radar interpretation apply to
+designating targets. If the radar is not harmonized properly, component
+errors result in an erroneous target relative position. Factors like target
+definition and A/G radar video quality influence the ability to identify the
+actual target video.
+
+D-35 AGD-4
+
+
+Text from AGD-4_Designations_page_42.jpeg:
+Crew Errors
+
+Mismanagement of MN and INS updates is a source of crew error. Ensure
+the navigation system is as accurate as possible and guard against
+inducing errors by accomplishing bad updates. A PVU to the MN should
+be accomplished just before attempting to designate the target (or before
+constructing a patch map).
+
+Radar interpretation errors are a factor; utilizing smaller size patch maps
+helps quite a bit. Probably the greatest source of error in designating
+from the radar lies in cursor placement techniques.
+
+TGT IR
+
+The TGT IR pod can be used to designate the target position relative to
+the aircraft. Pod angles along with a range or altitude source are then
+used to determine X, Y, Z, which the navigation module transforms into
+latitude, longitude, and Ht.
+
+Description
+
+When the crew member in command of the TGT IR display performs a
+TGT IR designation, the NAV module determines the target position
+relative to the aircraft utilizing pod angles and either a slant range or an
+aircraft altitude. The sensor hierarchy scheme used to determine the
+designated location is:
+
+e (LAS) - Gif it is the priority sensor and valid) laser range is combined
+with pod head pointing angles to calculate the azimuth, range and Ht
+(range and Ht from slant range and pod elevation angle).
+
+e (AGR) - [if LAS is invalid, or AGR is the hierarchy sensor (and valid)],
+is combined with TGT IR pointing angles to calculate target position
+in the same manner as LAS.
+
+e (RALT) - Gf neither laser nor AGR is valid, or RALT is the priority
+sensor and valid) is used as height above the target is calculated as
+HAT = RALT. Pod pointing angles are used to determine target
+azimuth. Pod elevation angle and RALT are used to calculate target
+range.
+
+AGD-4 D - 36
+
+
+Text from AGD-4_Designations_page_43.jpeg:
+e (SYS) - Gf a sequence point is displayed at PB #17 of the TGT IR
+display and its elevation is known) is subtracted from aircraft system
+altitude to calculate height (HAT = SYS - Hsp). Again, TGT IR pod
+pointing angles are used to determine target azimuth. If the PB #17
+elevation is unknown, or PB #17 is SP, current aircraft sequence
+point elevation (Hsp) is used as Ht. Lastly, 0 (sea level) is used as
+Ht.
+
+e (HRM) - is only available for TGT IR designations. It requires that a
+current radar designation (from a HRM patch map) be in effect at the
+time of the TGT IR designation. It uses the ground range from the
+radar designation, along with pod azimuth and elevation angles, to
+determine the location of the TGT IR designation (X, Y, Z) and
+subsequently HAT.
+
+e (PASS) - is only available for TGT IR designations. In lieu of any
+altitude or range information, it uses aircraft velocity with pod angles
+and LOS (gimbal) rates to determine the TGT IR designation location
+(X, Y, Z) and subsequently HAT. PASS requires that the designation
+is accomplished with the TGT IR in a track mode and initially uses a
+range or altitude source (from the target track). PASS accuracy for
+HAT (for weapon(s) delivery) is highly dependent on high quality
+track through weapons release. It is generally considered a less
+desirable capability than those using actual ranging or altitude.
+
+TGT IR/AGR
+
+Prerequisite for using AGR with a TGT IR designation is AGR as the
+priority sensor. Additionally, the crew member must initiate a second
+take command of the TGT IR display while already in command. This
+second take command puts the TGT IR in command of the radar, thus
+providing AGR to the pod line of sight. AGR will not slave to the TGT IR
+if the radar is tracking an air-to-air target or if the designated
+air-to-ground target is outside the radar gimbal limits. In these instances,
+“RDR IN USE” or “RDR GIMBAL” messages will be displayed in the
+center of the TGT IR video.
+
+Once the TGT IR has command of the radar (in AGR), it retains command
+until either crew member takes command of an A/A or A/G radar display,
+or the pilot takes command of the HUD or the TGT IR line of sight exceeds
+radar gimbal limits.
+
+D-37 AGD-4
+
+
+Text from AGD-4_Designations_page_44.jpeg:
+With target relative position and elevation known, the NAV module
+calculates the target earth coordinates and designates the target at
+lat/long and Ht. This designation is retained until undesignated or
+replaced by another designation.
+
+CDES
+
+The target pod can be used to provide a continuous designation of the
+target if proper requirements are met. This is the only way to
+automatically update the designation while proceeding to the target. All
+other methods of designation are single shot designations which can be
+updated manually, but in some cases (NAV and CDIP pipper), may not be
+practical. Only the LAS, HRM, and PASS are available to calculate the
+designation triangle for CDES. With CDES boxed at PB #1 on the target
+pod, the designation is updated with new range and line of sight
+information as long as that information is valid.
+
+CDES is initiated with the normal one shot designation HOTAS and will
+remain in that mode as long as the following conditions are satisfied.
+
+e Point, area, or offset track commanded
+
+e CDES boxed at PB #1
+
+e Target designated via TGT IR display
+
+e No TDC slewing of the target pod
+
+e LAS, HRM, or PASS range selected and valid
+
+If continuous designation is interrupted, the designation remains on the
+last valid designation update until the aircrew redesignates, or if the slew
+
+was initiated in cursor function TGT, when TDC slewing stops and range
+source is still valid.
+
+AGD-4 D - 38
+
+
+Text from AGD-4_Designations_page_45.jpeg:
+Factors Affecting Accuracy
+
+Meteorological conditions have a pronounced effect on this mode of
+designation. The IR signature of the target must be good enough to
+clearly identify the target.
+
+INS and MN performance play essentially the same role in a TGT IR
+designation as in an A/G radar designation. Since the designation is an
+aircraft-to-target relative position perspective, PP error will not affect the
+designation, assuming the target can be found with the TGT IR.
+
+If the pod is not properly aligned, it may be difficult to find the target, and
+the target relative position will be incorrectly computed when designating.
+Video quality on the MPD will affect the ability to recognize the target.
+
+When the target pod is cued (TSD, A/G RDR, NAV or a HUD designation,
+quick stepping the pod), PB #17 on the TGT IR pod will show the target
+number or SP and how the pod was cued.
+
+Crew Errors
+
+Mismanagement of MN and INS updates is a source of crew error.
+
+Present position is particularly important if the TGT IR pod is cued from a
+NAV designation. Best available velocities are important to minimize
+system drift from the time of designation to the time of weapon(s) release,
+although the time interval between TGT IR designation and weapon(s)
+release is generally short (less than two minutes). Consider a PVU of the
+MN within five minutes of weapon(s) release and before designation.
+
+D - 39 AGD-4
+
+
+Text from AGD-4_Designations_page_46.jpeg:
+QUESTIONS
+
+1. Which target designation method requires no data outside the CC (no
+sensor input)?
+
+2. Once a NAV target designation is accomplished, aircraft steering is to
+the
+
+a. sequence point.
+designated target.
+
+c. weapon(s) release point for a computed weapon(s) release
+(nonguided munitions).
+
+d. IP, then to a weapon(s) release point for computed weapon(s)
+release (nonguided munitions).
+
+3. A NAV designation will override which of the following?
+
+A/G radar designations only
+
+TGT IR designations only
+
+Visual (HUD) designations only
+
+NAV designations will not override any other type of designation
+
+Re op
+
+4. A NAV designation can be accomplished
+
+only to steer points.
+
+to steer points, target offsets or targets.
+only to target offsets and targets.
+
+only to targets.
+
+Re op
+
+5. Accomplishing a NAV designation requires that the aircrew
+
+a. first select A/G master mode, then enter a target as the current
+aircraft sequence point.
+
+b. first enter a target as the current aircraft sequence point then
+select the A/G master mode.
+
+c. select aircraft steering to a target and select the A/G master
+mode. These actions can be accomplished in either order.
+
+d. select aircraft steering to the IP while in the A/G master mode.
+
+AGD-4 D - 40
+
+
+Text from AGD-4_Designations_page_47.jpeg:
+During an A/G radar target designation the target elevation is the
+
+a. stored elevation of the A/G radar SP at PB #17.
+
+b. stored elevation of the A/G radar SP at PB #17, unless the SP is
+a target offset; then the target elevation is used.
+
+c. current aircraft sequence point, regardless of the A/G radar PB
+#17 sequence point.
+
+d. elevation derived from laser ranging.
+
+An A/G radar target designation can be accomplished from
+
+a. aRBM display.
+
+b. aHRM PPI display.
+
+c. aHRM patch map display.
+d. any of the above.
+
+An IR target pod designation can only be accomplished if the LASER
+is armed and lasing.
+
+a. True
+b. False
+
+What are the requirements for TGT IR continuous designation?
+
+NAV designation
+
+Point, area, or offset track commanded
+Laser fired and valid
+
+All of the above
+
+Boop
+
+D-41 AGD-4
+
+
+Text from AGD-4_Designations_page_48.jpeg:
+ANSWERS
+
+1. NAV designation
+
+2. ¢
+3. d
+4. d
+5. Cc
+6. b
+7. d
+8. b
+9. b
+
+AGD-4 D - 42
+
+
+Text from AGD-4_Designations_page_49.jpeg:
+HUD DESIGNATIONS
+
+There are two ways to designate a target and one way to redesignate a
+target using the symbology presented in the HUD with the A/G master
+mode selected. The available methods depend on which weapons delivery
+mode is selected. First is with the AUTO pipper and no previous
+designation. Second is with the CDIP pipper with or without a previous
+designation. The final method is actually changing a previous designation
+by moving the target designator (TD) diamond in the HUD.
+
+HUD Pipper
+
+This method uses the location (az/el) of the AUTO or CDIP pipper and
+LAS/AGR ranging, RALT or SYS to determine the target position relative
+to the aircraft. This is referenced to MN present position to calculate
+target earth coordinates. The 1 mil or 2 mil pipper (as selected on the
+HUD repeater display) can be used.
+
+Description
+
+The pipper method requires visual conditions in the target area; it can be
+used in conjunction with a diving AUTO delivery profile which is similar
+to dive toss in other aircraft. In the computed deliveries lesson, this is
+referred to as “undesignated AUTO.” It is always used when weapon(s)
+release is generated in CDIP delivery mode.
+
+In undesignated AUTO or any CDIP (designated or undesignated
+delivery), when either crew member presses the pickle button or the pilot
+depresses the TDC while in command of the HUD, the ground location
+overlaid by the pipper becomes the designated target. The hierarchy of
+laser range, radar range, or system altitude minus sequence point
+elevation is used if the auto sensor priority is selected. If the manual
+sensor hierarchy is utilized the aircrew can add RALT and adjust the
+hierarchy order.
+
+Once the target’s relative position and elevation are known, the NAV
+module calculates the target earth coordinates and designates the target
+at lat/long and Ht. This designation is retained until undesignated or
+replaced by another designation. Following the designation, the NAV
+module completes all of the required coordinate transformations and
+sends them to the data base for use by avionic systems as required.
+
+D - 43 AGD-4
+
+
+Text from AGD-4_Designations_page_5.jpeg:
+STUDENT PREPARATION REQUIREMENTS
+
+BEFORE CLASS
+
+1. Study the information contained in this workbook and complete the
+End Of Text Quiz.
+
+2. Read the references in TO 1F-15E-34-1-1, Section I, Air-to-Ground
+Delivery Programming.
+
+C-1 AGD-4
+
+
+Text from AGD-4_Designations_page_50.jpeg:
+Procedures
+Refer to Figures D-11 and D-12 in reading these procedures.
+
+A/G Master Mode: The AUTO or CDIP pipper is displayed only in A/G
+master mode. You must be in the A/G master mode to designate a target
+with the pipper.
+
+Master Arm: This switch must be in ARM to utilize the pickle button.
+(The TDC can be used with the master arm in either SAFE or ARM).
+
+PACS Program: Pipper designation functions in both AUTO and CDIP;
+therefore, select either one. (Expanded CDIP procedures are addressed in
+a later lesson.)
+
+e AUTO (Figure D-12) - There must be no other prior designation at
+pickle in this mode (undesignated AUTO). In designated AUTO the
+pickle button serves only as a consent to release; it does not affect the
+current designation.
+
+e CDIP (Figure D-11) - Designation/redesignation occurs at pickle.
+Therefore, this method can be used in either designated or
+undesignated CDIP.
+
+Take Command of HUD: To have radar/laser ranging available, the pilot
+must ensure the radar (AGR) and/or TGT IR pod are slaved to the HUD.
+HUD command is not required for a pipper designation with the pickle
+button, however it is required for a pipper designation with the TDC.
+
+Pipper on Target: Fly to place the pipper on the target. In the case of an
+AUTO delivery, the pipper is coincident with the velocity vector.
+Alternately, the pilot can slew the AUTO reticle within the HUD FOV
+under the following conditions.
+
+e A/Gmaster mode selected.
+
+e HUD command.
+
+AGD-4 D - 44
+
+
+Text from AGD-4_Designations_page_51.jpeg:
+e Undesignated AUTO without depressing the TDC, the pilot slews the
+HUD reticle. When the TDC is released, the reticle is HUD stabilized
+at its current position. When the pickle button (or TDC) is pressed, a
+target is designated at the reticle position and the reticle returns to
+the velocity vector. The TD diamond appears at the designated
+location. If the pilot slews the reticle and then desires to return it to
+the velocity vector (without designating a target) he can do so by
+pressing and releasing the nose gear steering button.
+
+13. 14 15
+ny on
+101-249
+REFERENCE
+
+Los
+
+20 +4120
+OR LAS
+
+SYS
+25 ——125 CDIP AGR RALT
+
+© NORM ne DAY Z
+REJ1 @: CF auto |@) | A
+MASTER REJ2 8 © MIN
+MODE
+
+AGD-04-11
+
+Figure D - 11. Pipper Designation (Undesignated CDIP).
+
+D - 45 AGD-4
+
+
+Text from AGD-4_Designations_page_52.jpeg:
+REFERENCE
+LOS
+
+NOT TGT
+20 --- --420
+AUTO AGR OR LAS
+SYS
+25L—- -~125 RALT
+
+HUD
+NORM DAY
+REJ1 AUTO R A ) 6
+© REJ2 NIGHT
+
+AGD-04-12
+
+Figure D - 12. Pipper Designation (Undesignated AUTO).
+
+Once a designation is created (by any of the designation methods) with
+HUD command and using the TDC (depressing, then slewing), the pilot
+can reposition the designation. Remember, slewing without depressing
+the TDC slews the undesignated AUTO pipper. The new designation
+occurs when the TDC is released. LAS, AGR, SYS, or RALT can be used
+to determine the position of the new target.
+
+HUD Redesignation
+
+The TD method can also be used to change the location of an existing
+designation. This method is not normally used if you are attempting to
+drop on the target on the same pass as you intend to redesignate. As with
+the two previous pipper designation methods, you must first find the
+target visually before making a successful redesignation.
+
+AGD-4 D - 46
+
+
+Text from AGD-4_Designations_page_53.jpeg:
+Once the redesignation occurs, the designation triangle is recomputed
+with the appropriate changes in the steering to the weapons release point.
+
+With A/G master mode and an existing designation that is within the
+HUD FOV, a TD diamond is displayed on the HUD. If the pilot has
+command of the HUD, depressing and holding the TDC allows
+repositioning the diamond by slewing the TDC. Once the TDC is released,
+the new location is designated. The target pod should remain cued to the
+TD as it moves to the new location, and the steering will change when the
+pilot releases the TDC. (Redesignation computations are not performed
+until the TDC is released.)
+
+HUD Designations and AGR
+
+When the pilot takes command of the HUD, the radar enters AGR at the
+undesignated AUTO or the CDIP pipper. In designated AUTO, AGR is to
+the target diamond line of sight. The radar must not be supporting an
+in-flight MRM. Normal AGR validity checks apply for the AGR to be used
+in HAT computations (greater than 1.25° graze angle; + 15,000 feet, -
+10,000 feet from existing designation and target designation within radar
+gimbal limits). A double request will allow a crew member to take
+command of the A/A or A/G radar or to take command of the AGR with the
+TGT IR pod. If AGR is achieved, slant range (digital and analog bar) is
+displayed on the HUD. AGR will not be used for Ht/HAT calculations
+unless it is the priority sensor.
+
+HUD Designations and LAS
+
+A double take command of the HUD in A/G master mode will slave the
+TGT IR to the HUD if LAS is included in the current HAT hierarchy and
+the TGT IR is in the A/G mode and not in a track mode. The TGT IR will
+be slaved to the undesignated AUTO or CDIP pipper or to the designated
+AUTO target diamond. LAS will only be used if the pod is slaved to a
+HUD reference with LAS ranging digital/analog range available on the
+HUD (i.e., valid ranging).
+
+For LAS to be used, the TGT IR pod must be slaved to the TD diamond
+(designated AUTO, second take command of the HUD).
+
+D - 47 AGD-4
+
+
+Text from AGD-4_Designations_page_54.jpeg:
+Factors Affecting Accuracy
+
+For all the HUD designation methods, the target must be visible.
+Anything which hampers sighting the target (darkness, clouds, terrain,
+etc.) hampers use of this mode. Range and altitude source are quite
+significant. The aircrew should select the most appropriate hierarchy on
+the A/G delivery display. Again, LAS, AGR, RALT, or SYS can be used.
+
+System harmonization may be a problem since the pilot is virtually
+always sighting via one system and measuring via another.
+
+Large MN position errors may preclude steering that is accurate enough
+to visually acquire the target.
+
+Small INS/MN velocity errors have little effect [from designation to
+weapon(s) release] due to the short ranges involved. Present position
+errors result in an error in computing the target lat/long, but this should
+not seriously affect the accuracy of the bombing system, if aircraft to
+target relative position is accurate.
+
+Crew Errors
+
+Mismanagement of MN and INS updates is a source of crew error. Make
+sure the navigation system is as accurate as possible. A bad update
+produces an inaccurate navigation system which could result in inability
+to visually acquire the target.
+
+Failing to take command of the HUD prevents using the TDC (to slew the
+reticle, designate the reticle, or slew the TD diamond). Command of the
+radar and TGT IR pod through the HUD also requires HUD command.
+
+The slew rate of the TD diamond is quite high, and it is very easy to slew
+the diamond off the target as the TDC is released, particularly when close
+to the target. The same is true when slewing the AUTO reticle. The crew
+workload must also be considered before attempting to use the HUD
+methods of designating and redesignating. In most situations a good plan
+will allow the WSO to find the target in the TGT IR and designate using
+the 16 power magnification capability of the target pod. In this case, it is
+likely the option of changing the designation with the HUD is liable to
+induce positioning errors.
+
+AGD-4 D - 48
+
+
+Text from AGD-4_Designations_page_55.jpeg:
+Zero Point
+
+This is a form of NAV designation, in that the computations are sourced
+entirely within the NAV module, like the NAV designation. Outside
+sensor information is not required.
+
+Description
+
+A zero point designation is essentially the reverse of the NAV designation
+method. Rather than starting with stored target earth coordinates and
+finding target relative position, the NAV module starts with a stored
+relative position, and generates earth coordinates. The crew enters the
+target’s relative position from a known visual point via the UFC against a
+unique sequence point (0.) syntax.
+
+When over the visual IP, the crew enters 0. as the aircraft current
+sequence point. At the 0. entry, the MN adds the stored target relative
+position (from the visual point) to the visual position and designates the
+target at lat/long and Ht. This designation is retained until undesignated
+or replaced by a new designation. At this time, the NAV module
+completes all of the required coordinate transformations and sends them
+to the data base for use by avionic systems as required. Altitude sourcing
+is determined using the same priority as is used for the radar and NAV
+designation options (e.g., SYS), with the capability to use AGR or RALT
+inside 15 seconds TREL (if selected and valid).
+
+D - 49 AGD-4
+
+
+Text from AGD-4_Designations_page_56.jpeg:
+Procedures
+
+Point Data Submenu: Select the point data submenu on the UFC
+(Figure D-18).
+
+LOCATION OF 0.
+FROM OVERFLY
+Pe MISUAL
+
+ELV 465°
+
+TARGET
+ELEVATION
+
+Uces.18eb x
+
+125
+
+_|(Uee6.
+
+Ce
+eaee
+
+ao
+leia/ae
+
+AGD-04-13
+
+VOL
+R1e@OR3
+
+cio
+
+Figure D - 13. Point Data DIR/RNG Submenu.
+
+AGD-4 D - 50
+
+
+Text from AGD-4_Designations_page_57.jpeg:
+Select 0.: This is the only possible sequence point for this method.
+Selecting 0. forces the UFC to RNG/BRG submenu with all of the data
+windows zeroed out (000 nm, 000°, ELV 000). The DIR/RNG submenu
+(Figure D-13) is available and should be used, as it allows entry to one foot
+accuracy (versus one-tenth of a nm accuracy from the RNG/BRG format).
+
+0. Data: Insert target relative position and elevation data. You may enter
+zero for the offsets (direction and range), but you then have to fly over the
+target for the designation procedure and reattack.
+
+Data 1/Menu 1: Select a UFC format page from which you can enter a
+destination (Data 1 or Menu 1) (Figure D-14).
+
+A/G Master Mode: You must be in the A/G master mode to use this
+method.
+
+ENTER ZERO
+POINT
+WIND |
+
+125 Uees. 1886
+
+AGD-04-14
+
+Figure D - 14. Data 1 Display.
+
+D-51 AGD-4
+
+
+Text from AGD-4_Designations_page_58.jpeg:
+Overfly: Fly to the known geographic point corresponding to the visual IP.
+Use the best available means of navigation.
+
+Enter 0.: When over the visual IP with 0. waiting in the scratchpad, press
+PB #10 on the UFC. This should immediately give you steering to the
+wind-corrected weapon(s) release point. The HUD symbology will change
+from NAV information to a designated AUTO or CDIP presentation.
+
+Next Steer Point: Though not required to designate, this step is mentioned
+because the system will not auto-sequence and you must enter the next
+point including the route identifier (e.g., 17A) when steering to the target
+is no longer desired.
+
+Factors Affecting Accuracy
+
+Like the other visual methods, anything that hampers sighting the visual
+point limits the method.
+
+If the RNG/BRG is entered, it is only possible to enter offsets to the
+nearest degree and one-tenth of a nautical mile. This may be a bit coarse
+for targeting purposes. If possible, use direction and range offsets. This is
+viable if planning a 0. backup to use in the event of a navigation system
+gross error.
+
+Even though MN present position is used to determine the target’s earth
+coordinates, it is not terribly important to bombing accuracy. The
+accuracy of the designation for bombing purposes is driven by the
+accuracy of the relative position of the target at 0. entry. MN velocity
+errors may be a problem if the solution time (IP to target) is long.
+
+Crew Errors
+
+The principal sources of crew error with this method occur in data
+measurements entry and precision of designating over the visual point.
+
+AGD-4 D - 52
+
+
+Text from AGD-4_Designations_page_59.jpeg:
+UNDESIGNATION
+Purpose
+
+There are several valid reasons for undesignating targets. Remember,
+there is room in memory for only one designation. So, to hit a new target,
+or just refine the current designation, it is necessary to have some way of
+eliminating the old target. In some cases, this is done by overwriting the
+existing designation. For some designation methods, however, the
+designation must be blank; these methods do not overwrite. NAV
+designation and AUTO pipper designation do not overwrite existing
+designations; they are only possible from an undesignated condition.
+
+Use caution in blindly undesignating, since undesignating does not return
+to the previous designation. It erases the designation, leaving only NAV
+steering (or no steering if an unprogrammed target of opportunity was
+designated). In the case of zero point, the system does not step to the next
+point. The next point must be entered, which erases the designation
+register.
+
+Procedures
+
+There are essentially three ways to undesignate A/G targets: the boat
+switch in the FCP, the hand controller auto acq in the RCP, or the UFC in
+either cockpit.
+
+Boat Switch
+
+A/G Master Mode: Using the boat switch on the FCP throttle to
+undesignate A/G targets requires A/G master mode. Additionally, the
+pilot must not be in command of the A/A radar.
+
+Boat Switch Aft: Moving the boat switch aft undesignates the A/G target
+regardless of the method of designation. If the PSL had been activated
+and designated, the first aft movement of the boat switch undesignates
+the PSL and a second aft movement of the boat switch undesignates the
+target.
+
+D-53 AGD-4
+
+
+Text from AGD-4_Designations_page_6.jpeg:
+(This Page Intentionally Blank)
+
+AGD-4 C-2
+
+
+Text from AGD-4_Designations_page_60.jpeg:
+Hand Controller Auto Acq
+
+Sensor Command: To use the RCP hand controller to undesignate a
+target, that hand controller must be assigned command of the A/G radar
+or TGT IR and the target cursor function must be selected.
+
+Auto Acq: Pressing down on the hand controller auto acq undesignates
+the target. If the PSL had been activated and designated, the first
+depression of the auto acq switch undesignates the PSL and a second
+downward movement of the auto acq switch undesignates the target. The
+A/G radar and TGT IR can be used to undesignate any target, regardless
+of the method used to designate the target.
+
+UFC
+
+A/G Master Mode: Using the UFC method to undesignate a target
+requires A/G master mode.
+
+Steer Point Entry: Entry of a new current aircraft sequence point into the
+UFC Data 1 or Menu 1 undesignates the target. If the NAV master mode
+is selected and a new current aircraft sequence point is entered (either
+manually or via auto-sequencing), the system provides steering to the next
+point, but the target does not undesignate. Reentry into the A/G master
+mode will again provide steering to the previously designated target.
+
+AGD-4 D- 54
+
+
+Text from AGD-4_Designations_page_61.jpeg:
+EMPLOYMENT
+
+There are several ways to designate a target. See designate/
+redesignate and IP-to-target run examples on the following pages.
+
+The Scenario
+
+For purposes of discussion, let us suppose you have planned to make a low
+level ingress to a level attack in marginal weather (Figure D-15). You
+have planned the route and have loaded all the pertinent route data into
+the CC. You are flying the route and all is going well. As you get within
+40 nm of the target, you consider a designation. You have checked the
+MN and it is performing well. Before each designation, perform a MN
+PVU (or use the IPVU option). A system altitude update may be desired.
+If so, it should be performed at release TAS and MSL altitude if able.
+
+5 SEC
+RADAR MAP FOR UPDATE INS / MN
+BSE SS SEARCH
+Res —S>
+40 NM; 5 MI
+SF NY TO RELEASE
+‘. =} Ons ON
+~~ SS 5 SEC — Z :
+=. RADAR XS fr
+
+ES PVU =— 30 NM; 3:30 TO RELEASE
+mt BS —
+Wy aa A >
+en 20 SEC SEARCH SK
+ES rae
+Ye SSN OF es SE
+> SAY re » 2 NM; 11 SEC
+n \ 2 2s VISUAL
+Q ie NM i
+1 1:45 TO RELEASE ;
+Le 4. NM; 25 SEC
+Xd) RADAR MAP e TO RELEASE
+J) DESIGNATION 10NM TGTIR
+(ps 1:00 TO RELEASE ACQUISITION
+NAV DESIGNATION CUED EY RADA)
+(IF RDR
+NSUCCESSFUL)
+g}
+
+&
+
+AGD-04-15
+
+Figure D - 15. Employment.
+
+D-55 AGD-4
+
+
+Text from AGD-4_Designations_page_62.jpeg:
+Radar Designation
+
+The only sensor you have that can possibly detect the target from long
+range is the radar. At that, you have to climb to at least 1500 feet to
+achieve LOS to the target. You may choose to climb briefly to make a
+patch map of the target area. An A/G radar designation of the target
+(versus an offset) from a .67 patch map (must be less than 40 nm from the
+target) will produce the best accuracy. Consider using an expanded patch
+map.
+
+Satisfied you have a good map, freeze it and identify the target or offset.
+Confirm PB #17 is correct and update/designate the target or offset. With
+an update, you know your MN is accurate which means an accurate NAV
+designation if you need it. If the target is on the radar display, you know
+you have designated when the PSL appears over the target triangle.
+
+NAV Designation
+
+If your A/G radar designation was unsuccessful or not practical, a NAV
+designation entering the target area is a likely option. As previously
+covered, the method only works if no other designation exists. It does not
+overwrite an existing designation. Select the A/G master mode; if no other
+designation exists (no old one left over from a previous attack), when the
+target point sequences, it is designated. The target is designated if the
+destination line of the HUD data block reads “TGT” and the distance to
+the target is preceded by a G versus an N. If you were successful in
+getting the radar designation before selecting A/G master mode, this NAV
+designation does not occur.
+
+AGD-4 D - 56
+
+
+Text from AGD-4_Designations_page_63.jpeg:
+TGT IR Designation
+
+About a minute out from the target, start getting ready for the TGT IR
+designation. It provides a more accurate designation, can provide
+continuous designation, and provides laser energy on the target for
+ranging and weapon guidance purposes. When designating with the TGT
+IR, if a previous designation existed, there is no good indication the
+designation has occurred if steering does not change.
+
+Backups
+
+You will use the above progression most of the time, but there are
+alternatives. If you happen to visually acquire the target and note the
+diamond is not over it, slew the diamond in a TD redesignation.
+Alternately with target visual acquisition, AUTO or CDIP pipper
+designations are available. The zero point method is available as a last
+ditch, provided you have planned and entered the required offset data.
+
+D-57 AGD-4
+
+
+Text from AGD-4_Designations_page_64.jpeg:
+AUTONOMOUS LANDING GUIDANCE (ALG)
+
+In addition to attacking surface targets, designations may also be used to
+establish a touchdown point for use in the ALG mode. The ALG mode
+provides “ILS-like” steering to any designated point on the ground.
+
+To employ the ALG mode, the crew must be in the NAV or INST master
+mode with a designation (NAV, A/G radar, TGT IR, HUD) and select ALG
+at PB #5 of the HSI (Figure D-16). Once the touchdown point is
+designated, the crew selects the final approach course using PBs #14 and
+#15 on the HSI or by aligning the PSL on a radar designation with the
+desired course. The CC plots a final approach fix (FAF) 10 nm from the
+touchdown point. Steering to the touchdown point is via the selected
+course. The PLAN view on the HSI is utilized to navigate to the ALG
+FAF.
+
+INBOUND
+COURSE
+SELECTION
+
+RUNWAY
+SYMBOL
+
+DUCT GT
+
+MLE T Ia
+
+QoL
+|
+
+TOUCHDOWN
+POINT
+
+7
+“45 Nd
+
+Ud
+n
+oe
+, Ase
+HON
+
+7 ¢y/ \
+
+ALG MODE L aS}
+SELECT TON 112x ALG 5B FAF (10 NM)
+SWITCH 00:01:30 00:01:47 E —
+
+TCN ILST GT ILSN NAV
+
+AGD-04-16
+
+Figure D - 16. HSI, ALG Display.
+
+AGD-4 D -58
+
+
+Text from AGD-4_Designations_page_65.jpeg:
+In the PLAN mode, the HSI displays a runway symbol, final approach
+course and the FAF. In the CDI mode, the HSI displays a CDI just as it
+does in the ILS steer mode. The runway and FAF symbols are not present
+in the CDI mode. The CDI shows the relative displacement from the
+selected course.
+
+In the ALG mode, the HUD (Figure D-17) displays a CDI to indicate
+relative course position, a bank steering bar to provide steering to the
+selected course, and a glide slope indicator (scale and caret) to show
+deviation from a 3° glide slope to the designated touchdown point. There
+is no pitch steering bar displayed in ALG.
+
+10'— —10
+35 36 =O HEIGHT
+ry a ABOVE
+5 5 TARGET
+253 \e we ° 3300
+o125| ° R 2000
+H 2100
+|< _ FAF RWY
+ais SENSOR
+SELECTED
+
+AGD-04-17
+
+Figure D - 17. HUD, ALG Display.
+
+There is no current operational guidance on how ALG may be used, but it
+is not certified/approved for use in IMC. The aircrew is responsible for
+terrain clearance. By arriving at the ALG FAF at 3000 feet AGL above
+the designated touchdown point elevation, the aircrew can fly a 8° glide
+slope from the FAF. The touchdown point elevation is determined by the
+same methods used to determine target elevation during target
+designation (designation method and HAT hierarchy).
+
+D -59 AGD-4
+
+
+Text from AGD-4_Designations_page_66.jpeg:
+QUESTIONS
+1. When slewing the HUD TD diamond, the redesignation occurs when
+
+a. the TDC is released after slewing the TD diamond.
+
+b. the TDC is depressed/released while not in command of the
+HUD.
+
+the pickle button is released.
+
+d. the castle switch is moved toward the HUD.
+
+°
+
+2. The pipper method of designation requires command of the HUD
+when accomplished with
+
+the pickle button, but not the TDC.
+either the pickle button or the TDC.
+the nose gear steering button.
+
+the TDC, but not the pickle button.
+
+pe op
+
+3. Using the zero point designation method to designate, the aircrew
+
+must enter 0. over the target.
+
+must enter 0. over a visual offset point (IP).
+may enter 0. over the target or an offset point.
+may enter 0. at any time.
+
+pe op
+
+4. The FCP boat switch may be used to undesignate air-to-ground
+targets in any master mode except A/A.
+
+a. True
+b. False
+
+AGD-4 D - 60
+
+
+Text from AGD-4_Designations_page_67.jpeg:
+In the NAV master mode, when the NAV system auto-sequences from
+the target to the next steer point
+
+steering is to the next point and the target is undesignated.
+steering is to the next point but the target remains designated.
+steering is to the target until it is undesignated.
+
+steering reverts to ground track until the target is undesignated.
+
+Boop
+
+D-61 AGD-4
+
+
+Text from AGD-4_Designations_page_68.jpeg:
+ANSWERS
+
+l. a
+2. d
+3. Cc
+4. b
+5. b
+
+AGD-4 D - 62
+
+
+Text from AGD-4_Designations_page_69.jpeg:
+END OF TEXT QUIZ
+
+Computation of sensor pointing data is a function of the
+
+po op
+
+INS.
+NAV module (MN).
+individual sensor.
+
+A/G module.
+
+You selected A/G master mode and AUTO delivery mode on the
+PACS and designated a target. When you pickle,
+
+a.
+b.
+
+a
+
+the point overlaid by the pipper is redesignated as the target.
+the point overlaid by the TD diamond remains the target and is
+not affected by pickling.
+
+the pipper shifts to the TD diamond.
+
+the diamond jumps up to the velocity vector.
+
+If CDIP is the PACS programmed delivery mode, the ASL is
+
+eS op
+
+only displayed on the HUD while the pickle button is held down.
+deleted as part of the post designation display.
+
+appears when the pickle button is pressed and remains
+displayed until the target is undesignated.
+
+displayed as soon as the target is designated.
+
+The NAV designation computes the target relative position using
+
+ao
+
+INS present position and crew entered target coordinates/
+elevation.
+
+crew entered target coordinates alone.
+
+MN present position and crew entered target coordinates/
+elevation.
+
+MN present position and radar altimeter.
+
+E-1 AGD-4
+
+
+Text from AGD-4_Designations_page_7.jpeg:
+TEXT
+ROLE OF THE NAVIGATION (NAV) MODULE
+
+The navigation module is the CC program element (a set of computer
+algorithms) which provides the F-15E with the capability to accomplish
+attitude reference and present position keeping, target designation/
+undesignation, navigation steering and symbol placement, reference
+system coordinate transformations, and sensor pointing. The NAV
+module has other functions not germane to this discussion. Figure D-1
+shows the relationship of the navigation module with other avionics in the
+aircraft. This diagram has both before and after the installation of the
+embedded global positioning system/inertial navigation system (EGI).
+
+The central computer takes inputs from various sensors an positions
+others in the process of designating a target. This mission navigator (MN)
+is a computer subroutine within the NAV module which handles the bulk
+of these functions.
+
+LEGEND
+[._] cc MEMORY T
+
+[___] AVIONICS SYSTEMS Tape 1 |
+ADC 1
+
+[55] SOFTWARE MODULES ADP 2
+
+ZZ SENSORS RADAR
+
+1. (86-0183 THRU 92-0366 FNU INS
+
+BEFORE TCTO 1F-15E-737)
+
+[a]
+2. (96-0200 AND UP AFTER PACS | FD Jee BASE <> AIG
+TCTO 1F-15E-737)
+TGT POD
+COCKPIT CONTROLS |—+>| AIU_ | C&D |<«>
+DISPLAYS ]<—»[_MPDP_ |
+
+AGD-04-01
+
+Figure D- 1. Navigation Module.
+
+D-1 AGD-4
+
+
+Text from AGD-4_Designations_page_70.jpeg:
+5. Using the A/G radar, you can designate
+
+a. only preplanned targets.
+
+b. only targets of opportunity.
+
+c. preplanned targets or targets of opportunity.
+
+d. targets of opportunity only if you enter the target altitude in the
+UFC.
+
+6. Command of the HUD is required for a HUD designation using the
+a. TDC or pickle button.
+
+b. pickle button but not the TDC.
+c. TDC but not the pickle button (unless slewing pipper).
+
+7. You do not need to be in the A/G master mode to undesignate when
+
+using
+
+a. the FCP boat switch.
+
+b. the hand controller mode reject (RCP) (A/G RDR or TGT IR).
+c. the UFC.
+
+d. any method of undesignation.
+
+AGD-4 E-2
+
+
+Text from AGD-4_Designations_page_71.jpeg:
+A/A
+A/G
+ADC
+ADI
+AFMSS
+AGR
+AHRS
+ALAS
+ALG
+ARMT
+ASL
+AT
+AUTO
+az
+BCN
+BRG
+
+CBT
+
+CC
+CDI
+
+CDIP
+
+GLOSSARY
+Air-to-air
+Air-to-ground
+Air data computer
+Attitude director indicator
+Air Force Mission Support System
+Air-to-ground ranging
+Attitude heading reference system
+Automatic lasing
+Automatic level/gain; autonomous landing guidance
+Armament
+Azimuth steering line
+Along track
+Automatic
+Azimuth
+Beacon
+Bearing
+Combat
+Continuous
+Central computer
+Course deviation indicator
+
+Continuously displayed impact point
+
+F-1 AGD-4
+
+
+Text from AGD-4_Designations_page_72.jpeg:
+CLR Clear
+
+CONT Continuous
+
+CT Cross track
+
+DGR Desired ground range
+DIL Displayed impact line
+DIR Direct
+
+DLVRY Delivery
+
+DTM Data transfer module
+EADI Electronic attitude director indicator
+EGI Embedded GPS/INS
+EHSI Electronic horizontal situation indicator
+el Elevation
+
+elev Elevation
+
+ETA Estimated time of arrival
+ETE Estimated time en route
+FAF Final approach fix
+
+FCP Front cockpit
+
+FNU Fighter navigation unit
+FOV Field of view
+
+GBU Guided bomb unit
+
+GMT Ground moving target
+GPS Global positioning system
+
+AGD-4 F-2
+
+
+Text from AGD-4_Designations_page_73.jpeg:
+HOTAS
+HRM
+HSI
+Hsp
+Hsys
+Ht
+HUD
+IMC
+INS
+INST
+IP
+IPVU
+IR
+JINC
+JOG
+
+JTIDS
+
+lat
+long
+
+LOS
+
+Height above ground
+
+Height above target
+
+Hands on throttle and stick
+
+High resolution map
+
+Horizontal situation indicator
+
+Steer point elevation
+
+System altitude
+
+Target elevation
+
+Head-up display
+
+Instrument meteorological conditions
+Inertial navigation system
+Instrument
+
+Identification point
+
+Interleaved precision velocity update
+Infrared
+
+Jet navigation chart
+
+Joint operations graphic
+
+Joint tactical information distribution system
+Laser
+
+Latitude
+
+Longitude
+
+Line of sight
+
+F-3 AGD-4
+
+
+Text from AGD-4_Designations_page_74.jpeg:
+MAN
+
+mils
+
+MLAS
+
+MM
+
+MN
+
+MPCD
+
+MPD
+
+MRA
+
+MRM
+
+MSL
+
+NAV
+
+hm
+
+PACS
+
+PASS
+
+PB
+
+PP
+
+PPI
+
+PPKS
+
+PROG
+
+PSL
+
+PVC
+
+AGD-4
+
+Manual
+
+Maximum
+
+Milliradians
+
+Manual lasing
+
+Master mode
+
+Mission navigator
+Multipurpose color display
+Multipurpose display
+Minimum recovery altitude
+Medium range missile
+
+Mean sea level
+
+Navigation
+
+Nautical mile(s)
+
+Programmable armament control set
+Passive ranging from TGT IR pod pointing angles
+Push button
+
+Present position
+
+Plan position indicator
+
+Present position keeping source
+Program
+
+Pattern steering line
+
+Precision/velocity consistency (filter)
+
+
+Text from AGD-4_Designations_page_75.jpeg:
+PVU
+
+RALT
+
+RCP
+
+RBM
+
+RDY
+
+RET
+
+RNG
+
+SAN
+
+SLR
+
+SP
+
+SUU
+
+SYS
+
+SYSB
+
+SYSG
+
+TACAN
+
+TARM
+
+TAS
+
+TD
+
+TDC
+
+TEWS
+
+TGT
+
+TNG
+
+Precision velocity update
+
+Radar altitude
+
+Rear cockpit
+
+Real beam map
+
+Ready
+
+Reticle; retard
+
+Range
+
+Valid but not passing sanity checks
+Slant range
+
+Sequence point
+
+Stores suspension and release unit
+Aircraft system altitude
+Barometric system altitude
+
+EGI system altitude
+
+Tactical air navigation
+
+Time to arm
+
+True airspeed
+
+Target designator
+
+Target designator control
+
+Tactical electronic warfare system
+Target
+
+Training
+
+F-5 AGD-4
+
+
+Text from AGD-4_Designations_page_76.jpeg:
+TPULL
+
+TREL
+
+TSD
+
+UFC
+
+UPDT
+
+VAL
+
+AGD-4
+
+Time to pull
+
+Time to release
+
+Tactical situation display
+Upfront control
+
+Update
+
+Valid
+
+
+Text from AGD-4_Designations_page_77.jpeg:
+(This Page Intentionally Blank)
+
+F-7 AGD-4
+
+
+Text from AGD-4_Designations_page_78.jpeg:
+BACK PAGE
+COVER SHEET
+
+
+Text from AGD-4_Designations_page_8.jpeg:
+The MN calculates aircraft position independently from the FNU INS or
+EGI. To do this, it must be supplied with its starting position and
+continuous velocity (direction and magnitude) information.
+
+Before EGI (86-0183 Through 92-0366 Before TCTO 1F-15E-737)
+
+Position Keeping (Before TCTO 1F-15E-737)
+
+Starting Position: There are two sources of MN starting position: INS or
+TACAN. This starting position is used only to initiate the MN and, during
+a reset operation, to reinitiate the MN at the INS (or TACAN, if TACAN is
+selected as the PP keeping source) present position (PP).
+
+Velocities: Velocities are supplied by the INS (or the air data computer/
+AHRS). The aircrew can modify the velocity used by the MN by
+accomplishing a precision velocity update (PVU). Ina PVU, the
+radar-measured velocities are compared to the INS-measured velocities
+and delta velocities calculated. If the crew accepts the PVU, these delta
+velocities are added to the INS reported velocities before they enter the
+MN. After five minutes (or immediately after an INS PVU or following a
+PVU CLR), the deltas are no longer applied and the MN once again uses
+the velocities as reported by the INS. In the case of an interleaved
+precision velocity update (IPVU), the delta velocities are computed once
+every minute, the process is continuous, and the deltas are automatically
+accepted with no aircrew action required (if the radar is functioning in a
+PPI mode).
+
+Present Position: The MN integrates velocities over time to determine
+position changes which are then added to starting position to calculate
+present position. Since the integration process is slower and has less
+internal accuracy than the one used by the INS, after a time the MN and
+INS positions disagree. If the MN present position is updated, the
+calculated delta PP is added to the MN present position existing at the
+moment of update. This essentially creates a new starting position from
+which to calculate PP. A position update of the MN does not affect MN
+velocities. If you update the INS position, the MN PP is reset to the INS.
+The MN present position is sent to the CC data base for use as required
+for pointing sensors, designating targets, placing navigation symbology,
+and determining steering.
+
+AGD-4 D-2
+
+
+Text from AGD-4_Designations_page_9.jpeg:
+After EGI (96-0200 and up or After TCTO 1F-15E-737)
+
+When the aircraft is modified with the embedded GPS/INS (EGI) the role
+of the mission navigator will be changed significantly. The data which is
+used for navigation, steering, and weapon delivery computations is
+provided by different sources, dependent on the present position keeping
+source (PPKS). Because of the improved accuracy of the GPS position and
+velocity measurements, the mission navigator will normally be relegated
+to the backup mode in positioning for weapons deliveries.
+
+Position Keeping (After TCTO 1F-15E-737)
+
+Starting Position: The TACAN starting position for the mission navigator
+will be replaced by the EGI. This gives two sources of MN starting
+position: the EGI and the current INS (fighter navigation unit [FNU]
+INS). Either can be selected to update the position of the MN. However,
+for a MN reset, only the FNU INS position will be used to reset the MN
+position. If the FNU INS position is invalid, the MN reset cannot be done.
+
+Velocities: The velocities used by the MN to keep track of its position
+continue to come from the FNU INS. The requirement for MN PVUs and
+FNU INS PVUs remains, if the EGI is not the PPKS.
+
+Present Position: The options for present position keeping will be the EGI,
+MN, and FNU INS. The INS/GPS and TACAN (TCN) options have been
+deleted. The air data computer (ADC) source is retained as a default
+PPKS, but is no longer aircrew selectable. The PPKS defaults to FNU
+INS upon startup, and must be changed by the aircrew if something other
+than FNU INS is desired. If the selected PPKS is not available, then the
+PPKS will default as shown in Table D-1.
+
+Current PPKS | Default PPKS Best Available Altitude Source
+Velocity
+
+ser [ww [ect Bcrsysey
+
+a
+uns jane [ns | Pressure (SYS)
+
+Table D - 1.
+
+D-3 AGD-4
+
+

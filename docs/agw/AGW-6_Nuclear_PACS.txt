@@ -1,0 +1,1790 @@
+Text from AGW-6_Nuclear_PACS_page_1.jpeg:
+SUPPORTS COURSES
+FIS5EBQ
+FISETX
+
+ACADEMIC STUDENT WORKBOOK
+F-15E
+
+AIR-TO-GROUND WEAPONS
+AGW-6
+NUCLEAR PACS
+
+FEBRUARY 1999
+
+(SUITE 3 OFP)
+
+AIR COMBAT COMMAND
+
+
+Text from AGW-6_Nuclear_PACS_page_10.jpeg:
+AUTO
+NIGHT
+® A/A A/G NAV INST
+
+bean
+
+Loe <o
+
+ALIN
+orr SEL
+
+ion
+
+MASTER
+ARM
+
+NUCLEAR
+CONSENT
+ARM
+
+JETTISON
+ENABLE
+
+AGW-06-02
+
+Figure D - 2.
+
+AGW-6 D-4
+
+
+Text from AGW-6_Nuclear_PACS_page_11.jpeg:
+NUCLEAR WEAPON LOADING
+
+This section shows the many nuclear PACS display formats and explains
+their pertinent legends.
+
+For this example, assume you have a B61-4 on the left CFT and a B61-3
+on the right CFT. There is no way to tell what is loaded by looking at the
+initial display (Figure D-3).
+
+NUC Weapon Load
+
+To bring up the NUC WEAPON LOAD display, press PB #9 on the top
+level armament display. This display shows the loaded stations across the
+top. It also contains the compatible weapon legends as options for
+identifying exactly which B-61 model is actually loaded. (Nuclear
+weapons will self-identify on the PACS but may not be the correct model.)
+
+FUEL B61-4 FUEL B61-4 FUEL
+4 1 1 1 1
+
+NUC WEAPON LOAD TRNG
+
+B61-4
+
+B61-5
+
+AGW-06-03
+
+Figure D - 3.
+
+D-5 AGW-6
+
+
+Text from AGW-6_Nuclear_PACS_page_12.jpeg:
+Weapon Options
+
+Once you have loaded the weapon by first boxing the appropriate legend
+(in this case, B61-3, PB #8) and then pressing the proper station button
+(#17 for the right CFT), the display looks like Figure D-4.
+
+STA RC is displayed below the options indicating that the weapon on the
+right CFT is selected for options programming. The selectable options for
+the weapon are displayed adjacent to PBs #6-10 and PB #12. The options
+shown are the default options and are selected in numerical PB order.
+Repeated depressions of these push buttons step through the available
+options. Loading of the weapon is complete when the options adjacent to
+the option push buttons match those you wish to select. (A table of
+options for each bomb is contained in TO 1F-15E-25-1.)
+
+You can then exit to the menu or load other weapons.
+
+FUEL B61-4 = FUEL FUEL
+1 1 1 1
+
+NUC WEAPON LOAD
+
+B61-0 MENU
+AUTO GND TA RET1 FUNCA
+
+Beeee
+
+Figure D - 4.
+
+AGW-06-04
+
+AGW-6 D-6
+
+
+Text from AGW-6_Nuclear_PACS_page_13.jpeg:
+Other Weapon(s) Loading
+
+To load a second bomb type on the left CFT, simply box the bomb’s legend
+and press PB #19.
+
+Unboxing the weapon(s) brings back the TRNG STORES LOAD and A/A
+LOAD legends (Figure D-5) or you can select MENU after the last weapon
+is loaded correctly and proceed to the program page.
+
+Exit Loading Display
+
+When weapon loading is complete, exit the NUC WEAPON LOAD mode
+by pressing PB #11.
+
+FUEL B61-4 FUEL B61-3 FUEL
+1 1 1 1 1
+
+NUC WEAPON LOAD
+
+TRNG
+STORES AJA
+LOAD LOAD
+
+AGW-06-05
+
+Figure D - 5.
+
+D-7 AGW-6
+
+
+Text from AGW-6_Nuclear_PACS_page_14.jpeg:
+PROGRAMMING
+
+Pressing the A/G button on the ARMT menu brings up a display like
+Figure D-6, left. Selecting a station places that station in priority. The
+priority station is shown at the bottom of the display above PB #8, along
+with its program options (Figure D-6, right). If more than one station is
+selected, the priority station is the first in the sequence LC, RC, L, R, C.
+To review or modify the program for the stations not in priority, it is
+necessary to deselect the higher priority stations. This brings the desired
+station into priority and displays its programming options. If no nuclear
+station is selected, no program options are displayed.
+
+Selectable options which pertain to the weapon in priority (as shown at
+the bottom of the display over PB #8) are displayed above PBs #6-9. To
+change an option, press the button below it, then follow the same
+procedures used during the loading option selection. Some restrictions
+may apply based on delivery option or selections made during loading.
+Notice that function and chute delay are no longer selectable. To display
+the selectable option for the other loaded bombs, deselect the higher
+priority stations.
+
+Pes euBL
+
+Seeee
+
+AGW-6 D-8
+
+
+Text from AGW-6_Nuclear_PACS_page_15.jpeg:
+List
+
+The display initializes with LIST boxed at PB #4. With LIST boxed,
+options are shown below each loaded station for up to three weapons
+(Figure D-7, left). The options shown are for the priority station plus the
+next two loaded stations in priority sequence (be sure to check PB #8 to
+ensure you are changing the desired weapon).
+
+You may retain the options for each bomb or you can declutter the display
+by unboxing LIST, which returns to the format of Figure D-7, right and
+stores the options in the CC and PACS memory. Note that with LIST
+unboxed, the A/G delivery page data is displayed.
+
+FUEL B61-4 FUEL B61-4 FUEL  _B61-3 FUEL
+1 4 4 1 4 i 1
+
+LOCK LOCK LOCK
+
+LOFT 0
+TARM 0.0 SEC
+
+AGW-06-07
+
+Figure D - 7.
+
+D-9 AGW-6
+
+
+Text from AGW-6_Nuclear_PACS_page_16.jpeg:
+Off Mode
+
+Selecting any bomb loaded stations results in those station’s armament
+monitor and control (AMAC) status being displayed at PBs #14 and 15
+(Figure D-8).
+
+The boxed OFF indicates all nuclear interface power is removed. This is
+the display to which you must return to exit the NUC PACS. All weapons
+must be SAFE and power must be OFF for the MENU option to appear.
+
+ooo
+
+/ FUEL B61-4 FUEL B61-3 FUEL \
+1 1 1
+
+LOCK LOCK
+
+OFF
+
+LOFT 0
+TARM 0.0 SEC
+
+ieiieie
+
+Figure D - 8.
+
+AGW-06-08
+
+AGW-6 D-10
+
+
+Text from AGW-6_Nuclear_PACS_page_17.jpeg:
+Monitor Mode/Power On
+
+To apply power, monitor, and control the status of all selected weapons,
+press PB #14. This boxes MON and adds SAFE/ARM and permissive
+action link (PAL) information under the weapon station (Figure D-9).
+Boxing MON sends power to the PAL encoder/decoder of selected weapons
+stations and rack lock/unlock circuitry in preparation for further actions.
+In this example both weapons are locked SAFE and have not been
+enabled. A no selected station will have a strikeout and show only locked
+status. Note that MENU is no longer available at PB #11.
+
+TIIGIGIGI
+
+FUEL [B61-4] = FUEL FUEL
+1 1 1 1 1
+
+LOCK LOCK
+SAFE SAFE
+DISEN DISEN
+
+LOFT 0
+TARM 0.0 SEC
+
+AGW-06-09
+
+Figure D - 9.
+
+D-11 AGW-6
+
+
+Text from AGW-6_Nuclear_PACS_page_18.jpeg:
+Safe Mode
+
+Pressing PB #13 boxes SAFE and provides the legends PAL ENAB and
+PAL DISEN at PBs #2 and #3, respectively (Figure D-10). If both nuclear
+consent switches have not been moved to ARM, the advisory ARM
+CONSENT REQ’D TO ARM appears at this time. It is now possible to
+
+PAL enable the weapons.
+
+B61-4 FUEL
+1 1 1
+LOCK LOCK
+SAFE SAFE
+DISEN DISEN
+
+LOFT 0 AT 0°
+TARM 0.0 SEC CT RO"
+
+ARM CONSENT REQ'D TO ARM
+
+icicle
+
+Figure D - 10.
+
+AGW-6 D-12
+
+AGW-06-10
+
+
+Text from AGW-6_Nuclear_PACS_page_19.jpeg:
+PAL Code Selection
+
+When you press PB #2 (Figure D-11), PAL ENAB, the PAL code selection
+format, appears (Figure D-11). As you press the buttons in sequence
+beside the numbers corresponding to your PAL code, they replace the “Xs”
+in the middle of the screen. If you make an error, continue to enter
+numbers until the desired set is displayed.
+
+IIDIGIGIGI&
+
+FUEL [B61-4] FUEL FUEL \\
+1 1 1 1 1
+
+LOCK LOCK
+SAFE SAFE
+DISEN DISEN
+
+OFF
+
+LOFT 0 AT 0!
+TARM 0.0 SEC CT RO!
+
+ARM CONSENT REQ'D TO ARM SAFE
+
+PAL ENAB
+CODE XXXXXX
+
+6 7 8 9
+
+TTL!
+
+AGW-06-11
+
+Figure D - 11.
+
+Enabling
+
+Next, press PB #11, PAL ENTER, to initiate the code entry countdown
+(Figure D-11) for selected stations. PAL ENTER will not appear until the
+sixth digit of the PAL code for selected stations is typed. There are three
+categories of PAL countdown ranging in length from 05 to 25 seconds.
+You will know the time for the weapons that you are carrying. The
+two-digit countdown is displayed to the right of the entered code. It ends
+when all weapons have accepted the code or the time expires. The
+selection numerals and PB #11 blank when PAL ENTER is selected.
+
+D-18 AGW-6
+
+
+Text from AGW-6_Nuclear_PACS_page_2.jpeg:
+ADMINISTRATIVE INFORMATION
+
+This student workbook is designed to provide information on the F-15E,
+its systems, and capabilities. It is not a sole source document, but is to be
+used in conjunction with other standard Air Force publications and
+technical manuals. If you find any differences between the material
+contained herein and other governing regulations, adhere to the
+regulations and notify the OPDR.
+
+Changes to this workbook are indicated with a heavy black line in the left
+margin.
+
+Forward recommendations for revision or change to 4 TS, SJAFB, NC,
+275381.
+
+Supersedes: AGW-6, August, 1998
+
+OPDR: 4TS
+
+Index of Changes
+
+Effective Date Pages Affected
+
+
+
+Text from AGW-6_Nuclear_PACS_page_20.jpeg:
+PAL Code Accepted
+
+When the code is accepted, the display changes back to the SAFE
+OPTION format except that ENAB replaces DISEN for the enabled
+weapon(s) (Figure D-12). If there is a weapon with a different PAL code,
+its status will not change until the proper code is entered.
+
+To disenable an enabled bomb, press PB #8 on the display and numbers
+appear to allow entry of the PAL code to disenable in the same manner.
+
+FUEL B61-4 FUEL B61-3 FUEL
+1 1 1 1 1
+
+LOCK LOCK
+SAFE SAFE
+ENAB ENAB
+
+AL
+ENAB LOFT 0 AT 0'
+TARM 0.0 SEC CT RO"
+
+PAL
+DISEN ARM CONSENT REQ'D TO ARM SAFE
+
+aes
+
+Figure D- 12.
+
+AGW-06-12
+
+AGW-6 D-14
+
+
+Text from AGW-6_Nuclear_PACS_page_21.jpeg:
+ARMING
+
+Nuclear bomb arming requires three steps: PAL enabling, placing the
+nuclear consent switches in both cockpits to ARM, and satisfying a unique
+signal generator (USG) code. In addition, unlocking the rack is required
+prior to release. B61-0 through B61-2 weapons do not have a unique
+signal generator; B61-3 and later weapons do have one.
+
+Both nuclear consent switches must be placed to ARM to gain access to
+the ARM mode. Placing both switches to ARM results in the removal of
+the NUCLEAR CONSENT REQ’D TO ARM advisory and display of SEL
+USG or ARM at PB #12, depending on what bomb type is being armed
+(Figure D-13). If the bomb being armed does not have a USG, ARM is
+displayed at PB #12 at this point and the next step of selecting the USG
+code is bypassed.
+
+FUEL FUEL FUEL
+1 1 1 7 1
+
+LOCK LOCK
+SAFE SAFE
+ENAB ENAB
+
+PAL
+ENAB LOFT 0
+TARM 0.0 SEC
+
+PAL
+
+ieee
+
+Figure D - 13.
+
+AGW-06-13
+
+D-15 AGW-6
+
+
+Text from AGW-6_Nuclear_PACS_page_22.jpeg:
+USG Code
+
+If the bomb has a USG code, press PB #12, SEL USG. This action causes
+the phrase “ENTER (a five-digit number) TO PREARM CODE XXXXX” to
+appear. Also, numerals 0-9 appear adjacent to PBs #1-10 and the legend
+at PB #12 changes to ARM (Figure D-14). Duplicate the USG numbers
+exactly, just like you did for the PAL code.
+
+The number 17283 tells the bomb it is being armed by an F-15E. This
+provides a coded voltage to preclude stray voltage affecting the arming
+process. It is not a security code (like PAL) and is printed in the nuclear
+
+checklist.
+
+a FUEL [Bei-4] FUEL ([B61-3] FUEL N\
+1 1 1 1 1
+
+LOCK LOCK
+SAFE SAFE
+° ENAB ENAB OFF
+
+LOFT 0
+TARM 0.0 SEC
+
+ENTER 17283 TO PREARM
+CODE 00000
+
+ier
+
+Figure D- 14.
+
+AGW-06-14
+
+AGW-6 D-16
+
+
+Text from AGW-6_Nuclear_PACS_page_23.jpeg:
+Select ARM
+
+Pressing PB #12, ARM, starts up to a 60 second countdown timer for code
+acceptance and deletes the selection numerals. OFF and MON are no
+longer displayed at PBs #14 and #15. Timer status is now displayed
+(Figure D-15, left).
+
+USG Acceptance
+
+When the code is accepted and the timer expires, the bomb is armed. The
+SAFE legend in the column(s) below the loaded station(s) changes to ARM
+and the format looks like Figure D-15, right. If the system does not accept
+the USG number, SEL USG reappears beside PB #12 which you can press
+to reinitiate the sequence.
+
+(7 FUEL FUEL [B61-3 FUEL \
+1 7 1 7 1
+
+LOCK
+SAFE
+ENAB
+
+LOFT 0 LOFT 0
+TARM 0.0 SEC TARM 0.0 SEC
+
+ARM IN PROCESS 60
+ARMING LC RC
+
+yeieie
+
+AGW-06-15
+
+Figure D - 15.
+
+D-17 AGW-6
+
+
+Text from AGW-6_Nuclear_PACS_page_24.jpeg:
+QUESTIONS
+
+maa
+
+FUEL B61-3 FUEL
+1 1
+
+NUC WEAPON LOAD
+
+Sie
+
+Figure D - 16.
+
+AGW-06-16
+
+1. Inorder to load a B61-4 at the LC (Figure D-16), you could
+
+first select PB #14 and then PB #19.
+first select PB #19 and then PB #14.
+select PB #19.
+
+first select the options for the LC.
+
+ao op
+
+AGW-6 D-18
+
+
+Text from AGW-6_Nuclear_PACS_page_25.jpeg:
+FUEL FUEL
+1 7 1
+
+NUC WEAPON LOAD
+
+B61-0
+
+AUTO GND TA RET1 FUNCA
+x STA RC /
+
+Figure D - 17.
+
+AGW-06-17
+
+To cycle between the CDIP and AUTO options in Figure D-17,
+
+select TA at PB #8.
+
+cycle PB #6.
+
+cycle MENU at PB #11.
+
+is only possible from FCP control panel.
+
+no op
+
+AGW-6
+
+
+Text from AGW-6_Nuclear_PACS_page_26.jpeg:
+FUEL B61-4 FUEL B61-3 FUEL
+1 1 1 1 1
+
+NUC WEAPON LOAD
+
+B61-0 MENU
+TRNG
+
+STORES AJA
+\ LOAD LOAD J,
+
+AGW-06-18
+
+Figure D - 18.
+
+3. To exit the NUC weapons LOAD mode (Figure D-18),
+
+cycle PB #10.
+
+select NONE at PB #1.
+
+c. do nothing because the display will automatically change in 15
+seconds.
+
+d. select MENU at PB #11.
+
+a ©
+
+AGW-6 D - 20
+
+
+Text from AGW-6_Nuclear_PACS_page_27.jpeg:
+FUEL [B61-4 FUEL B61-3 FUEL
+1 1 1 1 1
+LOCK LOCK
+
+LOFT 0
+TARM 0.0 SEC
+
+Sie
+
+Figure D- 19.
+
+AGW-06-19
+
+With the display format shown in Figure D-19, you may
+
+recheck all desired weapon parameters.
+PAL enable.
+
+monitor rack lock status only.
+
+unlock the weapons.
+
+no op
+
+D-21 AGW-6
+
+
+Text from AGW-6_Nuclear_PACS_page_28.jpeg:
+Z ~ — 7 im -\ ON
+le | ee |
+Buel B61-4 FigEL FUEL
+1 1
+
+LOCK LOCK
+SAFE SAFE
+ISEN ISEN
+
+LOFT 0
+TARM 0.0 SEC
+
+.
+
+- SEEEEL- .
+
+AGW-06-20
+
+Figure D - 20.
+5. In order to progress with the programming sequence as outlined in
+Figure D-20, you must next
+a. press PB #4 to list the options.
+b. press PB #5 to change to RC.
+c. press PB #18 to bring up the PAL enabling format.
+d. press PB #12 to bring up the PAL enabling format.
+AGW-6
+
+
+Text from AGW-6_Nuclear_PACS_page_29.jpeg:
+Bh at
+
+FUEL FUEL FUEL
+1 1 1 1 1
+LOCK LOCK
+
+SAFE SAFE
+ENAB ENAB
+
+AL
+ENAB- LOFT 0
+TARM 0.0 SEC
+
+ARM CONSENT REQ' TO ARM
+
+.
+
+AGW-06-21
+
+Figure D - 21.
+
+After you have PAL enabled, as shown in Figure D-21, what is the
+next action required?
+
+Master arm switch to ON.
+
+Nuclear consent switch to ON.
+
+Nuclear consent switch in both cockpits to ARM.
+Nuclear consent switch in both cockpits out of SAFE.
+
+Ro op
+
+D - 238 AGW-6
+
+
+Text from AGW-6_Nuclear_PACS_page_3.jpeg:
+AIR-TO-GROUND WEAPONS
+
+C
+a O
+\f_ err ta H
+
+==
+
+COVER
+
+NUCLEAR PACS
+INTRODUCTION
+
+This workbook is your guide in studying the F-15E nuclear programmable
+armament control system (PACS). It introduces you to nuclear PACS
+procedures for both real and training operations. As part of a
+computer-based training (CBT) lesson, this workbook should be read prior
+to taking the CBT instruction.
+
+CONTENTS:
+
+Ie EDO USGI exe ce ase ees ese sesame ses se aoe: ces seam Ses ee an cee: ator se ese ao so A-1
+CRITERION REFERENCED OBJECTIVES (CROs)..........0.eeeeseeeeeeeees B-1
+STUDENT PREPARATION REQUIREMENTS . 0.00... eeeeeeeeeeeeeee C-1
+TERT wr sees sas ces cas wa one sane ws wats we sus eas ates as ee ant eas eS amt ae Ua nt OS aa ale Ma 8 D-1
+END OF TEXT QUIZ oo. eeeccccssneeceeseeecesaeesessneeessaeeeesaeeseseesensaees N/A
+CS OIBIS AY cess ans sane anus aesn ssn news canis ave aise Sue MOR mS EMG NSS Mate MG GS ENG Mens ER A F-1
+
+A-1 AGW-6
+
+
+Text from AGW-6_Nuclear_PACS_page_30.jpeg:
+ANSWERS
+
+l. a
+2. b
+3. d
+4. ¢
+5. Cc
+6. Cc
+
+AGW-6 D - 24
+
+
+Text from AGW-6_Nuclear_PACS_page_31.jpeg:
+WEAPON RELEASE
+Unlocking
+
+After the A/G master mode is selected and the nuclear consent switches
+are both out of the SAFE position, the UNLK CONT legend appears
+adjacent to PB #1. To begin the final release sequence select UNLK
+CONT. This electrically unlocks the BRU-47/A for the weapon in priority,
+boxes UNLK CONT and changes the priority weapon’s status to UNLK
+(Figure D-22).
+
+As you recall, the priority release sequence for nuclear weapons is LC, RC,
+L, R, and C. The desired weapon can be placed in priority by unboxing
+higher priority stations until the desired station is in priority. The
+priority station can be confirmed by boxing LIST and checking PB #8.
+
+a
+
+FUEL B61-4 FUEL B61-3
+1 1 1 1
+
+UNLK LOCK
+ARM ARM
+ENAB ENAB
+
+5
+= im
+|
+
+LOFT 0
+TARM 0.0 SEC
+
+et
+=
+
+L)
+[I
+
+eee
+
+Figure D - 22.
+
+AGW-06-22
+
+D-25 AGW-6
+
+
+Text from AGW-6_Nuclear_PACS_page_32.jpeg:
+Release
+
+Place the master arm switch to ARM. RDY appears boxed at the bottom
+
+of the priority weapon status legends (Figure D-23). RDY only appears if
+all PACS release logic has been satisfied. Hold down the pickle button to
+allow the CC generated signal to release the bomb.
+
+The weapon in priority is released. Nuclear weapons can only be released
+one at a time.
+
+(EIGN
+
+FUEL [B61-4 FUEL [B61-3] FUEL
+1 1 1 1 1
+UNLK LOCK
+ARM ARM
+ENAB ENAB
+
+LOFT 0
+TARM 0.0 SEC
+
+Figure D - 23.
+
+AGW-06-23
+
+AGW-6 D - 26
+
+
+Text from AGW-6_Nuclear_PACS_page_33.jpeg:
+Subsequent Release
+
+Once the weapon is released, the status information for that station
+blanks and the system automatically steps to the next one in priority
+(Figure D-24). You must repeat the unlock and release steps for
+remaining weapons. When the last weapon is released, MENU appears at
+PB #11 and access to the conventional PACS is restored.
+
+III
+
+FUEL FUEL FUEL \\
+1 1 1
+
+1
+LOCK
+ARM
+ENAB
+
+LOFT 0
+TARM 0.0 SEC
+
+MERE
+
+AGW-06-24
+
+Figure D - 24.
+
+D-27 AGW-6
+
+
+Text from AGW-6_Nuclear_PACS_page_34.jpeg:
+Alternate Release
+
+If all prerequisites for release have been met but the bomb does not come
+off using either pickle button, rotating the armament control knob to
+ALTN REL makes the JETT button a third pickle button for releasing
+armed weapons (Figure D-25). Note, however, that this is a “hot” pickle
+button and the bomb will bypass any computed release and drop
+immediately.
+
+Emergency Release
+
+As previously mentioned, the panic button can be used to release armed
+nuclear weapons if all release prerequisites have been met. This method
+applies only to bombs on the LC and RC stations. All conventional carted
+pylons and/or stores will also be released, such as external fuel tanks.
+
+AGW-06-25
+
+Figure D - 25.
+
+AGW-6 D - 28
+
+
+Text from AGW-6_Nuclear_PACS_page_35.jpeg:
+Postrelease
+
+To exit the NUC PACS display if release is not desired, you must select
+SAFE, PB #18. The OFF and MON options are again displayed after 10
+seconds (Figure D-26).
+
+Then press PB #15 to box OFF, which brings up MENU at PB #11,
+allowing access to the main menu.
+
+oe
+
+FUEL FUEL B61-3 FUEL
+1 1 1 1
+
+LOCK
+
+SAFE
+UNLOCK ENAB
+CONT
+
+LOFT 0
+TARM 0.0 SEC
+
+.
+
+AGW-06-26
+
+Figure D - 26.
+
+D - 29 AGW-6
+
+
+Text from AGW-6_Nuclear_PACS_page_36.jpeg:
+SELECTIVE JETTISON
+
+The PACS selective jettison mode permits jettisoning any or all nuclear
+stores. It includes a positive safing feature where all power is removed
+from the weapon interface before jettison. Only the pilot can perform the
+jettison function. However, IAW the two-man concept, both crew
+members must actuate their nuclear consent switch from the safe and
+sealed position to JETTISON ENABLE or ARM. This allows the bomb
+racks to be unlocked.
+
+Initiation
+
+The pilot selects A/G SEL JETT on the armament control panel. This
+removes all MON/SAFE/ARM power from the weapon interface, locks all
+bomb racks, deselects all weapon stations, and brings up the A/G
+JETTISON display on the FCP MPCD and all PACS displays
+
+(Figure D-27). However, selections can only be made by the pilot on the
+FCP MPCD.
+
+Next, nuclear consent must be given in both cockpits.
+
+° WOUCUGICTCH “D
+
+FUEL FUEL B61-3 FUEL
+1 a 1 1
+
+LOCK
+
+A/G JETTISON
+
+Eeeee
+
+AGW-06-27
+
+Figure D - 27.
+
+AGW-6 D - 30
+
+
+Text from AGW-6_Nuclear_PACS_page_37.jpeg:
+Station Select and Unlock
+
+The pilot selects the station(s) to be jettisoned on the FCP MPCD. This
+applies power; weapon and rack status are shown on a display similar to
+Figure D-28, left. If bombs are armed, the crew boxes SAFE and a
+strikeout appears through nonselected bombs. OFF reappears after ten
+seconds. Once the weapon(s) is taken to OFF, UNLK CONT is displayed
+after three seconds (Figure D-28, right). Nonselected stations will
+continue to show status even though OFF is boxed.
+
+Next, box UNLK CONT and UNLK replaces LOCK under the station.
+
+DOO sy) <
+
+©
+
+g
+=
+
+FUEL [B61-4] FUEL -8643 FUEL
+1 7 1 1 1
+
+LOCK LOCK
+
+UNLK ARM
+CONT ENAB
+
+|e) |e!
+
+AIG JETTISON AIG JETTISON
+
+a |
+n
+
+OC;
+=
+
+AGW-06-28
+
+Figure D - 28.
+
+D-31 AGW-6
+
+
+Text from AGW-6_Nuclear_PACS_page_38.jpeg:
+Jettison
+
+Pressing the JETT button completes the action. When the weapon
+separates from the aircraft, the station goes blank as in a normal release.
+UNLK CONT power goes off and the legend is removed from the display
+(Figure D-29). Stations not selected for jettison are then selectable (notice
+the strikeout of station RC has been removed).
+
+IUCN “(
+
+FUEL FUEL B61-3 FUEL \\
+1 1 1 1
+
+LOCK
+ARM
+ENAB
+
+AIG JETTISON
+
+AGW-06-29
+
+Figure D - 29.
+
+AGW-6 D - 32
+
+
+Text from AGW-6_Nuclear_PACS_page_39.jpeg:
+Safing
+
+The selective jettison mode includes a positive safing feature which
+prevents jettison when the weapon’s internal mechanism is not SAFE
+until safing has been attempted. If a selected weapon does not indicate
+SAFE, a display like Figure D-30 results. SAFE at PB #13 and SAFE
+STATUS UNSAT caution appears above PB #8 when A/G SEL JETT is
+selected. Further discussion of nuclear cautions are later in this
+workbook.
+
+You must box SAFE to apply safing power to the weapon. The display
+changes to the safe weapon format previously seen (Figure D-28, left) once
+the weapon reports SAFE to the PACS. The MON and OFF will appear
+10 seconds after selecting SAFE. Then turn the weapon off and unlock
+the rack, and the SEL JETT button becomes “hot.”
+
+FUEL FUEL B61-3. FUEL
+1 1 1 1 1
+
+LOCK LOCK
+ARM ARM
+ENAB ENAB
+
+A/G JETTISON
+
+CAUTION LC
+
+A SAFE STATUS UNSAT
+
+SEEEE
+
+Figure D - 30.
+
+AGW-06-30
+
+D - 33 AGW-6
+
+
+Text from AGW-6_Nuclear_PACS_page_4.jpeg:
+CRITERION REFERENCED OBJECTIVES (CROs)
+
+1. Perform prerelease functions of nuclear weapon loading,
+programming, and arming.
+
+2. Perform functions to release and jettison nuclear weapons.
+
+3. Perform nuclear training store functions to simulate nuclear weapons
+employment.
+
+4. Identify the meaning of nuclear caution messages.
+
+AGW-6 B-1
+
+
+Text from AGW-6_Nuclear_PACS_page_40.jpeg:
+Combat Jettison
+
+When nuclear weapons are present, the CMBT JETT programming option
+(PB #4) is removed from the top level PACS menu and a preprogrammed
+combat jettison option is available to jettison fuel tanks only (Gif on board).
+These preprogrammed selections cannot be changed by the aircrew.
+
+The combat jettison programs are displayed and available whenever
+CMBT JETT is selected on the FCP armament control panel
+
+(Figure D-31).
+
+The first push jettisons the centerline fuel tank, Station 5, if present.
+
+The second push jettisons fuel tanks on Stations 2, 5, and 8.
+
+FUEL
+1 1
+
+LOCK
+SAFE
+DISEN
+
+AUTO
+AIR
+
+TA
+
+RET 2
+FUNC B
+CD-H
+
+AIR
+
+CBT 1(C STORE
+CBT 2| CR STORE
+
+ON H
+FUEL
+1 1 1
+
+FUNC A
+
+CD-H
+
+TA RET 2
+STALC
+
+AGW-06-31
+
+Figure D - 31.
+
+AGW-6
+
+
+Text from AGW-6_Nuclear_PACS_page_41.jpeg:
+QUESTIONS
+
+To release an armed weapon it must be
+
+Boop
+
+armed only.
+
+armed and unlocked.
+
+armed and master arm on.
+
+armed, unlocked, and master arm on.
+
+Selective jettisoning of nuclear weapons differs from the release of
+nuclear weapons in which way?
+
+a.
+b.
+
+Any or all loaded stations may be jettisoned at one time.
+The weapon must have positive safing applied prior to
+separating from the aircraft.
+
+The nuclear consent switches are not operable in this mode.
+Only CFT stations can be selectively jettisoned.
+
+D- 35 AGW-6
+
+
+Text from AGW-6_Nuclear_PACS_page_42.jpeg:
+A/G JETTISON
+
+CAUTION RC
+SAFE STATUS UNSAT
+
+ice
+
+Figure D - 32.
+
+AGW-06-32
+
+3. Identify action necessary to continue the jettison procedure for the
+indicated weapon in Figure D-32.
+
+a. Deselect the RC.
+
+b. Safe the nuclear consent switches.
+c. Box SAFE.
+
+d. Deselect STORE.
+
+AGW-6 D - 36
+
+
+Text from AGW-6_Nuclear_PACS_page_43.jpeg:
+ANSWERS
+
+D - 37 AGW-6
+
+
+Text from AGW-6_Nuclear_PACS_page_44.jpeg:
+TRAINING
+
+The PACS has a feature that allows you to practice nuclear procedures
+with or without training stores loaded on the aircraft. For both modes any
+PAL code will work as long as the number of digits is correct.
+
+Without Training Stores
+
+To practice nuclear procedures without releasing practice weapons, box
+A/G TRNG on the ARMT menu and then select NUC LOAD or you can go
+to the NUC LOAD page first and then box TRNG at PB #15. Next,
+program the simulated load in the same manner as previously described
+for real weapons. Procedures for monitoring, enabling, arming, and
+releasing are identical to the real ones. Note that NUCLEAR TRAINING
+is always present on the PACS display (Figure D-33).
+
+a
+
+FUEL B61- FUEL B61-3 FUEL
+1 1 1
+
+NUCLEAR TRAINING
+
+MENU
+
++ EE
+
+AGW-06-33
+
+Figure D - 33.
+
+AGW-6 D - 38
+
+
+Text from AGW-6_Nuclear_PACS_page_45.jpeg:
+There are two other differences in this mode. First, the pickle button does
+not send a weapon release signal to the station. Instead, the PACS counts
+the number of “pickles” and deletes weapon symbology appropriately.
+When all simulated weapons are gone, RESET appears beside PB #3
+(Figure D-34). Pressing it reloads the PACS program and you can
+continue training.
+
+Bho a
+
+BIT FUEL FUEL FUEL
+1 1 1
+
+NUCLEAR TRAINING
+
+D
+
+5. UU
+
+AGW-06-34
+
+Figure D - 34.
+
+D - 39 AGW-6
+
+
+Text from AGW-6_Nuclear_PACS_page_46.jpeg:
+With Training Stores
+
+You can also practice nuclear procedures using training ordnance instead
+of the real bombs. The training weapons you can program are BDU-38s
+and MK-106/BDU-338s carried in a SUU-20.
+
+Loading
+
+The first step is to load the real weapon types and options that you want
+to simulate into the PACS. You use the procedures for real bombs; do not
+box TRNG. After the options are set you must unbox all the stations at
+the top of the display before the display looks like Figure D-35. Then
+press PB #7 to bring up the NUC TRAINING STORES LOAD format
+shown in Figure D-386.
+
+Vs B61-4 B61-3 \\
+1 1
+
+NONE NUC WEAPON LOAD TRNG
+
+B61-0 MENU
+
+TRNG
+
+STORES AJA
+\ LOAD LOAD /
+CS wy wy a
+
+AGW-06-35
+
+Figure D - 35.
+
+AGW-6 D - 40
+
+
+Text from AGW-6_Nuclear_PACS_page_47.jpeg:
+BDU-88
+
+If you have a BDU-38 on the left CFT, press PB #15 to box BDU-38 and
+then PB #19 for the station (Figure D-86). A boxed BDU-88 replaces the
+weapon quantity so you have a ready inventory of actual stores aboard.
+When you have finished loading, deselect the station to prepare to load the
+next station.
+
+/ B61-4 B61-3 \\
+1
+
+NUC TRAINING STORES LOAD
+
+MENU
+
+AJA NUC
+\ LOAD LOAD /,
+
+AGW-06-36
+
+Figure D - 36.
+
+D-41 AGW-6
+
+
+Text from AGW-6_Nuclear_PACS_page_48.jpeg:
+SUU-20
+
+You program the SUU-20 in the same manner as the BDU-38.
+Additionally, you must also program the training ordnance in the
+dispenser. Pressing PB #14 and then PB #16 brings up a format like
+Figure D-37.
+
+7, B61-4 B61-3 \
+BDU38 SUU20
+
+BDU38
+
+NUC TRAINING STORES LOAD
+
+2 MENU
+
+AGW-06-37
+
+Figure D - 37.
+
+AGW-6 D - 42
+
+
+Text from AGW-6_Nuclear_PACS_page_49.jpeg:
+Next, box a practice bomb type (MK-106, BDU-33), its positions in the
+SUU, and press ENTER. The bomb legend appears beside its sequence
+number under the selected station (Figure D-38). Do not load any stores
+other than the ones you want to drop as simulated NUCs. Other practice
+bombs in the SUU-20 can be dropped from the conventional PACS.
+Repeat for other practice bombs. Note: MK-106 is no longer available in
+the Air Force inventory. For retarded deliveries a BDU-38 must be used.
+TREL, TPULL, and TBURST shown for a BDU-38 will be significantly
+different than a high drag weapon.
+
+Remember that practice bombs come out of a SUU-20 in order, 1 through
+6; this cannot be altered.
+
+NUC TRAINING STORES LOAD
+
+MENU
+
+AGW-06-38
+Figure D - 38.
+
+Release
+
+Procedures for releasing practice bombs are the same as for real nuclear
+weapons.
+
+When RDY is displayed, verify the priority program at PB #5 matches the
+selected station. Toggle PB #5 if required. A mismatch could cause
+incorrect delivery computations.
+
+D - 48 AGW-6
+
+
+Text from AGW-6_Nuclear_PACS_page_5.jpeg:
+STUDENT PREPARATION REQUIREMENTS
+
+BEFORE THE CBT CLASS
+
+Read the text of this workbook, Section D.
+
+C-1 AGW-6
+
+
+Text from AGW-6_Nuclear_PACS_page_50.jpeg:
+Dry Run/Tone
+
+Two other training-only options are available when you move the master
+arm to ARM in the delivery sequence; they are TONE and DRY RUN
+(Figure D-39).
+
+Boxing TONE causes a tone to be produced from UHF #1 when either
+pickle button is held depressed; it stops when the PACS receives the CC
+release signal. It can be used for radar bomb scoring (RBS) or with
+weapons release.
+
+DRY RUN inhibits actual weapon release but causes the display to react
+as if release had occurred. The priority weapon legends drop off but can
+be reinstated by unboxing DRY RUN. This feature lets you make a
+practice run before actual release.
+
+/ F
+
+Veh GGT
+
+BIT
+
+AGW-6
+
+TONE
+
+WY
+
+NUCLEAR TRAINING
+
+= BDU38 SUU20
+UNLK UNLK LOCK
+CONT ARM ARM
++ ENAB ENAB
+-——
+DRY
+RUN LOFT 0 AT 0°
+TARM 0.0 SEC CT RO'
+
+SAFE
+
+Figure D - 39.
+
+ee _-L,{— B
+- PEEEEI
+®
+
+|
+(OIOIOIOIOR
+
+AGW-06-39
+
+
+Text from AGW-6_Nuclear_PACS_page_51.jpeg:
+QUESTIONS
+
+To use the training PACS for nuclear weapons training with no
+training stores,
+
+a. box TRNG on the NUC LOAD ARMT menu and then load in the
+same manner as real weapons.
+. both A/A ;and A/G training must be boxed on the ARMT menu.
+c. load weapons in the combat PACS and then box TRNG on the
+NUC LOAD page.
+d. box A/G TRNG on the upper level ARMT menu and then load in
+the same manner as real weapons.
+
+When simulating nuclear weapons with training stores on the
+aircraft,
+
+a. load the SUU-20 or BDU-38 first in the combat NUC LOAD
+menu and then identify the simulated nuclear weapon.
+
+b. load the simulated nuclear weapon in the combat NUC LOAD
+PACS and then identify the training store.
+
+c. load the nuclear weapon in the training PACS and the aircraft
+will release the training store.
+
+d. load the training store in the training PACS and the nuclear
+weapon in the combat PACS.
+
+To practice retarded deliveries with training stores
+
+you must have a MK-106 or BDU-38 in the SUU-20.
+
+you must have a BDU-33 in the SUU-20.
+
+you must use a BDU-38 (MK-106s are no longer available).
+you can use any training store.
+
+no op
+
+D- 45 AGW-6
+
+
+Text from AGW-6_Nuclear_PACS_page_52.jpeg:
+ANSWERS
+
+1. aord
+2 b
+3. Cc
+
+AGW-6 D - 46
+
+
+Text from AGW-6_Nuclear_PACS_page_53.jpeg:
+NUCLEAR CAUTIONS
+
+The F-15E caution system alerts you to abnormal conditions involving
+loaded nuclear weapons. During operations the PACS continuously
+monitors the nuclear loaded stations and, if a caution situation occurs, it
+immediately notifies you via the MASTER CAUTION and NUCLEAR
+CAUTION lights in each cockpit. The caution is also written on the PACS
+display. If more than one caution occurs, the one of highest priority is
+shown. Ifa similar condition is present at more than one station, then the
+caution for the station which has highest priority for release is displayed.
+A typical nuclear caution legend is shown in Figure D-40.
+
+FUEL FUEL -B64-3-
+1 1
+
+1
+LOCK LOCK
+ARM
+ENAB ENAB
+
+LOFT 0
+TARM 0.0 SEC
+
+CAUTION LC
+\ SAFE STATUS UNSAT J
+
+AGW-06-40
+
+Figure D - 40.
+
+In this case, the LC station did not properly arm after the 60 second USG
+countdown. The crew deselected the RC to keep it armed and then
+selected SAFE. The weapon did not safe within 20 seconds and the
+caution remains. The next step would be to select OFF and return to base
+or selective jettison the weapon.
+
+D - 47 AGW-6
+
+
+Text from AGW-6_Nuclear_PACS_page_54.jpeg:
+The caution legends, their meaning, and priority are listed in Table D-1.
+
+PRIORITY
+
+AGW-6
+
+CONDITION
+
+MAU RELEASE NO. 1/NO. 2 SIGNAL PRESENT TO ANY NUC STATION
+AND A/G RELEASE OR JETTISON IS NOT COMMANDED.
+
+RACK UNLOCK MONITOR IS PRESENT FROM THE PRIORITY STATION
+AND UNLK CONT HAS NOT BEEN COMMANDED - OR THE RACK
+UNLOCK MONITOR IS PRESENT FROM ANY STATION NOT IN
+PRIORITY OR SELECTED FOR JETTISON WITH UNLK CONT
+COMMANDED.
+
+WEAPON ARM STATUS OR WEAPON NOT-SAFE STATUS PRESENT AND
+20 SEC OR MORE HAS ELAPSED SINCE SAFE MODE COMMANDED FOR
+A SELECTED STATION - OR WEAPON ARM STATUS AND/OR WEAPON
+NOT-SAFE STATUS IS PRESENT AND PREARMING HAS NOT BEEN
+PERFORMED - OR WEAPON ARM STATUS AND WEAPON SAFE STATUS
+OR WEAPON NOT-ARM AND WEAPON NOT-SAFE STATUS ARE
+RECEIVED SIMULTANEOUSLY.
+
+NOTE
+CAUTION INHIBITED FOR SELECTED STATIONS DURING THE
+60 SECOND ARMING/USG COUNTDOWN PERIOD.
+STATION IDENTIFIED DURING WEAPON LOADING AS HAVING A
+NUCLEAR WEAPON ABOARD DOES NOT RETURN ID MONITOR TRUE
+IN MON, SAFE, ARM MODES AND MAU STORE PRESENT SIGNAL IS
+PRESENT.
+
+WEAPON RELEASE SIGNAL FROM CC IS RECEIVED BY THE PACS AND
+THE WEAPON RELEASE SWITCH SIGNAL IS NOT PRESENT.
+
+NOTES
+
+Table D - 1.
+
+D - 48
+
+LEGEND
+
+CAUTION
+
+MAU RELEASE COMMANDED
+
+CAUTION X
+RACK UNLOCK
+
+CAUTION X
+
+SAFE STATUS UNSAT
+
+CAUTION X
+STORE CONFIG UNSAT
+
+CAUTION COMPUTED RELEASE
+
+COMMANDED
+
+[1> MAU REFERS TO GENERATED SIGNAL, NOT SUSPENSION EQUIPMENT
+[Z> X REFERS TO STATION(S) WITH CAUTION CONDITION
+
+
+Text from AGW-6_Nuclear_PACS_page_55.jpeg:
+QUESTIONS
+
+1. The nuclear caution legend, MAU RELEASE COMMANDED,
+indicates
+
+a. weapon ARM status present but prearming has not been
+performed.
+store present signal present does not indicate a nuclear weapon.
+
+c. release signal present at the rack but release/jettison has not
+been commanded.
+
+d. suspension equipment was jettisoned.
+
+D - 49 AGW-6
+
+
+Text from AGW-6_Nuclear_PACS_page_56.jpeg:
+ANSWERS
+
+AGW-6 D- 50
+
+
+Text from AGW-6_Nuclear_PACS_page_57.jpeg:
+AMAC
+
+CDIP
+
+CFT
+
+FCP
+
+LC
+
+MAU
+
+NUC
+
+PAL
+
+RBS
+
+RC
+
+USG
+
+GLOSSARY
+
+Armament monitor and control (PACS PBs #12-15)
+
+Center (station 5)
+
+Continuously displayed impact point
+
+Conformal fuel tank
+
+Front cockpit
+
+Left (station 2)
+
+Left conformal
+Miscellaneous arming unit
+Nuclear
+
+Permissive action link
+Right (station 8)
+
+Radar bomb scoring
+
+Right conformal
+
+Unique signal generator
+
+AGW-6
+
+
+Text from AGW-6_Nuclear_PACS_page_58.jpeg:
+BACK PAGE
+COVER SHEET
+
+
+Text from AGW-6_Nuclear_PACS_page_6.jpeg:
+(This Page Intentionally Blank)
+
+AGW-6 C-2
+
+
+Text from AGW-6_Nuclear_PACS_page_7.jpeg:
+TEXT
+GENERAL
+
+The PACS display on a MPD/MPCD is the primary means of controlling
+and monitoring nuclear weapons in the F-15E. It can be called up and
+operated from either cockpit which gives great flexibility. Some
+traditional switches are still used, such as the nuclear consent switches
+for two-man control.
+
+The objective of the following information is to explain the meaning of the
+numerous nuclear display formats and symbology. To do this, you will be
+taken through a typical sequence of events for a nuclear operation. The
+“how to” aspect is the primary thrust in the CBT lesson.
+
+A typical mission configuration might be as depicted in Figure D-1 with
+three external fuel tanks and two nuclear weapons on the CFT stations.
+This is the load you will see on subsequent nuclear PACS displays in this
+lesson.
+
+AGW-06-01
+
+Figure D - 1.
+
+D-1 AGW-6
+
+
+Text from AGW-6_Nuclear_PACS_page_8.jpeg:
+SWITCHES
+
+The switches required for nuclear weapons operations that are not
+integrated into the PACS display are detailed below and shown in
+Figure D-2.
+
+Master Mode Select
+
+To deliver any air-to-surface weapon you must select the A/G master
+mode. Changing to other master modes locks the racks.
+
+Emergency Jettison Select Switch
+
+The “panic” button releases the priority weapon on a CFT station if the
+rack has been unlocked. The weapon may be jettisoned armed. Any
+conventional weapons that are carted on any station will also be
+jettisoned.
+
+Armament Control Panel
+
+ALTN REL - provides an alternate means to release a nuclear weapon
+which is armed, unlocked, and otherwise ready.
+
+A/G SEL JETT - allows selective jettison of nuclear weapons in a safe
+condition.
+
+MAN FF, MAN RET - these modes are inhibited with nuclear weapons on
+board and will cause all stations to deselect, lock, and remove power from
+the bomb interface. The pilot must exit manual settings and restart the
+entire nuclear arming sequence.
+
+COMBAT - provides a preprogrammed combat jettison mode for the fuel
+tanks if they are on board. The first push jettisons the centerline tank.
+The second push jettisons the wing tanks.
+
+JETT BUTTON - initiates the selected mode.
+
+MASTER ARM - provides power to deliver a weapon.
+
+AGW-6 D-2
+
+
+Text from AGW-6_Nuclear_PACS_page_9.jpeg:
+Nuclear Consent Switches
+
+These guarded switches, one in each cockpit, have three positions:
+
+SAFE - either switch in SAFE deenergizes arming and release
+circuitry. Allows the guard to be closed for safety wiring.
+
+ARM - both switches in ARM energizes arming and release circuitry.
+JETTISON ENABLE - deenergizes arming and energizes release
+circuitry, and provides rack unlock consent to the PACS. All weapons
+must be released in a SAFE condition. Enabling combinations:
+
+e onein JETTISON ENABLE, one in ARM
+
+e bothin JETTISON ENABLE
+
+e both in ARM
+
+D-3 AGW-6
+
+

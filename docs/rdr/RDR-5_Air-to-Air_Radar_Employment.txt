@@ -1,0 +1,1724 @@
+Text from RDR-5_Air-to-Air_Radar_Employment_page_1.jpeg:
+SUPPORTS COURSES
+FIS5EBQ
+FISETX
+
+ACADEMIC STUDENT WORKBOOK
+F-15E
+
+AIR-TO-AIR RADAR
+RDR-5
+AIR-TO-AIR RADAR EMPLOYMENT
+
+JULY 1998
+
+(SUITE 3 OFP)
+
+AIR COMBAT COMMAND
+
+
+Text from RDR-5_Air-to-Air_Radar_Employment_page_10.jpeg:
+Obviously, for any given scan rate, the frame time is inversely
+proportional to the frame’s azimuth and elevation parameters. Sixty
+degree azimuth scan provides one half the frame time of 120° azimuth
+scan; 2-bar elevation scan provides one half the frame time of 4-bar. Let
+us look at a few data points, remembering that for interleaved pulse
+repetition frequency (IPRF) search, 2 frames are required to insure both
+medium pulse repetition frequency (MPRF) and high pulse repetition
+frequency (HPRF) coverage of the entire search volume.
+
+Frame Time and Range Scale Selection
+
+Range while search (RWS) provides a faster scan rate at short range (90°
+per second on the 10 nm or 20 nm range scale) where a faster refresh rate
+is more important. The longer display ranges (40,80 or 160 nm range
+scales) provide a slower scan rate (longer dwell time). Six-bar/120°
+azimuth on the longer range scales provides a frame time of about 10
+seconds. Two frames (required for IPRF) take about 20 seconds. At the
+shorter ranges you would likely be using 60° azimuth and MPRF (so that
+only one frame is required). This situation provides a four second frame
+time.
+
+Frame Time and Mode Selection
+
+Range gated high (RGH) and track-while-scan (TWS) use this same logic,
+providing slower or faster scan rates, depending on range scale selection.
+RGH uses a PRF lower than RWS HPRF, so it uses a slower scan rate (for
+longer dwell time) and hence a longer frame time than RWS (for the same
+search volume). TWS, at longer ranges, needs a slower scan rate (50°/sec)
+because of the additional processing time it requires, but keeps the frame
+time acceptable by using smaller search volumes. Note that HDTWS
+
+(2- or 3-bar/30°) provides a fast frame time for quickly building track files
+and refreshing maneuvering targets, attributes usually desirable during
+the sorting process. Lastly, note that (search) sort (30° azimuth scan)
+pairs elevation bar scans with ranges to provide appropriate altitude
+coverage (more elevation bars on the shorter range scales) while it
+provides fast frame times, desirable during the sorting process.
+
+RDR-5 D-4
+
+
+Text from RDR-5_Air-to-Air_Radar_Employment_page_11.jpeg:
+Search Altitude Coverage
+
+The radar’s altitude coverage is based on range from the aircraft, the
+radar’s 2.5° beam width, elevation bar selection and elevation bar spacing.
+
+MODE RANGE (ELEVATION BAR | ANGULAR
+SELECTED SCALE BARS SPACING | DEGREES
+
+RWS /RGH/VS/VCTR| 40/80/160 1 NIA | 2.5
+7 | 40/80/1460 1.0 | a5
+| 40/80/4160 1.0 | 5.5
+[| 40/80/1680 | 6 1.0 75
+40/80/1680 | & 1.60 $5
+10/20 |SAME ABOVE SAME ABOVE|SAME ABOVE
+10 NA 25
+10 3.4 5.9
+10 3.4 12.7
+10
+10
+20:
+20:
+20
+20:
+
+34
+MA,
+2.5
+25
+25
+2.5
+
+26.3
+25
+5.0
+
+|
+3.4 19.5
+
+GO) Gp) fe) Ra) =e | Go) oa) fe) A] ae
+
+60° TWS
+30° TWS
+HDT (30°)
+15° TWS
+
+3.4 26.3
+2.5 46.9
+15-25 7.0-10.0
+80 7160 1.0 3.5
+
+RDR-05-02
+
+Figure D - 3. Search Altitude Coverage.
+
+D-5 RDR-5
+
+
+Text from RDR-5_Air-to-Air_Radar_Employment_page_12.jpeg:
+In the search modes [(RWS, RGH, velocity search (VS) and vector (VCTR)]
+the elevation bar selection is at aircrew discretion. The radar designers
+provided for wider angular elevation coverage at shorter range scales (to
+ensure sufficient altitude coverage) by increasing the bar spacing in all
+modes except VCTR.
+
+Although the radar altitude coverage (at the acquisition symbol range)
+can be determined directly from the radar (digital readout at the
+acquisition symbol and the altitude coverage circles), still consider the
+following rules of thumb (RWS, RGH, VS, VCTR), based on range scale
+selection.
+
+P| > 40 RANGE 20 RANGE 10 RANGE
+a a
+
+600 FT / NM 1000 FT / NM 1300 FT / NM
+
+800 FT / NM 1600 FT / NM 2000 FT / NM
+
+RDR-05-03
+
+Figure D - 4. Elevation Coverage Rules of Thumb.
+
+Hence, during long range search with 6-bar elevation scan, the altitude
+coverage at 25 nm from the aircraft would be 20,000 feet.
+
+Another method for computing altitude coverage at a given range is:
+e >40nm display range: (bars + 2 x range x 100)
+e = [(6+ 2) x 25 x 100] = 8 x 25 x 100 = 20,000 ft
+
+e 20nm display range: (bars + 2 x scribe number x 100)
+(Figure D-5)
+
+e [(+2)x3x 1000] =8x3x 1000 = 24,000 ft
+
+RDR-5 D-6
+
+
+Text from RDR-5_Air-to-Air_Radar_Employment_page_13.jpeg:
+RDR-05-04
+
+Figure D - 5. 20 nm Range Elevation coveage.
+
+THE S’s FOR SUCCESS
+
+For years, aviators trying to learn to efficiently employ the APG-70 have
+found it useful to break the big picture down into a series of tasks.
+
+SEARCH | SAMPLE | SANITIZE | SORT SHOOT | SHOOT | RANGE
+
+RWS RWS (H/M/)) /M/1) RWS —Rwsi RWS (Mm) (M) RWS RWS (mM) |
+
+RGH HIGHLIGHT =| HIGHLIGHT SORT AUTO GUNS
+
+vs TWS (ND) TWS SORT Ss
+
+TWS (D)
+
+HDTWS
+
+DTT
+
+RDR-05-05
+
+Figure D - 6. The S’s For Success.
+
+D-7 RDR-5
+
+
+Text from RDR-5_Air-to-Air_Radar_Employment_page_14.jpeg:
+Even experienced aviators return to this concept over and over, albeit
+sometimes subconsciously. With experience, the tasks become more
+second nature. The beginner, however, should constantly ask: “What, at
+this moment, am I trying to accomplish and am I using the appropriate
+radar modes and radar options to best achieve the results I want, under
+the current set of circumstances?” These tasks are commonly referred to
+as the S’s for success. They are search, sample, sanitize, sort, shoot, and
+short range. “Survive” is frequently added between shoot and short range.
+Shoot, survive and short range will be addressed in great detail during the
+air-to-air weapons (AAW) and air-to-air maneuvering (AAM) workbooks,
+lectures and CBT lessons. For now, we will limit the discussion to search,
+sample, sanitize and sort.
+
+Search
+
+This task involves finding an aircraft (target). In a patrol situation, the
+aircrew searches a desired (or assigned) volume of airspace. In a multi
+aircraft formation the larger volume of airspace is usually divided among
+the aircraft as a function of altitude at a given range. For example,
+members of a two ship formation may search surface to 20,000 feet at 25
+miles and 18,000 to 38,000 at 25 miles. With no information about
+possible targets, the search is generally performed in 120° azimuth scan
+and 40 or 80 mile radar range scale.
+
+Sample
+
+The objective of sampling is to obtain all the information you can about a
+particular target or targets so you can decide upon the best course of
+action to achieve the desired results. Desired information includes
+altitude, airspeed, heading and aspect. You will maneuver your
+aircraft/formation based on this information. Sampling is generally
+accomplished using a radar track mode, like single target track (STT),
+dual target track (DTT), or designated track-while-scan (DTWS).
+Highlight can also be used for sampling because it provides track
+information, but it is generally considered a search (vice track) mode.
+
+RDR-5 D-8
+
+
+Text from RDR-5_Air-to-Air_Radar_Employment_page_15.jpeg:
+Sanitize
+
+With the sampled target information in hand, use the radar’s search
+capabilities to determine if there are other aircraft or groups of aircraft in
+addition to the originally sampled target or target formation. Sample any
+new radar targets. You may periodically resample previous targets, as
+you need more information about target maneuvering or the progress of
+the intercept. Deciding which target/formation is of primary concern is
+referred to as targeting.
+
+Sort
+
+Sorting is the process of determining how many aircraft are in a formation
+(group) and the spatial relationships of the targets to one another. In
+classic terminology “the sort” involves ensuring members of your
+formation employ ordnance against different members of the target
+formation. “The sort” is generally accomplished at a range that is
+mutually understood by members of the attacking formation (and just
+prior to employing ordnance).
+
+SEARCH
+
+Range-While-Search (RWS)
+
+RWS is the most widely used search mode because of the variety of
+available options (particularly medium, high and interleaved PRF) and
+
+the flexibility of elevation bar and azimuth scan, 120/60 and 30 (search
+sort).
+
+e = AAIT/KID symbols @ Mode/BIT window
+e Bearing range/bullseye e Sampled TGT
+e Elevation coverage circles e EL coffin
+e Digital altitude
+e Digital elevation coverage e = Slow/fast cue
+e Azimuth scan circles e Target symbology
+
+e §6©Range limited TGT cues
+
+D-9 RDR-5
+
+
+Text from RDR-5_Air-to-Air_Radar_Employment_page_16.jpeg:
+RDR-05-06
+
+Figure D - 7. Search Cues in RWS.
+
+Initially, the aircrew should ensure that the briefed (or appropriate) long
+range search (LRS) is selected (40 nm or 80 nm range, INLV, 6-bar
+elevation scan, 120° azimuth scan). The aircrew sets the acquisition
+symbols at the briefed/appropriate range (commonly 25 nm) and sets the
+antenna elevation to provide the desired altitude coverage. If the bar scan
+does not cover the required altitude, the aircrew must manually move the
+antenna elevation. For example, if surface to 30,000 feet coverage is
+required while the 6-bar elevation scan covers only 20,000 feet, the
+aircrew can alternate coverage of surface to 20,000 then 10,000 to 30,000.
+While using INLV, two frames (20 seconds if 6-bar/120° sweep) are
+required before changing the antenna elevation. As the radar searches,
+the aircrew can use AAI/EID to detect the presence of a target. If GCI
+calls a target, maneuver the aircraft so the GCI reference is within the
+azimuth search volume. Using the GCI provided information, the aircrew
+can decrease the elevation bars and azimuth scan and select MED or HI
+PREF (if appropriate) to help the radar find the target more quickly.
+
+RDR-5 D-10
+
+
+Text from RDR-5_Air-to-Air_Radar_Employment_page_17.jpeg:
+Place the acquisition symbols at the GCI referenced (or AAI/EID) location
+and center the elevation/azimuth coverage on the target location. Once
+the radar target appears, even the search cues will provide a lot of
+“sample information.”
+
+Placing the acquisition symbols over the target provides a better idea of
+target altitude (coffin and digital readout) and digital readouts of target
+relative bearing/range and bullseye bearing/range. Further sample the
+target, if desired, by entering a track mode, but regardless, when
+returning to search, be sure to reset the search radar parameters.
+LRS/SRS switchology will reset display range, elevation bar and PRF to
+the memorized settings.
+
+The aircrew must manually reset the azimuth sweep and reset the
+altitude coverage by placing the acquisition symbol at the appropriate
+range and resetting the antenna elevation.
+
+As you review the search target symbology (Figure D-8) remember that
+four radar hits are required for the radar to upgrade targets to vectored
+track files.
+
+HALF INTENSITY TARGET (OBSERVATION TGT) (1 HIT)
+
+mmm FULL INTENSITY TARGET (CURRENT BAR) (2 HITS)
+W HOT TARGET (2 HITS)
+
+A. COLD TARGET (2 HITS)
+
+= VECTORED TRACK FILE (4 HITS)
+
+an VECTORED TRACK FILE (4 HITS)
+
+RDR-05-07
+
+Figure D - 8. Search Target Symbology.
+
+D-11 RDR-5
+
+
+Text from RDR-5_Air-to-Air_Radar_Employment_page_18.jpeg:
+Hot/Cold Search
+
+mZ0
+
+F
+L
+fe)
+fe)
+D
+R
+Cc
+D
+
+2 RGH
+
+1 _W
+G485 180-025
+| | vs
+
+RDR-05-08
+
+Figure D - 9. Hot/Cold Search.
+
+Hot/cold search (Figure D-9) is available in all normal search modes
+(including TWS and highlight) except velocity search or TWS sort. In HI
+search, only hot symbology is displayed and only for targets with greater
+than 300 knots radial closure (Rc). Search cues available include:
+
+e Available in RWS, RGH, VCTR, TWS, and Highlight
+e N/Ain VS or TWS sort
+e Symbology
+
+e W »>11AA (and Re logic)
+
+e A <7AA (and Rc logic)
+e mi =8-10AA
+
+RDR-5 D-12
+
+
+Text from RDR-5_Air-to-Air_Radar_Employment_page_19.jpeg:
+In MED search or RGH, both hot or cold symbology is available and the
+radial closure requirement is 200 knots (positive for hot symbology and
+negative for cold symbology). In RWS and medium range missile (MRM)
+selected with the FCP weapons select switch, upgraded TWS background
+processing is available which can display upgraded hot/cold symbology in
+the form of filled-in rectangles with short heading vectors, like TWS
+nondesignated target symbols. If RWS, range gated high, or vector scan
+search modes are entered from TWS or STT, the radar retains the TWS or
+STT track files as background track files [the nondesignated
+track-while-scan (NDTWS) symbology]. Up to 10 TWS background
+targets can be displayed and are aged out using normal track file deletion
+logic. In short, hot/cold search forces the radar to provide target heading
+information faster than you might otherwise have it. Only two hits are
+required for hot/cold symbology, but four correlated hits are required for
+vectored rectangle symbology.
+
+Range Gated High (RGH)
+
+RGH is selected by boxing RGH at PB #7. It is designed to provide a
+longer range all-aspect capability using smaller range bins and slower
+scan rates than RWS for improved range resolution (even better than
+MPRF RWS) and improved long range, all aspect tracking capability.
+Overall, it is mechanized and utilized much like RWS (display ranges,
+elevation bars, frame store, azimuth scans, target symbology, etc.) but
+using a fixed PRF which is between RWS medium PRF and high PRF. It
+works like MPRF, in that it provides both hot and cold target symbology.
+Search cues and target symbology are like RWS (Figures D-7, D-8, and
+D-9) except there is no range limited target capability. RGH ignores the
+radar ground moving target reject (GMTR) setting and uses a fixed 88
+knot beam notch (like GMTR HI). Range scale selections greater than 40
+nm use HPRF-like power, long pulse and a 50°/second scan rate (for long
+range detection). The 10 nm and 20 nm range scales use short pulse and
+a 70° scan rate (for more accurate ranging and faster frame times for
+maneuvering targets).
+
+D-13 RDR-5
+
+
+Text from RDR-5_Air-to-Air_Radar_Employment_page_2.jpeg:
+ADMINISTRATIVE INFORMATION
+
+This student workbook is designed to provide information on the F-15E,
+its systems, and capabilities. It is not a sole source document, but is to be
+used in conjunction with other standard Air Force publications and
+technical manuals. If you find any differences between the material
+contained herein and other governing regulations, adhere to the
+regulations and notify the OPDR.
+
+Changes to this workbook are indicated with a heavy black line in the left
+margin.
+
+Forward recommendations for revision or change to 4 TS, SJAFB, NC,
+275381.
+
+Supersedes: RDR-5E, April, 1996
+
+OPDR: 4TS
+
+Index of Changes
+
+Effective Date Pages Affected
+
+
+
+Text from RDR-5_Air-to-Air_Radar_Employment_page_20.jpeg:
+High false alarm rates (birds) make RGH an undesirable mode at low
+altitude, so by design, the radar exits RGH (to RWS INLV) below 4,000
+feet AGL (and reenters RGH when above 4,500 feet AGL). Against frontal
+targets, RGH has a shorter detection range than RWS-HI, but longer than
+RWS-MED. Detection range against tail targets with opening velocity is
+comparable to RWS-MED, but shorter against tail targets with no closure
+(or opening velocity). RGH might be beneficial if the radar has high or
+medium PRF malfunctions or against low aspect targets at longer ranges,
+but generally its liabilities outweigh its advantages compared to RWS.
+
+If RGH is selected and the aircrew selects TWS, the radar continues to use
+the RGH waveform. If a track mode (STT, DTT) is entered with RGH
+selected, the radar returns to RGH search when the radar exits track
+(breaks lock or the aircrew mode rejects to search).
+
+Velocity Search (VS)
+
+VS is entered by “boxing” PB #8 on the radar display. It presents targets
+in an azimuth/radial closure format, instead of the normal azimuth/range
+format.
+
+VS provides no target altitude or target range information. It is very
+susceptible to false targets (birds) particularly at low altitude or with
+look-down situations. The scope range is provided only for assessing radar
+altitude coverage (at the acquisition symbol range), and both the altitude
+coverage circles and digital altitude coverage are provided. Hot/cold
+target symbology and AAI/EID capability are not available, nor is bullseye
+bearing and range (BBR).
+
+By locking the target, the aircrew can obtain track capability with an
+allowable steering error (ASE) circle and steering dot that provide pure
+pursuit steering (to put the target on the fighter’s nose). In VS track, no
+other track information including weapons cues are provided. When the
+radar is able, it will enter full STT and provide normal STT track and
+weapons information. The aircrew needs to remember that with a return
+to search from track entered from VS (even STT) the radar returns to VS.
+If the aircrew desires RWS, they must manually select it.
+
+RDR-5 D-14
+
+
+Text from RDR-5_Air-to-Air_Radar_Employment_page_21.jpeg:
+Although VS provides only minimal target detection range improvement
+over RWS-HI, VS track along with GCI provided target information
+(range, heading, altitude) can aid in the successful employment of
+weapons against a very high and fast target.
+
+This concludes our discussion concerning searching for a target.
+RWS-INLYV is the most useful and most used search mode because of its
+flexibility and all aspect capabilities. RGH, VS and VCTR [see the RDR-6
+workbook or TO 1F-F15E-34-1-1-1 (classified) for VCTR] are less flexible
+and generally less useful except under special circumstances.
+
+MODES USED FOR SAMPLING
+
+Although a great deal of target information can be determined in the
+search modes, particularly RWS, by tracking the target in the sample
+modes the radar provides more accurate target information plus
+additional target information in the forms of target altitude, true airspeed
+(TAS), aspect, heading, intercept steering and weapons employment
+information (the weapons employment zone or “WEZ”). Sample (track)
+modes include STT, DTT, DTWS and highlight.
+
+Single Target Track (STT)
+
+The advantage of STT is that it provides the best, purest and most reliable
+information to the aircrew (and to medium range missiles—
+AIM-7/AIM-120). Its disadvantage is that it renders the radar (and the
+aircrew) blind to any other targets, and is the mode most likely to provide
+the target with the best cockpit warning. Figure D-10 shows the track
+cues available in most track modes.
+
+D-15 RDR-5
+
+
+Text from RDR-5_Air-to-Air_Radar_Employment_page_22.jpeg:
+*
+
+14 iV
+G575 285-075 AT 25 SEC T1560
+
+RDR-05-09
+
+Figure D - 10. Track Mode Cues (STT).
+
+e  Bearing/range and bullseye bearing range (BBR)
+e To STT/PDT
+e Target ID
+¢ © /Xor multiple cues (ambiguity)
+e Target info
+e ALT/Vc/TAS/AA/HDG
+e Acq symbol
+e STT -in MRM only
+
+e Multitarget cue (rectangle)
+
+RDR-5 D-16
+
+
+Text from RDR-5_Air-to-Air_Radar_Employment_page_23.jpeg:
+The acquisition symbol is available in all the track modes, but in STT it is
+only displayed with MRM selected on the FCP weapons select switch. In
+STT (MRM) the acquisition symbol allows the aircrew to bump out to
+increase the range scale. In the other track modes the acquisition symbol
+allows the aircrew to “bump” to change azimuth scan or range (in or out).
+
+From STT, if the radar itself breaks lock or the aircrew returns to search,
+last track data is displayed at the upper left of the grid scale, as altitude
+and aspect (vice TAS, aspect and heading while in track). This last track
+data is displayed for 10 seconds or until a track mode is entered,
+whichever happens first. The new track data takes precedence over the
+last track data. Whenever the radar exits track, the radar antenna
+remains at the last track elevation until the aircrew manually moves the
+elevation or returns it to level (FCP weapons switch to guns; RCP auto
+acquisition switch forward or aft). An exit from STT to a search mode
+clears the target. The radar must gather the information required to
+display the previously tracked target (and any other targets) as
+observation, confirmed, hot/cold, vectored track files or range limited
+targets.
+
+Track-While-Scan (TWS)
+
+For a scanning radar, the target update data rate depends on the frame
+time, which determines the time between consecutive illuminations of a
+specific point in space. Tracking of several targets becomes largely a
+matter of sorting target hits obtained in each radar frame and assigning
+them to proper target tracks. These tracks form the basis of estimating
+future target positions until the target data can be refreshed. The process
+of tracking targets based on discrete radar information obtained while the
+radar continues to scan a search volume is referred to as track-while-scan
+(TWS) and is accomplished in the digital computer.
+
+D-17 RDR-5
+
+
+Text from RDR-5_Air-to-Air_Radar_Employment_page_24.jpeg:
+TWS offers the advantages of a hybrid search/track capability. In
+nondesignated TWS the aircrew has the advantage of full range of motion
+in azimuth and elevation of the selected TWS scan pattern. In designated
+TWS (DTWS) the aircrew has the advantage of having the radar keep
+track of a selected target [the primary designated target (PDT)], but the
+aircrew has only limited ability to position the TWS azimuth scan pattern
+and limited (and in some cases no) ability to position the TWS scan
+pattern in elevation. TWS has less flexibility than RWS, because it
+marries an elevation bar scan and an azimuth scan, rather than
+elevation/azimuth being individually selectable by the aircrew. The
+aircrew selected range, GMTR and PRF (including RGH) are utilized in
+TWS, however the elevation bar setting is ignored until TWS is exited.
+The TWS abbreviations can be confusing. “IT'WS” is understood as normal,
+vice High Data (HDTWS). TWS and HDTWS can be nondesignated
+(“ND’TWS/”ND”’HDTWS) although the “ND” is normally used only when a
+distinction is required between nondesignated and designated TWS. TWS
+and HDTWS can be designated (DTWS/DHDTWS). Finally, TWS sort can
+be a submode of all the above (Normal/High Data - TWS Sort/HDTWS
+Sort) and designated or nondesignated (TWS Sort, DTWS Sort, HDTWS
+Sort, DHDTWS Sort).
+
+TWS offers the following advantages:
+e Multi target detection
+e Multi target track (DTWS)
+e Rapid target altitude sampling (DTWS)
+e Possible reduced target RWR (vice other track modes)
+e STT-like data on the Primary Designated Target (DTWS)
+
+e Sets of scan volumes (elevation/azimuth): 2-bar/60°, 4-bar/30°,
+6-bar/15°
+
+e Plan view of target formations (DTWS)
+
+e High data mode for maneuvering targets (HDTWS): 2-bar/30°
+or 3-bar/30°
+
+e Established track files beyond display range are maintained
+
+e INLV PRF is mechanized based on display range in TWS or PDT
+range in DTWS
+
+RDR-5 D-18
+
+
+Text from RDR-5_Air-to-Air_Radar_Employment_page_25.jpeg:
+TWS induces the following limitations:
+e Track data is not STT (or DTT) quality
+
+e Elevation/azimuth scan sets can limit search flexibility
+(particularly in designated TWS)
+
+e Slower AAI/EID capability versus STT/DTT (no AAI/EID
+capability in Narrow—6-bar/15°)
+
+e Susceptible to target maneuvering, particularly at closer target
+range
+
+TWS HOTAS
+
+TWS can be entered from any search mode except VS, including visual
+auto acquisition modes except guns search, and from any track mode
+except VS track. If entered from a search mode, the radar enters
+nondesignated TWS. If entered from a track mode, the radar enters
+designated TWS (DTWS).
+
+The following addresses TWS entry switchology:
+e From search:
+
+e miniraster (over space) + auto acquisition switch forward
+enters HDTWS (forward < 1 second enters 3-bar/30°;
+forward > 1 second enters 2-bar/30°)
+
+e  miniraster + auto acquisition switch aft enters TWS
+
+e From track (STT, DTT, or Highlight):
+
+e auto acquisition switch forward enters DHDTWS
+(< 1 second for 3-bar; > 1 second for 2-bar)
+e auto acquisition switch aft enters DTWS
+
+e InTWS:
+
+e Auto acquisition switch forward selects HDTWS
+(> 1 second/< 1 second logic)
+
+e 3-bar HDTWS and auto acquisition forward < 1 second
+enters 4-bar/30° TWS
+
+e Azimuth bump to 2-bar/60° TWS or 4-bar/30° TWS
+
+D-19 RDR-5
+
+
+Text from RDR-5_Air-to-Air_Radar_Employment_page_26.jpeg:
+Figure D-11 shows nondesignated TWS symbology, which can be
+displayed in either designated or nondesignated TWS [the radar priority
+target (closed star) is applicable to nondesignated TWS only].
+
+The aircrew selectable frame store and elevation bar selection are not
+used in TWS; the aircrew selected frame store and elevation bar setting
+will be used when TWS is exited to other modes where they are used.
+
+Half intensity observation targets are deleted if they do not receive
+another hit within the next frame (4 to 5 seconds) in TWS or three frames
+(about 3 seconds) in HDTWS. Deletion of confirmed range (full intensity,
+nonvectored symbols) occurs if an update does not occur within three
+frames (6 to 8 seconds) in TWS or four frames (4 seconds) in HDTWS. For
+observation or range only targets, there is no symbol flashing prior to
+deletion.
+
+Established vectored track file targets are deleted (if they are not
+updated) using target range logic. Targets between 10 and 20 nm range
+flash after 11 seconds, flash for 4 seconds and are deleted at 15 seconds.
+Targets, at all other ranges flash after 6 seconds (for 4 seconds) and are
+deleted at 10 seconds. The longer 15 second deletion times for 10 to 20 nm
+range targets is for AMRAAM data link support and for maneuvering
+target considerations.
+
+Track files will not be generated beyond the selected range scale, but
+existing track files will be maintained if the range scale is bumped to a
+lesser range where they are not displayed. These range limited track files
+will be maintained in accordance with the TWS track file update/deletion
+logic. Remember, TWS does not automatically range in (or out) as the
+target range changes (like STT does). The aircrew must bump the range
+as required.
+
+RDR-5 D - 20
+
+
+Text from RDR-5_Air-to-Air_Radar_Employment_page_27.jpeg:
+RDR-05-10
+
+Figure D - 11. Nondesignated TWS (NDTWS) Target Symbology.
+
+m Up to 20 observation targets (1 hit)
+
+e In addition to track files
+e =§=©One-half intensity
+
+m Confirmed range target (2 hits)
+AY. Hot/cold (2 hits)
+
+° Prior to vector status
+° N/A in TWS sort
+
+™ Up to 10 track files (4 hits)
+Sampled track file
+e Long heading vector
+e = Altitude (except PDT)
+e Nonstandard mach (< 0.4 M or = 1.1 M)
+
+*% 1 RPT (NDTWS)
+
+D-21 RDR-5
+
+
+Text from RDR-5_Air-to-Air_Radar_Employment_page_28.jpeg:
+DTWS Symbology
+
+DTWS target symbology (Figure D-12) is the same as NDTWS symbology
+with the following exceptions. There is no radar priority target (RPT
+closed star) in DTWS. Instead there is a primary designated target
+(PDT—Open star). In DTWS there can be up to 7 secondary designated
+targets (SDT—open box with long heading vectors). If DTWS is entered
+from a track mode (STT, DTT) or Highlight the tracked target becomes
+the PDT.
+
+RDR-05-11
+
+Figure D - 12. DTWS Symbology (Weapons
+Employment Cues Deleted for
+Clarity).
+
+e ‘ 1x PDT (DTWS only)
+
+e * Upto 7 SDT (DTWS only)
+
+The aircrew can designate additional track files as SDT’s either manually
+or using the auto designation feature by boxing auto at PB #10 on a TWS
+
+radar display. The auto designation feature works only after the radar is
+in DTWS.
+
+RDR-5 D - 22
+
+
+Text from RDR-5_Air-to-Air_Radar_Employment_page_29.jpeg:
+NDTWS to DTWS Switchology
+The aircrew can enter DTWS from TWS (DHDTWS from HDTWS) by:
+e Manually designating a track file Gncluding the RPT)
+
+@ Quickstep (FCP coolie up/RCP castle depress < 1 second). The
+RPT becomes the PDT.
+
+NDTWS Versus DTWS
+
+The advantage of NDTWS is that the TWS search volume can be
+positioned to the radar elevation and azimuth limits. The disadvantage is
+that any TWS targets (including the RPT) left uncovered will be lost if
+they are not refreshed. The advantage of DTWS is that the aircrew
+cannot move the search volume off the PDT. Obviously, the disadvantage
+is that this limits the aircrew’s ability to position the TWS search volume.
+AIM-120 AMRAAM launch requires DTWS; the missile is launched to the
+PDT. Another advantage of DTWS is that via quickstep (less than one
+second) the aircrew can step (range order) among the SDT’s making each
+one the PDT, in turn. As the PDT is stepped to each SDT, the target and
+missile information on the DTWS display is applicable to the current PDT.
+Hence, the SDT’s can be quickly sampled for desired information.
+
+TWS auto designation follows this logic:
+e Auto appears at PB #10 when TWS is entered
+e Itis unboxed at radar power up
+e Itis nonfunctional until at least one target is designated
+
+e Ifboxed, once DTWS is entered, up to seven track files will be
+automatically designated
+
+e Ifthe PDT (or any SDT) is manually undesignated, it will
+remain undesignated until manually redesignated (or AUTO is
+unboxed, then boxed again). The manual undesignating
+switchology is (with the acquisition symbol over the target) FCP
+boat switch aft/RCP castle switch left.
+
+D - 23 RDR-5
+
+
+Text from RDR-5_Air-to-Air_Radar_Employment_page_3.jpeg:
+AIR-TO-AIR RADAR
+
+COVER
+
+AIR-TO-AIR RADAR EMPLOYMENT
+
+INTRODUCTION
+
+This workbook is your primary guide in studying F-15E air-to-air radar
+employment. It contains background information essential for the
+classroom session. It familiarizes you with the description, nomenclature,
+and operational characteristics of the system, and operational
+considerations for its employment.
+
+CONTENTS:
+
+INTRODUCTION 0.000. eeecceesseeeesneeceseeeeesaeecesaeeeessaeeessaeeessaeesessaeeens A-1
+CRITERION REFERENCED OBJECTIVES (CROs).............eeeeseeeeeeeeees B-1
+STUDENT PREPARATION REQUIREMENTS . 0.00... eeeeeeeeeeeeeeee C-1
+CEE os ses sans sos cores nos nas ois cua cares canis ans as RSA SNS Onis aU KUNE kK NewS SHES KoRKG MU NaS HSS aUD KR D-1
+END OF TEXT QUIZ ou. ececcccesseeecesneeceesaeecesacesensaeecesaeeseseeeenaees E-1
+(ina) F-1
+
+A-1 RDR-5
+
+
+Text from RDR-5_Air-to-Air_Radar_Employment_page_30.jpeg:
+TWS Cues
+
+In addition to the target symbology (observation targets, confirmed range
+targets, hot/cold targets, track files, RPT, PDT, SDT’s) much of the same
+type information available in RWS is available in TWS. (Figure D-12).
+
+RDR-05-12
+
+Figure D - 18. Nondesignated TWS (NDTWS) Target Symbology.
+
+The digital altitude search volume is shown at the elevation coverage
+circles, rather than at the acquisition symbol. A sampled target provides
+an elevation coffin and the digital target altitude/ nonstandard mach on
+the left and right of the acquisition symbol, respectively. (The PDT
+altitude is displayed at the elevation caret, and is not displayed at the
+acquisition symbol, when the PDT is sampled.)
+
+In NDTWS, the BRA and BBR use search logic; both are to the acquisition
+symbol. In DTWS the BRA and BBR are to the PDT.
+
+RDR-5 D - 24
+
+
+Text from RDR-5_Air-to-Air_Radar_Employment_page_31.jpeg:
+DTWS Elevation Control
+
+In 2- or 3-bar DTWS the radar antenna elevation is locked to the PDT; the
+aircrew has no control of the radar elevation.
+
+In 4- or 6-bar designated TWS, full elevation deflection of the elevation
+control up or down centers the PDT between the bottom two bars or top
+two bars. While biased, a “U” or “D” replaces the selected elevation scan
+in the BIT window (UTWS) to alert the crew to the up or down bias.
+While biased, full deflection of elevation control returns the elevation scan
+to normal logic by centering the target in the TWS elevation bar scan.
+Selecting a new PDT also removes the bias. The elevation coverage circles
+and digital altitude coverage change to reflect the up, down, or centered
+elevation scan. When the radar determines that a TWS target is
+approaching the vertical limits of the search volume, an up or down caret
+will be displayed at the target location to tell the aircrew which way to
+bias the search volume in an attempt to reacquire the target.
+
+TWS Search Volumes and Parameters
+
+The TWS search volume sets (2-bar/60°, 4-bar/30°, 6-bar/15°) and two
+HDTWS sets provide volumes to quickly accommodate various formations,
+particularly as formations close in range and greater altitude coverage is
+needed. The FCP weapons select switch or RCP castle, when used to
+select LRS/SRS parameters, do not change the TWS range. They do not
+change the TWS elevation bars (but change the displayed setting). They
+do function in changing the PRF to the LRS/SRS memorized settings.
+
+TWS Elevation Coverage
+
+Remember the previous discussion concerning altitude coverage in RWS:
+
+>40 RANGE 20 RANGE 10 RANGE
+2-bar 350 ft/nm 500 ft/nm 600 ft/nm
+4-bar 600 ft/nm 1000 ft/nm 1300 ft/nm
+6-bar 800 ft/nm 1600 ft/nm 2000 ft/nm
+
+D - 25 RDR-5
+
+
+Text from RDR-5_Air-to-Air_Radar_Employment_page_32.jpeg:
+While RWS varies the bar spacing for different range scale (1°, 2.5°, 3.4°),
+TWS uses 1.5° bar spacing on all range scales, which provides the
+following altitude coverages:
+
+2-bar/60° 400 ft/nm ( 4°/nm)
+3-bar/30° 500 ft/nm ( 5°/nm)
+4-bar/30° 700 ft/nm ( 7°/nm)
+6-bar/15° 1000 ft/nm (10°/nm)
+
+At the target ranges that TWS is normally employed, a 40 nm range scale
+is generally used. TWS provides about 15 to 25 percent more altitude
+coverage than 40 nm RWS.
+
+TWS provides the ability to rapidly transition among established search
+volumes. If targets maneuver outside the current TWS search volume,
+the aircrew can quickly and easily select a more suitable search volume by
+azimuth bumping between 30° and 60° TWS, by “designating NARROW”
+in the BIT window to enter 15° TWS or by using HOTAS to select HDTWS
+(2- or 3-bar/30°).
+
+High Data TWS (HDTWS)
+
+HDTWS provides a 2- or 3-bar/30° scan pattern with a 65° per second scan
+rate in all range scales which results in a one second frame time. The fast
+frame time provides faster target updates, and therefore better capability
+for maneuvering targets. The 2-bar 1.5° bar spacing provides 4° of
+elevation coverage, the same as 2-bar/60° normal TWS, which gives us 400
+feet per nm of altitude coverage, or about 8,000-12,000 feet at usual sort
+ranges.
+
+You will remember the switchology—entering TWS, auto acquisition
+
+switch forward enters HDTWS (vice aft for TWS). As with TWS, auto
+acquisition switch aft enters STT on the RPT or PDT.
+
+RDR-5 D - 26
+
+
+Text from RDR-5_Air-to-Air_Radar_Employment_page_33.jpeg:
+Dual Target Track (DTT)
+
+DTT (Figure D-14) is really more applicable to the shoot phase than the
+sampling phase. It was originally envisioned as a capability for employing
+AIM-7 missiles at multiple targets. Once tested, it was found to be
+incapable of providing enough information to the missiles at end game and
+was subsequently fielded as an AIM-120 only mode. The aircrew enters
+DTT by redesignating an SDT (for > 1 second) in any DTWS mode. DTT
+does not scan, in the normal sense. It simply alternates a miniraster
+between the two targets (the PDT and SDT). It can track targets
+separated by as much as 45° in azimuth and 30° in elevation. The radar
+will only see additional targets if they are inside the scan volume of one of
+the minirasters. If the spacing between the two targets exceeds the DTT
+limits (45° in azimuth or 30° in elevation) the radar exits DTT to DTWS
+on the PDT. The aircrew can exit DTT as follows:
+
+e Undesignate a DTT target - to DTWS with the remaining DTT
+target as the PDT
+
+e Auto acquisition switch forward - DTWS
+e Auto acquisition switch aft - STT on PDT
+
+e Mode reject (or designate space) - selected search mode
+
+( CHAN Dt
+35
+
+450 17L_180
+
+uoormn
+
+08
+4
+16
+
+RDR-05-13
+
+Figure D - 14. Dual Target Track.
+
+D-27 RDR-5
+
+
+Text from RDR-5_Air-to-Air_Radar_Employment_page_34.jpeg:
+SANITIZE RWS
+
+The only pure sanitize mode is RWS INLV, 120° scan and set to cover the
+
+appropriate area of responsibility in altitude. Other modes, such as TWS
+
+(particularly nondesignated TWS) and Highlight, offer some capability to
+
+accomplish a degree of sanitizing, while the aircrew is performing another
+radar task, but these modes should not be used, as a matter of course, for
+
+sanitizing.
+
+Highlight
+
+Another of these multifunctional hybrid modes is highlight. The
+advantage of highlight over TWS is that the altitude and azimuth scans
+are individually selected by the aircrew, rather than mechanized in sets,
+asin TWS. The major disadvantage of Highlight is a slow refresh rate
+which induces inaccuracies in the track information.
+
+Figure D-14 shows the switchology to enter highlight. No weapon
+employment cues are provided until the target is upgraded to a track file.
+
+G485 327-17
+| RGH | vs
+
+RDR-05-14
+
+Figure D - 15. Highlight - No Track File.
+
+RDR-5 D - 28
+
+
+Text from RDR-5_Air-to-Air_Radar_Employment_page_35.jpeg:
+Entry to Highlight
+
+e From RWS/MRM only
+
+e = Acq on target
+
+e Quickstep (< 1 sec)
+
+Track data/symbology/cues
+
+° TWS-like
+
+Figure D-16 shows Highlight once the highlighted target has upgraded to
+a track file and weapons employment cues are displayed.
+
+CHAN A5
+17R_260
+
+F
+L
+(e)
+{e)
+D
+R
+Cc
+D
+
+iV
+
+I I
+G485 327-17
+
+Ne
+
+T 465
+[ENTER yy
+
+a
+
+y,
+
+Figure D - 16. Highlight With a Track File Target.
+
+With track file
+
+e MRM weapons cues (except)
+
+° No ASE circle/dot
+
+e No shoot cue
+e No break X
+
+Up to 9 “TWS’ targets
+
+RDR-05-15
+
+RDR-5
+
+
+Text from RDR-5_Air-to-Air_Radar_Employment_page_36.jpeg:
+In essence, entry into highlight forces the radar to work harder to achieve
+vector status (a track file) on the highlighted target. It performs as many
+minirasters as required to achieve vector status (four updates). On initial
+entry, if vector status is not achieved after 7.5 seconds, the highlight
+attempt is aborted and the radar returns to RWS. Note that highlight can
+only be entered from RWS with MRM selected on the FCP weapons select
+switch.
+
+While in highlight, the radar scans the aircrew selectable search volume.
+If the highlighted target is not updated during the regular search scan,
+the radar enters the miniraster as necessary to update the highlighted
+target. The highlighted target and up to nine additional track files can be
+displayed. Azimuth bumping is normal and the acquisition symbol
+returns to the highlighted target. Highlight is exited to RWS if MRM is
+exited, if the radar range is bumped to less than the highlighted target
+range, or if the aircrew selects a search mode other than RWS. As the
+radar enters search, no last track data is provided, and the radar targets
+are maintained. The aircrew can enter RWS with mode reject, high data
+TWS with auto acquisition forward, normal TWS (not STT) with auto
+acquisition aft, or STT with manual lock on.
+
+In summary, highlight can be used to get TWS-like information, including
+target track data while searching a flexible search volume. Like TWS it
+may deny RWR information. Highlight can be used to sample and search
+with WEZ information to determine when to enter a weapons employment
+radar mode. In highlight, AMRAAMs employ as a visual launch and
+AIM-7s go FLOOD. Do not shoot from highlight. AAI/EID is available in
+highlight.
+
+SORTING
+
+You will remember that sorting is the process of distinguishing individual
+targets within a formation. The final sort is the process of entering a
+track mode on a particular target for weapon employment on that target
+(STT/PDT).
+
+Sorting is often a compromise between maintaining big picture SA with
+sufficient search volume to encompass the targeted formation (including
+maneuvering targets) and consideration for fast frame time for quick
+updates on maneuvering targets and radar time on target, sufficient to
+break out closely spaced targets in azimuth.
+
+RDR-5 D - 30
+
+
+Text from RDR-5_Air-to-Air_Radar_Employment_page_37.jpeg:
+Sorting can be accomplished from search modes like RWS and RGH, and
+from hybrid search/track modes like TWS. RWS, medium PRF with 60°
+azimuth scan and the smallest elevation scan practical for the tactical
+situation is the most commonly used option. This discussion will cover the
+search sort and TWS sort modes.
+
+Search Sort
+
+4MED
+
+OQ __j 1 © 14
+G485 180-025 T 465
+| ENTER
+
+RDR-05-16
+
+Figure D - 17. Search Sort.
+
+Sort (Figure D-17) can be entered from all search modes or STT with the
+action switch (FCP TDC or RCP trigger for > 1 second). Sort is entered
+with a return to search from the visual auto acquisition modes (except
+auto guns) or with a return to search from STT or flood, but only if these
+modes were entered from sort. Sort entry from scanning modes initializes
+the 30° scan centered at the acquisition symbol. Entry from STT
+initializes the 30° scan centered at the STT target.
+
+D-31 RDR-5
+
+
+Text from RDR-5_Air-to-Air_Radar_Employment_page_38.jpeg:
+The scan is space stabilized so that as the aircraft turns, the scan
+continues to search the same airspace volume rather than the same
+relative bearing from the aircraft. If the scan pattern becomes antenna
+azimuth limited, it remains there as azimuth bump does not occur. The
+30° scan is aircrew slewable at all times and an aircrew initiated azimuth
+bump causes entry to 60° search.
+
+10 MILE RANGE SCALE 40 MILE RANGE SCALE
+
+8-BAR 4-BAR
+
+- NORMAL 3.4° BAR SPACING - 1.5 TO 2.5° BAR SPACING
+- 26° ELEVATION COVERAGE -7TO 10° ELEVATION COVERAGE
+- 5 SECOND FRAME TIME - 2.5 SECOND FRAME TIME
+
+80/160 MILE
+RANGE SCALE
+
+6-BAR 2-BAR
+
+20 MILE RANGE SCALE
+
+- NORMAL 2.5° BAR SPACING - NORMAL 1° BAR SPACING
+- 15° ELEVATION COVERAGE - 3.5° ELEVATION COVERAGE
+- 3.5 SECOND FRAME TIME - 1 SECOND FRAME TIME
+
+RDR-05-17
+
+Figure D - 18. Sort Logic.
+
+Where TWS marries elevation bars to azimuth scans, search sort marries
+elevation bars to range scale selections (Figure D-18). A weapon select
+switch change or rear cockpit long range search/short range search change
+will change the PRF and range scale, but sort mode continues to use its
+own elevation scan logic, rather than that programmed against the
+switches. Once in the sort mode, the aircrew can override sort mode’s
+elevation logic with a manual elevation bar change, but a subsequent
+range scale change will reinitialize the sort mode elevation scan logic
+(based on the new range scale). Note that the bar spacing and elevation
+coverage on a 40 nm range scale is dependent on acquisition symbol
+placement (another reason to put the acquisition at the range, or
+suspected range of the target).
+
+RDR-5 D - 32
+
+
+Text from RDR-5_Air-to-Air_Radar_Employment_page_39.jpeg:
+Sort can be exited to the selected search mode, to TWS, to STT, or to the
+visual modes with the same logic as from normal 120° or 60° search.
+Azimuth bump in sort enters the 60° azimuth scan, in the selected search
+mode.
+
+Search sort is compatible with RWS, RGH and velocity search.
+
+SORT (AT 25 NM) | ALT COVERAGE FRAME TIME
+a
+60° RWS 2-BAR 8800 1.8 SEC
+
+30° SORT 2-BAR 10,000 0.9 SEC
+
+60° RWS 4-BAR 14,000 3.6 SEC
+30° SORT 4-BAR 20,000 1.8 SEC
+
+RDR-05-18
+
+Figure D - 19. Sort Considerations.
+
+Let us look at some sorting considerations (Figure D-19). Consider sorting
+at 25 nm ona 40 nm range scale. First, use the smallest practical
+elevation bar to decrease frame time. One benefit of faster frame time is
+that from a meld, hits and track files are achieved quicker (and so is
+AAT/EID correlation).
+
+Second, the faster frame time is optimum for maneuvering targets and
+targets near the beam. Sort mode’s 30° azimuth scan provides one-half
+the frame time of 60° RWS, for a given elevation bar setting. However,
+frame time benefits of 30° azimuth scan are not realized if sort mode’s
+mechanized 4-bar elevation scan is used. Four-bar sort provides about
+20,000 feet of altitude coverage at 25 nm. If 10,000 feet of altitude
+coverage is sufficient, manually input 2-bar and achieve the full benefits
+of our 30° azimuth scan frame time. Sort does not use the dual sliding
+window processing for determining target range. If using sort to break
+out targets closely spaced in range, particularly at longer ranges, RWS
+might be the better option.
+
+D - 33 RDR-5
+
+
+Text from RDR-5_Air-to-Air_Radar_Employment_page_4.jpeg:
+CRITERION REFERENCED OBJECTIVES (CROs)
+
+1. Identify the six S’s for success and the overall objective of each of
+these tasks.
+
+2. Identiy the aircrew selectable search parameters and search cues
+available in RWS, RGH, and VS.
+
+3. Identify the advantages and limitations of the radar modes used to
+search (RWS, RGH, and VS).
+
+4. Identify the mode entry/mode exit switchology, aircrew selectable
+parameters, and logic for the radar modes used to sample (STT, TWS,
+DTT, and highlight).
+
+5. Identify the advantages/disavantages and operating logic of the radar
+modes used to sort (search sort, TWS, and TWS sort).
+
+REFERENCES
+
+TO 1F-15E-34-1-1 Section I A/A Radar Controls
+A/A Radar Display
+Radar Search Modes
+Radar Special Modes
+Track-While-Scan (TWS) Mode
+Sort Mode
+Hot/Cold Search Mode
+A/A Radar Employment
+Target Detection Phase
+Target Acquisition Phase
+(Manual Acquisition)
+Track-While-Scan
+
+RDR-5 B-1
+
+
+Text from RDR-5_Air-to-Air_Radar_Employment_page_40.jpeg:
+Last, as with sorting from any other mode, use MED if the target is being
+refreshed with MPRF. In INLV and a high aspect target, if the target is
+being refreshed only on HPRF bars, the target will only be refreshed on
+every other radar sweep (Figure D-20, left). If the target is being
+refreshed on both MPRF and HPRF bars (Figure D-20, right), then use
+MED for sorting because of its improved range resolution over HI.
+
+RDR-05-19
+
+Figure D - 20. HI Detection Only or HI/MED Detection.
+
+TWS Sort
+
+The target sorting capabilities of TWS can be enhanced by selecting the
+TWS sort mode. The raw radar hit symbology is displayed under the TWS
+symbology. Whenever the radar is in TWS, the “SORT” legend is
+available at PB #9. The TWS sort capability is selected by boxing the
+legend. While in TWS, the aircrew can select or deselect SORT as desired.
+The last selection is maintained when TWS is exited and reentered. TWS
+sort is compatible with other TWS logic (DTWS or NDTWS, and all TWS
+scan patterns, including HDTWS). HOTAS switchology for selecting
+TWS/HDTWS, TWS scan volumes, and designating/undesignated targets
+generally follows normal TWS logic, but there are a couple of exceptions.
+If the auto acquisition switch is moved aft in TWS, the normal logic is
+entry into STT on the PDT or RPT. However, in TWS sort, the radar
+enters miniraster at the acquisition symbol location, not STT. To enter
+STT, the aircrew must place the acquisition symbol over the desired target
+prior to moving the acquisition switch aft. The advantage is that the
+aircrew can lock any TWS track file (not limited to the PDT in DTWS or
+the RPT in NDTWS).
+
+RDR-5 D - 34
+
+
+Text from RDR-5_Air-to-Air_Radar_Employment_page_41.jpeg:
+SUMMARY
+
+The designers of the APG-70 provided numerous modes, each with its own
+capabilities. All the modes have characteristics which provide both
+advantages and disadvantages. An advantage in one situation may be a
+disadvantage in another situation. Your ability to use the appropriate
+modes at the appropriate times for appropriate situations, quickly and
+efficiently, is the essence of effective tactical radar employment. As you
+proceed through the academics on air-to-air weapons, air-to-air
+maneuvering and air-to-air intercepts, you will build on your
+understanding of how to employ the APG-70 and the wealth of
+information it provides, so that you can effectively execute your mission.
+
+D-35 RDR-5
+
+
+Text from RDR-5_Air-to-Air_Radar_Employment_page_42.jpeg:
+(This Page Intentionally Blank)
+
+RDR-5 D - 36
+
+
+Text from RDR-5_Air-to-Air_Radar_Employment_page_43.jpeg:
+END OF TEXT QUIZ
+
+involves gathering as much information as possible
+about a particular radar target, including speed, heading, aspect
+angle, and weapons employment information.
+
+a. Search
+b. Sample
+c. Sanitize
+d. Sort
+
+Which radar search modes provide aircrew selectable elevation bar
+settings and azimuth scan selections?
+
+a. RWS, RGH, and VS
+b. RWS and RGH only
+c. RWS and VS only
+d. RWS only
+
+Which search mode(s) incorporate aircrew selectable GMTR?
+
+a. All search modes
+b. RWS and RGH
+c. RWS with HPRF
+d.
+
+RWS with MPRF (MED/INLV)
+
+Which search mode might be used if either high or medium PRF is
+malfunctioning to provide an all-aspect as well as a long range
+detection capability?
+
+a. RWS, interleaved PRF
+b. RGH
+
+c. VS
+
+d. VCTR
+
+E-1 RDR-5
+
+
+Text from RDR-5_Air-to-Air_Radar_Employment_page_44.jpeg:
+5. Following an aircrew mode reject or if the radar breaks lock from
+
+, the radar target(s) are maintained. The radar does not
+
+have to rebuild the target.
+
+po op
+
+any track mode (STT, DTT, TWS, Highlight)
+STT and Highlight only
+
+any track mode except STT
+
+any track mode except STT or DTT
+
+6. Which of the following is/are advantages(s) of TWS?
+
+po op
+
+Multitarget detection and track.
+
+Rapid transition among azimuth/elevation scan sets.
+Rapid target sampling among multiple targets.
+
+All of the above.
+
+7. Aquick way to enter DTWS from NDTWS is to designate the radar
+priority target (RPT) by quickstepping using the
+
+ao op
+
+FCP coolie switch/RCP castle switch.
+FCP TDC/RCP hand control trigger.
+auto acquisition switch forward.
+auto acquisition switch aft.
+
+8. Which radar mode automatically selects an elevation bar scan based
+on range scale selection?
+
+a. HDTWS
+b. TWS sort
+c. search sort
+d. narrow (15° TWS)
+9. TWS sort
+a. isnot compatible with HDTWS.
+b. displays raw radar returns under TWS symbology.
+ce. isonly available in DTWS.
+d. isonly available in NDTWS.
+
+RDR-5
+
+E-2
+
+
+Text from RDR-5_Air-to-Air_Radar_Employment_page_45.jpeg:
+acq
+
+AGL
+
+AIM
+
+AMRAAM
+
+ASE
+
+BBR
+
+BCN
+
+BIT
+
+BRA
+
+CBT
+
+DTT
+
+DTWS
+
+EID
+
+FCP
+
+GCI
+
+GMTR
+
+HDTWS
+
+HI
+
+GLOSSARY
+Air-to-air interrogator
+Aerial attack maneuvering
+Air-to-air weapons
+Acquisition (symbol)
+Above ground level
+Air intercept missile
+Advanced medium range air-to-air missile
+Allowable steering error
+Bullseye bearing and range
+Beacon
+Built-in test
+Bearing, range, altitude
+Combat (or computer based training)
+Dual target track
+Designated track-while-scan
+Enhanced identification
+Front cockpit
+Ground controlled intercept
+Ground moving target reject
+High data rate track-while-scan
+
+High pulse repetition frequency
+
+RDR-5
+
+
+Text from RDR-5_Air-to-Air_Radar_Employment_page_46.jpeg:
+HOTAS Hands on throttle and stick
+
+HPRF High pulse repetition frequency
+INLV Interleaved pulse repetition frequency
+IPRF Interleaved pulse repetition frequency
+LRS Long range search
+
+MED Medium pulse repetition frequency
+MPRF Medium pulse repetition frequency
+MRM Medium range missile
+
+NDHDTWS Nondesignated high data rate track-while-scan
+NDTWS Nondesignated track-while-scan
+
+nm Nautical miles
+
+PDT Primary designated target
+
+PRF Pulse repetition frequency
+
+RCP Rear cockpit
+
+RDR Radar
+
+RGH Range gated high
+
+RPT Radar priority target
+
+RWS Range while search
+
+RWS-H Range while search - high
+
+RWS-I Range while search - interleaved
+RWS-M Range while search - medium
+
+RDR-5 F-2
+
+
+Text from RDR-5_Air-to-Air_Radar_Employment_page_47.jpeg:
+SDT
+
+SRS
+
+STT
+
+TAS
+
+TO
+
+VCTR
+
+VS
+
+WEZ
+
+Secondary designated target
+Short range search
+
+Single target track
+
+True airspeed
+
+Technical order
+Track-while-scan
+
+Vector scan
+
+Velocity search
+
+Weapon employment zone
+
+RDR-5
+
+
+Text from RDR-5_Air-to-Air_Radar_Employment_page_48.jpeg:
+BACK PAGE
+COVER SHEET
+
+
+Text from RDR-5_Air-to-Air_Radar_Employment_page_5.jpeg:
+STUDENT PREPARATION REQUIREMENTS
+BEFORE CLASS
+
+1. Study the information contained in this workbook and complete the
+End of Text Quiz.
+
+2. Read the Dash 34 references.
+
+C-1 RDR-5
+
+
+Text from RDR-5_Air-to-Air_Radar_Employment_page_6.jpeg:
+(This Page Intentionally Blank)
+
+RDR-5 C-2
+
+
+Text from RDR-5_Air-to-Air_Radar_Employment_page_7.jpeg:
+TEXT
+
+INTRODUCTION
+
+The F-15E’s APG-70 radar is one of its most useful and versatile
+capabilities. After all, they once built a light gray aircraft, very similar in
+appearance to the F-15E, just to carry the APG-70’s grandfather (the
+APG-63). The APG-70 supports a myriad of capabilities:
+
+Instrument trail departures and recoveries
+
+Radar trail formations beyond visual ranges (like night low
+levels)
+
+Rendezvous with other aircraft, whether it be a wingman
+rejoining with his leader, a tanker rendezvous for air refueling
+or marshaling with a strike package
+
+Distinguishing one aircraft from another (including friendly/
+hostile aircraft via AAI/EID capabilities)
+
+Monitoring air-to-air weapons parameters against an adversary
+and the required information to position the F-15E to a desired
+positional advantage and weapons employment zone (WEZ)
+
+Provides information to A/A missiles, including (but not limited
+to) location of the target
+
+From the original APG-63 to the current APG-70, the F-15’s radar
+capabilities and its flexibility have been continuously improved. As you
+study the F-15E/APG-70, you will understand that the designers really
+have mechanized the system so that you, the aviator, can achieve the
+desired outcome for the tasks at hand.
+
+D-1 RDR-5
+
+
+Text from RDR-5_Air-to-Air_Radar_Employment_page_8.jpeg:
+RADAR TASKS AND RADAR MODES
+
+The APG-70 has a variety of search, track and hybrid (search and track)
+modes. The use of these modes (when and how) is both situation and
+aircrew preference dependent. Figure D-1 suggests which modes are
+appropriate for which tasks. The assignment of modes versus tasks is
+certainly open to debate. For example highlight could easily be argued as
+a sample or sanitize capability and high data rate track-while-scan
+(HDTWS) could be argued as providing both sample and sort capabilities.
+We will return to this matrix later. But first, consider some APG-70
+mechanization factors that influence the strengths and weaknesses of the
+various modes and how you can influence the modes.
+
+SEARCH | SAMPLE | SANITIZE | SORT SHOOT | SHOOT | RANGE
+
+RWS RWS (H/M/)) /M/1) RWS —Rwsi RWS RWS (Mm) RWS RWS (mM) |
+
+RGH HIGHLIGHT =| HIGHLIGHT SORT AUTO GUNS
+
+vs TWS (ND) TWS SORT Ss
+
+TWS (D)
+HDTWS
+
+DTT
+
+RDR-05-04
+
+Figure D - 1.
+
+Frame Time
+
+Frame time determines how quickly the radar can gather information
+about a target, process the information, declare the target, and then
+refresh its understanding of the target. Frame time is determined by the
+azimuth scan rate (mode dependent), azimuth scan width, and the
+number of elevation bars. Generally, scan rate aside, the larger the
+volume of airspace the radar searches, the longer the frame time.
+
+Larger search volumes (longer frame time) must be used when target
+location is unknown, or not well-known.
+
+RDR-5 D-2
+
+
+Text from RDR-5_Air-to-Air_Radar_Employment_page_9.jpeg:
+When the target location is better defined (AAI/EID symbology, GCI
+information, etc.) smaller search volumes can be used to provide quicker
+target detections (and faster AAI/EID). For longer range targets
+(particularly small radar cross section targets) modes which provide
+slower scan rates (longer “dwell time”) may provide earlier target
+detection. At close ranges, smaller search volumes and faster scan rates
+increase the number of radar “hits” versus time so that the radar, and
+aircrew, are more aware of target maneuvering. For breaking out
+separate, closely spaced targets during sorting, small search volumes and
+slow scan rates are beneficial, but the search volume and scan rate must
+also accommodate possible target maneuvering. Figure D-2 shows frame
+times considering radar modes (scan rates) and search volume (azimuth
+scan and elevation bars).
+
+MODE RANGE | AZIMUTH FRAME TIME
+SELECTED SCALE SWEEP (PER BAR)
+RWS-M /1 10/20 120 #60
+RWS-M /l 40/ 80/160 120 #60
+RWS3-H ALL 120 #60
+
+RGH 10/20 120 #60 1.7/0.9
+m 40/ 80/160 120 #60 2.5/1.2
+
+ALL 120/60 1.7/0.9
+
+10/20 1.3 (PER FRAME)
+10/20
+40/80/1460
+ALL
+ALL
+
+SORT 10 (8 BAR)
+SORT 20 (6 BAR)
+
+SORT 40 (4 BAR)
+SORT [80/160 (2 BAR
+
+Figure D - 2. Search Frame Time.
+
+RDR-05-01
+
+D-3 RDR-5
+
+

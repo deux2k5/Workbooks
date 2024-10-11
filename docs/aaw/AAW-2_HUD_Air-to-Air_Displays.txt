@@ -1,0 +1,1235 @@
+Text from AAW-2_HUD_Air-to-Air_Displays_page_1.jpeg:
+SUPPORTS COURSES
+FIS5EBQ
+
+FISETX
+
+FISESOC
+
+ACADEMIC STUDENT WORKBOOK
+F-15E
+
+AIR-TO-AIR WEAPONS
+AAW-2
+HUD AIR-TO-AIR DISPLAYS
+
+MAY 1999
+
+(SUITE 3 OFP)
+
+AIR COMBAT COMMAND
+
+
+Text from AAW-2_HUD_Air-to-Air_Displays_page_10.jpeg:
+Anytime the TD box is limited by the HUD field of view, a dashed target
+locator line is displayed. The target locator line extends from the
+waterline symbol and points to the limited TD box. The off-boresight
+angle is displayed next to the limited TD box, and represents the target
+angle off boresight in degrees (Figure D-3). (In this and remaining
+displays, the elimination of the heading, bank scales and pitch ladder
+indicates that symbols reject has been selected.)
+
+OFF
+BORESIGHT TARGET LOCATOR LINE
+ANGLE
+
+16-2 11L
+
+R8.1
+
+AAW-02-03
+
+Figure D - 3. HUD Limited TD Box, VI Selected.
+
+AAW-2 D-4
+
+
+Text from AAW-2_HUD_Air-to-Air_Displays_page_11.jpeg:
+When the radar is operating in the expanded azimuth display mode, the
+degrees remaining before radar break-lock are displayed directly above or
+below the waterline when the off boresight angle reaches 65° (Figure D-4).
+OFF
+
+BORESIGHT
+ANGLE
+
+DEGREES BEFORE BREAK-LOCK
+
+16-2 10L
+
+R7.5
+
+AAW-02-04
+
+Figure D - 4. Degrees Before Break Lock, VI Selected.
+
+AAW-2
+
+
+Text from AAW-2_HUD_Air-to-Air_Displays_page_12.jpeg:
+A circular range bar appears when the target is inside 12,000 feet (Figure
+D-5). The clock position of the end tab indicates target range; the 6 o’clock
+position is 6000 feet.
+
+INCREASE ASE CIRCLE
+INSIDE 1.6 NM (VI MODE)
+TO INDICATE 500' SEPARATION RANGE BAR
+
+RADAR RANGE
+SCALE AND DIGITAL
+READING
+
+AAW-02-05
+
+Figure D - 5. Radar Track, VI Target at 0.5 nm.
+
+As you close, the ASE circle increases in size. Placing the steering dot on
+the circle will cause you to close on the locked target to 500’ separation.
+Where you put the dot is where the target will be in the HUD (Figure
+D-5).
+
+Radar AUTO Acquisition
+
+As you have previously learned in RDR-3, the selection of a particular
+radar auto acq mode depends on the situation encountered. The auto
+acquisition scan pattern (except for GUNS) selected is graphically
+presented in the HUD. The HUD auto acquisition displays assist the pilot
+in maintaining the target within the radar scan until radar lock on. Once
+lock on occurs, regardless of the method with which lock on was achieved,
+the track display presented on the HUD (and radar display) is a function
+of the weapon select switch position (FCP, right throttle).
+
+AAW-2 D-6
+
+
+Text from AAW-2_HUD_Air-to-Air_Displays_page_13.jpeg:
+HUD WEAPONS DISPLAYS & STEERING
+
+AIM-7
+
+Representative AIM-7 attack mode displays are shown in Figures D-6 and
+D-7. For these displays, symbols reject has been selected and the master
+arm switch is in ARM (gun cross displayed 2° above the waterline). When
+radar lock on occurs, the 12° MRM reference circle is removed, and the
+ASE circle, steering dot and TD box appear on the HUD.
+
+Figure D-6 shows two AIM-7 MRMs available with a 7M in priority. The
+uppermost number on the range scale is the selected radar range. Vc
+(closure velocity) is left of the caret. The caret position on the range scale
+is PDT range. Priority missile launch range boundary data is displayed
+on the range scale. The data block in the lower right corner of the HUD
+contains the following information (in order):
+
+Target (PDT) altitude is presented in thousands and hundreds of
+feet (16-2 = 16,200 feet). Aspect angle is presented in degrees L/R
+(15L=150° left).
+
+Radar cues (JAM = Jamming present).
+
+PDT radar range (R 11.3) is presented digitally.
+
+Priority missile (under the pickle button) time of flight (TOF) to the
+PDT (T12 sec = AIM-7 TOF is 12 seconds) is displayed when PDT
+range is between Raero (current) and Rmin.
+
+In-flight missile time information showing minimum/maximum
+times to impact (TTD if more than 1 missile is in flight. T2/T10 sec
+equals 2 sec and 10 sec until impact for previously fired AIM-7
+
+missiles.
+
+PACS training status (TRNG = A/A Training “Boxed” on PACS).
+
+D-7 AAW-2
+
+
+Text from AAW-2_HUD_Air-to-Air_Displays_page_14.jpeg:
+ASE CIRCLE Ve
+
+GUN CROSS
+
+SHOOT CUE
+
+PDT ALT/
+
+ASPECT
+112 SEC
+
+TamT10 SEC RANGE TO PDT
+
+AIM-7 TIMING
+(TOF/TTI)
+
+AAW-02-06
+
+Figure D - 6. Radar Track, Inside Rpi.
+
+When the preconditions for shoot cue generation have been met, the
+triangular AIM-7 shoot cue is displayed below the TD box and the
+lock/shoot lights come on. It appears above the TD box if the box is
+limited to the lower half of the HUD. The shoot cue and lock/shoot lights
+flash when target range is between Rtr and Rmin for AIM-7 missiles.
+
+AAW-2 D-8
+
+
+Text from AAW-2_HUD_Air-to-Air_Displays_page_15.jpeg:
+In Figure D-7, range has decreased to inside Rmin. The break X symbol is
+displayed and the ASK circle, steering dot and shoot cue are removed.
+
+The break X is steady with a missile in flight, and flashing at all other
+times.
+
+If another onboard weapon is in the envelope for the current attack
+geometry, that missile cue flashes adjacent to the priority MRM inventory.
+In this case, an AIM-9M is the off missile and three SRMs are available.
+
+BREAK X
+
+OFF MISSILE
+CUE (FLASHES)
+
+M2M S3M
+
+-830
+1.1 9.0G
+
+AAW-02-07
+
+Figure D - 7. Radar Track, Inside Rmin, Flashing Off Missile Cue.
+
+Should the radar experience a signal loss during track, the track memory
+and reacquisition logic is activated. The MEM cue appears on the HUD
+and the TD box flashes (MEM also appears on the radar display) while the
+radar extrapolates the last known target position and velocity. When
+signal loss/degradation is due to ECM devices, the jam code (AOJ, HOJ,
+JAM) overrides all other displays in this window.
+
+If a valid signal return is received during this sequence, the radar
+reenters normal track. If not, the radar returns to search. If radar track
+is lost after missile launch (or if the target moves beyond the missile
+limit), LSG (Losing) is displayed in place of missile TOF.
+
+D-9 AAW-2
+
+
+Text from AAW-2_HUD_Air-to-Air_Displays_page_16.jpeg:
+AIM-120
+
+The HUD (and radar display) AIM-120 presentations are determined by
+the radar mode of operation. The launch modes are visual and radar
+track.
+
+Visual
+
+This mode is used for visual range engagements. If, for instance, an
+AIM-7 is in flight, with another one under the pickle button, the pilot can
+thumb forward on the boat switch (missile reject) until an AIM-120 is in
+priority. Holding the coolie switch down informs the missile that it is
+being launched against a boresighted target (i.e., within the 12° reference
+circle) with range and velocity unknown. No data link is provided to the
+missile. Care should be used when launching an AIM-120 in the visual
+mode since any close range aircraft along the missile boresight is a
+potential target.
+
+Radar
+
+Figure D-8 shows four AIM-120s available with an AIM-120A in priority.
+If two AIM-120As and two AIM-7Ms are carried, A2A is displayed when
+an AIM-120A is in priority and M2M when an AIM-7M is in priority. The
+dashed ASE circle replaces the AIM-7 solid ASE circle and mirrors the
+radar display. AIM-120 shoot cue (and the lock/shoot light) criteria and
+display logic parallels AIM-7 logic. The CC will generate an AIM-120
+shoot cue with the radar in STT or DTWS, assuming all other
+preconditions have been satisfied.
+
+SHOOT CUE
+
+TARGET
+SIZE /RCS
+
+AIM-120
+COUNT / TYPE
+
+PRIORITY MISSILE
+TIME TO IMPACT-
+HPRF ACTIVE
+AFTER LAUNCH
+
+16-2 17R
+
+R246
+H25 SEC
+
+AAW-02-08
+
+Figure D - 8. Radar Track, AIM-120A Display.
+
+AAW-2 D-10
+
+
+Text from AAW-2_HUD_Air-to-Air_Displays_page_17.jpeg:
+Next to the MRM inventory (Figure D-8) is the target size/RCS (radar
+cross section) settings as programmed in the PACS for MRM missiles.
+Refer to 1F-15E-34-1-1 and 1F-15E-34-1-1-1 for more details about target
+size/RCS settings. The off missile cue has display priority over the target
+size/RCS settings.
+
+The data block below the radar range scale reflects AIM-120 information
+similar to the AIM-7 display. If target range is within the computed
+Raero (current) and Rmin, prelaunch time to active (TTA) appears on the
+HUD in place of missile TOF. If range to target is less than active range,
+the time displayed is time-to-impact (TTI) and is prefixed with an “H” if
+the missile will launch and immediately go to HPRF active, and with an
+“M” it will go MPRF active. At launch, MRM quantity changes, and the
+TTA begins countdown on the next lower line on the HUD. If more than
+one missile is launched, the TTA cue reflects the minimum/maximum
+TTA/TTI of any missile(s) in flight. (Post launch TTA/TTI is added to the
+radar display.) Off missile cue logic is the same as for the AIM-7.
+
+When the last MRM has been launched, the MRM count goes to zero to
+indicate no missile available. The ASE circle is removed, and only the
+steering dot (based on MRM computations) is displayed. The shoot cue is
+also removed (Figure D-9).
+
+AIM-120A
+NO MISSILE
+AVAILABLE
+
+TTA/TT| BLANK-
+NO MISSILE
+AVAILABLE
+
+16-2 11L
+
+R33
+AIM-120A INFLIGHT
+TIME TO IMPACT
+MPRF ACTIVE
+
+AAW-02-09
+
+Figure D - 9. Radar Track, MRM Selected.
+
+D-11 AAW-2
+
+
+Text from AAW-2_HUD_Air-to-Air_Displays_page_18.jpeg:
+AIM-9M
+
+NOTE
+
+AIM-9 Special Burst Ranging and Combined Modes are covered in AAW-5
+(AIM-9M) and AAW-6 (GUN) respectively.
+
+Visual (Radar in Search)
+
+The seeker head position circle on the HUD is centered in the FOV circle.
+FOV circle size is dependent on the selection or nonselection of the scan
+option at the PACS (Figure D-10).
+
+FOV CIRCLE
+
+SEEKER HEAD
+POSITION
+CIRCLE
+
+AAW-02-10
+
+Figure D - 10. Radar Search, Scan Not Selected.
+
+AAW-2 D-12
+
+
+Text from AAW-2_HUD_Air-to-Air_Displays_page_19.jpeg:
+With the target in the FOV circle (Figure D-10), the pilot may select
+uncage (depress and release the NGS button) to attempt missile self track
+(Figure D-11). Seeker lock on (self track) is indicated by removal of the
+FOV circle and change of the detection tone to a self track tone. The
+seeker head position circle will follow the target when in self track.
+
+AAW-02-11
+
+Figure D - 11. Radar Search, Uncage Selected, Missile Self Track.
+
+D-18 AAW-2
+
+
+Text from AAW-2_HUD_Air-to-Air_Displays_page_2.jpeg:
+ADMINISTRATIVE INFORMATION
+
+This student workbook is designed to provide information on the F-15E,
+its systems and capabilities. It is not a sole source document, but is to be
+used in conjunction with other standard Air Force publications and
+technical manuals. If you find any differences between the material
+contained herein and other governing regulations, adhere to the
+regulations and notify the OPDR.
+
+Changes to this workbook are indicated with a heavy black line in the left
+margin.
+
+Forward recommendations for revision or change to 4 TS, SJAFB, NC
+275381.
+
+Supersedes: AAW-2, July, 1998
+
+OPDR: 4 TS
+
+Index of Changes
+
+Effective Date Pages Affected
+
+
+
+Text from AAW-2_HUD_Air-to-Air_Displays_page_20.jpeg:
+Radar in Track
+
+After radar lock on, the FOV circle is replaced by an ASE circle and
+steering dot. The AIM-9M ASE circle size is constant regardless of SCAN
+selection. Centering the dot provides pure pursuit steering. When range
+is greater than 12,000 feet, an aspect line (stick) is present on the ASE
+circle. When target range decreases to 12,000 feet or less, a circular range
+bar appears inside the ASE circle. Range is read on the bar according to
+clock position (7 o’clock equals 7000 feet range). Rmin LC and Rmin HC
+bars reflect Rmin for the missile and repeat the Rmin LC and Rmin HC
+displayed on the radar range scale.
+
+The AIM-9M seeker in priority is slaved to the radar LOS. Thus the
+seeker head position circle and TD box are coincident (Figure D-12).
+There may be transient periods in which the two LOSs are not coincident,
+particularly during high-G maneuvers.
+
+Rmin LC BAR
+Rmin HC BAR
+ASE CIRCLE
+
+STEERING
+DOT
+
+TD BOX AND
+SEEKER HEAD
+POSITION CIRCLE
+
+Rmax LC
+Rmax HC
+Rmin HC
+Rmin LC
+
+SHOOT CUE
+(FLASHING)
+
+SRM TOF
+(PRELAUNCH
+ONLY)
+
+S3M M3M
+830 $7 SEC
+1.1. 9.0G
+
+RANGE BAR
+
+AAW-02-12
+
+Figure D - 12. Seeker Slaved to Radar LOS (Not Uncaged).
+
+AAW-2 D-14
+
+
+Text from AAW-2_HUD_Air-to-Air_Displays_page_21.jpeg:
+It is advisable to uncage the AIM-9M prior to launch to ensure missile self
+track. Seeker lock on is indicated by the ASE circle doubling in size (it
+still represents the steering envelope), and the tone increasing in pitch.
+The uncaged seeker circle offsets from the TD box center due to missile
+
+and aircraft tolerances (Figure D-13).
+ASE CIRCLE DOUBLES
+
+SHOOT CUE
+
+UNCAGE CUE
+16-2 UNC
+
+S3M M3M R11
+-830 S5SEC
+1.1 9.06
+
+AAW-02-13
+
+Figure D - 18. Seeker Uncaged and Locked On, Shoot Cue.
+
+D-15 AAW-2
+
+
+Text from AAW-2_HUD_Air-to-Air_Displays_page_22.jpeg:
+With SRM selected and the master arm switch in ARM, the flashing shoot
+cue and lock/shoot lights are displayed when the following conditions
+exist:
+
+Radar in STT or DTWS
+
+Target range between Rmax LC and Rmin LC
+(AIM-9M) Steering dot inside ASE circle
+(AIM-9M) Seeker/radar coincidence within 2°
+
+Manual Boresight
+
+When the radar is supporting an AIM-7/AIM-120 in flight, the pilot can
+boresight the AIM-9M if desired to engage a visual target. If boresighted,
+the AIM-9M ASE circle (replaced by FOV circle) and steering dot are
+removed, and the shoot cue is not displayed (Figure D-14).
+
+If the SRM is already in self track, you must first cage the seeker to the
+radar LOS (via the NGS button), then move the coolie switch down and
+hold to boresight the missile. If the coolie switch is released before the
+missile is uncaged (self track), the seeker returns to the radar LOS (TD
+box).
+
+The FOV circle flashes when the radar antenna approaches gimbal limits.
+
+SEEKER HEAD
+POSITION CIRCLE
+
+FOV CIRCLE
+
+AAW-02-14
+
+Figure D - 14. Radar Track, Manual Boresight.
+
+AAW-2 D-16
+
+
+Text from AAW-2_HUD_Air-to-Air_Displays_page_23.jpeg:
+With SRM selected and no missile available, the SRM count is zero, and
+the ASE circle and steering dot are removed. If in launch parameters, the
+
+shoot cue is not displayed (Figure D-15). Analog range bar still provides
+range and min range cues for PDT.
+
+AAW-02-15
+
+Figure D - 15. SRM, No Missile Available.
+
+D-17 AAW-2
+
+
+Text from AAW-2_HUD_Air-to-Air_Displays_page_24.jpeg:
+GUN-A/A DISPLAYS
+
+Figures D-16 through D-19 present the four possible HUD displays that
+you will see when selecting GUN on the weapon select switch. The
+displays are lead computing optical sight (LCOS) search funnel, LCOS
+track funnel, gun director sight (GDS), and GDS funnel. Radar track and
+funnel selection status impact which display will be seen.
+
+Air-to-air gun employment and the combined SRM/Gun displays will be
+covered in the gun lecture (AAW-6).
+
+Symbols unique to the GUN attack HUD are the funnel, reticles, rounds
+at target range (RATR) cue, bullet maximum range (BMR) cue and rounds
+remaining numerics. The gun cross is present in the HUD with the
+master arm switch in ARM.
+
+LCOS Search Funnel
+
+Figure D-16 shows the LCOS search funnel gun aiming display. This
+display is in the HUD when GUN is selected on the weapon select switch
+and the radar is in search. The funnel is used to help align in plane with
+the target to achieve a stable tracking state.
+
+1000 FOOT
+PIPPER
+GUN
+CROSS 2250 FOOT
+35 38\cor PIPPER
+IS
+RATR * 4000 FOOT
+<i — “ [ea] PIPPER
+ROUNDS x 9.4 '
+REMAINING 5 o :
+XL
+| ~Sv5
+roy FNL
+220 ~~
+.750 Svi0
+2.2 9.06
+Cc
+
+AAW-02-16
+
+Figure D - 16. LCOS Search Funnel.
+
+AAW-2 D-18
+
+
+Text from AAW-2_HUD_Air-to-Air_Displays_page_25.jpeg:
+The three pippers (2-mil circles) are located at pseudo target ranges of
+1000, 2250, and 4000 feet (with PGU-28 in PACS). The width of the
+funnel at each range is determined by the apparent size of a 40-foot
+wingspan aircraft located at that range (stadiametric ranging). Ifthe
+target aircraft is tracked in the funnel with one of the pippers on the
+target, and if the target is visually judged to be at the pipper defined
+range, then the bullets should pass through the target.
+
+The RATR cue is present to show the location of your bullets arriving at a
+pseudo target range of 2250 feet (1000 feet if in stiffen). The RATR is
+present from arrival of the first bullet until arrival of the last bullet in the
+fired stream of bullets.
+
+The numerical rounds display indicates the approximate number of
+bullets on board as programmed in the PACS and not yet expended.
+During gun fire, the HUD (and PACS) count of rounds remaining
+decreases ten at a time (i.e., 220...210...200... etc.). The last number in the
+rounds remaining count in the HUD will be a “T” if the PACS is in the A/A
+or A/G TRNG mode (i.e. 51T). When all rounds have been expended, the
+rounds remaining count will show XXX (or XXT when in training PACS).
+
+D-19 AAW-2
+
+
+Text from AAW-2_HUD_Air-to-Air_Displays_page_26.jpeg:
+LCOS Track Funnel
+
+The LCOS track funnel display (Figure D-17) provides additional
+symbology/data as compared to the search display. The additional
+symbols/data are derived from radar track information.
+
+RADAR
+
+2M RANGE BAR
+
+PIPPER
+
+25 MIL
+SEGMENTED
+1 CIRCLE
+
+AAW-02-17
+
+Figure D - 17. LCOS Track Funnel.
+
+The reticle (2-mil pipper and 25-mil segmented circle) is positioned down
+the center locus of the funnel based on radar target range/range rate and
+ownship maneuvering parameters. The funnel is also moving based on
+the same data. If the pipper is held on the target in a stable tracking
+situation, the bullets should arrive at the target one time of flight after
+trigger squeeze.
+
+The range bar is provided to show radar derived range in an analog “clock
+type” format. The bar starts at twelve o’clock and moves clockwise. The
+leading edge of the bar shows range by clock position in thousands of feet,
+e.g., 3 o'clock is 3000 feet range.
+
+AAW-2 D - 20
+
+
+Text from AAW-2_HUD_Air-to-Air_Displays_page_27.jpeg:
+GDS
+
+The GDS (Figure D-18) sight requires full radar system lock on. “GDS” is
+presented in the lower right side of the HUD (window 17) to indicate GDS
+selected.
+
+2 MIL BULLET MAXIMUM
+PIPPER RANGE CUE
+
+50 MIL RATR
+RETICLE
+
+GDS
+SELECTED
+
+AAW-02-18
+
+TURN PLANE LINE RADAR RANGE BAR TAB
+
+Figure D - 18. GDS.
+
+D-21 AAW-2
+
+
+Text from AAW-2_HUD_Air-to-Air_Displays_page_28.jpeg:
+The 2-mil pipper/50-mil reticle/turn plane line are dynamically positioned
+based on ownship maneuvering and target range/range rate/maneuvering
+data. Ifthe pipper is on the target at trigger squeeze, bullets should hit
+the target.
+
+The radar range analog bar and RATR work as previously described. The
+range bar has a leading edge tab.
+
+The BMR cue is a dot positioned at the perimeter of the 50-mil reticle to
+indicate maximum effective bullet range based on type of rounds loaded in
+the PACS and ownship/target maneuvering and relationship. Like the
+range bar, a BMR dot at 3 o’clock would indicate a maximum effective
+bullet range of 3000 feet, 4 o’clock, 4000 feet, etc.
+
+The BMR cue indicates the range that corresponds to a bullet TOF of 1.5
+seconds for the M-56 bullet or 2.5 seconds for the PGU-28 bullet, or an
+impact velocity of 500 FPS, whichever produces the shortest range.
+Maximum accurate firing range is attained when the range bar tab is
+equal to the maximum range cue.
+
+The TD box is removed when its center is within 25 mils of the pipper, and
+target range is less than 3000 feet (or the maximum bullet range,
+whichever is greater). It reappears when range increases to 3200 feet (or
+200 feet greater than maximum bullet range), or when the center of the
+box is more than 37 mils from the pipper.
+
+AAW-2 D - 22
+
+
+Text from AAW-2_HUD_Air-to-Air_Displays_page_29.jpeg:
+GDS Funnel
+
+When the GUN mode is entered and the radar has attained single target
+track, upward activation of the coolie switch will toggle between GDS and
+GDS funnel. When in GDS funnel, “FNL” is displayed in window 17 of the
+HUD (Figure D-19).
+
+AAW-02-19
+
+Figure D - 19. GDS Funnel.
+
+The GDS funnel gun aiming display is a combination of GDS reticle and
+LCOS track funnel displays. The turn plane line is replaced with the
+funnel. The GDS reticle represents one solution while the LCOS track
+funnel represents a second solution.
+
+D - 238 AAW-2
+
+
+Text from AAW-2_HUD_Air-to-Air_Displays_page_3.jpeg:
+AIR-TO-AIR WEAPONS
+
+COVER
+
+HUD AIR-TO-AIR DISPLAYS
+INTRODUCTION
+
+This AAW-2 workbook is your guide in studying F-15E HUD air-to-air
+modes, displays and degrades. As part of a computer-based training
+(CBT) lesson, this workbook should be read prior to taking the CBT
+instruction.
+
+CONTENTS:
+
+INTRODUCTION 0000. eee eeeeneecesncecessaeecesaeesessaeecssaeeeessaeeseseeeenaees A-1
+CRITERION REFERENCED OBJECTIVES (CROs)...........ceeeeeeeeeeeees B-1
+STUDENT PREPARATION REQUIREMENTS ...0.0.. ee eeeeeeeeeeee C-1
+TEXT oc cececccceeesseeceeesseeeccessseeecesssaeeeceesssseeescesesaeeeseessaaeeeeeeeaaeess D-1
+END QE TEXT QUIG sess cscs cess sows sues susan seins see ose ones sass suivs seve sere ans wee snows ses su N/A
+GLOSSARY 00. eeecceeeeseecessceeeesaceceeeeecesaeeesesaeecesaeeessaeesessaeeeesaaeeessaees F-1
+
+A-1 AAW-2
+
+
+Text from AAW-2_HUD_Air-to-Air_Displays_page_30.jpeg:
+SYSTEM DEGRADES
+CC Failure
+
+All MRM and SRM computer generated attack steering display data is
+lost if CC failure occurs. A shoot cue is not provided, and launch
+envelopes must be estimated. The fixed MRM 12° reference circle is
+continuously displayed, and provides a visual aiming symbol for a missile
+fired without radar lock on. STT is available on the radar. If an AIM-7 is
+launched in STT, HPRF illumination is provided for 120 seconds. The
+AIM-120 can not be fired.
+
+The AIM-9M seeker head reference circle is not displayed, and the
+missiles are boresighted to 0° azimuth and 46 mils below the gun cross.
+The seeker heads will not slave to the radar. The waterline can be used as
+an aiming reference. When the missile in priority is uncaged, no cues will
+appear in the HUD to show uncaged and track status.
+
+The gun cross is continuously displayed, and becomes the sole aiming
+reference for gun shots.
+
+PACS Failure
+
+The CC relies on inputs from the PACS for computation and display of
+specific weapons aiming information. This includes the ASE circle and
+steering dot, launch range boundary data, missile and bullet inventories,
+etc. Therefore, with PACS failure, all ordnance-related HUD data is
+absent.
+
+INS Failure
+
+INS failure should not cause any degradation of HUD weapons displays
+other than a flashing velocity vector, as the AHRS provides automatic
+backup of INS attitude inputs. However, the unlikely failure of both
+systems could be mistaken for selection of symbols reject on the HUD. In
+either case (symbols reject or attitude failure), the heading and bank
+scales and pitch ladder are removed. Keep in mind, though, there will be
+many additional indicators of complete attitude failure.
+
+MPDP Failure
+
+Failure of the MPDP results in loss of the HUD.
+
+AAW-2 D - 24
+
+
+Text from AAW-2_HUD_Air-to-Air_Displays_page_31.jpeg:
+QUESTIONS
+
+If an AIM-7 is launched while in NAV master mode, the HUD
+
+aP of
+
+displays the necessary attack steering.
+
+NO ZONE cue is displayed.
+
+INVARM cue is displayed.
+
+display remains as selected by the master mode.
+
+One way to bring up the HUD MRM attack display beginning in the
+A/G master mode is by positioning the weapon select switch to
+
+pe op
+
+GUN.
+
+GUN, then MRM.
+
+MRM.
+
+MRM after deselecting INST master mode.
+
+With the master arm switch in SAFE,
+
+pe op
+
+A/A attack displays are automatically commanded on the HUD.
+the gun cross is removed from the HUD.
+
+the gun cross is displayed on the HUD.
+
+all ordnance related HUD data flashes.
+
+To manually boresight the SRM (not uncaged),
+
+pe op
+
+thumb forward on the boat switch.
+hold the coolie switch down.
+
+depress and hold the NGS button.
+depress and release the NGS button.
+
+D-25 AAW-2
+
+
+Text from AAW-2_HUD_Air-to-Air_Displays_page_32.jpeg:
+5. When the AIM-9M is uncaged on the target with a radar track,
+seeker lock on is indicated by
+
+doubling of FOV circle size, and the lock-on tone.
+removal of the FOV circle, and a tone change.
+removal of the ASE circle, and a tone change.
+doubling of ASE circle size, and the lock-on tone.
+
+Boop
+
+6. Identify the following (Figure D-20):
+
+Priority missile -
+Selected radar range -
+Target range -
+Ownship mach -
+
+Boop
+
+ae §
+O 1 16-2 15R
+
+M3M R11.3
+. 112 SEC
+
+AAW-02-20
+
+Figure D - 20.
+
+AAW-2 D - 26
+
+
+Text from AAW-2_HUD_Air-to-Air_Displays_page_33.jpeg:
+This display (Figure D-21) indicates
+
+there are no SRM missiles available.
+
+the priority AIM-7M is inside of Rmax.
+
+the AIM-9M has not achieved audio threshold.
+AIM-9M seeker malfunction.
+
+ao oP
+
+AAW-02-21
+
+Figure D - 21.
+
+D-27 AAW-2
+
+
+Text from AAW-2_HUD_Air-to-Air_Displays_page_34.jpeg:
+8. The number of rounds indicated in this display (Figure D-22) is
+
+a. 90.
+
+b. 220.
+ce. 450.
+d. 880.
+
+AAW-02-22
+
+Figure D - 22.
+
+AAW-2 D - 28
+
+
+Text from AAW-2_HUD_Air-to-Air_Displays_page_35.jpeg:
+10.
+
+If CC failure occurs,
+
+a. all ordnance related HUD data is absent.
+
+b. all MRM/SRM CC generated attack steering data is lost.
+c. the gun cross is intermittently displayed.
+
+d. the primary HUD display is lost.
+
+With PACS failure,
+
+a. the HUD is commanded to the secondary mode.
+
+b. A/A MASTER MODE is unavailable.
+
+c. SRM seeker heads do not slave to the radar.
+
+d. all ordnance related HUD data is absent.
+
+AAW-2
+
+
+Text from AAW-2_HUD_Air-to-Air_Displays_page_36.jpeg:
+ANSWERS
+
+1. d
+
+2. b
+
+3. b
+
+4. b
+
+5 d
+
+6. a. AIM-7M
+b. 20nm
+ec. 11.3nm
+d. .830
+
+7. a
+
+8. b
+
+9. b
+
+10. d
+
+AAW-2 D - 30
+
+
+Text from AAW-2_HUD_Air-to-Air_Displays_page_37.jpeg:
+A/A
+A/G
+AHRS
+AOJ
+ASE
+BMR
+CC
+DTWS
+FCP
+FNL
+FOV
+GDS
+HOJ
+HPRF
+HUD
+INS
+INST
+INVARM
+JAM
+LCOS
+
+LOS
+
+GLOSSARY
+Air-to-air
+Air-to-ground
+Attitude heading reference system
+Angle on jam
+Allowable steering error
+Bullet maximum range
+Central computer
+Designated track-while-scan
+Front cockpit
+Funnel
+Field of view
+Gun director sight
+Home on jam
+High pulse repetition frequency
+Head-up display
+Inertial navigation system
+Instrument
+Invalid armament
+Jamming
+Lead computing optical site
+
+Line of sight
+
+F-1 AAW-2
+
+
+Text from AAW-2_HUD_Air-to-Air_Displays_page_38.jpeg:
+LSG
+MEM
+MPDP
+MPRF
+MRM
+NAV
+NGS
+PACS
+PDT
+R
+RATR
+RCS
+Rmin LC/HC
+Rmax LC/HC
+SBR
+SRM
+STT
+
+T
+
+TD
+T™
+TOF
+
+TTA
+
+AAW-2
+
+Losing
+
+Memory
+
+Multipurpose display processor
+Medium pulse repetition frequency
+Medium range missile
+Navigation
+
+Nose gear steering
+Programmable armament control set
+Primary designated target
+Radar range
+
+Round at target range
+
+Radar cross section
+
+R minimum, low confidence
+
+R maximum, high confidence
+Special Burst Ranging
+
+Short range missile
+
+Single target track
+
+Training mode
+
+Target designator
+
+Target mach
+
+Time of flight (AIM-7, AIM-9)
+
+Time to active (AIM-120)
+
+
+Text from AAW-2_HUD_Air-to-Air_Displays_page_39.jpeg:
+TTI Time to impact (AIM-120)
+UNC Uncage
+
+VI Visual identification
+
+F-3 AAW-2
+
+
+Text from AAW-2_HUD_Air-to-Air_Displays_page_4.jpeg:
+CRITERION REFERENCED OBJECTIVES (CROs)
+
+1. Identify the effects of cockpit weapon controls, radar modes and
+master modes on the A/A HUD displays.
+
+2. Given an A/A HUD display, identify the weapon selected and
+interpret its associated symbology.
+
+a. AIM-7
+b. AIM-120
+c. AIM-9
+d. GUN
+3. Identify the effects of the following system degrades on the A/A HUD
+display:
+a. CC
+b. PACS
+c. INS
+d. MPDP
+REFERENCES
+TO 1F-15E-34-1-1 Section I Systems-General
+PACS
+FCP Stick Grip and Throttle Controls
+RCP Hand Controllers
+A/A Radar Controls
+A/A Radar Displays
+Radar Special Modes
+Radar Employment
+
+AIM-120 Employment
+AIM-7 Employment
+AIM-9 Employment
+
+A/A Gun Employment
+Section II | Abnormal Operations
+(CC Failure)
+TO 1F-15E-1 Section I Head-Up Display (HUD)
+
+AAW-2 B-1
+
+
+Text from AAW-2_HUD_Air-to-Air_Displays_page_5.jpeg:
+STUDENT PREPARATION REQUIREMENTS
+BEFORE CBT CLASS
+
+1. Study the information contained in this workbook and complete the
+questions.
+
+2. Review TO 1F-15E-34-1-1 and TO 1F-15E-1, applicable references.
+
+3. Take this workbook to the CBT class.
+
+C-1 AAW-2
+
+
+Text from AAW-2_HUD_Air-to-Air_Displays_page_6.jpeg:
+(This Page Intentionally Blank)
+
+AAW-2 C-2
+
+
+Text from AAW-2_HUD_Air-to-Air_Displays_page_7.jpeg:
+TEXT
+
+The HUD is the primary reference in the visual, dogfight environment. In
+conjunction with the FCP stick grip and throttle controls, the HUD affords
+the distinct advantage of in-close radar acquisition and A/A weapons
+employment without looking inside the cockpit.
+
+Although an indispensable tactical tool, there can be drawbacks to this
+“single-source” attack, navigation and attitude display. One potential
+danger is pilot fixation on attack symbology to the exclusion of other
+environmental cues like flight path convergence with terrain, the target
+aircraft, etc. Channelizing attention on the HUD at the expense of a
+disciplined crosscheck is too often a fatal error.
+
+The HUD display is limited in A/A information when the NAV or INST
+master mode is selected. The TD box is the only A/A type symbology in
+the normal NAV or INST HUD displays. Target and missile information
+is not available except on the radar display. These master modes are not
+recommended for A/A employment.
+
+A/A information is not available in the A/G master mode except on the A/A
+radar display.
+
+HUD DISPLAYS-A/A MASTER MODE
+A/A Master Mode Selection
+
+The HUD displays are governed by the selected master mode. HUD
+air-to-air weapons displays are only available in the A/A master mode.
+Depressing the A/A master mode button, moving the FCP castle switch
+forward (if not in A/A), or selecting GUN with the weapon select switch,
+immediately selects the A/A master mode. Subsequent forward movement
+of the FCP castle switch will toggle between A/A and A/G master modes.
+While in the A/A master mode, the HUD attack displays are then
+determined by the weapon select switch position (AFT/CTR/FWD).
+
+D-1 AAW-2
+
+
+Text from AAW-2_HUD_Air-to-Air_Displays_page_8.jpeg:
+SNIFF (SNF) and VIS IDENT (VI)
+
+There are a number of radar modes that influence what information is
+presented on the HUD. You will recall that the SNF and VI modes are
+selected by pressing the buttons adjacent to those options on the A/A
+radar display. The SNF cue is displayed on the HUD (Figure D-1) when
+the radar is operating in this mode.
+
+12° MRM AIM-7
+REFERENCE CIRCLE
+
+GUN CROSS
+
+SPECIAL MODE
+SELECTED
+
+AAW-02-01
+
+Figure D - 1. SNIFF.
+
+AAW-2 D-2
+
+
+Text from AAW-2_HUD_Air-to-Air_Displays_page_9.jpeg:
+GC MVV €-d
+
+‘pepeyes IA “er Iepey “Z - G eansiy
+
+72O-ZO-MVV
+
+HOV
+LA9uvVL
+
+Sqn LILW
+LASYVL
+
+LNNOO Z-WIV WYN
+[00 8+]
+
+xod GL
+
+AWwos
+AONVY YVdVe
+
+(ACOW IA) WN 9° TILNA 310uI9
+asv sniavy daxis
+
+‘eTeos osues oy Jo doy oy ye podeydsip st odues
+
+odoos 1epey ‘opsue yoodse puv osu. yjIM suoje pedAeydsip st .qd yy
+
+jo opnyziy[e ‘Uo Yoo] Aepel e UTIM (‘CNH 24} Uo podeydstp st yorum Jos.1e4
+o1eyM epoul A[TUO 94} ST TA) “Youur diysuMo MoTeq ‘poeyueserd St (L,) Youur
+josie} ‘UOTyIppe Ul “ApAOLId Ul WL-IATV Ue YALA opqe[reae SY L-WIV
+INOJ AV O10} SOPEOTPU! (NPI) A10JUOATI WHI OWL 3081} 8Y3 04 (SOT)
+JYSIS JO OUT] PUUOJUR SoyeoIpUT YOTYM ‘(erenbs [IwW-GzZ) xoq GL, ey} Sepnypout
+osTe (Z-q e1ns14q) Aeldstip LTS CNH euL ‘peyueseid ueymM pessnostp
+
+pue pojeqey| Ajeyeredos St epoul [A 9Y} 0} oIfloeds si yey} ASoloquiAg
+‘ASofoquiAs T, 9 1epe.s [e1oues Aedstp (G-q Ysno.1yy Z-q eINsTy) Sernsty
+GOH AnNo}j }xeu oy], ‘CNH 4} Uo poyzeoda. st sutiee}s [A poXeldsip 1epey
+
+

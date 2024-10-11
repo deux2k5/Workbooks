@@ -1,0 +1,1258 @@
+Text from AVI-10_Radar_Altimeter__Autopilot_page_1.jpeg:
+SUPPORTS COURSES
+FIS5EBQ
+
+FISETX
+
+FISESOC
+
+ACADEMIC STUDENT WORKBOOK
+F-15E
+
+AVIONICS
+AVI-10
+RADAR ALTIMETER & AUTOPILOT
+
+MARCH 1999
+
+(SUITE 3 OFP)
+
+AIR COMBAT COMMAND
+
+
+Text from AVI-10_Radar_Altimeter__Autopilot_page_10.jpeg:
+ADI
+
+The ADI shows radar altitude data in two ways. If radar altitude is
+selected on the Data 1 page of the UFC (Figure D-2), a digital readout is
+presented beneath baro altitude (Figure D-3). It will also be displayed as
+an analog scale at all times when the terrain following radar is on.
+
+DIGITAL RADAR ALTITUDE
+
+ANALOG
+RADAR
+ALTITUDE
+(TFR ON)
+
+SP WL IWLINL ITLL Ne
+
+AVI-10-03
+
+Figure D - 3. Radar Altitude Readouts on the ADI (TF Engaged).
+
+AVI-10 D-4
+
+
+Text from AVI-10_Radar_Altimeter__Autopilot_page_11.jpeg:
+TF
+
+Digital radar altitude is always displayed just below the 300-foot set
+clearance plane legend on the TF E-scope display (Figure D-4). Like the
+rest of the radar altimeter readouts, it is displayed to the nearest ten feet.
+
+RADAR ALTITUDE
+
+300 40 10 1000
+
+G450 MEA
+
+|
+a
+i:
+ia
+j=
+ja
+i”
+
+1 2
+
+III
+
+[NORM] ECCM  wx1
+
+|
+
+BI
+
+<<
+
+®
+
+AVI-10-04
+
+Figure D - 4. Radar Altitude Readout on the E-scope.
+
+D-5 AVI-10
+
+
+Text from AVI-10_Radar_Altimeter__Autopilot_page_12.jpeg:
+HUD
+
+The HUD presents radar altitude in two ways. When selected on the
+Data 1 page of the UFC (Figure D-2) radar altitude is displayed digitally
+below baro altitude. It may also be displayed as a thermometer-like
+analog altitude scale. Whenever the radar altimeter is powered on
+(whether or not, Data 1 PB #9 is *) and the radar altitude is less than or
+equal to 1500 feet, the thermometer will be displayed (Figure D-5) if
+within radar altimeter pitch/bank limits. The thermometer is
+automatically removed from the HUD when aircraft altitude is greater
+than 1800 feet AGL for more than 3 seconds. It is automatically
+redisplayed immediately upon descent through 1500 feet AGL. The
+thermometer can be removed from the HUD through the HUD
+programming display unless the TFR is on, when it will always be
+displayed below 1500 feet AGL as described above.
+
+DIGITAL RADAR ALTITUDE
+
+ANALOG
+
+355 —36— 101 RADAR
+A ALTITUDE
+
+Meer ee NAV 12.B
+N_ 22.6
+00:03:06
+
+THERMOMETER
+
+AVI-10-05
+
+Figure D - 5. Readout on the HUD.
+
+AVI-10 D-6
+
+
+Text from AVI-10_Radar_Altimeter__Autopilot_page_13.jpeg:
+Failure Indications
+
+If the radar altimeter is in OFF or OVERRIDE, experiences a failure, or
+radar altimeter altitude/bank/pitch limits are exceeded, the digital
+readouts display OFF if selected for display (UFC Data 1). If the altitude
+thermometer was present, it disappears. If radar altitude was not
+selected for display, there will be no indication of failure on the HUD.
+
+A word of caution: OFF may not display immediately after exceeding
+attitude limits. It may still change or freeze to a set altitude for some
+time in rapidly changing attitudes before changing to OFF. Rely on the
+RALT reading only when within parameter limits and a stable attitude.
+
+D-7 AVI-10
+
+
+Text from AVI-10_Radar_Altimeter__Autopilot_page_14.jpeg:
+QUESTIONS
+
+1. Radar altitude readouts can be presented on the
+; , and
+
+2. The radar altimeter thermometer can be displayed on the
+and
+
+3. The radar altimeter provides inputs to four systems. What are they?
+
+4. The function of the RDR ALT OVERRIDE position is to
+
+remove radar altitude information from the HUD.
+
+expand the bank/altitude limits for the radar altimeter.
+
+c. allow manual TF operations with an inoperative radar
+altimeter.
+
+d. allow use of the LAWS using barometric altitude, instead of
+
+radar altitude.
+
+o£
+
+5. Radar attitude/altitude limits are
+
+60° bank, +45° pitch, 0-50,000 feet altitude.
+60° bank, +30° pitch, 0-30,000 feet altitude.
+45° bank, +45° pitch, 0-50,000 feet altitude.
+60° bank, +60° pitch, 0-50,000 feet altitude.
+
+Roop
+
+AVI-10 D-8
+
+
+Text from AVI-10_Radar_Altimeter__Autopilot_page_15.jpeg:
+ANSWERS
+
+UFC, ADI, HUD, TF E-scope
+
+HUD, ADI
+
+a. LAWS
+
+b. TFR
+
+c. Autopilot
+d. GCWS
+
+c
+
+d
+
+AVI-10
+
+
+Text from AVI-10_Radar_Altimeter__Autopilot_page_16.jpeg:
+AUTOPILOT
+
+The autopilot, through the automatic flight control system, can
+automatically maintain a desired attitude, altitude, heading, and/or
+course. The modes and submodes are engaged and monitored through the
+up-front control (UFC) and may be overridden and/or disengaged at any
+time.
+
+Modes and Submodes
+
+Autopilot Disengagement
+
+The autopilot (including submodes) is disengaged by pressing the paddle
+switch on either cockpit control stick or by exceeding basic autopilot
+limits. Submodes are disengaged by deselecting them on the UFC
+autopilot submenu or by exceeding individual submode limits.
+
+Attitude/Heading Hold
+
+These are the basic autopilot modes. When engaged, it maintains the
+current pitch attitude and if the current bank angle is greater than 7°, it
+maintains that bank angle. It is referred to as attitude (ATT) hold. Ifthe
+bank angle is equal to or less than 7°, it maintains current pitch attitude
+and wings level. This is referred to as heading (HDG) hold. For basic
+autopilot engagement, the aircraft must be within +45° of pitch, 60° of
+bank, +25°/second roll rate, or within -1 to +3 incremental Gs. If outside
+these parameters, the autopilot does not engage, and if engaged, it
+disengages. Also, if any CAS axis disengages, either paddle switch is
+depressed, or the INS attitude is invalid, the autopilot will not engage or
+will disengage.
+
+AVI-10 D-10
+
+
+Text from AVI-10_Radar_Altimeter__Autopilot_page_17.jpeg:
+Altitude Hold/Select
+
+In the altitude hold (ALT HOLD) submode, the autopilot keeps the
+aircraft at a specified altitude. In the altitude select (ALT SELECT)
+submode, the autopilot flies the aircraft to an aircrew entered altitude at a
+climb/descent rate controlled by the aircrew’s throttle inputs. In either
+submode the altitude reference may be barometric (BARO) or radar
+(RDR), as selected by the crew. ALT HOLD or ALT SELECT can be
+engaged/disengaged simultaneously with basic autopilot engagement, or
+separately added to/deleted from basic autopilot. The altitude submodes
+will not operate separately from (i.e., without) the basic autopilot. Either
+submode can be disengaged along with the basic autopilot by the paddle
+switch, by exceeding parameters, or individually by deselecting the
+submode on the UFC autopilot submenu.
+
+BARO With BARO selected, the aircraft flies the barometric
+
+HOLD altitude at engagement as measured by the air data
+computer. If control stick steering is used, it
+references the new altitude when the stick is released.
+
+RDR Radar altitude hold maintains the existing altitude at
+
+HOLD engagement as long as it is between 380 and 50,000
+feet. The radar altitude hold mode is not
+recommended for use over rolling/rugged terrain below
+5000 feet above ground level (AGL).
+
+BARO SEL/ The crew can select a barometric or radar altitude
+
+RDR SEL by using the autopilot submenu of the UFC. Both
+altitude select modes use a constant airspeed/mach
+profile to climb to the selected altitude and a constant
+airspeed profile to descend. The autopilot reverts to
+the altitude hold submode when the selected altitude
+is reached. The desired climb or descent airspeed
+should be achieved prior to engaging the ALT SELECT
+submode. The crew then initiates and controls the
+climb or descent with the throttles. Airspeed may be
+adjusted using control stick steering during the climb
+or descent. Consult TO 1F-15E-1, Section 1 for system
+operating limits.
+
+D-11 AVI-10
+
+
+Text from AVI-10_Radar_Altimeter__Autopilot_page_18.jpeg:
+BLENDED _ Blended mode allows the aircrew to add terrain
+
+MODE following protection to the autopilot altitude hold
+mode. Blended mode maintains the current baro or
+radar altitude until the auto terrain following (ATF)
+system determines that positive Gs are required to
+maintain the TF set clearance plane. Once the terrain
+has been cleared, the aircraft automatically recaptures
+the previous baro or radar altitude. The blended mode
+is not operational in manual terrain following.
+
+Automatic Terrain Following (ATF)
+
+The autopilot can also be coupled to the terrain following system to
+provide automatic, low altitude, terrain following flight. This system can
+be used with all autopilot submodes.
+
+Steer Modes
+
+The autopilot can also be coupled with one of five azimuth steering
+submodes to automatically fly a desired course. The options, heading
+(HDG), navigation (NAV), TACAN (TCN)/course (CRS), or ground track
+(GT), are selected on the HSI and engaged through the UFC. They are
+compatible with the altitude hold submodes, with auto TFR, and function
+in all master modes but air-to-air. Disengagement is done through the
+paddle switch or the UFC by deselecting STR MODE.
+
+HDG maintains the selected command heading on the HSI.
+
+NAV maintains a great circle course from present position to the
+current aircraft sequence point.
+
+TCN steers to a 45° course intercept, and then maintains the
+TACAN course set on the HSI.
+
+CRS uses TACAN steering equations to intercept a selected
+course to the current NAV steerpoint. CRS alternates with
+TCN on the HSI.
+
+AVI-10 D-12
+
+
+Text from AVI-10_Radar_Altimeter__Autopilot_page_19.jpeg:
+GT holds the ground track heading at engagement. A specific
+GT cannot be selected on the HSI with autopilot steer mode
+engaged. To change GT, you must use control stick
+steering.
+
+Three steer modes, ALG, ILST, and ILSN, cannot be coupled to the
+autopilot.
+
+Control Stick Steering (CSS)
+
+Control stick steering during autopilot operation means manually moving
+the stick in pitch and/or roll without disengaging the autopilot. This
+allows the aircraft to be maneuvered without reengaging the autopilot
+every time. Stick force required varies from 1 to 3 lbs; once the stick force
+is relieved, the autopilot resumes normal operation. No lights come on to
+indicate CSS; however, should an autopilot mode or submode disengage
+during CSS due to excessive force, the AUTO PLT caution is triggered.
+
+CSS in roll will begin a turn and when pressure is removed, will reacquire
+the selected HSI steering except for GT steering. In the GT steering
+mode, if CSS is engaged, the bank angle must be manually reduced to less
+than 7° to capture a new ground track. If the bank angle is greater than
+or equal to 7° the autopilot will enter roll attitude hold until the bank
+angle is reduced to less than 7°.
+
+Pitch control stick steering while in ALT HOLD mode resets the altitude
+reference to be held when CSS is terminated. Pitch control stick steering
+during “altitude select” only resets the airspeed/mach reference to be held
+while climbing or descending to the selected altitude.
+
+D-13 AVI-10
+
+
+Text from AVI-10_Radar_Altimeter__Autopilot_page_2.jpeg:
+ADMINISTRATIVE INFORMATION
+
+This student workbook is designed to provide information on the F-15E,
+its systems, and capabilities. It is not a sole source document, but is to be
+used in conjunction with other standard Air Force publications and
+technical manuals. If you find any differences between the material
+contained herein and other governing regulations, adhere to the
+regulations and notify the OPDR.
+
+Changes to this workbook are indicated with a heavy black line in the left
+margin.
+
+Forward recommendations for revision or change to 4 TS, SJAFB, NC,
+275381.
+
+Supersedes: AVI-10, July, 1998
+
+OPDR: 4TS
+
+Index of Changes
+
+Effective Date Pages Affected
+
+
+
+Text from AVI-10_Radar_Altimeter__Autopilot_page_20.jpeg:
+Up-front Control
+
+Displays
+
+The UFC is the primary means of selecting, engaging, and monitoring the
+autopilot submodes. Two display formats, Menu 1 and the autopilot
+submenu, are used for autopilot functions. Menu 1 shows current
+autopilot status information beside PB #9 (Figure D-6).
+
+® ®
+
+|W LAU 12008" STR a8 OL stars
+* >
+VION 112x AIP HBGTL(
+* >
+SYTFF 124 AWE WIE
+
+sitF NORM N-F NORM) b
+
+J (A [e2es.125 ees. 1aesx| LC) |
+— {eR 1 28 |
+® rec] | | | GREC| ®
+
+C/M VOL
+
+~
+
+X
+
+(qe 011 (eee 111) (cee |
+A N B
+1 2 3
+=
+ES aS \(r joy ee |((e-
+4 W M E
+EF MARK' 4 5 6 1/P
+ba \S
+r (( (= tre) )
+3 iS c
+8 9
+——)) ( (oF
+0)
+
+?———) !| ( -———*)
+BRT 7 SHF
+M os S QR = a
+A t= ) (oF 7——")
+@ |ave ||i| cir DATA|}|||IMENU] @ |} EMIS
+= ve % % %& /)
+AVI-10-06
+
+Figure D - 6. Menu 1 on UFC.
+
+AVI-10 D-14
+
+
+Text from AVI-10_Radar_Altimeter__Autopilot_page_21.jpeg:
+Depressing PB #9 on Menu 1 brings up the autopilot submenu. This
+display provides the means of coupling aircraft steering submodes,
+selecting altitude submodes, and monitoring status (Figure D-7). The
+status readout on the top line is the same as on Menu 1. If the A/A
+master mode is selected, the STR MODE line blanks indicating that the
+mode is not useable. It is a good idea to check selections on the autopilot
+submenu prior to engaging the autopilot to avoid surprises.
+
+A/PHDG « STATUS
+
+OR A VALUE
+(0 - 50,000)
+
+M
+5
+iS} Cc
+8 9
+“3 4 4
+
+AVI-10-07
+
+Figure D - 7. Autopilot Submenu.
+
+D-15 AVI-10
+
+
+Text from AVI-10_Radar_Altimeter__Autopilot_page_22.jpeg:
+If the basic autopilot is not engaged, Menu 1 and the autopilot submenu
+show “A/P OFF” as in Figure D-8.
+
+STATUS STATUS
+
+ITCN 112X
+
+IFF 124 A1/E14
+ITF NORM N-F NORM
+U226.125 U228.100Gx
+
+AUTOPILOT SUBMENU
+
+AVI-10-08
+
+Figure D - 8. Autopilot not Engaged.
+
+AVI-10 D-16
+
+
+Text from AVI-10_Radar_Altimeter__Autopilot_page_23.jpeg:
+Mode/Submode Engagement
+
+Pressing the autopilot pushbutton in the lower left corner of the UFC
+keyboard (Figure D-9) engages the basic autopilot (attitude/heading hold
+mode), along with any preselected submodes, and brings up the autopilot
+submenu (Figure D-9, right) in that cockpit only. A/P ATT or A/P HDG on
+Menu 1 and the autopilot submenu indicate that only the basic autopilot
+is engaged in this example.
+
+LAW 12000’ STR 19A
+ITCN 112X A/P OFF
+
+IFF 124 A1/E14
+
+ITF NORM N-F NORM
+
+U226.125 U228.100Gx
+
+AUTOPILOT S SUBMENU
+
+AVI-10-09
+
+Figure D - 9. Engaging the Autopilot.
+
+D-17 AVI-10
+
+
+Text from AVI-10_Radar_Altimeter__Autopilot_page_24.jpeg:
+As previously mentioned, the autopilot submenu can be displayed without
+engaging the autopilot. This is done by depressing the button adjacent to
+the A/P legend (PB #9) on Menu 1 (Figure D-10). Notice that since the
+
+autopilot is not engaged, A/P OFF is displayed on the top row of the
+autopilot submenu.
+
+LAW 12000’ STR 19A
+
+ITCN 112X
+
+IFF 124 A1/E14
+
+ITF NORM N-F NORM
+
+U226.125 U228.100Gx
+
+5 Hoe
+
+—_—
+| SHF
+
+IGIE
+
+MENU 1 AUTOPILOT SUBMENU
+
+AVI-10-10
+
+Figure D - 10. Autopilot Submenu without Engagement.
+
+AVI-10 D-18
+
+
+Text from AVI-10_Radar_Altimeter__Autopilot_page_25.jpeg:
+Altitude Hold
+
+Altitude hold is preselected or engaged from the autopilot submenu where
+it is displayed as ALT HOLD at PB #3. One of two altitude references,
+BARO or RDR, is always displayed at PB #4 (Figure D-11). Depressing
+PB #4 will change the legend. To engage altitude hold, press PB #8; an
+asterisk appears beside ALT HOLD to signify engagement and the status
+changes to A/P ALT, which always supersedes A/P ATT or A/P HDG. The
+autopilot maintains the BARO or RDR altitude existing at the moment of
+
+engagement.
+® ®
+AIP HDG KO) C= AIP ALT EL)
+k | 4 F =]
+STR MODE-NAV LO) CJ4(sTR mOBE-nAv LC)
+— —| F
+ALT HOLD SEL OFF]L CAbRRLT HOLD HOLD SEL OFFIL{_)
+4 «
+BRRO LT) => (1 [BARS Le)
+1
+U2aes.tes  vees.18a6x]LC) (L q(uees tas uees.18a6x]LC) |
+©) s[ecr 20 - ©) © Alecr 20 - ©)
+® ®
+VOL
+
+@),
+
+a
+z
+
+AIDOIGIE » OUODE
+
+AVI-10-11
+
+M
+|
+N
+
+z-=
+
+Figure D - 11. Autopilot Submenu.
+
+For the ALT HOLD mode to be displayed, SEL OFF must be displayed at
+PB #8. If an altitude is displayed at PB #8 (Figure D-12, page D-19)
+PB #8 will display ALT SELECT.
+
+The altitude to be held may be adjusted with pitch CSS by applying pitch
+pressure to the control stick without disengaging the autopilot.
+
+D-19 AVI-10
+
+
+Text from AVI-10_Radar_Altimeter__Autopilot_page_26.jpeg:
+Altitude Select
+
+There must first be an altitude displayed at PB #8 on the UFC for ALT
+SELECT to be displayed at PB #3 (Figure D-12). If the scratchpad is
+blank, pressing PB #8 momentarily toggles between SEL OFF and the
+last valid altitude entry. At central computer power up, PB #8 defaults to
+SEL OFF and the toggled default altitude is 31,000 feet. Enter the
+desired altitude value into the scratchpad and press PB #8. Entries
+between 10 and 500 transfer to PB #8 as values between 1000 and 50,000;
+entries between 1000 and 50,000 transfer as entered. Once an altitude is
+displayed at PB #8, ALT SELECT is displayed at PB #3 and the mode is
+available for selection.
+
+The altitude reference may be either RDR or BARO, as selected and
+displayed at PB #4. Although you would normally select the altitude
+reference prior to engaging the ALT SELECT mode, you can toggle
+between RDR and BARO with ALT SELECT engaged. When switching
+from RDR to BARO, the selected altitude is compared to ground level. If
+the selected altitude is at least 1000 feet above ground level, the reference
+switches to BARO. Ifthe selected altitude is less than 1000 feet above
+ground level, PB #4 displays BARO momentarily then changes back to
+RDR, and RDR remains the altitude reference. However, there is no
+interlock when initially in BARO to prevent selecting a BARO ALT
+SELECT that is below ground level.
+
+To engage the submode, the aircrew first establishes the desired
+climb/descent airspeed, then presses PB #3. Submode initiation results in
+capture of the current calibrated airspeed and/or mach which is displayed
+at PB #7. Airspeed/Mach or airspeed is only displayed at PB #7 when the
+submode is actually engaged, as in Figure D-12. As the throttles are
+moved, the aircraft descends at a constant calibrated airspeed or climbs at
+a constant calibrated airspeed, until reaching a transition mach which it
+then maintains until level off. The aircrew controls rate of climb or
+descent with throttle movement.
+
+Use CSS to change the calibrated airspeed in the climb or descent by
+applying pitch pressure to the stick until the new airspeed is obtained.
+
+AVI-10 D - 20
+
+
+Text from AVI-10_Radar_Altimeter__Autopilot_page_27.jpeg:
+The aircrew can deselect the ALT SELECT submode in three ways.
+Pressing PB #8 toggles to SEL OFF and the autopilot reverts to altitude
+hold at the current altitude. Pressing PB #8 deselects the ALT SELECT
+submode and the autopilot reverts to attitude/heading hold. Depressing
+either cockpit paddle switch disengages the autopilot completely (basic
+autopilot and all submodes).
+
+) ®
+[js RIP AL H( |
+x I |
+IPSte MOBE-NAV Li
+k = k >
+~ VAKALT SELECT 7B00 HK
+— ——
+VJ IBARG 358/M8 .98)/Ef |
+—
+Ja} bee. 12S U348 88x
+—! [KOA 17 12
+(>) — (1 ————S 1) —S 1 SKS
+it cull 4 5 8 Wieym
+Ss) ©) MARKI||||| Vf M4 5 AM ve
+QO BRT : : : " SHF
+
+M & &
+
+I @) SS ——)\ ((-—)\ (oo) (>
+
+N : EMIS
+@ |}are | CLR DATAHHIMENU @) {I Ter
+
+Se rs Ve e ty
+
+AVI-10-12
+
+Figure D - 12. Altitude Select.
+
+D-21 AVI-10
+
+
+Text from AVI-10_Radar_Altimeter__Autopilot_page_28.jpeg:
+The autopilot status on Menu 1, with either RDR or BARO altitude hold
+or select submode engaged, is displayed as “A/P ALT” (Figure D-13).
+Remember, none of the steering/altitude submodes can function
+separately from the basic autopilot. The basic autopilot must be engaged
+(A/P button) either before or along with the submodes (if they were
+preselected).
+
+(®
+
+@)
+
+S|LAU 12882' STR ISA}
+
+Lo Sr STATUS
+— i
+
+fren 12x AIP ALTIL(
+. 7 K 4
+—JSIEFE 124 AVE TW) EL |
+
+——— | —
+To VIITF NORM N-F NORMI ES
+— —*
+4} Uee6.1e5 Ucees. iBBG*|
+—/KCR} e@ JL
+av, (erm i * IL 2 js jer ae
+~~) —S> (SS Sj Ss
+ww ©) MARKI||||| Yf a . 1/P ©)
+O BRT . [7 | : a SHF
+'@) SS ts) —— tres)
+N @ | A/P |II] cir oI JPATAI | IMENUT @ (ec
+XR : i )
+
+AVI-10-13
+
+Figure D - 13. A/P Altitude.
+
+AVI-10 D - 22
+
+
+Text from AVI-10_Radar_Altimeter__Autopilot_page_29.jpeg:
+Steer Modes
+
+To couple a steer mode with the autopilot, the desired mode must be
+selected on the HSI display (Figure D-14, left). Whichever steer mode is
+boxed (except ILST, ILSN, or ALG) is the one coupled. If ILST or ILSN is
+boxed on the HSI at A/P engagement, INV is shown on the UFC at PB #2
+and the steer mode cannot be selected. If ALG is boxed at autopilot
+engagement, the steer mode changes to NAV on the HSI. With the
+autopilot engaged in ALG or ILS steering, selections are removed from the
+HSI since they are not autopilot compatible (Figure D-14, left). The boxed
+steer mode also appears on the autopilot submenu at PB #2 (Figure D-14,
+right). By pressing PB #2, the steer mode is preselected or engaged; an
+asterisk shows the status. “A / P” appears on the HSI (Figure D-14, left)
+when a steer mode is engaged, and the steer mode also appears on UFC
+Menu 1 and the top line of the autopilot submenu when engaged.
+
+The steer mode cannot be selected in the air-to-air master mode. PB #2 on
+the UFC autopilot submenu will be blanked in the air-to-air master mode.
+
+cl
+
+e)
+iS)
+
+=| AIP NAV -
+
+——
+
+( \4| ALT HOLB SEL OFFIH
+
+pure v RNG A _
+ei € (J4AIKSTR MODE-NAY L
+
+Davin yy
+
+33,
+\ 9 Ls
+Zw,
+
+WOOT
+
+4 —
+I4|BARG
+7
+
+yy I4| Vee .325 Uecs. Box" IC
+
+©) leer 28 © |
+®
+
+AVI-10-14
+
+Figure D - 14. Steer Modes.
+
+D - 23 AVI-10
+
+
+Text from AVI-10_Radar_Altimeter__Autopilot_page_3.jpeg:
+AVIONICS
+
+COVER
+
+RADAR ALTIMETER & AUTOPILOT
+
+INTRODUCTION
+
+This workbook is your guide in studying the radar altimeter and the
+autopilot. These two seemingly unrelated systems have been combined in
+a CBT lesson which gives “hands-on” experience. The autopilot uses the
+radar altimeter in some of its submodes. As part of a computer-based
+training (CBT) lesson, this workbook should be read prior to taking the
+CBT instruction.
+
+CONTENTS:
+
+INTRODUCTION 000. eecccceseceeseeceseeeeesaeecesaeesensaeessseeeensaeesesnaeeens A-1
+CRITERION REFERENCED OBJECTIVES (CROs).............eeeeeeeeeeeeeees B-1
+STUDENT PREPARATION REQUIREMENTS . 000... eeeeeeeeeeeenees C-1
+TEXT occ eccsccccceesseeccesssneeeecesssseeeceessseeeccesssseeeccessaaeeeseessaeeeseeesaeeesenes D-1
+END OF TEXT QUID sssie sas coos sss sues sen ses sone seve snes sure seins se sere ses sun suivs see outs ones N/A
+GLOSSARY. eee ccesceesscecesneeecssaeeseseecessaeeceseeeessaeesesaaeeeesaeesesnaeeeneas F-1
+
+
+Text from AVI-10_Radar_Altimeter__Autopilot_page_30.jpeg:
+With a steer mode engaged, the autopilot status is displayed as “A/P
+AHDG, A/P NAV, A/P TCN, A/P CRS, or A/P GT” (Figure D-15, left). If
+both an altitude function and a steer mode are engaged, the status is
+displayed with the steer mode first; i.e., AYP NAV/ALT as in Figure D-15,
+right. The Menu 1 autopilot status and the autopilot submenu status will
+always be identical.
+
+Note: To distinguish between the heading hold (wings level) basic
+autopilot mode and the autopilot heading hold steer mode (as selected on
+
+the HSD, the autopilot status line will show AHDG for the steer mode and
+HDG for wings level basic autopilot.
+
+@ ® (® ®
+( Ja(LAu i2ee8e" str i9Al el [ J4[LAu ieeea: STR 139A] KL)
+— a —= =
+S|TCN 112X Alp NAV IIE) S|TCN 112X QAR/P NAVIALTEE
+— — — —
+(PFE 124 RE TY] (J4/iFF 124 RUE IIE |
+> 1 < =]
+( |H\TF N-F NORM| EL) (H/T N-F NORM|EL )
+— —= 4 4
+SY Ca (u226.125  vee8 1a6x/-) \ (Jalue26.i25  v2e8.1286x) HC) \L
+©) [eee 20 -© © leer 228 - ©)
+®
+
+eva] VoL
+R2e@OR4
+
+o
+
+BD
+
+(3)
+
+a
+
+H/o
+
+TA | |IMENU] ® (&
+
+AVI-10
+
+VOL
+R1e@OR3
+
+BRT
+M
+
+g©
+
+=
+=
+
+cle
+
+a
+
+a
+
+o
+
+o
+
+ojala
+
+SHF
+
+o
+
+D6
+
+© FIEIG
+
+EM
+
+IS
+rT
+
+Figure D - 15. Steer Mode Status.
+
+AVI-10-15
+
+
+Text from AVI-10_Radar_Altimeter__Autopilot_page_31.jpeg:
+Submode Preselection
+
+Altitude and steering submodes can be preselected on the autopilot
+submenu by pressing the button beside the desired submode with the
+autopilot disengaged. Then, when the A/P button on the UFC is pressed,
+they become engaged. It is not necessary to first select basic autopilot and
+then add submodes. Failing to check the autopilot submenu prior to
+engagement could give an unexpected response.
+
+HUD
+
+The engaged steer mode is also shown on the HUD by the letter “A” in
+front of the steering mode in the data block (Figure D-16).
+
+R15000
+
+OR ATCN XXX
+AGT XXX
+AHDG XXX
+ACRS XXX
+
+nee Sid ANAV 12.A
+N 22.8
+00:03:02 E
+
+AVI-10-16
+
+Figure D - 16. HUD Autopilot Status.
+
+Autopilot Light
+
+A green “A/P” advisory light in both cockpits indicates that an autopilot
+mode is engaged. However, when the auto terrain following (ATF) radar
+is in control of the aircraft, the “A/P” advisory lights illuminate only when
+a steer mode is engaged. In other words, the “A/P” advisory lights only
+come on when an aircrew selects an autopilot function on the UFC, not
+when the ATF uses the autopilot.
+
+D - 25 AVI-10
+
+
+Text from AVI-10_Radar_Altimeter__Autopilot_page_32.jpeg:
+Autopilot Cautions
+
+The AUTO PLT caution will be displayed on the appropriate MPD/MPCD
+(Figure D-17) as a display caution. When it appears, it also illuminates
+the FLT CONTR major category light and the MASTER CAUTION light.
+These cautions are activated by an unsuccessful autopilot engagement
+attempt (including submodes), by a malfunction-caused disengagement, or
+exceeding CSS limits (including submode limits). To clear the AUTO PLT
+caution and extinguish the FLT CONTR and MASTER CAUTION lights,
+press the FCP MASTER CAUTION.
+
+AVI-10-17
+
+Figure D - 17. Autopilot Caution.
+Autopilot Status Feedback
+
+The autopilot caution indication logic is such that the “AUTO PLT”
+display caution, “FLT CONTR” caution on the caution lights panel
+(forward and AFT), and MASTER CAUTION are only displayed for
+autopilot system failures disengagement via exceedance of limits. The
+autopilot caution indications are not provided for aircrew initiated
+autopilot disengagements (paddle switch or submode deselection).
+
+If the autopilot is failing and the reason is unknown, go to the DETAIL,
+AFCS, STATUS page. The top portion shows up to seven failures (last on
+top of list) of the autopilot and/or TF system.
+
+AVI-10 D - 26
+
+
+Text from AVI-10_Radar_Altimeter__Autopilot_page_33.jpeg:
+QUESTIONS
+
+The autopilot is engaged on the
+
+Autopilot status is displayed on the UFC on and the
+
+The autopilot has and submodes.
+
+The primary means of disengaging the autopilot is by the
+
+D-27 AVI-10
+
+
+Text from AVI-10_Radar_Altimeter__Autopilot_page_34.jpeg:
+ANSWERS
+1. UFC
+2. Menu 1, autopilot submenu
+3. altitude hold, steering
+
+4. paddle switch
+
+AVI-10 D - 28
+
+
+Text from AVI-10_Radar_Altimeter__Autopilot_page_35.jpeg:
+A/A
+A/P
+ADI
+AGL
+AHDG
+AIU
+ALG
+ALT
+ATF
+ATT
+BARO
+CARA
+CAS
+CONTR
+CRS
+CSS
+FCP
+FLT
+GCWS
+GT
+
+HDG
+
+GLOSSARY
+Air-to-air
+Autopilot
+Attitude director indicator
+Above ground level
+Autopilot heading steer mode engaged
+Avionics interface unit
+Automatic level/gain
+Altitude, altimeter
+Automatic terrain following
+Attitude
+Barometric
+Combined altitude radar altimeter
+Calibrated airspeed
+Controller
+Course
+Control stick steering
+Front cockpit
+Flight
+Ground collision warning system
+Ground track
+
+Heading
+
+AVI-10
+
+
+Text from AVI-10_Radar_Altimeter__Autopilot_page_36.jpeg:
+HSI
+HUD
+ILSN
+ILST
+INS
+INV
+LAWS
+MPCD
+MPD
+NAV
+PB
+PLT
+RALT
+R/T
+RDR
+STR
+TACAN
+TCN
+TF
+TFR
+TO
+
+UFC
+
+AVI-10
+
+Horizontal situation indicator
+Head-up display
+
+ILS navigation combination
+ILS TACAN combination
+Inertial navigation system
+Invalid
+
+Low altitude warning system
+Multipurpose color display
+Multipurpose display
+Navigation
+
+Pushbutton
+
+Pilot
+
+Radar altimeter
+Receiver/transmitter
+
+Radar
+
+Steer
+
+Tactical air navigation
+TACAN; tactical air navigation
+Terrain following
+
+Terrain following radar
+Technical order
+
+Upfront control
+
+
+Text from AVI-10_Radar_Altimeter__Autopilot_page_37.jpeg:
+(This Page Intentionally Blank)
+
+F-3 AVI-10
+
+
+Text from AVI-10_Radar_Altimeter__Autopilot_page_38.jpeg:
+BACK PAGE
+COVER SHEET
+
+
+Text from AVI-10_Radar_Altimeter__Autopilot_page_4.jpeg:
+CRITERION REFERENCED OBJECTIVES (CROs)
+
+1. Identify the operating characteristics and limitations of the radar
+altimeter.
+
+2. Identify the steps to engage the autopilot modes and submodes.
+
+3. Interpret autopilot indications on Menu 1 and the autopilot submenu
+
+of the UFC.
+REFERENCES
+TO 1F-15E-1 Section I Instruments/Radar
+Altimeter AFCS/
+Autopilot Modes
+
+AVI-10 B-1
+
+
+Text from AVI-10_Radar_Altimeter__Autopilot_page_5.jpeg:
+STUDENT PREPARATION REQUIREMENTS
+
+PRIOR TO THE CBT LESSON
+1. Study the information contained in this workbook.
+
+2. Read the technical order references.
+
+C-1 AVI-10
+
+
+Text from AVI-10_Radar_Altimeter__Autopilot_page_6.jpeg:
+(This Page Intentionally Blank)
+
+AVI-10 C-2
+
+
+Text from AVI-10_Radar_Altimeter__Autopilot_page_7.jpeg:
+TEXT
+RADAR ALTIMETER
+Description and Function
+
+The radar altimeter system is composed of the antenna, the receiver/
+transmitter (R/T), and associated cables and hardware. It sends out a
+low-powered radar beam directly below the aircraft which accurately
+measures height above ground level (AGL) altitude. The signal is divided
+and sent to each AIU where it is tested for validity and currency. Then,
+the central computer takes the valid output from either AIU for display
+and use by other systems. The readout of radar altitude can be presented
+on several cockpit displays (UFC, ADI, HUD, and TF E-scope). The
+information is also used by the autopilot in the radar altitude hold or
+select submodes, by the low altitude warning system (LAWS), by the
+terrain following (TF) system, and by the ground collision warning system
+(GCWS). The radar altimeter is sometimes referred to as the combined
+altitude radar altimeter (CARA) or RALT (radar altimeter).
+
+Parameters
+
+The operating limits for the radar altimeter are as follows:
+e Altitude - 50,000 feet to ground level
+e Pitch attitude - +60°
+e 6Bank angle - 60°
+
+Should these limits be exceeded, the cockpit digital readouts change to
+OFF.
+
+D-1 AVI-10
+
+
+Text from AVI-10_Radar_Altimeter__Autopilot_page_8.jpeg:
+Radar Altimeter Switch
+
+With the switch in the OFF position, the unit is turned off (Figure D-1); in
+the ON position it is turned on for normal operation. The OVERRIDE
+position turns the unit off, but allows manual TF to be accomplished.
+
+TF RDR RDR ALT
+ON OVERRIDE
+OFF
+[ @ can me]
+STORE ALI nen [ @ car S}
+FF GC E
+aN
+@® N
+STBY S
+O
+R
+PULL JTIDS
+POLL
+OFF NORM RESET
+SIL
+
+Figure D- 1. Radar Altimeter Switch.
+
+AVI-10-01
+
+AVI-10 D-2
+
+
+Text from AVI-10_Radar_Altimeter__Autopilot_page_9.jpeg:
+Data Displays
+UFC
+
+Radar altitude data is available at PB #9 on the Data 1 display of the
+UFC (Figure D-2) and can be selected (*) for display on the ADI and HUD.
+Selected radar altitude for the altitude hold submode of the autopilot is
+entered through the UFC autopilot submenu and will be discussed later in
+this lesson.
+
+l
+
+233°/286 STR ISA} =
+
+SIO ETE 81:15:08 JR 4saxJLl )|C
+
+4| 7 468 TIME 18:84:15) —
+
+1
+
+16 458 WIND 188/845|)L—
+—— ——
+4 [uees 125 U348 880%) LO)
+—fecr 17 te JL
+SEOHED6
+4 5 SHE
+;
+
+&
+—>)\
+EMIS
+DATA|||||IMENU}| GA)
+y /
+
+AVI-10-02
+
+Figure D - 2. Data 1 Display.
+
+D-3 AVI-10
+
+

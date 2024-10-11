@@ -1,0 +1,2665 @@
+Text from AVI-4_ADI_HSI__HUD_page_1.jpeg:
+SUPPORTS COURSES
+FIS5EBQ
+
+FISETX
+
+FISESOC
+
+ACADEMIC STUDENT WORKBOOK
+
+F-15E
+AVIONICS
+AVIL-4
+ATTITUDE DIRECTOR INDICATOR
+(ADI), HORIZONTAL SITUATION
+INDICATOR (HSI), & HEAD-UP
+DISPLAY (HUD)
+
+DECEMBER 1998
+
+(SUITE 3 OFP)
+
+AIR COMBAT COMMAND
+
+
+Text from AVI-4_ADI_HSI__HUD_page_10.jpeg:
+HEADING
+
+INDICATOR 7 Io I
+HEADING © i HEINE
+SGALE | (> T BARO
+-—-# ALTITUDE
+TRUE AIRSPEED we
+OR GROUND (CR
+SPEED =F VERTICAL
+] VELOCITY
+BANK LF
+STEERING BAR — RADAR
+COA ALTITUDE
+= |
+PITCH ee SPHERE .
+STEERING BAR —
+a RADAR
+ALTIMETER
+— THERMOMETER
+co SCALE (TF ONLY)
+
+cA)
+
+é—OIOICIOIOn
+
+AVI-04-03
+
+Figure D - 3. ADI Symbology (Continued).
+
+Heading Scale and Heading Indicator: The caret on the heading scale
+indicates the current heading. If heading information is invalid, OFF is
+written above the heading scale and the heading numbers are removed.
+Heading information always comes from the INS unless an INS error is
+detected, then the CC will use AHRS (EGI after TCTO 1F-15E-737)
+heading.
+
+True Airspeed or Ground Speed: True airspeed or ground speed is
+displayed below the angle of attack/command velocity, when selected on
+the UFC Data 1 format. If neither true airspeed or ground speed is
+selected, the space is blank. If either true airspeed or ground speed is
+selected but invalid, it is displayed as T OFF or G OFF.
+
+AVI-4 D-4
+
+
+Text from AVI-4_ADI_HSI__HUD_page_11.jpeg:
+Bank Steering Bar: The bank steering bar provides command steering
+information to intercept TACAN/ILS courses (set on the HSI), to steer
+direct to navigation steer points, or to fly the ground track course on the
+HSI. The function of the bank steering bar is dependent on the steer
+mode selected on the HSI.
+
+Pitch Steering Bar: A pitch steering bar appears when the aircraft
+captures the glide slope (ILST or ILSN steer mode selected on the HSI).
+The ILS pitch steering bar commands a 3° glide slope.
+
+Radar Altimeter Thermometer/Scale: The analog radar altimeter
+thermometer/scale is displayed in all master modes whenever the radar
+altimeter is operating and the terrain following (TF) system is ON. The
+thermometer is never displayed on the ADI during non-TF operations or
+during TF operations with radar altimeter in OVERRIDE. During normal
+TF operations it is displayed regardless of aircraft altitude (it is not
+removed when the aircraft altitude is above 1500 feet AGL).
+
+Attitude Sphere: The attitude sphere depicts the aircraft in relation to the
+horizon. On a MPD, the ground is displayed as thick, closely spaced
+horizontal lines while the sky is clear. On a MPCD the sky is blue and the
+ground is brown lines.
+
+Note: When the pitch attitude meets or exceeds +30°, the horizon line is
+not visible and the sphere is all one color.
+
+Radar Altitude: Radar altitude is displayed below the baro altitude (below
+vertical velocity, if displayed) only if it is selected on the UFC Data 1
+format. If radar altitude is invalid (and selected for display), it is
+displayed as R OFF.
+
+Vertical Velocity: Vertical velocity is shown under the barometric altitude
+readout when the landing gear handle is down. It is displayed as feet per
+minute, prefaced with a (+) for climbing or a (-) for descending. If invalid,
+it is displayed as VV OFF. This space is blank when the gear handle is
+
+up.
+
+Baro Altitude: Barometric altitude is always displayed in the altitude
+window (box). At 1000 feet MSL and above, the last three digits are small
+and the preceding digits are large. Below 1000 feet, all three digits are
+large. If the barometric altitude is invalid, OFF is displayed in the box.
+
+D-5 AVI-4
+
+
+Text from AVI-4_ADI_HSI__HUD_page_12.jpeg:
+Command Heading Bug and Digital Readout: The command heading bug
+(Figure D-4) indicates the heading to the next navigation sequence point if
+NAV is the steer mode selected on the HSI. If ILST, ILSN, TCN, or HDG
+is the steer mode selected on the HSI, the command heading bug is slaved
+to the heading set on the HSI. If GT is the HSI-selected steer mode, the
+bug provides a command heading to fly the HSI-set ground track. If it is
+beyond the range of the scale, the bug is pegged at the appropriate edge
+(left or right) with a digital readout beneath it.
+
+Command velocity and the associated sequence point (Figure D-4) are
+displayed (if valid and landing gear handle is up) when a time on target
+(TOT) is assigned to a specific sequence point. This is the speed necessary
+to reach the given sequence point at the TOT. The information displayed
+is for the next sequence point (on the current route) that has a TOT
+assigned.
+
+COMMAND
+HEADING
+BUG AND
+DIGITAL
+
+READOUT
+
+COMMAND
+VELOCITY
+
+COMMAND
+VELOCITY
+SEQUENCE
+POINT
+
+AVI-04-04
+
+Figure D - 4. ADI With Command Velocity.
+
+AVI-4 D-6
+
+
+Text from AVI-4_ADI_HSI__HUD_page_13.jpeg:
+Selecting ILST or ILSN on the HSI allows the display of localizer (course)
+and glide slope steering information on the ADI (Figure D-5).
+
+lollolioliolial a
+Hi H H Hy STEERING BAR
+a
+
+LOPALIZER TT Td
+CARET AND
+DEVIATION
+SCALE
+PITCH
+GLIDESLOPE STEERING BAR
+CARET AND
+DEVIATION
+SCALE ——_|
+MARKER
+BEACON
+
+AVI-04-05
+
+Figure D - 5. ADI-ILS.
+
+Glide path indications appear when the aircraft reaches approximately
+0.6° above or below the glide path center. The pitch steering bar appears
+once the glide path is captured.
+
+“MKR’” flashes on the lower right side of the display when passing within
+the signal cone of the marker beacon.
+
+The ILS localizer course deviation scale and localizer caret appear at the
+top of the ADI. Each dot indicates 1.25°; therefore, full scale deflection is
+2.5°. The ILS localizer caret, bank steering bar, pitch steering bar, and
+glide slope caret provide information to the desired approach course and
+glide path. Fly the aircraft to the indicators.
+
+D-7 AVI-4
+
+
+Text from AVI-4_ADI_HSI__HUD_page_14.jpeg:
+Interfaces
+
+e UFC Radar altitude and true airspeed/ground speed source
+selection
+ILS frequency selection and power on/off
+TACAN channel/mode selection and power on/off
+Current steer point selection and TOT assignments
+
+e CC Primary controller of avionics information collection
+and routing, calculations
+Generates signals for pitch and bank steering,
+depending upon HSI steer mode selection
+
+e ADC Source for baro altitude, airspeeds (CAS/TAS), AOA,
+VV
+
+e INS(FNU) Primary source for attitude information, magnetic
+heading, ground speed
+
+e AHRS Backup source for attitude, magnetic heading (before
+TCTO 1F-15E-737)
+
+e KEGI Backup source for attitude, magnetic heading (after
+TCTO 1F-15E-737) in the event of a FNU INS failure.
+
+Standby Instruments
+
+Conventional instruments are located in both cockpits on the main
+instrument panel (Figures D-6 and D-7). The angle of attack indicator
+and the vertical velocity indicator require main generator power. The
+airspeed indicator and altimeter do not require any power. All other
+standby instruments function off main generator or emergency generator
+power (auto or manual) except for the standby compass, which requires no
+power. Lighting for all standby instruments requires main generator
+power.
+
+AVI-4 D-8
+
+
+Text from AVI-4_ADI_HSI__HUD_page_15.jpeg:
+Standby Compass - Front Cockpit Only
+
+A conventional aircraft magnetic compass is mounted on the right canopy
+bow.
+
+Angle of Attack (AOA) Indicator - Front Cockpit Only
+
+The standby AOA indicator is driven by electrical signals from the AOA
+probe. Units from 0 to 45 are displayed. An OFF flag is displayed if
+electrical power is lost, data from the ADC is invalid, or if the indicator
+has mechanically failed.
+
+STBY COMPASS
+
+Ss ?
+\
+~ 1 2 yy
+
+5
+2 1000 FT PER MIN g =
+=
+
+cs
+lets
+EET
+
+(=
+
+=o
+- DOWN
+
+AVI-04-06
+
+Figure D - 6. Standby Instruments (Front Cockpit).
+
+D-9 AVI-4
+
+
+Text from AVI-4_ADI_HSI__HUD_page_16.jpeg:
+AIRSPEED ALTIMETER
+
+8
+<> 1000 FT PER MIN 4
+=
+
+6]
+
+OFF
+
+AVI-04-07
+
+Figure D - 7. Standby Instruments (Rear Cockpit).
+
+Standby Airspeed Indicator - Front and Rear Cockpits
+
+The standby airspeed indicator operates directly from pitot-static
+pressures. It consists of a rotation pointer on a fixed scale with marks
+from 60 to 850 knots.
+
+AVI-4 D-10
+
+
+Text from AVI-4_ADI_HSI__HUD_page_17.jpeg:
+Standby Attitude Indicator (ADI) - Front and Rear Cockpits
+
+The ADI is a self-contained, electrically driven gyro-horizon instrument.
+The gyro is caged by pulling the knob. Power should be applied to the
+instrument for at least 1 minute before caging. The caged position is
+approximately 4° nose up from the normal ground attitude and the gyro
+will precess 4° nose down after uncaging. Do not turn the knob to lock the
+gyro in the caged position. The gyro cages to the aircraft longitudinal axis
+(wingline) and not to level flight (horizon), regardless of actual aircraft
+attitudes. An OFF flag appears if there is a power loss to the indicator or
+the gyro is caged.
+
+Standby Altimeter - Front and Rear Cockpits
+
+The altimeter operates directly from a static pressure source. Only the
+setting on the FCP standby altimeter sets the barometric pressure for the
+air data computer (ADC). This baro altitude is then used by other aircraft
+systems, including the HUD and ADI displayed barometric altitude.
+
+Vertical Velocity Indicator (VVI) - Front and Rear Cockpits
+
+The VVI operates by electrical signals from the air data computer.
+It displays vertical velocity on a 0 to 6000 feet per minute scale. An OFF
+flag appears if electrical power is lost or the display is not valid.
+
+D-11 AVI-4
+
+
+Text from AVI-4_ADI_HSI__HUD_page_18.jpeg:
+QUESTIONS
+
+1. Identify the symbols and readouts on the F-15E ADI displayed in
+
+Figure D-8.
+©
+q)
+© ©
+©) ©)
+© @)
+@) @
+© @
+@) (k)
+@ 0)
+G @
+Figure D - 8.
+a. j
+b k.
+c. ]
+d m.
+f. fe)
+g. p
+h. q
+
+AVI-4 D-12
+
+
+Text from AVI-4_ADI_HSI__HUD_page_19.jpeg:
+2. State the attitude, heading, altitude, airspeed, command velocity,
+and attitude source of this F-15E, based on the ADI graphic
+representation in Figure D-9.
+
+Figure D - 9.
+a. Attitude
+b. Heading
+c. Altitude
+d. Airspeed
+
+e. Command velocity
+
+f. Attitude source
+
+D-13 AVI-4
+
+
+Text from AVI-4_ADI_HSI__HUD_page_2.jpeg:
+ADMINISTRATIVE INFORMATION
+
+This student workbook is designed to provide information on the F-15E,
+its systems, and capabilities. It is not a sole source document, but is to be
+used in conjunction with other standard Air Force publications and
+technical manuals. If you find any differences between the material
+contained herein and other governing regulations, adhere to the
+regulations and notify the OPDR.
+
+Changes to this workbook are indicated with a heavy black line in the left
+margin.
+
+Forward recommendations for revision or change to 4 TS, SJAFB, NC
+275381.
+
+Supersedes: AVI-4, July, 1998
+
+OPDR: 4 TS
+
+Index of Changes
+
+Effective Date Pages Affected
+
+
+
+Text from AVI-4_ADI_HSI__HUD_page_20.jpeg:
+ANSWERS
+1. a. Calibrated airspeed readout
+b. AOA, when landing gear is down
+c. True airspeed (can also be ground speed [G])
+
+d. Pitch trim, up or down by button
+(Input on any display affects ADI on all MPDs/MPCDs.)
+
+e. Pitch and bank steering bars
+
+f. Flight path symbol/velocity vector (bow tie)
+
+g. Current attitude source
+(Choice of INS or AHRS can be selected by button before
+TCTO 1F-15E-737.)
+(Choice of EGI or INS after TCTO 1F-15E-737.)
+
+h. Bank scale (with pointer)
+(Scale is marked at 0, 10, 20, 30, 45, and 60°.)
+
+i. Turn and slip indicators
+j.Radar/TFR altimeter thermometer/scale
+k. Miniature aircraft (waterline)
+
+1. Attitude sphere
+(On a MPCD, the sky is blue and the ground is brown.)
+
+m. Radar altitude
+
+n. Pitch scale
+
+o. Vertical velocity, when landing gear handle is down
+p. Altitude in baro
+
+q. Heading scale (with caret to show current heading)
+
+r. Command heading bug
+
+AVI-4 D-14
+
+
+Text from AVI-4_ADI_HSI__HUD_page_21.jpeg:
+10° nose up pitch angle and 30° of right bank.
+360° (command heading is 270°)
+
+8000 feet MSL (barometric altitude) (Radar altitude has not
+been selected from the UFC for display.)
+
+423 KCAS (True airspeed/ground speed have not been selected
+from the UFC for display.)
+
+A command velocity of 525 KCAS is required to arrive at point
+21.A at the assigned TOT.
+
+INS
+
+D-15 AVI-4
+
+
+Text from AVI-4_ADI_HSI__HUD_page_22.jpeg:
+HSI DISPLAY
+Function and Description
+
+The HSI (Figure D-10) provides a basic horizontal view of the aircraft with
+respect to the navigation situation. It provides functions of heading,
+
+course, and distance, relative to the steer mode selected, and offers many
+additional features.
+
+TACAN LUBBER RANGE
+BEARING LINE SCALE
+POINTER
+= 7 i " © ADF SYMBOL
+COMMAND [8 o AUTO RNG A al
+HEADING —
+7 a ——"
+TACAN ‘a, p ces) (YH
+STATION Y 315 —
+SYMBOL . 6 vir
+EH Li)
+= — NAV POSITION
+ae SYMBOL
+12> c
+s D
+MARKER \\ STR 4B 5
+00:01:48 E —
+NAV DATA
+TACAN - ILSN
+BLOCK
+BLOCK . Nec To | L ro | L a:
+@ BRT T
+
+AVI-04-10
+
+Figure D - 10. HSI Symbology.
+
+Symbology, Readouts, and Controls
+
+Crew Coordination: As changes made to the HSI display in either cockpit
+affect both cockpits, crew coordination may be required.
+
+AVI-4 D-16
+
+
+Text from AVI-4_ADI_HSI__HUD_page_23.jpeg:
+Range Scale: The HSI displays five range scales (10, 20, 40, 80, and
+
+160 nm) at the top right corner under RNG. The range is the distance
+from the aircraft symbol to the perimeter of the compass card. Increase or
+decrease the range by pressing PB #16 or #17, respectively. The distances
+to the navigation position and TACAN station symbols within the compass
+card are to scale. This is provided for ease of HSI interpretation.
+
+The Lubber Line: The compass card rotates so that the aircraft heading is
+always under the top of the lubber line.
+
+TACAN and NAV Data: The TACAN data block (on the left) and the NAV
+data block (on the right) are green and blue, respectively, on a MPCD.
+
+The TACAN data block provides bearing and distance, and estimated time
+en route (only) to the selected TACAN station. The NAV data block
+provides bearing, distance, and estimated time en route (ETE) or
+estimated time of arrival (ETA) information to the current navigation
+steer point. If ETE is displayed on the UFC Data 1 page at PB #2
+
+(Figure D-11), then ETA is displayed on the HUD and HSI NAV data
+blocks. If ETA is displayed on the UFC, ETE is displayed on the HUD and
+HSI NAV data blocks. Toggling the PB alternately selects ETE/ETA.
+
+© ®
+(js fasne2e STR IB| ELL]
+
+— —
+S A(ETA 10:86:23 RP e4aa x|L Fe
+E > k +
+1 k T 390 IME 18-8425) L(—
+(6 422 WIND 1887845|L(—
+—_|(U285.888 u34a.008 ¥)LO
+—I* CAI Te] Le
+
+® VOL IGREC| GREC| VOL ®
+
+Cc/M
+R1eOR3
+
+—_—— |
+MARK
+(tre)
+BRT :
+M sf
+i} re) rt)
+@ fa/P |i cur z DATA\||| MENU @® ni
+L
+
+AVI-04-11
+
+~-] ~<]| >]
+JERE
+
+jelcc
+QG
+
+Figure D - 11. UFC Data 1 ETE/KTA Selection.
+
+D-17 AVI-4
+
+
+Text from AVI-4_ADI_HSI__HUD_page_24.jpeg:
+Heading Marker and Command Heading: The heading marker (captain’s
+bars) is moved around the compass card by means of the command
+heading selections when HDG, ALG, TCN, ILSN, or ILST is the selected
+steer mode. Command heading is increased or decreased by pressing
+
+PB #1 or #2. The heading changes by 1° per push or 10° per second if the
+button is held depressed. Additionally, you may enter a desired heading
+into the UFC scratchpad and depress either button to transfer that
+heading to the HSI command heading readout. In the NAV mode, the
+heading marker is slaved to the wind-corrected heading to fly to the
+selected steer point, so it may differ from the heading under the NAV
+bearing pointer and the bearing in the NAV data block. In the GT mode,
+the heading marker is slaved to the command heading to fly the selected
+ground track.
+
+Bearing Pointers: There are two bearing pointers. The NAV bearing
+pointer, a hollow arrow with a hollow tail, is blue on a MPCD. The
+TACAN bearing pointer, an arrowhead with a solid tail, is green.
+
+ADF Symbol: A small lollipop symbol is displayed only when the ADF is
+selected. It indicates the bearing of a transmitted UHF signal. ADF is
+activated from the UFC UHF 1 submenu.
+
+Navigation/Steering Modes
+
+There are eight steering modes listed on the HSI display. They are TCN,
+CRS, ILST, ILSN, GT, NAV, ALG, and HDG, and are selected by pressing
+the desired mode pushbuttons. The mode selected becomes boxed.
+
+TACAN (TCN
+
+Selected Course: The selected course is displayed at the top right side of
+the HSI (Figure D-12). PB #15 increases the course and PB #14 decreases
+it. The desired course can also be input by typing it into the UFC
+scratchpad and pressing either button.
+
+AVI-4 D-18
+
+
+Text from AVI-4_ADI_HSI__HUD_page_25.jpeg:
+COURSE
+
+POINTER
+JOVONOUONCO SN setecten
+I COURSE (315°)
+CDI Poe Vv a A \\
+ae
+BEARI
+POINTER: evel
+Ss °
+COURSE PER DOT)
+DEVIATION
+INDICATOR TO/FROM
+SYMBOL
+(TACAN MODE
+TACAN ONLY)
+STEER el | 00:01:48 E STATIONARY
+SELECTED 7 ILST ILSN T nO
+:
+ai il aE Te
+
+AVI-04-12
+
+Figure D - 12. HSI Display - TCN.
+
+Course Pointer: The course pointer always points to the selected course.
+
+Course Deviation Indicator: The course deviation indicator (CDI)
+indicates the number of degrees of deviation (up to 10°) from the selected
+course when CDI is selected at PB #20.
+
+TO/FROM Symbol: The TO/FROM symbol indicates whether the selected
+course takes you to, or from, the TACAN station.
+
+Display Options: There are two display options available with TCN
+selected: CDI or PLAN. The current selection is shown at PB #20, and
+pressing PB #20 will alternate between the two options.
+
+D-19 AVI-4
+
+
+Text from AVI-4_ADI_HSI__HUD_page_26.jpeg:
+CDI: With CDI selected (Figure D-13), a white set course pointer and
+course deviation indicator are drawn on the display. The course pointer is
+drawn through the center of the aircraft symbol according to the course
+shown between PB #14 and PB #15. The TO/FROM indicator is drawn
+adjacent to the aircraft symbol, and the course deviation indicator is
+drawn on the course deviation scale with full deflection being 10° or more
+displacement (5° per dot).
+
+HEADING
+MARKER
+
+COURSE
+DEVIATION
+INDICATOR
+
+SELECTED
+
+AVI-4
+
+®
+
+|
+
+(OOO iit
+
+ll
+Jl
+
+AUTO
+SEQ
+
+TCN 112X
+305 / 16.0
+00:02:20
+
+21 45%
+“Ti lig \\\%
+
+TCN ILST GT
+
+aA
+
+ILSN
+
+V RNG A
+40
+
+\
+STR 14B
+
+105 / 12.0
+00:01:48 E
+
+NAV
+
+|
+ii
+
+L
+aes
+
+LJ
+
+Figure D - 13. HSI Display - TCN/CDI.
+
+SELECTED
+COURSE (315°)
+(TACAN RADIAL)
+
+COURSE
+DEVIATION
+SCALE
+
+TO/FROM
+SYMBOL
+
+SET COURSE
+POINTER
+
+AVI-04-13
+
+
+Text from AVI-4_ADI_HSI__HUD_page_27.jpeg:
+PLAN: With PLAN selected (Figure D-14), a course arrow (green on a
+color display) is drawn through the center of the TACAN station symbol
+according to the course value shown between PB #14 and PB #15. There
+is no TO/FROM indicator and no course deviation indicator. If the
+selected range scale is too small to show the TACAN position, the TACAN
+position symbol is removed. All other features of the HSI display format
+are the same for either CDI or PLAN. The PLAN view is frequently used
+to check point-to-point calculations for a large calculation error.
+
+SELECTED
+COURSE (315°)
+(TACAN RADIAL)
+
+HEADING
+MARKER
+
+x
+TCN 112X
+
+TACAN
+DATA BLOCK > 305 / 16.0
+
+TACAN
+STEER
+MODE
+SELECTED
+
+AVI-04-14
+
+Figure D - 14. HSI Display - TCN/PLAN.
+
+D-21 AVI-4
+
+
+Text from AVI-4_ADI_HSI__HUD_page_28.jpeg:
+Course (CRS)
+
+This steer mode is equivalent to the existing TACAN steer mode, except
+that the radial will be calculated to a steer point rather than a TACAN
+station. In CRS steer mode, the range and bearing to the selected CRS
+radial will be calculated. CRS steer mode will have the same display
+options and features as TCN steer mode, including PLAN and CDI views.
+PB #6 on the electronic horizontal situation indicator (EHSI) will default
+to TCN at power up. Depression of PB #6 will box the selection at PB #6
+(initially TCN). Subsequent depressions of PB #6 will toggle between
+TCN and CRS. Another steer mode must be selected in order to unbox the
+selection at PB #6 (Figure D-15).
+
+AVI-04-15
+
+Figure D - 15. CRS Selected on EHSI.
+
+AVI-4 D - 22
+
+
+Text from AVI-4_ADI_HSI__HUD_page_29.jpeg:
+ILS (Instrument Landing System)
+
+Selecting ILST or ILSN (Figure D-16) results in the same ILS displays on
+the HSI. (The data block on the HUD will be different.) The course
+deviation scale is 1.25° per dot. Full deflection represents 2.5° or greater
+deviation. If the autopilot is engaged or the TFR is on, ILS is not a
+selectable mode and both the ILST and ILSN options are removed from
+
+the display.
+6, oe ILS INBOUND
+COURSE a | GOURSE
+POINTER BIT ysl v RG A :
+rT] A
+rai | "Ty
+———T ?
+Ss
+Or
+CDI 1 | s
+a :
+1 s ~~
+TCN 112X ae s a STR 14B
+305 / 16.0 ™! 105 /12.0
+—. 00:02:20 | 00:01:48 E
+ILS NAV
+=t een STEERING
+Lt a — an MODE
+[OPEIRIEIE | es
+AVI-04-16
+
+Figure D - 16. HSI Display - ILS.
+
+D - 23 AVI-4
+
+
+Text from AVI-4_ADI_HSI__HUD_page_3.jpeg:
+AVIONICS
+
+COVER
+
+ATTITUDE DIRECTOR INDICATOR (ADI), HORIZONTAL
+SITUATION INDICATOR (HSDI, & HEAD-UP DISPLAY (HUD
+
+INTRODUCTION
+
+This workbook provides familiarity with the components, nomenclature,
+and operational characteristics of the ADI, HSI, and HUD. As part ofa
+computer-based training (CBT) lesson, this workbook should be read prior
+to taking the CBT instruction.
+
+CONTENTS:
+
+INTRODUCTION 0.000. eeecceesseeeesneeceseeeeesaeecesaeeeessaeeessaeeessaeesessaeeens A-1
+CRITERION REFERENCED OBJECTIVES (CROs).............eeeeseeeeeeeeees B-1
+STUDENT PREPARATION REQUIREMENTS . 0.00... eeeeeeeeeeeeeeee C-1
+CEE os ses sans sos cores nos nas ois cua cares canis ans as RSA SNS Onis aU KUNE kK NewS SHES KoRKG MU NaS HSS aUD KR D-1
+END OF TEXT QUIZ ou. ceesncecesseeecesaeesesneecssaeesessaeeensaeesenaees N/A
+(ina) F-1
+
+A-1 AVI-4
+
+
+Text from AVI-4_ADI_HSI__HUD_page_30.jpeg:
+Ground Track (GT)
+
+The heading marker (captain’s bars) and CMD HDG readout are slaved to
+the command heading required to maintain the selected ground track
+(Figure D-16). Use PBs #14 and #15 to select the desired ground track.
+The ground track diamond shows current aircraft ground track.
+
+Figure D-17 shows a heading of 350° to maintain a ground track of 355°.
+If crosswinds increase or decrease, the heading marker adjusts to the
+heading necessary to maintain the ground track of 355°. If there is no
+drift, the ground track diamond aligns with the lubber line. In that case,
+the heading marker, lubber line, and ground track diamond would be
+aligned and the CMD HDG readout and selected ground track would read
+the same.
+
+TACAN/NAV data blocks and bearing pointers are available in all HSI
+steer modes.
+
+© VOUOMOUOMON SS -resons
+LUBBER a a MARKER
+_ GROUND
+TRACK
+
+DIAMOND
+
+DESIRED
+GROUND
+TRACK
+
+GROUND
+TRACK MODE
+
+SELECTED SELECTED
+
+SEQUENCE
+POINT
+
+ILSN__NAV BEARING,
+! DISTANCE,
+TIME
+
+AVI-04-17
+
+Figure D - 17. HSI Display - GT.
+
+AVI-4 D - 24
+
+
+Text from AVI-4_ADI_HSI__HUD_page_31.jpeg:
+Navigation (NAV)
+
+Selecting NAV moves the command heading marker and CMD HDG
+readout to highlight the wind-corrected heading to the selected steer
+point. Both agree with the bearing in the NAV data block (no wind), or
+differ from it by the amount of drift present (Figure D-18). The command
+heading is shown at the top left side of the display. Aircraft course
+(ground track) is shown at the top right of the display and agrees with the
+ground track diamond (both change as the aircraft current
+heading/ground track changes).
+
+The legend “AUTO SEQ” is displayed below PB #18 and is boxed when
+auto sequencing is enabled. Auto sequencing means that as the aircraft
+passes the current navigation point (within 2 nm), the next navigation
+point on the route automatically becomes the “new” current navigation
+point and aircraft steering then transitions to the “new” point. AUTO
+SEQ can be selected/deselected in any HSI steering mode.
+
+ADF SYMBOL
+COMMAND
+SELECTED UNE,
+STEER POINT —| el? CURRENT
+GROUND
+O} TRACK
+—
+oe NAV
+rE POSITION
+é SYMBOL
+Ton1iax 77) ys sie ue > HEADING
+00.0220 | 00:01:48 E MARKER AND
+NAV BEARING
+ILST ILSN POINTER
+
+TCN GT NAV
+
+AVI-04-18
+
+Figure D - 18. HSI Display - NAV.
+
+D - 25 AVI-4
+
+
+Text from AVI-4_ADI_HSI__HUD_page_32.jpeg:
+Autonomous Landing Guidance (ALG)
+
+The ALG mode provides an independent capability for approaches and
+landings at any location. “ILS-like” steering cues are provided to a
+designated point on the ground via a selected course and a computed 3°
+glide slope. Deviations from the selected course and glide path are
+displayed to the aircrew on the ADI, HSI, and HUD. From the NAV or
+INST master mode, ALG (PB #5) is selected on the HSI (Figure D-19).
+
+The aircrew then designates the ALG point, the intended touchdown
+point, via A/G radar, target IR, HUD designation, or NAV designation.
+Designations are covered in a later lesson. An inbound course is set at
+
+PB #14 and the ALG algorithm plots a position 10 nm from the designated
+point and marks it as the final approach fix (FAF). A rectangular runway
+symbol, a tick mark to represent the FAF, and a final approach arrow will
+be displayed on the HSI if PLAN is selected at PB #20. After the aircraft
+reaches the FAF, the system will provide guidance to the runway based on
+the specific course. Detailed information on the ALG mode is contained in
+TO 1F-15E-1 and the system will be discussed further in A/G academics.
+
+COMPUTED RW RUNWAY
+ELEVATION SYMBOL
+© YWOUOMOVON AY
+BILAN (or
+SELECTED INBOUND
+COURSE
+SELECTION
+VERIFY
+ELEVATION
+PITCH = FINAL
+STEERING zip > APPROACH
+ALG MODE — foe AS, FIX(10 NM)
+SELECT onl B] ton tax 7747), 5 ve ale NAV DATA
+SWITCH | “00:02:50 OM gears BLOCK
+TCN ILST GT ILSN NAV
+
+cies
+
+AVI-04-19
+
+AVI-4 D - 26
+
+
+Text from AVI-4_ADI_HSI__HUD_page_33.jpeg:
+Heading Select (HDG) Steering Mode
+
+The HDG steer mode (Figure D-20) provides a capability to enter a
+selected heading. The HSI heading marker and HUD command heading
+are slaved to the HSI set heading. The HSI course displays current
+ground track.
+
+HEADING
+MARKER Vv RNG A
+SELECTED
+HEADING
+HEADING O;
+SELECT MODE —
+SELECTED = :
+1 W
+(4 t TON112x~ rT ay yik®
+G 305 / 16.0 ! | ' 105 / 12.0
+—| 00:02:20 00:01:48 E
+TCN GT
+AVI-04-20
+Figure D - 20. HSI Display - HDG.
+UFC Interface
+
+The following can be accomplished through the UFC:
+e TACAN is turned on and modes/channels are selected.
+e ILS is powered and frequency is selected.
+e Current NAV steer point is selected.
+e Data inputs, such as desired courses (TCN, ILS, GT modes) and
+headings (TCN, HDG, ILS modes), may be entered and
+displayed on the HSI.
+
+e The ADF is selected.
+
+D-27 AVI-4
+
+
+Text from AVI-4_ADI_HSI__HUD_page_34.jpeg:
+QUESTIONS
+
+1. Identify the various symbols and readouts on the HSI in
+Figure D-21.
+
+© MCUOUOUCIOL
+
+AUTO
+SEQ
+
+©
+
+2
+| =
+N
+
+|
+INE
+
+\\" 4
+af 4
+30
+
+ee
+foo
+
+IS
+Ina
+
+|
+;
+il
+
+24
+4
+
+fa
+
+zy
+
+G  305/16.0
+00:02:20
+
+of
+
+“/
+e724 15
+TCN 112X “Tips \v\)
+91
+]
+
+|
+
+TCN ILST GT ILSN NAV
+
+ae |e. ee, |
+
+NV,
+
+Sa
+
+®
+
+AVI-04-21
+
+Figure D - 21.
+a f. k
+b g. ]
+c h. m
+d. i n
+
+2. What data is displayed in the navigation data block at the bottom
+right corner of the HSI in Figure D-21?
+
+AVI-4 D - 28
+
+
+Text from AVI-4_ADI_HSI__HUD_page_35.jpeg:
+3. Use the HSI in Figure D-22 to determine the:
+a. aircraft position relative to the selected TACAN.
+
+b. course and time to fly directly to the station.
+
+\
+TON 112X Pat og ive STR 14B
+91
+
+305 / 16.0 105 / 12.0
+00:02:20 00:01:48 E
+
+GT ILSN NAV
+
+AVI-04-22
+
+Figure D - 22.
+
+D - 29 AVI-4
+
+
+Text from AVI-4_ADI_HSI__HUD_page_36.jpeg:
+Use the graphic in Figure D-23 to answer questions 4 through 6.
+LOMOUOWOWOW &
+re
+
+AUTO V RNG A
+SEQ 20
+|r _}
+|
+INI
+
+My,
+’ ;
+7
+
+fe}
+a
+a
+
+|
+
+21 aga
+"Lay s,\\\° STR 14B
+Si 105 / 12.0
+| 00:01:48 E
+
+EEE
+
+Figure D - 23.
+
+AVI-04-23
+
+4. What is the steering mode?
+
+5. What is the command heading and distance to the selected point?
+
+6. Isthe TACAN valid?
+
+AVI-4 D - 30
+
+
+Text from AVI-4_ADI_HSI__HUD_page_37.jpeg:
+Use the graphic in Figure D-24 to answer questions 7 and 8.
+
+AUTO vw RNG A
+SEQ 40
+
+|
+INF yy
+
+/7
+3
+
+A 7241 15%
+TCN 112X “Ti tisy\v\% STR 14B
+I
+
+305 / 16.0 105 / 12.0 M
+00:02:20 00:01:48 E
+
+TCN ILST GT ILSN NAV YD
+
+AVI-04-24
+
+Figure D - 24.
+
+7. The two dot deflection of the CDI represents
+
+a. 2.5° or greater.
+b. 5°.
+
+e 125°.
+
+d. 10° or greater.
+
+8. What does the selected course of 315° represent?
+
+9. How do you get ETA on the NAV data block?
+
+D-31 AVI-4
+
+
+Text from AVI-4_ADI_HSI__HUD_page_38.jpeg:
+ANSWERS
+1. a.  Lubber line
+
+b. Command heading
+c. TACAN bearing pointer
+d. Compass card
+e. TACAN data block
+f. Steering modes
+
+Range scale
+
+ADF symbol
+i. Course select
+j. Aircraft symbol
+k. NAV position symbol
+1. NAV bearing pointer
+m. Heading marker (captain’s bars)
+
+n. NAV data block
+
+2. Current steer point, bearing, distance, and estimated time of arrival
+(ETA) to the indicated point.
+
+3. a. 125° radial for 16 nm from TACAN channel 112.
+
+b. Direct via course of 305° for 2 minutes 20 seconds. (ETE)
+
+4. NAV
+
+5. 105° for 12 nm to steer point 14B
+6. Yes
+
+7. oa
+
+8. Selected ILS localizer inbound course
+
+9. Select ETE on the UFC Data 1 page at PB #2.
+
+AVI-4 D - 32
+
+
+Text from AVI-4_ADI_HSI__HUD_page_39.jpeg:
+HUD
+Function and Description
+
+The wide field of view head-up display (WFOV HUD), 21° x 28°, provides
+basic navigation, flight control, and weapons delivery information. A
+difference from earlier F-15 HUD models is that airspeed and altitude
+
+appear in digital formats. The displayed information generally matches
+that on the ADI.
+
+Symbology, Readouts, and Controls (NAV and INST Master
+Modes)
+
+Refer to Figure D-25 for the discussion of the symbology information.
+
+COMMAND HEADING/
+STEERING BUG
+
+CALIBRATED
+AIRSPEED
+
+WATERLINE
+SYMBOL
+
+BAROMETRIC.
+
+ANGLE OF ALTITUDE
+ATTACK RADAR
+TRUE
+
+AIRSPEED ALTITUDE
+
+VELOCITY
+VECTOR
+
+DATA
+BLOCK
+
+STEERING
+BAR
+
+IN COMMAND ote NAV 12A
+N 22.6
+
+00:03:02 E
+
+G DATA BANK ANGLE PITCH LADDER
+
+SCALE
+
+AVI-04-25
+
+Figure D - 25. HUD Display.
+
+D - 33 AVI-4
+
+
+Text from AVI-4_ADI_HSI__HUD_page_4.jpeg:
+CRITERION REFERENCED OBJECTIVES (CROs)
+1. Interpret an ADI in the normal mode.
+2. Identify the function of ADI system controls.
+3. Interpret an HSI in the normal mode.
+4. Identify the function of HSI system controls.
+
+5. Given a HUD in INST or NAV Master Mode, determine the in-flight
+parameters and interpret basic data.
+
+6. Identify the function of HUD system controls.
+
+7. Identify the HUD programming functions.
+
+REFERENCES
+TO 1F-15E-1 Section I Upfront Controls (UFC)
+Data 1 Display
+Head-Up Display (HUD)
+Instruments
+Navigation Displays
+
+HUD Navigation Displays
+Data 1 Display
+Air Data Computer (ADC)
+Tactical Air Navigation
+System (TACAN)
+Instrument Landing System
+(ILS)
+
+Section IT Instrument Flight Procedures
+
+AVI-4 B-1
+
+
+Text from AVI-4_ADI_HSI__HUD_page_40.jpeg:
+Heading Scale: The heading scale presents a 30° readout across the top of
+the display. The stationary heading caret indicates the aircraft magnetic
+heading. If heading information is invalid, the numbers are removed and
+OFF is displayed above the heading scale. Heading information always
+comes from the INS unless it is determined to be invalid, in which case it
+automatically switches to AHRS.
+
+Command Heading/Steering Bug: The bug mirrors the command heading
+on the HSI, if it is within the 30° scale. If not within the 30° heading
+scale, it pegs on the appropriate side and a digital heading readout
+appears below the bug. The command heading is aircrew selectable in the
+TCN, ILS, and HDG steer modes. It is slaved to the computed heading to
+fly to the current NAV steer point or to fly the selected ground track in the
+GT steer mode, respectively (selections made from the HSI).
+
+Airspeed: Calibrated airspeed is displayed in the box if valid. If invalid,
+OFF is displayed.
+
+AOA: The angle of attack data is displayed regardless of landing gear
+handle position. If invalid, it is removed.
+
+True Airspeed or Ground Speed: True airspeed or ground speed is
+displayed if selected on UFC Data 1, and is prefaced by T or G, as
+appropriate. T OFF or G OFF is displayed if selected but invalid.
+
+Steering Bar: The steering bar gives bank steering to the selected
+TCN/ILS course, the selected heading in the HDG steer mode, or the
+current navigation steer point in the NAV steer mode. In GT steer mode
+it provides bank steering to the HSI-programmed ground track. If
+information is invalid, it is removed.
+
+In Command Cue: Indicates the front cockpit is in command of the HUD.
+Taking command of the HUD is required for certain updates/
+designations, air-to-ground operations, and FLIR boresighting.
+
+Mach Number: Current aircraft Mach, computed by the CC from ADC
+inputs, is displayed when landing gear handle is up. Invalid information
+is removed.
+
+G Data: Current G is on the left and maximum allowable G is on the
+right. G data disappears when the gear handle is down. Current G
+followed by OWOFF (e.g., 2.2 G OWOFF) is displayed if maximum
+allowable G is invalid. OWOFF is displayed if both current and maximum
+allowable G are invalid.
+
+AVI-4 D - 34
+
+
+Text from AVI-4_ADI_HSI__HUD_page_41.jpeg:
+Bank Angle Scale: The bank scale at the bottom of the HUD is graduated
+with markings at 0, 10, 20, 30, 45, and 60°. If invalid, it is removed.
+
+Pitch Ladder: The pitch ladder consists of the horizon bar and pitch lines.
+Pitch lines are solid above the horizon bar and dashed below. Tabs at the
+end of each line point toward the horizon. The pitch lines are numbered
+in 5° increments up to 85° of pitch. They slant toward the horizon in the
+center at one-half the pitch angle they represent (i.e., the 10° pitch line
+slants 5° toward the horizon).
+
+Normally, the pitch ladder is referenced to the velocity vector in both
+azimuth and elevation. When the velocity vector becomes “pitch HUD
+limited,” the pitch ladder will always be referenced to the valid velocity
+vector while maintaining the artificial horizon on the horizon. If the
+velocity vector is not displayed, the pitch ladder transitions to the aircraft
+waterline in azimuth and displays best available pitch referenced to the
+horizon. This transition may take up to 2 seconds, and is referenced for
+pitch attitude only, not flight path. When the velocity vector reappears,
+the pitch ladder transitions back to the velocity vector and references
+flight path information once again.
+
+Data Block: The data block displays data pertinent to the steer mode
+selections made on the HSI. Upon selection of TCN, CRS, ILST, or ILSN,
+“CSET XXX” flashes below ETE/A in the data block to remind the aircrew
+to set the appropriate course. The cue is removed after 10 seconds. If
+information is invalid, OFF is displayed on the appropriate line of the
+data block. When CRS is the selected steer mode, CRS XX.XXX will be
+displayed on the HUD, where XX.XXX designates the current steer-to
+point. In addition, the NAV range to the selected steer point will be
+displayed in nautical miles, along with time to go. CRS steer mode can be
+autopilot coupled and ACRS XX.XXX is displayed. If the autopilot is
+coupled, ANAV, ATCN, ACRS, AGT, or AHDG engaged cues will be
+shown. If time is invalid, “OFFE” or “OFFA” is displayed.
+
+Altitude: Barometric altitude is always displayed. If invalid, OFF is
+displayed in the box. Radar altitude is displayed below the altitude box, if
+selected on UFC Data 1. If invalid, it is displayed as R OFF.
+
+Waterline Symbol: The waterline symbol displays aircraft pitch attitude.
+The symbol flashes at 13° nose high, as a tail scrape warning cue, during
+landing/aerobraking.
+
+D - 35 AVI-4
+
+
+Text from AVI-4_ADI_HSI__HUD_page_42.jpeg:
+Velocity Vector (VV): This displays the instantaneous aircraft flight path
+with respect to earth coordinates. The vertical relationship between the
+waterline symbol and the velocity vector indicates true AOA. The VV
+symbol is limited to 8.5° radius of motion centered on the HUD field of
+view. It flashes when it reaches the limits of motion (due to wind
+drift/crab). If in the instrument (INST) or navigation (NAV) master mode,
+the VV may be caged to permit velocity vector referenced information
+(pitch ladder and pitch/bank steering bars) to stay near the center of the
+HUD when large yaw/crosswind angles exist. Take command of the HUD
+and press the laser fire button (FCP only) on the throttle to cage the VV
+and permit the pitch ladder and pitch/bank steering bars to be retained
+near the center of the HUD. The velocity vector flashes when caged. A
+subsequent laser fire button depression frees the symbol in drift.
+
+NOTE: If the FNU INS fails, the velocity vector on the HUD will flash
+continually. The EGI will drive the velocity vector in EGI PPKS. In all
+other PPKS selections, the velocity vector will be driven by the air data
+processor (ADP) as long as the airspeed exceeds 80 kts. When the
+airspeed is less than 80 kts and the velocity vector is being driven by the
+ADP, it will not be displayed.
+
+GHOST VELOCITY VERTICAL
+VECTOR VELOCITY
+
+RADAR
+ALTIMETER
+THERMOMETER
+SCALE
+
+ILSN 14B
+N 12.0
+00:03:20 E
+
+COMMAND
+VELOCITY WIPER
+VELOCITY
+
+TARGET DESIGNATOR VECTOR
+
+BOX / EID CUE
+
+AVI-04-26
+
+Figure D - 26. Gear Down.
+
+AVI-4 D - 36
+
+
+Text from AVI-4_ADI_HSI__HUD_page_43.jpeg:
+Ghost Velocity Vector: When the VV is caged, a ghost vector (Figure D-26)
+is displayed to show actual flight path. It looks like a velocity vector
+without the interior circle. The vector flashes when within 1.5° of the
+HUD edge.
+
+Command Velocity Wiper: The command velocity wiper is displayed to
+the left of the calibrated airspeed readout to indicate a difference between
+current aircraft speed and command velocity when a TOT is programmed.
+The symbol rotates up and down where 1° represents one knot of velocity.
+A positive angle signifies more velocity is needed. The command velocity
+is based on ground speed or true airspeed if selected on the UFC;
+otherwise command velocity is based on calibrated airspeed.
+
+Target Designation (TD) Box/Electronic Identification (EID): With an
+air-to-air radar lock on, the TD box is displayed on the HUD in the A/A,
+NAV, or INST master mode. If applicable, an EID cue is displayed inside
+the TD box.
+
+Line of Sight (LOS) Cue: The function of the LOS cue is to highlight the
+position of the current navigation steer point when the point is located
+within the HUD FOV.
+
+Radar Altimeter Thermometer/Scale: The analog radar altimeter
+thermometer/scale is displayed in all master modes whenever the radar
+altimeter is powered and the radar altitude is less than or equal to 1500
+feet AGL. The thermometer and scale are automatically removed when
+the aircraft altitude is greater than 1800 feet AGL for more than 3
+seconds and is displayed upon descent through 1500 feet AGL.
+
+D - 37 AVI-4
+
+
+Text from AVI-4_ADI_HSI__HUD_page_44.jpeg:
+Gear Down Display
+
+When the gear handle is down, HUD symbols (airspeed, AOA, altitude,
+bank scale, etc.) are lowered to reduce pilot look angles between the
+velocity vector and the symbols (Figure D-26). Mach and G data
+disappear. Vertical velocity (VV) appears under the altitude window.
+AOA continues to be displayed under the airspeed window.
+
+HUD Repeater
+
+The HUD repeater can be selected for display on any MPD/MPCD
+
+(Figure D-27). To get NAV FLIR video, press PB #20 (N-F). To view HUD
+camera video, press PB #16 (CAM). Figure D-26 shows a HUD display
+with CAM selected. If neither video selection is made, the only display is
+that of data and symbology (e.g., no “real world” camera or NAV FLIR
+video). This is accomplished by pressing the boxed selection (“unboxing”
+it).
+
+ILSN 14B
+12.0
+
+¢ Ss N .
+711Y\.\ 00:03:45 E
+§L-- --45
+
+AVI-4 D - 38
+
+
+Text from AVI-4_ADI_HSI__HUD_page_45.jpeg:
+HUD Control Panel
+
+HUD controls are used to adjust the HUD and video brightness, adjust
+
+video contrast, select symbology intensity, or reject symbology
+(Figure D-28).
+
+SYMBOLOGY TEST BIT
+DECLUTTER BUTTON
+INDICATOR
+SYMBOL SWITCH
+
+VIDEO
+CONTROL ss BRIGHTNESS
+
+NORM |
+REJ 1 = 6; 2 fa):
+REJ 2
+
+VIDEO
+CONTRAST
+CONTROL
+
+MASTER MODES
+
+AVI-04-28
+
+Figure D - 28. HUD Control Panel.
+
+Symbology Brightness Control
+
+Clockwise rotation applies power to the HUD and adjusts brightness of
+the HUD symbology only. The detented OFF position removes power from
+the HUD.
+
+Video Brightness and Contrast Controls
+
+The brightness and contrast controls are used for the NAV FLIR imagery.
+The specific use of these controls will be discussed in a later lesson.
+
+D - 39 AVI-4
+
+
+Text from AVI-4_ADI_HSI__HUD_page_46.jpeg:
+Symbol (SYM) Declutter Switch
+
+This three-position toggle switch is used to declutter the HUD by rejecting
+certain graphic processor symbology. NORM displays all available
+information based on the master mode selected. REJ-1 and REJ-2
+remove/declutter HUD symbology based on HUD display programming (to
+be discussed later).
+
+DAY/AUTO/NIGHT Switch
+
+This three-position toggle switch is used to select brightness level for day
+or night, or have it done automatically. However, the AUTO position does
+not provide adequate illumination at night.
+
+Test Button
+
+When pressed and held, an internally generated test pattern is displayed.
+
+BIT Indicator
+
+The magnetically controlled BIT ball rolls over to white when the HUD
+has failed. In normal operation it is black. When the HUD is off, the BIT
+ball holds at its last setting.
+
+Master Modes
+
+The four pushbuttons at the bottom of the HUD control panel
+
+(Figure D-28) are used to select the desired master modes - A/A, A/G,
+NAV, and INST. In this lesson, the focus is on the NAV and INST master
+
+modes.
+
+NAV or INST Master Modes
+
+Both modes give similar flight information. The navigation data
+(command heading bug, pitch/bank steering bars, CDI, and data block)
+changes according to the steer mode selected on the HSI. The HSI steer
+mode is mirrored in the HUD.
+
+Upon selecting the TCN, CRS, ILST, or ILSN steer modes, “CSET” and
+
+the current course set value appear (flashing) for 10 seconds following
+steer mode selection.
+
+AVI-4 D - 40
+
+
+Text from AVI-4_ADI_HSI__HUD_page_47.jpeg:
+TACAN Steer Mode Data
+
+When TACAN steer mode is selected on the HSI, the HUD data block
+displays TCN (Figure D-29), the channel, TACAN mode selected
+
+(TCN 112X), the range to the TACAN station (T 16.0), and the estimated
+time en route (ETE) to the TACAN station (00:02:45) or ETA, depending
+on UFC Data #1, PB #2 selection. The “K” signifies ETE.
+
+NOTE: The TACAN is always ETE.
+
+35 36 01
+LLILtItI ra Litittly
+5 r-— —5
+e | e VR e@ 6
+350
+x86 {-o-
+
+ny
+
+TCN 112X
+
+T 16.0
+
+544 “92:
+1.19.06 Oo 00:02:45 E
+
+40L—-— —~~_AQ
+
+7 \ TRNG
+/1 mi \\
+
+AVI-04-29
+
+Figure D - 29. TACAN - Gear Up.
+
+The bank steering bar provides steering to intercept the selected TACAN
+course. The CDI displays course deviation with a full scale deflection of
+10°. The command heading bug reflects the command heading set on the
+HSI. TRNG reminds the aircrew that the programmable armament
+control set (PACS) is in the training mode.
+
+D-41 AVI-4
+
+
+Text from AVI-4_ADI_HSI__HUD_page_48.jpeg:
+CRS Steer Mode Data
+
+When CRS is the selected steer mode, CRS XX.XXX will be displayed on
+the HUD, where XX.XXX designates the current steer-to point. In
+addition, the NAV range to the selected steer point will be displayed in
+nautical miles, along with ETE or ETA (Figure D-30).
+
+35 = 336 01
+aaa Ey ED
+
+SHS 15.
+e _e
+
+WA
+—_1—,
+
+5L-- ~~15
+
+CRS 12.1A
+N 22.6
+544 9:
+1.19.06 oO 00:03:02
+40L—— —~~_AQ
+TRNG
+
+7 ‘N
+oa wk
+
+AVI-04-30
+
+Figure D - 30. CRS Steer Mode.
+
+AVI-4 D - 42
+
+
+Text from AVI-4_ADI_HSI__HUD_page_49.jpeg:
+NAV Steer Mode Data
+
+When the NAV steer mode is selected on the HSI, and NAV master mode
+is selected, the HUD data block displays NAV and the navigation point
+(14B), distance to the navigation point (N 12.0), and estimated time en
+route to the point (00:03:20) or estimated time of arrival. This is shown in
+Figure D-31. ETA or ETE for the NAV steer point is selected on the UFC
+Data 1 page for both the HUD and HSI. The bank steering bar displays
+wind-corrected bank steering to the selected navigation point. The
+command steering bug indicates the command heading to fly to the
+selected navigation point.
+
+The NAV information is provided by the INS or mission navigator (MN),
+whichever is selected as the current present position source on the UFC
+present position keeping submenu. (This applies to NAV information on
+the ADI and HSI, as well as the HUD.)
+
+Sr —715 w_-100
+R 1390
+
+NAV 14B
+
+-§L-- --15< N 12.0
+¢ Vv \ 00:03:20 E
+/1 11 \\
+
+AVI-04-31
+
+Figure D - 31. NAV Steer Mode (Gear Down).
+
+D - 43 AVI-4
+
+
+Text from AVI-4_ADI_HSI__HUD_page_5.jpeg:
+STUDENT PREPARATION REQUIREMENTS
+
+PRIOR TO THE CBT LESSON
+
+1. Study the information contained in this workbook and complete the
+End of Text Quiz.
+
+2. Read references in Sections I and II of TO 1F-15E-1.
+
+NOTE: This workbook includes references to TCTO 1F-15E-737
+addressing global positioning system (GPS) aircraft modification data.
+This capability is required to support the replacement of the TACAN,
+VOR, and DME systems. The equipment is an embedded GPS/INS
+system which combines both a GPS receiver and processor and an
+independent ring laser gyro (RLG) INS into a single box that replaces the
+attitude heading reference set (AHRS) and is called the EGI INS. The
+existing INS is called the fighter navigation unit (FNU) INS. The EGI
+provides a blended solution which optimizes navigation capability and
+provides very accurate position and velocity data.
+
+For this block of training, the most significant factor is that a new flight
+director steer mode called course steering (CRS STR) has been added.
+This steer mode is equivalent to the existing TACAN steer mode, except
+that the course will be calculated to a steer point rather than a TACAN
+station. It will have the same display options and features as TCN steer
+mode, including PLAN and CDI views.
+
+This workbook shows both existing and post-EGI/INS explanations.
+
+C-1 AVI-4
+
+
+Text from AVI-4_ADI_HSI__HUD_page_50.jpeg:
+ILST Steer Mode Data
+
+When the ILST steer mode is selected on the HSI, the HUD data block
+displays ILST and the selected TACAN channel and mode, TACAN range,
+and ETE to the TACAN station (Figure D-32). MKR flashes below the
+time when passing over the marker beacon cone.
+
+The pitch and bank steering bars provide pitch and bank steering to
+intercept the localizer course and glide path referenced to the velocity
+vector. The course arrow displays localizer deviation with a full scale
+deflection indicating 2.5° or greater (1.25° per dot).
+
+The glide path indicator caret on the HUD, adjacent to the glide path
+scale, functions the same as on the ADI. The command heading bug
+reflects the command heading set on the HSI.
+
+35 36 01
+EE Ey
+10-—— ——10
+
+WW
+
+W_- 100
+R 1390
+
+ILST 112X
+
+T 126
+rate ieee eae Me 00:03:20 E
+711Y\\\ MKR
+
+AVI-04-32
+
+Figure D - 32. ILST (Gear Down).
+
+NOTE: The ILS pitch steering bar is optimized for a 3° glideslope. If
+flying a 2.5° glideslope, the pitch steering bar positions the aircraft about
+% dot below glideslope at decision height. The ILS steering adjusts its
+commands based on the elapsed time since glideslope capture. This
+results in smaller correction commands as the aircraft gets closer to the
+runway where the steering sensitivity increases. If the glideslope is
+captured late or if there is any interruption of ILS validity after glideslope
+capture, the steering may overcorrect and cause vertical and lateral
+excursions during the approach.
+
+AVI-4 D - 44
+
+
+
+Text from AVI-4_ADI_HSI__HUD_page_51.jpeg:
+ILSN Steer Mode
+
+Selecting ILSN on the HSI provides information similar to ILST except
+that NAV range and time are displayed instead of TACAN data
+
+(Figure D-33). In the HUD data block, ILSN steer mode, distance, and
+estimated time en route (E) or estimated time of arrival (A) are presented.
+Glide path information and steering to the ILS localizer remains the same
+as ILST. In the ILS modes, vertical and lateral steering information is
+provided by the ILS. Range information is provided by the INS or MN
+(ILSN), or the TACAN (ILST).
+
+e
+rm —15 Ww -100
+
+ILSN 14B
+N 12.0
+
+mae ema cl 9 00:03:20 E
+
+711%\\\
+
+AVI-04-33
+
+Figure D - 33. ILSN (Gear Down).
+
+WARNING
+
+HUD ILS command guidance is
+mechanized for a 3° glideslope. If other
+than a 8° glideslope is being flown, the
+generated glideslope pitch steering
+commands place the aircraft
+approximately % dot below the glide path.
+Therefore, during any ILS approach,
+cross-check generated steering commands
+with raw glideslope data.
+
+D - 45 AVI-4
+
+
+Text from AVI-4_ADI_HSI__HUD_page_52.jpeg:
+Ground Track (GT) Steer Mode
+
+When GT is selected on the HSI, the desired ground track is displayed in
+the HUD data block (Figure D-34). Beneath it is NAV range and ETE or
+ETA to the selected steer point.
+
+The bank steering bar provides steering to intercept the desired ground
+track. The command heading bug reflects the command heading to fly to
+attain the desired ground track.
+
+§L-- --5
+
+GT 360
+N 22.0
+00:03:02 E
+
+AOL —— ~~-AQ
+7 \
+/1 iy, \\
+
+AVI-04-34
+
+Figure D - 34. GT (Gear Up.)
+
+Heading (HDG) Steer Mode
+
+When HDG is selected on the HSI, HDG 350 (or whatever selected) is
+displayed in the HUD data block. Beneath it is TACAN range and ETE.
+
+Autonomous Landing Guidance (ALG) Steer Mode
+
+When ALG is selected on the HSI, ALG RWY is displayed, along with
+NAV data to the final approach fix (FAF). (Details will be covered in a
+later lesson.)
+
+AVI-4 D - 46
+
+
+Text from AVI-4_ADI_HSI__HUD_page_53.jpeg:
+HUD Display Programming (Reject 1 and 2)
+
+HUD symbology can be programmed using the HUD PROG format on the
+MPD/MPCD. HUD PROG is selected with PB #17 on Menu 2
+
+(Figure D-35). The HUD symbols are programmable for two reject levels
+(1 and 2) and for all the master modes. NAV and INST master modes
+cannot be programmed separately.
+
+f
+
+7 BIT EVENT ENG HUD \\ | OFF
+L} LI
+[2]A/ARDR
+LI
+A/G RDR
+TGTIR [1] ae
+
+AARDR [2] AA TEWS
+
+TF [3] NAV
+
+TGTIR [4] AIG
+HUD PROG [2] A/A
+
+TF | NAV
+
+LI
+| TGTIR
+LI
+
+M2
+
+ac
+Ors
+es
+
+ois] TL
+
+* TOROROTOIOIL
+
+AVI-04-35
+
+Figure D - 35. Menu 1 and Menu 2 Formats.
+
+D-47 AVI-4
+
+
+Text from AVI-4_ADI_HSI__HUD_page_54.jpeg:
+To program the HUD symbology, the aircrew selects HUD PROG from
+Menu 2. Once selected, the HUD PROG display initializes to the master
+mode and reject level currently selected on the HUD control panel
+(Figure D-36). If the pilot changes the master mode or reject level on the
+HUD control panel, the HUD PROG display also changes to reflect the
+new master mode or reject level. The aircrew can then select the
+symbology which will be displayed on the HUD and verify the selections
+using the HUD or the HUD repeater display. Symbols which are boxed
+are displayed on the HUD and the current master mode and reject level
+are displayed at the center of the display.
+
+REJ 1
+
+SELECTED (~ MACH OWS WATER
+
+REJ2 oO) NIGHT
+
+TGT LOC
+
+LINE DEFAULT
+
+TGTIR
+LOS
+
+ASPECT
+LINE
+
+RDR RNG
+SCALE
+
+TGT ALT
+ASPECT
+
+MODE SELECTED HDG PITCH BANK NAV RALT
+
+SCALE LAD SCALE DATA SCALE
+
+AVI-04-36
+
+Figure D - 36. HUD Programming.
+
+AVI-4 D - 48
+
+
+Text from AVI-4_ADI_HSI__HUD_page_55.jpeg:
+The aircrew can also program the HUD symbology independent of the
+master mode and reject level selected on the HUD control panel. This
+allows either crew member to change the HUD programming options in
+flight without affecting the current master mode and HUD symbology.
+Pressing PB #13 toggles to the next reject level and PB #14 toggles to the
+next master mode.
+
+There are several exceptions to the HUD display programming. They are:
+
+1.
+
+If the TFR is on, the radar altimeter thermometer and bank
+angle scale are always displayed. The radar altimeter
+thermometer is displayed only if allowed by altitude restrictions.
+
+The bank angle scale is automatically displayed upon initial
+activation of the TFR, whether programmed or not. It may,
+however, be rejected in all of the master modes if TFR is in OFF
+or STBY.
+
+The bank steering bar will not be rejected when ILST or ILSN is
+selected on the HSI.
+
+The pilot can display the steer mode as range data, even if NAV
+data has been programmed for removal, by moving the throttle
+coolie switch outboard.
+
+OWOFF is automatically displayed anytime an invalid
+maximum G condition occurs.
+
+A list of the symbols displayed with default selected is shown in master
+mode HUD programming tables in TO 1F-15E-1. The aircrew can select
+default on the HUD repeater to obtain the default HUD, “canned”
+symbology. Alternatively, the pilot can select NORM on the HUD control
+panel reject switch and achieve the “manufacturer’s standard” HUD
+symbology.
+
+D - 49 AVI-4
+
+
+Text from AVI-4_ADI_HSI__HUD_page_56.jpeg:
+DTM Read of HUD Programming Symbology
+
+The capability to load customized HUD programs from the DTM is
+available. The aircrew can load two customized HUD programs (i.e.,
+REJ-1 and REJ-2) through the DTM for each master mode. Also, the
+aircrew will see HUD PROG on the DTM format during DTM READ, as
+shown in Figure D-37 (if HUD programming is included in the DTM load
+program).
+
+DTM
+READ IN PROGRESS
+
+"HUD PROG"
+DATA
+
+- INPROGRESS
+- PENDING
+- PENDING
+- PENDING
+- PENDING
+- PENDING
+
+(eee
+
+Figure D - 37. DTM READ Format.
+
+AVI-04-37
+
+HUD Degrades/Failures and Interfaces
+
+The CC commands the displays on the HUD through various controls and
+generating interfaces. If the source of a display is sensed to be in a
+degraded or failed mode (including OFF in most cases), the appropriate
+invalid cue is commanded for that display data. Generally “OFF” is
+displayed in place of the data, if it is invalid. Alternately, the data is
+removed (command heading, CDI, pitch/bank steering bars). If the CC
+fails and the MPDP has taken control, the HUD is in the backup mode.
+The HUD display appears in the gear up position even with gear down.
+The INS provides pitch and bank data and radar provides altitude. The
+HUD format is only displayed on the HUD (no repeater display).
+Degraded avionics in a later lesson addresses this subject in more detail.
+
+AVI-4 D - 50
+
+
+Text from AVI-4_ADI_HSI__HUD_page_57.jpeg:
+QUESTIONS
+The waterline symbol functions as
+
+a flight path vector when referenced to the pitch ladder.
+
+a means to correct for drift with reference to a ground object.
+a means to determine flight path velocity.
+
+an azimuth reference point for the pitch ladder, when the
+velocity vector is not displayed.
+
+Boop
+
+HUD video can be selected for display on a MPD/MPCD by
+
+selecting VIDEO from the main menu.
+
+pressing VTRS display PBs #1 (HUD) and #8 (RUN).
+
+c. selecting HUD from the main menu and having the pilot adjust
+brightness control.
+
+d. selecting HUD from the main menu and then pressing
+
+PB #16 (CAM) or #20 (NAV FLIR), as appropriate.
+
+a ©
+
+D-51 AVI-4
+
+
+Text from AVI-4_ADI_HSI__HUD_page_58.jpeg:
+3. Interpret the HUD display in Figure D-38 to answer the following
+questions.
+
+=
+—715 w_ - 100
+
+R 1310
+
+—_te—
+
+O
+
+ILSN 14B
+N 12.0
+00:03:45 E
+
+2D ieee eee IS
+
+7 N
+71 ;¥\\\
+
+AVI-04-38
+
+Figure D - 38.
+
+a. Is the gear down?
+b. How many Gs are on the aircraft?
+
+c. Whatis the command heading? To what reference?
+
+4. The master mode display options are selectable
+
+in either cockpit.
+
+through the PACS program.
+
+by the pilot through the master mode menu.
+by the pilot from the HUD control panel.
+
+pe op
+
+AVI-4 D - 52
+
+
+Text from AVI-4_ADI_HSI__HUD_page_59.jpeg:
+5. The data block on the HUD displays
+
+a. only data for the steer mode selected either on the HSI or by the
+
+FCP coolie switch.
+all of the data information displayed on the HSI.
+
+c. TACAN range at all times when a TACAN station is locked on.
+d. identical ILS data as the HSI.
+
+6. Using the HUD display in Figure D-39, answer the following:
+
+35 38636 01
+Lyre
+
+10-—— ——\110
+
+560
+© 17.2 WW
+R 15350
+
+Sr 5
+
+—|o—
+NAV 14B
+
+N 12.0
+1.1 9.0G 00:01:48 E
+
+2B oes eed HN
+
+7 XN
+711% \\\
+
+AVI-04-39
+
+Figure D - 39.
+
+a. Whatis the master mode?
+
+In which direction do you need to turn to get back on course?
+c. Has the glide path been captured?
+
+d. Has anew course just been set?
+
+D - 53 AVI-4
+
+
+Text from AVI-4_ADI_HSI__HUD_page_6.jpeg:
+(This Page Intentionally Blank)
+
+AVI-4 C-2
+
+
+Text from AVI-4_ADI_HSI__HUD_page_60.jpeg:
+7. Using the HUD display in Figure D-40, which steer mode is selected
+on the HSI?
+
+35 ©6636 01
+nn [vc
+
+5r— —5
+
+WW
+
+—fs—
+
+R 15300
+
+5L-—- ~-5
+O NAV 12B
+834 N 12.0
+. 00:01:48 E
+1.2 9.0G
+40L_—— ~~ AO
+
+7 N
+71iY\\\
+
+AVI-04-40
+
+Figure D - 40.
+
+AVI-4
+
+
+Text from AVI-4_ADI_HSI__HUD_page_61.jpeg:
+ANSWERS
+
+a. Yes (VV displayed, OWS information/mach not displayed)
+b. Unknown - G readout is removed from HUD with gear down.
+
+c. 856°. To the heading set on the HSI (captain’s bars).
+
+a. INST or NAV
+
+b. Left (note bank steering bar/command heading bug and LOS
+cue).
+
+c. N/A-ILST or ILSN is not the current steer mode.
+d. N/A- Courses can only be set in TCN or ILS steer modes.
+
+NAV steer mode
+
+D-55 AVI-4
+
+
+Text from AVI-4_ADI_HSI__HUD_page_62.jpeg:
+(This Page Intentionally Blank)
+
+AVI-4 D - 56
+
+
+Text from AVI-4_ADI_HSI__HUD_page_63.jpeg:
+GLOSSARY
+
+A/A Air-to-air
+
+A/G Air-to-ground
+
+ADC Air data computer
+
+ADF Automatic direction finding
+
+ADI Attitude director indicator
+
+ADP Air data processor
+
+AGL Above ground level
+
+AHRS Attitude heading reference system
+ALG Autonomous landing guidance
+AOA Angle of attack
+
+BIT Built-in test
+
+CAS Calibrated airspeed
+
+CC Central computer
+
+CDI Course deviation indicator
+
+CRS Course
+
+CSET Course set
+
+DME Distance measuring equipment
+DTM Data transfer module
+
+EADI Electronic attitude director indicator
+EGI Embedded GPS/INS
+
+EHSI Electronic horizontal situation indicator
+
+F-1 AVI-4
+
+
+Text from AVI-4_ADI_HSI__HUD_page_64.jpeg:
+ETA
+
+ETE
+
+FAF
+
+FCP
+
+FLIR
+
+FNU
+
+FOV
+
+GPS
+
+GT
+
+HDG
+
+HSI
+
+HUD
+
+ILSN
+
+ILST
+
+IN CMD
+
+INS
+
+INST
+
+IR
+
+KCAS
+
+KTAS
+
+LOS
+
+AVI-4
+
+Estimated time of arrival
+Estimated time en route
+Final approach fix
+
+Front cockpit
+
+Forward looking infrared
+Fighter navigation unit
+
+Field of view
+
+Global positioning system
+Ground track
+
+Heading
+
+Horizontal situation indicator
+Head-up display
+
+Instrument landing system navigation combination
+
+Instrument landing system tactical air navigation
+combination
+
+In command
+
+Inertial navigation system
+Instrument (master mode)
+Infrared
+
+Knots calibrated airspeed
+Knots true airspeed
+
+Line of sight
+
+
+Text from AVI-4_ADI_HSI__HUD_page_65.jpeg:
+MN
+
+MPCD
+
+MPD
+
+MPDP
+
+MSL
+
+NAV
+
+OWOFF
+
+OWS
+
+PACS
+
+PB
+
+PPKS
+
+RLG
+
+TACAN
+
+TAS
+
+TCN
+
+TD
+
+TF
+
+TFR
+
+TOT
+
+UFC
+
+UHF
+
+VOR
+
+Mission navigator
+Multipurpose color display
+Multipurpose display
+Multipurpose display processor
+Mean sea level
+
+Navigation
+
+OWS inoperative
+
+Overload warning system
+Programmable armament control set
+Pushbutton
+
+Present position keeping system
+Ring laser gyro
+
+Tactical air navigation
+
+True airspeed
+
+TACAN; Tactical air navigation
+Target designator
+
+Terrain following
+
+Terrain following radar
+
+Time on target
+
+Upfront control
+
+Ultra high frequency
+
+VHF omni range
+
+F-3 AVI-4
+
+
+Text from AVI-4_ADI_HSI__HUD_page_66.jpeg:
+VTRS Video tape recorder system
+
+VV Vertical velocity; velocity vector
+VVI Vertical velocity indicator
+WFOV Wide field of view
+
+AVI-4 F-4
+
+
+Text from AVI-4_ADI_HSI__HUD_page_67.jpeg:
+(This Page Intentionally Blank)
+
+F-5 AVI-4
+
+
+Text from AVI-4_ADI_HSI__HUD_page_68.jpeg:
+BACK PAGE
+COVER SHEET
+
+
+Text from AVI-4_ADI_HSI__HUD_page_7.jpeg:
+TEXT
+ADI DISPLAY
+Function and Description
+
+The ADI (Figure D-1) provides basic attitude, heading, and airspeed
+information. It can be displayed on any MPD/MPCD. The ADI
+continuously displays calibrated airspeed, barometric altitude, magnetic
+heading, and the current attitude source. In addition, pitch and bank
+steering information (driven by signals from the CC) is displayed
+referenced to the steering mode selection on the HSI. The ADI is also the
+only source for turn and slip information.
+
+Ide
+it
+
+°
+a
+a
+
+TI
+
+D
+=
+=.
+
+® erp
+
+AVI-04-01
+
+Figure D - 1. ADI Display Format.
+
+D-1 AVI-4
+
+
+Text from AVI-4_ADI_HSI__HUD_page_8.jpeg:
+Symbology, Readouts, and Controls
+
+The basic ADI display (Figures D-2 and D-3) is described counterclockwise
+from the top left, beginning with airspeed.
+
+CALIBRATED ®
+CALERA oloIololc
+LI. tf IT
+35 36 ii
+
+ANGLE OF
+
+ATTACK aN ar: Sie
+
+WATERLINE PITCH SCALE
+
+PITCH TRIM
+
+CURRENT
+
+ATTITUDE
+
+SOURCE MINIATURE
+
+. AIRCRAFT
+
+FLIGHT PATH | Z L |B WEATERL IE)
+
+SYMBOL vail fala al eae TURN RATE
+
+VELOCITY r iw) co ia]
+
+ero YOVOVOMOTOT] 2) scate ann
+BANK SCALE INDICATOR
+
+Oy ees SLIP INDICATOR
+
+AVI-04-02
+
+Figure D - 2. ADI Symbology.
+
+Calibrated Airspeed: The box always displays calibrated airspeed (or OFF
+if calibrated airspeed is invalid).
+
+Angle of Attack/Command Velocity: Angle of attack is displayed when the
+landing gear is down. Command velocity is displayed when the landing
+gear is up. The command velocity is normally in calibrated airspeed. If
+true airspeed or ground speed is selected for display on UFC Data 1, the
+command velocity is based on that speed. The navigation point/TOT on
+which the command velocity is based is displayed after the command
+velocity. If no TOT has been entered, command velocity is not displayed
+and this space is blank.
+
+Waterline Pitch Trim: Waterline pitch trim allows the adjustment of the
+attitude sphere reference to the miniature aircraft symbol. Setting either
+cockpit pitch trim for changing airspeeds/AOA sets the pitch reference in
+both cockpits.
+
+AVI-4 D-2
+
+
+Text from AVI-4_ADI_HSI__HUD_page_9.jpeg:
+Current Attitude Source (Before TCTO 1F-15E-737): The current attitude
+source shows INS or AHRS. On power up, the source is AHRS until the
+INS is aligned and NAV is selected on the INS control knob. Thereafter,
+the source is INS unless the INS attitude is invalid; then the source will
+default to AHRS. INS or AHRS can be manually selected by pressing
+
+PB #5. Manually changing the attitude source has no effect on the
+heading information source. If the current attitude source (displayed) is
+invalid, OFF appears below the source legend and a large “X” is displayed
+across the attitude sphere.
+
+Current Attitude Source (After TCTO 1F-15E-737): Upon the installation
+of GPS hardware, the AHRS is removed from the aircraft and the
+selectable attitude references become EGI or (FNU) INS. The aircraft
+central computer will determine whether the GPS hardware is installed
+and hence determines the available selections at PB #5 (EGI/INS or
+INS/AHRS). Ifthe selected source becomes invalid, the system should
+default to the opposite source. In any case, if the selected source is
+invalid, a large X will be displayed across the EADI, prompting the
+aircrew to select the other attitude source. The INS is the power up
+default source.
+
+Flight Path Symbol: The velocity vector (bow tie) represents the flight
+path vector with respect to pitch only.
+
+Bank Scale and Pointer: The bank scale markings are in graduations at
+10, 20, 30, 45, 60, and 90°. The pointer reflects actual bank angle. A scale
+modification at 0, 45, and 60° clarifies bank limitations during terrain
+following (TF) operation.
+
+Slip Indicator, Turn Rate Scale and Indicator: The turn rate and slip rate
+indicators are electronically displayed and electrically powered. If invalid,
+OFF is displayed adjacent to the applicable indicator.
+
+Miniature Aircraft: The miniature aircraft reflects actual aircraft attitude
+in relation to the attitude sphere.
+
+Pitch Scale: The pitch scale markings are in graduations of 5°, with each
+10° increment numbered with the pitch angle.
+
+D-3 AVI-4
+
+

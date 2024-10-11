@@ -1,0 +1,2932 @@
+Text from LAN-3_Targeting_IR_page_1.jpeg:
+SUPPORTS COURSES
+FIS5EBQ
+
+FISETX
+
+FISESOC
+
+ACADEMIC STUDENT WORKBOOK
+F-15E
+
+LANTIRN
+LAN-3
+TARGETING IR
+
+OCTOBER 1998
+
+(SUITE 3 OFP)
+
+AIR COMBAT COMMAND
+
+
+Text from LAN-3_Targeting_IR_page_10.jpeg:
+Level and Gain Knobs
+
+These knobs are used to manually adjust the picture after the
+MPD/MPCD display quality has been set. With automatic level and gain,
+the target pod automatically adjusts its video gain/level to predetermined
+settings. When using manual level and gain, for the best presentation,
+tune the display first. With the gray scale selected, adjust the display
+brightness so the darkest shade of gray appears black. Then adjust the
+contrast so that all shades of gray are distinctly visible. After the display
+is adjusted, set the level so that average scene brightness equals the
+center shade on the gray scale. Next, increase gain until man-made
+objects “bloom” or lose their sharpness, and then back off slightly.
+
+Laser SAFE/ARM Switch
+
+This two-position switch allows the laser to be fired from either cockpit
+when it is in ARM and prevents laser fire when in SAFE. The laser status
+is shown on the TGT IR display, on the HUD as a diamond around the
+gun cross, and by the laser armed light in the FCP next to the right MPD.
+The TGT IR power switch must be in the ON position to arm/fire the laser.
+
+Display and HOTAS
+
+As usual, most control functions can be done on the display itself.
+Functions are also available on the HOTAS controls, some exclusively, as
+shown in Figure D-4. You must be in command of the display to perform
+most functions.
+
+LAN-3 D-4
+
+
+Text from LAN-3_Targeting_IR_page_11.jpeg:
+CASTLE SWITCH
+
+FWD — <1SEC=WPT/BPT/APT
+>1 SEC = WHT / BHT
+
+AFT — TGT
+
+LEFT — <1 SEC =CUE/MARK
+1ST DETENT - TRACK / UNTRACK — >1 SEC = STATION 2 HANDOFF INITIATE
+2ND DETENT — DESIGNATION RIGHT — <1 SEC = UPDATE
+
+— >1 SEC = STATION 8 HANDOFF INITIATE
+DOWN -— SEQUENCE POINT QUICK STEP
+SELECT
+
+AUTO ACQ SWITCH
+
+FWD — <1 SEC = CHANGES FOV
+> 1 SEC = STAB (SNOWPLOW)
+AFT — <1SEC=RETURN TO CUE
+> 1 SEC = STAB (LOS) / SP
+(GROUND POINT)
+DOWN — UNDESIGNATE
+
+LASER FIRE / STOP
+FIRING SLEW - LOS
+
+DEPRESS - ATRK/ PTRK
+
+( 2
+
+RCP HOTAS CONTROLS
+
+UP - SEQUENCE POINT SELECT
+
+)
+LASER FIRE/ G
+STOP FIRING
+
+SLEW - LOS
+DEPRESS - DESIGNATE
+
+AUTO ACQ SWITCH
+
+FWD — <1 SEC = CHANGES FOV
+> 1 SEC = STAB (SNOWPLOW)
+AFT — <1SEC=RETURN TO CUE
+> 1 SEC = STAB (LOS) / SP
+(GROUND POINT)
+DOWN — TRACK/ UNTRACK
+
+AFT — UNDESIGNATE
+
+FCP HOTAS CONTROLS LAN-03-04
+Figure D - 4.
+
+D-5 LAN-3
+
+
+Text from LAN-3_Targeting_IR_page_12.jpeg:
+INITIALIZATION
+
+The TGT IR presentation can be displayed on any MPD/MPCD. The only
+difference is that the MPCD display is black and white instead of black
+and green.
+
+Power Off
+
+With no power to the TGT IR the display looks like Figure D-5. Legends
+will appear around the display; however, the pushbuttons will be
+inoperative. TGT IR OFF-STOWED is displayed when the targeting pod
+switch is set to OFF with the targeting pod stowed. TGT IR OFF-
+UNSTOWED is displayed when the targeting pod switch is set to OFF
+with the targeting pod unstowed. TGT IR OFF-“_” is displayed
+whenever the CC is reset with aircraft weight on wheels and pod status is
+unknown.
+
+TGT IR OFF - STOWED
+
+NCC
+
+(OOOO
+
+Figure D - 5. TGT IR Display (Power Off).
+
+LAN-03-05
+
+LAN-3 D-6
+
+
+Text from LAN-3_Targeting_IR_page_13.jpeg:
+Targeting Pod Power-up
+
+The operating status of the targeting pod is shown in the center of the
+display. Placing the targeting pod power switch in STBY changes the
+TGT IR OFF (STOWED, UNSTOWED, no text) status to TGT IR NRDY
+(STOWED, UNSTOWED, no text) and starts the sensor head cooldown
+period. This normally takes 5 to 8 minutes, but may take less than 5
+minutes or as long as 15 minutes, depending on the conditions. TGT IR
+NRDY is displayed for 5 to 8 minutes (average) while the targeting pod
+cryogenic cooler achieves pod detector cooldown.
+
+During cooldown, the targeting pod sensor head is stowed. In the stowed
+position, the seeker is rotated 150° counterclockwise. When the cooldown
+is complete, TGT IR STBY-STOWED or UNSTOWED is displayed
+
+(Figure D-6). During targeting pod power up, the laser code, mechanical
+boresight errors, operating mode, and other control functions are
+displayed and selectable even though the video is not displayed. TGT IR
+STBY-“ ” is displayed during first time power up when the targeting pod
+switch is set to STBY from OFF, the aircraft is weight on wheels, and the
+pod status is unknown.
+
+TGT IR STBY - STOWED
+
+LAN-03-06
+
+Figure D - 6. TGT IR Status (Standby).
+
+
+Text from LAN-3_Targeting_IR_page_14.jpeg:
+Targeting pod video is displayed approximately 30 seconds after placing
+the targeting pod power switch in the ON position and the targeting pod
+has cooled down. TGT IR OPER-STOWED is displayed when the
+targeting pod switch is placed to ON and the pod is stowed or is unstowing
+(Figure D-7A). TGT IR OPER-UNSTOWED is displayed when the pod
+switch is placed to ON and the pod is unstowed or when the pod becomes
+unstowed (Figure D-7B). TGT IR OPERATE-UNSTOWED will be
+displayed for 5 seconds after TGT IR VIDEO is displayed.
+
+fe}
+g
+a
+
+DCL
+
+N  23°43.34
+E 104°34.32
+ELV 110
+
+CU ©
+yy
+
+|
+
+Ol
+
+|
+
+—
+al
+
+E
+x
+P
+T
+1
+R
+c
+D
+
+al
+
+I
+
+TGT IR OPER - STOWED
+
+343-102
+
+{fea}!
+=
+[Co
+
+® ers
+ies]
+
+AIG | TGT | WPT | | ATRK
+
+iS
+
+Hl CONT
+®
+
+A. TGT IR STBY TO ON
+
+g
+'
+
+AZOOOR SAFE ALAS STAB DCL AZOOOR SAFE ALAS STAB DCL
+EL 003D N  23°43.34 EL 003D N  23°43.34
+SLR 10.0 4 E E 104°34.32 SLR 10.0 i Bi E 104°34.32
+ELV 110 ELV 110
+
+AIG — “TJ | — ATRK
+
+B. TGT IR OPERATE (5 SECONDS) C. TGT IR READY DISPLAY
+
+LAN-03-07
+
+Figure D - 7. TGT IR Status (On).
+
+LAN-3 D-8
+
+
+Text from LAN-3_Targeting_IR_page_15.jpeg:
+TARGETING POD SETUP
+
+Once selected, the TGT IR display has two display options: primary (T1)
+and setup (T2) in both the A/A and A/G modes. The desired display is
+selected by pressing PB #13 (T1/T2). The T1 display (Figure D-8, left)
+contains weapon employment data and should be the primary display for
+normal targeting pod operations; otherwise, the displays are identical
+except that the manual focus control, electrical boresight, and gray scale
+options are not available on the T1 display. Initial targeting pod setup
+(i.e., focus, boresighting, and tuning) functions are available on, and
+performed from, the T2 display (Figure D-8, right).
+
+lclelelel *) 6-Telelelelel
+
+AZO00R ARM ALAS STAB DCL AZO0OR ARM ALAS STAB GRY
+EL003D 1688 N  23°43.34 EL003D 1688
+SLR 10.0 ri E 104°34.32 SiR 10.0 7
+
+343-102 343-102
+
+AG | TGT | WPT | | PTRK A AG | TGT | WPT | | PTRK
+2 ee ee ee ee a
+(OPOLOTOTOL e * (OPOOLovoh
+A/GT1 FORMAT A/G T2 FORMAT
+LAN-03-08
+Figure D - 8.
+
+D-9 LAN-3
+
+
+Text from LAN-3_Targeting_IR_page_16.jpeg:
+Targeting Pod BIT
+
+The targeting pod has two types of BITs: PBIT and IBIT. PBIT is
+enabled when power is applied to the targeting pod and operates
+continuously; it is noninterruptive and automatic. IBIT provides a
+comprehensive system test and is performed (with the targeting pod
+moded to STBY) via one of two methods:
+
+e Selecting LANT/RALT from the main BIT page (thereby performing
+IBIT on both LANTIRN subsystems and the radar altimeter).
+
+e Selecting TGT POD to perform IBIT following selection of
+LANT/RALT from the MAINT BIT page.
+
+The first method is preferred since all LANTIRN subsystems can perform
+IBIT with one selection. The initiated BIT for the pod takes about 70
+seconds. The seeker uncages and looks straight ahead. Then all three
+axes are checked; first yaw, then pitch, and last roll. Focus is also
+checked. If the laser is placed to ARM prior to the test, the TGT IR will
+automatically switch to the training (eye safe) laser and fire while the pod
+is stowed during the test profile. This will ensure that the laser will fire
+when unstowed. For the last ten seconds, a test pattern of alternating
+vertical black and white lines appears. At test termination, the pod
+returns to the STBY mode. TGT FLIR* will be displayed on the top level
+BIT page, as shown in Figure D-9A, following completion of IBIT if a BIT
+failure was detected. The asterisk next to TGT FLIR indicates that
+DETAIL information may be available for this subsystem. The targeting
+pod can report a maximum of 27 functional failures, 24 of which can be
+displayed at one time on the DETAIL BIT page.
+
+CAUTION
+
+The IBIT should be run only when the
+aircraft is stationary. While in motion,
+an IBIT may cause servo system failure.
+
+A second method of BIT is the individual target pod BIT. This method
+BITs only the target pod which may be used to re-BIT the pod if a fault
+has been detected in the target pod only or if a LANT/RALT BIT was
+accomplished and the target pod was not timed in when the LANT/RALT
+BIT was selected (Figure D-9).
+
+LAN-3 D-10
+
+
+Text from LAN-3_Targeting_IR_page_17.jpeg:
+BUILT-IN TEST
+TGT FLIR IN TEST
+
+OUCOMSIG
+a 2s
+
+5
+
+1s
+
+“A
+BRT
+
+®
+
+B. LANT / RALT BIT PAGE C. TGT POD IN BIT
+
+LAN-03-09
+
+Figure D - 9. Individual Targeting Pod Initialized BIT Procedures.
+
+
+Text from LAN-3_Targeting_IR_page_18.jpeg:
+TGT IR Tuning and Focus
+
+Auto Level and Gain (ALG)/Manual Level and Gain (MLG) Selection
+
+ALG or MLG may be selected on the T1 or T2 display by toggling PB #4
+(Figure D-10). In ALG, ALG is boxed and the targeting pod automatically
+adjusts its video gain/level to predetermined settings in the targeting pod.
+In MLG, ALG is not boxed and the WSO can manually adjust the gain and
+level of the targeting pod video using the gain and level controls on the
+sensor control panel.
+
+TGT IR Tuning
+
+The targeting pod video contains a gray scale (Figure D-10) which replaces
+the scene video at the bottom of the display upon command from PB #16
+on the T2 display. The fixed gray scale occupies the bottom 60 active lines
+with nine equally spaced shades of gray ranging from black to white. A
+variable gray scale occupies 40 lines above the fixed scale and varies in
+intensity based on input from the CONT/BRT controls on the MPD/MPCD
+
+being used.
+en
+
+allel
+a
+
+AZOOOR SAFE ALAS
+EL003D 1688
+
+327-057
+
+TGT | WPT | PTRK
+
+(OC
+
+Figure D - 10. Gray Scale (T2 Display).
+
+LAN-03-10
+
+LAN-3 D-12
+
+
+Text from LAN-3_Targeting_IR_page_19.jpeg:
+Tuning the display with the target pod video on it before adjusting the
+targeting pod gain/level provides the best presentation. The bottom fixed
+scale is used to adjust the BRT control on the display so that the darkest
+gray level appears black on the display. Then the CONT control on the
+face of the display is adjusted until all of the shades of gray are distinctly
+visible.
+
+With MLG selected, the top variable gray scale varies as a function of the
+IR scene and can be adjusted for optimum brightness and contrast using
+the gain and level controls on the RCP sensor control panel. The TGT IR
+video is tuned by adjusting the level until the middle gray is the desired
+video shade and then adjusting the gain to achieve a slight saturation of
+man-made objects. The gray scale should be used for reference only; it
+does not indicate if the gain and level setting is correct for the scene.
+
+Manual Focus Control
+
+The manual focus buttons provide the capability to adjust the IR video
+sharpness and clarity. The targeting pod automatically adjusts focus
+based on lens temperatures; however, in the event that the focus appears
+bad in one or more of the video FOVs, you can choose to adjust the focus
+by pressing either PB #14 or PB #15 on the T2 display (Figure D-8, right)
+until the image focus quality is satisfactory. The corresponding settings
+displayed next to the pushbuttons can range in value from -50 to +50,
+representing a total of approximately 0.4 inch of travel for the focus
+adjustment lens. Separate focus adjustments are stored for wide FOV
+(WFOV) and narrow FOV (NFOV); in expanded narrow FOV (ENFOV,
+digital expansion of the NFOV video), the NFOV adjustment is used.
+Focus settings can also be adjusted by typing in the appropriate focus
+values in the UFC scratchpad and pressing either PB #14 or PB #15. The
+targeting pod continues to compensate focus for temperature around the
+new focus settings and the CC retains these settings until the aircraft is
+shut down. A focus setting of zero represents the targeting pod automatic
+focus position. At power-up, focus settings are initialized to zero.
+
+
+Text from LAN-3_Targeting_IR_page_2.jpeg:
+ADMINISTRATIVE INFORMATION
+
+This student workbook is designed to provide information on the F-15E,
+its systems, and capabilities. It is not a sole source document, but is to be
+used in conjunction with other standard Air Force publications and
+technical manuals. If you find any differences between the material
+contained herein and other governing regulations, adhere to the
+regulations and notify the OPDR.
+
+Changes to this workbook are indicated with a heavy black line in the left
+margin.
+
+Forward recommendations for revision or change to 4 TS, SJAFB, NC,
+275381.
+
+Supersedes: LAN-3, July, 1998
+
+OPDR: 4TS
+
+Index of Changes
+
+Effective Date Pages Affected
+
+
+
+Text from LAN-3_Targeting_IR_page_20.jpeg:
+Targeting Pod Boresighting
+
+Targeting Pod Mechanical Boresight
+
+Mechanical boresight errors (in mils) are displayed on the T2 display
+(Figure D-11) to verify the proper pitch/roll/yaw constants. The
+mechanical errors should remain constant until a new boresight is
+accomplished or the CC is replaced or reprogrammed. These values
+should agree with the values logged in the aircraft’s AFTO Form 781. The
+values on the BRST display should be corrected (if required) to agree with
+the AFTO Form 781 values. If the values in the AFTO Form 781 are in
+hundredths of mils, they should be rounded up to the nearest tenth for
+entry via the UFC. The correct mechanical error is entered on the UFC
+scratchpad and the appropriate pushbutton (YAW: PB #1, PITCH:
+
+PB #2, or ROLL: PB #3) is pressed while in command of the TGT IR T2
+display.
+
+If cueing the targeting pod (with bypass mode selected) yields errors
+consistently in the same direction, and if bombing scores are in error in
+the opposite direction (i.e., cue left, bombs fall to the right) when using the
+targeting pod as the designation sensor, then mechanical boresight errors
+should be suspect. Mechanical boresight errors may occur as a result of
+incorrect entry of the error values, an alteration of boresight due to
+OVER-G, or due to normal wear on the aircraft structure.
+
+LAN-3 D-14
+
+
+Text from LAN-3_Targeting_IR_page_21.jpeg:
+Teli
+
+AZO06L SAFE ALAS STAB GRY
+EL002U 1688 N  35°20.77
+SLR 3.0 ru W 07°75.77
+ELV 120
+A
+
+Ld
+
+FOC
+-35
+
+LAN-03-11
+
+Figure D - 11. TGT IR Boressight (T2 Display).
+
+Targeting Pod Electrical Boresight
+
+The targeting pod is mechanically boresighted to assure proper alignment
+with the pylon hard points. However, in order to effectively use the
+targeting pod, it may be necessary for the aircrew to correct a bad
+mechanical boresight or to use a targeting pod that is out of specification.
+The aircrew is provided an option to manually correct the boresight
+(electrical boresight). The INS must be in NAV to get an accurate
+boresight.
+
+Whenever the aircrew uses this electronic boresight correction to correct a
+gross boresight misalignment, the targeting pod should be considered as
+operating in a degraded mode. The targeting pod has an accuracy of
+approximately 1.4 mils with a correct mechanical boresight, whereas the
+electrical boresight of the targeting pod through the HUD is no better
+than 2.5 mils.
+
+
+Text from LAN-3_Targeting_IR_page_22.jpeg:
+When in point track (PTRK), BRST is an option that becomes available
+above PB #8 on the A/G TGT IR T2 display (Figure D-12). To minimize
+parallax errors, PTRK must be initiated on a target that is in the HUD
+FOV and at least 1 nm away from the aircraft. Ideally, this operation
+should be performed in flight. After selecting BRST, the aircrew is
+provided two additional options above PB #7 and PB #9 to either APPLY
+or BYPASS the boresight correction, depending on how the pilot views the
+boresight alignment through the HUD.
+
+With BRST selected, the targeting pod LOS symbol is replaced by two
+concentric circles (6.1 mils and 25.6 mils in diameter) centered over the
+position the system calculates as the location of the object being point
+tracked. Because of optical path errors, the real world object being
+tracked will not be precisely centered inside the circles. To check the
+mechanical boresight accuracy, first select BYPASS to clear out any
+previous electrical corrections. The concentric circle location is affected by
+the mechanical boresight errors entered on the T2 display. Only if the
+point track object falls outside the inner circle should the aircrew consider
+the option to apply electrical boresight corrections. Boresight errors are
+corrected by selecting APPLY to enable electrical boresight corrections,
+then, using the TDC while in command of the TGT IR display, slewing the
+concentric circles in the HUD (the HUD repeater should never be used for
+boresight operations) until they are centered over the point tracked target.
+A boresight bias is calculated based on the TDC inputs used to center the
+concentric circles. This boresight bias is used by the targeting pod
+whenever APPLY is selected. (APPLD is displayed in the second row
+above PB #8 on both the T1 and T2 displays.) The targeting pod then
+applies these corrections until BYPASS is selected. BRST mode is exited
+by deselecting BRST by pressing PB #8 or by commanding untrack.
+
+LAN-3 D-16
+
+
+Text from LAN-3_Targeting_IR_page_23.jpeg:
+£9 ae)
+7
+
+N
+71iY\\\
+
+lcilellallelall “-
+
+7
+TT
+
+AZO06L SAFE ALAS sP GRY
+EL002U 1688 POD N_ 35°20.77
+SLR 3.0 ‘a W 07°75.77
+YAW ELV 120
+13 A
+FOC
+
+PITCH Se
+7.0
+
+ROLL
+
+aa
+
+3.4
+
+Fal
+A ——
+WwW
+
+H
+
+T
+
+WOU
+
+>
+
+ByeAS [ERST | | [APPLY] |
+es es
+
+Tororo
+
+LAN-03-12
+
+RIS
+
+® KI
+Les)
+a
+
+Figure D - 12. TGT IR Boresight (HUD Display).
+
+POOH
+
+LAN-3
+
+
+Text from LAN-3_Targeting_IR_page_24.jpeg:
+TARGETING POD DISPLAY AND CONTROL
+Targeting Pod Field of View (FOV)
+The targeting pod provides three seeker FOVs: WFOV (Figure D-13),
+
+NFOV and ENFOV (Figure D-14) with dimensions and magnifications as
+shown in Table D-1.
+
+VIDEO MPD MPCD
+“wrov | sarxear ox x
+
+/wrov | 587°x5.87° | 5.87° X 5.87° 2. asx | 1, Pex
+
+Table D - 1.
+
+The targeting pod initializes in WFOV under any of the following
+conditions.
+
+e When the targeting pod is powered up
+
+e When the targeting pod is cued from any source in any master
+mode
+
+e When boresight snowplow is commanded
+
+@ When A/A or A/G mode is selected at PB #6
+
+LAN-3 D-18
+
+
+Text from LAN-3_Targeting_IR_page_25.jpeg:
+(alelalelal *:
+
+AZ033R ARM ALAS ef DCL
+
+EL 020D 1712 DR N_ 35° 15.03
+SLR .9 W 117°43.16
+CDES ELV 468
+
+2
+
+m
+|
+
+033R
+
+ARM ALAS
+Ri
+
+“z= [or>|
+
+AG | TGT | BPT | | ATRK
+
+WIDE FOV
+
+Figure D - 13.
+
+Ls]
+[|
+
+AZ
+EL020D 1712
+SLR 9
+
+con +4 a
+
+ele 7
+L
+
+wo
+(OPOMOVOH
+
+| TCT | BPT |
+
+| ATRK
+
+CNONONOICT
+
+ii
+
+eI
+
+LAN-03-13
+
+e||
+
+Leen rare
+
+®
+NARROW FOV EXPANDED NARROW FOV
+LAN-03-14
+Figure D - 14.
+D-19 LAN-3
+
+
+Text from LAN-3_Targeting_IR_page_26.jpeg:
+The aircrew can manually select the desired FOV via the auto acq/mode
+reject switch. The EXP option at PB #14 on the T1 display enables the
+selection of ENFOV via HOTAS. When in command of the TGT IR display
+and with EXP not boxed, pressing the auto acq/mode reject switch forward
+for less than 1 second cycles between WFOV and NFOV. If EXP is boxed,
+pressing the auto acq/mode reject switch forward cycles from WFOV to
+NFOV (Figure D-14, left) to ENFOV (Figure D-14, right) to WFOV. If
+EXP is unboxed while in the ENFOV, the targeting pod returns to NFOV.
+
+Within the targeting pod video are four corner markers that outline what
+will be seen if the next smaller FOV is commanded. Within the WFOV
+display are four corner markers which outline the NFOV. With the NFOV
+display are four corner markers which outline the ENFOV when EXP is
+selected; if EXP is not selected, then the four corner markers are not
+displayed. Within ENFOV no markers are shown. If the target is within
+the corner markers, it is within the next smaller FOV.
+
+LOS Position
+
+Within the TGT IR display is a small open box (four small FOV corner
+markers) which provides a rapid means to identify the approximate
+azimuth and elevation of the targeting pod FLIR/laser LOS with respect
+to the aircraft (Figure D-15). It is essentially a plan view of the sensor
+position relative to the aircraft. The aircraft position is always in the
+center of the display with the top of the display representing forward of
+the aircraft.
+
+LAN-3 D - 20
+
+
+Text from LAN-3_Targeting_IR_page_27.jpeg:
+A: 0° AZ, 0° EL
+. ru
+
+C: +90° AZ, 0° EL
+
+OH
+B: -90° AZ, O° EL ~[ }#y Kt}
+eek ro p=
+
+(Ld Lo
+7 ae J ™ D: 0° AZ, -90° EL
+E: -180° AZ, -30° EL ee se
+
+LAN-03-15
+
+Figure D - 15. LOS Position in Relation to Aircraft.
+
+Magnetic Heading/Direction Display
+
+An indication of magnetic north is displayed on the targeting FLIR
+air-to-ground displays (Figure D-16). This display is in relation to the
+sensor line of sight, and can rotate as required to indicate magnetic north.
+
+The magnetic north display is removed whenever declutter is selected.
+Additionally, the display is removed if the INS and AHRS/EGI fails; or
+sensor communications is invalid, in standby, or switched off.
+
+
+Text from LAN-3_Targeting_IR_page_28.jpeg:
+Declutter (DCL) Option
+
+The DCL option (Figure D-13) is available (on T1 only) to allow the
+aircrew to remove specific display items for all A/G and A/A, T1 and T2
+displays. When DCL is selected, the following items are removed from the
+A/G TGT IR display:
+
+e =6BBR (bullseye, bearing, and range)
+
+e@ Weapon launch zones and range scale
+
+e Weapon status/delivery data
+
+e Targeting pod LOS lat/long data
+
+e Magnetic heading/direction display
+Manual LOS Slave/Slew
+
+The pod LOS may be changed manually in azimuth and/or elevation via
+the TDC when in the A/G submodes of slave (cue) and track.
+
+Slave Mode
+
+If the pod is not commanded to TRACK, it defaults to the slave submode.
+In this submode, the pod LOS is ground stabilized and points toward a
+particular point or area on the ground. However, there can be a slight
+amount of LOS drift in this submode. To manually slave the pod LOS, the
+crew member in command uses the TDC to position the LOS in azimuth
+and elevation. The TGT IR can also be slaved to a position by typing a
+sequence point number into the scratchpad and entering it at PB #17, or
+cueing the pod from the A/G RDR or TSD. To aid in positioning the pod
+LOS, a sighting index (i.e., crosshairs) is displayed on the TGT IR.
+
+LAN-3 D - 22
+
+
+Text from LAN-3_Targeting_IR_page_29.jpeg:
+Track Mode
+
+When you command TRACK (via HA on the trigger in the RCP or by auto
+acq depression in the FCP), you are in the TRACK submode. To manually
+change the pod LOS, the crew member in command uses the TDC to slew
+the pod. Changing the pod LOS in the TRACK mode affects the
+designation and is discussed in subsequent paragraphs. TRACK mode is
+indicated with either ATRK or PTRK boxed at PB #10 (Figure D-16).
+
+The direction and magnitude of slaving/slewing is indicated in the lower
+left corner of the display. An arrow indicates the direction and a letter
+indicates the rate (Figure D-16).
+
+MAGNETIC
+HEADING/
+
+DIRECTION
+DISPLAY
+
+SLEWING
+DIRECTION
+AND RATE
+
+|
+BIT
+
+©
+
+Il
+
+olla
+] yy yy
+
+AZ 045R
+EL 030D
+SLR 5.0
+
+HOMO IRC CD
+
+|
+SAFE ALAS 3 DCL
+RDR N_ 35° 15.03
+W 117°43.16
+ra ELV 468
+Lo
+
+M
+
+® ers
+w
+a
+
+LAN-03-16
+
+Figure D - 16. TRACK Submode and Slewing.
+
+LAN-3
+
+
+Text from LAN-3_Targeting_IR_page_3.jpeg:
+LANTIRN
+
+COVER
+
+TARGETING IR
+
+INTRODUCTION
+
+This workbook is your primary guide in studying the F-15E targeting IR.
+It contains background information essential for the classroom session. It
+familiarizes you with the description, nomenclature, and operational
+characteristics of the system.
+
+CONTENTS:
+
+INTRODDUGCTION 6 ces cuss sss sess sen sens sews suns sues sure sens set sews sues sur seins sen seis sess sumn axes « A-1
+CRITERION REFERENCED OBJECTIVES (CROs).........000eeeeeeeeeeeeeeee B-1
+STUDENT PREPARATION REQUIREMENTS . 0.00... eeeeeeeeeeee C-1
+TEXT oc eecccccceessseecceesseeeecessseeeceessseeeecesssseeeseeessaeeeseessaeeeseeeeaaeeseeea D-1
+SPONGY RC esate Ae Wad see ces ane es toe see ce ape ses tas cee se aes: ees arse seas ses ese ee ase: E-1
+GLOSSARY. ieee eeccceeseeesscecssneeecesaeeceseecessaeeceseecessaeesesaaeeeesaeeeesnaeeeseas F-1
+
+A-1 LAN-3
+
+
+Text from LAN-3_Targeting_IR_page_30.jpeg:
+Tracking Submodes
+
+Point Track (PTRK)
+
+PTRK uses a point contrast video tracker that looks for IR contrast which
+defines each edge/side of the target. Once an edge is found, the pod
+defines this with vertical and horizontal lines in the center of the video.
+PTRK is established when the target is bound with a rectangular box
+centered on the display. The WHT or BHT selection at PB #5
+
+(Figure D-17) determines what color man-made objects are to appear in
+the IR scene (overall polarity). Either white or black targets may be point
+tracked, depending on the target polarity tracking selection at PB #8
+(Figure D-17), which will be discussed later.
+
+The TGT IR displays two codes in the POINT TRACK MODE STATUS
+WINDOW located in the lower left corner of the video display
+(Figure D-17).
+
+“P1” - The P1 cue informs the aircrew when the pod is able to track the
+object in the video scene using PTRK as the selected contrast tracker.
+
+“U1” - The U1 cue informs the aircrew when the pod is unable to track the
+object in the video scene using PTRK as the selected contrast tracker.
+Since it is displayed only for a brief instant when the point tracker
+defaults to ATRK, it may not be seen by the aircrew.
+
+LAN-3 D - 24
+
+
+Text from LAN-3_Targeting_IR_page_31.jpeg:
+Q
+—_t
+
+y y yy y
+PT TT
+AZ033R SAFE ALAS
+EL 020D
+
+©
+
+elzlalelalny
+
+W 117°43.16
+ELV 468
+
+ra
+Ld
+
+\
+
+POINT TRACK
+MODE STATUS
+WINDOW
+(P1/U1)
+
+\
+
+LAN-03-17
+
+Figure D - 17. Point Track Submode.
+
+In the PTRK mode the targeting pod has the capability to polarity track
+targets either in WHT or BHT video. The options available are WPT
+(white polarity track), BPT (black polarity track), and APT (auto polarity
+track). The system initializes to WPT, but is selectable either by toggling
+PB #8 (Figure D-17) or by moving the RCP castle switch forward for less
+than one second.
+
+WPT commands the targeting pod to track white (green on color display)
+targets within the tracking window. To enhance target contrast, all
+embedded symbology is black.
+
+BPT commands the targeting pod to track black targets within the
+tracking window. To enhance target contrast, all embedded symbology is
+conversely white.
+
+APT commands the targeting pod to track either white or black targets,
+depending on the color of the target at the center of the crosshairs when
+PTRK is initiated. The targeting pod embedded symbology will be
+opposite the color of the object being tracked. APT is only available as an
+option in the A/G mode of the targeting pod.
+
+D-25 LAN-3
+
+
+Text from LAN-3_Targeting_IR_page_32.jpeg:
+Offset Track (OTRK)
+
+When PTRK is boxed on the T1 display, the offset track submode becomes
+available. OTRK can be selected (boxed) allowing you to attack a
+non-IR-significant point. You must press PB #9 to box OTRK which
+allows the cursor (crosshairs) to be separated from the track box. The pod
+remains aimed at the IR-significant point as indicated by the track box,
+but you can now move the cursor to another point (Figure D-18).
+
+Once you designate the target under the cursor, steering is computed to
+the target. You can move the cursor anywhere as long as the track box
+remains in the FOV. Should you move it further, the pod reverts to area
+track and ATRK appears above PB #10. This default also occurs if the
+track box moves off the screen due to aircraft movement or if the pod loses
+track. Ranging is to the point under the cursor. Pressing PB #9 again
+returns you to PTRK.
+
+TGT (NOT IR
+SIGNIFICANT)
+
+6 Telelelelal.*) 6° Telelstelel.*;
+
+T if
+
+AZ023R ARM ALAS DCL AZ023R_ LASE 7. DCL
+
+on ae 1712 ROR N_ 35° 15.03
+
+SLR .9 W 117°43.16
+4] cpEs ELV 468
+
+fe)
+ml
+au)
+fe)
+ml
+au)
+
+o = OVWOOIONO!
+
+EL015D 1712 RDR N_ 35° 15.03
+SLR .9 W 117°43.16
+CDES ELV 468
+
+r
+L
+
+_ 327-057 M
+AIG aL TGT ate WPT = —
+
+00n -4 ux<m
+00m -4 ux<m
+a
+
+327-057 M
+
+Ta TT
+
+IR SIGNIFICANT
+
+@ 1B
+
+LAN-03-18
+
+Figure D - 18. Offset Track Submode.
+
+LAN-3 D - 26
+
+
+Text from LAN-3_Targeting_IR_page_33.jpeg:
+Area Track (ATRK)
+
+In this submode, a scene is tracked using an area correlation tracker. It
+attempts to maintain this position based on a larger reference than is
+used in PTRK. ATRK may be the best option for unbound targets such as
+roads, railroads, bridges, etc. (Figure D-19). You can enter it anytime
+from PTRK. Alternate depressions of PB #10 or depressing the RCP TDC
+cycles between ATRK and PTRK.
+
+The TARGET IR displays two codes in the AREA TRACK MODE STATUS
+WINDOW, located in the lower left corner of the display.
+
+“C” - TARGET CORRELATION TRACK CUE. The targeting pod is
+
+tracking the object in the video scene using the target correlation tracker.
+
+“A” - AREA CORRELATION TRACK CUE. The targeting pod is tracking
+
+the object in the video scene using the area correlation tracker.
+
+AREA TRACK
+
+MODE STATUS
+
+WINDOW
+(C/A)
+
+Fal
+
+lo
+
+ALAS 4. DCL
+RDR N_ 35° 15.03
+W 117°43.16
+ELV 468
+
+=
+ee ee ee ee
+
+Figure D - 19. Area Track Submode.
+
+OFF
+—
+[|
+w
+a
+—
+a
+a
+a
+—
+a
+L___]
+
+LAN-03-19
+
+LAN-3
+
+
+Text from LAN-3_Targeting_IR_page_34.jpeg:
+Point Track Default to Area Track (P/A)
+
+If PTRK is commanded and the targeting pod is unable to acquire the
+target, or PTRK is broken once established, the pod defaults to P/A, which
+replaces PTRK at PB #10 (Figure D-20). This indicates the pod has
+reverted to area track because the system is unable to acquire/maintain
+point track. When the targeting pod is slewed with P/A displayed, it is
+commanded to ATRK at the termination of the slew input, indicated at
+PB #10.
+
+(7? AZ033R SAFE ALAS ' DCL oN
+EL 020D RDR N_ 35° 15.03
+SLR 5.0 W 117°43.16
+
+ELV 525
+
+E
+X
+P
+
+T
+1
+
+R
+Cc
+D
+
+327-057 M
+
+jwet | (PA
+
+Si
+
+LAN-03-20
+
+Figure D - 20. Default to Area Track from
+Point Track.
+
+LAN-3 D - 28
+
+
+Text from LAN-3_Targeting_IR_page_35.jpeg:
+Computed Rate Track (CMPT)
+
+If PTRK or ATRK cannot be established or maintained, the pod defaults to
+CMPT, as indicated at PB #10 (Figure D-21, right). In CMPT the pod is
+no longer tracking the target, but attempts to keep the pod LOS pointed
+at the last position tracked. Masking or clouds interfering with the LOS
+to the tracked target are the most common events which cause CMPT.
+Once the target is reacquired in the FOV, if the aircrew initiates a slew
+input, the pod attempts to reenter PTRK or ATRK at the termination of
+the slew. The pod will remain in CMPT for up to five seconds, after which
+time, the pod defaults to a cue mode if track upgrade has not occurred.
+
+®
+L) {I (Lc) II} (c LI] WI Lc} Hh (Cc
+
+((aZ033R SAFE ALAS = \ ((#Z033R SAFE ALAS >)
+RDR N35? 15.03 EL 020D ROR N 35° 15.03
+
+EL 020D
+SLR 5.0 W 117°43.16 SLR 5.0 W 117°43.16
+ELV 468 ra ELV 468
+
+La
+
+ra
+Li
+
+00W -4 UxXMm
+00m -4 0 6UxKM
+
+327-057 M 327-057 M
+
+Ss 1 oo a al eel fewrr]
+
+LAN-03-21
+
+Figure D - 21. Default to Computed Rate Track form Area Track.
+
+D - 29 LAN-3
+
+
+Text from LAN-3_Targeting_IR_page_36.jpeg:
+Continuous Designation (CDES)
+CDES is available in the PTRK, OTRK, and ATRK modes for only the
+TGT and UPDT cursor functions. CDES is selectable at PB #1
+(Figure D-22), and is boxed when active. The letter “C” will prefix the
+current ranging sensor in priority above the selected cursor function at
+PB #7 (Figure D-22).
+In the TGT cursor function, CDES is only available using LAS, HRM, or
+PASS as the priority sensor. Continuous designation is active while in the
+TGT cursor function when all of the following conditions are satisfied.
+
+e PTRK, ATRK, or OTRK is commanded
+
+e CDES boxed at PB #1
+
+e target designated via the TGT IR display
+
+e no TDC slewing in progress; target automatically redesignates
+once TDC slewing inputs terminate if previously in CDES
+
+e LAS, HRM, or PASS sensor valid and selected
+If the above conditions have been met, CLAS, CHRM, or CPASS is
+displayed above TGT at PB #7 to indicate that the target is being
+continuously designated using the specified sensor. CDES is interrupted
+and the cues are removed above TGT at PB #7 at the occurrence of any of
+the following:
+
+e initiation of a slew command
+
+e targeting pod enters CMPT
+
+e = when the cursor function is changed
+
+e the range source used (sensor in priority) becomes invalid
+
+LAN-3 D - 30
+
+
+Text from LAN-3_Targeting_IR_page_37.jpeg:
+CDES LOST is displayed for up to five seconds on the TGT IR if track is
+broken, CMPT is entered, or when laser ranging becomes invalid.
+
+In the UPDT cursor function, CDES operates similarly to the TGT cursor
+function, except UPDT allows the use of AGR as another valid ranging
+sensor source and CAGR can also be displayed above UPDT at PB #7.
+Errors to the MN, INS, or SYS ALT are continuously updated while CDES
+
+is active.
+
+(A AZ033R LASE ALAS 5. DCL oat
+EL 020D 1712 RDR N_ 35° 15.03
+LAS 5200 W 117°43.16
+ELV 468
+
+CDES ra
+
+E
+xX
+P
+
+L -327-057
+
+CLAS
+wc | Ter |wer | |ATRK) _/
+
+LAN-03-22
+
+Figure D - 22. ATRK Continuous Designation.
+
+Cursor Functions
+
+You can designate the ground point under the cursor as a target (TGT),
+update the INS, MN, or ALT (UPDT), cue an AGM-65 (CUE), or create a
+mark point (MARK). You can select the appropriate cursor function by
+repeated depressions of PB #7, or in the RCP by moving the castle switch
+left for CUE/MARK, aft for TGT, or right for UPDT. Figure D-22 shows
+the TGT option selected.
+
+
+Text from LAN-3_Targeting_IR_page_38.jpeg:
+Target
+
+In TGT the ground point is designated as a target. This is done by placing
+the point under the cursor and going full action on the RCP hand
+controller trigger or depressing and releasing the TDC in the FCP.
+DESIGNATE appears on the screen momentarily. Attack steering is now
+available on the HUD if in the A/G master mode. With a designation,
+AUTO delivery and A/G master mode selected, you will also have TPULL
+or TREL displayed until weapon release. After weapon release
+TPULL/TREL changes to TIMPCT (Figure D-22). If CDES is not boxed
+and the operator attempts to fine tune the LOS or slews to a different
+target, the target must be redesignated. In the auto bombing mode, if
+AUTO or LAS is selected as the priority sensor, then laser is used if the
+laser is firing and range is valid. If AGR is desired as the range source,
+taking command of the TGT IR display a second time forces the radar into
+AGR regardless of master mode selection as soon as the pod is slewed
+within radar gimbal limits. If continuous designation is lost, CDES LOST
+is indicated in the middle of the display and will be displayed for five
+seconds. CDES LOST may occur at close range to the target, when target
+size exceeds the track box display capability. When CDES is interrupted,
+the designation remains on the last valid designation update until the
+aircrew redesignates.
+
+Cue
+This option can be used to bring an AGM-65 line of sight to the TGT IR
+LOS without designating a target. The same procedure as for TGT is
+
+used, except CUE must appear above PB #7. Attack steering is not
+provided on the HUD.
+
+LAN-3 D - 32
+
+
+Text from LAN-3_Targeting_IR_page_39.jpeg:
+Update
+
+The UPDT cursor function allows you to update the INS, MN, or system
+altitude. Cue the target pod to a well defined sequence point, like a
+man-made object with vertical development, and select the update cursor
+function. It is essential that the correct sequence point be indicated at
+
+PB #17. At this time you can select either the MN, INS, or ALT for
+update by toggling PB #16 to the desired update function. Manually slave
+the pod line of sight over the update point. Once valid ranging is
+established, position/altitude errors are displayed at PB #16
+
+(Figure D-28).
+N600
+i Nia
+[ | ff
+
+AZ065R LASE ALAS 5. INV
+EL030D 1511 RDR
+LAS 25653 wso0
+
+CDES W0.5
+
+INS REJ
+INV
+
+H120
+INV
+
+327-057 M
+L
+
+Figure D - 23. Update Cursor Function.
+
+
+Text from LAN-3_Targeting_IR_page_4.jpeg:
+CRITERION REFERENCED OBJECTIVES (CROs)
+
+1. Identify the function of the targeting IR controls.
+
+2. Interpret the display symbology associated with the targeting IR
+system.
+
+3. Identify the operating characteristics of the targeting IR.
+
+4. Interpret the tactical decision aid (TDA) when performing NAV FLIR
+and TGT IR planning.
+
+5. Demonstrate how to use the TGT IR planning software to determine
+TGT pod FOV footprints.
+
+NOTE: CROs 4 and 5 will be evaluated on Surface Attack (SA) missions.
+REFERENCES
+
+TO 1F-15E-34-1-1 Section I LANTIRN Targeting Pod
+- AN/AAQ-14
+
+LAN-3 B-1
+
+
+Text from LAN-3_Targeting_IR_page_40.jpeg:
+Position errors greater than 3000 feet are displayed in nautical miles.
+Altitude errors are displayed in feet. A large error may indicate a
+procedural error. You can command track (either PTRK or ATRK) if
+desired. To obtain the most accurate ranging information, the laser
+should be firing for the update; however, if the laser is safe or laser
+ranging becomes invalid, then radar ranging data (AGR) is used if
+available. Regardless of the priority sensor selection, the AGR is slaved to
+the target pod LOS immediately if a second take command of the TGT IR
+display is accomplished. This means that if the radar is operating (and is
+not in either SNIFF, MRM support, or an acquisition mode), it is
+commanded to AGR and slewed to the target pod LOS as soon as UPDT is
+selected at PB #7 and the cursor is slewed or an update is commanded.
+When you are confident that the pod is tracking the correct sequence point
+and is using optimum ranging, accept the update by squeezing the hand
+controller trigger to full action (RCP) or depressing/releasing the TDC
+(FCP).
+
+The update is successful if INS REJECT or INVALID is not displayed
+with INS at PB #16. If you are updating the MN and mistakenly accept a
+large update error, reset the MN on the UFC update select submenu. The
+INS is protected against most update errors by the Kalman filter. The
+MN accepts 100% of your update.
+
+LAN-3 D - 34
+
+
+Text from LAN-3_Targeting_IR_page_41.jpeg:
+Mark
+
+The MARK cursor function allows you to create mark points from the TGT
+IR display. To create a mark point, select the MARK cursor function at
+PB #7 by stepping through the cursor functions using PB #7 or by a left
+movement of the RCP hand controller castle switch (left movement of the
+castle switch toggles between CUE and MARK). The mark point is
+created by depressing and releasing the FCP TDC or by full action on the
+RCP hand controller trigger. “MARK XX” displays for five seconds in the
+center of the TGT IR display (Figure D-24) and the mark point data is
+stored in the CC buffer. It can also be written to the data transfer module
+and is displayed on the UFC of the cockpit from which the point is created.
+The mark point symbol will not be displayed on the TGT IR display. The
+air-to-ground radar is commanded after mark point designation if the
+targeting pod LOS is within the radar gimbal limits, and there is no
+higher priority request for the AGR (track or acquisition mode). AGR
+control in MARK is similar to UPDT.
+
+AZO60R SAFE ALAS SP DCL
+EL 020D AGR POD N_ 35° 15.03
+RDR 15423 E 117°43.16
+ELV 468
+
+oy
+
+MARK 02
+
+327-057
+
+Figure D - 24. Mark Cursor Function.
+
+
+Text from LAN-3_Targeting_IR_page_42.jpeg:
+Cue Modes
+
+There are several methods available to the aircrew to cue the targeting
+pod. Listed below are the types of sensors or sources used to aim the pod
+and their associated legends.
+
+RDR
+
+TSD
+
+NAV
+
+HUD
+
+LAN-3
+
+Targeting pod cued from A/G RDR display. If the mission
+sequence point under PB #17 on the A/G RDR display is not a
+target offset, the pod will be cued to that point upon target
+designation. If it is a target offset, the pod will be cued to the
+actual target. In the cue cursor function the pod will cue to any
+point under the crosshairs, regardless of the syntax at PB #17.
+However, in the cue mode, AUTO sensor must be selected, or
+LAS must be included in the MAN sensor hierarchy if that is to
+be used.
+
+Targeting pod cued from the TSD. When selecting FLIR at
+
+PB #7 on the TSD, an arrowhead appears on the sensor pointing
+cue. After slewing the arrowhead over the selected map area,
+commanding FA on the RCP HC trigger, or TDC press/release
+on the FCP throttle, will cue the pod to that point.
+
+Targeting pod cued from NAV designation or quickstep method.
+Four methods exist for the aircrew to NAV cue the pod on the
+TGT IR display. Pressing PB #17 will sequence through all
+mission points on the route. Selecting quickstep (FCP coolie up,
+or RCP castle switch depress) sequences to the closest point
+forward of the aircraft within 20 nm on the current route. If
+there are no points forward of the aircraft within 20 nm, a SP
+will be displayed at PB #17. Thereafter, quickstep numerically
+selects the next mission point in sequence. The aircrew may
+also type in a mission point in the UFC scratchpad and enter it
+at PB #17.
+
+Targeting pod cued from the HUD TD diamond. When the pilot
+is in command of the HUD and either AUTO sensor is selected
+or LAS is included in the MAN sensor hierarchy, the pod LOS is
+slaved to the HUD TD diamond when a HUD designation occurs
+or follows the pilot’s slew inputs without a designation.
+
+
+Text from LAN-3_Targeting_IR_page_43.jpeg:
+RET
+
+STAB
+
+SP
+
+Targeting pod slaved to the A/G reticle. The pilot must be in
+command of the HUD and take command a second time to cue
+the pod to the A/G HUD reticle LOS. AUTO sensor must be
+selected, or LAS must be included in the MAN sensor hierarchy,
+with the pod in the A/G mode and not in any track mode.
+
+Targeting pod commanded to space stabilized mode. The STAB
+mode is considered a special type of cue mode. STAB is
+displayed at PB #17 either by typing in zero on the UFC
+scratchpad and entering it at PB #17, or holding the mode reject
+switch (RCP) or auto acq switch (FCP) forward for greater than
+one second. In either case, the pod LOS is commanded to a
+three-degree down, zero-degree azimuth position, and is referred
+to as the “snowplow” mode of operation (Figure D-25). Once in
+snowplow, TDC inputs can be used to modify the space
+stabilized LOS, but STAB will remain displayed at PB #17. If
+the aircrew wishes to space stabilize the pod without initially
+going to snowplow, holding aft on the mode reject switch (RCP)
+or auto acq switch (FCP) for greater than one second will also
+enter STAB at the current pod LOS. STAB is exited when either
+track is commanded, the pod is cued by another source, MARK
+or CUE designation occurs, or ground stabilization is
+commanded via HOTAS.
+
+Targeting pod commanded to ground stabilized mode. Holding
+aft on the mode reject switch for greater than one second not
+only enters the current pod LOS to STAB, but alternately selects
+the ground stabilization mode and attempts to keep the pod LOS
+on the point under the crosshairs without entering track. SP is
+displayed at PB #17 when this mode is entered.
+
+
+Text from LAN-3_Targeting_IR_page_44.jpeg:
+The cue mode legends are displayed below the mission sequence point
+under PB #17; or in the case of STAB or SP, directly under PB #17. The
+targeting pod initializes to the wide field of view (WFOV) at power-up,
+upon changing operating modes at PB #6 (A/A or A/G), or when cued using
+any of the methods listed above. After cueing, TDC inputs to refine the
+pod LOS varies depending on aircraft motion or position relative to the
+ground point. The above modes are exited upon designation, or in the case
+of the space stabilization mode, once STAB is exited. Below are the
+legends displayed when these two things occur:
+
+POD Targeting pod designation on the TGT IR display.
+
+Blank Targeting pod not cued (exit from STAB mode).
+
+| allo
+ae
+
+les
+a
+
+AZO000R ARM ALAS STAB DCL
+EL 003D 1688 ra
+SLR 39.2 La
+
+CDES
+
+AG | TCT | WPT | | PTRK
+
+LAN-03-25
+
+Figure D - 25. TGT IR (Snowplow).
+
+LAN-3 D - 38
+
+
+Text from LAN-3_Targeting_IR_page_45.jpeg:
+Laser Operation
+
+The laser is primarily utilized for the delivery of laser guided munitions,
+but it is also used to provide accurate ranging information for system
+updates, target designations, and weapons release computations. There is
+only one laser transmitter, but filtering techniques may be applied to
+create either an eyesafe training mode (1.54 micron wavelength at 8
+millijoules) or a tactical mode (1.06 micron wavelength at 100 millijoules)
+of operation. The tactical laser is capable of ranging up to 13.2 nm with
+an accuracy of 20 feet, while the training laser is limited to 3.5 nm when
+the visibility is greater than 12 nm. Selection between modes is
+accomplished on preflight by means of a mechanical switch on the exterior
+of the targeting pod. A green (1.54) indication in the window means the
+training mode is selected, while red (1.06) indicates that the tactical mode
+is selected. It is not aircrew selectable once airborne. A “T” displayed on
+the laser status window is also an indication the pod is in the training
+mode.
+
+Laser Arm
+The laser is armed from the RCP TGT IR sensor control panel. Armed
+indicators include ARM displayed at PB #19, an “L” displayed on the laser
+status window (Figure D-26), a diamond placed over the HUD gun cross,
+and an illuminated LASER ARMED advisory light in the FCP. It cannot
+be armed until the following requirements are met.
+
+e Laser arm switch in ARM
+
+e Valid laser code entered
+
+e Weight off wheels (WOW) and landing gear handle up
+
+e System altitude less than 25,000 feet
+
+
+Text from LAN-3_Targeting_IR_page_46.jpeg:
+Laser Code
+
+The laser is capable of emitting pulses at a PRF up to and including 20
+pulses per second. The laser electronics is also capable of modulating the
+emitted pulsed energy by transferring coded data from the pulse interval
+modulator (PIM) module, which is selectively loaded onto the targeting
+pod located on the BIT maintenance panel. A valid laser code is displayed
+under the laser status at PB #19 (Figure D-26). An invalid laser code
+flashes at PB #19 when the targeting pod is in operate with the laser
+switch in SAFE or ARM. Specific codes are also assigned for types of laser
+guided bombs, which is covered in a later lesson. Laser codes are keyed on
+the UFC scratchpad and entered at PB #19 once the pod is in STBY or
+ON. Any laser code ranging from 1XXX to 2XXX (X = 1-8) is valid for both
+the tactical (combat) or training laser modes. Codes beginning with 1 are
+used for PRF modulation, while codes beginning with 2 are used for PIM.
+If a 2XXX code is entered the targeting pod itself must contain the PIM
+module, otherwise the tactical laser will not arm or fire.
+
+$ Telelelels
+
+AZ000R ARM ALAS 5.
+EL 030D 1688 RDR
+SLR 10.0
+
+CDES
+
+E
+
+ANG | TGT | WPT |OTRK |[PTRK]
+
+K
+%
+4
+
+®
+
+LAN-03-26
+
+Figure D - 26. TGT IR Laser Status.
+
+LAN-3 D - 40
+
+
+Text from LAN-3_Targeting_IR_page_47.jpeg:
+Laser Status
+
+The TGT IR indicates the status of the laser in three different areas on
+the display. First at PB #19, one of the following syntax may be displayed
+(Figure D-27):
+
+SAFE The laser switch is in SAFE, or in ARM but the aircraft is above
+25,000 feet system altitude and has automatically safed the
+laser.
+
+ARM The laser switch is in ARM, but is not firing.
+LASE The laser is firing; “LASE” also flashes when firing.
+
+MASK _ The laser has been commanded to fire, but has been inhibited
+due to the LOS being obscured by the aircraft structure. MASK
+will only appear when LOS is obscured during LASE operation.
+The TGT IR will reinitialize to LASE once the masking condition
+is exited.
+
+Secondly, at PB #20, under the azimuth and elevation values, the ranging
+source will indicate whether or not the laser reflected energy is being
+received and processed through the TGT IR pod (Figure D-27).
+
+The laser status window located on the lower right corner of the TGT IR
+display (Figure D-27) is the third indication of laser status. There are
+three codes that may be displayed individually, or in conjunction with one
+another and are listed below.
+
+“T” - TRAINING LASER CUE. Displayed when the eyesafe training mode
+has been selected. If the combat tactical laser is selected, the “T” is not
+displayed.
+
+“L” - LASER ARM CUE. Displayed on and steady when the laser switch
+is set to ARM. Flashes when the laser is firing.
+
+“M” - LASER MASK CUE. Displayed in conjunction with the MASK cue
+at PB #19 to indicate LOS has been obscured. The laser is inhibited from
+firing and the flashing “L” will become steady when “M” is displayed.
+Flashing crosshairs are an early warning signal to the aircrew that a
+masking condition is developing within 5° of mask zone.
+
+
+Text from LAN-3_Targeting_IR_page_48.jpeg:
+DIAMOND IS STEADY
+WHEN LASER IS ARMED
+AND PULSES WHEN LASER
+IS FIRING
+
+lolelcleall!
+
+—
+
+‘a ‘a!
+AZOOOR LASE' ALAS 5. DCL
+
+6180
+
+TGT5.A EL 007D 1688 RET N_ 35° 15.03
+610 LAS 6180 W 117°43.16
+4, 00:05 TREL CDES ri ELV 468
+10 L-- -—\0 CDIP LAS
+
+TGT POD
+DESIGNATED LOS CUE
+TARGET
+
+rp "eT FLIR
+@ GAIN LASER
+
+O LEVEL
+
+ALAS 5.
+
+EL 030D 1688 PoD N_ 35° 15.03 SAFE
+| || Las 18000 W 117°43.16
+OH [eDES] es ELV 468
+= | SENSOR CONTROL PANEL
+OF INDICATES LASER LASER
+—< RANGE RECEIVED SAFE/ARM SWITCH
+= |
+|
+LASER STATUS WINDOW
+
+eB |
+
+(FLASHING IF LASER IS FIRING)
+BRT
+®
+
+TARGET MODE DISPLAY
+
+LAN-03-27
+
+Figure D - 27. Laser Status Indications (Prerelease).
+
+LAN-3 D - 42
+
+
+Text from LAN-3_Targeting_IR_page_49.jpeg:
+NOTE
+
+WARNING
+
+Along the laser main beam LOS, the
+tactical laser can be hazardous to
+personnel on the ground or in other
+aircraft within approximately 12 nm.
+
+Do not fire the tactical laser within 1000
+feet of personnel or other aircraft.
+Reflected sidelobe energy may cause eye
+damage. Never lase inhabited areas.
+
+CAUTION
+
+The targeting pod may be fired up to
+25,000 feet system altitude. Above
+25,000 feet system altitude, the targeting
+pod protects itself and will not arm or
+fire. Any attempt to arm or fire the laser
+above 25,000 feet system altitude results
+in the following: TGT IR display
+symbology indicates SAFE, L does not
+appear, and the laser will not arm or fire.
+The laser arm switch may be placed in
+ARM between 25,000 and 40,000 feet
+with no negative consequences. In this
+situation the laser will arm when the
+aircraft descends below 25,000 feet.
+
+The training laser is not suitable for employment of laser guided
+
+munitions.
+
+NOTE
+
+LANTIRN pods must be turned off above 40,000 feet or if greater than
+Mach 1.2 or 650 KCAS to prevent damage.
+
+LAN-3
+
+
+Text from LAN-3_Targeting_IR_page_5.jpeg:
+STUDENT PREPARATION REQUIREMENTS
+
+BEFORE CLASS
+
+1.
+
+2.
+
+Study the information contained in this workbook and complete the
+End of Text Quiz.
+
+Read the Dash 34 reference.
+
+
+Text from LAN-3_Targeting_IR_page_50.jpeg:
+Auto/Manual Lase
+
+The aircrew can manually lase (MLAS) or have the targeting pod
+automatically lase (ALAS) the target during a laser guided bomb (LGB)
+weapons delivery profile. To program a manual or auto lase time, the
+aircrew must first select a LGB or SUU-20 in the A/G PACS. Once this is
+accomplished, the aircrew needs to go to an A/G delivery display and enter
+the PROG PAGE by depressing PB #1. The current MLAS/ALAS
+programmed time will be displayed above PB #8 (Figure D-28). Allowable
+lase times range from 0:01 to 1:30, or CONT (continuous). Toggling PB #8
+with a blank UFC scratchpad alternates between MLAS and ALAS. To
+input a time, simply type the number of seconds on the UFC, up to 1:30,
+and depress PB #8. If colons are used, two numeric digits must be added
+prior to entering or it will flash on the scratchpad as an invalid input. If
+CONT lase is desired, simply type “C” on the UFC scratchpad and enter at
+PB #8.
+
+NOTE
+
+Only lase times of 12, 15, 20 seconds, or CONT can be selected for the
+GBU-24.
+
+LAN-3 D - 44
+
+
+Text from LAN-3_Targeting_IR_page_51.jpeg:
+(7
+
+(LAS AG RALT HR
+1 3 5 2
+
+L1_|| PROG 6 SYS
+PAGE
+
+A/G DLVRY PROG
+
+LOET
+MAN PRIOR STATUS
+
+1 LAS VAL
+2 HRM VAL
+3 AGR SAN
+4 PASS OFF
+5 RALT VAL
+6 SYS VAL
+
+LAN-03-28
+
+Figure D - 28. A/G Delivery Program Page.
+
+Once the lase times have been programmed, the aircrew must select
+either a MLAS or ALAS function on the TGT IR display at PB #18 while
+in the A/G mode (Figure D-29). During MLAS operation, the time input
+and displayed is just a visual cue to remind the aircrew of desired
+terminal laser fire guidance time. The aircrew must still manually
+actuate laser fire via HOTAS. During ALAS operation, the laser will
+automatically fire when the programmed time matches TIMPCT, and will
+continue to fire until either TIMPCT terminates (--) plus 10 seconds (or
+10% of the total TOF of the weapon, whichever greater), or the aircrew
+manually terminates laser fire via HOTAS or switches laser to SAFE.
+MLAS or ALAS times are displayed above the sighting index (crosshairs)
+to the left, while TREL or TPULL (prior to weapons release) and TIMPCT
+(after release), are displayed directly above the crosshairs (Figure D-29).
+In both operating modes the laser must be armed and the aircrew must
+ensure the target is continuously being tracked via the crosshairs until
+weapons impact.
+
+
+Text from LAN-3_Targeting_IR_page_52.jpeg:
+(7 AZOOOR LASE ALAS
+
+EL030D 1688 RDR
+LAS 11300 W 117°43.16
+CDES ALAS TREL ELV 468
+0:12 0:01
+ra
+L4
+
+4azs [@r>}
+
+M
+L 343-102
+
+AiG | TGT | WPT | |
+See ee
+
+(, E >») (, >)
+la AZ030L ARM ALAS 5. DCL 7. li AZO70L LASE ALAS 5. DCL >
+ELO15D 1688 AGR RDR N_ 35°15.03 ELO10D 1688 RDR  N_ 35°15.03
+RDR 11000 W 117°43.16 LAS 15000 W 117°43.16
+CDES ALAS; = TIMPGT. Ely 468 CDES ALAS —_TIMPCT ELV 468
+1 0:12 0:23 0:12 0:11
+La
+
+M M
+L 343-102 L 343-102
+
+XK ac | Tet | weT | | rR] _// | reK] _//
+
+B. RELEASE (LASER INHIBITED) . TIMPCT < ALAS TIME (LASER FIRING)
+
+LAN-03-29
+
+Figure D - 29. ALAS Operation.
+
+LAN-3 D - 46
+
+
+Text from LAN-3_Targeting_IR_page_53.jpeg:
+A typical ALAS profile is outlined below.
+
+e Target acquired and tracked via TGT IR display. ALAS selected
+at PB #18 with a programmed time of 0:15.
+
+e Aircrew manually fires laser for update, redesignation, and
+accurate ranging for weapons release.
+
+e At TREL = 0, weapon is released with a TIMPCT of 0:25
+displayed, and the laser is turned off automatically. “ALAS” at
+PB #18 begins flashing, indicating that the laser is being
+controlled automatically.
+
+@ When TIMPCT counts down through 0:15 (for the last weapon
+released in a ripple delivery) the laser automatically turns back
+on.
+
+e At the termination of TIMPCT (--) plus 10 seconds or 10%
+(normally 10 seconds, unless you drop a weapon with a TOF
+greater than 100 seconds), the laser is automatically turned off.
+Aircrew will probably manually turn off the laser via HOTAS
+once impact is observed (“splash”) to preclude the laser from
+wandering and interfering with other weapons being guided in
+the target area.
+
+ALAS is displayed steady prior to weapons release, and upon actuation of
+the laser fire button, the laser will turn on and off. When “ALAS” is
+flashing with a LGB in flight, any actuation of the laser fire button will
+revert the targeting pod to the MLAS mode of operation. If the laser is
+firing at the time of button actuation, the laser will be turned off
+immediately. If the laser is off with “ALAS” flashing, the laser will be
+turned on immediately, but since it will be in the MLAS mode, the aircrew
+must now remember to turn the laser off manually. If PB #18 is toggled
+while ALAS is flashing, it will revert to MLAS with laser off, regardless of
+laser status at that moment. ALAS remains active in masking conditions,
+and will resume laser fire once the masking condition is exited.
+
+NOTE
+
+When “MASK” is displayed at PB #19, the laser is being commanded to
+fire, and only inhibited due to the masking condition. Once masking is
+exited, the laser will continue to fire. If the laser has been commanded to
+stop fire while in a masking condition, “ARM” rather than “MASK” will be
+displayed at PB #19.
+
+
+
+Text from LAN-3_Targeting_IR_page_54.jpeg:
+If the targeting pod is in the MLAS mode with a LGB already in flight,
+and the aircrew toggles PB #18 to ALAS, ALAS begins to flash and the
+laser will fire immediately if the ALAS time is greater than TIMPCT, or
+will turn on according to the ALAS profile. Proper setup of the TGT IR
+display prior to weapons release will preclude having to make these type
+of switch changes.
+
+Targeting Pod Malfunctions
+
+TGT POD HOT Caution
+
+The TGT POD HOT caution legend appears on the MPD/MPCD, where
+other cautions appear, to indicate that the pod is overheating
+
+(Figure D-30). Turn the TGT FLIR off for 1 minute, then on. If the
+overheat condition returns, turn the TGT FLIR off. Continued use will
+result in internal damage and failure.
+
+oO" Jecll allel
+
+onan a |_| ae
+
+CIT)
+
+fe)
+S
+a
+
+a
+—
+
+TGT POD HOT
+
+(OOOO
+
+Figure D - 30. TGT POD HOT Caution.
+
+:
+2
+
+LAN-03-
+
+wo
+
+0
+
+LAN-3 D - 48
+
+
+Text from LAN-3_Targeting_IR_page_55.jpeg:
+Laser Failure
+
+To aid the aircrew in determining if the laser is operational, the word
+FAIL is displayed below PB #19 and LASER FAIL is continuously
+displayed in the lower message window (on all the A/A and A/G T1 and T2
+displays) whenever the targeting pod reports any of the following laser
+BIT failures:
+
+e LASER XMTR
+e LASER HVPS
+e LASER RANGER
+
+The display of FAIL and LASER FAIL is not dependent on the current
+laser status (SAFE, ARM, LASE) displayed at PB #19 (Figure D-31). The
+display of FAIL is not dependent on the current targeting pod mode (OFF,
+STBY, OPR, RDY, NRDY); however, LASER FAIL can only be displayed
+after the targeting pod has unstowed and one of the three previously
+mentioned failures exists. (All other five-second cues displayed in the
+lower message window have priority over LASER FAIL.) The aircrew can
+acknowledge and remove the LASER FAIL cue by pressing PB #19 with
+an empty scratchpad. If LASER FAIL is selected for removal and at least
+one of the failures still exists, the cue does not reappear when additional
+failures occur or disappear, but does reappear if the targeting pod power
+status changes or if PB #19 is pressed with an empty scratchpad.
+Additionally, if the aircrew attempts to fire the laser after the LASER
+FAIL cue has been removed, the cue reappears.
+
+
+Text from LAN-3_Targeting_IR_page_56.jpeg:
+INDICATES
+LASER
+
+ae |
+INVALID OR -\
+|
+
+NOT RECEIVED
+
+[R ]
+
+Ab
+| ——
+
+les
+
+TI
+ma ||
+
+AZO60R SAFE ALAS SP
+EL045D 1712 RDR- N_ 35°15.03
+SLR 3.0 FAIL W 117°43.16
+
+CDES ALAS TIMPCT ELV 586
+
+0:20 0:45
+
+|
+
+\., LASER FAIL
+
+P1
+
+v 343-102
+
+CLAS
+AG | TGT | WPT | OTRK |
+
+Figure D - 31. TGT IR Malfunction Display.
+
+LAN-3 D - 50
+
+LASER BIT
+FAIL
+
+LIS REMOVED
+WHEN LASER
+FAILS
+
+LAN-03-31
+
+
+Text from LAN-3_Targeting_IR_page_57.jpeg:
+QUESTIONS
+
+If you wish the TGT IR pod to track a white object under the cursor
+you should select
+
+a. CMPT.
+b. ATRK.
+c. WPT.
+
+d. OTRK.
+
+To provide the most accurate ranging during a TGT IR update
+
+a. the laser should be armed and firing, with good laser ranging.
+
+b. if the laser is armed but not firing, the TGT IR will command
+the radar to AGR if within the A/G RDR gimbal limits.
+
+c. if the laser is firing but invalid, the radar will be commanded to
+AGR if within the A/G RDR gimbal limits.
+
+d. All of the above.
+
+To enter ENFOV
+a. the EXP legend at PB #14 must be boxed.
+b. toggle the mode reject switch forward for greater than a second.
+
+c. toggle the mode reject switch forward for less than a second in
+WFOV.
+d. the aircrew must command track first.
+
+
+Text from LAN-3_Targeting_IR_page_58.jpeg:
+ANSWERS
+
+l. c¢
+2 d
+3. a
+
+LAN-3 D - 52
+
+
+Text from LAN-3_Targeting_IR_page_59.jpeg:
+IR PLANNING
+
+Mission planning for IR sensors is more technical than radar planning and
+may require the support of professional weather personnel experienced in
+the use of the tactical decision aid (TDA) computerized planning model.
+This model provides the crew with a prediction of IR sensor effective
+ranges for the LANTIRN navigation pod, targeting pod, and IR weapons
+under various conditions. This information is critical for low-level pacing
+and for determining the appropriate ranges for target attack maneuvers.
+Aircrews have to make the appropriate inputs to weather personnel and
+plan mission events based on the information provided. Additionally,
+aircrews should be able to determine approximate sensor ranges based on
+Delta T and transmissivity values provided by weather personnel.
+
+A sample planning flimsy is shown in Figure D-32.
+
+
+Text from LAN-3_Targeting_IR_page_6.jpeg:
+(This Page Intentionally Blank)
+
+LAN-3 C-2
+
+
+Text from LAN-3_Targeting_IR_page_60.jpeg:
+DATE: 03 Aug 98 ~— ELECTRO-OPTICS PLANNING FLIMSY
+FORECASTER: BD
+
+TIME (ZULU) . - 21-22 23-00
+TRANSMISSIVITY 56% 55%
+/SOLARBLIAZ | 29,3/161. | 30.3/193. | 18.9/221. 2 ft
+
+rmancerpon | |||
+
+WFOV (NM) 2.7/0.0 | 2.7/3.0 | 3.7/2.5 | 2.8/2.8 | 3.2/3.3
+DELTA-T -4.7/0.0 | 4.9/5.0 | 5.0/-4.8 | -4.9/- | -4.7/-5.0
+
+SUXTTAINTT\
+
+LASER 1.8/0.0 | 3.3/2.8 | 3.3/2.8 | 3.3/2.8 | 3.3/2.8
+
+MARTATATON
+
+GBU-15 (VIS)
+NFOV (NM) 0.0/ 0.0 : . 2.0/3.7 | 0.0/0.0
+LOCK-ON (NM) 0.0/ 0.0 .2/ 0. 0.0/0.0 | 0.0/0.0
+
+GBU-15 (IR)
+
+NFOV (NM) 3.2/0.0 | 4.3/4.5 | 5.0/4.1 | 46/46 | 4.6/5.0
+WFOV (NM) 2.3/0.0 | 2.7/3.0 | 3.7/2.5 | 2.8/2.8 | 3.2/3.3
+LOCK-ON (NM) | 0.7/10.0 | 0.7/3.8 | 4.3/2.3 | 0.8/0.0 | 1.0/2.3
+
+DELTA-T -7.9/0.0 | 4.9/5.0 | 5.0 /-4.8 -4.9/- | -4.7/-5.0
+(WFOV) AR
+
+RANGES ARE WORST CASE FOR EACH an eee FOV=NARROW FIELD OF VIEW
+BACKGROUNDS USED ARE FOR DARE COUNTY, SWAMPY WFOV=WIDE FIELD OF VIEW
+WITH VEGETATION AND WATER BACKGROUND.
+
+POSITIVE DELTA-T INDICATES THE TARGET IS HOTTER
+
+THAN THE BACKGROUND FOR TARGET SPECIFIC RANGES
+
+OR OFF-RANGE TARGETS. CALL X-5391 OR 5392.
+
+Figure D - 32. Electro-Optics Planning Flimsy.
+LAN-3 D-54
+
+
+Text from LAN-3_Targeting_IR_page_61.jpeg:
+Table D-2 provides a detection range once the Delta T and transmissivity
+are known. In addition to determining the approximate range at which
+detection occurs, it is also important to consider the types of points to be
+selected during targeting pod updates. Vertically developed objects such
+as buildings, water tanks, and towers are suitable update points.
+Experience has shown that objects close to course are easier to track with
+the targeting pod since the angular change during slewing is primarily in
+elevation as the aircraft nears the point. The targeting pod handles
+elevation changes fairly well. Update points well off the course line
+(greater than 2 nm) present rapid azimuth changes as the aircraft
+approaches the point and makes initial tracking difficult. The targeting
+pod does not slew as well with rapid azimuth changes.
+
+PER 4 KILOMETERS
+
+TRANSMISSIVITY 10% 90% 50%
+
+DELTA T (C)
+
+Table D - 2. Effective IR Range (In nm).
+
+NOTE
+This table provides approximate target acquisition ranges assuming the
+following:
+
+@ The targeting pod is in narrow FOV.
+
+@ The smallest target dimension (D, in feet) is larger than the
+number derived form this table (since resolution range for
+narrow FOV equals D divided by 1).
+
+
+Text from LAN-3_Targeting_IR_page_62.jpeg:
+Target IR Planning
+
+A successful attack or LGB delivery using the TGT IR for designations
+and deliveries or updates starts on the ground with TGT study and TGT
+FOV predictions. Using the TDA from the weather shop is the first tool in
+determining what IR conditions, and therefore, pickup ranges you can
+expect.
+
+The next step is determining what you can expect to see in the targeting
+pod once you start using it for either updates or attacks. Just like radar
+work, you have to come up with FOV prediction for the TGT IR. The
+principles are basically the same; you have to work big-to-small if you
+want to find your exact DMPI or update point.
+
+The big differences between TGT IR and radar prediction is in TGT IR you
+are looking for objects with different temperature signatures as compared
+to radar where you are looking for higher energy reflections. Unlike radar
+predictions, the footprint of a TGT IR prediction and what you actually see
+on the scope is not the same in width and length. For example, if you are
+at 10,000 feet AGL and you take a radar patch map (DW-3.3) of a TGT or
+aim point which is 10 miles away, you always get a map that covers a
+ground distance 3.3 miles wide and 3.3 miles long. If you take a look in
+the TGT IR at the same point, the picture you will see on your scope would
+cover a ground distance of 6307 feet in width in the middle of the display
+and a length of 48,060 feet or 7.1 miles.
+
+Since the picture that you see on your display is the “same” length and
+width, you are looking at a compressed picture in length compared to its
+width. This is caused by looking at the ground with a circular sensor at
+an angle of less than 90 degrees as if you would take a flashlight and
+shine it onto the ground. If you look down at an angle of 90 degrees, the
+picture would be a circle; if you aim at an angle, you would get an
+oval-shaped picture. The shallower the angle gets or the lower you fly, the
+more ground distance you cover in length up to a point where you look
+into infinity and you have the horizon in the top part of your TGT IR
+(Figure D-38).
+
+LAN-3 D - 56
+
+
+Text from LAN-3_Targeting_IR_page_63.jpeg:
+EXAMPLE 1: LOOK DOWN ANGLE ©C=90° AT ANY RANGE AND ALTITUDE
+
+DISTANCES D1-D4
+ARE THE SAME
+
+EXAMPLE 2: LOOK DOWN ANGLE ©C=72° AT 10 MILES AND 20,000 FEET
+
+DISTANCES D3-D4
+ARE THE SAME
+BUT DIFFERENT
+FROM D1-D2
+
+D1 D2 D3 * D4
+
+EXAMPLE 3: LOOK DOWN ANGLE <5° AT 10 MILES AND 1000 FEET
+
+DISTANCES D3-D4
+
+ARE THE SAME
+
+D2 INFINITE DIFFERENT
+FROM D1
+
+D1 D2 INFINITY D3 "D4
+
+LAN-03-32
+
+Figure D - 32. Effects of Look Down Angles on TGT FOV.
+
+
+Text from LAN-3_Targeting_IR_page_64.jpeg:
+If you are a math major you probably take pride in figuring out these
+distances through trigonometric formulas. Fortunately both squadrons
+have programs called TGT Pod FOV Simulator on their computers. You
+just insert a ground range and altitude and get all distances and angles
+needed to make a good FOV prediction (Figure D-34). Next let us look at
+an example on how to actually work with all these tools. You are
+supposed to attack a building—Tryon Palace—in the town of New Bern.
+You are coming home from Dare at 10,000 feet and with a heading of 260°.
+The weather is good and you can expect IR pickup ranges in excess of
+
+10 miles. Usually you would ask for a TDA as described in the previous
+paragraph to find out what ranges you can expect. In this example or
+with good IR visibility, you typically would make a prediction for a range
+to TGT of about 30 seconds TREL or between 5 to 10 miles for a medium
+level delivery.
+
+First you need to get a map or an AFMSS imagery of the target area and
+plot out the coordinates. Get a FOV prediction from the computers
+(Figure D-34). Next, draw a radar prediction of the target area (you
+always want to start out with a radar designation) (Figure D-35).
+
+LAN-3 D - 58
+
+
+Text from LAN-3_Targeting_IR_page_65.jpeg:
+}¢————- 9,173| ————_> \¢ 1,995°
+
+CURSOR WIDTH ——>} }¢— 1,530! CURSOR WIDTH ——>} }¢—4311'
+CURSOR GAP —>| j¢— 265' CURSOR GAP_ —>| }¢— 74!
+44°
+x BIT
+28,237" 6,143! — +0.5°
+1,816
+14,823! 5,133!
+— -0.5°
+a vy
+—-1°
+
+ke 1,667' >|
+
+WFOV 10 NM, 10,000 FEET NFOV
+
+WORKING (WFOV)
+
+ee ce
+[ene [tre Des]
+[sae ener | reer [tor] Nw _|
+Psa | arore_| reer [77 Nw _|
+Tsrr= | eeser_| reer | ta7_| nw _|
+[r= | eo.reo_| Fee [100 | nw _|
+[ore | asear_| reev= [76 | Nw _|
+[ore | sacor | reer [a5 | nw _|
+
+RESULTS (WFOV)
+
+Tan 24nm | 46nm | oonm | 15nm | a7nm | 03nm | ONM
+
+WFOV NFOV
+5.87 DEG 1.69 DEG
+
+102.43 MILS 29.49 MILS
+
+WORKING (NFOV) ORF .
+| x= | 80.65 | ES
+
+Pp xn= [79.81 [DEG |
+
+Pp SR= [61577] FEET= [101 [NM |
+
+| SRn=_ | 56,519 [ FEET= [93 [NM __|
+
+FeeT= [11.1 [NM |
+
+| GR= | 60,760. [ FeEET= [100 [ NM |
+
+Feet | _92 | NM _|
+Ter= | s6o0r | reer | 110 | nw _|
+
+Paonm | oanm | nm | oanm | oanm | osnm | oanm | ONM
+
+LAN-03-33
+
+Figure D - 33. TGT Pod FOV Simulator.
+
+D-59 LAN-3
+
+
+Text from LAN-3_Targeting_IR_page_66.jpeg:
+TGT 1.B TRYON PALACE
+TGT 1.01B W-END ROAD BRIDGE
+
+LAN-03-34
+
+Figure D - 34. Radar Prediction TGT 1.B + Offset 1.01B Using
+1:50,000 Map DW Size 1.30.67.
+
+LAN-3 D - 60
+
+
+Text from LAN-3_Targeting_IR_page_67.jpeg:
+After that is done, plot the TGT FOVs on either the AFMSS printout or
+the 50,000 map. Always start at your DMPI and work from there. A good
+technique is to divide the footprint into quarters and then divide those
+into thirds up and down. It should look like a puzzle that is finished after
+you are done with that (Figure D-36, top).
+
+Now you can do the same roster with equal squares on the FOV sheet
+(Figure D-36, bottom left) and start copying the individual squares from
+the map onto the FOV sheet (Figure D-36, bottom right). The result
+should look like the picture in Figure D-37.
+
+
+Text from LAN-3_Targeting_IR_page_68.jpeg:
+}¢—_—— 9,173| ————>|
+CURSOR WIDTH —>| }¢—1,539'
+CURSOR GAP —>| }¢— 265'
+
+‘fman)
+
+jefe
+area
+BELEELE
+
+PEPER
+
+}¢———_ 9,173' ————_>|
+
+CURSOR WIDTH ——>| }¢— 1,539!
+
+28,237'
+
+yi GAP —* + 265)
+
+WFOV - NM, 10,000 FEET -  WroV
+LAN-03-35
+
+Figure D - 35. Sample Problem FOV Prediction.
+
+LAN-3 D - 62
+
+
+Text from LAN-3_Targeting_IR_page_69.jpeg:
+}¢————- 9,173 —————_ >| }¢———_ 1,995 ————— >|
+CURSOR WIDTH ——>| }¢— 1,539' CURSOR WIDTH ——>| k¢—431'
+CURSOR GAP ——>| |¢— 265' CURSOR GAP ——>| |¢— 74'
+
+Ze WOUOUOUGUON 2s —+1°
+— +3° © LT fT ff Tf
+a OFF | = Aer OFF |
+Ld _ +2° ;——1) LTS
+28,237' | - 6,143 On — +0.5°
+—+1° Lh
+—ss0r —¥ 4 1,816
+14,823' La] TT 5,433 = —
+—-2° or “
+¥ i _3° y
+
+ema ||
+l
+1
+.
+
+WFOV 10 NM, 10,000 FEET NFOV
+
+LAN-03-36
+
+Figure D - 36. FOV Prediction.
+
+To make the whole work look good, you can paste all the pictures and
+drawings onto one card and make it look like a professional attack card
+(Figure D-38).
+
+
+Text from LAN-3_Targeting_IR_page_7.jpeg:
+TEXT
+INTRODUCTION
+
+The targeting IR (TGT IR) system, or sometimes referred to as the target
+FLIR (TGT FLIR), is the other half of the F-15E’s infrared, “see in the
+dark” capability. You can use it to update system altitude, INS, or MN
+present position; to designate and attack a target; to hand off to an IR
+Maverick; and even to buddy lase for another attacker. Its high resolution
+presentation gives a television-like picture, making most features readily
+identifiable. It can be pointed by the mission navigator but because of its
+limited field of view and range, it is best aimed (cued) by the radar. You
+can command automatic cueing or manually slave the pod.
+
+DESCRIPTION
+Pod
+
+Carried on its pylon on the underside of the left engine area, the TGT IR
+pod (with adapter) weighs about 621 lbs (525 lbs without the adapter)
+(Figure D-1). It contains the IR sensor, a pockels cell, Q-switched
+Neodymium doped Yttrium Aluminum Garnet (Nd:YAG) laser, power
+supply, environmental control unit, and associated computers/control
+units. In general, it “looks” down/aft in a hemisphere relative to the
+fuselage line and wingline with an aft blind zone caused by the pod itself
+(Figure D-2). It can also “look” up but aircraft surfaces, external stores,
+and the NAV pod limit the view.
+
+
+Text from LAN-3_Targeting_IR_page_70.jpeg:
+WFov [2
+
+LAN-3
+
+TGT 1.B TRYON PALACE IN NEW BERN
+TGTCOORDINATESN __36.06.342 W _077.02.652_ EL: 10'
+
+ALT.: 10,000 MSL ALT. ABOVE TGT: —___MSL
+GROUND RANGE: 10 NM VIEWANGLE: 20°
+
+RDR OFFSET 1.018 DESCRIPTION: W-END RD BRIDGE
+LAT.:N 35.06.482_ LONG.:W 027.02.073 EL. O' MSL
+a : — GRAZE: _<10°
+
+SOURCE: IMAGERY
+
+AT: 25 NM CHECK 45L AT: 18 NM DIRECT TGT
+REL: 3.2 NM TTI: 30 SEC
+ESCAPE: RIGHT 60°
+
+Bk Padag: Eeoby EN Facer MSM Pimieg Three MES itciok = iepetiispert Srmem
+
+oe 7 =a
+
+Figure D - 37. Attack Card Example.
+
+D - 64
+
+LAN-03-37
+
+
+Text from LAN-3_Targeting_IR_page_71.jpeg:
+LAN-3
+
+
+Text from LAN-3_Targeting_IR_page_72.jpeg:
+END OF TEXT QUIZ
+
+To perform an update with the TGT IR you must
+
+be in command of the TGT IR display.
+have SP showing under PB #17.
+select TGT at PB #7.
+
+select ATRK at PB #10.
+
+ae op
+
+If the pod cannot stay locked on to a point in PTRK, the system
+defaults to
+
+ATRK (P/A) and remains there.
+
+CMPT and returns to PTRK if a hot spot is reacquired.
+CMPT for 5 seconds.
+
+ATRK (P/A) and returns to PTRK if a hot spot is reacquired.
+
+ae oe
+
+
+Text from LAN-3_Targeting_IR_page_73.jpeg:
+lollalalellal
+
+AZ045R SAFE= ALAS SP DCL
+
+ELV 468
+
+ra
+La
+
+327-057
+
+AG | TGT | WPT |OTRK |[PTRK]
+
+Figure E - 1.
+
+Use Figure F-1 to answer questions 3, 4, 5, and 6.
+
+3.
+
+If you press PB #10, will appear above it.
+
+a. PTRK
+b. ATRK
+c. CMPT
+d. P/A
+
+The laser code can be changed by
+
+Re op
+
+scratchpad and pressing PB #19.
+
+LAN-3 E-2
+
+EL 025D RDR_ N_ 35° 15.03
+SLR 3.0 W 117°43.16
+
+entering the code on the UFC and then pressing PB #19.
+entering the code on the UFC through the TGT IR submenu.
+entering the code on the UFC and pressing PB #14.
+
+first arming the laser and then entering the code on the UFC
+
+
+Text from LAN-3_Targeting_IR_page_74.jpeg:
+This TGT IR display is in field of view and is pointing
+
+a
+b.
+c
+
+d
+
+wide, forward
+narrow, aft
+narrow, forward
+wide, aft
+
+The current laser status is
+
+po op
+
+tactical firing.
+tactical safe.
+training firing.
+training safe.
+
+The “snowplow” space stabilization mode is selected
+
+oS
+
+§
+
+by toggling the mode reject switch aft for greater than a second.
+by toggling the mode reject switch forward for greater than a
+second.
+
+by typing “0” on the UFC scratchpad and entering it at PB #17.
+both b and c.
+
+Which of the following methods will not exit the ALAS mode of
+operation after weapons release, but prior to impact.
+
+a.
+b.
+C.
+
+Turning the TGT IR to STBY.
+
+Hitting PB #18 with a flashing ALAS.
+
+Manually actuating the laser fire button with “ALAS” flashing
+at PB #18.
+
+Masking entered due to aircraft maneuvering with “MASK”
+displayed at PB #19.
+
+
+Text from LAN-3_Targeting_IR_page_75.jpeg:
+9. Update points should be close to the course line if the targeting IR is
+the update source.
+
+a. True
+b. False
+
+LAN-3 E-4
+
+
+Text from LAN-3_Targeting_IR_page_76.jpeg:
+GLOSSARY
+
+A/A Air-to-air
+
+A/G Air-to-ground
+
+AFTO Air Force technical order
+AGR Air-to-ground ranging
+ALAS Automatic lasing
+
+ALG Automatic level/gain
+ALT Altitude
+
+APT Automatic polarity track
+
+ATRK Area track
+
+AV Avionics
+
+BBR Bullseye, bearing, and range
+BHOT Black hot polarity
+
+BARO Barometric
+
+BIT Built-in test
+
+BPT Black polarity track
+
+BRST Boresight
+
+BRT Brightness
+
+CC Central computer
+
+CDES Continuous designation
+
+CDIP Continuously displayed impact point
+
+CMPT Computed rate track
+
+CONT Contrast
+
+
+Text from LAN-3_Targeting_IR_page_77.jpeg:
+DCL Declutter
+
+ENFOV Expanded narrow field of view
+
+FCP Front cockpit
+
+FLIR Forward looking infrared
+FOV Field of view
+
+HA Half action
+
+HOTAS Hands on throttle and stick
+
+HUD Head-up display
+
+IBIT Initiated built-in test
+
+INS Inertial navigation system
+
+IR Infrared
+
+LANT LANTIRN; low altitude navigation and targeting infrared for
+night
+
+LANTIRN Low altitude navigation and targeting infrared for night
+
+LAS Laser
+
+LOS Line of sight
+MLG Manual level/gain
+MN Mission navigator
+
+MPCD Multipurpose color display
+MPD Multipurpose display
+NAV Navigation
+
+NFOV Narrow field of view
+
+OTRK Offset track
+
+LAN-3 F-2
+
+
+Text from LAN-3_Targeting_IR_page_78.jpeg:
+PB
+
+PBIT
+
+PDT
+
+PIM
+
+PRF
+
+PTRK
+
+RALT
+
+RCP
+
+RDR
+
+SP
+
+STAB
+
+TDC
+
+TGT
+
+TIMPCT
+
+TPULL
+
+TREL
+
+UFC
+
+UPDT
+
+WFOV
+
+WHOT
+
+WPT
+
+WSO
+
+Push button
+Periodic built-in test
+Primary designated target
+
+Pulse interval modulation
+
+Pulse repetition frequency; a time measurement of how
+frequently a pulse radar repeats transmit-listen cycle; on-off
+
+cycle of pulse transmitter
+Point track
+
+Radar altimeter
+
+Rear cockpit
+
+Radar
+
+Sequence point
+
+Space stabilized
+
+Target designator control
+Target
+
+Time to impact
+
+Time to pull
+
+Time to release
+
+Upfront control
+
+Update
+
+Wide field of view
+
+White hot polarity
+
+White polarity track
+
+Weapon systems officer
+
+F-3
+
+LAN-3
+
+
+Text from LAN-3_Targeting_IR_page_79.jpeg:
+BACK PAGE
+COVER SHEET
+
+
+Text from LAN-3_Targeting_IR_page_8.jpeg:
+ENVIRONMENTAL
+CONTROL SECTION
+
+PoaWETER | iSIN |
+
+LASER RANGING/
+ILLUMINATION
+
+AUTOMATIC HAND OFF TO
+
+AGM-65D OR G MAVERICK LASER/IR
+
+OPTICS SECTION
+WIDE 5.87 x 5.87
+FIELDS NARRO'
+OF VIEW 1.65 x 1.66
+EXPANDED
+NARROW
+0.825 x 0.825
+LAN-03-01
+Figure D - 1. Aircraft With Pods.
+Soils 30° 60° : an afi
+BLIND — BLIND === De
+ZONE ZONE
+150°
+LAN-03-02
+
+Figure D - 2. TGT IR Coverage.
+(Clean Configuration, R1/L1 or L2 Profiles.)
+
+LAN-3 D-2
+
+
+Text from LAN-3_Targeting_IR_page_9.jpeg:
+CONTROLS
+Sensor Control Panel
+
+The basic controls for the TGT IR are located in the RCP on the sensor
+control panel (Figure D-8).
+
+TGT FLIR
+| @ GAIN |
+
+© LEVEL
+
+na
+
+LAN-03-03
+
+Figure D - 3. Sensor Control Panel.
+
+Power Switch
+
+This three-position toggle switch controls electrical power to the pod. OFF
+removes all power from the unit, STBY applies cooldown power and allows
+adjustment functions. ON provides full operation and enables laser
+arm/fire.
+
+NOTE
+If the pod is cycled OFF, wait 1 minute before cycling power to ON.
+
+

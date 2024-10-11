@@ -1,0 +1,1103 @@
+Text from AGD-7_Suspension_Equipment_and_Training_Ordnance_page_1.jpeg:
+SUPPORTS COURSES
+FIS5EBQ
+
+FISETX
+
+FISESOC
+
+ACADEMIC STUDENT WORKBOOK
+F-15E
+
+AIR-TO-GROUND DELIVERY
+AGD-7
+SUSPENSION EQUIPMENT AND
+TRAINING ORDNANCE
+
+JUNE 1999
+
+(SUITE 3 OFP)
+
+AIR COMBAT COMMAND
+
+
+Text from AGD-7_Suspension_Equipment_and_Training_Ordnance_page_10.jpeg:
+BRU-46/A
+
+CARTRIDGE
+HOOK LOCKED PITCH RETAINER AND PITCH
+VISUAL INDICATOR VALVE INDICATOR VALVE
+
+wal LE
+SAFE HANDLE
+
+HOOK LOCKED
+VISUAL INDICATOR
+
+ARMING EJECTOR \ ARMING GROUND ARMING
+UNIT SWAYBRACE PISTON UNIT SAFETY HOOK SWAYBRACE UNIT
+HANDLE WEDGE
+POSITIVE POSITIVE
+ARMING ARMING
+ATTACHMENT ATTACHMENT
+BRU-47/A
+CARTRIDGE
+PITCH HOOK LOCKED RIFL LOCKED RETAINER AND PITCH HOOK LOCKED
+VALVE VISUAL INDICATOR | VISUALINDICATOR INDICATOR VALVE VISUAL INDICATOR
+© ‘a )
+leVo © = o evo ©
+© ©)
+GROUND
+id SAFETY had
+HANDLE
+ARMING 30INCH 14 INCH ARMING 14INCH EJECTOR 30INCH ARMING
+UNIT HOOK HOOK UNIT HOOK PISTON HOOK UNIT
+POSITIVE ARMING POSITIVE ARMING
+ATTACHMENT ATTACHMENT AGD-07-03
+
+Figure D - 3. Bomb Release Units.
+
+AGD-7 D-4
+
+
+Text from AGD-7_Suspension_Equipment_and_Training_Ordnance_page_11.jpeg:
+Suspension Hooks
+
+The suspension and release mechanism is composed of mechanical
+linkages and sets of hooks. The hooks on the BRU-46/A are 14 inches
+apart. The BRU-47/A is equipped with two sets of hooks. One set is 14
+inches apart and the other set is 30 inches apart to accommodate the
+larger stores. When a store is loaded, and each hook is locked, a hook
+locked visual indicator (a white tab) for each hook is visible through a hole
+in the rack. During store release, the mechanical linkages cause the
+hooks to open simultaneously to ensure positive store release. The hook
+store sensing switch senses whether the hooks are open or closed. When
+they are closed, the BRU senses a store is loaded on that station and
+relays that through the PACS.
+
+Swaybraces
+
+On each BRU, there are four swaybraces and wedges that provide store
+stability during flight. Ensure these are engaged and contact the store
+during the preflight.
+
+Ejection Mechanism
+
+Each BRU contains two cartridge breeches and two ejector pistons. When
+the cartridges detonate, gas pressure opens the BRU hooks and forces the
+ejector pistons down, ejecting the store (employment or jettison).
+
+Arming Mechanism
+
+Arming is provided by three arming units, often referred to as arming
+solenoids. During loading, these solenoids accept the weapon fuze arming
+wires. When a jettison is required, the arming units release the arming
+wires at weapon release, causing ordnance to drop in a safe condition. For
+an armed release, the solenoids retain the swivel links at release, pulling
+the wire out of the fuze, allowing fuze arming. Arming selections are
+made through the PACS. The nose selection activates the center and
+forward arming solenoids; tail energizes the aft solenoid.
+
+D-5 AGD-7
+
+
+Text from AGD-7_Suspension_Equipment_and_Training_Ordnance_page_12.jpeg:
+Pitch Valves
+
+By ensuring BRU-46/A and BRU-47/A pitch valves are set IAW the
+Dash 34 checklist (Figure D-4), the crew also ensures optimum separation
+of stores (either through employment or jettison).
+
+1F-15E-34-1-1
+(1F-15E-34-1-1CL-1)
+BRU-46/A AND BRU-47/A
+PITCH VALVE SETTINGS
+
+MUNITION RACK FWD
+
+MK 84 LDGP LC/RC 2; STA 2,8
+1
+
+2 3 AGD-07-04
+
+Figure D - 4. Pitch Valve Settings.
+
+When checking the pitch valve settings, look for horizontal, diagonal, or
+vertical positioning. There have been instances where the legends have
+been printed incorrectly on the BRUs.
+
+AGD-7 D-6
+
+
+Text from AGD-7_Suspension_Equipment_and_Training_Ordnance_page_13.jpeg:
+Ground Safety Handle
+
+The ground safety handle (Figure D-5) is used to prevent inadvertent
+opening of the hooks during ground operations. The ground safety handle
+mechanically prevents the opening of the hooks and prevents electrical
+current from reaching the impulse carts. In the safe position, the handle
+is rotated to the vertical and pushed in. Reflective paint is visible on the
+shaft when the handle is extended. The ground safety handle is moved
+(rotated counterclockwise to the horizontal position) to the armed position
+just prior to flight and pushed back in.
+
+PYLON SKIN
+
+I
+!
+l
+I
+l
+-=<- I
+l
+l
+
+I
+!
+REFLECTING PAINT
+(BOTH SIDES) y
+
+SAFE POSITION OF GROUND ARMED POSITION OF GROUND
+
+SAFETY HANDLE ON [In] SAFETY HANDLE ON
+BRU-46/A, -47/A BRU-46/A, -47/A
+
+ATGNVH ALSsAVS
+
+AGD-07-05
+
+Figure D - 5. Ground Safety Handle.
+
+Reversible In-flight Locking (RIFL) Mechanism
+
+The BRU-47/A has a RIFL mechanism. This is a safety and failsafe
+provision that is designed to prevent inadvertent opening of the
+suspension hooks and firing of the impulse cartridges when a nuclear
+weapon is loaded. When the RIFL is in the locked position, the RIFL
+locked visual indicator (a white tab) appears through a hole in the rack.
+To release (jettison or employ) stores utilizing the conventional PACS, the
+RIFL must be in the unlocked condition.
+
+D-7 AGD-7
+
+
+Text from AGD-7_Suspension_Equipment_and_Training_Ordnance_page_14.jpeg:
+CFT Carriage/Release Sequence
+
+CFT carriage utilizes two rows of BRUs which permit carriage of up to six
+1000 pound class weapons or two 2000 pound class weapons or one
+nuclear weapon on each CFT (Figure D-6). BRU-46/As are used in the
+outboard (shoulder) row and BRU-47/As are used for the inboard (bottom)
+row. The tandem carriage arrangement and the deletion of a requirement
+for extra bomb racks reduces in-flight drag.
+
+OUTBOARD WEAPONS ROW
+BRU-46/A
+
+STATION
+
+STATION
+1
+
+INBOARD WEAPONS ROW
+BRU-47/A
+
+AGD-07-06
+
+UDrOoOwZz—
+
+RELEASE SEQUENCE
+
+Figure D - 6. CFT Carriage/Release Sequence.
+
+AGD-7 D-8
+
+
+Text from AGD-7_Suspension_Equipment_and_Training_Ordnance_page_15.jpeg:
+Jettison Procedures
+
+Emergency Jettison (“Panic”) Button
+
+The momentary contact emergency jettison button (Figure D-7), labeled
+EMERG JETT, is hot anytime power (including external, main generator,
+or emergency generator power) is on the aircraft. Emergency jettison is
+operable with the landing gear handle down. The button must be held in
+for approximately one second to complete a full load jettison sequence.
+Depressing the button releases the carted SUU-59/SUU-73 pylons at
+stations 2, 5, and 8, and the stores (bombs/missiles) from all carted CFT
+stations. The LANTIRN pods beneath the intakes and the CFTs do not
+have jettison capability.
+
+EMERGENCY JETTISON JETTISON CONTROL PROCEDURE
+
+EMERGENCY
+STATIONS JETTISON
+
+(2/5/8 AND CFT STATIONS) BUTTON
+
+AGD-07-07
+
+Figure D - 7. Emergency Jettison Button.
+
+D-9 AGD-7
+
+
+Text from AGD-7_Suspension_Equipment_and_Training_Ordnance_page_16.jpeg:
+Selective Jettison Knob/Button
+
+The selective jettison knob is used to select one of several stores release
+modes (Figure D-8). The SEL JETT modes are COMBAT, A/A, and A/G.
+If the knob is rotated to COMBAT and the button depressed, jettison
+occurs as preprogrammed through the PACS. When the knob is rotated to
+A/G, all current armament displays and the FCP MPCD change to the A/G
+JETTISON display from which desired stores or pylons can be selected for
+jettison. If a store is aboard, the display initiates with STORE boxed and
+PYLON may be selected (for stations 2, 5, and/or 8). RACK is only used to
+jettison LAU-88 or LAU-117 Maverick launchers. Once the desired
+stations are selected, depress and hold (until release complete) the button
+in the center of the SELECT JETT knob to release all selected stores. All
+PACS displays are frozen until the selective jettison knob is rotated out of
+SEL JETT; i.e., A/A or A/G. Jettison using any of the selective jettison
+capabilities requires main generator power and either the landing gear
+handle must be up or the armament safety switch must be in the
+OVERRIDE position.
+
+WARNING
+
+Each selection of the CBT JETT display
+reinitializes the two-push sequence and
+resets the first push of the selective
+jettison button to the CBT 1 program,
+even if the CBT 1 programmed racks,
+stores or pylons have already been
+jettisoned.
+
+The combat jettison program is displayed
+in TRNG and is reprogrammable for the
+TRNG mode display. However, when
+CBT JETT is performed, the system exits
+TRNG mode and jettisons actual stores
+loaded and programmed in the CMBT
+mode.
+
+AGD-7 D-10
+
+
+Text from AGD-7_Suspension_Equipment_and_Training_Ordnance_page_17.jpeg:
+SELECTIVE JETTISON JETTISON CONTROL PROCEDURE
+
+1. SELECT JETT
+KNOB - A/G
+
+[SuU20
+
+. SELECT
+AIRCRAFT
+STATION(s)
+
+. SELECT RACK
+r @ PYLON OR
+STORE OR RACK PYLON 4 STORE
+STATIONS STATIONS . =
+2/5/8/CFTs 2/5/8 —T. / . PUSH JETT
+
+BUTTON
+
+oO
+
+SELECT JETT KNOB
+
+AGD-07-08
+
+Figure D - 8. Selective Jettison Knob/Button.
+
+D-11 AGD-7
+
+
+Text from AGD-7_Suspension_Equipment_and_Training_Ordnance_page_18.jpeg:
+QUESTIONS
+1. ABRU-47/Aisa
+
+bomb.
+
+pylon.
+bomb carriage/release mechanism.
+
+missile rack.
+
+po op
+
+2. The BRU-46/A is utilized on
+
+stations 2 and 8.
+
+the centerline.
+
+the CFT inboard (bottom) row.
+the CFT outboard (shoulder) row.
+
+po op
+
+3. What position is the BRU-46/A and BRU-47/A ground safety handle
+in to be safe during ground operations?
+
+Vertical position
+
+Inserted through the pylon
+Horizontal position
+
+Folded position
+
+ao op
+
+4. Each CFT is capable of carrying __ 2000 pound weapon(s).
+
+ao op
+Owner
+
+5. Stores cannot be jettisoned by COMBAT JETT when TRNG PACS is
+
+selected.
+a. True
+b. False
+
+AGD-7 D-12
+
+
+Text from AGD-7_Suspension_Equipment_and_Training_Ordnance_page_19.jpeg:
+ANSWERS
+
+D-13 AGD-7
+
+
+Text from AGD-7_Suspension_Equipment_and_Training_Ordnance_page_2.jpeg:
+ADMINISTRATIVE INFORMATION
+
+This student workbook is designed to provide information on the F-15E,
+its systems, and capabilities. It is not a sole source document, but is to be
+used in conjunction with other standard Air Force publications and
+technical manuals. If you find any differences between the material
+contained herein and other governing regulations, adhere to the
+regulations and notify the OPDR.
+
+Changes to this workbook are indicated with a heavy black line in the left
+margin.
+
+Forward recommendations for revision or change to 4 TS, SJAFB, NC,
+275381.
+
+Supersedes: AGD-7, July, 1998
+
+OPDR: 4TS
+
+Index of Changes
+
+Effective Date Pages Affected
+
+
+
+Text from AGD-7_Suspension_Equipment_and_Training_Ordnance_page_20.jpeg:
+TRAINING ORDNANCE
+
+The F-15E is certified to carry a wide variety of air-to-surface ordnance
+suspended from wing/centerline pylons and the CFTs. Throughout the
+surface attack phase of your training in FTU, the standard training load
+will be a SUU-20 dispenser (loaded with six BDU-33s) on each wing pylon.
+
+SUU-20
+
+The SUU-20 is a practice bomb and rocket dispenser. It can be carried on
+the wing or centerline pylons. You need only concern yourself with the
+bomb portion of the SUU-20. Rockets are not used in this program and
+the intervalometer switch is removed. For a detailed description, refer to
+TO 1-1M-34, Section V.
+
+The dispenser has six bomb stations which can be loaded with BDU-33
+and/or MK 106 practice bombs. The bombs loaded in the SUU-20 are
+identified to the conventional PACS by selecting the proper SUU-20 PACS
+ID from the PACS weapons list (Figure D-9, left). Selecting PACS ID
+“SUU-20N” identifies a SUU-20 loaded with BDU-33s (blue bombs).
+Selecting “SUU-20M” identifies a SUU-20 loaded with MK 106s (orange
+bombs). With a mixed load, or in the nuclear PACS, you must select
+“SUU-20”, and then identify each bomb in the dispenser (Figure D-9,
+right). With the store identified as a SUU-20, the RPL SGL and RPL
+MPL release sequencing options are not available. The MK 106 practice
+bomb is no longer in the Air Force inventory; however, it is still one of the
+options in the PACS.
+
+© IGellell “) (lolli
+
+| —
+SUU20N
+1
+' AIG
+
+NONE
+A/G WEAPON LOAD TRANG
+
+1
+
+AGM65A SUU20
+
+AGM65B SUU20M MK106
+
+A/G WEAPON LOAD
+
+rf tf
+
+AGM65D SUU20N BDU33
+
+=
+=
+=
+=
+
+OUOWONOR
+a |
+
+AGM65G MENU
+
+4 5 6 ENTER
+
+(OlOtOVOlor
+
+AGD-7 D-14
+
+
+Text from AGD-7_Suspension_Equipment_and_Training_Ordnance_page_21.jpeg:
+Major features and preflight items of the SUU-20 dispenser are shown in
+Figure D-10.
+
+Bombs are held in place by the bomb retaining arms and stabilized by
+swaybraces. Bombs are force ejected by electrically fired pyrotechnic
+cartridges. Bomb release sequencing is controlled by an intervalometer
+(rotary switch) in the nose of the dispenser. This intervalometer rotates
+clockwise only and functions in a step-and-fire fashion. The stepper
+switch stops at station 6 and cannot step from 6 to 1. The BOMB RIPPLE
+and SALVO positions of the rotary switch are not used in the F-15E.
+
+EJECTOR GUN
+SAFETY PIN AGD-07-10
+
+Figure D - 10. SUU-20 Dispenser Features.
+
+D-15 AGD-7
+
+
+Text from AGD-7_Suspension_Equipment_and_Training_Ordnance_page_22.jpeg:
+The release sequence from the SUU-20 dispenser is shown in Figure D-11.
+
+FWD
+(TOP VIEW)
+
+AFT AGD-07-11
+
+Figure D - 11. SUU-20 Release Sequence.
+
+If a ripple release is desired, load SUU-20N in the PACS and then
+program the PACS for a ripple release. Ripple release is not possible
+using the SUU-20 PACS identity. Safing of the SUU-20 dispenser is
+provided by several means. The intervalometer being in a SAFE position
+electrically prevents carts from firing. A safety spring installed in the
+lower rear of the dispenser breaks the aircraft-to-SUU electrical circuit.
+Individual ejector gun safety pins prevent the retaining arms from
+opening should a cart accidentally fire (during ground operations).
+
+AGD-7 D-16
+
+
+Text from AGD-7_Suspension_Equipment_and_Training_Ordnance_page_23.jpeg:
+Preflight
+
+Ensure the safety spring is installed in the rear of the SUU-20 dispenser
+and an ejector gun safety pin is installed in each set of retaining arms.
+
+Ensure the bomb intervalometer is in the SAFE position preceding bomb
+single; this is toward the nose of the dispenser.
+
+Ensure all bombs are securely in place.
+
+Preflight procedures for all weapons are contained in TO 1F-15E-34-1-1
+and TO 1F-15E-34-1-1CL-1.
+
+When carrying the SUU-20 dispenser at FTU, neither the pylon nor the
+BRU-47/A is carted. Therefore, the SUU-20 is not jettisonable. The pylon
+safety pin is installed, however, and will be removed by the arming crew
+in the arming area. The arming crew also sets the bomb intervalometer to
+ARM, removes the retaining arm safety pins, and removes the safety
+spring.
+
+The BRU-47/A cartridge indicators are extended if carts are not present.
+The pylon breech retainers are safety wired when no carts are installed.
+Carts are not installed to prevent inadvertent jettison of the SUU-20.
+Additionally, the safety handle should be vertical, which is the SAFE
+position.
+
+Ensure the RIFL is unlocked. If locked, the RIFL prevents release of
+stores from the BRU-47/A (including bombs from the SUU-20) through the
+conventional PACS. Ifthe RIFL is locked, the nuclear PACS must be
+used.
+
+Carriage/Kmployment Limits
+
+Maximum allowable airspeed, Mach number, G, and AOA are reduced by
+virtue of having a SUU-20 installed on the aircraft. If the PACS is
+properly programmed, the OWS generated and displayed allowable G is
+still correct for the basic aircraft structure. The OWS, however, is not
+programmed with individual stores limits. You must remember these
+limits and not exceed them. Check the Dash 1, Section V for the current
+SUU-20 limits. E2mpty pylons are cleared to basic aircraft limits.
+
+D-17 AGD-7
+
+
+Text from AGD-7_Suspension_Equipment_and_Training_Ordnance_page_24.jpeg:
+BDU-33
+
+The BDU-33 (blue bomb) (Figure D-12) is a 24 pound practice bomb that is
+used to simulate many different low drag bombs. The bomb normally
+contains a signal cartridge about the size of a 10 gauge shotgun shell. The
+cart is detonated by impact to provide flash and smoke for spotting/scoring
+purposes. This flash is emitted from the tail of the bomb and is
+potentially dangerous if the cart is ignited while you are close to the bomb.
+During preflight checks, be careful not to push in on the nose plunger.
+
+The safety device between the nose plunger and the bomb body prevents
+bomb signal cartridge detonation if the bomb were to fall out of the
+SUU-20 on the ground. The weapons load crew removes the safety device
+in the chocks after uploading the BDU-33s in the SUU-20. There are also
+“cold spot” bombs which emit smoke only (no flash). These bombs are
+utilized when range conditions dictate precautions to prevent range fires.
+Additionally, the tail fin assembly of the bomb is easily damaged. For a
+more detailed description of the bomb, refer to TO 1-1M-34, Section V.
+
+SAFING DEVICE
+
+FLASH/SMOKE
+EXIT POINT
+UY
+Fi A
+NOSE FLASH/SMOKE
+PLUNGER EXIT POINT
+
+AGD-07-12
+
+Figure D - 12. BDU-33D/B.
+
+AGD-7 D-18
+
+
+Text from AGD-7_Suspension_Equipment_and_Training_Ordnance_page_25.jpeg:
+Preflight BDU-33s
+
+Ensure the BDU-33s are secure in their retaining arms by visual
+inspection. Do not hit the bombs’ nose firing pins!
+
+Operating Limits
+
+Carriage: BDU-33s loaded into a SUU-20 do not impose any carriage
+restrictions over the empty SUU-20. Refer to the Dash 1, Section V for
+the current limits.
+
+Employment: Employment G limits are not incorporated into the OWS
+program. Additionally, exceeding these limits does not generally inhibit a
+release but may result in a bomb-aircraft collision or hung bomb. Current
+limits are as shown in the Dash 1, Section V.
+
+Jettison: Jettison of BDU-33s is not possible. If the bombs must be
+
+jettisoned, they must be released normally via the PACS and the bomb
+release buttons (pickle buttons).
+
+D-19 AGD-7
+
+
+Text from AGD-7_Suspension_Equipment_and_Training_Ordnance_page_26.jpeg:
+MXU-648 Cargo Pods
+
+The MXU-648 cargo pod (Figure D-13) is a modified BLU-1 or BLU-27
+firebomb shell. Four different variants of MXU-648 cargo pods (A/A, B/A,
+C/A, D/A) are currently in the inventory. Only the A/A is certified on the
+F-15E (Table D-1). Each variant has three versions. Each is an
+aluminum canister consisting of tapered nose and tail sections, and a
+center section with a hinged access door. Some versions of the MXU-648
+have a removable tailcone to accommodate larger cargo.
+
+SUSPENSION LUGS
+
+oo 0 0 0
+
+fe) °
+
+ACCESS DOOR
+
+CHARACTERISTICS
+
+LENGTH 10 FT 10 IN
+DIAMETER 19 IN
+DOOR SIZE 12 X 22.6 IN
+SUSPENSION 14 INLUGS
+EMPTY WEIGHT 98 LBS
+MAX WEIGHT OF CARGO 300 LBS
+
+AGD-07-13
+
+Figure D - 138. MXU-648 Cargo Pod.
+
+TDS Part Firebomb | Removable Lug SYM G WT
+Designation Number Shell Tail Cone Spacing Limit
+
+MXU-648A/A | 764077-10 Yes
+764077-30 No
+764077-50 No
+
+Table D - 1. MXU-648A/A Pod Variants.
+
+The pylons and BRUs will not be carted when cargo pods are loaded.
+Refer to the Dash 1, Section V for carriage limits.
+AGD-7 D - 20
+
+
+Text from AGD-7_Suspension_Equipment_and_Training_Ordnance_page_27.jpeg:
+QUESTIONS
+
+The RIFL on the BRU-47/A must be to release stores from a
+SUU-20 using the conventional PACS.
+
+a. locked
+b. unlocked
+
+Wing pylons, if carted, can be jettisoned using the
+
+a. EMERG JETT but not SEL JETT.
+b. SELJETT but not EMERG JETT.
+c. EMERG JETT or SEL JETT.
+
+d. wing pylon JETT switch.
+
+When the correct SUU-20 identifier is programmed into the PACS,
+the OWS computes and displays limits that, when adhered to, will
+prevent a SUU-20 over G.
+
+a. True
+b. False
+
+Stores jettison limits are found in
+
+the Dash 34 checklist.
+
+the Dash 1, Section V.
+
+the Dash 1 checklist, Emergency Procedures.
+the Dash 34, Section II.
+
+Boop
+
+The BDU-33 practice bomb spotting charge presents no danger to
+personnel.
+
+a. True
+b. False
+
+D-21 AGD-7
+
+
+Text from AGD-7_Suspension_Equipment_and_Training_Ordnance_page_28.jpeg:
+ANSWERS
+
+1. b
+2. ¢
+3. b
+4. b
+5. b
+
+AGD-7 D - 22
+
+
+Text from AGD-7_Suspension_Equipment_and_Training_Ordnance_page_29.jpeg:
+END OF TEXT QUIZ
+
+The SUU-73 is a(n)
+
+a. bomb rack.
+
+b. pylon.
+
+c. bomb dispenser.
+
+d. impulse cartridge.
+
+Each pylon can carry total bomb(s), unless MER, TER, or
+LAUs.
+
+a. 1
+
+b. 2
+
+c 64
+
+d. 6
+
+To employ (or jettison) air-to-ground weapons through the
+conventional PACS, the RIFL in the BRU-47/A must be in the
+
+position.
+a. horizontal
+b. extended
+c. locked
+d. unlocked
+
+Correct BRU-46A/-47A pitch valve settings for all applicable stores
+
+are determined by
+
+asking the munitions load supervisor.
+
+reference to the fragmentary orders or spins.
+
+reference to TO 1F-15E-34-1-1CL-1 (Dash 34 checklist).
+reference to the armament placed on the aircraft.
+
+Ro op
+
+Carriage, employment and jettison limits for F-15E external stores
+
+are found in
+
+a. TO1F-15E-1.
+
+b. TO 1F-15E-34-1-1.
+ec. TO1-1M-34.
+
+d. TO1F-15E-25-1.
+
+E-1 AGD-7
+
+
+Text from AGD-7_Suspension_Equipment_and_Training_Ordnance_page_3.jpeg:
+AIR-TO-GROUND DELIVERY
+
+COVER
+
+SUSPENSION EQUIPMENT AND TRAINING ORDNANCE
+
+INTRODUCTION
+
+This workbook is your guide to suspension equipment and training
+ordnance used during your training in FTU.
+
+CONTENTS:
+
+INTRODUCTION 0.00. eeeccceeseeesseeceseeseesaeecesacecensaeeeesaeeessaeeseenaeeens A-1
+CRITERION REFERENCED OBJECTIVES (CROs)............eeeeeeeeeeeeeee B-1
+STUDENT PREPARATION REQUIREMENTS . 0.00... eeeeeeeeeeeeee C-1
+TEXT oc eeccccccessseecceesseeeecessseeecesesaeeeceesssaeeeseesssaeeesesssaeeeseeeeaaeeseee D-1
+END OF TEXT QUIZ o.oo eeecceessneeesseeeeesaeecesaeeeensaeesesaeeseseeeeeaees E-1
+GLOSSARY. ee eeceeesecessneecesseeecesaeecesaeecessaeecesaeeseesaeecesaaesessaeeseeaeeeneas F-1
+
+A-1 AGD-7
+
+
+Text from AGD-7_Suspension_Equipment_and_Training_Ordnance_page_30.jpeg:
+6. When preflighting a wing pylon with a SUU-20 installed, you should
+find carts installed in
+
+the pylon breeches but not BRU-47/A breeches.
+the BRU-47/A breeches but not pylon breeches.
+neither pylon breeches nor BRU-47/A breeches.
+pylon breeches and BRU-47/A breeches.
+
+Re op
+
+7. Within the conventional PACS weapons list, “SUU-20N” identifies a
+
+SUU-20 with
+
+a. BDU-338s loaded.
+
+b. amixed load.
+
+c. MK 106s loaded.
+
+d. amodified hard back.
+
+8. With a SUU-20 loaded, the OWS computes and displays
+
+a. stores carriage limits but not employment limits.
+
+b. stores carriage and employment limits.
+
+c. aircraft limits only, not stores limits.
+
+d. aircraft limits or stores limits as programmed by the crew.
+
+9. The flash and smoke of a BDU-33 are emitted through
+
+the tail.
+
+the nose.
+
+holes in the sides of the bombs.
+the nose and tail.
+
+po op
+
+AGD-7 E-2
+
+
+Text from AGD-7_Suspension_Equipment_and_Training_Ordnance_page_31.jpeg:
+A/G
+AOA
+BDU
+BLU
+BRU
+CBT
+CFT
+CMBT
+FCP
+FTU
+IAW
+ID
+JETT
+
+LANTIRN
+
+LAU
+MPCD
+MPL
+OWS
+PACS
+
+RIFL
+
+GLOSSARY
+Air-to-ground
+Angle of attack
+Bomb dummy unit
+Bomb live unit
+Bomb release unit
+Combat
+Conformal fuel tank
+Combat
+Front cockpit
+Fighter Training Unit
+In accordance with
+Identification
+
+Jettison
+
+Low altitude navigation and targeting infrared for
+
+night
+
+Launcher adapter unit
+
+Multipurpose color display
+
+Multiple
+
+Overload warning system
+
+Programmable armament control set
+
+Reversible in-flight lock
+
+AGD-7
+
+
+Text from AGD-7_Suspension_Equipment_and_Training_Ordnance_page_32.jpeg:
+RPL Ripple
+
+SGL Single
+SUU Stores suspension and release unit
+TRNG Training
+
+AGD-7 F-2
+
+
+Text from AGD-7_Suspension_Equipment_and_Training_Ordnance_page_33.jpeg:
+(This Page Intentionally Blank)
+
+F-3 AGD-7
+
+
+Text from AGD-7_Suspension_Equipment_and_Training_Ordnance_page_34.jpeg:
+BACK PAGE
+COVER SHEET
+
+
+Text from AGD-7_Suspension_Equipment_and_Training_Ordnance_page_4.jpeg:
+CRITERION REFERENCED OBJECTIVES (CROs)
+
+1. Identify the function, operation, preflight requirements, limitations,
+and safety considerations of suspension equipment used for
+
+air-to-ground operations.
+
+2. Identify the function, operation, preflight requirements, limitations,
+and safety considerations of training ordnance used for air-to-ground
+
+training to include:
+
+@e SUU-20
+e@ BDU-33
+REFERENCES
+TO 1F-15E-1 Section V
+TO 1F-15E-34-1-1 Section I
+Section II
+Section IV
+TO 1-1M-34 Section I
+Section III
+Section V
+
+AGD-7 B-1
+
+External Stores Limitations
+
+Programmable Armament
+Control Set (PACS)
+
+Exterior Inspection, SUU-20
+Bomb/Rocket Dispenser/
+MXU-648 Cargo Pod
+
+Weapon Suspension, BRU-46
+Bjector Rack, BRU-47 Ejector
+Rack, SUU-59 and SUU-73
+Armament Pylons
+
+Practice Bombs
+
+Cargo Pods
+
+Training Weapons and
+Equipment, SUU-20
+
+
+Text from AGD-7_Suspension_Equipment_and_Training_Ordnance_page_5.jpeg:
+STUDENT PREPARATION REQUIREMENTS
+BEFORE CLASS
+
+1. Study the information contained in this workbook and complete the
+End of Text Quiz.
+
+2. Read the references in TO 1-1M-34, TO 1F-15E-34-1-1 (Dash 34), and
+TO 1F-15E-1 (Dash 1).
+
+3. Review, as necessary, material in AGD-2, A/G Programmable
+Armament Control System, on CBTS.
+
+4. Bring this workbook and TO 1F-15E-34-1-1CL-1 (Dash 34 Checklist)
+to class.
+
+C-1 AGD-7
+
+
+Text from AGD-7_Suspension_Equipment_and_Training_Ordnance_page_6.jpeg:
+(This Page Intentionally Blank)
+
+AGD-7 C-2
+
+
+Text from AGD-7_Suspension_Equipment_and_Training_Ordnance_page_7.jpeg:
+TEXT
+SUSPENSION EQUIPMENT
+Stations
+
+The F-15E is designed to deliver a vast array of conventional weapons. To
+do this, there must be a method to attach these munitions to the aircraft
+so they are secure until delivery or jettison is desired. The suspension
+equipment is designed to provide these capabilities.
+
+The aircraft carries external stores on stations 2, 5, and 8, and the right
+and left conformal fuel tanks (CFTs) (Figure D-1). Prior to carrying any
+external stores, ensure that you are familiar with the carriage,
+employment, and jettison limits from TO 1F-15E-1, Section V, Operating
+Limitations.
+
+RC FT LC FT AGD-07-01
+
+Figure D - 1. Aircraft Stations.
+
+D-1 AGD-7
+
+
+Text from AGD-7_Suspension_Equipment_and_Training_Ordnance_page_8.jpeg:
+Pylons
+
+The F-15E may be equipped with armament pylons on both wing stations
+(#2 and #8), and the centerline station (#5). SUU-59 pylons are used on
+the wing stations and the SUU-78 pylon is used on the centerline station.
+These pylons (Figure D-2) contain a BRU-47/A and other hardware and
+electrical wiring to provide the interface between the aircraft and
+whatever is suspended from that pylon. The SUU-59 and SUU-73 are
+functionally identical; they differ only in shape and size to fit the differing
+aerodynamic and structural requirements of the stations they serve. To
+permit jettison of the pylon with the stores, each pylon contains two
+ejector cartridges, resembling shotgun shells. They provide the force
+needed to separate the pylon from the aircraft. The pylons should be
+checked each flight when you are carrying any store that may require
+jettisoning (the pylons are not carted for most FTU training missions).
+Also, ensure that the pylon ejector breech safety pin is installed. During
+pylon jettisoning, the pylon is retained by the aft pivot point until an
+initial nose-down pitch moment is obtained to ensure safe separation from
+the aircraft.
+
+PYLON EJECTOR
+
+BRU-47/A SS
+EJECTOR _
+RACK
+
+BREECH
+PYLON PIVOT
+POINT
++
+BREECH
+RETAINERS
+
+CARTRIDGE CARTRIDGES
+
+INDICATOR
+
+=q
+ARMING Ll
+UNIT
+
+e *e SAFETY
+
+PYLON
+HANDLE SAFETY PIN
+
+BRU-47/A PYLON BREECH
+
+AGD-07-02
+
+Figure D - 2. SUU-59 (or SUU-73)/BRU-47/A.
+
+AGD-7 D-2
+
+
+Text from AGD-7_Suspension_Equipment_and_Training_Ordnance_page_9.jpeg:
+Bomb Release Units (BRUs)
+
+A bomb release unit is an integral part, actually the workhorse, of each
+pylon and CFT station. The BRU-46/A is in the outboard CFT stations
+and the BRU-47/A is in each pylon and inboard (lower) CFT station
+(Figure D-3). These units contain the hardware for stores carriage,
+employment and jettison, and tell the aircraft stores are on board. The
+BRU-46/A carries stores in the 1000 pound class, while the BRU-47/A
+carries the 2000 pound and up class weapons. The BRUs also have
+cartridge breeches to provide for release or jettison of stores mounted to
+its hooks. The breech caps have cartridge indicators which are flush if
+carts are installed and extended if carts are not installed. The hooks are
+mechanically locked and the breech carts electrically isolated by the safety
+handle. This handle is permanently installed and can be rotated between
+SAFE and ARM. Another item on the BRU-47/A is the reversible in-flight
+lock (RIFL) which must be unlocked to allow release or jettison of stores
+utilizing the conventional (vice nuclear) PACS, including release of bombs
+from a SUU-20.
+
+D-3 AGD-7
+
+

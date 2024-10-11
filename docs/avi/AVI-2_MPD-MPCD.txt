@@ -1,0 +1,1134 @@
+Text from AVI-2_MPD-MPCD_page_1.jpeg:
+SUPPORTS COURSES
+FIS5EBQ
+
+FISETX
+
+FISESOC
+
+ACADEMIC STUDENT WORKBOOK
+F-15E
+
+AVIONICS
+AVI-2
+MULTIPURPOSE DISPLAYS (MPD) &
+MULTIPURPOSE COLOR DISPLAYS (MPCD)
+
+OCTOBER 1998
+
+(SUITE 3 OFP)
+
+AIR COMBAT COMMAND
+
+
+Text from AVI-2_MPD-MPCD_page_10.jpeg:
+DISPLAYS, CONTROLS, AND INDICATORS
+Power Switch
+
+This rocker switch is used to turn the MPD/MPCD on or off (Figure D-4).
+This switch rests in the center-off position. On power up, the MPD/MPCD
+comes up at 50% default brightness level and is fully active. The
+day/night switch on the interior lights control panel controls the default
+brightness level. The displays initialize to the format/selections which
+were last selected prior to shutdown. Momentary power interruptions do
+not require cycling the switch.
+
+Brightness and Contrast Switches
+
+These two rocker switches are used to adjust the brightness and contrast
+of stroke and/or raster video for display (Figure D-4). They do not affect
+the sensor gain sent from the MPDP. The switches rest in the center-off
+position. Backlighted arrows on the switches indicate where to push for
+an increase or decrease in intensity.
+
+AVI-2 D-4
+
+
+Text from AVI-2_MPD-MPCD_page_11.jpeg:
+BIT Indicator
+
+The BIT indicator or ball (Figure D-4) is magnetically controlled and rolls
+over from black to white when the MPD/MPCD has failed. It will
+automatically reset when the malfunction is corrected or after a display
+power on/off cycle, and will hold the last indication when power is
+removed. It may also be cleared by running a “Display,” “AUTO,” or
+“MPDP” built-in test. An individual display BIT may be accomplished for
+a specific display by selecting “MAINT,” “DISPLAY,” “THIS DISPLAY” on
+the BIT 1 page, which will covered in a later lesson.
+
+20 19 18 17 16
+
+BIT
+INDICATOR POWER
+SWITCH
+15
+14
+13
+12
+11
+BRIGHTNESS
+SWITCH CONTRAST
+
+SWITCH
+
+AVI-02-04
+
+Figure D - 4. MPD/MPCD Controls.
+
+D-5 AVI-2
+
+
+Text from AVI-2_MPD-MPCD_page_12.jpeg:
+Push Buttons
+
+The 20 push buttons mentioned earlier provide control of display
+functions. By pressing them you can change display formats, select
+display options, control subfunctions, etc. They are usually referred to by
+the legend adjacent to them in a particular format; however, they can be
+referenced by position number (Figure D-4). Notice that the push button
+directly below the BIT ball is #1 and the sequence is counterclockwise
+around the MPD/MPCD.
+
+HOTAS Controls
+
+The switches and buttons located on the FCP stick, the FCP throttles, and
+RCP hand controllers are known as HOTAS (Hands On Throttles And
+Stick) controls. Two of these switches, which control certain functions of
+
+the MPD/MPCDs, are discussed here.
+
+FCP Castle Switch
+
+The front cockpit display control switch, called the castle switch because of
+its shape, is a five-position, momentary contact toggle switch, located on
+the stick (Figure D-5). It can be moved left, right, forward, aft, and
+depressed. If a set of displays has been programmed on an MPD/MPCD,
+toggling the switch toward the MPD/MPCD scrolls the display. Toggling
+the switch toward the HUD alternately selects air-to-air or air-to-ground
+master modes. Depressing, releasing, and toggling the switch toward a
+MPD/MPCD or the HUD initiates the take command function. Display
+scrolling, master modes, and the take command function are explained
+later in this lesson.
+
+AVI-2 D-6
+
+
+Text from AVI-2_MPD-MPCD_page_13.jpeg:
+CASTLE SWITCH
+(DISPLAY CONTROL
+SWITCH)
+
+AVI-02-05
+
+Figure D - 5. FCP Control Switch.
+
+D-7 AVI-2
+
+
+Text from AVI-2_MPD-MPCD_page_14.jpeg:
+RCP Coolie Switches
+
+The RCP display select/command switches, called coolie switches because
+they are shaped like coolie hats, are located on the left and right hand
+controllers (Figure D-6). The left and right hand controllers allow control
+and operation of the left and right set of MPD/MPCDs, respectively. The
+coolie switch is a four-position, momentary toggle type that can be moved
+forward/aft and left/right. If a set of displays has been programmed on
+the MPDs/MPCDs, forward and aft movement of the coolie switch scrolls
+displays. Left and right movement initiates the take command function.
+
+COOLIE SWITCH
+
+LEFT HAND CONTROLLER RIGHT HAND CONTROLLER
+
+AVI-02-06
+
+Figure D - 6. RCP Hand Controllers.
+
+AVI-2 D-8
+
+
+Text from AVI-2_MPD-MPCD_page_15.jpeg:
+Display Formats
+
+So far you have just seen blank MPD/MPCD screens; however, this occurs
+only if power is off or if a failure exists. Normally, there is something
+displayed. Once you turn a unit on, it initializes to the format displayed
+at shutdown. In all cases (except an armament display below the top
+level), an “M” or “M2” is in the lower right corner at PB #11 (Figure D-7).
+Pushing the button next to it always returns the display to one of the two
+menus.
+
+INITIALIZED
+DISPLAY
+SELECT
+MENU
+AVI-02-07
+
+Figure D - 7. Initial Display Format.
+
+D-9 AVI-2
+
+
+Text from AVI-2_MPD-MPCD_page_16.jpeg:
+0OT-d GIAV
+
+"UOSS9] LAO 24} suLinp peotyoeid oq
+[[[M SNUSUL oY} WOIJ pu 0} UOTJeTeS AvTdstIp pue souenbes dn zemod ou,
+
+nUeP, “8 - q eNnsIy
+
+80-ZO-IAV
+
+lav
+
+90ud Wa
+\ 8diA dnH SsdIA /OW ZdIA
+-
+PE:
+®
+
+"SuOSse] 0}e.1edes UT YYdep UI pareAocd
+SI JEULIOJ Yoey “Z% Nuss PeTES 0} AemM ATUO 9} ST AeTASIP T ONIN oy}
+
+UO (ZIN) IlT# Ad SUTPITES “T NUS/T §4J9ETES (JJES}I [T NUSP 1deoxe) JeULIOJ
+Aue WoL (I) [L# Ad SuUIpeTEG ‘puseseT oyeL1doidde oy4 07 Jueoe[pe u04jNG
+oy ysnd ‘AeTdsip & yOoTES OF, ‘SCGOdI JO USISOp oY} YILM 9] qQIyedUIOD You
+o18 SUINJOL Lepe.l PUNOLS-0}-11e [eNJoe osnedeq UMOYS 4OU SI JeULIOJ YQY
+D/V 2u1 ‘GOdIN Uk UO pedeydstp st [ nue JI “yeul10j ouO ATUO aAReY (NNW)
+SoUBULIOJ.1ed OULSUS SB YONS S10} [IY ‘syeuLLojqns AuvU savy “(YCY
+)/YV) Tepes puNo.Ls-0}-11e OY] ‘SJEULIOJ SULOG *S}JEULIOJ 19Y40 9Y4 SUTJETES
+IO} SJULOd SUT}.1e}S UOUIUOD oY} ole AOU, ‘SCOdIW/SAdI 2°} UO poyuese.id
+oq Uvd 4eY} SJEULIOJ UE4SAS OY [Te AVTASIP (Q-q eINST) SNUSW OMY OU,
+
+
+Text from AVI-2_MPD-MPCD_page_17.jpeg:
+PROGRAMMING AND SCROLLING
+
+Each MPD/MPCD can be programmed by the aircrew to sequentially
+display up to three different formats. This allows the aircrew to
+“optimize” the cockpit displays for specific missions or functions and
+rapidly switch to other displays. The displays are scrolled by using the
+castle switch in the front cockpit or the coolie switches in the rear cockpit
+(HOTAS, remember?). FCP and RCP programming and scrolling
+operations are completely independent of each other.
+
+Programming
+
+MPD/MPCD display sequence can be programmed through the MC/DTM
+or in the aircraft. In the aircraft you can program all, some, or none of the
+MPDs/MPCDs, as desired. Programming the displays is an easy
+procedure as described below.
+
+To program an MPD/MPCD, a menu must be displayed. Push the PROG
+button; this initiates the programming mode and places a box around
+PROG (Figure D-9).
+
+"BOXED"
+SEQUENCE
+NUMBERS
+
+AN
+@
+
+ott
+
+A/GRDR
+
+—)
+
+TGTIR
+A/ARDR TEWS
+
+TeTIR [4]
+
+A/AROR [2]
+
+Tot | ome
+
+TGTIR
+
+SELECTED
+
+AVI-02-09
+
+Figure D - 9. Displays Sequence Programming.
+
+D-11 AVI-2
+
+
+
+Text from AVI-2_MPD-MPCD_page_18.jpeg:
+Select the display formats in the order you want for scrolling by pushing
+the appropriate buttons in order. A boxed number 1, 2, or 3, and its
+display format name appear in the center of the menu (Figure D-9). The
+boxed sequence number also appears adjacent to the selected format.
+These are program sequence numbers and they are assigned in the order
+the buttons are pushed. You exit the programming mode by one of two
+ways: (1) push the PROG button, which unboxes PROG, or (2) scroll off
+the menu via HOTAS. For reference, the selected display formats and
+their assigned program sequence numbers remain on the menus.
+
+To replace one programmed format with another, select the programming
+mode. Push the button of the programmed format you wish to delete; the
+format name and boxed number disappears from the center of the menu
+display. Then push the button of the format you wish to program; it
+replaces the deleted display in the scrolling sequence. To reorder the
+formats in the program, first delete all programmed formats. Next, select
+the new formats in the desired scrolling sequence. Last, deselect “PROG”
+or scroll to exit the program mode.
+
+AVI-2 D-12
+
+
+Text from AVI-2_MPD-MPCD_page_19.jpeg:
+Scrolling
+
+Front Cockpit
+
+By moving the appropriate switch you can scroll through the display
+formats you have selected on each MPD or MPCD. In the front cockpit,
+toggling the castle switch left scrolls the left MPD presentation in the
+programmed sequence (Figure D-10).
+
+CASTLE
+
+" LOUOROUO <4 FCP STICK GRIP
+
+sss)
+=
+U
+O
+O
+
+© aral{C
+
+a(
+XX
+
+lo
+
+AVI-02-10
+
+Figure D - 10. FCP Display Sequencing.
+
+D-13 AVI-2
+
+
+Text from AVI-2_MPD-MPCD_page_2.jpeg:
+ADMINISTRATIVE INFORMATION
+
+This student workbook is designed to provide information on the F-15E,
+its systems, and capabilities. It is not a sole source document, but is to be
+used in conjunction with other standard Air Force publications and
+technical manuals. If you find any differences between the material
+contained herein and other governing regulations, adhere to the
+regulations and notify the OPDR.
+
+Changes to this workbook are indicated with a heavy black line in the left
+margin.
+
+Forward recommendations for revision or change to 4 TS, SJAFB, NC
+275381.
+
+Supersedes: AVI-2, July, 1998
+
+OPDR: 4 TS
+
+Index of Changes
+
+Effective Date Pages Affected
+
+
+
+Text from AVI-2_MPD-MPCD_page_20.jpeg:
+Similarly, toggling the switch to the right scrolls the right MPD. Toggling
+aft does the same thing for the MPCD with one important variation. The
+first aft movement of the castle switch brings up the ADI display on the
+MPCD and starts a five second timing cycle. Further aft movement
+within five seconds sequences the MPCD as programmed. Once the time
+has elapsed, the next aft movement reinitiates this “ADI cycle.”
+
+Rear Cockpit
+
+The coolie switches on the left and right hand controllers perform the
+display scrolling for their respective set of MPDs/MPCDs (Figure D-11).
+In the figure below, the right hand control is used to scroll the right MPD
+and MPCD. Toggling forward scrolls the MPD while aft scrolls the
+MPCD. The left hand controller coolie switch scrolls the left displays
+(forward for the left MPD, aft for the MPCD).
+
+fe ONO ®
+fe \ 2! ToloIololol ©
+O ni a \H
+0 CJ} {0 ) Q
+7 RIGHT LA
+MPD RIGHT
+O
+COOLIE SWITCH 5 AlcyH MPcbd
+KX
+TI e
+XN
+a O O O UO O a, ES O O O AI
+FORWARD CYCLES
+INBOARD (MPD) DISPLAY
+REAR CYCLES
+OUTBOARD (MPCD) DISPLAY
+RCP RIGHT HAND CONTROLLER
+AVI-02-11
+
+Figure D - 11. RCP Right Hand Display Cycling.
+
+AVI-2 D-14
+
+
+Text from AVI-2_MPD-MPCD_page_21.jpeg:
+Master Modes
+
+There is another way to change some or all of the programmed
+MPD/MPCD display formats by pushing just one button. It allows rapid
+transition between a set of systems and displays needed to conduct a
+specific operation. This also simplifies operation and reduces crew
+workload. This method uses the master mode buttons on the HUD control
+panel (Figure D-12).
+
+"I HUD 6)
+
+AS S DAY
+A) ||| Y
+= NIGHT
+
+HUD CONTROL PANEL
+
+ae
+
+AVI-02-12
+
+Figure D - 12. Master Mode Button Location.
+
+Here is an example of how you might use master modes to change display
+formats. On low level ingress you want specific display formats, like A/G
+radar, TEWS, TGT IR, etc., arranged a certain way. These could be
+programmed to the NAV Master Mode. However, if you are intercepted by
+an enemy fighter, you need air-to-air systems and displays up
+immediately! Punching the A/A Master Mode button could do just that in
+a matter of seconds.
+
+D-15 AVI-2
+
+
+Text from AVI-2_MPD-MPCD_page_22.jpeg:
+Programming
+
+Three of the master modes, air-to-air (A/A), air-to-ground (A/G), and
+navigation (NAV), are programmable; the fourth, instrument (INST), is
+“canned” or preprogrammed. The procedure for programming is as follows
+
+(Figure D-138).
+
+5 5 8
+ale
+
+F
+BRT CONT @
+SELECT PROGRAM
+STEP (1)
+®@ iS)
+O° HOWOWOUO A
+OR A
+0
+TF TR
+OF wt)
+eS | () aA
+SELECT MASTER MODE
+STEP (2)
+®
+6” Hollolicticlioll *
+HUD r. ~b
+
+zs
+a
+
+pee IG)
+53
+cease
+
+PROG] NAV
+OU O
+
+SELECT SYSTEM
+DISPLAY FORMAT
+STEP (3)
+
+AVI-02-13
+
+Figure D - 13.
+
+AVI-2
+
+First, select Menu 1 or Menu 2 on the
+MPD/MPCD. Then select program (PROG) on
+the menu displayed at PB #6. This initiates the
+program mode and boxes PROG. Remember,
+before a display format can be assigned to a
+master mode, it must have a display sequence
+number assigned to it.
+
+Next, push PB #7 (M/M button) until the desired
+master mode (A/G, A/A, NAV) appears. In this
+case NAV is selected.
+
+Push the button adjacent to the system display
+format to be associated with that master mode.
+The master mode legend will appear next to the
+selected display format. This procedure is
+accomplished for each master mode program
+desired. Exit the programming mode by one of
+the ways explained previously under
+“Programming.”
+
+Program all, some, or none of the MPDs/MPCDs,
+as desired, for 1, 2, or 3 of the programmable
+master modes.
+
+
+Text from AVI-2_MPD-MPCD_page_23.jpeg:
+Limitations
+
+There are a few other things to remember about master mode
+programming. One is that, if an MPD/MPCD is not programmed to a
+given master mode, it does not change when that master mode is selected.
+Second, you are always in a master mode; when power is applied to the
+aircraft, it initializes to the master mode the aircraft was in at engine
+shutdown, unless the weapons select switch isin GUNS. The aircraft
+initializes to the A/A Master Mode in that case. Finally, remember that
+the push of each master mode button changes MPD/MPCD displays to
+whatever has been “tied” to master mode programming, which may be an
+inconvenience to the other crew member - so crew coordinate on this
+action. Finally, when in the A/G, NAV, or INST Master Mode, moving the
+FCP castle switch forward (without depressing it first) selects the A/A
+Master Mode. If in A/A Master Mode, pressing the castle switch forward
+selects A/G Master Mode.
+
+D-17 AVI-2
+
+
+Text from AVI-2_MPD-MPCD_page_24.jpeg:
+Instrument Master Mode
+
+The “canned” program for the Instrument Master Mode allows the crew to
+quickly transition to a set of basic instrument displays consisting of the
+air-to-air radar display on the left MPD, the ADI on the MPCD, and the
+HSI on the right MPD in the FCP (Figure D-14). In the RCP the HSI and
+ADI automatically come up on the left and right MPCDs, respectively.
+The rear cockpit center two displays (left MPD, right MPD) do not change
+with selection of the Instrument Master Modes.
+
+ness
+
+©
+
+og
+5
+H
+
+Zo
+
+mam
+
+a [OPOVOtOTo)
+
+oonwm 00oOormT
+
+,
+7
+
+i 77104
+
+A TON 105x
+
+& 120
+
+335 /20.0
+00:02:40
+
+|
+
+Sars ||
+
+HORIZONTAL SITUATION
+INDICATOR (HSI)
+
+|__|] jy
+@ * FOfOMOIOIOh
+ATTITUDE DIRECTOR
+INDICATOR (ADI)
+
+AVI-02-14
+
+Figure D - 14. FCP Instrument Master Modes.
+
+AVI-2 D-18
+
+
+Text from AVI-2_MPD-MPCD_page_25.jpeg:
+GUNS
+
+One other switch that brings up a master mode is the weapons/mode
+switch on the right forward throttle (Figure D-15). By moving it aft to the
+GUNS position, air-to-air radar is automatically displayed on the left front
+MPD, and A/A Master Mode is selected. The left front MPD cannot be
+programmed or scrolled with the switch in GUNS. The menu option at
+PB #11 is shown, but not selectable. Scrolling off the air-to-air display is
+not possible as long as the weapons select switch is in GUNS.
+
+AVI-02-15
+
+Figure D - 15. FCP Throttles.
+
+You will have the opportunity to program and select master modes in the
+CBT lesson.
+
+D-19 AVI-2
+
+
+Text from AVI-2_MPD-MPCD_page_26.jpeg:
+TAKE COMMAND FUNCTION
+
+Some displays on the MPDs/MPCDs require that a crew member take
+command of them for system operation. (You would not want two people
+trying to move the A/A radar cursor at the same time, would you?) The
+systems with the take command function are: air-to-air radar (A/A RDR),
+air-to-ground radar (A/G RDR), targeting IR (TGT IR), tactical situation
+display (TSD), VID 2, VID 5, VID 8, and data frame. Other display
+formats, such as the ADI, HSI, etc., can be manipulated with the push
+buttons by either crew member at anytime. Needless to say, some crew
+coordination is required for take command actions.
+
+Taking Command
+
+The crew member desiring to operate a “take command” system must take
+command of it; command cannot be given. To take command, use the
+same switches used to sequence displays. First, you must have the system
+display format showing on one of your MPDs/MPCDs. In the front
+cockpit, momentarily depress and release the castle switch and, within
+two seconds, move it toward the MPD/MPCD you want to command
+(Figure D-16). If the other crew member is not using the display, you now
+command it.
+
+DEPRESS AND
+RELEASE, THEN
+MOVE IN THE
+DIRECTION OF
+DISPLAY
+
+A WG
+
+cH
+
+AVI-02-16
+
+Figure D - 16. FCP Take Command.
+
+AVI-2 D - 20
+
+
+Text from AVI-2_MPD-MPCD_page_27.jpeg:
+In the rear cockpit, move the coolie switch on a hand controller left or
+right in the direction of the appropriate MPD/MPCD display you want to
+command. No switch depression is required (Figure D-17).
+
+MOVE COOLIE
+
+SWITCH TOWARD SWITCH TOWARD
+DISPLAY DISPLAY
+
+<LEFT ai, Gis t <LEFT RIGHT>
+
+MOVE COOLIE
+
+LEFT HAND CONTROLLER RIGHT HAND CONTROLLER
+
+AVI-02-17
+
+Figure D - 17. RCP Take Command.
+
+D-21 AVI-2
+
+
+Text from AVI-2_MPD-MPCD_page_28.jpeg:
+System In Use
+
+Once a crew member is in command of a displayed system, visual
+indications of command status appear on the display. With the A/A RDR,
+for example, the cursor becomes solid, and short “command” lines appear
+between the legends on the bottom row of the display format. A display of
+the same system in the other cockpit will have a dashed cursor and no
+“command” lines (Figure D-18).
+
+IN COMMAND NOT IN COMMAND
+
+SOLID CURSOR DASHED CURSOR
+
+m™7—-Z0
+
+F
+L
+
+[o}
+oO
+D
+R
+c
+D
+
+LINES BETWEEN OPTIONS NO LINES BETWEEN OPTIONS
+
+AVI-02-18
+
+Figure D - 18. In Command Cue.
+
+AVI-2 D - 22
+
+
+Text from AVI-2_MPD-MPCD_page_29.jpeg:
+If you attempt to take command of a display that is actively being used, as
+defined below, a SYSTEM IN USE cue comes up on your display
+
+(Figure D-19). If you still want command, repeating the take command
+actuation(s) a second time within five seconds gives it to you.
+
+IN USE is defined as follows:
+A/A RDR - the cursor is being moved or a target is designated.
+
+A/G RDR - the cursor or elevation bar is being moved, UPDATE or
+TARGET function is selected, or a high resolution map is being made.
+
+A/A or A/G RDR - when the HUD is in use for update or designation
+functions. (This only appears if take command is initiated from the
+RCP.)
+
+TSD, data frame, TGT IR (A/G mode), VID 2, 5, or 8 - an input is
+
+being made to these sensors through the TDC or slew enable has
+been selected.
+
+CUE
+
+Oya HOA a
+
+CHAN A5
+
+SYSTEM IN USE
+
+CI}
+
+°
+7
+a
+
+=p
+
+DA=zO =g
+om=
+0
+vow voorm
+wy, \_ |
+
+=
+
+G460 240-050
+
+[WED] = RGH vs
+
+: I Lt
+- SEEM
+
+=
+
+JBI
+f
+X
+
+1B
+®
+
+wo
+Ps]
+4
+
+®
+
+AVI-02-19
+
+Figure D - 19. In Use Cue.
+
+D - 23 AVI-2
+
+
+Text from AVI-2_MPD-MPCD_page_3.jpeg:
+AVIONICS
+
+COVER
+
+MULTIPURPOSE DISPLAYS (MPD) & MULTIPURPOSE
+COLOR DISPLAYS (MPCD
+
+INTRODUCTION
+
+This workbook is your guide in studying the F-15E multipurpose display
+(MPD) and the multipurpose color display (MPCD). It provides you with
+information about the description, operation, and location of the displays
+and controls. As part of a computer-based training (CBT) lesson, this
+workbook should be read prior to taking the CBT instruction.
+
+CONTENTS:
+
+INTRODUCTION 0.000. eeecceesseeeesneeceseeeeesaeecesaeeeessaeeessaeeessaeesessaeeens A-1
+CRITERION REFERENCED OBJECTIVES (CROs).............eeeeseeeeeeeeees B-1
+STUDENT PREPARATION REQUIREMENTS . 0.00... eeeeeeeeeeeeeeee C-1
+CEE os ses sans sos cores nos nas ois cua cares canis ans as RSA SNS Onis aU KUNE kK NewS SHES KoRKG MU NaS HSS aUD KR D-1
+NOTE TAKING OUTLINE..00. ee ceeneceesneecesseeeensaeesesneeeeseeeeeaees E-1
+SONOS RII Meith MeN MedeA 2 ee eee see ces es cece ante es se an cea eae cee ese ans ee te se: ce N/A
+GLOSSARY. eeeccceeseeeeescecesneeecesaeecesaeecessaeecesaeecessaeesesaeeeesaeesesaeeeeas G-1
+
+
+Text from AVI-2_MPD-MPCD_page_30.jpeg:
+Here is a limitation to remember about being in command. You cannot
+command two displays simultaneously in the front cockpit or from one
+hand controller in the rear cockpit. For example, if you are in command of
+the A/G RDR format on the RCP right MPD with the TGT IR on the RCP
+right MPCD, should you take command of the TGT IR, the A/G RDR will
+go to neutral. (“Neutral” means that neither crew member is in command
+of that system.) One exception exists in the FCP. In A/G master mode,
+the pilot can be in command of the HUD and still fire the laser of the TGT
+IR pod. Keep this in mind when you set up your cockpit display
+programming. Also remember, the HOTAS switches are multifunctional.
+The only way a HOTAS switch “knows” which system it is supposed to
+affect is by “knowing” which system you “command.”
+
+AVI-2 D - 24
+
+
+Text from AVI-2_MPD-MPCD_page_31.jpeg:
+QUESTIONS
+
+The display format cannot be selected on an MPCD.
+
+a. ADI
+
+b. A/GRDR
+
+c. HSI
+
+d. A/ARDR
+
+The push button labeled , which is located in the lower
+
+right corner, appears on all MPD/MPCD display formats except
+MENU 1 and lower level armament displays.
+
+The first push button you must press to program display sequencing
+for an MPD/MPCD is the
+
+a. PROG button.
+b. M/M button.
+c. ADI button.
+d. HSI button.
+
+(P) If the FCP castle switch is toggled aft only once in five seconds,
+is displayed on the front cockpit MPCD.
+
+MENU 1
+
+the ADI
+
+whatever display format is next in the sequence
+whatever display format has program sequence number 1
+
+Boop
+
+(WSO) Toggling the RCP right hand controller coolie switch forward
+
+changes the master mode.
+
+cycles displays on the right MPD (right inboard display).
+takes command of the right MPD (right inboard display).
+changes the monochromatic display to a color display.
+
+Boop
+
+D - 25 AVI-2
+
+
+Text from AVI-2_MPD-MPCD_page_32.jpeg:
+6. Before a display format can be programmed to a master mode, it
+must first have a
+
+a
+b.
+c
+
+d
+
+status.
+
+display sequence number.
+clue.
+
+master mode.
+
+7. The master mode which has a “canned” program is
+
+Re op
+
+A/G.
+AJA.
+INST.
+NAV.
+
+8. (WSO) To initiate the take command function in the rear cockpit, you
+must
+
+depress and release the castle switch.
+
+depress and release the left or right coolie switch.
+
+toggle the appropriate coolie switch toward the display.
+you cannot take command; the pilot in the front has to give
+command.
+
+9. (P) To initiate the take command function in the front cockpit, you
+
+must:
+
+a. move the throttle weapons select switch aft.
+
+b. toggle the castle switch toward the desired display.
+
+c. depress/release the castle switch, then toggle toward the desired
+display.
+
+d. toggle the castle switch toward the desired display while holding
+
+it depressed.
+
+10. Ifa dashed cursor is showing on your A/A RDR display, you are
+
+ao op
+
+AVI-2
+
+in command of that display/system.
+not in command of that display/system.
+in A/G Master Mode.
+
+viewing your A/A RDR on a MPCD.
+
+D - 26
+
+
+Text from AVI-2_MPD-MPCD_page_33.jpeg:
+10.
+
+ANSWERS
+
+AVI-2
+
+
+Text from AVI-2_MPD-MPCD_page_34.jpeg:
+(This Page Intentionally Blank)
+
+AVI-2 D - 28
+
+
+Text from AVI-2_MPD-MPCD_page_35.jpeg:
+A/G
+A/A
+ADI
+BIT
+CBT
+CRT
+DTM
+ENG
+FCP
+HOTAS
+HSI
+HUD
+INST
+IR
+
+MC
+M/M
+MPCD
+MPD
+MPDP
+NAV
+
+OFP
+
+GLOSSARY
+Air-to-ground
+Air-to-air
+Attitude director indicator
+Built-in test
+Computer-based training
+Cathode ray tube
+Data transfer module
+Engine
+Front cockpit
+Hands on throttle and stick
+Horizontal situation indicator
+Head-up display
+Instrument
+Infrared
+Mission cartridge
+Master mode
+Multipurpose color display
+Multipurpose display
+Multipurpose display processor
+Navigation
+
+Operational flight program
+
+AVI-2
+
+
+Text from AVI-2_MPD-MPCD_page_36.jpeg:
+PB
+
+RCP
+
+RDR
+
+TDC
+
+TEWS
+
+TGT
+
+TSD
+
+VID
+
+AVI-2
+
+Push button
+
+Rear cockpit
+
+Radar
+
+Target designator control
+
+Tactical electronic warfare system
+Target
+
+Tactical situation display
+
+Video
+
+
+Text from AVI-2_MPD-MPCD_page_37.jpeg:
+(This Page Intentionally Blank)
+
+G-3 AVI-2
+
+
+Text from AVI-2_MPD-MPCD_page_38.jpeg:
+BACK PAGE
+COVER SHEET
+
+
+Text from AVI-2_MPD-MPCD_page_4.jpeg:
+CRITERION REFERENCED OBJECTIVES (CROs)
+
+1. Given a computer simulation of an MPD or MPCD, be able to return
+to the Menu 1 display, program display sequencing, and program
+master modes.
+
+2. Identify the function of the FCP castle switch, the RCP coolie
+switches, and the master mode select buttons.
+
+3. Given a graphic representation of an MPD/MPCD, identify the
+meaning of the take command symbology.
+
+REFERENCE
+TO 1F-15E-1 Section I Multipurpose Display/
+Multipurpose Color Display
+
+AVI-2 B-1
+
+
+Text from AVI-2_MPD-MPCD_page_5.jpeg:
+STUDENT PREPARATION REQUIREMENTS
+
+BEFORE THE CBT LESSON
+1. Read the referenced material in TO 1F-15E-1.
+
+2. Study the information contained in Section D of this workbook.
+
+C-1 AVI-2
+
+
+Text from AVI-2_MPD-MPCD_page_6.jpeg:
+(This Page Intentionally Blank)
+
+AVI-2 C-2
+
+
+Text from AVI-2_MPD-MPCD_page_7.jpeg:
+TEXT
+DESCRIPTION AND LOCATION
+
+The multipurpose displays (MPDs) and multipurpose color displays
+(MPCD) are cathode ray tubes (CRTs) which integrate the controls and
+presentations of many aircraft systems into a single unit. The F-15E is
+among the first aircraft to make such extensive use of these displays.
+They provide the aircrew a unique flexibility to display the data being
+gathered by on-board sensors and guided weapons and to arrange and
+control this data to accommodate individual mission needs.
+
+The MPD and the MPCD look essentially the same (Figure D-1). The face
+of the unit consists of a 6" screen (MPD) or a 5" screen (MPCD)
+surrounded by 20 peripheral push buttons by which the aircrew controls
+systems and data to be displayed. The exact content of data in the display
+formats is software programmable and stored within the operational flight
+program (OFP) of the multipurpose display processor (MPDP), making
+changes much easier to accomplish. The MPD presents all display
+formats in monochromatic green. The MPCD also presents
+monochromatic displays; in addition, it shows complex displays like the
+electronic attitude director indicator (ADD and horizontal situation
+indicator (HSI) in color, which aids in their rapid, accurate interpretation.
+Color maps are used on the tactical situation display (TSD) for ease in
+assessing the tactical situation.
+
+AVI-02-01
+
+Figure D - 1. MPD/MPCD.
+
+D-1 AVI-2
+
+
+Text from AVI-2_MPD-MPCD_page_8.jpeg:
+In the aircraft, there are four MPDs, two in the front cockpit (FCP) and
+two in the rear cockpit (RCP); and three MPCDs, one in the FCP and two
+in the RCP as shown in Figures D-2 and D-3.
+
+iS] cp
+
+Figure D - 2. FCP Array.
+
+AVI-2 D-2
+
+
+Text from AVI-2_MPD-MPCD_page_9.jpeg:
+MPD MPCD
+
+AVI-02-03
+
+Figure D - 3. RCP Array.
+
+D-3 AVI-2
+
+

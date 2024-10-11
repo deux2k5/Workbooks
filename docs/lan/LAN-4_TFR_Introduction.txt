@@ -1,0 +1,1101 @@
+Text from LAN-4_TFR_Introduction_page_1.jpeg:
+SUPPORTS COURSES
+FIS5EBQ
+FISETX
+
+ACADEMIC STUDENT WORKBOOK
+F-15E
+
+LANTIRN
+LAN-4
+TFR INTRODUCTION
+
+JUNE 1999
+
+(SUITE 3 OFP)
+
+AIR COMBAT COMMAND
+
+
+Text from LAN-4_TFR_Introduction_page_10.jpeg:
+When the TFR detects terrain in a bar scan, it stores the range and
+elevation of that return in memory. Between scans of that bar, it
+estimates the range and elevation of the terrain by using the aircraft’s
+groundspeed and flight vector provided by the INS. A complete 8-bar scan
+requires 2.5 seconds. In wings level flight, the center bar is scanned twice,
+once every 1.25 seconds.
+
+In certain TFR modes, the scan pattern is modified to provide different
+capabilities. Those differences will be discussed in LAN-6.
+
+TF Command Logic
+
+Once the returns from the TF radar are stored in memory, the TF
+computer in the LANTIRN NAV Pod uses them to compute the g
+command required to maintain the SC. The TF computer compares the
+stored terrain information with a model of “command lines.” The lines
+represent the incremental g required to cross an obstacle at the SC. As
+the aircraft flies over level ground in Figure D-3, the ground returns
+coincide with the zero command line. This indicates no incremental g is
+required to maintain SC.
+
+ZERO COMMAND
+LINE
+
+-3G LINE
+
+-2G LINE
+-1G LINE
+
+2G LINE
+
+CLEARANCE MONITOR
+REGION
+
+_ TERRAIN
+
+LAN-04-03
+
+Figure D - 3. TF Command Logic.
+
+LAN-4 D-4
+
+
+Text from LAN-4_TFR_Introduction_page_11.jpeg:
+The peak in Figure D-4 eventually penetrates the zero command line
+(ZCL), indicating that a positive incremental g command is required to
+maintain SC. The further the terrain penetrates through the ZCL, the
+greater the g command required to maintain the selected clearance, as
+shown by the +1 G and +2 G lines. As the aircraft clears the peak, the
+terrain on the far side will fall in the negative G region, indicating that a
+pushover command is required to maintain SC.
+
+The clearance monitor region is an area in front of the aircraft monitored
+by the TF computer. Any object entering the area will generate a fly-up
+command by the TF computer.
+
+ZERO COMMAND
+LINE
+
+-3G LINE
+
+-2G LINE
+
+-1G LINE
+
+2G LINE
+
+CLEARANCE MONITOR
+REGION
+
+=-
+am
+
+TERRAIN
+
+-=
+aot
+-_-"-
+
+=-
+w_e--”
+
+LAN-04-04
+
+Figure D - 4. Zero Command Line.
+
+
+Text from LAN-4_TFR_Introduction_page_12.jpeg:
+9-d v-NV'I
+
+‘Oply prey SNs1eA WoOg “g - q eNsTy
+
+S0-v0-NV1
+
+‘OTULVUAP SI [OPOUL OUT] PUBTIUIOD OY} ‘SPIOM JOYJO UT “UOTJOTES OpTI
+pue 99 ‘peodspunors yyIM AeA [opoul SUIT PUBTIUWOD OY} Jo ,Sodvys,, ou],
+
+"peqde[OS OPLI oY JO SSo[pPredel MOT
+
+esou ,Z[ JO WNUWIIxeu & SpuRWUIOD ATUO Ue4sSA8 OY} ‘UOT}IPpe UT “‘Ssyyed
+JUST] Spit yos pue prey oy} Soyeajsny! G-q eANSTy “opi prey Jo yey} ueyy
+SPUBUIWIOD OAIP Jo[}JUES SEplAOId oplI JOS yey} SUleg J[NSe1 ey, “GP - 3
+JUOLIND OY} JO WNUIIXEUL B SPUPUIUOD JOS ‘YG’ - J JUSLIND JO pueuUWOD
+uMOp YoyId UINUIIxeU & SeprAoid We4sAS OY} ‘Opll prey UT “S4VETES
+MOIIITE 9Y} OPI JO odA} oY} UO SuIpUSdap SoLIeA JIU] S OATJESOU OU,
+
+‘S3 [CJUSUIOIOUL Z JO UNUITXeU B ‘oueS oY} SABMTP ST JIU] 3 OAT}ISOd OU,
+
+
+Text from LAN-4_TFR_Introduction_page_13.jpeg:
+TF Command Corridor
+
+The TF computer stores terrain information from all bars in the scan. Not
+all of that information is necessary for generating TF commands. The
+only terrain that requires climb or dive commands is that which falls
+along the flight vector. To prevent unnecessary climb commands for
+terrain left or right of the aircraft’s flight path, the TF computer
+determines a “command corridor” based on the aircraft's projected
+groundtrack.
+
+In wings level flight, the command corridor consists only of the center bar.
+When the aircraft begins a turn, the command corridor shifts to include
+some or all of the other bars in the direction of the turn as shown in
+Figure D-6. The number of bars included depends on the groundspeed
+and turn rate. The TF computer now generates commands based on the
+composite of terrain from all bars within the command corridor.
+
+SS ———— it ij a PROJECTED
+————— — 1 | to 7 7 £9 GROUND
+SS Sa ee a ee 1 tty 7 ¢ 7 / TRACK
+_————— 1loryy fs > /
+SS ——— 1 /
+————— | 7
+=< a on |
+=======; ltd
+———— al
+\SeE EY] 11
+EEERRHT \
+ae |
+CORRIDOR VEEEEE? CORRIDOR
+a
+LEGEND
+DISPLAYED
+yh\ N 1A peer BAR
+Enrmt\, A ni
+NON-TURNING FLIGHT TURNING FLIGHT STORED
+TERRAIN
+
+LAN-04-06
+
+Figure D - 6. Command Corridor.
+
+
+Text from LAN-4_TFR_Introduction_page_14.jpeg:
+Radar Altimeter Commands
+
+At times, such as flying over smooth water or dry lakes, there may be no
+TF radar returns to provide a g command. In these circumstances, the
+“NO TERRAIN” caution will be displayed and the TF computer uses the
+radar altimeter to compute the required g command by comparing current
+radar altitude to SC.
+
+E-SCOPE PRESENTATION
+
+The format for displaying TFR returns is known as an E-scope. An
+E-scope display is very similar to the B-scope used for air-to-air radars,
+with two important differences. First, the E-scope displays elevation
+versus range instead of azimuth versus range. Second, the range scale on
+the E-scope is nonlinear. The E-scope in the F-15E has a maximum
+display range of 10 nm, but the first 2 nm take up almost half of the
+display. This apparent “range distortion” provides greater detail of the
+terrain closest to the aircraft since that is the terrain most likely to
+produce “g” commands.
+
+LAN-4 D-8
+
+
+Text from LAN-4_TFR_Introduction_page_15.jpeg:
+The shape of the returns of an E-scope can best be understood by
+constructing the returns for a simple case such as the one shown in Figure
+D-7. The aircraft in this diagram is flying at 1000 feet AGL and is
+approaching a 1000-foot hill. Assuming the aircraft is in level flight, the
+TFR antenna is scanning +10° and -20° relative to the flight vector. Since
+the terrain between the aircraft and the hill is flat, we can use simple
+
+trigonometry to compute the range at which a given scan angle intersects
+the ground.
+
+ELEVATION vs RANGE
+
+SLANT RANGE = 1000 FT TERRAIN CLEARANCE
+
+—
+
+—_——
+ee ee
+—
+Se cams
+
+SHADOW
+
+POINT ANGLE SLANT RANGE
+
+-20° 2925'
+3860'
+5747’
+11494'
+28571
+30400
+
+LAN-04-07
+
+Figure D - 7. E-Scope Format.
+
+
+Text from LAN-4_TFR_Introduction_page_16.jpeg:
+In Figure D-8, the points and ranges from Figure D-7 are plotted on the
+E-scope. Notice point F is at about the same range as point E; however,
+its scan angle is different. This results in a “spike” on the E-scope. If all
+the returns are plotted and connected, you get the curved display as seen
+
+in Figure D-8.
+
++10°
+
+0°
+-2°
+
+TERRAIN
+
+|
+| —
+/
+
+-5°
+
+LAN-04-08
+
+Figure D - 8. Predicted E-Scope Video.
+
+LAN-4 D-10
+
+
+Text from LAN-4_TFR_Introduction_page_17.jpeg:
+TF DISPLAY INTERPRETATION
+
+The TF display has several important functions. It provides an overall
+“confidence check” that the TF system is operating properly, permits the
+crew to anticipate climb or dive commands, and allows detection of
+weather and electronic countermeasures. Your ability to interpret it
+quickly is essential to your success in TFR operations. This section
+discusses the basic elements of the TF display and how they relate to
+terrain returns.
+
+Zero Command Line
+
+The zero command line (ZCL) is a graphic representation of the zero
+incremental g line that the TF computer uses as a command model
+
+(Figure D-9).
+FOWOWOMOUC &
+a | H
+
+G450 = MEA it —
+OBSTACLE : +)
+WARNING LINE i — AIRCRAFT
+
+fs | FLIGHT
+
+aa r _J| VECTOR
+
+ZERO 3
+COMMAND LINE PF re
+
+ieee
+
+Figure D - 9. TF Command and Warning Lines.
+
+It is an indication of where the aircraft is flying relative to the SC. Ifthe
+ground is coincident with the zero command line, i.e., moving from right to
+left along the zero command line, the aircraft is at the desired SC for that
+particular distance and there is no change in the present g’s being
+commanded. If the ground is to the right of the zero command line, the
+aircraft is flying high. If the ground is to the left, the aircraft is low. The
+ZCL is dynamic and changes as SC and ground speed change (Figure D-10
+and Figure D-11).
+
+
+Text from LAN-4_TFR_Introduction_page_18.jpeg:
+Figure D -
+
+LAN-4
+
+dial
+
+
+
+Text from LAN-4_TFR_Introduction_page_19.jpeg:
+Obstacle Warning Line (OWL)
+
+This line is located to the left of the zero command line (Figure D-12). Its
+purpose is to provide you with a warning of approaching terrain that
+requires 2 Gs to clear (keeping in mind that 2 incremental Gs is the limit
+of normal TF operations). If the synthetic video penetrates this line, the
+voice warning, OBSTACLE AHEAD is activated and continues until the
+aircraft has climbed to where the terrain returns below the OWL.
+
+400 500 1000
+
+MEA
+1200
+
+OBSTACLE
+
+WARNING LINE AIRCRAFT
+FLIGHT
+VECTOR
+LINE
+ZERO
+
+COMMAND LINE
+
+Figure D - 12. TF Command and Warning Lines.
+
+Aircraft Flight Vector Line
+
+This line depicts the flight path of the aircraft (Figure D-12). It is
+dynamic as it travels up and down the display portraying climbs and
+dives. It provides the same type of information concerning the aircraft’s
+relationship to the ground as the velocity vector does in the HUD except
+that on the TF display you can also determine the range at which your
+flight path intersects the ground. During a TF climb to clear high terrain,
+such as a peak, the flight vector line provides an immediate crosscheck
+that the TF command will provide terrain clearance.
+
+
+Text from LAN-4_TFR_Introduction_page_2.jpeg:
+ADMINISTRATIVE INFORMATION
+
+This student workbook is designed to provide information on the F-15E,
+its systems and capabilities. It is not a sole source document, but is to be
+used in conjunction with other standard Air Force publications and
+technical manuals. If you find any differences between the material
+contained herein and other governing regulations, adhere to the
+regulations and notify the OPDR.
+
+Changes to this workbook are indicated with a heavy black line in the left
+margin.
+
+Forward recommendations for revision or change to 4 TS, SJAFB, NC
+275381.
+
+Supersedes: LAN-4, July, 1998
+
+OPDR: 4 TS
+
+Index of Changes
+
+Effective Date Pages Affected
+
+
+
+Text from LAN-4_TFR_Introduction_page_20.jpeg:
+TF Raw Video Position Indicator
+
+At the top right of the TF display is a raw video position indicator (Figure
+D-13). The dot on this scale represents the azimuth of the TF bar scan
+from which the raw video is selected. The indicated bar is the center bar
+when straight and level, and the outside bar of the command corridor
+when in a turn. The raw video position indicator provides a confidence
+check that the command corridor and lead-into-turn features are
+functioning properly. As the aircraft begins a turn the dot should shift in
+the direction of the turn.
+
+Pitch Command and Attitude
+
+At the top left portion of the display is the command steering and attitude
+display (Figure D-13). An artificial horizon and either a manual TF
+steering box, auto TF solid bar or dashed ATF bar (blended mode) is
+presented (depends upon the mode). A circle representing the velocity
+vector is presented for reference to the steering bars/box.
+
+MINIMUM
+EN ROUTE
+
+aiTcH =) | ALTITUDE
+
+300
+
+COMMAND R200 OFF
+
+AND ATTITUDE 450 MEA 1 TF RAW
+
+DISPLAY VIDEO
+POSITION
+INDICATOR
+
+re
+re
+
+l
+
+isiaial
+
+Figure D - 13.
+
+LAN-04-13
+
+LAN-4 D-14
+
+
+Text from LAN-4_TFR_Introduction_page_21.jpeg:
+Minimum En Route Altitude
+
+The MEA is always displayed on the E-scope display while operating
+during terrain following (Figure D-13). The MEA can be set in 1-foot
+increments from 400 to 30,000 feet via the UFC or through AFMSS, and
+loaded into the MC/DTM. MEA values are zeroed out and MEA OFF is
+displayed on the TF display when no MEA has been entered in the UFC
+point data submenu. The MEA displayed will be for the current aircraft
+sequence point.
+
+Terrain Video
+
+There are two types of terrain video displayed; one is synthetic, and the
+other is raw. Synthetic is video stored by the TF computer and displayed
+at full intensity out to 6 nm. As seen in Figure D-14, it contains terrain
+data along the projected flight path of the aircraft and is updated every
+0.5 seconds. All terrain following commands are generated from this
+video. Raw video is displayed at half intensity out to 10 nm. Raw returns
+are updated every 1.25 seconds during straight and level flight and every
+2.5 seconds during turns. Raw video provides the crew with confidence of
+proper TF radar operation, and is also used to detect weather and
+jamming. The displayed raw video comes from only one selected bar; the
+center bar when wings are level and the outer bar of the command
+corridor when turning.
+
+Zp
+
+Q
+5
+
+SYNTHETIC
+
+ma
+
+Ss 1
+-—T | ‘=
+a R
+OF 7 | 5
+D
+—* iz
+M
+
+=
+
+Wx1
+
+AI =
+
+Figure D - 14. Terrain Video (Level Ground).
+
+m
+Q
+a
+=
+
+D-15 LAN-4
+
+
+Text from LAN-4_TFR_Introduction_page_22.jpeg:
+While over level terrain, as seen in Figure D-15, the video returns trace a
+sharply rising curve from the lower left to the right of the display
+flattening as it curves to the right. This level ground display is easy to
+interpret; as long as the ZCL rides on the video, the aircraft is at the
+correct SC.
+
+a oC
+7 [200] 300 400 500 1000 \\
+R200
+
+G450 MEA e
+1900 Ltt
+
+SYNTHETIC
+
+TG
+
+= l
+‘ ECCM WX! LPI VLC y
+
+3
+
+Saar ear al ale
+
+Figure D - 15. Terrain Video (Level Ground).
+
+IL
+
+®
+
+LAN-O
+
+&
+
+-15
+
+LAN-4 D-16
+
+
+Text from LAN-4_TFR_Introduction_page_23.jpeg:
+Different terrain features produce different displays. Lakes, sand dunes,
+snow or other low reflectivity terrain will occasionally appear as a
+NO-SHOW area on the TF display (Figure D-16). Note that the video, if
+extended through the NO-SHOW, would join into a continuous smooth
+
+curve, similar to level ground.
+
+SERRE
+
+Figure D - 16. Terrain Video (NO-SHOW).
+
+LAN-4
+
+
+Text from LAN-4_TFR_Introduction_page_24.jpeg:
+Mountainous terrain or hills produce spikes in the video. If there is a hill,
+the display has a spike followed by a shadow (blank area). The terrain
+behind the hill produces returns at the line-of-sight angle (Figure D-17).
+Valleys produce displays that have shadows, however the returns display
+at a lower angle and a greater range.
+
+From a practical standpoint, the TF display produces a series of spikes
+and shadows as the terrain changes. If the ground returns, mountains,
+valleys, or level ground ride along the ZCL, you are at the correct altitude.
+If the returns penetrate the ZCL, anticipate a climb command. Ifthe
+ground returns are to the right of the ZCL anticipate a descent command.
+If the returns have penetrated the ZCL and are rapidly approaching the
+OWL, anticipate a flyup command when the returns penetrate the OWL.
+You can use the velocity vector to determine the point where the current
+aircraft flight vector would impact the ground if nothing were to change.
+
+TIGL)
+
+300 400 500 1000 fe)
+PB
+fY
+
+MOUNTAIN
+
+Oat
+
+—
+()
+———
+
+—
+
+Figure D - 17. Terrain Video (Mountainous).
+
+LAN-4 D-18
+
+
+Text from LAN-4_TFR_Introduction_page_25.jpeg:
+MANUAL, AUTO AND BLENDED TFR
+
+The aircrew can select manual, auto or blended TF operations to follow
+the TFR command steering. During manual TF operations, the pilot
+manually flies the command steering by centering the velocity vector in
+the manual terrain following box (MTF Box). During auto TF operations,
+the TF system is coupled to the autopilot and the AFCS flies the command
+steering. During coupled altitude hold and terrain following (blended)
+mode, the aircrew designates an altitude (radar or baro) to maintain until
+the terrain is within TF minimums. At this point AUTO TFR takes over
+until the obstacle is cleared. The aircraft then recovers to the preset
+RADAR or BARO altitude.
+
+Manual TF operation can be performed in an armed or unarmed condition.
+Armed manual provides a fail-safe protection that automatically flies the
+aircraft away from the ground when a system failure or unsafe condition
+exists. Unarmed manual provides flyup cues but does not automatically
+fly the aircraft away from the ground.
+
+During auto TF, automatic flyup protection is always provided, again
+automatically flying the aircraft away from the ground. Fail-safe flyups
+and TFR operations will be addressed in LAN-6 and LAN-7.
+
+TFR INTERFACES
+Displays Crosscheck
+
+TFR information is presented on the HUD, HUD repeater, ADI and the
+TF display. The HUD is the primary display for TF operations. The
+combination of NAV FLIR video and TFR command steering allows for a
+big picture understanding of the TF environment and flexible tactics, and
+terrain masking. Although the UFC may be used to change the SC, the
+TF display is the best source for TF parameter controls and is used to aid
+in the interpretation of terrain and flight path corrections needed during
+TFR flight. The ADI is especially useful anytime the HUD attitude
+information is difficult to interpret (e.g., recovery from a loft maneuver).
+
+
+Text from LAN-4_TFR_Introduction_page_26.jpeg:
+Systems Interface
+
+TF COMPUTER
+
+The TF computer receives information from the INS, TF radar and radar
+altimeter to determine the appropriate vertical g-command to maintain
+the selected clearance. This value is used to provide a g-command to the
+automatic flight control system (AFCS) while in auto TF, or to provide
+pitch steering in manual TF.
+
+CC/MPDP
+
+The CC generates the appropriate steering symbols, cautions and
+warnings. The MPDP provides the power to the display and is the backup
+to the CC in controlling mux bus messages during manual TF.
+
+G ERROR COMMAND MANUAL PILOT
+
+FLIGHT
+TF G COMMAND AUTO
+COMPUTER [> >| coer facial
+RADAR ALTITUDE RADAR |
+ALTIMETER l
+TERRAIN RANGE, SCAN ANGLE |
+—|
+TURN RATE BAUAR |
+SET CLEARANCE, RIDE, MODE CREW
+
+LAN-04-18
+
+Figure D - 18. Interfacing Systems.
+
+LAN-4 D - 20
+
+
+Text from LAN-4_TFR_Introduction_page_27.jpeg:
+FCC
+
+The FCC allows the engagement/disengagement and interruption of
+armed TF (manual or auto). The FCC controls basic CAS actuator and
+sensor operation, and responds to signals coming into the AFCS. These
+signals include the TF couple, flyup enable and radar altimeter override
+switch positions. In addition, the FCC performs several monitoring
+functions. These functions are: a low altitude monitor (LAM), flight path
+angle monitor (FPAM), and an airspeed monitor. The FCC is also the
+source of flyup commands in auto and armed manual TFR. Flyups are
+discussed further in LAN-6.
+
+INS
+
+INS data must be valid for proper TF operation. The data provided and
+compared is vertical velocity, pitch attitude and roll attitude. If both sets
+of data are invalid, then a subsequent flyup is generated using AHRS
+
+attitudes for reference.
+
+Radar Altimeter
+
+The radar altimeter is used by the NAV pod for altitude and terrain
+information when the TF radar does not see terrain. AIUs pass radar
+altimeter information from the radar altimeter to the TF computer and
+FCC. Data from both AIUs must be valid at 500 feet and below. The
+lesser of the two AIUs altitudes is used in the FCC's TF logic and the low
+altitude monitoring system. If the two altitudes differ by more than 30
+feet at SCs below 500 feet, radar altitude is considered invalid and a flyup
+results.
+
+The information used to fly manual or auto TF comes from several
+subsystems and a basic understanding of this interfacing is helpful. But a
+solid understanding of TF principles, E-scope presentation and
+interpretation is fundamental for safe terrain following operations.
+
+
+Text from LAN-4_TFR_Introduction_page_28.jpeg:
+(This Page Intentionally Blank)
+
+LAN-4 D - 22
+
+
+Text from LAN-4_TFR_Introduction_page_29.jpeg:
+END OF LESSON QUIZ
+
+The normal azimuth coverage for the 8 bar scanis__ left and right
+when straight and level.
+
+a. 10°
+b. 15°
+c. 20°
+d. 30°
+
+The TFR provides vertical steering cues which represent
+
+incremental g required to maintain SC.
+
+the position of their flight vector in the HUD.
+a graphic representation of the OWL line.
+the position of the TFR warnings.
+
+pe op
+
+The command model used by the TF radar has a maximum of
+incremental Gs available during normal TFR operations.
+
+a. +4Gs
+b. +38Gs
+c. +2 Gs
+d. +1Gs
+
+The radar altimeter is required for normal TF operations because
+
+a. the LAWS is the only system employing the radar altimeter.
+b. when climb and dive commands are not provided by the TF
+radar, the radar altimeter performs that function.
+
+the radar altimeter computes triangulated range.
+
+d. itis responsible for certain TF cautions.
+
+©
+
+TFR lead-into-turn capability
+a. uses radar returns without moving the radar scan.
+
+b. moves the radar scan in the direction of the turn.
+Cc. is the same as look-into-turn.
+
+E-1 LAN-4
+
+
+Text from LAN-4_TFR_Introduction_page_3.jpeg:
+LANTIRN
+
+@}
+a CO
+
+cor
+1 0 0) 7 9 oo 0
+
+COVER
+
+TFR INTRODUCTION
+
+INTRODUCTION
+
+This workbook is your guide in studying the F-15E terrain following radar
+(TFR). It contains information about LANTIRN, TFR principles, TFR
+interfaces and TFR displays.
+
+CONTENTS:
+
+INT RODDLUC PION sc case sae sus anes cose anes sane anus suis nase ans sans aus ouch sens ans wants aa ace os A-1
+CRITERION REFERENCED OBJECTIVES (CROs)............ eee B-1
+STUDENT PREPARATION REQUIREMENTS ...00.. eee C-1
+TEXT oc eececccceeesneeeceessseeeceeesseeeccesssaeeeceessaeeeceesssaeeeseeeeaeeesenenaes D-1
+END OF TEXT QUIZ oo... eeccceeenecceseecessneecesaeesesaeeessaeesensaeeens E-1
+GLOSSARY 00. eeeccceeeneeesneeecesaceeesaeecesaeeeessaeesesaeesesaeeseesaeeseeaaeeeseas F-1
+
+
+Text from LAN-4_TFR_Introduction_page_30.jpeg:
+d. is HOTASable from the FCP only.
+
+LAN-4 E-2
+
+
+Text from LAN-4_TFR_Introduction_page_31.jpeg:
+Use the following illustration to answer this question.
+
+R300
+G450 MEA
+
+Figure F - 1.
+
+6. What kind of terrain is displayed?
+
+a. Flat
+
+b. Water
+
+c. Mountainous
+d. Desert sand
+
+LAN-04-19
+
+
+Text from LAN-4_TFR_Introduction_page_32.jpeg:
+Use the following illustration to answer this question.
+
+’ o's
+/ 1
+7 :
+1 ea!
+i #
+ssS=
+
+ECCM WX1
+
+eee
+
+Figure F - 2.
+
+LAN-04-20
+
+7. What kind of terrain is displayed?
+
+a. Flat
+
+b. Rolling
+
+Cc. Mountainous
+d. Rocky
+
+LAN-4 E-4
+
+
+Text from LAN-4_TFR_Introduction_page_33.jpeg:
+Use the following illustration to answer this question.
+
+LAN-04-21
+
+Figure F - 3.
+8. The aircraft is the set clearance limit.
+a. above
+b. below
+Cc. at
+E-5
+
+LAN-4
+
+
+Text from LAN-4_TFR_Introduction_page_34.jpeg:
+Use the following illustration to answer this question.
+
+(lei
+
+Ol
+
+A
+F
+1
+v
+s
+fo)
+F
+T
+
+/ - oe
+1 “a
+¢ -'
+i ee
+/ :
+/ oa =
+Ul a
+>=
+A
+
+ie
+
+2
+
+/ fu
+Fa |
+ECCM WX1 LPI
+
+es
+PII IM
+
+LAN-04-22
+Figure F - 4.
+9. The aircraft is the set clearance limit.
+a. above
+b. below
+c. at
+
+LAN-4 E-6
+
+
+Text from LAN-4_TFR_Introduction_page_35.jpeg:
+Use the following illustration to answer this question.
+
+é A
+
+1
+/ oS 1
+l foe el
+
+ECCM WX1
+
+PEEL
+
+Figure F - 5.
+
+10. What kind of terrain is displayed?
+
+a. Flat
+
+b. Rolling
+
+c. Mountainous
+d. NO-SHOW
+
+LAN-4
+
+
+Text from LAN-4_TFR_Introduction_page_36.jpeg:
+11. Compared to soft ride, hard ride generates dive commands
+
+aggressively.
+a. more
+b. less
+c. no more, or less
+
+LAN-4 E-8
+
+
+Text from LAN-4_TFR_Introduction_page_37.jpeg:
+(This Page Intentionally Blank)
+
+LAN-4
+
+
+Text from LAN-4_TFR_Introduction_page_38.jpeg:
+AFCS
+
+CC
+
+ECM
+
+FPAM
+
+MEA
+
+OWL
+
+SC
+
+TF
+
+TFR
+
+ZCL
+
+GLOSSARY
+
+Automatic flight control system
+Central computer
+
+Electronic countermeasures
+Flight path angle monitor
+
+Low altitude monitor
+Minimum En Route Altitude
+Obstacle warning line
+
+Set clearance
+
+Terrain following
+
+Terrain following radar
+
+Zero command line
+
+LAN-4
+
+
+Text from LAN-4_TFR_Introduction_page_39.jpeg:
+(This Page Intentionally Blank)
+
+LAN-4 F-2
+
+
+Text from LAN-4_TFR_Introduction_page_4.jpeg:
+CRITERION REFERENCED OBJECTIVES (CROs)
+
+1. Identify TFR scan pattern, command logic, and hard and soft ride
+parameters.
+
+2. Identify and/or interpret TFR display symbology.
+
+3. Given a TF display, identify the following:
+a. Aircraft flight path in relation to the set clearance limit.
+b. Aircraft flight path in relation to the depicted terrain.
+c. Mountainous, flat and NO-SHOW terrain.
+
+REFERENCES
+TO 1F-15E-34-1-1
+
+LAN-4 B-1
+
+
+Text from LAN-4_TFR_Introduction_page_5.jpeg:
+STUDENT PREPARATION REQUIREMENTS
+
+BEFORE CLASS
+
+Study the information contained in this workbook and complete the End of
+Text Quiz.
+
+
+Text from LAN-4_TFR_Introduction_page_6.jpeg:
+(This Page Intentionally Blank)
+
+LAN-4 C-2
+
+
+Text from LAN-4_TFR_Introduction_page_7.jpeg:
+TEXT
+
+LANTIRN OVERVIEW
+F-15E Terrain Following Capability
+
+The navigation pod contains the NAV FLIR, which allows the crew to
+“see” ahead at night, and a terrain following radar (TFR) which provides
+manual and automatic TF capabilities. This workbook addresses the TFR
+logic and displays; however, it is important to recognize the TFR and NAV
+FLIR are used together during TFR operations. Most of the time the
+aircrew will reference the FLIR image and fly the TFR symbology
+commands displayed in the HUD.
+
+TFR Associated Systems
+
+The primary associated systems for TF operations are the NAV pod,
+AFCS, radar altimeter, AIUs and the central computer (CC). The TF
+computer receives information from the INS, TF radar and radar
+altimeter. It then determines the appropriate vertical g command, which
+is sent to the automatic flight control system (AFCS) while in auto TF or
+depicted by a pitch command box in manual TF. The CC displays the
+appropriate steering symbols, cautions and warnings on the HUD/ HUD
+repeater, ADI and TF displays.
+
+TFR PRINCIPLES
+
+The purpose of a terrain following radar system is to scan the terrain
+ahead of the aircraft, determine which terrain will fall in the projected
+flight path, and generate climb and dive commands to maintain the
+selected reference altitude. This selected reference altitude is known as
+the set clearance limit, or SC. This section explains the nature of a TF
+radar scan, and how the returns from that radar are used to generate
+command steering.
+
+
+Text from LAN-4_TFR_Introduction_page_8.jpeg:
+TF Radar Scan
+
+The TFR scans in both a vertical (“nodding”) and a horizontal (“sweeping”)
+plane relative to the earth, using a 5.5° beam of pulsed energy to detect
+obstacles within the scan. In the normal mode, the antenna scans in
+elevation from +10° to -20°, referenced to the velocity vector in a climb or
+level flight, and referenced to % the dive angle in a dive (Figure D-1).
+
++10°
+aN VV SCAN
+LEVEL OR REFERENCE
+CLIMBING
+-20°
+
++5°
+SCAN
+REFERENCE
+-5°
+VV = -10°
+
+LAN-04-01
+
+Figure D - 1. Vertical Scan.
+
+LAN-4 D-2
+
+
+Text from LAN-4_TFR_Introduction_page_9.jpeg:
+The antenna sweeps a total of 30°: 15° left and 15° right of the flight
+vector in an 8-bar raster. As the aircraft turns, the TF system shifts the
+antenna coverage to provide more information in the direction of turn
+providing “Lead into Turn” capabilities (Figure D-2).
+
+LAN-04-02
+
+Figure D - 2. TF Normal Antenna Scan.
+
+

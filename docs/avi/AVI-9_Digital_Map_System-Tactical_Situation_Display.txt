@@ -1,0 +1,1288 @@
+Text from AVI-9_Digital_Map_System-Tactical_Situation_Display_page_1.jpeg:
+SUPPORTS COURSES
+FIS5EBQ
+
+FISETX
+
+FISESOC
+
+ACADEMIC STUDENT WORKBOOK
+F-15E
+
+AVIONICS
+AVI-9
+DIGITAL MAP SYSTEM/TACTICAL
+SITUATION DISPLAY (DMS/TSD)
+
+FEBRUARY 1999
+
+(SUITE 3 OFP)
+
+AIR COMBAT COMMAND
+
+
+Text from AVI-9_Digital_Map_System-Tactical_Situation_Display_page_10.jpeg:
+Introduction to the Display
+
+Figure D-2 shows a very small portion of preplanned route A, target 8.A
+and offset point 8.01A. Annotated on the diagram are several of the
+symbols that you may see while using the TSD. More symbols are shown
+in other figures. The route is entered either manually through the UFC
+point data submenu or via the DTM. The range markers, both along track
+and cross track, simply provide the user with visual cues to judge the
+distance relationship between map geographic points and the aircraft
+present position.
+
+6, _ aif ® NEXT HEADING
+|
+BULLSEYE
+ROUTE may (SR Nae
+. Zi TARGET WITH
+= 8.01 — IR INDICATOR
+RANGE / , OFFSET POINT
+MARKERS 0) =| WITHHRMCUE
+10 v=
+.| =v BEARING AND RANGE
+AS c FROM BULLSEYE (BE)
+INCOMMAND  =4 bo L 5 TO OWN AIRCRAFT
+( G4 —
+Cine =i vA gas? | [31 — DISTANCE FROM
+sot ron | sa | a Tous) CENTERLINE MARKS
+A \_ ] A
+W er OnOononono com
+©) ® AVI-09-04
+
+Figure D - 2. Sample Map.
+
+The groundspeed (GS) and bank angle (BA) selections at PB #5 and PB
+#4, respectively, allow computation and display of a route course line
+adjusted for planned aircraft turn radius. GS selections are 0, 420, 450,
+480, 510, 540, 570 and 600. If 0 is selected, turn radius is not displayed
+(i.e., the route turn points are connected by straight lines). Any BA and
+GS selection other than zero provides the appropriate turn radii and
+magnetic ground track from point to point. The groundspeed and bank
+angle options are only available when the route at PB #9 matches the
+route at PB #10 on the UFC Menu 1 or Data 1 display (e.g. current
+aircraft route). BA is selectable on all TSD scales and is used to make
+calculations such as ETA/ETE. BA selections are 30°, 45° and 60°.
+
+AVI-9 D-4
+
+
+Text from AVI-9_Digital_Map_System-Tactical_Situation_Display_page_11.jpeg:
+Display Controls
+
+In order to use the TSD controls and HOTAS, you must be in command of
+the display (Figure D-3). A “SYSTEM IN USE” cue is displayed if a crew
+member attempts to take command while the other is slewing a sensor cue
+
+or commanding a sensor to the cue position (all through HOTAS action).
+
+PB #1 causes avoidance point rings to be displayed or removed from the
+TSD. RING is boxed when selected and the rings are displayed. The
+
+avoidance points are automatically displayed (regardless of whether RING
+is boxed or unboxed) if loaded for the route. Button numbers 2-3 have no
+
+control function on this display.
+
+SENSOR CUE
+POSITION
+READOUT
+
+HRM CUE
+SYMBOL WITH
+POINT TRACK
+DOT
+
+SENSOR
+RANGE AND
+BEARING LINE
+
+—_
+OO
+
+i?
+Cl
+
+ei |
+
+[1
+
+Figure D - 3. Display Controls.
+
+AIM POINT
+
+STEER POINT
+
+AVOIDANCE POINT
+AND RING
+
+AIRCRAFT SYMBOL
+AND MAG. GROUND
+TRACK
+
+AVI-09-05
+
+BOT/CTR: Pressing PB #6 changes the aircraft position on the TSD.
+With CTR selected, the aircraft symbol is positioned in the
+middle of the display. BOT displays 75% of the selected
+range in front of the aircraft. The maximum range that can
+
+be displayed in front of the aircraft is 60 nm, using an 80 nm
+display with BOT selected. The maximum range that can be
+
+displayed behind the aircraft is 40 nm, on an 80 nm display
+
+with CTR selected.
+
+AVI-9
+
+
+Text from AVI-9_Digital_Map_System-Tactical_Situation_Display_page_12.jpeg:
+RDR/FLIR:
+
+Display
+Window Size:
+
+Route:
+
+AVI-9
+
+PB #7 selects the sensor for cueing, either A/G radar or
+targeting IR. When either one is selected, its
+corresponding cue symbol is displayed at the end of the
+range and bearing line. The range and bearing line is
+controlled by the TDC. The sensor cue position
+(azimuth and range) is displayed in the upper left
+corner of the display.
+
+The term FLIR (forward looking infrared) can be
+confusing as it is occasionally used interchangeably
+with the night visual system (NAV FLIR) and
+targeting IR. FLIR on the TSD always refers to the
+targeting IR. Sensor selection is “HOTASable” in the
+rear cockpit with the castle switch; it is not
+“HOTASable” in the front cockpit. HOTAS will be
+described later in this workbook.
+
+HRM patch maps are normally commanded from
+
+the A/G radar display. However, they can be
+commanded from the TSD. PB #8 selects and displays
+the HRM patch map display window. Display window
+(DW) size is “HOTASable” in both cockpits with the
+auto acq switch. The sizes available are 1.3, 3.3, 4.7
+and 10.0 nm. A 0.67 HRM DW can be selected on the
+air-to-ground radar display, but not from the TSD.
+
+The system does not allow an HRM patch map to be
+made of the entire display, i.e., to get a map of 10.0 nm
+square, at least 20 nm range must be displayed on the
+TSD. The other limitation imposed is that a 1.3 map
+can only be commanded from 3.4 to 39.33 nm from the
+aircraft, a 3.3 map from 4.4 to 48.65 nm, and a 4.7 map
+from 5.2 to 77.65 nm. Within 8° of the nose and
+outside of 60° from the aircraft ground track, a patch
+map cannot be made (exclusion zone). An “X” appears
+in the display window if any of the above limitations
+exist. HRM patch mapping will be covered in later
+lessons.
+
+PB #9 displays the route selection. This button can be
+cycled through routes A, B and C. There is no
+requirement to have the TSD route match the current
+INS/MN route. This means the B route could be
+displayed showing the outline of a MOA or restricted
+area while the INS/MN is providing steering to a
+
+D-6
+
+
+Text from AVI-9_Digital_Map_System-Tactical_Situation_Display_page_13.jpeg:
+sequence point on Route A, such as 5A, selected at PB
+#10 on the UFC Menu 1 or Data 1 display.
+
+BIAS: When selected at PB #10, this feature displays a test frame
+(Figure D-4) used for symbology alignment over the displayed
+map.
+
+TEST FRAME GRID
+
+X SYMBOL
+
+AVI-09-06
+
+Figure D - 4. BIAS.
+
+After selection, the TDC is used to center the “X” symbol within the test
+frame video. The X symbol is stationary while the test frame grid + moves
+by inputs from the TDC. The TSD BIAS should be checked on every flight
+to ensure aircraft position, sensor cueing, steer point and course line
+symbology is correctly overlaid on the map.
+
+The code in the upper right quadrant, 111b in Figure D-4, indicates which
+RMR filmstrip is loaded.
+
+RECAL: Map video calibration can be accomplished by selecting
+RECAL at PB #6. When boxed, a 60-second cycle
+begins. TSD routes and overlays are displayed;
+however, no map will be displayed. RECAL is not
+normally selected since map calibration is automatic at
+power up. If the map is not clear, select RECAL to
+initiate another calibration.
+
+D-7 AVI-9
+
+
+Text from AVI-9_Digital_Map_System-Tactical_Situation_Display_page_14.jpeg:
+M:
+RCD:
+
+Range
+
+Selection:
+
+ZM:
+
+REW:
+
+AVI-9
+
+PB #11 selects the menu display.
+Pressing PB #12 records the display.
+
+PB #13 and #14 are used to either decrease or
+
+increase the display range. Selectable ranges are 10,
+20, 40 and 80 nautical miles. Map scale is HOTASable
+from the RCP using the castle switch.
+
+This button permits expansion of the map by a factor
+of 10/7, allowing for greater magnification (about
+1-1/2> times) of details. The range tic marks at the left
+side and bottom also reflect the reduced range. The
+reduced range is indicated in the range window
+between PB #138 and #14 (Figure D-5). The resulting
+zoom ranges are 7, 14, 28 and 56.
+
+47
+
+M
+I 3/5 280-35
+
+YO BOT r RDR | #3 [_A__| BIAS TS)
+Seen
+
+|
+3.
+
+AVI-09-07
+
+Figure D - 5. Zoom Display.
+
+Selecting PB #16 boxes REW and rewinds the moving map
+cassette. Rewinding must be accomplished before the film
+can be removed from the remote map reader. “FILM
+REWOUND?” is displayed when the procedure is complete.
+Ensure the white dot is visible on the cassette before
+removing.
+
+
+Text from AVI-9_Digital_Map_System-Tactical_Situation_Display_page_15.jpeg:
+PP:
+
+The legend below PB #17 normally shows PP (present
+position). The PP format always displays the aircraft symbol
+in the BOT or CTR position and displays the selected route
+steer points in sequence (provided the range displayed is
+adequate). PB #17 is used to select any point for TSD
+navigation route look ahead. The first depression, with a
+blank scratchpad, will display the first point on the route.
+Each subsequent depression displays the follow-on route
+points in order. When look ahead is selected, all points are
+presented in the center of a north-up display, and the selected
+point number is displayed below PB #17. The range scale
+may be changed and will remain at the last setting until
+changed again. Also, the aircraft symbol is removed from the
+display (Figure D-6). In the look ahead display, the sensor
+cue range and bearing line will originate from the direction of
+the aircraft (i.e., the tail points back to the A/C). The look
+ahead function is “HOTASable” with the FCP coolie and the
+RCP castle switches. Coolie “up” in FCP or castle switch
+“down” in RCP selects the look ahead function starting at the
+first route sequence point.
+
+a's 280-35
+
+| A | BIAS “)
+
+AVI-09-08
+
+Figure D - 6. Look Ahead Display.
+
+D-9 AVI-9
+
+
+Text from AVI-9_Digital_Map_System-Tactical_Situation_Display_page_16.jpeg:
+Any look ahead point on the selected route can also be selected directly by
+typing the desired sequence point number in the scratchpad of the UFC
+and then pressing PB #17 on the MPD/MPCD. Return to PP can only be
+done with HOTAS by depressing the auto acq switch in the cockpit in
+command of the TSD.
+
+If for some reason an invalid sequence point (decimal point error or a point
+not on the route) is selected with the UFC, “ERROR” appears under PB
+#17 for 5 seconds (Figure D-7), then the display returns to its previous
+identification.
+
+M
+4b 290-45
+
+| a [pas _/
+Lj|
+
+AVI-09-09
+
+Figure D - 7. Sequence Point Error.
+
+Turn radius is displayed out of each look ahead point, depending on the
+selections at PB #4 and #5.
+
+AVI-9 D-10
+
+
+Text from AVI-9_Digital_Map_System-Tactical_Situation_Display_page_17.jpeg:
+DCL:
+
+INV:
+
+Pressing this button places a box around the option and
+declutters the display by removing most of the symbology
+normally displayed. Active radar coverage, FLIR active
+line-of-sight and sequence point information are removed.
+The only symbology left on the display is the present position
+(PP) aircraft symbol, the sensor cue with a range and bearing
+line, and bullseye range and bearing (Figure D-8). Pressing
+the button again unboxes DCL and restores those removed
+items to the display.
+
+Az 031R INV [DCL
+R 26
+
+— 20
+
+AVI-09-10
+
+Figure D - 8. Decluttered Screen.
+
+This option permits improved night viewing of the map data
+when it is on a monochromatic display (MPD). The display
+format switches from standard video to inverse video, also
+called reverse video. The effect is similar to viewing a
+negative image of a photograph. This option is only available
+on an MPD (unavailable on an MPCD).
+
+D-11 AVI-9
+
+
+Text from AVI-9_Digital_Map_System-Tactical_Situation_Display_page_18.jpeg:
+Map Display Advisories
+
+FILM This indicates that the film is rewound and ready to
+REWOUND: be removed (Figure D-9).
+
+VIDEO
+
+CALIBRATION: RECAL is in progress.
+
+CASSETTE
+
+DOOR OPEN: Film access door in RCP is open.
+
+WOUND
+
+M
+
+4 AN 350-35
+
+7 | A [pas _/
+a i,
+
+AVI-09-11
+
+Figure D - 9. Advisories on Display.
+
+AVI-9 D-12
+
+
+Text from AVI-9_Digital_Map_System-Tactical_Situation_Display_page_19.jpeg:
+SCALE NOT
+AVAILABLE:
+
+MAP NOT
+AVAILABLE:
+
+INVALID PP:
+
+Primary
+Designated
+
+Target (PDT):
+
+PRIMARY,
+DESIGNATED
+TARGET
+
+This indicates that there is no chart of the scale
+requested in the RMR.
+
+If there is no filmstrip (of any scale) for the commanded
+position, this message is displayed.
+
+This message is displayed when the present position
+data is invalid. In addition, the map is frozen at the last
+valid position known to the central computer.
+
+Figure D-10. This symbol (in red on a MPCD) represents
+an aircraft being tracked by the A/A radar. It is
+positioned at the actual range and bearing and its
+orientation depicts its approximate relative heading. To
+have this information available for display, the radar
+must be in an A/A track mode.
+
+AVI-09-12
+
+Figure D - 10. Priority Designated Target.
+
+D-18 AVI-9
+
+
+Text from AVI-9_Digital_Map_System-Tactical_Situation_Display_page_2.jpeg:
+ADMINISTRATIVE INFORMATION
+
+This student workbook is designed to provide information on the F-15E,
+its systems and capabilities. It is not a sole source document, but is to be
+used in conjunction with other standard Air Force publications and
+technical manuals. If you find any differences between the material
+contained herein and other governing regulations, adhere to the
+regulations and notify the OPDR.
+
+Changes to this workbook are indicated with a heavy black line in the left
+margin.
+
+Forward recommendations for revision or change to 4 TS, SJAFB, NC,
+275381.
+
+Supersedes: AVI-9, July, 1998
+
+OPDR: 4 TS
+
+Index of Changes
+
+Effective Date Pages Affected
+
+
+
+Text from AVI-9_Digital_Map_System-Tactical_Situation_Display_page_20.jpeg:
+QUESTIONS
+
+1. The maximum range displayed in front of the aircraft on the TSD is
+
+a. 120nm.
+b. 80nm.
+c. 60 nm.
+d. 40nm.
+
+2. Selecting ZM
+
+expands the map displayed.
+speeds to the next steer point.
+examines the next aim point.
+examines the next steer point.
+
+pe op
+
+3. The declutter option (DCL) eliminates every symbol from the TSD
+
+except
+
+a. steer point and aircraft position information.
+
+b. — steer points.
+
+c. the aircraft symbol.
+
+d. __ the aircraft symbol, sensor cue with a range and bearing line,
+
+and bullseye range and bearing.
+
+4. An additional aircraft symbol present on the TSD represents
+
+your projected aircraft position.
+
+a target (PDT) being tracked by the A/A radar.
+an airfield target.
+
+your wingman's position.
+
+ao oP
+
+AVI-9 D-14
+
+
+Text from AVI-9_Digital_Map_System-Tactical_Situation_Display_page_21.jpeg:
+5.
+
+The CTR option
+
+a.
+
+places the next steer point at the center of a 10 nm, north-up
+display.
+
+places the aircraft symbol in the center of the display.
+
+is a method of tying in the TEWS with the TSD and displaying
+both on the same scope.
+
+displays a 100 nm area around the aircraft with all threats and
+targets.
+
+AVI-09-1
+
+Figure D - 11.
+
+Using the display above, what does the crosshair symbol indicate?
+
+a. Current HRM patch mapping position
+
+b. Mark point
+
+c. HRMcue
+
+d. Aim point
+
+The numbers below the present position aircraft symbol on the TSD
+represent
+
+a. magnetic heading.
+
+b. magnetic ground track.
+
+c. true heading.
+
+d. __ true ground track.
+
+D-15 AVL-9
+
+
+Text from AVI-9_Digital_Map_System-Tactical_Situation_Display_page_22.jpeg:
+ANSWERS
+
+1. c¢
+2. a
+3. d
+4. b
+5. b
+6. a
+7. b
+
+AVI-9 D-16
+
+
+Text from AVI-9_Digital_Map_System-Tactical_Situation_Display_page_23.jpeg:
+HOTAS Controls
+
+In addition to the controls around the MPD/MPCD, there are several
+controls located on the FCP stick and throttles as well as the RCP hand
+controllers.
+
+FCP Stick
+
+The auto acquisition switch (Figure D-12) is the only stick-mounted
+HOTAS control for the TSD. It controls the HRM display window (radar
+footprint) size. Moving the switch forward reduces the size and moving it
+aft increases the size. The size of the footprint determines the size of the
+HRM patch map when commanded.
+
+Depressing the auto acq switch returns the TSD to a present position
+format from a look ahead format.
+
+AUTO ACQ SWITCH
+
+SWITCH SWITCH POSITION / ACTION
+AUTO ACQ FORWARD AFT DOWN RELEASE
+SMALLER CUE | LARGER CUE | RETURN TO
+FOOTPRINT | FOOTPRINT P. P. MAP
+
+Figure D - 12. FCP Stick Switchology.
+
+AVI-09-14
+
+
+Text from AVI-9_Digital_Map_System-Tactical_Situation_Display_page_24.jpeg:
+FCP Throttle
+
+The FCP throttles have three different TSD controls (Figure D-13).
+
+COOLIE
+
+SWITCH
+
+COOLIE
+
+LASER FIRE
+
+Coolie Switch:
+
+TDC:
+
+AVI-9
+
+LOOK AHEAD
+(QUICK STEP)
+
+TRANSDUCER
+
+CONTROL CUE TGT IR)
+
+DEPRESS & RELEASE
+CUE TRACK / UNTRACK
+
+PATCH MAP OR
+
+AVI-09-15
+
+Figure D - 13. FCP Throttle Switchology.
+
+The coolie switch is a four position switch located
+
+on the inboard front corner of the right throttle. Only
+one switch position is used for the TSD. Moving the
+coolie switch up (quick step) steps to the first
+sequence point (look ahead format).
+
+Just outboard of the coolie switch is the TDC. It
+slews the sensor cue at the end of a range and
+bearing line. Pressure on the TDC moves the cue
+left, right, out (up on the display), or in (down on the
+display). When the TDC is pressed and released, it
+commands the sensor (radar/TGT IR) to slew to the
+point defined by the sensor cue (hand-off).
+
+
+Text from AVI-9_Digital_Map_System-Tactical_Situation_Display_page_25.jpeg:
+Laser Fire This switch is outboard of the TDC, on the left
+
+Switch: Throttle. Pressing and releasing the switch
+alternately commands point track/untrack depending on
+the state (track/untrack) of the sensor cue when the
+switch is pressed.
+
+RCP Hand Controller
+
+There are 4 different TSD HOTAS controls on the hand controller (Figure
+D-14).
+
+"CASTLE" SWITCH
+
+TDC
+SWITCH SWITCH POSITION / ACTION
+TRANSDUCER| DEPRESS & RELEASE
+RANGE /
+une BEARING
+LINE AUTO ACQ
+CONTROL
+TRIGGER [FIRST DETENT [FIRST DETENT/ RELEASE] SECOND DETENT
+ee TRACK / UNTRACK HAND-OFF
+(COMMAND HEM
+ATCH MAP OR
+CUE TGT IR)
+auTo aco [<FORWARD AFT DOWN |
+SMALLER QUE ILARGER CUE FOOTPRINT] RETURN TO P. P.
+FORWARD TRIGGER
+CASTLE | DECREASE | INCREASE | sensor LOOK AHEAD
+aS ea SELECT (QUICK STEP)
+AVI-09-16
+
+Figure D - 14. Hand Controller Switchology.
+
+D-19 AVI-9
+
+
+Text from AVI-9_Digital_Map_System-Tactical_Situation_Display_page_26.jpeg:
+TDC:
+
+Trigger:
+
+Auto Acq
+Switch:
+
+Castle
+Switch:
+
+AVI-9
+
+This switch works like the FCP throttle TDC switch. It
+slews the sensor cue; it does not, however, hand-off.
+
+This switch works like the FCP throttle laser fire switch;
+at the first detent, it commands TSD sensor cue point
+tracking. It also works like the front TDC; at the second
+detent, it commands hand-off of the sensor. Depending on
+the sensor selection on the TSD, hand-off means the TGT
+IR slaves to the cue position or the A/G radar starts patch
+mapping at the cue position.
+
+This three position switch works exactly like the
+FCP auto acq switch for TSD. Forward commands a
+smaller DW size. Aft commands a larger DW size.
+Depress (down) commands return from a look ahead
+display to a present position display.
+
+Pushing down on the castle switch (quick step) selects
+look ahead to the first sequence point, just as the coolie
+switch on the FCP throttle does. Moving the castle switch
+forward decreases the map range scale and moving it aft
+increases the map range scale. Moving the castle switch
+to the left toggles between the radar and the targeting IR
+sensor cue. The front cockpit has no HOTAS control for
+changing from one sensor to the other.
+
+
+Text from AVI-9_Digital_Map_System-Tactical_Situation_Display_page_27.jpeg:
+Remote Map Reader (RMR)
+Location
+
+The remote map reader is located in the rear cockpit, on the right console
+(Figure D-15).
+
+Type Film
+
+The RMR generates a color moving map video signal from aeronautical
+chart data reproduced on 35mm filmstrips. Currently, there is film for
+virtually all continental U.S. locations. (The film cassette is loaded and
+can be changed in flight). One cassette covers a geographic area large
+enough for almost any mission (e.g., Seymour Johnson to the west coast
+on a single cassette).
+
+FILM CASSETTE
+DOOR
+
+AVI-09-17
+
+Figure D - 15. Remote Map Reader.
+
+D-21 AVI-9
+
+
+Text from AVI-9_Digital_Map_System-Tactical_Situation_Display_page_28.jpeg:
+Scale
+
+The scale of the map displayed on the TSD is dependent on the range
+scale selected by the crew.
+
+@ For 80 nm display, the RMR uses a JNC or, 1:2,000,000 scale.
+@ For 40 nm display, the RMR uses a ONC or, 1:1,000,000 scale.
+@ For 20 nm display, the RMR uses a TPC or, 1:500,000 scale.
+
+@ For 10 nm display, the RMR uses a JOG or, 1:250,000 scale.
+INTERFACES
+
+Radar
+
+High Resolution Map
+
+In the discussion so far, all references to A/G radar hand-off have meant
+the high resolution map (HRM) patch mapping mode. This very high
+quality ground mapping operation can produce resolutions as fine as 8.5
+feet on patch maps constructed from as far away as 39.33 nm.
+
+The high resolution map can be interfaced through the TSD to make a
+“patch map” of a specific area.
+
+Real Beam Map
+
+The RBM scan pattern is displayed on the TSD screen either as a wedge
+or baseball home plate shape originating from the aircraft present
+position.
+
+If less than a full sweep is selected at PB #9 (on the A/G radar display),
+the scan pattern will appear on the TSD as a “V” centered on the A/G
+radar cursor.
+
+When RBM is deselected on the A/G radar display, the wedge, baseball
+
+home plate or “V” shape will remain displayed on the TSD at the last
+position displayed.
+
+AVI-9 D - 22
+
+
+Text from AVI-9_Digital_Map_System-Tactical_Situation_Display_page_29.jpeg:
+Targeting IR
+
+The targeting IR is a weapons delivery related system. This system can
+be cued from the TSD to a line of sight for a specific geographic coordinate
+location (viewed on the TSD map).
+
+Upfront Control
+
+The upfront control interacts with the TSD by enabling the crew members
+to directly select look ahead points. By typing a point identification on the
+scratchpad, and then pushing PB #17 on the TSD, that point will appear
+centered on the TSD in a north-up format.
+
+Inertial Navigation System (INS) / Embedded GPS/INS (EGI)
+
+The INS or EGI provides aircraft attitude, heading, velocity and
+acceleration information to (among other systems) the CC. With INS
+selected as the present position source, the CC uses INS data to place the
+aircraft symbol (INS present position) and sequence points on the TSD.
+With EGI as the present position keeping source, the CC uses EGI data to
+place the aircraft position and sequence points. The CC also uses
+INS/EGI data to cue the A/G radar/targeting IR to the position selected on
+the TSD (radar display window cue, targeting IR cue). Once the sensor is
+cued, the sensor position is maintained by the CC using MN data, if INS is
+the PPKS or EGI data if EGI is the PPKS.
+
+D - 238 AVI-9
+
+
+Text from AVI-9_Digital_Map_System-Tactical_Situation_Display_page_3.jpeg:
+AVIONICS
+
+COVER
+
+DIGITAL MAP SYSTEM/TACTICAL SITUATION DISPLAY
+(DMS/TSD)
+
+INTRODUCTION
+
+This workbook is your guide in studying the F-15E digital map
+system/tactical situation display (DMS/TSD). It familiarizes you with the
+components, nomenclature and operational characteristics of the
+DMS/TSD.
+
+CONTENTS:
+
+INTRODUCTION 0000. eeecccesseeceesececesceeeesaceceseeecesaeesesnaeesesaeesenaees A-1
+
+CRITERION REFERENCED OBJECTIVES (CROs).............eeeeeeeeeeeeees B-1
+
+STUDENT PREPARATION REQUIREMENTS . 0.0... eee eeeeeeees C-1
+
+TEXT occ ccceeessceeccesssneeeccessseeecceessseeeceeessaeeeceessaeeeseeessaeeeseeeaeeeseeey D-1
+EEN DD OP TET UIA ccs anus cons save seen suse anus ais case ass oats aus avs see ews cents eae asa oun N/A
+GLOSSARY. eee eecceessceecesneeeesseeecesaeecesaeesesaeecessaeeeesaeeessaeesesaeesesaeeens F-1
+
+A-1 AVI-9
+
+
+Text from AVI-9_Digital_Map_System-Tactical_Situation_Display_page_30.jpeg:
+Mission Navigator (MN)
+
+The mission navigator is the central computer routine that maintains
+aircraft present position independent of the INS or EGI. With MN
+selected as the present position source, the CC uses MN data to place the
+TSD symbology.
+
+TSD Format With CC Failure
+
+With CC failure the TSD/RMR format (Figure D-16) loses target and
+cursor related functions. It continues to provide all primary status cues.
+Two selectable parameters remain: map scale selection and INS position
+update. With CC failure, the INS can be updated by first calling up the
+UFC point data submenu and entering the new point and its lat/long.
+Then overfly the point and press PB #16 (O/F UPDT) on the TSD display
+to accomplish the update. This procedure updates the INS directly (no
+Kalmann filtering), so exercise caution when using it.
+
+AVI-09-18
+
+Figure D - 16. TSD Format With CC Failure.
+
+AVI-9 D - 24
+
+
+Text from AVI-9_Digital_Map_System-Tactical_Situation_Display_page_31.jpeg:
+QUESTIONS
+(FCP) Which controls on the TSD are “HOTASable”?
+
+Sensor selection
+
+Display window size selection
+Range selection
+
+Both a and b
+
+ao op
+
+(RCP) Which controls on the TSD are “HOTASable’?
+
+Sensor selection
+Display window size selection
+Range selection
+All of the above
+
+ao op
+
+Sensor cue point track commanding is accomplished with the
+in the FCP, and the in the RCP.
+
+D-25 AVI-9
+
+
+Text from AVI-9_Digital_Map_System-Tactical_Situation_Display_page_32.jpeg:
+M
+2's 150-1
+
+A__| BIAS / ) A
+
+AVI-09-19
+
+Figure D - 17.
+
+4. What would the result be, on the TSD above, if you pushed the auto
+acq switch down on the FCP stick/RCP hand controller?
+
+Nothing.
+
+Return to a present position format, 20 mile range.
+Return to a present position format.
+
+Enlarge the HRM cue.
+
+ae op
+
+5. (FCP) The TDC is used to
+
+slew the sensor cue.
+
+command sensor handoff.
+
+bias the TSD map after selecting BIAS at PB #10.
+All the above.
+
+ae op
+
+AVI-9 D - 26
+
+
+Text from AVI-9_Digital_Map_System-Tactical_Situation_Display_page_33.jpeg:
+(RCP) The TDC is used to
+
+a. _ slew the sensor cue.
+
+b. bias the TSD after selecting BIAS at PB #10.
+c. command sensor handoff.
+
+d. aandb.
+
+e. All the above.
+
+(FCP) The castle switch is a 5 position switch that, among other
+things
+
+commands point track of the INS.
+commands point track of the sensor.
+steps to the next sequence point.
+None of the above.
+
+ao op
+
+(RCP) The castle switch is a 5 position switch that, among other
+things
+
+commands point track of the INS.
+commands point track of the sensor.
+selects look ahead.
+
+None of the above.
+
+ao oP
+
+D - 27 AVI-9
+
+
+Text from AVI-9_Digital_Map_System-Tactical_Situation_Display_page_34.jpeg:
+ANSWERS
+
+3. laser fire button, trigger half action
+
+4. ¢
+5. od
+6. d
+7. d
+8. Cc
+
+AVI-9 D - 28
+
+
+Text from AVI-9_Digital_Map_System-Tactical_Situation_Display_page_35.jpeg:
+A/G
+A/A
+BA
+BE
+DCL
+DMS
+DTM
+DW
+EGI
+FLIR
+GPS
+GS
+HOTAS
+HRM
+INS
+IP
+MN
+MPD
+PP
+PPKS
+
+RBL
+
+GLOSSARY
+Air-to-ground
+Air-to-air
+Bank angle
+Bullseye
+Declutter
+Digital map system
+Data transfer module
+Display window
+Embedded GPS/INS
+Forward looking infrared
+Global positioning system
+Groundspeed
+Hands on throttle and stick
+High resolution map
+Inertial navigation system
+Initial point
+Mission navigator
+Multipurpose display
+Present position
+Present position keeping source
+
+Range and bearing line
+
+AVI-9
+
+
+Text from AVI-9_Digital_Map_System-Tactical_Situation_Display_page_36.jpeg:
+RBM
+RMR
+
+TSD
+
+AVI-9
+
+Real beam map
+Remote map reader
+
+Tactical situation display
+
+
+Text from AVI-9_Digital_Map_System-Tactical_Situation_Display_page_4.jpeg:
+CRITERION REFERENCED OBJECTIVES (CROs)
+1. Identify the function and basic operating characteristics of the TSD.
+2. Interpret a TSD.
+3. Identify the function of the TSD controls.
+4. Identify TSD limitations and interfaces.
+
+5. Given a TSD, interpret the advisories displayed.
+REFERENCES
+
+TO 1F-15E-1 Section I Tactical Situation Display
+(TSD)
+
+AVI-9 B-1
+
+
+Text from AVI-9_Digital_Map_System-Tactical_Situation_Display_page_5.jpeg:
+STUDENT PREPARATION REQUIREMENTS
+BEFORE THE CBT LESSON
+1. Study the information contained in this workbook.
+
+2. Read the referenced material in TO 1F-15E-1.
+
+C-1 AVI-9
+
+
+Text from AVI-9_Digital_Map_System-Tactical_Situation_Display_page_6.jpeg:
+(This Page Intentionally Blank)
+
+AVI-9 C-2
+
+
+Text from AVI-9_Digital_Map_System-Tactical_Situation_Display_page_7.jpeg:
+TEXT
+COMPONENTS AND CONTROLS
+
+The Tactical Situation Display (TSD) is a presentation of your aircraft
+position in relation to a planned mission route, which has been
+superimposed over a moving map format. Its primary function is to
+display the planned navigation information. However, it also provides
+sensor positioning/control information to the crew.
+
+The TSD is composed of an MPD/MPCD display; hands on controls
+(throttles/stick/controllers), commonly referred as HOTAS controls; and a
+remote map reader (RMR) for the color moving map reproduced on 35mm
+film strips. In the future, the RMR will be replaced by the digital map
+system.
+
+Multipurpose Display/Multipurpose Color Display (MPD/MPCD)
+
+The TSD is selected by pressing PB #5 on the Menu 1 display (Figure D-1)
+and is presented on either the MPD or the MPCD. Whether a color
+display or monochromatic display is used is dependent on both the
+situation and personal preference. At night the MPCD display can be too
+bright, so some crew members put the TSD display on an MPD. Other
+considerations for TSD placement include proximity to other displays such
+as A/G radar or TF E-scope, type of mission and phase of flight. The
+bottom line is that optimum TSD placement is dependent on a variety of
+factors.
+
+AVI-09-01
+
+Figure D - 1. MPD Menu 1 Display.
+
+D-1 AVI-9
+
+
+Text from AVI-9_Digital_Map_System-Tactical_Situation_Display_page_8.jpeg:
+Symbology
+
+There are several navigation symbols displayed on the TSD. Their
+positions relative to the aircraft symbol and the moving map are INS or
+MN determined depending on the present position keeping source. The
+term “sequence points” is used in describing the F-15E navigation
+symbols. This term is used to define a set of geographical points that can
+be overflown or used for sensor cueing. The following is a discussion of
+sequence points and symbology.
+
+O
+
+AVI-09-02
+
+AVI-9
+
+(a)
+
+(b)
+
+(c)
+
+(d)
+
+)
+
+()
+
+Steer points are defined geographical points that comprise the route to be flown.
+They are labeled with whole numbers. Steer point circles are all the same size.
+The circular symbol is also used to denote avoid or no-fly areas on the TSD. The
+avoidance rings are variable in size according to radius data for each ring
+loaded by DTM or at PB #9 on the point data submenu. Radii may be .9 to 99.9
+nm. Avoidance rings will have the appropriate avoidance point number in the
+center to show the center of the ring. Avoidance points are preceded by an “A”
+prefix. Fifteen avoidance point rings may be loaded per route. Five avoidance
+points/rings may be displayed at any one time on the TSD.
+
+Aim points are associated with steer points. They are sensor significant points
+used for off route sensor cueing and position updates. They are labeled with a
+steer point number and one decimal place (e.g., 1.1). Each steer point can have
+up to seven associated aim points.
+
+Base steer point location.
+
+The point prior to a target point is an initial point (IP). IPs follow the steer
+point numbering system.
+
+Aim points associated with IPs are shown as segmented squares. They follow
+the same numbering system as aim points associated with steer points.
+
+Target points are labeled by a whole number followed by a decimal point (e.g., 8.
+also referred to as target syntax).
+
+Target offset points are sensor significant points associated with target points.
+They are labeled with a target point number and a decimal number in
+hundredths (e.g., 8.01). Each target can be assigned up to seven different offset
+points.
+
+Bullseye (BE) points are used as reference points for bullseye bearing and
+range. They may be route dependent or route independent. There is no number
+next to the symbol to indicate which bullseye point is being used.
+
+Aircraft present position with magnetic ground track readout. Current aircraft
+position is the top intersection of lines (wingline).
+
+
+Text from AVI-9_Digital_Map_System-Tactical_Situation_Display_page_9.jpeg:
+(m)
+
+o/
+
+/
+
+(0)
+
+BIT AZ 035R
+R 12.5
+RING
+AVI-09-03
+
+Targeting IR cue (arrowhead) on the end of a range and bearing line from
+the aircraft symbol to its selected position. The broken line indicates you
+are not in command of the TSD.
+
+Air-to-ground (A/G) radar high resolution map (HRM) patch map cue on
+the end of a range and bearing line. The box appears square or
+trapezoidal depending on display window (DW) size (1.3, 3.3, 4.7, or 10
+nm) and range. The DW size corresponds to the size of the HRM patch
+map that would result if commanded (e.g., 10 would represent a patch map
+10 nm square). The broken line indicates not in command.
+
+When the targeting IR cue or HRM radar cue has a dot attached to it, that
+ground position is being point tracked and the cue is stabilized to that set
+of coordinates. This function is available even when the aircraft is not
+equipped with a targeting IR pod. When a hand-off is commanded (by
+HOTAS action), the targeting IR will point at the area indicated by the
+sensor cue symbol or the radar will make a patch map of the area enclosed
+within the display window. Hand-off can be commanded with or without
+point tracking.
+
+The IR or HRM radar cue without the range and bearing line indicates the
+targeting IR active LOS or the HRM radar active footprint (patch mapping
+position). The active LOS of the sensors may or may not be the same as
+that of the range and bearing line (RBL), depending on whether or not
+they have been commanded (by switch action) to the RBL cue.
+
+This symbol indicates the active RBM radar search pattern and A/G radar
+cursor position. The symbol represents the A/G radar cursor. There is a
+wide pattern for a full scan and a narrower pattern for a partial scan.
+
+The HRM cue DW with an “X” in it indicates that the cue is outside the
+range and/or azimuth capability of the radar for making patch maps, or
+that a DW size/range incompatibility exists (the radar will not make a
+patch map of the selected size because that geographical area is too close
+or too far relative to aircraft present position). That area is within 8° of
+the velocity vector, inside the minimum/outside the maximum range for
+selected display window size, or outside the radar gimbal limits (60°).
+
+This symbol indicates a mark point, identified with a whole number above
+it. Mark points are loaded by either performing an overfly mark via the
+UFC, a radar mark via the A/G radar display, a target IR mark, or an
+automatic overfly mark when the weapon release button is depressed, for
+an unplanned target. Up to 10 mark points may be displayed on the TSD.
+
+An azimuth and range readout of the HRM radar cue or targeting IR cue is
+displayed in the upper left corner. The active LOS of the HRM or the
+targeting IR will correspond to the displayed AZ/Rng only if the sensor has
+been commanded (through HOTAS action) to the corresponding cue.
+
+D-3 AVI-9
+
+

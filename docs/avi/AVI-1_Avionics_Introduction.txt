@@ -1,0 +1,1357 @@
+Text from AVI-1_Avionics_Introduction_page_1.jpeg:
+SUPPORTS COURSES
+FIS5EBQ
+
+FISETX
+
+FISESOC
+
+ACADEMIC STUDENT WORKBOOK
+F-15E
+
+AVIONICS
+AVI-1
+AVIONICS INTRODUCTION
+
+NOVEMBER 1998
+
+(SUITE 3 OFP)
+
+AIR COMBAT COMMAND
+
+
+Text from AVI-1_Avionics_Introduction_page_10.jpeg:
+BASIC SYSTEM COMPONENTS
+Central Computer System
+
+System Description
+
+The central computer system performs computations for aircraft
+navigation and weapon delivery/control, and maintains the system
+displays using information received from the other avionic components
+and sensors. The received data is used during the OFP execution to
+compute aircraft position, velocity, altitude, attitude for navigation,
+weapon delivery and display functions. The central computer system is
+made up of many components, including the central computer (CC) and
+the avionics mux buses, which are discussed below.
+
+To aid your understanding of the avionic system operation, the
+components are grouped by function (Figure D-1). The avionic system
+functional block diagram graphically depicts the CC as the “heart” of your
+weapons system. The avionics are designed to allow information to flow
+back and forth between the CC and other systems. This design allows
+information to be redundantly displayed and easily manipulated.
+
+FLIGHT CONTROLS POG FOSTFIAOA
+ANALYSIS
+McIDT™M OPP ENGINE CONTROL
+ows UFC EDU/AIC/SENSORS
+PACS VTRS HOTAS
+LANTIRN
+NAV FLIR/TGT IR
+CENTRAL
+NAVIGATION
+GPS
+TAC ELECT Ne
+WARFARE ie DENT SoM
+TEWS TACAN Eh Cae Rr
+RMR RADAR AAI KY-58
+AHRS HAVE QUICK
+
+ADF
+ILS AVI-01-01
+
+Figure D - 1. Components.
+
+AVI-1 D-4
+
+
+Text from AVI-1_Avionics_Introduction_page_11.jpeg:
+Figure D-2 is a simplified block diagram of the CC. Components of the CC
+are no different than other computers.
+
+115V AC
+
+CENTRAL COMPUTER (CC
+MAIN STORE (MS)
+
+AIR-TO-AIR | AIR-TO-GROUND| CONTROLS
+mopUe MODULE [DISPLAY MODULE BOWER
+FLIGHT GGeclr
+DIRECTOR DATA BASE TEST
+MODULE BOCLLE
+
+FLIGHT
+NAVIGATION EXECUTIVE
+RECORDER
+MODULE MODULE MODULE
+
+DATA CONTROLS
+
+INPUT. / QUTPUT
+SECTION
+
+AVIONICS
+STATUS PANEL
+
+AVI-01-02
+
+Figure D - 2. CC.
+
+Central Computer
+
+Description
+
+The very high speed integrated circuit (VHSIC) CC is a high speed, stored
+program, general purpose digital computer that receives data from control
+panels and subsystems aboard the aircraft and performs mission oriented
+computations on that data. The CC ADA-based software program (OFP)
+provides the computer with guidance to perform its different functions.
+The CC itself is made up of three central processing units (CPUs) with 512
+K of nonvolatile memory per CPU (1536 K total). The CC operates at a
+minimum of 3 million instructions per second (8 MIPS) per CPU when
+performing the OFP. Two CPUs carry out primary functions while the
+third works as a “shadow” processor, backing up important routines being
+processed by the other two. The CC is powered as long as one main
+generator is on-line. A built-in CC battery keeps memory alive during
+periods when generator power is not available, including when the CC is
+shut down between flights.
+
+D-5 AVI-1
+
+
+Text from AVI-1_Avionics_Introduction_page_12.jpeg:
+The following descriptions of components are specific to the F-15E.
+
+Central Processing Unit (CPU): the CPU controls the instruction
+execution sequence; processes the interrupt, arithmetic and logic
+functions; does the calling and storing of data, and interfaces with other
+aircraft equipment and avionic systems.
+
+Input/Output W/O) Section: the I/O section provides mux bus channel and
+data interface with other aircraft equipment and avionics systems via the
+mux buses.
+
+Main Memory Storage (MS): the MS provides storage for the OFP, data
+from other aircraft equipment and avionics systems, CPU data, and the
+self-test program. The main store consists of random access memory
+(RAM) backed up by nonvolatile core memory.
+
+Power Supply: the power supply is controlled by the CC switch on the
+GND PWR panel. The power supply then converts the aircraft AC input
+power to operating voltages required for computer circuits.
+
+Mission Cartridge (MC) and Data Transfer Module (DTM): mission
+information can be loaded into the CC via the MC and/or DTM. The MC
+and DTM are programmed in the squadron and carried to the aircraft.
+Once inserted into their receptacles in the FCP they can be “read” to
+initialize mission data in the CC.
+
+Function: of primary concern to the aircrew is that the OFP is the
+program loaded into the CC that contains the instructions for processing
+data necessary to do radar, general navigation, and weapon delivery
+computations. Certain computer tasks are accomplished based on aircrew
+desires. Basically, the CC provides the following capabilities to the
+aircrew:
+
+e Air-to-air steering and launch envelope computations for missiles
+and gunnery computations.
+
+e Air-to-ground steering and release for A/G weapons.
+
+e Steering to sequence points, mark points, targets of opportunity
+and TACAN stations, including instrument approaches.
+
+e Avionics control via software programmable display formats.
+
+AVI-1 D-6
+
+
+Text from AVI-1_Avionics_Introduction_page_13.jpeg:
+To accomplish these tasks, the CC OFP is made up of nine program
+modules, each being a complete routine that does a specific part of the CC
+program. These programs are contained within the main memory storage
+of the CC, as shown previously in Figure D-2.
+
+Most modules work in conjunction with other CC modules and other CC
+equipment to accomplish these tasks. All functional modules are
+processed under Executive Module control. Each module’s capabilities are
+briefly outlined below. This is familiarization information only. Some
+modules are discussed in more detail in later lessons.
+
+CC Program Modules
+
+@ Executive Module
+e Internal control of all other functional modules
+e System initialization and interrupt processing
+
+@ Air-to-Air Module
+e Air-to-air attack management
+e Target tracking and display
+e Attack conversion and weapon delivery
+
+@ Air-to-Ground Module
+e A/G weapon delivery parameter determination
+e A/G steering and release computations
+e A/G weapon delivery control
+
+@ Navigation Module
+e Attitude reference and position keeping
+Target designation
+Steering
+Position updating
+Look ahead (steer points)
+Upfront control data servicing
+Engine monitor
+Mission navigator
+
+e Bhght Director Module
+Electronic horizontal situation indicator (EHSI) data
+processing
+e Electronic attitude director indicator (EADI) data processing
+e Automatic flight control system (AFCS)
+
+D-7 AVI-1
+
+
+Text from AVI-1_Avionics_Introduction_page_14.jpeg:
+@ Controls and Displays Module
+
+e Control status
+Symbol generation management
+Aircraft data transfer
+Overload warning system
+Avionics built-in test management
+
+@ CC Self Test Module
+e Provides a means to test the CC continuously
+
+@ Flight Recorder Module
+e Recording of mux signal data at specific intervals
+e Recording of HUD data at weapon release
+e Recording of signal data at an overflow (if a signal data
+recorder is installed)
+
+@ CC Simulator Support Module
+e Provides interface with the simulator host computer. (This
+allows the F-15E simulator to use the same CC as the aircraft.)
+This module is inactive during aircraft operations.
+
+CC Subroutine Programs
+
+The CC maintains subroutine programs within certain modules. The
+programs access module-related data and, along with CC-stored
+algorithms, generate new/backup data for aircrew use. Two subroutines
+of note are the overload warning system (OWS) and mission navigator
+(MN).
+
+OWS - calculates aircraft maximum allowable G. Provides the
+aircrew with aircraft overload conditions for dynamic flight. OWS
+data is stored in CC memory for recall.
+
+MN - corrected present position and velocity data. Allows position
+and velocity updates independent of the GPS/INS. The data is also
+used by the CC as a backup for INS present position and velocity.
+
+Both the OWS and MN functions are covered in detail in later lessons.
+
+AVI-1 D-8
+
+
+Text from AVI-1_Avionics_Introduction_page_15.jpeg:
+Avionics Mux Buses
+
+Normal Operation
+
+As long as the CC is operational, it is the bus controller, or monitor, for all
+mission data transfers between the CC and other avionic subsystems.
+This is accomplished through the interface with two types of avionics mux
+buses (the 1553 and H009). Each mux bus has primary (1, 2, and 5A) and
+secondary (3, 4, and 5B) channels for the simultaneous transmission of
+digital data. The secondary channels provide a redundant backup to the
+avionics subsystems if the primary mux buses fail. The mux buses allow
+the CC to interface with the:
+
+Air data computer (ADC)/air data processor (ADP-with GPS)
+Attitude heading reference set (AHRS)
+
+Programmable armament control system (PACS)
+
+Tactical electronic warfare system (TEWS)
+
+Automatic flight control system (AFCS)
+
+Radar
+
+Avionics status panel (ASP)
+
+Avionic interface units (AIU 1 & 2)
+
+Engine diagnostic units (EDUs)
+
+Global positioning system (GPS) (After TCTO 1F-15E-737)
+Inertial navigation system (INS)
+
+LANTIRN systems (TFR, NAV FLIR, TGT IR)
+Multipurpose display processor (MPDP)
+
+Digital map system (DMS) (After TCTO 1F-15E-700)
+Signal data recorder system (SDRS)
+
+CC Backup Operation
+
+When the CC determines that it is in a no-go condition, it applies a no-go
+command to the MPDP. This activates the MPDP software to take
+command of one of the avionics mux buses. The MPDP becomes the
+primary bus controller and is then able to communicate with the avionic
+systems connected to that data bus. The MPDP receives data normally
+acquired by the CC. A CC reset button in the FCP allows the pilot to
+attempt a reset in the event of CC failure. CC failure is covered in detail
+in the Degraded Avionics lesson.
+
+Multipurpose Display System
+
+System Description
+
+AVI-1
+
+
+Text from AVI-1_Avionics_Introduction_page_16.jpeg:
+The multipurpose display system provides visual representation of flight,
+navigation, attack, target, weapon and advisory data. The multipurpose
+display system is made up of many components, including the
+multipurpose display processor (MPDP) and the display’s mux buses,
+which are discussed below.
+
+Multipurpose Display Processor
+
+Description
+
+The MPDP is a multichannel video signal processor and symbol generator
+that processes avionic subsystem data for the multipurpose display
+system. It simultaneously drives eight display channels—one channel
+dedicated to each display. The eight displays include four multipurpose
+displays (MPDs), three multipurpose color displays (MPCDs) and the
+head-up display (HUD) (Figure D-3). The MPDP is fully powered as long
+as one main generator is on-line. It retains partial capability as long as
+the emergency generator is operating (in AUTO or MANUAL).
+
+VIDEO INPUTS
+(WEAPONS, RMR,
+~~ LANTIRN) ()
+
+RA
+
+ANALOG
+DISCRETES
+
+AVIONICS 1553 BUS
+
+DATA
+CONTROLS MC/DTM
+
+ee
+VIDEO
+CONTROL
+
+FORWARD COCKPIT AFT COCKPIT
+
+Figure D - 3. MPDP.
+
+VIDEO
+CONTROL
+
+AVI-01-03
+
+AVI-1 D-10
+
+
+Text from AVI-1_Avionics_Introduction_page_17.jpeg:
+Function
+
+The MPDP serves as a video processing and distribution center. It
+produces stroke symbology and background video information for the
+MPDs, MPCDs, HUD and the video tape recorder system (VTRS). The
+MPDP converts all displays to composite video for the VTRS.
+
+Operation
+
+The CC supplies macro instructions (display data) to the MPDP as
+directed by the CC OFP, which defines the displays to be produced. The
+CC tells the MPDP which symbol(s) is (are) required, which display to put
+them on, and at what grid location (x and y coordinates) to put them. The
+MPDP has four separate power supplies and is designed so that failure of
+one channel will not cause failure of the entire MPDP. Each power supply
+drives two complete display channels. The MPDP/AIU 1 switch on the
+GND PWR panel controls power to the MPDP power supply.
+
+Display Mux Buses
+
+Normal Operation
+
+As long as the CC is operational, it is the primary display controller for
+the MPDP. Display data transfer between the CC and MPDP occurs on
+the display’s mux bus. The display’s mux bus has primary and secondary
+channels (6A and 6B) for the simultaneous transmission of digital data.
+The secondary channel provides a redundant backup to the MPDP if the
+primary mux bus fails.
+
+CC Backup Operation
+
+A CC no-go signal is provided to the MPDP which causes the MPDP to
+provide backup displays and avionics mux bus control. The MPDP
+communicates and maintains the interface with the systems that are
+required to provide the capability for returning to base and self-defense.
+This includes a limited amount of display system formats. MPDP
+degrades and failure will be covered in detail in the Degraded Avionics
+lesson.
+
+AVI-1
+
+
+Text from AVI-1_Avionics_Introduction_page_18.jpeg:
+Avionics Interface Unit (AIU) Set
+
+Description
+
+The AIU set is composed of two AIUs (AIU 1 and AIU 2). Each AlUisa
+signal processor used to control signal interfacing among the avionic
+system components.
+
+Function
+
+The AIU set provides interfacing between the HOTAS controls/UFCs and
+equipment being controlled. The AIU set also provides:
+
+e Interface between the FCP/RCP UFCs
+
+e Connection between the HOTAS controls/UFCs and the
+components being controlled
+
+e Memory for UHF preset channels
+
+e Audio signal volume control (UHF, TACAN, warnings, etc.) from
+the RICP/ICSCP
+
+e Cautions, warnings and advisories
+
+AIU 1 acts as primary bus controller for the digital database between the
+UFCs and AIU 2. AIU 2 acts as backup bus controller for the digital
+database between the UFCs and AIU 1. AIU 2 assumes control of the
+digital data base when AIU 1 fails and performs all functions of AIU 1
+except for control of equipment exclusively interfaced by AIU 1. Both
+AITUs are normally powered by the main generators. AIU 1 will function
+with emergency generator power only (AUTO or MANUAL).
+
+Operation
+Aircrew control of aircraft avionic systems is accomplished with the
+
+HOTAS controls and UFCs. HOTAS/UFC input signals are processed by
+the AIUs for interfacing with applicable systems.
+
+AVI-1 D-12
+
+
+Text from AVI-1_Avionics_Introduction_page_19.jpeg:
+The AIUs interface with the components shown in Figure D-4. ATU 1
+controls the avionic components listed on the left of the diagram and AIU
+2 controls those listed on the right. The components listed in the center
+operate provided either AIU is operable.
+
+LEFT HAND CONT UFC] [UFC
+
+UHF 1 FCP HOTAS RIGHT HAND
+AD
+TACAN HAVE QUICK UHF 2
+I
+K
+O
+
+if
+i
+
+é
+
+S)
+
+i
+
+AVIONICS BIT a AlU 2 ROANELS
+ENG DISPLAY
+FUEL FLOW
+PANEL
+
+CONT
+CAUTIONS
+IR
+CENTRAL ows
+COMPUTER LANTIRN
+NG
+ISPLAY ICE
+\VI-01-04
+
+MASTER
+MODE
+
+7
+
+a E
+al
+
+FCP SEN
+
+i
+
+|
+
+E
+ie co EMIS LIMIT OVER TEMP
+PROCESSOR WARNING
+
+A
+
+Figure D - 4. AIU Set.
+
+Up-Front Control (UFC) Data Bus
+
+The UFC data bus provides communication between both front and rear
+cockpit UFCs and the AIU set. This same data bus provides
+communication between AIU 1 and AIU 2. AIU 1 functions as the
+primary UFC bus controller. AIU 2 is the secondary UFC bus controller.
+The UFC sends keyboard/pushbutton control data and status information
+to the AIU set via the UFC data bus. The AIU set sends menu and
+display data to the UFC.
+
+AVI-1
+
+
+Text from AVI-1_Avionics_Introduction_page_2.jpeg:
+ADMINISTRATIVE INFORMATION
+
+This student workbook is designed to provide information on the F-15E,
+its systems and capabilities. It is not a sole source document, but is to be
+used in conjunction with other standard Air Force publications and
+technical manuals. If you find any differences between the material
+contained herein and other governing regulations, adhere to the
+regulations and notify the OPDR.
+
+Changes to this workbook are indicated with a heavy black line in the left
+margin.
+
+Forward recommendations for revision or change to 4 TS, SJAFB, NC
+275381.
+
+Supersedes: AVI-1, July, 1998
+
+OPDR: 4TS
+
+Index of Changes
+
+Effective Date Pages Affected
+
+
+
+Text from AVI-1_Avionics_Introduction_page_20.jpeg:
+Normal Operation
+
+The AIU set communicates with the CC by way of the avionics mux bus.
+Information that is transferred between the AIU set and the CC includes
+UFC display and control data, avionic systems modes, controls and status
+data, cautions/warnings/advisories and UHF/IFF initialization data.
+
+CC Backup Operation
+
+The AIU set communicates with the MPDP by way of the avionics mux
+bus since the MPDP becomes the avionics mux bus controller in this
+situation. Transfer of the same information (listed above) now takes place
+between the AIU set and MPDP.
+
+Air Data Computer (ADC) or Air Data Processor (ADP)
+
+Description
+
+The ADC is a digital computer that converts analog data input into a
+digital output format. The ADC will be replaced by the ADP after
+TCTO 1F-15E-737. This change should be transparent to the operator.
+
+Function
+
+The ADC/ADP receives input from system sources shown on the left side
+of Figure D-5, corrects these errors for installation error, computes and
+provides required data to aircraft equipment and cockpit displays shown
+on the right side of Figure D-5. It also performs data validity checks and
+sets off appropriate cautions and warnings.
+
+Operation
+
+ADC/ADP system operation is automatic with no in-flight control
+available. The ADC/ADP receives power as long as one main generator is
+on-line. The FCP standby altimeter BARO SET knob is the only control
+provided for changing the aircraft barometric altimeter setting.
+
+AVI-1 D-14
+
+
+Text from AVI-1_Avionics_Introduction_page_21.jpeg:
+R. PITOT-STATIC
+
+LOCAL DYN
+
+PRESS
+STATIC PRESS >
+
+L. PITOT-STATIC
+
+R. AOA
+
+L__LOCAL AOA ——»
+
+-——LOCAL AOA ——»
+|
+
+L. AOA
+
+>——TOTAL TEMP —-»
+CI
+
+L. TOT TEMP
+
+FRONT
+STANDBY
+ALTIMETER
+
+Ns BARO SET —»
+
+NLG DOOR SW
+
+A__GEAR POSN —>"
+
+FLAP SW
+
+A FLAP POSN —>'
+
+PITCH
+
+PITCH AND ROLL
+CHANNEL ASSEMBLY
+
+OPTIMUM AOA
+
+(FIXED)
+
+UNSAFE
+LDG
+POSITION
+
+t——PRESS ALT RATE ——»
+
+VERT VEL
+
+UNSAFE
+
+t——MACH NO. ——+}
+PRESS RATIO —»
+t-REL AIR DENSITY >|
+t+——CORR ALT ——>}
+
+Figure D - 5. ADC/ADP.
+
+D-15
+
+AIRDATA |___ MACH Eee
+COMPUTER DISCRETE
+OR
+AIR DATA ECS HEAT
+PROCESSOR EXCHANGER DOOR
+INLET
+(RAMP CONTROL)
+|___CORR ALT ——+! IFF
+PITCH RATIO
+| CAUTION —>! AU 1
+|___ TOT TEMP. ——»
+HI CAUTION
+TAS—___->|
+|____TRUE AOA ——>
+LL OCAL AOA ——>
+|___PRESS ALT —»
+CENTRAL
+[—IND AIRSPEED —+| — GOumpuTER
+
+AVI-01-05
+
+AVI-1
+
+
+Text from AVI-1_Avionics_Introduction_page_22.jpeg:
+Attitude Heading Reference Set (AHRS)
+
+Description
+
+The AHRS is a gyromagnetic compass system that is composed of:
+
+Directional gyro (DG)
+
+Magnetic azimuth detector (MAD)
+Electronic control amplifier (ECA)
+Compass control panel (CCP)
+
+Installing GPS hardware (via TCTO 1F-15E-737) will result in removal of
+the AHRS. The functions of the AHRS will be replaced by a system called
+the EGI-INS or simply EGI. The EGI consists of a single hardware box
+containing both a GPS receiver and processor and a second independent
+aircraft ring laser gyro INS. The previous aircraft INS becomes (for
+terminology) the fighter navigation unit INS (FNU-INS). Both the
+FNU-INS and the EGI are covered in detail in a follow-on Avionics lesson.
+
+Function
+
+The magnetic azimuth detector (MAD) provides magnetic heading during
+initial INS alignment. The AHRS provides magnetic heading to various
+avionic systems and attitude backup in the event of INS failure (or if
+AHRS is aircrew-selected as the aircraft attitude source from the ADI
+display format).
+
+AVI-1 D-16
+
+
+Text from AVI-1_Avionics_Introduction_page_23.jpeg:
+Operation
+
+The AHRS interfaces with the CC to provide heading and attitude backup
+when the CC determines that INS data is invalid. It receives power as
+long as one main generator is on-line.
+
+The AHRS is controlled via the compass control panel (CCP) (Figure D-6).
+
+AVI-01-06
+
+Figure D - 6. AHRS CCP.
+
+The CCP Controls Are:
+
+Mode Selector Knob
+
+COMP
+
+DG
+
+This mode is usually selected only when there is a
+gyro malfunction. The heading is sensed from the
+MAD and passed to other aircraft systems. The
+AHRS acts the same as a standby compass and is
+reliable only in straight and level flight.
+
+The heading is sensed from the DG. The DG mode is
+used in latitudes higher than 70° (or where the earth
+magnetic field is distorted). When first selected, the
+magnetic heading must be set into the system with
+the PUSH TO SYNC knob. DG is also used during
+MAD failure to stabilize heading.
+
+D-17
+
+AVI-1
+
+
+Text from AVI-1_Avionics_Introduction_page_24.jpeg:
+SLAVED
+
+PUSH-TO-SYNC
+Knob
+
+SLAVED
+Mode
+
+DG Mode
+
+SYNC Indicator
+Meter
+
+Fast Erect
+Pushbutton
+
+Hemisphere
+Switch
+
+Latitude Control
+Knob
+
+AVI-1
+
+This is the normal setting. The heading is sensed
+from the DG and is continuously corrected by the
+MAD and passed to other systems.
+
+This is a combination push-to-sync and push-to-turn
+(set heading) knob. Two situations apply:
+
+Depress the knob to allow the AHRS to provide fast
+synchronization of the DG magnetic heading output
+to the MAD.
+
+With AHRS selected on the ADI, depress and rotate
+the knob to slew the AHRS heading on the HSI
+compass card. The HUD heading readout will not be
+affected, unless there is a failure in the INS heading.
+
+With the mode selector in the SLAVED position, this
+meter indicates the difference (plus or minus)
+between the DG and the MAD headings.
+
+With AHRS selected on the ADI, to correct an
+obvious disagreement between the ADI and the
+visually confirmed aircraft attitude, depress the
+button to re-erect the AHRS gyro. Maintain wings
+level, one G flight until the process is complete. The
+AHRS will indicate invalid BIT outputs during the
+fast erect process.
+
+Set switch to your current hemisphere.
+Set to present position latitude. In the DG and
+
+SLAVED modes, the AHRS determines the correction
+required for gyro drift due to the earth's rotation.
+
+
+Text from AVI-1_Avionics_Introduction_page_25.jpeg:
+QUESTIONS
+
+If the ADI precesses while using the AHRS, maintain wings level, one
+G flight and
+
+a. depress the push-to-sync knob.
+b. depress the fast erect pushbutton.
+c. rotate the mode selector knob to DG.
+
+The provides video processing and distribution.
+a. AIU
+
+b. MPDP
+
+ce CC
+
+d. AHRS
+
+The CC receives its pitot static input information from the
+
+a. ADC/ADP.
+b. MPDP.
+
+ec.  AIU.
+
+d. INS.
+
+The ADC/ADP obtain the aircraft barometric altimeter setting from
+the
+
+a. RCP standby altimeter.
+b. UFCs.
+
+c. radar altimeter.
+
+d. FCP standby altimeter.
+
+D-19 AVI-1
+
+
+Text from AVI-1_Avionics_Introduction_page_26.jpeg:
+ANSWERS
+
+1. b
+2. b
+3. a
+4. d
+
+AVI-1 D - 20
+
+
+Text from AVI-1_Avionics_Introduction_page_27.jpeg:
+END OF TEXT QUIZ
+
+An AlU isa
+
+a. signal processor.
+
+b. general purpose computer.
+c. CC to MPDP interface.
+
+d. video display processor.
+The generates video and overlays symbology for display on the
+MPD/MPCDs and HUD.
+
+a. ADC/ADP
+
+b. MPDP
+
+ce. CC
+
+d. AIUs
+
+The aircrew
+
+po op
+
+The
+
+Boop
+
+can reprogram the CC OFP with the UFC.
+
+controls the CC through the MPD/MPCD menu.
+
+controls the CC through the CCP.
+
+provides the CC with new mission data using the DTM and/or
+manual inputs.
+
+provide(s) backup operation for the central computer.
+
+AIUs
+
+MPDP
+
+mux bus channels
+
+asynchronous local area network
+
+The aircrew
+
+Boop
+
+controls the AHRS through the UFC.
+
+has no control over the AHRS.
+
+controls the AHRS with the CCP.
+
+controls the AHRS through the FCP sensor panel.
+
+E-1 AVI-1
+
+
+Text from AVI-1_Avionics_Introduction_page_28.jpeg:
+6. The AlUs provide memory for
+
+UHF preset channels.
+HOTAS controls.
+equipment malfunctions.
+split screen recording.
+
+ao oP
+
+7. |The normal setting on the compass control panel is
+
+a. FAST ERECT.
+b. DG.
+c. COMP.
+d. SLAVED.
+8. The central computer requires power.
+a. emergency generator (auto or manual mode)
+b. main generator
+c. emergency generator (isolate mode)
+d. either main generator or emergency generator
+9. The MPDP requires power.
+
+a. either main generator or emergency generator (for full
+operation)
+main generator
+
+c. main generator (for full operation) or emergency generator (for
+partial operation)
+
+d. central computer
+
+10. AIU will function only on main generator power, while AIU
+will function off either main generator or emergency
+generator power.
+
+a. 1/2
+b. 2/1
+Cc. 1/lor2
+d. 2/1or2
+
+AVI-1 E-2
+
+
+Text from AVI-1_Avionics_Introduction_page_29.jpeg:
+11. The ADC/ADP requires
+
+a. main generator power.
+
+b. emergency generator power.
+
+c. main generator power (full operation); emergency generator
+power (for airspeed and barometric altitude only).
+
+12. The AHRS
+
+a. is fully functional on either main generator or emergency
+generator power.
+
+b. is fully functional on main generator power and partially
+functional off emergency generator power.
+
+c. requires main generator power.
+
+d. reverts to the DG mode if powered by the emergency generator.
+
+E-3 AVI-1
+
+
+Text from AVI-1_Avionics_Introduction_page_3.jpeg:
+AVIONICS
+
+COVER
+
+AVIONICS INTRODUCTION
+INTRODUCTION
+
+This workbook is designed to provide you with an orientation of the
+avionic system and familiarize you with its components.
+
+CONTENTS:
+
+INTRODUCTION sc cee case ans ance cose anus sane aus axis nase aes wane aut ance eau news cents uae risa ou A-1
+CRITERION REFERENCED OBJECTIVES (CROs)...........eeeeeeeeees B-1
+STUDENT PREPARATION REQUIREMENTS ...00.. ee eeeeeeeeee C-1
+TEXT oe eecccccceessreeecesssseeeeceessaeeeccesssaeeeceesseeeeseesaeeeseessaeeeseneaaaeees D-1
+END OF TEXT QUIZ oo... ceeseecesaeeceseeeeesaeesesseeeessaeesseneeeeneas E-1
+GLOBSARY cscs ses sass sues suse see oes wee salve ses sure seins se seve ING sana Sains Sn Hee NG SBE aulnG HIER F-1
+
+A-1 AVI-1
+
+
+Text from AVI-1_Avionics_Introduction_page_30.jpeg:
+(This Page Intentionally Blank)
+
+AVI-1 E-4
+
+
+Text from AVI-1_Avionics_Introduction_page_31.jpeg:
+GLOSSARY
+
+ADC Air data computer
+
+ADP Air data processor
+
+AFCS Automatic flight control system
+AHRS Attitude heading reference set
+AIU Avionics interface unit
+
+ASP Avionics status panel
+
+BIT Built-in test
+
+CC Central computer
+
+CCP Compass control panel
+
+CMD Countermeasures dispenser
+CPUs Central processing units
+
+DG Directional gyro
+
+DMS Digital map system
+
+DTM Data transfer module
+
+EADI Electronic attitude director indicator
+ECA Electronic control amplifier
+EDU Engine diagnostic unit
+
+EGI Embedded GPS/INS
+
+EHSI Electronic horizontal situation indicator
+FCC Flight control computer
+
+GPS Global positioning system
+
+F-1 AVI-1
+
+
+Text from AVI-1_Avionics_Introduction_page_32.jpeg:
+HUD
+ICS
+
+INS
+
+MAD
+
+MC
+
+MN
+
+MPCD
+
+MPD
+
+MPDP
+
+MS
+
+Mux Bus
+
+NVM
+
+OFPs
+
+OWS
+
+PACS
+
+RMR
+
+RWR
+
+SDRS
+
+TEWS
+
+UFC
+
+VTRS
+
+AVI-1
+
+Head-up display
+Internal countermeasures set
+
+Inertial navigation set
+
+Magnetic azimuth detector
+Mission cartridge
+
+Mission navigator
+
+Multipurpose color display
+Multipurpose display
+Multipurpose display processor
+Main memory storage
+
+Multiplex bus
+
+Nonvolatile memory
+
+Operational flight programs
+Overload warning system
+Programmable armament control system
+Random access memory
+
+Remote map reader
+
+Radar warning receiver
+
+Signal data recorder system
+Tactical electronic warfare system
+Upfront control
+
+Video tape recorder system
+
+
+Text from AVI-1_Avionics_Introduction_page_33.jpeg:
+(This Page Intentionally Blank)
+
+F-3 AVI-1
+
+
+Text from AVI-1_Avionics_Introduction_page_4.jpeg:
+CRITERION REFERENCED OBJECTIVES (CROs)
+
+1. Identify the functions of the following avionics system components
+and how they are interrelated:
+
+Central computer (CC)
+
+Multipurpose display processor (MPDP)
+
+Avionics interface units (AIUs)
+
+Air data computer (ADC); air data processor (ADP)
+Attitude heading reference set (AHRS)
+
+PAS oP
+
+2. Identify the power sources for the CC, MPDP, AIUs, ADC (or ADP)
+and AHRS.
+
+3. Identify the function of AHRS controls.
+
+REFERENCE
+
+TO 1F-15E-1 Section I Central Computer (CC)
+
+Multiplex Bus (MUX BUS)
+
+Avionics Interface Unit (AIU)
+
+Data Transfer Module Set
+
+(DTMS)
+
+Multipurpose Display Processor
+(MPDP)
+
+Air Data Computer (ADC) or
+Air Data Processor (ADP)
+
+Attitude Heading Reference Set
+(AHRS) (before TCTO
+1F-15E-737)
+
+AVI-1 B-1
+
+
+Text from AVI-1_Avionics_Introduction_page_5.jpeg:
+STUDENT PREPARATION REQUIREMENTS
+BEFORE CLASS
+
+1. Study the information contained in this workbook and complete the
+quiz.
+
+2. Read references in Section I of TO 1F-15E-1.
+
+C-1 AVI-1
+
+
+Text from AVI-1_Avionics_Introduction_page_6.jpeg:
+(This Page Intentionally Blank)
+
+AVI-1 C-2
+
+
+Text from AVI-1_Avionics_Introduction_page_7.jpeg:
+TEXT
+AVIONIC SYSTEM ORIENTATION
+
+The avionic system is designed around a software driven central computer
+(CC) which provides control and integration of the various aircraft avionic
+components (hardware and software). The CC utilizes the avionics
+systems and subsystems effectively as ONE weapon system. This design
+concept, together with the design of the missionized cockpits, constitutes a
+major change over previous fighter aircraft.
+
+On earlier aircraft, avionic systems were “hardwired” to cockpit control
+panels and each system’s information was displayed on independent dials
+and gauges. This resulted in crowded cockpits and instrument panels.
+
+When computers were initially included in avionic systems, some system
+integration was made possible; however, control was still managed
+through hardwired control panels. Use of the inertial navigation system
+(INS) for computed weapons release is an example of initial system
+integration. Other systems such as TACAN, UHF radio, IFF, radar, etc.,
+operated independently of each other.
+
+As the evolution of avionics continued, more systems either were
+internally designed with computer capabilities or were designed to receive
+information from other systems. The increased computer capability
+required the creation of operational flight programs (OFPs). The added
+increase in overall avionic system integration required the creation of
+common communication channels (mux buses). Command and control of
+such a powerful, complex avionic system required the creation of a
+common, single-source component that could be programmed to manage
+the entire system effectively, hence, the central computer.
+
+The F-15E central computer allows for a high degree of avionic system
+integration as it accepts inputs and provides data for most onboard
+systems. A multipurpose display system eliminates the need for
+individual scopes, dials and gauges. The upfront control (UFC) replaces
+most cockpit control panels. The system OFPs are designed to reduce
+aircrew workload and allow for flexibility in the operation of aircraft
+systems.
+
+AVI-1
+
+
+Text from AVI-1_Avionics_Introduction_page_8.jpeg:
+The avionic systems include all communication, control, nav aids, displays
+and sensors. Control of most systems is available from either cockpit.
+
+Avionic System OFPs
+
+OFPs are the “software” or tapes that drive the avionic system’s
+“hardware” or black boxes. There are 16 OFPs in the F-15E; the
+breakdown is as follows:
+
+Central computer (CC)-1
+
+Multipurpose display processor (MPDP)-2
+
+Avionics interface unit (AIU) set-3
+
+Flight control computer (FCC)-2
+
+Inertial navigation set (INS)-1
+
+Programmable armament control system (PACS)-1
+
+Radar-1
+
+Radar warning receiver (RWR)-1
+
+Internal countermeasures set (ICS)—1
+
+Countermeasure dispenser (CMD)-1
+
+LANTIRN navigation pod—1 (plus an additional OFP for the F-16)
+LANTIRN targeting pod—1 (plus an additional OFP for the F-16)
+
+Computer Talk
+
+You have already been bombarded with terms and acronyms that may
+have meant nothing to you up to now. But it is important that you
+understand what a few of them mean before continuing this lesson,
+because you will hear and use these terms daily. Remember that on all
+flights you will be manipulating many systems (hardware) that have their
+own OFP tapes (software) and computer sections. If you were not
+computer literate before, you will be soon!
+
+Interface is how the aircrew “talks” to systems for power on/off, changing
+channels, setting frequencies, etc. It does not reflect system status, i.e.,
+you can lose interface with an avionic system that is still operating
+normally. What this usually means is that you will still be able to use the
+system on whatever channel/frequency/mode that was selected when
+interface was lost.
+
+AVI-1 D-2
+
+
+Text from AVI-1_Avionics_Introduction_page_9.jpeg:
+Nonvolatile Memory (NVM) is permanent memory space. Data placed
+here is retained even when the power source is no longer available (like at
+engine shutdown). Like any other computer, the CC has program
+commands that are executed when power is applied to “set it up” for
+normal operations.
+
+Random Access Memory (RAM) is transient or “volatile” memory space.
+Data placed here is lost when the power source is no longer available. In
+any computer, RAM is the “working space” available for manipulating
+data for programs. Once the data is sent elsewhere or no longer needed,
+this space is “wiped clean” so that it will be available again for other
+programs.
+
+Multiplex (Mux) Buses are essentially the connections between the CC
+and the various avionics systems that allow multiple electronic signals to
+be transmitted along multiple paths and directions. The most common
+signals used are called “words” and can be either command, status or data
+words.
+
+Mux Bus Failures are faults that are stored and can be viewed by the
+aircrew in the CC NVM when a mux bus has failed a CC-initiated mux
+test. Because of the complexity, integration and the large amount of
+communication between the CC and other avionics systems, it is
+necessary that the CC ensure that the mux bus channels stay in
+synchronization and pass valid signals. The CC monitors the status of the
+mux buses by sending out a “test select word” every second to every
+avionic component on each mux bus. The mux bus failure data can be
+cleared from the CC NVM by the aircrew. This procedure is in the built-in
+test (BIT) lesson.
+
+Bus Controller is an avionic system component that is programmed to be
+“in control” of one or more mux buses and their operations. Being a bus
+controller is the equivalent to being the “master terminal” in a computer
+network setup, with the rest of the avionic system components being
+“remote terminals” or “peripherals.”
+
+AVI-1
+
+

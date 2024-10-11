@@ -1,0 +1,895 @@
+Text from LAN-6_TFR_Capabilities_page_1.jpeg:
+SUPPORTS COURSES
+FIS5EBQ
+
+FISETX
+
+FISESOC
+
+ACADEMIC STUDENT WORKBOOK
+F-15E
+
+LANTIRN
+LAN-6
+TFR CAPABILITIES
+
+MARCH 1999
+
+(SUITE 3 OFP)
+
+AIR COMBAT COMMAND
+
+
+Text from LAN-6_TFR_Capabilities_page_10.jpeg:
+ECCM
+
+The ECCM mode (Figure D-4) is designed to provide maximum capability
+when operating in a jamming environment. The frequency is controlled
+by the system; therefore, frequency selection is removed from the display.
+Jamming may be detected on the TF display as “grassy” returns, both
+above and below the SC. Very powerful jamming may still result in a
+flyup command. ECCM should not be used continuously in place of
+NORM as a precaution against jamming but rather, should be selected
+when needed and deselected when no longer needed. Circular polarization
+makes the TFR less sensitive to small radar cross section (RCS) obstacles
+such as towers. Also, the +5° to -20° scan pattern and 15,000 foot
+command range reduces the climb peak height capability in steep terrain.
+
+IG
+
+200 400
+FLYUP
+co
+
+R31
+G450 MEA
+3500
+
+el ee
+
+|__|
+a wi
+fe}
+ba]
+mn
+
+NAV 16B
+N 23.4
+00:03:10 E
+
+~ Q
+canis
+
+LAN-06-04
+
+Figure D - 4. ECCM Mode.
+
+LAN-6 D-4
+
+
+Text from LAN-6_TFR_Capabilities_page_11.jpeg:
+LPI
+
+To decrease the probability of enemy detection, low probability of intercept
+(LPI) mode may be used. LPI is selected by pressing the EMIS LMT
+button or by boxing LPI on the TF display. LPI uses a 1-bar scan every
+2.5 seconds. Between scans the antenna does not transmit and is stowed
+down and to the left (Figure D-5). As a result, the turn rate is limited to
+0.5°/second (approximately 10-12° of bank at normal low level speeds).
+Like NORM, LPI has some auto ECCM features and can be used at the
+same SCs. Unlike NORM, when in LPI, the TF radar does not
+lead-into-turns. Like ECCM, frequency selection is not available. The
+radar altimeter must be functional to use the LPI mode; OVERRIDE
+cannot be used.
+
+lv |
+
+=
+
+7
+7
+
+STOW POSITION #----------- :
+
+LAN-06-05
+
+Figure D - 5. LPI Mode.
+
+
+Text from LAN-6_TFR_Capabilities_page_12.jpeg:
+Very Low Clearance (VLC)
+
+VLC allows terrain following capability down to 100 feet. It employs a
+2-bar scan pattern and scans every 0.5 seconds. Turn rate is limited to
+2°/second at SCs of 200-1000 feet (approximately 40° of bank at normal
+low level speeds), and is limited to 1°/second for 100 feet (approximately
+20° of bank at normal low level speeds). Since VLC’s 2-bar scan spends
+more time looking along the aircraft’s flight path, you may wish to employ
+this mode if flying over terrain with low reflectivity, such as sand dunes,
+or if the route of flight has obstacles such as radio towers. Like LPI, the
+radar altimeter must be functional to use VLC.
+
+NOTE
+
+Terrain following should not be attempted against extended slopes or a
+series of multiple obstacles along the flight path which would require a
+continuous climb exceeding 20°. An extended slope is defined as upwardly
+sloping terrain which continues for 3 nm or more.
+
+The maximum isolated obstacle heights for straight (turn rate less than
+0.5°/second) and turning flight are defined below. For each condition the
+ground speed must be maintained at or above 400 knots which may
+require afterburner. These limits should also be applied against sheer
+vertical obstacles with a slope greater than 20°.
+
+NORM, VLC, OR LPI MODES
+
+Straight Flight 5000 feet
+Turning Flight 3000 feet
+WEATHER OR ECCM MODES
+Straight Flight 3000 feet
+Turning Flight 2500 feet
+
+LAN-6 D-6
+
+
+Text from LAN-6_TFR_Capabilities_page_13.jpeg:
+TF CAUTIONS, WARNINGS AND ADVISORIES
+
+In addition to the normal caution/warning advisory system, TF cautions
+and warnings are displayed on the HUD, ADI, and TF display during TF
+operations (Figure D-6).
+
+LEFT TF WARNING
+TURN
+CAUTION
+OBST ife.-r20 OBST
+DIVE ANGLE ae
+TF CAUTION meres CAUTION
+1.1 9.06 N 23.4
+7 oe 00:03:10 E
+7 .
+L11%\*
+HUD
+CAUTION WARNING RIGHT TURN
+
+CUE CAUTION
+
+~
+
+E os
+LEFT TURN RIGHT TURN LEFT TURN CAUTION
+CAUTION CAUTION CAUTION CUE
+
+LAN-06-06
+
+Figure D - 6. Display Cautions and Warnings.
+
+
+Text from LAN-6_TFR_Capabilities_page_14.jpeg:
+Cautions (Displays)
+See Figure D-6 for locations of cautions on the various displays.
+
+N-F LOS
+
+The N-F LOS caution appears on the HUD if NAV FLIR video is displayed
+on the HUD, and NAV FLIR line of sight is out of tolerance (more than 13
+mils). Corrective action is to reboresight the NAV FLIR.
+
+ROLL
+
+When the aircraft bank angle exceeds 60° the ROLL caution is displayed.
+Decreasing the bank angle to 60° removes the caution.
+
+TURN RATE
+
+When the turn rate limit of the selected mode exceeds the dynamic bank
+angle indices (bank carets), the TURN RATE caution is displayed.
+
+TURN ACCEL
+
+The TURN ACCEL caution is activated when 2.2°/second’ acceleration is
+exceeded.
+
+DIVE ANGLE
+
+When dive angle is equal to or greater than 15°, the DIVE ANGLE
+caution is displayed. In armed manual TF, a dive angle greater than 15°
+will generate a flyup after 3 seconds.
+
+INS LIMIT
+
+INS LIMIT appears if drift angle (10°), pitch angle (+40°, -20°), or the
+outer roll angle (85°) limits have been exceeded. This is an indication that
+the TF radar antenna gimbal limits have been exceeded. INS LIMIT is
+also displayed momentarily following recovery from a non-TF maneuver or
+during TF start-up.
+
+LAN-6 D-8
+
+
+Text from LAN-6_TFR_Capabilities_page_15.jpeg:
+AIRSPEED
+AIRSPEED is displayed when flying either too slow or too fast.
+
+e Asyour ground speed drops to 400 knots or below, AIRSPEED comes
+on steady to tell you that you are outside of the TF algorithm design.
+
+e As your ground speed drops to between 370 KCAS and 360 KCAS,
+AIRSPEED flashes to show that you are below the airspeed for which
+auto flyups were designed.
+
+e The steering and HUD TF display is removed (and automatic flyup is
+disenabled) if ground speed drops below 360 knots.
+
+@ When accelerating, a flashing AIRSPEED is displayed at .97 Mach to
+indicate that you are exceeding the specification limit of the TF radar
+algorithm design.
+
+The flashing caution has priority over the steady caution.
+
+NO TERRAIN
+
+NO TERRAIN appears when altitude, attitude, or terrain type prevents
+the TF radar from receiving ground returns within a -2 G incremental
+envelope (-1 G for 1000 feet SC). The NO TERRAIN caution will usually
+be present in level flight above approximately 2000 feet AGL. It should go
+out during the TF descent. NO TERRAIN is inhibited in the blended
+mode.
+
+ECCM
+
+ECCM is an advisory cue displayed when the system detects a jamming
+environment which may interfere with TF radar operation.
+
+N-F BRST
+
+The N-F BRST caution is displayed on the HUD when NAV FLIR is
+selected for HUD display and the NAV pod is in boresight mode.
+
+
+Text from LAN-6_TFR_Capabilities_page_16.jpeg:
+Turn Caution Windows
+
+OBST is displayed left and/or right to alert you of terrain that would
+present an obstacle to your flight path if you turned. When in auto TF
+and coupled to a steering mode, turns in the direction of the OBST caution
+are inhibited until the obstacle is passed. Coupled steering will resume
+two seconds after the caution is removed. When an OBST turn caution
+occurs opposite to the turn direction, the aircraft can maneuver in roll
+between the maximum TF bank angle limit in the current turn direction
+and wings level flight. During manual TF, if a turn caution is displayed
+in the direction the aircraft is turning, the pilot should immediately roll
+wings level.
+
+Warnings
+
+All TF warnings, except FLYUP, UNARMED, and NO ATF, activate an
+auto flyup if in auto or armed manual TF. During unarmed manual TF,
+they provide +2 G pitch steering in the HUD, ADI, and TF display. See
+Figure D-6 for locations of warnings on the various displays.
+
+FLYUP
+
+FLYUP is displayed when a flyup is initiated (auto TF or armed manual)
+or required (unarmed manual). The FLYUP caution is to alert the crew to
+take control of the aircraft and complete the flyup maneuver.
+
+UNARMED
+
+When armed flyup protection has been requested with the flyup enable
+switch or TF couple switch, the UNARMED caution is displayed because
+the paddle switch is being held or the aircraft is outside the 40° pitch limit
+of the flyup envelope. This leaves the system in unarmed manual TF.
+
+NO ATF
+When auto TF has been requested with the TF couple switch, the NO ATF
+
+caution is displayed because the paddle switch is being held. This leaves
+the system in unarmed manual.
+
+LAN-6 D-10
+
+
+Text from LAN-6_TFR_Capabilities_page_17.jpeg:
+TF FAIL
+
+The TF FAIL caution is displayed when a TF system component failure is
+experienced or, when in ATF, bank angle, turn rate, turn acceleration,
+dive angle or pitch angle limits are exceeded.
+
+OBSTACLE or G-LIMIT
+
+When an obstacle is detected ahead that is within the aircraft’s flight path
+and requires more than 2 incremental Gs to clear, OBSTACLE warnings
+are displayed on the HUD, ADI, and TF display. The G-LIMIT warning is
+displayed only for a brief instant and may not be seen by the aircrew. In
+addition, the OBST warning lights in both cockpits illuminate. The voice
+warning (“OBSTACLE AHEAD”) is repeated until the system determines
+the object no longer constitutes a problem. If in auto or armed manual
+TF, a flyup is commanded. The OBSTACLE warning occurs if terrain
+returns touch the OBSTACLE warning line on the TF display. The pilot
+must assist the flyup to ensure terrain clearance.
+
+TF LOW
+
+The NAV pod and FCC both contain low altitude monitors (LAMs) that
+predict and indicate when the aircraft will descend below 75% of the SC,
+based on radar altitude and vertical velocity. The TF LOW warning is
+shown on the HUD, ADI, and TF display. Also, the LOW ALT warning
+light is activated. No voice warning will be activated for TF LOW. If in
+auto TF or armed manual TF, a flyup is commanded. If in unarmed
+manual TF, the pitch command box provides pitch steering for a flyup.
+
+TF Advisories and Associated Lights
+
+Two lights which are directly related to TF operations are the A/P light in
+both cockpits and the UNARMED/NO ATF light in the rear cockpit only.
+
+The autopilot (A/P) status light is a green status light located just above
+the utility hydraulic gauge in the front cockpit and above the right MPD
+in the rear cockpit. This light illuminates when both auto TFR is coupled
+and an autopilot steer mode is engaged.
+
+
+Text from LAN-6_TFR_Capabilities_page_18.jpeg:
+The aft cockpit amber UNARMED/NO ATF light illuminates for any of the
+conditions that cause the UNARMED and NO ATF display warnings (TF
+system not armed; auto TF requested, but not controlling the aircraft;
+brute force disengagements) and also if manual TF is conducted with the
+flyup enable switch in OFF.
+
+NOTE
+
+The “BINK-BINK’” tone is activated whenever the UNARMED/NO ATF
+light comes ON. The BINK-BINK tone will not sound until higher priority
+voice warnings have cleared.
+
+FLYUPS
+There are two basic types of flyups: automatic and manual.
+
+Automatic flyups, which are generated during auto TF or armed manual
+TF, are 2 to 3 G incremental pull-ups commanded through the flight
+control system. Automatic flyups which occur when the AFCS is fully
+functional are roll compensated; the system rolls the aircraft to wings
+level while pulling up to accomplish the flyup maneuver.
+
+Manual flyups are accomplished through crew flight control inputs during
+unarmed manual TF in response to TF steering commands and warning
+cues.
+
+Flyup Initiation
+
+Flyups are generated in auto and manual modes due to violation of 75% of
+set clearance (TF LOW), a detected object that requires more than 2 Gs to
+clear (OBSTACLE or G-LIMIT), or a TF component failure (TF FAIL).
+When the flyup is initiated, the FLYUP warning is displayed along with
+the TF FAIL, OBSTACLE, or LOW ALTITUDE warning light.
+
+LAN-6 D-12
+
+
+Text from LAN-6_TFR_Capabilities_page_19.jpeg:
+Auto TF Flyups
+
+During auto TF, flyups are also caused by exceeding the limits in
+Table D-1.
+
+Table D- 1. TF Limits.
+
+Auto TF cockpit cues for flyups due to exceeding TF Limits are:
+
+e AFCS initiated flyup
+
+e TF FAIL - Voice warning and light
+
+Auto flyups are disabled during auto TF when any of the following occur:
+e Ground speed falls below 360 knots
+
+e Drift angle exceeds 10°
+
+e Climb angle exceeds 40°
+
+e Bank angle exceeds 75°
+
+Cues relating to exceeding these arming envelope parameters are:
+e TF FAIL - Voice warning and light
+
+e UNARMED/NO ATF light (RCP)
+
+e UNARMED display warning
+
+e “BINK-BINK’ (After higher priority aural warnings)
+
+
+Text from LAN-6_TFR_Capabilities_page_2.jpeg:
+ADMINISTRATIVE INFORMATION
+
+This student workbook is designed to provide information on the F-15E,
+its systems, and capabilities. It is not a sole source document, but is to be
+used in conjunction with other standard Air Force publications and
+technical manuals. If you find any differences between the material
+contained herein and other governing regulations, adhere to the
+regulations and notify the OPDR.
+
+Changes to this workbook are indicated with a heavy black line in the left
+margin.
+
+Forward recommendations for revision or change to 4 TS, SJAFB, NC,
+275381.
+
+Supersedes: LAN-6, July, 1998
+
+OPDR: 4TS
+
+Index of Changes
+
+Effective Date Pages Affected
+
+
+
+Text from LAN-6_TFR_Capabilities_page_20.jpeg:
+Manual TF & Flyups - Armed
+
+In manual TF, within the 75° bank limit, auto flyups are generated by the
+same conditions as ATF (TF LOW, OBSTACLE or G-LIMIT, or TF FAIL
+for component failure). In armed manual, a dive angle greater than 15°
+will generate a flyup after 3 seconds.
+
+When bank exceeds 75°, no auto flyup is available; however, a TF pitch
+steering display is provided up to 85° bank angle for:
+
+e TF LOW
+e OBSTACLE or G-LIMIT
+
+No flyup is available below 360 knots GS when drift is greater than 10° or
+climb angle is greater than 40°. The cues for the aircrew are the same as
+with ATF.
+
+Manual TF & Flyups - Unarmed
+
+Flyups are indicated through TF pitch steering commands on the relevant
+displays. The crew is responsible for performing the appropriate
+maneuver.
+
+The criteria for the flyup command are the same as manual TF armed.
+
+The UNARMED/NO ATF light is illuminated (RCP) because the TF flyup
+enable switch is off (or the paddle switch is held depressed).
+
+When transitioning to manual TF (MTF) by depressing the paddle switch,
+the system reverts to unarmed MTF with no automatic flyup protection.
+When transitioning to MTF as a result of exceeding pitch breakout force
+or by placing the TF couple switch OFF, flyup protection is available only
+if the flyup enable switch is ON.
+
+LAN-6 D-14
+
+
+Text from LAN-6_TFR_Capabilities_page_21.jpeg:
+Flyup Modes
+
+Flyup modes are dependent on the cause or malfunction that precipitates
+the maneuver. There are three modes.
+
+Mode A - A Mode A flyup commands an incremental 2 or 3 G pull-up (auto
+or manual) to an approximate 20° climb. A TF system component failure
+(TF FAIL) commands an incremental 2 G Mode A flyup to 20°. Tripping
+the low altitude (TF LOW), OBSTACLE or G-LIMIT warning monitors
+commands a constant 3 G incremental flyup. This flyup will continue
+until the monitor is no longer tripped, at which time the flyup transitions
+to a Mode A flyup to a 20° climb. In armed TF, the aircraft rolls wings
+level.
+
+Mode B1 - A Mode B1 flyup is a constant and continuous incremental 2 to
+3 G pull-up until a pitch attitude of +40° is reached. FLYUP is displayed
+on the HUD, ADI, and TF display. The Mode B1 flyup occurs if there has
+been a failure in the INS or its data transmission to the FCC. In armed
+TF, the aircraft rolls wings level.
+
+Mode B2 - A Mode B2 flyup is provided by the hydromechanical system if
+the pitch CAS disengages during armed TF. The control stick is trimmed
+aft to command an incremental 1 G and the PTC drives a stabilator
+nose-up command which provides an incremental 2 G command and fades
+to 0 G incremental in approximately 7 seconds. No roll compensation is
+commanded in this flyup.
+
+In both B1 and B2 flyups, the TF incremental G command trails off at
++40° pitch or after 7 seconds, respectively. However, since the flight
+controls have been trimmed to the pitch up position the aircraft will
+continue through a loop unless you take control of the aircraft and recover.
+
+
+Text from LAN-6_TFR_Capabilities_page_22.jpeg:
+NOTE
+
+After a Mode B2 flyup, it may be necessary to retrim the aircraft within
+the +0.5 G pitch trim limits before reengaging armed TF.
+
+WARNING
+
+The constant G Mode B1 and B2 flyup
+will continue into a loop if allowed to
+continue. The aircrew must make the
+necessary recovery.
+
+Flyup Bottom Line
+
+Regardless of the flyup mode, the pilot is responsible for taking control of
+the aircraft, ensuring a 20° wings level climb to MSA, and then analyzing
+the problem. When FLYUP is displayed, the pitch command box or bar is
+indicating a climb, or warning cues are present, climb immediately. Do
+not dwell in diagnostics. Once at MSA, if the cause for the flyup is
+unknown you can call up the AFCS detail BIT page to determine the
+cause. The cause will be listed under “AUTOPILOT/TF STATUS” on page
+one of the AFCS detail status page.
+
+Flyup Termination (Auto and Armed Manual)
+If a flyup is initiated, depressing the paddle switch terminates AFCS
+
+inputs to the TF generated commands, reverting the system to unarmed
+manual while the switch is held depressed.
+
+LAN-6 D-16
+
+
+Text from LAN-6_TFR_Capabilities_page_23.jpeg:
+END OF TEXT QUIZ
+
+Peak height for WX and ECCM is
+
+a. 38000 feet wings level, 2500 feet banking.
+b. 5000 feet wings level, 3000 feet banking.
+
+c. 5000 feet wings level and 3500 feet banking.
+d. unlimited.
+
+Peak height for NORM, LPI, and VLC is
+
+a. 8500 feet wings level and 2500 feet banking.
+b. 5000 feet wings level and 3000 feet banking.
+c
+d
+
+5000 feet wings level and 3500 feet banking.
+unlimited.
+
+The ROLL caution is dependent on
+
+a. mode.
+
+b. exceeding the bank caret.
+
+c. exceeding 60° of bank.
+
+d. exceeding the system’s ability to construct the command
+corridor.
+
+TF warnings should (be)
+
+a. diagnosed to determine the cause.
+
+b. _cross-checked with the E-scope.
+
+c. considered a reason to flyup.
+
+d. alert the crew to look to the MPD/MPCD for the specific
+
+malfunction.
+
+A Mode A flyup associated with a TF component failure will
+
+flyup into a loop if not controlled.
+flyup to +20° climb.
+
+transition to a Mode B.
+
+always give an auto flyup.
+
+po op
+
+LAN-6
+
+
+Text from LAN-6_TFR_Capabilities_page_24.jpeg:
+6. Regardless of flyup type (auto or manual), the pilot should
+
+analyze the cause.
+
+ensure the system commands 2-3 Gs.
+ensure the pitch bar becomes a box.
+take control and complete the flyup.
+
+ao op
+
+7. WX and ECCM modes differ from NORM in that
+
+neither have look-into-turn capability.
+
+neither have an aircrew selectable frequency.
+
+WX and ECCM mode are only a 2-bar scan pattern.
+look-up is +5° and command range is only 15,000 feet.
+
+poop
+
+8. The turn rate caution limits are shown on the HUD as
+
+a. dynamic bank angle carets.
+b. abank steering bar.
+
+c. an OBST warning.
+
+d. 60° of bank angle always.
+
+9. VLC altitudes are limited to
+
+100 through 1000 feet.
+
+100 feet only.
+
+100, 200, 300, 400, 500, and 1000 feet.
+500 and 1000 feet.
+
+ao op
+
+10. The TF LOW warning is indicated by a
+
+a. low altitude warning light but no flyup.
+
+b. low altitude warning light and flyup.
+
+c. low altitude warning light, “low altitude” voice warning, but no
+flyup.
+
+d. low altitude warning light, “low altitude” voice warning, and
+flyup.
+
+LAN-6 E-2
+
+
+Text from LAN-6_TFR_Capabilities_page_25.jpeg:
+A/P
+ADI
+AFCS
+AGL
+ATF
+CAS
+ECCM
+FCC
+FLIR
+GS
+HUD
+INS
+KCAS
+LPI
+MEA
+MPD
+MSA
+MTF
+NAV
+nm
+
+PTC
+
+GLOSSARY
+Autopilot
+Attitude director indicator
+Automatic flight control system
+Above ground level
+Automatic terrain following
+Calibrated airspeed
+Electronic counter countermeasures
+Flight control computer
+Forward looking infrared
+Ground speed
+Head-up display
+Inertial navigation system
+Knots calibrated airspeed
+Low probability of intercept
+Minimum en route altitude
+Multipurpose display
+Minimum safe altitude
+Manual terrain following
+Navigation
+Nautical mile(s)
+
+Pitch trim compensator
+
+LAN-6
+
+
+Text from LAN-6_TFR_Capabilities_page_26.jpeg:
+RCP
+
+RCS
+
+SC
+
+TF
+
+TFR
+
+LAN-6
+
+Rear cockpit
+
+Radar cross section
+
+Set clearance
+
+Terrain following
+Terrain following radar
+Very low clearance
+
+Weather
+
+
+Text from LAN-6_TFR_Capabilities_page_27.jpeg:
+(This Page Intentionally Blank)
+
+LAN-6
+
+
+Text from LAN-6_TFR_Capabilities_page_28.jpeg:
+BACK PAGE
+COVER SHEET
+
+
+Text from LAN-6_TFR_Capabilities_page_3.jpeg:
+LANTIRN
+
+COVER
+
+TFR CAPABILITIES
+INTRODUCTION
+This workbook is your study guide to the terrain following radar’s
+capabilities.
+CONTENTS:
+INTRODUCTION ...........cccccccccccsssseceeesseneeeeeeseeeeeeessesseeeeeseseeeeeeseseeeeeseaes A-1
+CRITERION REFERENCED OBJECTIVES (CROs)...............ccccesseeeeeees B-1
+STUDENT PREPARATION REQUIREMENTS ...........cccccccccceesseeeeeeeeees C-1
+6 DD, ee D-1
+END OF TEXT QUIZ 0... cccccccccccccccceeesseeeeessenseeeeeeseeeeeeeseeeeeeesseteeeeenes E-1
+GLOSSARY... ecccccccceesssseeeceeseseeeeesssnseeeeeseesaeeeeesesseeeeceseaeeeeesseneeeeeseeaas F-1
+
+A-1 LAN-6
+
+
+Text from LAN-6_TFR_Capabilities_page_4.jpeg:
+CRITERION REFERENCED OBJECTIVES (CROs)
+
+1. Identify TF operating modes, their characteristics, and limitations.
+
+2. Identify causes of TF cautions and warnings, and appropriate aircrew
+response.
+
+3. Identify the causes and characteristics of TF flyups, and aircrew
+response.
+
+REFERENCE
+
+TO 1F-15E-34-1-1
+
+LAN-6 B-1
+
+
+Text from LAN-6_TFR_Capabilities_page_5.jpeg:
+STUDENT PREPARATION REQUIREMENTS
+
+BEFORE CLASS
+
+1.
+
+2.
+
+Study the information contained in section D of this workbook and
+complete the End of Text Quiz.
+
+Read Section I, Navigation Pod, in TO 1F-15E-34-1-1.
+
+
+Text from LAN-6_TFR_Capabilities_page_6.jpeg:
+(This Page Intentionally Blank)
+
+LAN-6 C-2
+
+
+Text from LAN-6_TFR_Capabilities_page_7.jpeg:
+TEXT
+TFR MODE DESCRIPTIONS
+NORM
+
+NORM (Figure D-1) is the most commonly used TFR mode. It has some
+limited ECCM capability and can be used at set clearances (SCs) from
+200-1000 feet. It generates climb/dive commands on terrain out to 6 nm.
+NORM permits turn rates up to 5.5°/second or about 60° of bank at
+normal low level speeds. The F-15E’s maximum bank angle during TF
+operations, however, is 60°. The allowable bank angle is reduced to less
+than 60° during left turns due to fuselage masking of the NAV pod. The
+TF radar’s sensitivity in the NORM mode provides excellent detection of
+obstacles with small radar reflectivity such as radio antennas and towers.
+NORM should be used whenever possible, particularly when approaching
+a turn point (to increase turn capability) and in rugged terrain.
+
+Le- --4
+NAV 16B
+N 23.4
+00:03:10 E
+Oa ud 17S
+
+ryyvy
+
+LAN-06-01
+
+Figure D - 1. NORM.
+
+
+Text from LAN-6_TFR_Capabilities_page_8.jpeg:
+wx
+
+The weather (WX1/WX2) modes use circular polarization to provide TF
+capability while operating in the rain. The TFR climb/dive range is
+reduced to 15,000 feet and the vertical scan limit is reduced to +5° to
+decrease the likelihood of commanding on rain showers above the aircraft
+(Figure D-2). On the TF display, synthetic video is only displayed out to
+2.5 nm, reflecting the reduced command range. As a result, the WX mode
+has degraded peak height capabilities when approaching very steep
+terrain. Ride and frequency selections are the same as NORM. SC
+selections of WX1 are 200-1000 feet. For WX2, SC selections are limited
+to 500 and/or 1000 feet.
+
+|
+| 15,000"
+I
+
+LAN-06-02
+
+Figure D - 2. WX Mode TF Radar vs NORM TF Radar.
+
+If the TF display shows returns like those on the left in Figure D-3, select
+the WX1 mode for up to light to moderate rain and WX2 for heavier
+precipitation and observe the returns. If they disappear from the scope,
+low level flight along the planned route may be continued. However,
+continue to monitor the TF display, since the moisture reflects more
+energy the closer it gets, and the returns may reappear and cause an
+OBSTACLE warning and a climb command.
+
+LAN-6 D-2
+
+
+Text from LAN-6_TFR_Capabilities_page_9.jpeg:
+(7
+
+lin 300
+R200
+
+WARNING
+
+DURING WX2 OPERATIONS, IF THE NO TERRAIN
+= CAUTION IS OBSERVED, THE SYSTEM MAY
+
+BE DESENSITIZED AND GENERATE COMMANDS
+USING CARA ONLY. IF THE TERRAIN IS NOT FLAT,
+AN IMMEDIATE CLIMB TO MEA SHOULD BE
+INITIATED.
+
+0d 1000 ~ \
+
+LLitt
+
+NORM ECCM LPI
+
+WX1 SELECTED WX2 SELECTED
+LAN-06-03
+
+Figure D - 3. Weather Returns.
+
+If weather returns cannot be removed by selecting the WX1 or WX2 mode,
+the crew must either circumnavigate the weather or climb to the
+minimum safe altitude (MSA). DO NOT ignore a climb or flyup command
+due to weather, since the clouds may be masking actual terrain from the
+TFR. Use caution and consider surrounding terrain and flight path before
+selecting WX.
+
+

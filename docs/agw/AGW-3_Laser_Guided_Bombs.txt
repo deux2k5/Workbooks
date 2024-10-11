@@ -1,0 +1,2892 @@
+Text from AGW-3_Laser_Guided_Bombs_page_1.jpeg:
+SUPPORTS COURSES
+FISETX
+FISEBQ
+
+ACADEMIC STUDENT WORKBOOK
+F-15E
+
+AIR-TO-GROUND WEAPONS
+AGW-3
+LASER GUIDED BOMBS
+
+JANUARY 2000
+
+(SUITE 3 OFP)
+
+AIR COMBAT COMMAND
+
+
+Text from AGW-3_Laser_Guided_Bombs_page_10.jpeg:
+Paveway II weapons (Figure D-2) have a tail assembly, which contains
+four folding wings, each with a deployment spring. The wings are linked
+to a mechanism that ensures simultaneous movement. Wing deployment
+is activated at release by an external lanyard connected to the aft positive
+arm attachment. Upon release, shock absorbers restrict wing deployment
+until safe aircraft separation.
+
+PAVEWAY II LGBs
+
+COMPUTER SECTION CANARDS*
+DETECTOR
+CONTROL SECTION
+SEEKER
+ASSEMBL NOSE ADAPTER*
+J | : J
+COMPUTER CONTROL WEAPON BODY WING ASSEMBLY*
+AND GUIDANCE (CCG) (WARHEAD)
+AGW-03-02
+*AIRFOIL GROUP (AFG)
+COMPONENTS
+
+GBU-10 CHARACTERISTICS
+
+WEIGHT 2081 LB
+LENGTH 14 FT 2IN.
+DIAMETER 18 IN.
+WINGSPAN WITH EXTENDERS 28/66 IN.
+SUSPENSION LUG SPACING 30 IN.
+
+GBU-12 CHARACTERISTICS
+
+WEIGHT 610 LB
+LENGTH 10 FT 11 IN.
+DIAMETER 11 IN.
+WINGSPAN WITH EXTENDERS 18/52 IN.
+SUSPENSION LUG SPACING 14 IN.
+
+Figure D - 2. Paveway II.
+
+AGW-3 D-4
+
+
+Text from AGW-3_Laser_Guided_Bombs_page_11.jpeg:
+Fuzing
+
+Paveway I and II use the following fuzes: M905, FMU-26B/B, FMU-81/B,
+FMU-139A/B or the FMU-152/B. Only the FMU-152/B can be used for
+GBU-10 with the MXU-651/B airfoil group (GBU-10 G/B, H/B, J/B)
+Paveway II.
+
+Flight Path Characteristics
+
+The flight path of the LGB is adjusted by the guidance and control section
+to meet the required impact criteria. However, the design of the system
+may result in some effects that can significantly degrade the performance
+of the weapon. The following explanation of the typical LGB flight path
+discusses these effects on performance.
+
+The LGB flight path can be divided into three phases: ballistic, transition
+and terminal guidance. The ballistic (unguided) phase, consists of the
+period of flight which lasts at least as long as the gas grain generator
+delay. The ballistic phase may last the entire time of flight (TOF),
+depending on the field of view (FOV) and/or detector sensitivity
+constraints that restrict target acquisition and guided response.
+
+Ballistic Phase
+
+During the ballistic phase, the weapon continues on the unguided
+trajectory established by the flight path of the delivery aircraft at the
+moment of release. In the ballistic phase, the delivery attitude takes on
+additional importance. If released in a loft, the weapon continues its
+climb, increasing in altitude but losing velocity. For level release, the
+weapon begins to lose velocity almost immediately and continues to
+decelerate until it has established a steep dive angle. Altitude permitting,
+it now ceases to lose velocity and slowly accelerates. If released in a high
+angle dive mode, the weapon normally accelerates from the moment of
+release to impact or until it reaches terminal velocity.
+
+The change in weapon velocity during the ballistic flight can be critical.
+This is especially true if the velocity loss before acquisition is substantial.
+The maneuverability of the LGB is related to the weapon velocity during
+terminal guidance. Therefore, airspeed lost during the ballistic phase
+(and not recovered before acquisition) equates to a proportional loss of
+maneuverability during terminal guidance.
+
+D-5 AGW-3
+
+
+Text from AGW-3_Laser_Guided_Bombs_page_12.jpeg:
+Transition Phase
+
+The transition phase begins at acquisition. The following conditions must
+be satisfied to accomplish acquisition:
+
+1. The target must be within the detector FOV.
+
+2. The reflected laser energy from the target must be of sufficient
+intensity to activate and maintain guidance circuits.
+
+3. The gas grain generator delay must have expired and there must be
+sufficient gas pressure buildup to activate the canards.
+
+At acquisition, there is usually a large error between the weapon velocity
+vector and the line of sight (LOS) to the target (Figure D-3). In the
+transition phase, the weapon attempts to reduce this error by aligning the
+velocity vector with the LOS vector to the target. This phase usually
+takes from 0 to 3 seconds. During this period, the commands to the
+control surfaces are generally sustained for longer periods, causing
+additional energy loss.
+
+Additionally as shown in Figure D-8, the first guidance command is
+usually down for a weapon delivered near the ballistic trajectory to the
+target. This causes the impact angle to be lower if the weapon guides to
+the target than if it remains ballistic. Also if the weapon stops guiding
+(failure of weapon or designator) it will normally resume a ballistic
+trajectory to an impact short of the target.
+
+Terminal Guidance Phase
+
+The terminal guidance phase begins when the apparent guidance error is
+reduced and the weapon develops an oscillating pattern around the LOS.
+An oscillatory flight path is produced because (1) the detector senses only
+the direction (not magnitude) of error, and (2) the canard deflections are
+always full scale.
+
+During terminal guidance, the LGB attempts to keep its velocity vector
+aligned with the instantaneous LOS (Figure D-3). At the instant
+alignment occurs, the reflected laser energy centers on the detector and
+commands the canards to a trail position. At this time the weapon flies
+ballistically with gravity biasing the velocity vector short of the target.
+Therefore, the reflected energy is moved from the detector center, which
+generates an up command. In effect, the weapon’s velocity vector tends to
+oscillate about a point short of the target, which may cause the LGB flight
+path to sag. The extent of this sag is dependent on the delivery angle and
+airspeed.
+
+AGW-3 D-6
+
+
+Text from AGW-3_Laser_Guided_Bombs_page_13.jpeg:
+LGB ACQUISITION
+
+AND GUIDANCE kA
+INITIATION a
+
+LGB BALLISTIC
+TRAJECTORY
+
+LGB LOS FROM
+ACQ TO TARGET
+
+ANGLE ERROR
+SENSED UP
+COMMAND PRODUCED
+
+LGB GUIDED FLIGHTPATH
+
+TARGET
+
+AGW-03-03
+
+Figure D - 3. LGB Flight Path.
+
+D-7 AGW-3
+
+
+Text from AGW-3_Laser_Guided_Bombs_page_14.jpeg:
+Optimum Guidance Time
+
+Release tables for LGBs are generated with consideration for the gas grain
+generator safe separation delay, and provide for 5 seconds of guidance.
+However, field experience has shown that an optimum guidance time of
+
+8 seconds provides a much greater probability of success for low altitude
+deliveries. The minimum TOF to ensure optimum guidance time for low
+altitude deliveries are:
+
+Paveway I (all) .......ccccccccccccccccceceeeeeeeeeeeeeeeees 11 seconds
+Paveway TD eecceccecceccccccccccccceeeeeeeeeeeeeeeeeeeees 10 seconds
+Codin
+
+Laser coding has two purposes: (1) to meet the requirement for
+bomb/target discrimination in a multilaser environment and (2) to provide
+effective operation in the presence of enemy countermeasures. Asa
+result, two code formats have been developed for use: pulse repetition
+frequency (PRF) and pulse interval modulation (PIM). Refer to
+
+TO 1-1M-34-1 (Confidential) for a detailed discussion of laser coding.
+
+Delivery Considerations
+
+LGBs are terminally guided munitions, not wonder bombs that can be
+hurled into the general vicinity of the target and be expected to find, guide
+to and impact the target.
+
+Predicted LGB performance is based on the weapon release at a
+preplanned airspeed, dive angle, altitude and horizontal ground range
+from the target. The different LGB flight characteristics can dramatically
+affect predicted performance. To improve LGB performance, those
+characteristics can be controlled to some extent during the three phases of
+LGB flight.
+
+AGW-3 D-8
+
+
+Text from AGW-3_Laser_Guided_Bombs_page_15.jpeg:
+Energy
+
+Energy, a function of airspeed and altitude, is the prime consideration
+when selecting the delivery parameters. Energy provides the
+maneuverability necessary for the LGB to reach the target. Flight path
+angle and airspeed are the primary parameters the aircrew can vary to
+meet energy requirements. In general, a steeper flight path angle and
+higher airspeed improve LGB performance.
+
+Flight Path Angle
+
+A flight path angle of approximately -30° is the general dividing line
+between associated velocity effects. When the flight path angle is
+shallower than -30°, the weapon continues to decelerate after acquisition
+and until impact. This deceleration reduces the airspeed and thus the
+maneuverability of the weapon. With the loss of maneuverability, the
+control commands must be held longer to return the weapon to the line of
+sight (LOS). The longer the command is held the more the airspeed is
+depleted during the maneuver. When flight path angles become
+shallower, the probability increases for a weapon to impact short of the
+target. Weapons with a flight path angle steeper beyond -30° tend to
+accelerate after acquisition. The steeper the angle above -30°, the greater
+the acceleration. This results in increased maneuverability during the
+final portion of flight, especially for dive angles of -45° or steeper (Figure
+D-4).
+
+35
+30
+AIRSPEED DECAY RANGE
+2 DURING TERMINAL GUIDANCE
+5 (DOES NOT INCLUDE AIRSPEED
+LOSS DURING TRANSITION
+20 PHASE OF FLIGHT)
+
+LGB TERMINAL FLIGHTPATH ANGLE (DEG)
+
+0 5 10 15 20
+AIRSPEED DECAY (KTAS PER SECOND) el
+
+Figure D - 4.
+
+D-9 AGW-3
+
+
+Text from AGW-3_Laser_Guided_Bombs_page_16.jpeg:
+Atmospheric Density Altitude Effects
+
+The LGB flies like a glider, relying on energy for maneuverability. Like a
+glider, the performance of the weapon is directly proportional to the total
+energy possessed at release: potential and kinetic. The kinetic energy
+level of the weapon is dynamic and is continually in a state of change: loss,
+gain or conversion.
+
+The G-producing capability of the LGB is directly related to the weapon’s
+calibrated airspeed. Ballistic range depends on true airspeed. In
+situations where the target may be located at a high density altitude, the
+difference between true and calibrated airspeed becomes an important
+planning factor. Under these conditions the LGB performance may be
+degraded and it may be unable to generate sufficient maneuverability to
+reach the target. In these cases, increasing true airspeed as much as
+practical will compensate for the loss in maneuverability.
+
+AGW-3 D-10
+
+
+Text from AGW-3_Laser_Guided_Bombs_page_17.jpeg:
+Podium Effect
+
+The podium effect (Figure D-5) must be countered when lasing a vertical
+target. As the airborne designator flies around the target, it may become
+impossible to illuminate the front of the target. Although the laser may
+still be on the side of the target, the bomb may not have a clear LOS to the
+laser spot. Once the LGB loses the spot from its FOV, it continues its
+flight ballistically. This usually results in weapon impact short of the
+target. Podium effect may be overcome by your wingman lasing for you
+from behind or attacking from an angle to keep your pod LOS on the
+target face; however, impact angle less than 90° may affect penetration.
+
+TARGET aks
+
+,
+7
+a
+
+\ DESIGNATOR FLIGHTPATH
+
+AGW-03-05
+
+n
+oO
+—
+z
+O
+a.
+<
+ui
+=
+
+Spot Motion
+
+Figure D - 5. Podium Effect.
+
+Every designator has inherent stabilization characteristics that cause spot
+motion while lasing a target. Even with automatic tracking or “perfect”
+manual tracking, airborne designators have some spot motion due to
+aircraft vibration. The amount of spot motion is variable and cannot be
+minimized consistently for a long period of time. Spot motion tends to
+increase the circular error probable (CEP) of the weapon due to increased
+energy loss during the last few seconds of flight. Elevated spot, delayed
+lasing and carefully chosen release parameters increase terminal energy
+
+D-11 AGW-3
+
+
+Text from AGW-3_Laser_Guided_Bombs_page_18.jpeg:
+and help counter the adverse effects of spot motion for low altitude
+deliveries. A good PTRK is also better than ATRK in reducing jitter.
+
+There is also a laser-to-FLIR boresight tolerance of .25 mils and a laser
+beam divergence of .25 mils. To ensure these factors do not pull the spot
+off the target, be sure the target size (1 mil) is twice the diameter of the
+crosshair gap in NFOV (.498 mils) during LGB guidance (Figure D-6).
+
+AGW-03-06
+
+Figure D - 6. Spot Motion.
+Spot Height
+
+Elevating the laser spot on a vertically developed target improves LGB
+performance at low altitude when the shallow flight path angle is most
+apparent.
+
+Consider the situation when an LGB is committed against a small point
+target from a low-altitude delivery. If all the preplanned release
+parameters are met and the weapon acquires the target at the expected
+slant range, the flight path angle during the guidance phase is usually
+-30°, but angles of -10° to -15° are not uncommon. At these shallow flight
+path angles, the influence of gravity is more pronounced than at angles
+steeper than -45°. During oscillatory flight, the weapon is located below
+instantaneous LOS for a larger portion of the time. As the flight
+continues, and the weapon corrects up to the LOS, drag resulting from
+control fin deflection increases and the airspeed decays. As the airspeed
+decreases, the time required to make the correction back to the LOS
+increases, as does the airspeed bleed off, and these effects continue until
+weapon impact.
+
+AGW-3 D-12
+
+
+Text from AGW-3_Laser_Guided_Bombs_page_19.jpeg:
+MOV 6I-d
+
+‘yodg sese'T Sulyeaoly Jo poy “12 - q emnsiy
+
+ZOE: MOV (g) LOdS YASV1 GALVAS1S
+
+AM1dO0Yd LHOMA WALOV
+LA9YvVL
+
+LOdS YASV1
+
+LNIOd 3SVA14y A1dO0u’d LHONMS OLLSITIVa
+
+(¥) LOdS YSSV1 MOT
+
+340d LHOMS WnLov ve
+gov LaOuVL
+
+=n Pa LOds 4ASV1
+
+LNIOd 3SV414y A14d0ud LHONMS OILLSIT IVa
+
+‘SQ'T 1YS1e.14s 044 MOTEq SUTATJ ST UodeamM oY}
+ysnoy} ues 4Iy & SMOYS puR poyeAdgye Jods ese] OY} YIM Jod1e} B SMOYS
+g [l@10eq ‘“[eAe] PUNOLS Je po}eUSISEp Jod1e} B SMOYS VY [1e19q ‘SOLLOATTOp
+
+e[sue MOT SULINP JYUSIey Jods oY} SUISTeI JO SJOoIJo oY} SMOYS /,-q INST
+
+‘IOAOT[IGS Losey] ploae NOA ans oyeUl “Jos.1e}
+
+[@dT}.10A 104.10YS YT “JOds oy} oyeAQTO UVD NOA YSTY MOY OUTULIEJop ABU
+JYSIoy Josie, NOX “yudull punosls uvyy JoyyeI Jos1e} Jo AypIqeqoid oyy
+esvo10Ul AT} e018 ‘UOTJOU Jods SUIPNIUI ‘puNOLS oY} BAOGe JOYSIY 10 JOO} CT
+pezeoq[ Sjods 1ese] ‘sosevatOUl JORCUIT 4.10YS 10} BOUeYD oY} ‘paesve.1Iep ST
+yyStey jods ese] oy} SY “Jos.1e4 9Y4 JO J.L0YS JOe}UOD puNOLS o1nyeuUoId 10F
+sorjiunj1oddo esea1dUl puv Puno. 9Y4 04 Jeso[D UOdvem oy} ade]d sojsue
+yyed yYUSsIy MoTeYyS ‘yoeduil e10joq spuosves [PUTS 94} SULINP soURIeOTD
+ULB110}-0]-G4'T [2UOT}Ippe Sopraoid yYystey jods ese] poyeAsyo ou],
+
+
+Text from AGW-3_Laser_Guided_Bombs_page_2.jpeg:
+ADMINISTRATIVE INFORMATION
+
+This student workbook is designed to provide information on the F-15E,
+its systems and capabilities. It is not a sole source document, but is to be
+used in conjunction with other standard Air Force publications and
+technical manuals. If you find any differences between the material
+contained herein and other governing regulations, adhere to the
+regulations and notify the OPDR.
+
+Changes to this workbook are indicated with a heavy black line in the left
+margin.
+
+Forward recommendations for revision or change to 4 TS, SJAFB, NC
+275381.
+
+Supersedes: AGW-3, February, 1999
+
+OPDR: 4 TS
+
+Index of Changes
+
+Effective Date Pages Affected
+
+
+
+Text from AGW-3_Laser_Guided_Bombs_page_20.jpeg:
+Delayed Lasing
+
+During LGB development, the main delivery method for ballistic weapons
+was high angle, high speed from medium-to-high altitude. These release
+conditions conserved the weapon velocity and in many cases, under the
+influence of gravity, the weapon accelerated and impacted at a velocity
+higher than release. Under these employment conditions, target
+acquisition as early as possible was beneficial and late acquisition could
+prove disastrous. Taking these release parameters into consideration, the
+guidance unit was designed to meet specific miss criteria under these
+release conditions.
+
+As threat capabilities improved, the proposed methods for employing the
+LGB progressed from high speed, high angle to low altitude, low angle.
+
+The change to the low-altitude employment environment increased the
+importance of some LGB flight parameters. For instance, with a
+high-angle, high-speed delivery, early lasing and acquisition was possibly
+an advantage, but certainly not a disadvantage. In the low-altitude,
+low-angle environment this was not true; too early an acquisition was a
+hindrance.
+
+With regard to guidance time, there are three possibilities: insufficient,
+optimum and excessive. As implied, insufficient guidance time does not
+allow the weapon adequate time to acquire the target, remove positional
+errors and stabilize itself about the LOS before impact. Analysis of results
+from flights with less than 6 seconds of guidance time has indicated they
+are usually marginally satisfactory.
+
+AGW-3 D-14
+
+
+Text from AGW-3_Laser_Guided_Bombs_page_21.jpeg:
+During low-angle deliveries, with terminal flight path angles shallower
+than -30°, extended or excessive guidance time produces a detrimental
+effect on LGB performance. This is usually the result of excessive
+airspeed loss. The weapon acquires, maneuvers to establish itself on the
+instantaneous LOS, and (when on the LOS) commands control fins to go
+in-trail. The weapon falls ballistically until an error is sensed by the
+computer. At that time another control fin movement is commanded and
+held until the weapon has returned to the LOS; the control fins then move
+to the in-trail position. The process is repeated over and over until
+weapon impact. During these periods when the control fins are at
+maximum deflection, the increased drag results in an airspeed decay. As
+the process is repeated, the LGB airspeed continues to decrease; and if the
+guidance time is excessive, weapon maneuverability before impact may
+have degenerated to the point of being insufficient to remove final
+remaining errors. Performance degradation has been observed in
+weapons with shallow impact angles and guidance time greater than
+
+12 seconds.
+
+From the boundaries presented for insufficient and excessive guidance
+times (6 seconds and 12 seconds, respectively), it would appear that the
+best result for low-altitude employment of LGBs can be achieved by
+attempting to provide 8 to 10 seconds of guidance time to the weapon
+under these conditions.
+
+Loft deliveries, especially those released at less than +25°, fit into the
+category of low-angle deliveries previously discussed. Loft deliveries
+present their own set of unique characteristics that influence the manner
+in which the LGB responds during guided flight.
+
+The weapon velocity, representing the maneuvering capability available
+for guided flight, may go through radical changes during the loft flight
+profile. The airspeed deviation from release to apogee can vary as little as
+a 12 knot loss for a +5° loft with 450 KTAS run-in to a loss of 253 knots for
+a +40° loft with a 700 KTAS run-in. The loss of airspeed equates to
+reduced maneuvering capability of the weapon during the terminal phase
+of flight before impact.
+
+D-15 AGW-3
+
+
+Text from AGW-3_Laser_Guided_Bombs_page_22.jpeg:
+Figure D-8 shows a typical LGB loft guidance profile. From release at
+point A, the weapon follows a ballistic trajectory, losing airspeed in the
+climb. At point B the guidance electronics are activated to look for laser
+energy within the seeker FOV. At point C the laser spot comes within the
+FOV and the weapon begins terminal guidance. Note that the first
+guidance command is down and the weapon attempts to stay on the LOS;
+it is below the ballistic flight path to the target. This means that any loss
+of guidance will result in the weapon resuming a new ballistic flight path
+that will impact short of the target.
+
+LINE-OF-SIGHT WHEN
+SPOT APPEARS IN FOV
+
+BALLISTIC
+FLIGHT PATH
+
+ATTEMPTED FLIGHT. ——" ~ a
+LINE TO TARGET :
+
+ACTUAL FLIGHT PATH
+
+AGW-03-08
+
+Figure D - 8. LGB Loft Guidance Profile.
+
+Some adverse effects can be mitigated by using the technique of delaying
+target illumination (delayed lasing) that has the effect of conserving
+weapon energy by delaying target acquisition and reducing weapon
+guidance time.
+
+Lofts of +1° to +10°, because of their short times of flight (normally less
+than 12 seconds), do not lend themselves readily to the delayed lasing
+technique. The maximum benefit from delayed lasing can be derived from
+lofts with release angles greater than +10° and up to approximately +25°.
+The primary reason is that LGBs lofted within this band may acquire the
+target and initiate guidance before reaching apogee and therefore,
+generate the problems associated with early acquisition and excessive
+guidance times. Lofts at angles greater than +25° do not usually acquire
+the target until past apogee, but these deliveries are compatible with the
+technique of delayed lasing and benefits associated with its use. When
+employing delayed lasing, plan to designate the target during the last 8 to
+10 seconds of the weapon TOF.
+
+AGW-3 D-16
+
+
+Text from AGW-3_Laser_Guided_Bombs_page_23.jpeg:
+Figure D-9 shows the effects of delayed lasing on a 20°, 550 KTAS loft
+delivery. If the weapon initiates guidance at position 1 as the laser spot
+comes into the weapon FOV, it will not have the energy available to reach
+the target and will impact short. If lasing is delayed until position 2, a
+steeper impact angle will result. This is a risky technique however,
+because if guidance is delayed too long, the weapon may not have time to
+correct the trajectory to the target.
+
+TIMPCT 15 SEC
+478 KTAS TIMPCT 8 SEC
+RELEASE i 438 KTAS
+538 KTAS
++20°
+TIMPCT 20 SEC
+
+1838 FT
+
+IMPACT
+
+15,662 FT TO TARGET > 256 KTAS AT -9°
+
+200 FT TOF 20.8 SEC
+
+550 KTAS 384 KTAS AT -18°
+
+@ ACQUISITION
+
+AGW-03-09
+
+Figure D - 9. Effects of Delayed Lasing.
+
+D-17 AGW-3
+
+
+Text from AGW-3_Laser_Guided_Bombs_page_24.jpeg:
+Optimal Release Point
+
+LGB capabilities are expressed in terms of release envelopes. The release
+envelope for a particular LGB is defined as that region in space where the
+weapon can be released and achieve a 30 foot CEP. This means that for
+given parameters within the envelope, a single LGB has a 50% probability
+of guiding to within 30 feet of the target.
+
+Figure D-10 shows a typical dive release envelope. These envelopes are
+produced by a computer model using many ballistic and aerodynamic
+inputs. FOV boundary limits show the capability of the weapon to acquire
+the laser spot. Within the FOV limit is that envelope where release will
+ensure a 30 foot CEP. In general, the front of the envelope is a FOV limit
+and the rear is a weapon energy limit. Within the 30 foot CEP boundary
+are two points of interest: the ballistic release point (BRP) and the optimal
+release point (ORP).
+
+30-FT CEP
+FRONT BOUNDRY
+
+OPTIMAL LINE
+
+BRP 30-FT CEP
+
+CROSS- SECTIONAL
+
+BOUNDRY
+BALLISTIC
+
+\ A LINE
+
+a
+
+DIVE ANGLE
+
+AIRCRAFT DELIVERY
+DISPERSION (ABOUT ORP) 30-FT CEP
+REAR BOUNDRY
+
+(ENERGY BOUNDRY)
+
+RELEASE ALTITUDE
+
+(ABOUT 30-FT CEP REAR ;
+BOUNDRY) if
+
+ae REAR FOV
+*  BOUNDRY
+FRONT FOV
+
+BOUNDRY A
+AGW.-03-10
+
+Figure D - 10. Dive Release Envelope.
+
+AGW-3 D-18
+
+
+Text from AGW-3_Laser_Guided_Bombs_page_25.jpeg:
+The BRP is the no-wind point where, if the weapon is released, the bomb
+will ballistically hit the target. The ORP is the release point that provides
+the highest probability of success for given parameters.
+
+Valid arguments exist for using both these release points for weapon
+delivery. The BRP gives good probability of target damage if the
+designator or weapon guidance system fails. The drawback to using the
+BRP is that it always lies near the forward edge of the envelope for higher
+angle deliveries where release errors may put the weapon FOV beyond the
+target. This would cause a no-guide and a bomb that hits long of the
+target. For lower angle deliveries, the BRP lies further back in the
+envelope where release errors may put the weapons too short to achieve a
+30 foot CEP.
+
+The ORP location takes into account both delivery errors and LGB
+performance characteristics. Every dive release envelope is characterized
+by dive angle, airspeed and delivery dispersion. A cross-sectioned cut in
+the upper left corner (Figure D-10) illustrates how the LGB 30 foot CEP
+boundary and aircraft delivery dispersion overlay are used to determine
+the ORP. A release at the BRP or 30 foot CEP rear boundary would often
+yield a release outside the 30 foot CEP due to delivery errors. Delivery at
+the ORP yields a release inside the 30 foot CEP.
+
+D-19 AGW-3
+
+
+Text from AGW-3_Laser_Guided_Bombs_page_26.jpeg:
+Figure D-11 is a typical loft release envelope. Every loft release envelope
+is characterized by aircraft run-in altitude, airspeed and delivery
+dispersion. An LGB release between the front and rear FOV boundaries
+will acquire the target, but only the LGB release within the LGB envelope
+will achieve a 50% probability of hitting the target within 30 feet.
+
+BALLISTIC OPTIMUM
+(We \, RELEASE
+
+LESS THAN 50% OF
+WEAPON IMPACTS ARE
+WITHIN 30 FEET
+
+OF TARGET
+
+wal
+
+LAUNCH ENVELOPE
+WITH 6 FOOT
+SPOT HEIGHT
+
+LOFT/TOSS ANGLE-DEGREES
+
+RELEASE GROUND RANGE-KFT
+AGW-03-11
+
+Figure D - 11. Loft Release Envelope.
+
+LGBs released outside the envelope, but within the FOV, will acquire the
+target, but will have insufficient maneuverability to reach the target.
+LGBs released outside the FOV boundaries will not acquire the target and
+will fall ballistically. LGBs released on the ORP will acquire and guide to
+the target with the highest probability of success.
+
+AGW-3 D - 20
+
+
+Text from AGW-3_Laser_Guided_Bombs_page_27.jpeg:
+The F-15E central computer is programmed to deliver LGBs at the BRP.
+Track correction is required to adjust for release at the ORP. Figure D-10
+shows that for long range (high angle) lofts, the ORP is before the BRP.
+This requires a negative track correction for release at the ORP, which
+would cause the bomb to ballistically fall short if guidance fails. For short
+range (low angle) lofts the ORP is long of the BRP. This would require a
+positive track correction, which would cause the bomb to ballistically fall
+long of the target. Note that at low angles, the ballistic line falls outside
+the 30 foot CEP envelope. This means that with no track correction, a low
+angle loft delivery may not achieve a 30 foot CEP even if it guides. Also
+note there is one point at which the BRP and the ORP are the same. Loft
+deliveries at this release point will ballistically hit the target if they do not
+guide. They will also have the highest probability of hit if they do guide.
+
+There are many employment techniques involving the use of the ORP.
+ORP was first developed before delayed lasing techniques and is now not
+considered to be as critical to success. A lot will depend on the advice and
+experience of your squadron weapons officer and others that have
+employed GBUs using both ORP and BRP.
+
+Summary Considerations
+
+e Delivery parameters must be selected that yield a minimum TOF of
+10 to 11 seconds
+
+e Delay lasing until the last 8 to 10 seconds of TOF for low angle
+deliveries. Continuous lasing is recommended for GBU-10s released
+
+above 20,000 feet
+
+e Steeper flight path angle and higher airspeed improve LGB
+performance
+
+e Ensure laser energy stays on the same side of a vertical target from
+which the weapon was delivered
+
+e Keep spot motion to a minimum
+e Elevate the laser spot on vertical targets for low angle deliveries
+
+e Consider ORP techniques
+
+D-21 AGW-3
+
+
+Text from AGW-3_Laser_Guided_Bombs_page_28.jpeg:
+e Paveway I ballistics are not in the PACS for GBU-10; use the PW II
+PACS setting of GBU-10M with a positive along track (+AT) to
+compensate for the short bomb range of the PW I GBU-10/B or
+GBU-10A/B (See Table D-1).
+
+GBU PACS Loading
+
+Figure D-12 shows the PACS load page 5. The depicted GBU-10/12
+suffix letters do not reflect the actual bomb model.
+
+MODE
+
+AGW-03-12
+
+Figure D - 12. PACS Page 5.
+
+AGW-3 D - 22
+
+
+Text from AGW-3_Laser_Guided_Bombs_page_29.jpeg:
+Table D-1 is a comparison of the bomb models to the PACS push button
+used to load bomb models.
+
+MAU-169B/B, D/B
+
+PW Bomb Computer Control PACS Load
+Group Page 5
+I GBU-10/B (MK-84) MAU-157/B PB #5 GBU10M
+GBU-10A/B (MK-84) MAU-157A/B With +AT
+GBU-10C/B (MK-84) MAU-169/B PB #5 GBU10M
+GBU-10D/B (MK-84) MAU-169A/B, D/B PB #3 GBU10A
+Ul GBU-10E/B (MK-84) MAU-169B/B PB #5 GBU10M
+| GBU-10G/B (BLU-109) | MAU-169/B
+GBU-10H/B (BLU-109) | MAU-169A/B PB #4 GBU10B
+GBU-10J/B (BLU-109) || MAU-169B/B, D/B
+GBU-12/B (MK-82) MAU-157/B
+i GBU-12A/B (MK-82) MAU-157A/B daihialaiiaianea
+GBU-12B/B (MK-82) MAU-169/B
+II | GBU-12C/B (MK-82) MAU-169A/B PB #2 GBU12C
+GBU-12D/B (MK-82)
+
+* MAU-169D/B is an improved CCG
+
+Table D - 1. GBU PACS Loading.
+
+AGW-3
+
+
+
+Text from AGW-3_Laser_Guided_Bombs_page_3.jpeg:
+AIR-TO-GROUND WEAPONS
+
+= ae
+1. O
+e o\ fit Pa rere eri
+
+COVER
+
+LASER GUIDED BOMBS
+
+INTRODUCTION
+
+This workbook is your guide in studying GBU-10/12/24 laser guided
+bombs. It familiarizes you with the components, nomenclature and
+operation of the F-15E and these weapons.
+
+CONTENTS:
+
+INTRODUCTION 0000. eecceceeseecesneeeessaeecesaeeeeesaeesessaeeseseesenaees A-1
+CRITERION REFERENCED OBJECTIVES (CROs).............. B-1
+STUDENT PREPARATION REQUIREMENTS ....00. eee C-1
+TEXT oc eecccccccessseeeeceessneeecceesaeeeceessseeeccessaeeeceeesaaeeseeeeaeeeseeeeaes D-1
+END OF TEXT QUIZ sxe sxes cess sive sues sun ses see oxive sues sun snivs sete oeiie mens suse axivs see 3 E-1
+GLOSSARY. eecccessneecesneeeessaeecesaeeeeesaeecsseeeessaeesesaeesnseesessaeeens F-1
+ELAINDOQUIT: cere sane sass sess nese ans wane sve ace ease Aas cis tee om sae NG eS aS i wane a 4 G-1
+
+A-1 AGW-3
+
+
+Text from AGW-3_Laser_Guided_Bombs_page_30.jpeg:
+Mission Planning
+
+The first step is to determine the type of LGB (if available) that will be
+used. Some things to consider:
+
+1. Target Requirements (Table D-2)
+
+Vulnerability (Penetration Resistance)
+
+SOFT SEMIHARD HARD
+(Minimum) (Maximum)
+
+SMALL VEHICLES APC TANKS
+Less than Patrol Boats Armored Cars (Moving and
+10ft x 15ft x 30ft Radar Vans Stationary)
+
+3m x 5m x 10m
+GBU-12 GBU-12 GBU-12
+
+MEDIUM TRANSPORT EARTH BUNKERS BRIDGE PIERS &
+
+12ft x 18ft x 33ft AIRCRAFT Bridges ABUTMENTS
+3m x 6m x 11m Small Buildings
+to
+25ft x 45ft x 100ft GBU-10
+8m x 15m x 30m GBU-12
+
+LARGE WAREHOUSE AIRCRAFT CONCRETE/
+More than POL tanks SHELTERS STEEL
+30ft x 50 ft x 120 ft Transport ships with or without REINFORCED
+9m x 16m x 35m earth cover BUNKERS
+
+GBU-10 GBU-10 GBU-10
+
+Table D - 2. LGB Selection Based on Target Type.
+2. Type of mission (high threat/low threat/show of force only, etc...)
+3. Carriage, employment speed and fuel considerations:
+
+GBU-12 worst case maximum employment speed 525 CAS/.9M
+GBU-10 worst case maximum employment speed 600 CAS/.95M
+
+AGW-3 D - 24
+
+
+Text from AGW-3_Laser_Guided_Bombs_page_31.jpeg:
+Next choose a delivery profile based on the threat, the above factors and
+the weather, to include:
+
+e Laser range depends on humidity, dust, etc.
+e With low ceilings take care not to loft the bomb into clouds
+
+e Rain showers may also affect the bomb before delivery. Paveway IIs
+have a rain impact endurance of ten minutes before the seeker
+degrades.
+
+e Wind effects are discussed in the employment considerations section.
+Employment Considerations
+
+Elevating the laser spot has already been addressed. Laser guided
+ordnance is also affected by wind from release to impact. During the
+unguided portion of its trajectory, the LGB travels with the air mass
+exactly the same as an unguided bomb. Once guidance is initiated, the
+wind affects the weapon in much the same manner as gravity. A
+crosswind will cause the weapon to fly a homing flight path to the target.
+A headwind increases LGB tendency to hit short, or downwind. The loss
+of energy and homing effect are results of the increased number of up
+commands necessary to maintain the LOS.
+
+The spot designation should correct for winds during the guidance phase.
+The winds from the surface to 4000 feet are more significant than those
+above 4000 feet. So wind correction should be based on the average winds
+of these altitudes. The illuminator may compensate for wind by offsetting
+the spot on the target into the wind 1 foot per knot (not to exceed 20 feet
+and never move the spot off the target). Tail wind corrections are not
+necessary as it reduces the range and flight time of the weapon except
+when tail wind exceeds 20 knots and the FOV becomes a problem. Tail
+wind counteracts the LGB tendency to hit short by getting the bombs to
+the target with less energy expenditure. However, spot positioning for
+wind should take second place to other considerations, such as elevated
+spot. The tendency is to overcorrect for wind, and 20 feet is a pretty small
+distance (consider target size).
+
+D-25 AGW-3
+
+
+Text from AGW-3_Laser_Guided_Bombs_page_32.jpeg:
+Target considerations include target study, axis of attack and target
+reflectivity. Satellite photographs from the AFMSS or other sources
+provide excellent target study information. As always, working big to
+small is most effective. The axis of attack may be dictated by ground
+based laser teams, the threat, friendly troop positions or the wish to take
+advantage of environmental elements. Optimizing sun shadow for the
+target pod, maximizing vertical development and minimizing wind effects
+all may lead to a specific attack axis or designation turn off left or right.
+In most cases, especially low altitude, a designation leg with the targeting
+pod looking left is desired rather than looking right through the aircraft
+(i.e. aircraft checks right after release).
+
+Employment Profile
+
+You may be given the opportunity to drop inert or live LGBs while at
+FTU. A typical high altitude, low threat profile is shown in Figure D-13.
+The pilot flies the profile and maintains visual on lead or deconflicts with
+the A/A radar after 12 nm. The WSO performs a PVU prior to 20 nm.
+After checking 30°, mapping, updating and designating (.67 DW) are
+accomplished. No later than 12 nm, the pilot must proceed direct to the
+target (center ASL). The WSO then acquires the target with the targeting
+pod, tracks the target (ATRK recommended), and fires the laser for a
+designation. Valid laser ranging occurs when LAS XXXXX is at the top
+left corner of the targeting pod.
+
+AGW-3 D - 26
+
+
+Text from AGW-3_Laser_Guided_Bombs_page_33.jpeg:
+8 NM - BUNT -OR ROLL/PULL
+VEL VECTOR ON TGT
+
+NLT 12 NM
+
+MAPPING LEG
+
+DIVE
+
+25 DEG AUTO
+RUN IN: 20M AGL
+TRACK : 18M AGL
+PKL: 15M AGL (2G PULL TO RELEASE)
+REL ANG: +14 (+17)
+
+GND RNG : 30.5M FT
+
+TOF: 37" (41")
+
+AGW-03-13
+
+Figure D - 18. GBU High Altitude Threat.
+
+The example given is for a 25° dive. Another delivery option is a level
+delivery.
+
+After bomb release, a 60-90° check off target will maintain the
+designation. Masking occurs according to the target pod limits. Flashing
+cursors indicate approaching a mask condition. Lifting the target side
+wing and a slight bunt (low altitude) should delay the masking long
+enough for bomb impact. Time to impact (TIMPCT.XX) is displayed at the
+top center of the target pod display under PB #18 as well as on the HUD.
+A rule of thumb is if TIMPCT is at 15 seconds or less when the target
+reaches 3/9 (usually about 50-60° of turn) on the pod, masking will not
+occur.
+
+D-27 AGW-3
+
+
+Text from AGW-3_Laser_Guided_Bombs_page_34.jpeg:
+QUESTIONS
+
+1. A GBU-12 consists of which warhead?
+
+pe op
+
+MK-84
+MK-82
+BLU-109/B
+BLU-107/B
+
+2. AGBU-10 can consist of either of which two warheads?
+
+pe op
+
+MK-82/MK-84
+MK-82/MK-106
+MK-82/BLU-109/B
+MK-84/BLU-109/B
+
+3. Paveway II improvements over Paveway I include
+
+a.
+
+AGW-3
+
+improved electronics, laser coding ability, better
+maneuverability and a wider field-of-view.
+
+improved electronics, proportional guidance and fixed wings.
+laser coding ability, lower carriage and release limits, and fixed
+wings.
+
+narrower field-of-view, proportional guidance and better
+maneuverability.
+
+
+Text from AGW-3_Laser_Guided_Bombs_page_35.jpeg:
+Which statement correctly describes terminal guidance phase
+(Paveway I & II)?
+
+a.
+
+b.
+
+The weapon stays aligned with the instantaneous LOS to the
+target at acquisition using proportional guidance commands.
+The weapon attempts to stay aligned with the instantaneous
+LOS to the target and accounts for gravity effects by increased
+commands.
+
+The weapon seeker stares at the laser spot while the guidance
+commands drive the weapon above the instantaneous LOS to
+cause a steeper impact angle.
+
+The weapon attempts to stay aligned with the instantaneous
+LOS to the target, although gravity biases this causing the
+weapon velocity vector to oscillate about a point short of the
+laser spot.
+
+Flight path angle of approximately minus is the general
+dividing line between the weapon decelerating or accelerating during
+the terminal guidance phase?
+
+pe op
+
+10°
+15°
+30°
+45°
+
+D - 29 AGW-3
+
+
+Text from AGW-3_Laser_Guided_Bombs_page_36.jpeg:
+ANSWERS
+
+1. b
+2. d
+3. 06a
+4. d
+5. ¢
+
+AGW-3 D - 30
+
+
+Text from AGW-3_Laser_Guided_Bombs_page_37.jpeg:
+PAVEWAY III
+Low-level, Laser Guided Bomb (GBU-24)
+
+The GBU-24 low-level, laser guided bomb (LLLGB) comprises a
+
+2000 pound bomb body, suitable fuzing and guidance kit. The guidance
+kit consists of two main sections: a guidance control unit (GCU) and an
+AFG. The GCU consists of a laser energy detector (seeker assembly), a
+guidance electronics unit (GEU) and a bomb control section. PW III uses
+helium gas for canard movement. The AFG consists of a folding-wing
+assembly, four canard-type guidance fins, a forward adapter assembly and
+other ancillary items for mounting hardware.
+
+Two versions of the GBU-24 are available. The GBU-24/B (Figure D-14)
+uses a standard MK-84 bomb body, while the GBU-24A/B uses a BLU-109
+bomb body to increase effectiveness against hardened targets. Fuzing
+options include any of those that are compatible with the MK-84 or
+BLU-109 warheads.
+
+CANARDS FORWARD WING ASSEMBLY
+ADAPTER
+
+SEEKER GUIDANCE WARHEAD
+CONTROL (MK-84)
+GUIDANCE UST
+ELECTRONICS
+WINGS |
+DEPLOYE
+AGW-03-14
+Bomb Designation GBU-24A/B GBU-24/B
+Guidance Control Unit WGU-12B/B or WGU-39/B WGU-12B/B or WGU-39/B
+Airfoil Group BSU-84/B BSU-84/B
+Length Assy 169.69 In. 172.76 In.
+Body Diameter 14.5 In. 18.00 In.
+Canard Span 39.25 In. 39.25 In.
+Wing Span
+Stowed 36 In. 36 In.
+Deployed 81.6 In. 81.6 In.
+Total Weight 2372.25 Lbs 2256.75 Lbs
+Warhead BLU-109/B MK-84
+
+Figure D- 14. GBU-24.
+
+D-31 AGW-3
+
+
+Text from AGW-3_Laser_Guided_Bombs_page_38.jpeg:
+The BSU-84/B AFG provides properly sized wings and control fins for the
+MK-84 warhead. Additional adapters are used with the BLU-109
+warhead. The folding-fin wing assembly is mounted on the tail of the
+warhead. The fins are deployed by internal springs immediately after
+bomb release. Fins are off center to roll the bomb.
+
+Performance envelopes for all modes of delivery are considerably larger
+than those for earlier LGBs due to increased maneuverability (larger
+wings), proportional guidance (not bang-bang) and increased seeker
+sensitivity and field of regard.
+
+Fuzing
+
+The GBU-24/B can use the FMU-81/B, FMU-139A/B or the FMU-152/B
+fuzes. The GBU-24A/B can use the FMU-1438 series or FMU-152/B fuzes.
+
+Initialization
+
+At pickle, the bomb is unlocked from its rack and the ejector feet push it
+away. The fuze arming wires are withdrawn, activating one or both fuzes,
+as determined by cockpit arming selection. The thermal battery lanyard
+is tied off to the rear bomb lug and a swivel connects the lanyard to the
+nose arming solenoid. This allows the weapon to be jettisoned without
+activating the autopilot, which could fly the weapon excessive distances
+before impact.
+
+The tail latch is activated by approximately 50 pounds of tension from a
+lanyard that is tied off to the positive arming attachment. This lanyard
+has a weak link that breaks when about 220 pounds of tension is applied,
+allowing the lanyard to fall away with the weapon.
+
+AGW-3 D - 32
+
+
+Text from AGW-3_Laser_Guided_Bombs_page_39.jpeg:
+A typical sequence of events in the first 14 seconds after release is
+illustrated in Figure D-15.
+
+TIME (SECONDS)
+
+0
+
+10
+
+12
+
+14
+
+PICKLE-0.0 SEC
+
+LANYARD PULL-0.1 SEC
+
+FAST BATTERY UP-0.15 SEC
+
+ROLL & PITCH/YAW GYROS UP-0.2 SEC
+
+MAIN SYSTEM BATTERY UP-0.6 SEC
+MICROPROCESSOR ON-0.6 SEC
+
+WINGS DEPLOYED-1.1 SEC
+15,000 FT ALTITUDE TEST FOR BALLISTIC DROP-1.2 SEC
+
+SAFE ESCAPE-CANARDS ACTIVATED-2.0 SEC
+
+BEGIN INITIAL VELOCITY ESTIMATE (MK 84)-2.0 SEC
+
+SEEKER UNCAGE-2.2 SEC
+
+ENGAGE GIMBAL TORQUE MOTORS -2.3 SEC
+
+SEEKER CAN SLEW TO BORESIGHT IF TARGET WITHIN IFOV.
+OTHERWISE, BAR SCAN STARTED.
+
+RATE SENSOR UP-3.0 SEC
+
+TERMINAL GUIDANCE OK-4 SEC
+MK 84 VELOCITY ESTIMATE COMPLETE-4 SEC
+BEGIN MODE DECISION IF VELOCITY IS BELOW 900 FPS
+
+MODE DECISION COMPLETE (VELOCITY 900 FPS)-6.75 SEC
+BAR SCAN OR CONICAL SCAN DECISION-6.75 SEC
+
+MAXIMUM TIME FOR MODE DECISION
+(VELOCITY 900 FPS)-13 SEC
+
+AGW-03-15
+
+Figure D - 15. Overall System Time Line.
+
+D - 33 AGW-3
+
+
+Text from AGW-3_Laser_Guided_Bombs_page_4.jpeg:
+CRITERION REFERENCED OBJECTIVES (CROs)
+
+1. Identify the functions of the major components of the GBU-10/12/24
+weapon systems.
+
+2. Identify the operational characteristics and major delivery
+considerations of the GBU-10/12/24 weapons in their various modes
+of operation.
+
+3. Identify the operational characteristics of the GBU-28 weapon
+system (familiarization only).
+
+REFERENCES
+
+TO 1F-15E-1 Section V External Stores Limitations
+
+TO 1-1M-34 Section I GBU-10/12 Laser-Guided
+Bombs
+GBU-24 Low Level,
+Laser-Guided Bomb
+
+TO 1F-15E-34-1-1 Section I GBU-24 Employment
+
+GBU-10/12 Envelope
+
+AGW-3 B-1
+
+
+Text from AGW-3_Laser_Guided_Bombs_page_40.jpeg:
+Major initialization events are as follows:
+
+1.
+
+The two lanyards are pulled approximately 0.1 second after pickle.
+The rear lanyard activates the wing deployment sequence only.
+
+The next event in the time sequence is a ballistic mode test at 1.2
+seconds. If altitude, as indicated by the barometer, is greater than
+15,000 feet, the ballistic mode is entered after bump-up.
+
+In the example, the safe escape timeout is shown at 2.0 seconds. The
+software timer starts at microprocessor-up and runs for 1.3 seconds
+to ensure at least 1.5 seconds from lanyard pull, to canard activation.
+Before this time, the canards are in free trail. When the control fins
+are activated, a positive (up) vertical command is issued. This starts
+the initial velocity estimate sequence and provides an early pull-up
+or bump-up that may be critical if the release altitude is low.
+
+The initial bump-up command excites the airframe and causes a
+short series of pitch oscillations. The frequency of these oscillations
+is air-speed dependent, and measurement of the frequency of the
+oscillations provides a measure of airspeed. The airspeed estimate is
+used for nearly all decisions and calculations made by the
+microprocessor. This initial velocity estimate is updated
+continuously throughout weapon flight.
+
+The seeker is uncaged at 2.2 seconds and the gimbal torquers are
+energized at 2.3 seconds. If, at this time, the target return is within
+the seeker's instantaneous field of view (IFOV), such as when
+working close to the target, the seeker will slew to center the target.
+This feature allows direct transition to terminal guidance at
+
+4 seconds.
+
+AGW-3 D - 34
+
+
+Text from AGW-3_Laser_Guided_Bombs_page_41.jpeg:
+6. After 4 seconds have elapsed, the delivery mode decision can be
+made. The length of time required for this decision is complicated by
+several factors, and the time line reflects worst-case conditions.
+Therefore, the delivery mode decision to follow a loft, level or dive
+midcourse can occur between 4 and 13 seconds. Pressure altitude
+changes, between successive altitude measurements, are used to
+determine if the weapon is climbing, diving or nearly level. If the
+initial velocity estimate is above 900 fps, a delay of up to 10 seconds
+allows the weapon to slow down. If the airspeed drops below 900 fps
+prior to 10 seconds, the altitude measurements begin and an earlier
+decision is made. The altitude and velocity differentials are
+triangulated to determine the climb or dive angle. This angle
+computation determines the midcourse mode to be entered.
+
+The decision zones for midcourse selection are:
+@ Level or altitude-hold mode: -10° to +15° FPA
+@ Loft mode: above +15° FPA
+@ Dive or constant glide slope mode: below -10° FPA
+
+Because of measurement inaccuracies, an improper mode decision may
+occur when the weapon is released near the -10° or +15° decision
+boundaries. This zone of improper mode selection is several degrees wide,
+and its variance about the decision boundary changes with Mach. This
+improper mode selection has minimal consequences.
+
+In the loft case, an improper decision places the weapon in the
+altitude-hold mode. Because the range capability in altitude-hold is
+generally greater than the loft capability, the weapon reaches the target
+unless the desire was to loft over a range of hills. Therefore, when lofting
+to clear intervening terrain, a minimum loft angle of 20° should be used.
+
+D- 35 AGW-3
+
+
+Text from AGW-3_Laser_Guided_Bombs_page_42.jpeg:
+9¢-d 6 MOV
+
+‘SOTPTIME Pag epoD “OT - C amnsty
+91-€0-MOV g/6e- NOM
+
+10414S
+
+NOISSIN
+3 &
+ce
+
+4LNAdI NOdvVAM 3qoWw
+
+1Lo414S
+
+LNAI AWVeselV AqoW
+
+LINN TONLNOOD
+AONVAIND
+
+‘Apog quIog F8-MIN 844 10J G/AZT-NDM PY} UO pasn T epoy] Jo
+
+Nol] UI PesNn ST G Bpos{ OSTY “Ppoe}e[es epour oy} UO peseq oe SOT}STIOJORIeYO
+JST oY} puw serpoq qurIog Y}0q Io} g UOTTISOd 03 Yes ST YOITMS
+
+JUSpI SuUOdeeM 9Y} 1NQ TeTIUIIS ST G/GE-NNM PUL ‘Aleyveredes possnostp
+
+Oq [LM 1eY} SeTord syeTes opowl YOeY ‘poesn jou ore 4nq ‘ssuT}jes opou
+10Y}O 9Y} JO oUIOS oyeoT[dnp g 04 G SuOT}ISOd opopy, “yun soUepINS g/qZT
+“NOM ® pue 78-MIA B UM F Ysnory} Z Sepoy SuIsN fl pF JUSpT ourvazarE
+yeleg ‘osn 10j poaoidde ore pue Apog quiog F8-YIW ey} LM [eM 410M
+
+p 0} Z SuoT}Isod epoyy ‘oAOMOFT ‘Pf 04 T SuOTISOd sesn g/VPZ-N gD ey
+OTT “YD}IMS STUY JO T Uorpsod ATUO osn 0} pousisep SVM /PZ-NAD MUL
+‘moJ0ITe oy} Aq peiisep o[oid UoIsstul repno1}.1ed ay} SJeTES YOIIMS ACOIN
+SEL A/VPS-NAD 94} 10F (60T-N' TA) F PUP A/FS-NAD O4} 10F (F8-MIN) G
+
+0} peuorjisod st YoUMS [NACI ANVUANIV UL ‘eremyyos optjord
+
+uoISsTu oyeTIdordde ay} 4eTES 0} pesn a1e SOYDILMS (ACOIN) ees opour
+
+pue (INACI AINVUAIV) Boryeortquepr oureyare oy} “G/AZT-NDM 4}
+uO ‘(9I-q e4NSTq) (QOM) §$}uNn souepIns uodvemM IeTIUIIS OM} O18 OIOUL,
+
+TWOT}JIOTOS UOISSTY
+
+
+Text from AGW-3_Laser_Guided_Bombs_page_43.jpeg:
+Mode 1 Delivery
+High Altitude Delivery
+
+Above 15,000 feet (break altitude), the LLLGB follows a ballistic
+midcourse (Figure D-17).
+
+WEAPON BUMP-UP
+
+WEAPON _
+BUMP-UP BALLISTIC yy
+
+‘ Fi \
+™ MIDCOURSE oa \
+ra ‘\
+<at> if
+/
+
+ACQUISITION
+
+SSS A g BIASED
+S a TERMINAL
+
+NN TRAJECTORY
+
+BALLISTIC PROFILE
+
+AGW-03-17
+
+Figure D - 17. Delivery Above 15,000 Feet.
+
+At a maximum time of 1.2 seconds after release, the computer reads the
+altimeter. If the altitude is above 15,000 feet mean sea level (MSL), the
+canards are driven to the 0° deflection position after safe separation and
+bump-up. The weapon then falls ballistically until acquisition. After
+acquisition, terminal guidance is initiated and a g-biased proportional
+guidance trajectory is established. This trajectory shaping generally adds
+5° to 10° of impact angle to the weapon acquisition angle. Impact angles
+from 25° to 65° can be achieved. Planning considerations for this type of
+delivery are virtually the same as those for the Paveway I and Paveway II
+systems. Other considerations are:
+
+1. Dive bomb deliveries above 15,000 feet may require a depressed
+
+pipper because the weapon falls ballistically and not in the constant
+glide-path mode available below 15,000 feet.
+
+D - 37 AGW-3
+
+
+Text from AGW-3_Laser_Guided_Bombs_page_44.jpeg:
+2. Because the weapon has excess energy from releases above
+15,000 feet, true centroid releases from the center of the envelope are
+possible. This type of release does not degrade weapon accuracy as it
+did in earlier LGBs because the seeker sensitivity is greater.
+
+This equates to, “when in doubt, release early, not late.” In dive
+deliveries, do not press the front edge of the envelope expecting greater
+accuracy as in the Paveway I and Paveway II.
+
+Deliveries below 15,000 feet have an adaptive midcourse based on delivery
+attitude.
+
+Level Delivery Below 15,000 Feet
+
+Level delivery of the LLLGB is possible down to normal level safe escape
+altitude of about 500 feet AGL. After release, the weapon climbs
+approximately 450 feet (bump-up) and then levels off (Figure D-18). After
+level-off, the weapon holds a straight-and-level midcourse until target
+acquisition occurs. After the acquisition, the terminal mode is entered
+where trajectory shaping (G-bias) occurs to achieve a good impact angle.
+In addition, proportional navigation guidance is initiated to cancel wind
+and target motion effects.
+
+BUMP-UP
+ACQUISITION
+
+ALTITUDE HOLD MIDCOURSE
+
+ane , TERMINAL
+LEVEL DELIVER — TRAJECTORY
+ACQUISITION a os
+LINE OF SIGHT
+
+LEVEL BOMB ENVELOPE
+FROM -10° TO +15° ;
+AGW-03-18
+
+Figure D - 18. Level Delivery Below 15,000 Feet.
+
+The level or altitude hold mode is entered after the bump-up maneuver is
+completed and flight path angle lies between -10° and +15°. To ensure not
+exceeding the level profile limits, the F-15E will not release a bomb in
+AUTO mode outside of +10° to -5° with a loft angle of 0° set in the A/G
+delivery program page.
+
+AGW-3 D - 38
+
+
+Text from AGW-3_Laser_Guided_Bombs_page_45.jpeg:
+During altitude hold, the seeker +30° azimuth bar scan pattern is
+approximately 10° below the inertially sensed horizon. The
+straight-and-level midcourse is flown until target acquisition, at which
+time a transition is made to the terminal mode.
+
+The terminal mode causes the weapon to climb slightly and then nose over
+toward the target. The impact angle from level flight is generally 25° and
+is always at least 10° if the weapon is released within the envelope.
+
+Level Safe Escape
+
+A miniloft delivery (2° to 12° of pitch) is required for releases below the
+weapon safe escape altitude. This slight pitch up ensures safe escape
+since the weapon is bumping to a level flight profile and also may fall
+away ballistically and hit the ground prior to its bump. For safe escape, a
+4 G turn must be used after release for 500 feet level and miniloft
+deliveries. This type of weapon delivery is sensed as a level delivery if
+release is below the +15° boundary and the weapon will enter the
+altitude-hold mode. Figure D-19 shows the required pitch angle for safe
+escape when releasing below the level safe escape altitude (with a 4G
+break). The example indicates the pitch angle required for safe escape
+from a 100 foot AGL release at 500 KTAS. The MK-84 requires a 5°
+minimum pitch angle.
+
+300-KTAS RELEASE
+
+PITCH-UP ANGLE (DEG)
+
+0 200 400 600 800 1000
+MINIMUM RELEASE ALTITUDE (FT AGL)
+WITH 4-g BREAK AGW-03-19
+
+Figure D - 19. Miniloft Safe Escape Criteria.
+
+D - 39 AGW-3
+
+
+Text from AGW-3_Laser_Guided_Bombs_page_46.jpeg:
+Employment of the LLLGB in the level or altitude-hold mode requires
+adequate planning to use the full potential of the weapon. Major
+considerations include weapon TOF, acquisition range and LOS
+restrictions.
+
+Dive Bomb Delivery Below 15,000 Feet
+
+Dive bomb delivery was designed for the Mode 1 low profile, but can be
+used in any mode. Dive bomb delivery of the LLLGB is more simplified
+than the delivery of other conventional weapons when the LLLGB is
+released below 15,000 feet. It is called a point and shoot delivery and is
+delivered in DIRECT instead of AUTO. Remember in AUTO the bomb
+will not release with lower than a -5° FPA. It is only necessary for the
+crew to point the aircraft at the target and release the weapon (pickle).
+The velocity vector within 25 mils of the target is the preferred pointing
+method, but a pipper mil setting or the ZSL gun cross may also be used.
+After release, the weapon bumps up and then acquires the aircraft dive
+angle at release and flies a constant glide-path to the target (Figure D-20).
+
+15,000 FEET MSL ___ ---------------------------------------------
+
+BUMP-UP
+
+ACQUISITION
+
+CONSTANT GLIDESCOPE
+MIDCOURSE
+
+g-BIASED
+TERMINAL
+TRAJECTORY
+
+DIVE BOMB ENVELOPE
+FROM -10° TO -90°
+
+AGW-03-20
+
+Figure D - 20. Dive Bomb Delivery Below 15,000 Feet.
+
+At acquisition, the terminal mode will bias the subsequent flight path
+above the initial flight path to a degree dependent upon the mode
+selection on the weapon and the time spent in the terminal mode. For
+most deliveries, the resulting impact angle is 5° to 10° steeper than the
+
+AGW-3 D - 40
+
+
+Text from AGW-3_Laser_Guided_Bombs_page_47.jpeg:
+release angle and impact angles range from 25° to 65° for Mode 1 and 2 or
+steeper for Modes 3 and 4. Because a dive profile will impact in the
+vicinity of the target even if it does not guide, this delivery was used
+extensively in Kosovo. A Mode 4 high diving profile has also been used in
+Northern Watch and achieved in excess of 70° impact angles.
+
+The base leg placement is not critical in most deliveries because dive angle
+is not a factor when the airspeed is above 400 KTAS and the ground range
+is less than 17,000 feet. These minimum parameters allow a dive angle
+between 10° to 60° with no concern about the weapon having sufficient
+energy to reach the target. As the release airspeed is increased, the
+maximum ground range possible extends to well over 40,000 feet at 700
+KTAS.
+
+Loft Delivery (All Altitudes)
+
+Loft deliveries with the LLLGB are compatible with standard loft delivery
+techniques. When the weapon is lofted above 15°, the weapon's computer
+senses the delivery method and zeroes the canards after the bump-up
+maneuver. The weapon then flies a ballistic trajectory until acquisition
+(Figure D-21). After acquisition, the weapon trajectory-shaping algorithm
+produces a flight path that is flown above the acquisition LOS. This
+prevents the trajectory sag and short-of-the-target impacts associated
+with Paveway I and II. Impact angles of 55° to 65° are achieved.
+
+ACQUISITION
+BALLISTIC
+MIDCOURSE
+
+g-BIASED
+TERMINAL
+TRAJECTORY
+
+™~ BUMP-UP BALLISTIC TRAJECTORY
+
+AGW-03-21
+
+Figure D - 21. Loft Delivery.
+
+D-41 AGW-3
+
+
+Text from AGW-3_Laser_Guided_Bombs_page_48.jpeg:
+Mode 2 Delivery
+
+Delivery options in Mode 2 are identical to Mode 1 except performance is
+improved against hard targets by limiting canard travel to 5° just prior to
+impact. This reduces the weapon's angle of attack (AOA), improving
+penetration characteristics. Mode selection is based on 10,000 feet versus
+15,000 feet. The BLU-109 bomb body also increases penetration of hard
+targets. Mode 2 is preferred over Mode 1 due to greater penetration and
+greatly improved software coding. There is also a fast track profile in
+Modes 1 and 2. If acquisition is made prior to completion of bump, G bias
+starts immediately for steeper impact. Continuous lase is standard with
+PW III since energy loss is not a factor as with PW II. If you do not want
+fast track, delay lasing until initialization is complete. Fast track may
+cause the bomb to enter clouds and lose track.
+
+Mode 3 Delivery
+
+This mode was designed to provide a low altitude delivery (below
+
+8000 feet) against a horizontal or vertical hard target such as runways or
+hardened command and control facilities (Figure D-22). This mode allows
+the aircrew to deliver the weapon with ceilings as low as 2000 feet, if 500
+foot AGL run-in altitude is used to deliver the weapon. At weapon
+release, the bomb performs a bump-up maneuver of 1100 feet to
+approximately 1600 feet AGL and enters an altitude-hold mode similar to
+Mode 1. The guidance package enters into a box scan and searches for
+laser energy. After acquisition, the weapon enters a gimbal angle hold
+mode where the control system tries to establish and hold a 27° look-down
+angle between the weapon centerline and seeker line of sight. Impact
+angles of 35-40° are achieved against horizontal targets and 50-55°
+against vertical targets.
+
+AGL 27° GIMBAL ANGLE HOLD
+ACQUISITION RELEASE
+
+<— HARD PUSHOVER / a
+
+/— CANARD LIMIT Tao Bar
+“ LEVEL MIDCOURSE WITH
+35° TO 40° IMPACT ANGLE BOX SCAN
+
+AGW-03-22
+
+Figure D - 22. Level Low-Level Delivery, 2000 Foot Ceiling.
+
+AGW-3 D - 42
+
+
+Text from AGW-3_Laser_Guided_Bombs_page_49.jpeg:
+At longer acquisition ranges, the weapon may even climb to establish the
+27° look down. As the weapon approaches the target, a point is reached
+where its maneuver limit is met. At this point, the weapon pushes over to
+center the seeker head, i.e., flies toward the target. Approximately
+
+7.5 seconds later the canards are limited to 5° of deflection to reduce AOA
+at impact. Impact angles of 35° to 40° can be achieved from a 500 foot
+level delivery. If weather and defenses allow, much higher impact angles
+against horizontal hard targets can be achieved by increasing the
+weapon's release altitude.
+
+A medium to high altitude delivery option was added to Mode 3 increasing
+the weapons versatility (Figure D-23). In the medium to high altitude
+arena, the weapon has the capability to destroy hardened vertical targets.
+Above 8000 feet MSL, the weapon searches for laser energy with a box
+scan. At acquisition, the weapon pushes over to enter a 17° terminal glide
+all the way to the target. Canard limiting is also used in this mode to
+decrease AOA just prior to impact.
+
+CONSTANT 17° GLIDE-PATH —-
+ANGLE MIDCOURSE a \
+AND TERMINAL RELEASE
+8K \ pox SCAN
+MSL
+
+AQUISITION
+
+_“¢#—_ CANARD LIMIT
+
+a 73° IMPACT ANGLE ON A VERTICAL SURFACE
+
+AGW-03-23
+
+Figure D - 23. Level Medium-to-High Altitude, Vertical Target.
+
+It is better to release the weapon near the rear of the envelope in Modes 3
+and 4 to provide better biases and end game results. There is no
+advantage to pressing the front of the envelope as a GBU-24 always has
+good energy.
+
+D - 43 AGW-3
+
+
+Text from AGW-3_Laser_Guided_Bombs_page_5.jpeg:
+STUDENT PREPARATION REQUIREMENTS
+BEFORE CLASS
+
+1. Study the information contained in this workbook and complete the
+End of Text Quiz.
+
+2. Read the references listed on page B-1.
+
+C-1 AGW-3
+
+
+Text from AGW-3_Laser_Guided_Bombs_page_50.jpeg:
+Mode 4 Delivery
+
+This mode is very similar to Mode 3 with one major exception. After
+release below 8000 feet, the weapon climbs 2500 feet above release
+altitude and enters an altitude-hold mode to attack horizontal targets. An
+additional requirement for this mode is a 3500 foot ceiling (Figure D-24).
+Again, at acquisition the gimbal angle hold of 27° is initiated. Trajectory
+shaping through the pushover maneuver and higher altitude result in
+impact angles of 45° to 50° versus Mode 3 impact angles of only 35° to 40°.
+
+ist. MODE DECISION ALTITUDE
+
+0S
+3500] MINIMUM CEILING == 27°GIMBALANGLEHOLD
+AGL ACQUISITION
+
+mos = RELEASE
+
+HARD PUSHOVER
+
+2
+
+LEVEL MIDCOURSE WITH
+45° TO 50° IMPACT ANGLE BOX SCAN
+
+AGW-03-24
+
+Figure D - 24. Level Low-Level Delivery, 3500 Foot Ceiling.
+
+AGW-3 D - 44
+
+
+Text from AGW-3_Laser_Guided_Bombs_page_51.jpeg:
+A medium to high altitude delivery option was also incorporated into
+Mode 4 adding another method for the weapon to penetrate horizontal
+hardened targets. Like Mode 3, at weapon release above 8000 feet MSL,
+the weapon enters a box scan and pushes over to 17°. Instead of
+maintaining 17° through impact as in Mode 3, at acquisition the weapon
+starts a trajectory shaping routine that may be level flight or even a slight
+climb to maximize impact angle (55° to 60°, 70° max) (Figure D-25).
+
+RELEASE
+ACQUISITION
+
+27° GIMBAL ANGLE HOLD CONSTANT 17° GUIDE
+
+PATH ANGLE WITH
+\ BOX SCAN
+ak |./.... HARDPUSHOVER
+MSL “
+/ CANARD LIMIT
+
+a
+i ‘4
+: ,
+
+f .
+
+F ,
+: ,
+
+,
+¢
+,
+
+55° TO 60° IMPACT ANGLE
+
+AGW-03-25
+
+Figure D - 25. Level Medium-to-High Delivery, Horizontal Target.
+
+D- 45 AGW-3
+
+
+Text from AGW-3_Laser_Guided_Bombs_page_52.jpeg:
+Delivery Profile Summary
+
+The delivery options of the GBU-24 seem numerous and somewhat
+confusing. To simplify the thought process a bit:
+
+@ Mode 1 is used for soft targets with adaptive midcourse profiles based
+on delivery parameters.
+
+@ Mode 2 uses the same flight profiles as Mode 1, but the break altitude
+is reduced to 10,000 feet and terminal guidance was added to limit
+canard deflection and increases the weapon’s penetration.
+
+@ Modes 3 and 4 are completely different level delivery modes adding
+four additional trajectories for the GBU-24. The break altitude is now
+8000 feet. One profile is for vertical targets, two are for horizontal
+targets and one can be used for either vertical or horizontal targets.
+
+@ See Section G for mode comparisons and quick reference summary
+pullouts.
+
+@ The MK-84 bomb body can be used in Modes 2 through 4 if the
+BLU-109 is selected on the guidance unit (WGU-12B/B).
+
+LLLGB Employment Considerations
+
+GBU-24s have no backup ballistic delivery option. If the target is not
+illuminated or the guidance system fails, the weapon will not impact the
+target. Ifa backup ballistic capability is desired, consider using Paveway
+I or II LGBs.
+
+A GBU-24 may lose the laser spot because of laser turnoff, airframe
+blanking or blockage caused by clouds or terrain. At acquisition loss the
+seeker stares at the target for 2.5 seconds and if there is no reacquisition,
+enters a lost acquisition routine. This attempts to maneuver the weapon
+close to the target, but impact may not occur close enough for target
+destruction.
+
+AGW-3 D - 46
+
+
+Text from AGW-3_Laser_Guided_Bombs_page_53.jpeg:
+MOV LvV-d
+
+‘suideys Aropoflery, [[]] AeMoAeg ‘97 - G eINsIy
+
+92-€0-MOV
+
+LHSIS-SO-ANIT
+
+A YaSV71 SNOANVLNVLSNI
+
+Il AVMAAVd
+
+AYOLOSPVYL ae _
+TWNINMSLGSSvVIG-6 Tce at,
+Ill AVMAAWd
+
+NOILISINDOV
+
+‘sopsue yoeduil 19d90}s pue sesues 1asUO] PTeLA [[IM JO, uodeom
+
+oY} NOYSNO1Y] SUISL] SNONUT}UOD “4OvJ UT ‘SPZ-Nq5 ILM poesisep
+
+4OU ST SUISeT poAvTop ‘e1ojoroyy, ‘surdeys A10400fe1 04 onp sdueUts.o;.10d
+SoAoIdUt Jods Jesey oy} JO UOTTISINboe AT.1e9 ‘SeLIEAT[Op YO, SuLING @
+
+(9G-C OANSTT) SGOT II pue J Aemoarg
+yytM Ses A10p0fe1 Jo oy1soddo yoor1p oyj—sepdue jyoeduit 1edee}s
+UI }[NSoel soUepPINS [eUIULI9} UI SsuIdeys Ar1Opoler, pue yOVI. Se @
+
+sopsue AIOAT[OP MOT Je soOUeULIOJ10d
+SoAOIdUIT YOIYM ‘oouvpingd sueq-sueg UeYy JoeyyeI [euOTZI0do1g @
+
+:0} ONp sd1o0ya Jo
+uodvem 0} SI 7Z-NAD OY} ‘pouueld st Ateatjop {HT epnyiiye Moy BUSY
+
+
+Text from AGW-3_Laser_Guided_Bombs_page_54.jpeg:
+GBU-24 performance envelopes have been developed for level, miniloft,
+loft or dive deliveries. With GBU-24 on the aircraft, the mode must be
+selected on the PACS load page and the A/G weapon delivery submenu
+contains entries for desired ground range, time-to-lase and loft angle
+(Figure D-27).
+
+GBU-24s are loaded from page 5 on the PACS load page. GBU-24
+
+(PB #14) is only for mode 1. GBU-24A (PB #13) allows MODE SELECT to
+appear at PB #7 (after station loading), which cycles the mode under the
+boxed, loaded stations (MS-1 to MS-4). The GBU-24s are then
+programmed as usual on the PACS program page. CDIP is not an option.
+Usually AUTO is selected on the PACS and DIRECT is optioned in the
+front cockpit by taking command of the HUD (A/G master mode) and
+going aft on the auto acq switch. This action changes AUTO to DIRECT
+on the PACS page as well as on the HUD.
+
+The A/G delivery page is then used to set the weapon parameters. Loft 0°
+is used for all but loft deliveries. TARM is not an option at PB #6.
+
+Desired ground range (DGR) is set at PB #7 and is the release range for
+an AUTO delivery. In DIRECT the pickle button is hot and DGR is not
+considered.
+
+Lase time is usually continuous, but 12, 15 or 20 seconds are options.
+Times are entered through the scratch pad; type “C” for continuous.
+Release data for other lase times has not been calculated and cannot be
+entered.
+
+AGW-3 D - 48
+
+
+Text from AGW-3_Laser_Guided_Bombs_page_55.jpeg:
+L—| Wolo 78
+
+(OOnOn
+
+LOFT 0° DGR_21000'
+ALAS CONT
+
+CBT 1
+CBT 2
+
+a OfOfOtoiol
+
+STEP) NIT
+OPTIONS
+AUTO DIRECT
+
+@ CHOLOTO " @
+
+GBU-24 PACS PROGRAM
+
+5 ®
+© (fete Ty) F
+LAS HRM AGR PASS RALT
+
+mst]
+
+PROG
+PAGE
+
+AUTO PRIOR. STATUS
+VAL
+
+ams ICU ION
+
+A/G DLVRY PROG
+
+[2] AGR VAL
+B] sys VAL
+
+7
+5
+OH
+5
+5
+
+218
+
+®
+
+GBU-24 DELIVERY PROGRAM
+
+Figure D - 27. GBU-24 PACS.
+
+D - 49
+
+CONTINUOUS (C)
+OR TIMES OF :12,
+:15, OR :20 SECONDS
+
+AGW-03-27
+
+AGW-3
+
+
+Text from AGW-3_Laser_Guided_Bombs_page_56.jpeg:
+The preceding data is used for HUD and TGT IR display functions
+(Figure D-28). For loft 0°, a range window is displayed on the HUD and
+TGT IR as shown in Figure D-28 and also shows delivery parameter
+errors.
+
+RANGE SCALE
+
+DGR
+
+28000 (SLANT RANGE - FT)
+OR
+
+LO ALT
+HI ALT
+LO SPD
+HI SPD
+NO ZONE
+AUTO LAS
+@.
+CEILS MH (SIRO CRI
+AZ016R LASE' ALAS 4. DCL
+-—— EL 007D 1712 POD N 32° 32.6
+LAS 18200 W 113°14.6
+CDES TLAS TIMPCT ELV 4100
+5 ONT 00:24 MAXIMUM LAUNCH
+— RANGE
+rT |
+TIME TO LASE 4 oe
+i OR
+7 HI ALT
+TIME TO IMPACT (On TO SPD
+— HI SPD
+GQ NO ZONE
+d DESIRED GROUND
+— RANGE
+
+L 313-022
+
+TIME TO MINIMUM
+LAUNCH RANGE
+
+| 2 ee ee
+@ * JOPOMOMOMOH °"e
+
+es ||
+
+AGW-03-28
+
+Figure D - 28. GBU-24 Auto Mode Displays.
+
+AGW-3 D- 50
+
+
+Text from AGW-3_Laser_Guided_Bombs_page_57.jpeg:
+GBU-28A/B Hard Target Penetrator
+
+The GBU-28A/B is a 4700 pound precision laser guided weapon intended
+for use against fixed, high value, hardened, horizontal or near-horizontal
+targets. The round consists of a penetration warhead with a guidance
+unit and airfoil group attached. Major components of the item are shown
+in Figure D-29 and are discussed below. Each Paveway weapon
+configuration is marked with a color identification to match the major
+components (guidance unit, wing assembly and canards) for that
+configuration. The GBU-28A/B assigned color is white.
+
+SEEKER GUIDANCE FORWARD F-15E LUGS FUZE WHITE COLOR
+PLATFORM FINS ADAPTER
+ASSEMBLY
+
+FUZE
+INITIATOR
+
+COMPUTER CONTROL WEAPON BODY WING ASSEMBLY
+AND GUIDANCE (CCG) (WARHEAD BLU-113 A/B) (BSG -92 / B)
+(WGU-36 A/ B) AGW.03-29
+
+Figure D - 29. GBU-28A/B (BLU-113A/B).
+
+The GBU-28A/B may be configured with either the BLU-113/B or
+BLU-113A/B warhead. The BLU-113/B is the designation for the initial
+warhead constructed of Howitzer gun barrels welded to nose and aft
+pieces. The BLU-113A/B is a later version produced from a one-piece
+forging. The basic dimensions and mass properties of the two warheads
+are identical, as are the guidance and aircraft interfaces.
+
+Fuzing
+
+For both warheads, fuzing is by a single, tail-mounted FMU-1438()/B fuze
+system with selection of 30ms (F/B), 60ms (G/B) or 120ms (H/B) functional
+delay. Fuze electrical power is provided by the FZU-32B/B initiator. Fuze
+lanyards are packaged with the fuze system.
+
+D-51 AGW-3
+
+
+Text from AGW-3_Laser_Guided_Bombs_page_58.jpeg:
+Guidance and Control
+
+The GCU contains a sensitive laser seeker, a GEU and a control section.
+No electrical interface is required by the delivery aircraft. System power
+is provided by a self-contained thermal battery that is lanyard activated
+at the time of weapon release. Inertial reference is provided by a roll gyro
+and pitch/yaw gyro activated at release. Fundamental guidance is
+obtained by detection and generation of LOS error signals from the
+reflected, pulsed laser energy applied to a selected target. The LOS error
+signals are processed by the autopilot into guidance commands that, in
+turn, drive the two-axis control canards. Power to the canards is provided
+by pressurized gas. Target pressure altitude and laser coding are set on
+the control unit (Figure D-30). Altitude options are from -2000 ft (A1) to
+13,750 ft (H8) target pressure altitude in 250 ft increments. Altitude
+selection is critical. When in doubt, use a lower estimate.
+
+5
+
+5 4 5 4 5 4
+TARGET CODE
+
+ALTITUDE SELECT
+
+AGW-03-30
+
+Figure D - 30. Target Altitude Selection—Laser Code.
+
+AGW-3 D - 52
+
+
+Text from AGW-3_Laser_Guided_Bombs_page_59.jpeg:
+The GBU-28A/B weapon software, operational flight program (OFP),
+guides the weapon to the laser spot by providing commands to control
+weapon and seeker movement. The weapon transitions through four
+distinct phases of flight: munition separation, midcourse, terminal
+guidance and command limiting. Figure D-31 shows a graphical overview
+of the weapon guidance and control from release to target impact.
+
+<r MIDCOURSE GUIDANCE
+aan v4 (OPEN LOOP PULL DOWN)
+— __
+
+MUNITION
+RELEASE GAS BOTTLE FIRE
+ACQUISITION
+TERMINAL GUIDANCE
+(BIASED PROPORTIONAL NAV)
+
+——-_—S— RATE DAMPING ANGLE OF ATTACK CONTROL
+
+TARGET
+
+AGW-03-31
+
+Figure D - 31. Flight Profile.
+
+D - 53 AGW-3
+
+
+Text from AGW-3_Laser_Guided_Bombs_page_6.jpeg:
+(This Page Intentionally Blank)
+
+AGW-3 C-2
+
+
+Text from AGW-3_Laser_Guided_Bombs_page_60.jpeg:
+The munition separation phase is approximately 2 seconds long and
+allows for the weapon to fall safely away from the release aircraft before
+the weapon’s actuator becomes active. During munition separation, the
+OFP will go through an initialization process, exercise the control actuator
+valves, and begin estimation of flight parameters. Estimation of flight
+parameters is performed by processing data provided by onboard sensors.
+At the end of munition separation, the OFP will initiate firing of the gas
+bottle squib to activate the weapon’s actuator. Although it can be
+delivered from level flight or a loft profile, level flight is preferred. The
+weapon should be launched as high and as fast as possible.
+
+Midcourse is the phase of flight when the weapon is searching for the
+target. The OFP generates commands to cause the seeker to look down
+10°. The OFP generates a pull down command of 12° until the weapon
+reaches a dive angle of 60° or acquires the target. The weapon transitions
+from midcourse to terminal when the weapon acquires the target.
+
+During terminal guidance, the OFP uses the LOS angles from the seeker
+to estimate LOS rates. Guidance commands are generated using biased
+proportional navigation.
+
+At approximately 1 second before impact, the weapon transitions from
+
+terminal guidance to AOA control. During AOA control, the guidance
+commands are limited and rate damping is used to minimize impact AOA.
+
+AGW-3 D- 54
+
+
+Text from AGW-3_Laser_Guided_Bombs_page_61.jpeg:
+Rate damping is employed at various times throughout the flight to
+minimize body angular rates. Rate damping is employed for 1 second as
+the weapon transitions from munition separation to midcourse, for
+
+1 second as the weapon transitions from midcourse to terminal, and for
+the last 10 seconds of flight. Additionally, rate damping is employed
+anytime the estimated body angular rates are larger than 75° per second.
+
+The GBU-28A/B time line is shown in Table D-3.
+
+(seconds)
+[Pickle/Munition Separation Phase | 0.00
+
+Fast Battery Up 0.15
+Roll and Pitch/Yaw Gyros Up 0.20
+
+Main System Battery Up
+
+Rate Sensor Up 3.00
+
+Transition to Terminal (At acquisition)
+
+Command Limiting 1 sec before impact
+
+Table D - 3.
+
+D-55 AGW-3
+
+
+Text from AGW-3_Laser_Guided_Bombs_page_62.jpeg:
+Hard Target Penetration
+
+Target penetration is a function of the weapon’s velocity, impact angle and
+AOA at impact. Impact angle is the angle between the weapon’s velocity
+vector and the target plane. The best penetration is achieved when the
+impact angle is 90°. AOA is the angle between the weapon’s velocity
+vector and the longitudinal axis of the weapon. The best penetration is
+achieved when the AOA is 0°.
+
+The GBU-28A/B guidance algorithms are designed to maximize the
+impact angle and minimize impact AOA. These are discussed further
+
+below.
+
+Impact Angle
+
+Impact angle is maximized by:
+@ Aircraft releasing the weapon from high altitude.
+@ Weapon executing midcourse pull-down maneuver.
+
+The steepest impact angles are achieved when the weapon is released
+near the front edge of the release envelope.
+
+Angle of Attack (AOA)
+
+Impact AOA is minimized by:
+
+@ Using LOS rate bias to put the weapon on the ballistic path to the
+target.
+
+@ Employing rate damping to minimize body angular rates.
+
+@ Limiting guidance commands near impact.
+
+The key to successful limiting guidance commands near impact is to
+accurately estimate time to impact. If the guidance commands are limited
+too early in the flight, the miss distance may be relatively large. If the
+
+guidance commands are limited too late in flight then the AOA may be
+relatively large.
+
+AGW-3 D - 56
+
+
+Text from AGW-3_Laser_Guided_Bombs_page_63.jpeg:
+Guidance Command Limiting
+
+The GBU-28A/B weapon software has two time to impact estimators. The
+primary time to impact estimator uses the weapon’s estimate of altitude
+and vertical velocity to estimate time to impact. The secondary time to
+impact estimator is based on the time in flight when the seeker switches
+to low gain (normally within one second of impact). The seeker switches
+to low gain when the reflected laser light saturates the seeker.
+
+The primary estimator is a function of the weapon’s estimate of altitude
+above the target and vertical velocity. The guidance command limits are
+enabled when impact is less than 1 second. At high impact speeds, the
+guidance commands are limited to 0°. At low impact speeds, the guidance
+commands are limited to 2°. A 2° limit will result in a significantly
+smaller miss distance than a 0° limit when the limits are applied early.
+
+Since a 0° guidance command limit will yield better penetration than a
+2° guidance command limit, a secondary estimator is employed based on
+the time in flight when the seeker switches to low gain. The guidance
+command limits are enabled whenever impact is less than 1 second and
+the guidance command limits will be set to 0° regardless of impact speed.
+This estimator is considered a secondary one because the seeker may not
+switch to low gain if the target reflectivity is low and/or the visibility is
+low.
+
+Target altitude is critical for the above estimators to function properly.
+When in doubt, use a lower estimate.
+
+Optimum Release Points (ORP)
+
+ORPs were developed to provide the best chance of weapon acquisition
+and guidance to the target. The ORP is at a point in the envelope where:
+
+@ Seeker acquisition range is near the minimum required for the given
+release conditions.
+
+@ There is sufficient margin between the point and envelope edges.
+@ The impact angle is near the maximum, which will provide the best
+
+penetration for the given release condition. Therefore, the ORP for an
+inclined target is different than the ORP for a horizontal target.
+
+D-57 AGW-3
+
+
+Text from AGW-3_Laser_Guided_Bombs_page_64.jpeg:
+The ORP is determined by ballistic tables in TO 1-1M-34-1. The ORP is
+adjusted for the head or tail component of wind at the release altitude and
+entered as a desired ground range (DGR) on the A/G delivery page.
+
+GBU-28A/B Summary
+
+The GBU-28A/B was developed to penetrate hardened targets. It
+currently has two delivery profiles, but is usually launched from level
+flight as high and fast as practical.
+
+The weapon profile is optimized for a 90° impact angle and zero AOA to
+achieve maximum penetration. Software estimates of TOF, rate damping
+and AOA control are used to control the profile. Setting the correct ORP
+from the ballistic tables in the A/G delivery page and the correct pressure
+altitude on the weapon control unit are critical to achieving a good profile.
+
+Flight planning requirements and ballistic tables are provided in the
+classified TO 1-1M-34-1.
+
+AGW-3 D - 58
+
+
+Text from AGW-3_Laser_Guided_Bombs_page_65.jpeg:
+QUESTIONS
+
+GBU-24s can consist of which warhead?
+
+aP of
+
+MK-84 or BLU-109/B
+MK-82 or MK-84
+MK-82 or BLU-109/B
+MK-106 or BLU-109/B
+
+GBU-24 (Paveway III) improvements over GBU-10/12 (Paveway I
+and IT) include
+
+a.
+
+b.
+
+a larger warhead, bang-bang guidance, larger seeker field of
+regard and selectable software programs.
+
+ballistic release capability, proportional guidance and smaller
+seeker field of regard.
+
+increased maneuverability, proportional guidance and larger
+seeker field of regard.
+
+increased maneuverability, proportional guidance, smaller field
+of regard and fixed software program.
+
+The GBU-24A/B Mode 3 and 4 program selections add four trajectory
+options that provide
+
+a.
+b.
+
+greater delivery aircraft standoff capability.
+
+improved performance and penetration for attacks on
+horizontal and vertical targets.
+
+no significant improvement over Modes 1 and 2 against hard
+targets.
+
+improved seeker sensitivity.
+
+GBU-24A/B AOA limiting during terminal phase just prior to impact
+
+ao op
+
+improves penetration against hard targets.
+slows weapon velocity before impact.
+causes early fuze functioning.
+
+reduces penetration capability.
+
+D-59 AGW-3
+
+
+Text from AGW-3_Laser_Guided_Bombs_page_66.jpeg:
+ANSWERS
+
+l. a
+2. ¢
+3. b
+4, a
+
+AGW-3 D - 60
+
+
+Text from AGW-3_Laser_Guided_Bombs_page_67.jpeg:
+(This Page Intentionally Blank)
+
+D-61 AGW-3
+
+
+Text from AGW-3_Laser_Guided_Bombs_page_68.jpeg:
+END OF TEXT QUIZ
+
+The phase at which an LGB terminates a ballistic profile and enters
+a guided flight path is
+
+a. terminal.
+b. LOS.
+
+c. transition.
+d. optimum.
+
+If a Paveway II LGB acquires a designation spot prior to
+recommended guidance time, the weapon may
+
+impact short.
+
+impact long.
+
+commence ballistic profile.
+change code.
+
+ao op
+
+Paveway III weapons are programmable for
+
+horizontally and vertically developed targets.
+spot motion.
+podium effect.
+
+gravity sag.
+
+ao op
+
+Paveway III release data is programmable for
+
+desired slant range.
+desired ground range.
+elevated spot.
+
+high speed mode.
+
+aP of
+
+E-1 AGW-3
+
+
+Text from AGW-3_Laser_Guided_Bombs_page_69.jpeg:
+(This Page Intentionally Blank)
+
+AGW-3 E-2
+
+
+Text from AGW-3_Laser_Guided_Bombs_page_7.jpeg:
+TEXT
+PAVEWAY I AND II (GBU-10/12)
+Introduction
+
+Laser-guided bombs (LGBs) are general purpose bomb bodies equipped
+with electronic and mechanical assemblies that provide laser terminal
+
+guidance. There is no electrical interface between the aircraft and any
+LGB.
+
+There are three categories of LGBs used by the USAF. Paveway I is an
+early LGB with fixed wings. Paveway II LGBs are very similar but have
+improved electronics, laser coding ability, increased aircraft carriage
+(speed and Gs), wider field of view and better maneuverability. Paveway
+III LGBs are vastly different and will be discussed separately.
+
+Paveway II is desired for combat employment, but there are still plenty of
+Paveway Is being used, especially for training. The F-15E PACS options
+for the GBU-10 are Paveway II ballistics only. When dropping Paveway I
+weapons, along track corrections must be applied.
+
+Components
+
+All LGB weapons consist of a computer control group (CCG), warhead
+(bomb body and fuzes) and an airfoil group (AFG). A detailed description
+of which components make up which LGB version is contained in
+
+TO 1-1M-34.
+
+Computer Control Group (CCG)
+
+The CCG is composed of the seeker assembly, detector, computer and
+control section, and guidance canards.
+
+Seeker Assembly
+
+The seeker assembly contains the detector assembly, optics and electronic
+circuitry that determines the direction of the laser reflected energy and
+generates appropriate error correction signals. The seeker, which is free
+to move in pitch and yaw, is always streamlined into the relative wind by
+a ringtailed stabilizer mounted around its circumference.
+
+D-1 AGW-3
+
+
+Text from AGW-3_Laser_Guided_Bombs_page_70.jpeg:
+AFG
+
+AOA
+
+BRP
+
+CCG
+
+CEP
+
+CWDS
+
+DGR
+
+FOV
+
+GBU
+
+GCU
+
+GEU
+
+IFOV
+
+LGB
+
+LLLGB
+
+LOS
+
+MSL
+
+OFP
+
+ORP
+
+PIM
+
+PRF
+
+GLOSSARY
+
+Airfoil group
+
+Angle of attack
+Ballistic release point
+Computer control group
+
+Circular error probable
+
+Computer weapons delivery system
+
+Desired ground range
+Field of view
+
+Guided bomb unit
+Guidance control unit
+Guidance electronics unit
+Instantaneous field of view
+Laser guided bomb
+Low-level laser guided bomb
+Line of sight
+
+Mean sea level
+Operational flight program
+Optimal release point
+Pulse interval modulation
+
+Pulse repetition frequency
+
+AGW-3
+
+
+Text from AGW-3_Laser_Guided_Bombs_page_71.jpeg:
+PW Paveway (a generation of LGBs)
+TOF Time of flight
+
+WGU Weapon guidance units
+
+AGW-3 F-2
+
+
+Text from AGW-3_Laser_Guided_Bombs_page_72.jpeg:
+6 MOV
+
+PW III MODE SUMMARY
+
+LOFT/LEVEL/DIVE - ALL BUMP AND BALLISTIC MIDCOURSE (25°- 65°)
+G-BIAS AFTER ACQUISITION
+
+MODE 115000 i
+MODE 2 10000" 450' BUMP rar CONSTANT
+FLT PATH DIVE
+a
+LOFT ° are LEVEL ° ° are
+e ACQUISITION 55° 65 25 25°- 65
+
+see \_ 17° FLT PATH
+
+MODE 3 8000! —_------------------------------ seen een eo senna
+1100' BUMP 27° TO GIMBAL LIMIT
+
+CENTERS SPOT AT GIMBAL LIMIT
+
+t= 17° FLT PATH
+
+MODE 4, 8000 —————————————— aaa aaa anna nnn LEVEL TO 27°
+2500' BUMP 27° TO GIMBAL LIMIT a7?
+
+Da.
+
+oN 45°- 50° 55°- 60°
+
+AGW-03-32
+
+AreuIUMNs
+
+
+Text from AGW-3_Laser_Guided_Bombs_page_73.jpeg:
+(This Page Intentionally Blank)
+
+AGW-3 G-2
+
+
+Text from AGW-3_Laser_Guided_Bombs_page_74.jpeg:
+6°)
+
+6 MOV
+
+GBU-24 QUICK REFERENCE FOR EMPLOYMENT OPTIONS
+
+MODE 1 MODE 2 MODE 3 MODE 4
+SOFT TARGET HARD TARGET HARD TARGET HARD TARGET
+FULLY ADAPTIVE FULLY ADAPTIVE LOW CEILING HIGH CEILING
+
+BALLISTIC n BALLISTIC
+\ \
+
+‘ 8k J AOA LIMIT <—4
+
+ilaka’ sa meal ee KCQUIRE, MSL cee eeen ena omg MSL rea
+
+‘ ACQUIRE ACQUIRE
+ACQUIRE
+fe ODL AOA LIMIT
+
+55° - 65° 55° - 65° 17° 55° - 60°
+HIGH ALTITUDE RELEASE (Q) HIGH ALTITUDE CONSTANT GLIDEPATH ) CONSTANT GLIDEPATH
+
+DIVE
+ACQUIRE
+eee ee eee a 10K fume ene a 8K Janene umneodoe ow owwe sees
+
+ACQUIRE DIVE MSL ee MSL] AOA LIMIT MSL AOA LIMIT LEVEL
+
+x MINILOFT
+
+\
+ACQUIRE i :
+25° - 65° 25° - 65° ®) - -
+
+POINT-SHOOT RELEASE "OR" @) POINT-SHOOT "OR" ® 2000 FT CEILING ® 3500 FT CEILING
+
+TET TOCETTEET ae (@) @ VERTICAL OR HORIZONTAL HARD TARGET
+LEVEL MSL] AOA LIMIT LEVEL
+ACQUIRE MINILOFT MINILOFT
+Ac / (WGU -39/B)
+25 \
+~<a 25° ACQUIRE ~* —
+
+MODE WEAPON IDENT
+LOW-LEVEL RELEASE LOW-LEVEL
+
+WY: DO: Zr: WS: WS:
+oe oct _ ACQUIRE ok MISSION on cove
+
+SELECT SELECT
+
+REF. CARD, LARSON-TR002,(BLKWT)
+
+20° TO 30° Y @))
+LOFT RELEASE 20° TO 30° LOFT
+
+REPRINTED WITH PERMISSION OF STEPHEN W. LARSON, TEXAS INSTRUMENTS AGW-03-33
+
+
+Text from AGW-3_Laser_Guided_Bombs_page_75.jpeg:
+6-MOV
+
+v-O
+
+CODE SELECT (1)
+
+CODE SELECT (2)
+CODE SELECT (3)
+
+CODE SELECT (4)
+
+GBU-24/B, GBU-24 A/B, or GBU-24 B/B
+WGU-12B/B WGU-39/B
+
+Setting Setting
+
+Selects PRF, WP, and LLPL Selects PRF, WP, and LLPL
+Selects PRF, WP, and SLPL B Selects PRF, WP, and SLPL
+B
+
+Selects PRF, NWP, and LLPL Selects PRF, NWP, and LLPL
+Selects PRF, NWP, and SLPL Selects PRF, NWP, and SLPL
+Selects PIM, WP, and LLPL Selects PIM, WP, and LLPL
+
+Selects PIM, WP, and SLPL Selects PIM, WP, and SLPL
+Selects PIM, NWP, and LLPL
+
+Selects PIM, NWP, and SLPL
+Sets PRF code Sets PRF code
+
+AIRFRAME IDENT
+(WGU-12B/B)
+
+WEAPON IDENT
+(WGU-39/B)
+
+MODE (GBU-24)
+
+A
+
+B
+
+C
+
+D
+
+A
+
+: He
+
+Cc Selects PIM, NWP, and LLPL
+
+D | v2 | SelectsPIM,NWP,andSLPL
+1 | 18 |
+
+18 | SetsPRFeode ——“‘“‘iYSCa | Sets PRFcode
+| a
+
+1
+
+Da Sets PRF code Sets PRF code
+Not Used 122 Selects GBU-22 Flight Characteristics
+4109 Selects GBU-24 A/B (BLU-109) Flight Characteristics Not Used
+5 84 Selects GBU-24/B (MK 84) Flight Characteristics 3 24 Selects GBU-24/B or GBU-24 A/B Flight Characteristics,
+depending on mode
+
+Not Used Not Used
+
+| os
+(GBU-24 A/B) Soft Target, Adaptive (GBU-24 A/B) Soft Target, Adaptive
+See
+(GBU-24 A/B) Hard Target, Adaptive (GBU-24 A/B) Hard Target, Adaptive
+(GBU-24/B) Same as Mode I (GBU-24/B) N/A
+(GBU-24 A/B) Hard Target, High Ceiling (GBU-24 A/B) Hard Target, High Ceiling
+5 (GBU-24/B) Same as Mode I
+(GBU-24 A/B) DO NOT USE (GBU-24 A/B) DO NOT USE
+(GBU-24/B) N/A
+(GBU-24 A/B) Hard Target, Adaptive
+
+1
+1
+1
+1
+2
+2
+2
+2
+
+-8
+-8
+-8
+-3
+
+1
+
+2
+
+3
+
+4
+
+-8
+
+1
+1
+Cl
+D1
+2
+C2
+D2
+1-8
+1-8
+1-8
+2
+5-8
+1
+2
+3
+4
+5
+
+a (GBU-24/B) N/A
+
+(GBU-24/B) Same as Mode I (GBU-24/B) N/A
+
+(GBU-24 A/B) Hard Target, Low Ceiling (GBU-24 A/B) Hard Target, Low Ceiling
+oo (GBU-24/B) Adaptive Midcourse Setting (MK 84)
+
+
+
+Text from AGW-3_Laser_Guided_Bombs_page_76.jpeg:
+(This Page Intentionally Blank)
+
+G-5 AGW-3
+
+
+Text from AGW-3_Laser_Guided_Bombs_page_8.jpeg:
+Detector
+
+A four-quadrant, light-sensitive disk produces a very small electrical
+signal when the laser spot hits it. Since the seeker is stabilized into the
+relative wind, the location of the spot of light on the detector is determined
+by the relative position of the target. For example, if the spot of light falls
+in the upper right hand quadrant, the bomb electronics indicate the target
+is down and left, relative to its present flight path. (The spot is in the
+opposite quadrant due to reversal of position by the seeker lens.)
+
+Computer and Control Section
+
+The computer and control section process signals from the detector and
+transmit directional command signals to the appropriate pair(s) of
+canards. Circuitry in the computer contains the guidance logic, and in the
+Paveway II, has laser coding capabilities.
+
+A thermal battery is activated by an external lanyard when the bomb is
+released. After a 2-3 second delay an electrical pulse fires the gas grain
+generator. Gas from the generator is controlled through a manifold
+assembly with four cylinders. A solenoid for each cylinder is controlled by
+directional signals from the computer. Actuation of the solenoids permits
+gas to enter the corresponding cylinder and move the pistons that are
+mechanically connected to the canards.
+
+Guidance Canards
+
+Guidance canards are attached to each quadrant of the control unit to
+change the flight path of the weapon. Opposing canards always respond
+simultaneously (act in pairs) to generate up/down or left/right directional
+changes. The deflections are always full scale (bang, bang guidance). The
+bomb is not roll stabilized and may rotate randomly about its longitudinal
+axis. The guidance computer is able to function and cope with the slow
+roll rates generated.
+
+Warhead
+
+GBU-10 and GBU-12 LGBs can consist of any of three general purpose
+bomb warheads. Each warhead contains any of the fuzes compatible with
+that warhead. GBU-12s contain a standard 500 pound MK-82 bomb body.
+GBU-10s can consist of either a standard 2000-pound MK-84 body or the
+BLU-109/B penetrator bomb body.
+
+AGW-3 D-2
+
+
+Text from AGW-3_Laser_Guided_Bombs_page_9.jpeg:
+Airfoil Group
+
+The AFG consists of the adapter collar (which is bolted to the nose of the
+bomb for installation of the CCG), the canards and the tail assembly. On
+Paveway I weapons (Figure D-1), a fixed tail is bolted to the bomb and
+extenders are bolted to the wing to form a long winged bomb (slow speed
+configuration).
+
+PAVEWAY | LGBs
+
+SLOW SPEED
+PORTION
+
+NOSE ADAPTER*
+
+COMPUTER SECTION WING EXTENDERS
+aeTECTOR (USED WITH SLOW
+CONTROL SECTION SPEED CANARDS)
+
+Figure D- 1. Paveway I.
+
+D-3
+
+COMPUTER CONTROL WEAPON BODY WING ASSEMBLY*
+AND GUIDANCE (CCG) (WARHEAD)
+*AIRFOIL GROUP (AFG)
+COMPONENTS
+GBU-10 CHARACTERISTICS
+WEIGHT 2052 LB
+LENGTH 14 FT
+DIAMETER 18 IN.
+WINGSPAN WITH EXTENDERS 54 IN.
+SUSPENSION LUG SPACING 30 IN.
+GBU-12 CHARACTERISTICS
+WEIGHT 600 LB
+LENGTH 10 FT 6 IN.
+DIAMETER 11 IN.
+WINGSPAN WITH EXTENDERS 39 IN.
+SUSPENSION LUG SPACING 14 IN. AGW-03-01
+
+AGW-3
+
+

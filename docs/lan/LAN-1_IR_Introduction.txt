@@ -1,0 +1,634 @@
+Text from LAN-1_IR_Introduction_page_1.jpeg:
+SUPPORTS COURSES
+FIS5EBQ
+FISETX
+
+ACADEMIC STUDENT WORKBOOK
+F-15E
+
+LANTIRN
+LAN-1
+IR INTRODUCTION
+
+APRIL 1999
+
+(OFP N/A)
+
+AIR COMBAT COMMAND
+
+
+Text from LAN-1_IR_Introduction_page_10.jpeg:
+Table D-1 is a list of common target area objects and their emissivities.
+Notice that the emissivities of some common targets, such as concrete and
+oil-base painted surfaces, are nearly the same as common backgrounds
+(plants, ground, and snow).
+
+(8 to 12 micron range)
+Bare moist gomd | 8B
+Wood, trees, shrubs, grass, anddesert sand | 90
+ee
+er
+ee a
+
+Table D - 1. Emissivity Table.
+
+The amount of IR energy emitted by an object varies at the fourth power
+of the temperature and directly with emissivity. Therefore, the
+temperature of an object has a much greater effect on the emitted IR
+energy than emissivity. For example, consider a camouflaged aircraft
+(emissivity of .94 and 20° C) parked on a snow-packed ramp (emissivity of
+.91 and 10° C). The temperature spread causes a much larger difference
+in IR energy intensity than the difference in emissivity.
+
+LAN-1 D-4
+
+
+Text from LAN-1_IR_Introduction_page_11.jpeg:
+Thermal Inertia
+
+Thermal inertia refers to the length of time it takes an object to heat up or
+cool down. Large, dense objects like tanks take longer to heat and cool
+than smaller, less dense objects, and so are said to have high thermal
+inertia. The open framework of a transmission tower gives it low thermal
+inertia—it is sensitive to heat loss or gain due to convective transport.
+
+Target Orientation/Aspect
+
+An object’s IR signature may appear different, based on the angle from
+which it is approached by the sensor, because some of its surfaces may be
+warmer than others. For example, a building’s orientation to the sun
+determines which wall receives the most warming from the sun. (In the
+northern hemisphere, when the sun is setting, the southwest side of a
+building is warmer than its other sides.) An internally heated object, such
+as a vehicle, has a hotter spot in the vicinity of its exhaust. When
+approached from their warmest aspects, these objects may appear
+brighter and larger in an IR sensor display than they would have if
+approached from their cooler sides.
+
+Background Clutter
+
+Background objects that have the same IR intensity as a target object can
+create thermal background clutter, hindering recognition of target objects.
+Battlefield fires and destroyed vehicles (which may include deliberate
+attempts to decoy IR weapons) must be expected in combat situations.
+
+
+Text from LAN-1_IR_Introduction_page_12.jpeg:
+TRANSMISSION OF IR ENERGY
+
+The transmission of IR energy from an object to the sensor is affected by
+the range and the existing atmospheric conditions.
+
+Range
+
+An important factor in the transmission of IR energy is the distance
+between the sensor and the source. The intensity of IR radiation
+transmitted through the atmosphere varies inversely with the square of
+the distance it has to travel. Therefore, at twice the distance, the amount
+of IR energy received decreases by a factor of four.
+
+Environmental Conditions
+
+Most objects of tactical interest emit in the 8 to 12 micron range at
+temperatures of -100° C to +100° C. This IR subregion is called an
+“atmospheric window” because atmospheric absorption of IR energy is
+slight and minimally affects IR transmission. However there are
+conditions that, if severe, can obliterate the IR scene.
+
+Absolute Humidity and Dew Point
+
+As IR energy travels through the atmosphere the distance at which it can
+be observed can be reduced by various elements in the atmosphere. The
+major components of air (oxygen and nitrogen) do not absorb, scatter, or
+emit IR energy. However, other elements (carbon dioxide and water
+vapor) absorb IR energy, significantly reducing IR transmission. Absolute
+humidity (the total number of water molecules in the air) is the most
+restrictive factor in using IR systems and is reported as grams per cubic
+centimeter (gm/cm*). The dew point temperature (temperature at which
+the air is fully saturated) can be used as an estimated measure of the total
+water vapor in the air; i.e., the higher the dew point, the higher the
+absolute humidity. Thus, the dew point can be used to determine IR
+transmission ranges (the higher the dew point, the higher the absolute
+humidity, equals the shorter range). Table D-2 gives examples of dew
+points and their respective approximate IR visibilities.
+
+LAN-1 D-6
+
+
+Text from LAN-1_IR_Introduction_page_13.jpeg:
+Dew Point (° F) Approximate IR Ranges (nm)
+
+Table D - 2. Dew Point Versus IR Ranges.
+
+Relative Humidity
+
+Relative humidity is the ratio of the amount of water vapor in the air at a
+specific temperature compared to the maximum amount the air can hold
+at that temperature. In other words, while absolute humidity is the total
+number of water molecules, relative humidity is a ratio relative to the
+maximum possible at that temperature.
+
+Precipitation
+
+When visible moisture is in the air (e.g., rain, snow, or dense fog), both
+absorption and scattering of IR wavelength energy increases and
+transmission is decreased. When the ground is soaked by rain or covered
+with snow, there is little thermal contrast between turn points/target and
+backgrounds. This results in a washed out NAV FLIR image.
+
+At low viewing angles, snow reflects the sky temperature and appears
+dark on an IR display. Under cloudy skies at low altitude, snow reflects
+warm clouds which emit absorbed solar radiation. Snow appears light
+under this condition.
+
+
+Text from LAN-1_IR_Introduction_page_14.jpeg:
+Clouds
+
+Dense fog and clouds impact the IR scene in several ways. They are
+opaque to IR energy, and virtually eliminate its transmission from an
+object to a sensor. Clouds block the sun, and reduce solar loading on
+targets and backgrounds. This reduces )T between nonoperating targets
+and their backgrounds.
+
+Low clouds have a greater effect on the thermal contrast than middle or
+high clouds during the day. Cloud coverage in excess of eight-tenths of the
+sky has a dramatic impact on the blackbody temperature of targets and
+backgrounds. Cloud coverages of less than six-tenths have relatively little
+effect. Rapidly changing scattered-to-broken-cloud cover causes a high
+degree of variability in the target thermal scene. However, trees seem
+insensitive to any amount of low clouds.
+
+Middle clouds have a similar, although less pronounced effect on
+blackbody temperatures. Thin, high clouds have virtually no effect on the
+blackbody temperature of targets and backgrounds. Thick, high clouds
+have a slightly greater effect, but do not approach that of low and middle
+clouds.
+
+For operating (internally heated) targets, cloud coverage may increase )T
+by keeping the background cooler than it would be on a clear day.
+
+Cloud cover at night tends to reduce the radiative cooling, which reduces
+overall thermal contrast.
+
+Haze And Smoke
+
+Normally, light traveling through haze is scattered by the dust particles,
+resulting in restricted visibility. However, since infrared waves are longer
+than visible light waves they travel through haze without scattering. This
+makes it possible to see through dry haze and smoke with an IR sensor.
+(Smoke may be a problem if it is thick enough, and IR opaque smokes are
+being developed for camouflage purposes.)
+
+LAN-1 D-8
+
+
+Text from LAN-1_IR_Introduction_page_15.jpeg:
+Wind
+
+Thermal contrast can be reduced by surface winds. The amount of
+reduction in delta T is dependent on wind speed and the terrain. The
+stronger the wind and flatter the terrain, the more it affects thermal
+contrast. Further, objects with less mass are more sensitive to the effects
+of wind than more massive objects. For example, it takes less wind to cool
+a thin radio tower on flat terrain to the same IR level as the background
+than it does a large building in mountainous terrain.
+
+Diurnal Cycle
+
+For all objects exposed to the sun, solar heating begins at sunrise, and
+cooling begins after midday. After sunset, objects cool to near the air
+temperature. During this diurnal cycle, objects heat and cool at different
+rates, based on their density and surface composition.
+
+The times when the temperature difference between target objects and
+their backgrounds becomes zero is called thermal crossover. Crossover
+occurs most frequently during morning and evening (Figure D-3), but can
+occur at various times, depending on materials and weather conditions.
+During crossover, a target object may be indistinguishable from its
+background to IR sensors.
+
+20
+
+GRASS,TREE,
+
+15 LEAVES
+
+DEGREES
+ABOVE NONOPERATING
+AIR TEMP 10 ARMORED
+
+TARGET,
+
+6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 22 23
+TIME OF DAY (24-HR CLOCK)
+
+LAN-01-03
+Figure D - 3. Diurnal Cycle.
+
+D-9 LAN-1
+
+
+Text from LAN-1_IR_Introduction_page_16.jpeg:
+TACTICAL DECISION AID
+
+Introduction
+
+The tactical decision aid (TDA) is a computer program used by weather
+
+forecasters to assist you in predicting how the IR scene will appear, and to
+
+determine maximum acquisition and lock on ranges. The product of this
+
+program can be modified to suit local commanders. You will see a sample
+
+of it in the next IR lesson.
+
+The program uses three different models for its computation:
+
+e The target contract model estimates thermal contrast ()T) between
+the target and background. (Delta T is determined by comparing the
+
+equivalent blackbody temperature of any two items.)
+
+e The atmospheric transmission model predicts how well target
+contrast will be transmitted through the atmosphere.
+
+e The sensor performance model describes how well a sensor works
+over a specific portion of the electromagnetic spectrum, compares
+that to the target’s signal, and yields acquisition ranges and turn
+points.
+
+Input Data
+
+The pilot or WSO is responsible for providing information to the weather
+
+forecaster for use in the TDA. During combat, Intelligence may also
+
+provide certain information such as use of obscurants or site activity. The
+information needed by the weather shop is of three different types.
+
+Mission Information
+
+e Date and time of the mission
+
+e The times over navigation points and targets
+
+e Type of IR sensors used
+
+LAN-1 D-10
+
+
+Text from LAN-1_IR_Introduction_page_17.jpeg:
+Tactics Information
+
+Altitudes
+Headings
+Aim points
+
+Ingress, employment, and egress tactics
+
+Target and Background Information
+
+Target composition - color, thickness, and condition of the exterior,
+and construction materials
+
+Target location data - latitude, longitude, elevation, and orientation
+Target operations state - whether engines are running or not running
+
+General target data - Is it heated, or does it generate heat? Are there
+areas that stand out as hot spots (smoke stacks, cooling towers)?
+Conspicuous cold spots (air conditioning ducts, metal roofs, settling
+ponds)? Is the target camouflaged in any way?
+
+Background information includes type of vegetation, soil type and
+characteristics, roads or other landmarks that can obscure the target,
+bodies of water in the vicinity of the target, and background smoke
+direction
+
+Include a photo of target and area, if possible
+
+
+Text from LAN-1_IR_Introduction_page_18.jpeg:
+Output Data
+
+TDA output data is modifiable, but usually includes
+
+e =a hot-to-cold list with )Ts,
+
+@ an indication of the level of atmospheric transmissivity, and
+e IR detection, laser, and lock on ranges.
+
+At most bases supporting IR users, a generic TDA is put out by the
+weather shop. It covers the local low levels and ranges, and requires no
+input by the aircrew. Ifa special low level or target is required, the
+aircrew involved must provide the weather shop with the information
+previously discussed if they want a TDA forecast for their mission.
+
+TDA Limitations
+
+e Limited number of target and background models - a target from the
+TDA menu having similar characteristics to your target may need to
+be substituted.
+
+e = Less than five knots of wind is not considered.
+
+e Forecasting the difference between 7/10 and 10/10 cloud coverage is
+difficult, yet it is in this region that the amount of clouds have the
+greatest impact on thermal contrasts. A small cloud forecast error
+equals a large forecast )T error.
+
+e Strict security is needed on target and tactics information.
+
+LAN-1 D-12
+
+
+Text from LAN-1_IR_Introduction_page_19.jpeg:
+QUESTIONS
+The intensity of IR emission is primarily dependent upon the object’s
+
+low thermal inertia.
+
+temperature.
+
+mass and distance from the reflector.
+reflectivity and atmospheric conditions.
+
+Boop
+
+IR sensors can virtually “see through”
+
+a. precipitation.
+
+b. clouds.
+
+c. background clutter.
+d. haze.
+
+The single most restrictive factor in using IR systems is
+
+a. high relative humidity.
+b. high absolute humidity.
+c. background clutter.
+
+d. diffuse solar radiation.
+
+What are the three types of input data the aircrew must supply to
+weather for the TDA?
+
+
+Text from LAN-1_IR_Introduction_page_2.jpeg:
+ADMINISTRATIVE INFORMATION
+
+This student workbook is designed to provide information on the F-15E,
+its systems, and capabilities. It is not a sole source document, but is to be
+used in conjunction with other standard Air Force publications and
+technical manuals. If you find any differences between the material
+contained herein and other governing regulations, adhere to the
+regulations and notify the OPDR.
+
+Changes to this workbook are indicated with a heavy black line in
+the left margin.
+
+Forward recommendations for revision or change to 4 TS, SJAFB, NC,
+275381.
+
+Supersedes: LAN-1, July, 1998
+
+OPDR: 4TS
+
+Index of Changes
+
+Effective Date Pages Affected
+
+
+
+Text from LAN-1_IR_Introduction_page_20.jpeg:
+ANSWERS
+
+1. b
+2. d
+3. b
+
+4. Mission data, tactics data, and target/background data
+
+LAN-1 D-14
+
+
+Text from LAN-1_IR_Introduction_page_21.jpeg:
+FLIR
+
+IR
+
+NAV
+
+hm
+
+TDA
+
+GLOSSARY
+Celsius
+Fahrenheit
+Forward looking infrared
+Infrared
+Navigation
+Nautical miles
+
+Tactical decision aid
+
+LAN-1
+
+
+Text from LAN-1_IR_Introduction_page_22.jpeg:
+BACK PAGE
+COVER SHEET
+
+LAN-1 F-2
+
+
+Text from LAN-1_IR_Introduction_page_3.jpeg:
+LANTIRN
+
+C
+a O
+\f_ err ta H
+
+COVER
+
+IR INTRODUCTION
+
+INTRODUCTION
+
+This workbook introduces the principles and application of infrared energy
+in low level navigation. It discusses the electromagnetic spectrum and the
+various factors that impact the visibility of a target via IR sensors. It also
+introduces the function of the tactical decision aid (TDA). As part of a
+computer-based training (CBT) lesson, this workbook should be read prior
+to taking the CBT instruction.
+
+CONTENTS:
+
+INTRODDUGCTION 6 ces cuss sss sess sen sens sews suns sues sure sens set sews sues sur seins sen seis sess sumn axes « A-1
+CRITERION REFERENCED OBJECTIVES (CROs).........000eeeeeeeeeeeeeeee B-1
+STUDENT PREPARATION REQUIREMENTS . 0.00... eeeeeeeeeeee C-1
+TEXT oc eecccccceessseecceesseeeecessseeeceessseeeecesssseeeseeessaeeeseessaeeeseeeeaaeeseeea D-1
+SONOS RII “Me tly Me) Medel see see ees es sec ante es se ane cea tame see ese ap ee te se: ce N/A
+GLOSSARY. ieee eeccceeseeesscecssneeecesaeeceseecessaeeceseecessaeesesaaeeeesaeeeesnaeeeseas F-1
+
+
+Text from LAN-1_IR_Introduction_page_4.jpeg:
+CRITERION REFERENCED OBJECTIVES (CROs)
+
+1. Identify the impact of target and background characteristics on IR
+detectability.
+
+2. Identify the impact of environmental characteristics on IR energy
+transmission.
+
+3. Identify the basic inputs and outputs of the tactical decision aid
+(TDA).
+
+LAN-1 B-1
+
+
+Text from LAN-1_IR_Introduction_page_5.jpeg:
+STUDENT PREPARATION REQUIREMENTS
+BEFORE THE CBT LESSON
+
+Study the information contained in this workbook.
+
+
+Text from LAN-1_IR_Introduction_page_6.jpeg:
+(This Page Intentionally Blank)
+
+LAN-1 C-2
+
+
+Text from LAN-1_IR_Introduction_page_7.jpeg:
+TEXT
+INFRARED (IR) PRINCIPLES
+Introduction
+
+Radiated and reflected infrared energy is used by F-15E systems for
+navigation, targeting, and terminally-guided weapons systems.
+Knowledge of infrared energy principles allows you to understand the
+dynamics of IR sensor employment.
+
+IR equipment works by detecting and displaying thermal contrast, called
+delta T ()T), in the field of view. How well a target stands out against its
+background is dependent on many factors, as depicted in Figure D-1.
+
+“I a TEMPERATURE
+TARGET SURFACE
+fo BACKGROUND COMPOSITION
+EMISSIVITY
+\ |
+DENSITY
+a SURFACE AREA
+- SIZE
+RANGE——_”
+— BACKGROUND
+CLUTTER
+ATMOSPHERIC CONDITIONS
+- HUMIDITY / DEWPOINT
+- PRECIPITATION
+- CLOUDS DIURNAL
+- SMOKE / HAZE ATTACK sun CYCLE
+iis AXIS ANGLE
+
+LAN-01-01
+
+Figure D - 1. IR Detection — Thermal Contrast Factors.
+
+
+Text from LAN-1_IR_Introduction_page_8.jpeg:
+The Nature of IR Energy
+
+To understand how radiated energy is used in F-15E navigation and
+weapons systems, let us begin by reviewing the spectrum of known
+electromagnetic radiation ranges (Figure D-2). The longest wavelengths
+are the low frequency radio waves starting at the left of the chart, and the
+shortest are high frequency gamma rays, shown at the far right.
+
+The expanded detail section of the chart, which includes the IR region,
+shows the various subregions of this spectrum used by the NAV and
+weapon guidance systems you will study. The wavelengths in the IR
+region range from .72 to 1000 microns.
+
+ELECTROMAGNETIC WAVE SPECTRUM
+MICROWAVES
+
+ELECTRO-OPTIC
+SPECTRUM
+
+LANTIRN
+
+PAVE TACK
+
+IR MAVERICK AIM-9
+
+8-12 oN 3-5 Nv
+
+1 000,, ony
+
+MICROWAVES EXTREME IR F on NEAR] VISIBLE |ULTRAVIOLET] X- >
+« IR LIGHT
+
+=> =
+z
+
+20,8
+agaws4q
+Arar lao
+ro>-~omes
+
+LAN-01-02
+
+Figure D - 2. Electromagnetic Spectrum.
+
+IR waves, which travel in straight lines outward from the source, are
+invisible to the human eye. However, IR detection may be thought of as
+“visual” detection using a specialized type of “eye,” which sees at a
+different frequency than the human eye. To do this, IR energy is
+gathered, focused, and changed into electrical signals through specialized
+lenses, prisms, and mirrors. IR vision has problems similar to human
+vision, in that objects may be obscured by weather conditions, other
+objects, or lack of contrast (such as a green object on a green background).
+
+LAN-1 D-2
+
+
+Text from LAN-1_IR_Introduction_page_9.jpeg:
+TARGET/BACKGROUND CHARACTERISTICS
+IR Intensity
+
+All objects above absolute zero (0° Kelvin, or -459° F, or -273° C) radiate
+IR energy. The intensity of radiated IR energy is basically determined by
+an object’s absolute temperature and emissivity.
+
+Temperature
+
+An object’s temperature can be increased by internal heating, such as an
+engine in an armored vehicle, or a furnace in a building, or it can be
+increased externally by the sun on clear days, or by diffused solar
+radiation on overcast days. Objects may also be warmed by conduction of
+heat from adjacent warmer surfaces, or cooled by convection; e.g.,
+exposure to wind.
+
+Emissivity
+
+Emissivity is defined as the ratio of radiation intensity from a specific
+surface to the radiation intensity of the same wavelength from a
+blackbody at the same temperature. (A blackbody is a theoretically
+perfect absorber of all incident IR radiation.) All other factors (including
+object temperature) being equal, an object with high emissivity appears
+brighter on an IR display than an object with low emissivity.
+
+Objects reflect and absorb external heat in varying degrees. These
+variations are caused, for the most part, by differences in surface
+composition. Rough surfaces absorb more heat than smooth surfaces. At
+the same absolute temperature, objects that are rougher and less
+reflective are capable of emitting more IR energy than objects that are
+smooth and highly reflective.
+
+

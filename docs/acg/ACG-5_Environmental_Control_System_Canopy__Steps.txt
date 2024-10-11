@@ -1,0 +1,1952 @@
+Text from ACG-5_Environmental_Control_System_Canopy__Steps_page_1.jpeg:
+SUPPORTS COURSES
+FISEBQ
+
+FISETX
+
+FISESOC
+
+ACADEMIC STUDENT WORKBOOK
+F-15E
+
+AIRCRAFT GENERAL
+ACG-5
+ENVIRONMENTAL CONTROL
+SYSTEM, CANOPY & STEPS
+
+JULY 1999
+
+(SUITE 3 OFP)
+
+AIR COMBAT COMMAND
+
+
+Text from ACG-5_Environmental_Control_System_Canopy__Steps_page_10.jpeg:
+MANUAL The temperature control knob functions as a mixing valve
+positioning the cabin inlet modulating valve and cabin hot
+air valve. Constant temperature is not maintained.
+
+OFF Stops ECS air to the cockpit (air conditioning and
+pressurization), shuts off the cooling turbine and opens the
+ram air diverter valve providing ram air for avionics
+cooling. Canopy seal, fuel pressurization, radar
+waveguide, anti-G and windshield anti-ice continue to
+operate with either bleed air source selected on the air
+source selector knob.
+
+TEMP
+
+AUTO A}
+
+MAN ©)
+
+ACG-05-03
+
+Figure D - 3. ECS.
+
+ACG-5 D-4
+
+
+Text from ACG-5_Environmental_Control_System_Canopy__Steps_page_11.jpeg:
+Air Source Knob
+
+This knob (Figure D-4) selects the engine bleed air source for the ECS.
+Either or both engines may be deselected as a source of air, thus
+minimizing the complications of bleed air malfunctions.
+
+FINAL STAGE BLEED AIR CONTROL
+
+ACG-05-04
+
+Figure D - 4. Source Knob.
+
+The four positions on the knob are:
+BOTH Normal operation, both engines provide bleed air to the ECS.
+
+LENG _ Selects the left engine as the source of bleed air and shuts off
+the air from the right engine.
+
+RENG Selects the right engine as the source of bleed air and shuts off
+the air from the left engine.
+
+D-5 ACG-5
+
+
+Text from ACG-5_Environmental_Control_System_Canopy__Steps_page_12.jpeg:
+OFF Closes both bleed air valves, shuts off the cooling turbine and
+opens the ram air diverter valve to provide ram air to cool the
+avionics.
+
+NOTE
+
+Pressing an ENG FIRE light also shuts the bleed air valve on the
+corresponding engine.
+
+Air Flow Selector Switch
+
+This three position switch (Figure D-5) controls the volume of air flowing
+into the cockpit. Air flows are not specifically defined and the change may
+not be easily perceptible to the crew.
+
+MAX - maximum air flow
+
+NORM - normal air flow
+
+MIN - minimum air flow
+
+TEMP
+@ | 8
+MAN
+
+OFF +
+AIR
+
+COND
+
+R
+ENG
+
+ACG-05-05
+
+COLD HOT OFF
+
+Figure D - 5. Flow Switch.
+
+ACG-5 D-6
+
+
+Text from ACG-5_Environmental_Control_System_Canopy__Steps_page_13.jpeg:
+Air Vents
+
+Adjustable air vents (Figure D-6) are located in both cockpits. There is
+one large vent on the lower portion of the center console and two vents
+located on each side of the canopy rail.
+
+ACG-05-06
+
+NOTE: SIDE VENTS ARE LOCATED
+ON THE CANOPY FRAME
+
+Figure D - 6. Air Vents.
+
+D-7 ACG-5
+
+
+Text from ACG-5_Environmental_Control_System_Canopy__Steps_page_14.jpeg:
+Emergency Vent Handle
+
+The EMERG VENT handle (Figure D-7) located to the right of the FCP
+caution lights panel, performs several functions.
+
+e 45° CCW rotation electrically dumps cabin pressure.
+
+e Initial extension closes the cabin inlet modulating valve and opens
+the cockpit ram air valve. All ECS cooling air is diverted to the
+avionics. Ram air flow to the cockpit is a function of handle
+extension with maximum air flow at maximum handle extension.
+Pulling the handle automatically selects anti-fog hot air.
+
+e Resetting the handle to its original position restores normal
+operation.
+
+FRONT COCKPIT
+
+ACG-5
+
+1. NORMAL 2. TURN 45 CCW 3. PULL
+OPERATION — CABIN DUMP
+— DIVERTS ECS
+COOLING FROM
+COCKPIT TO
+AVIONICS
+
+— CONTROL RAM
+AIR FLOW
+
+— ANTI-FOG: HOT
+
+ACG-05-07
+
+Figure D - 7. Vent Handle.
+
+
+Text from ACG-5_Environmental_Control_System_Canopy__Steps_page_15.jpeg:
+Cockpit Pressurization System
+
+The cockpit pressure regulator automatically schedules pressurization and
+activates when the canopy is closed and locked (engines running). The
+regulator runs according to a schedule common among fighter aircraft and
+appears in the flight manual (Figure D-8). Above 8000 feet MSL and
+below approximately FL 240, the cockpit is pressurized at 8000 feet.
+Above FL 240 the cockpit altitude climbs at a 5 psi differential between
+the flight level and cockpit pressure altitude.
+
+5 PS! DIFFERENTIAL PRESSURE
+
+CABIN ALTITUDE — 1000 FEET
+
+ESSURE RANGE
+
+SL 5 10 15 20 25 30 35 40 45 50 55 60
+AIRPLANE ALTITUDE — 1000 FEET
+
+¢ CABIN ALTITUDE IS APPROXIMATELY ae ACG-05-08
+
+Figure D - 8. Schedule.
+
+D-9 ACG-5
+
+
+Text from ACG-5_Environmental_Control_System_Canopy__Steps_page_16.jpeg:
+The cockpit pressure altimeters are located on the FCP right main
+instrument panel and the RCP left main instrument panel (Figure D-9).
+
+CROSS CHECK RULE OF THUMB:
+THE POINTER SHOULD BE IN THE
+LOWER LEFT QUADRANT BELOW FL 340
+
+FRONT COCKPIT REAR COCKPIT
+
+ACG-05-09
+
+Figure D - 9. Cabin Pressure Altimeters.
+
+ACG-5 D-10
+
+
+Text from ACG-5_Environmental_Control_System_Canopy__Steps_page_17.jpeg:
+Associated Systems
+
+Windshield Anti-Fog Switch/System
+
+Anti-fog air is supplied whenever cockpit air conditioning is operating.
+The anti-fog switch (Figure D-10) allows the pilot to vary anti-fog air
+
+temperature.
+HOT
+
+NORMAL
+
+COLD
+
+Anti-fog temperature is fixed at 133°F.
+
+Temperature is regulated between 70° and 100°F,
+depending on the temperature control knob.
+
+Temperature is regulated between 35° and 100°F,
+depending on the temperature control knob.
+
+ANTI-FOG
+N HOT
+
+‘©
+
+COLD
+
+ANTI-ICE ———“
+WINDSHIELD * PITOT ENG
+
+HEAT HEAT
+ON ON
+(ay
+Co)
+
+ON
+OFF ©)
+
+TEST
+
+ECS CONTROL PANEL ACG-05-10
+
+Figure D - 10. Anti-Ice Switches.
+
+ACG-5
+
+
+Text from ACG-5_Environmental_Control_System_Canopy__Steps_page_18.jpeg:
+Windshield Anti-Ice Switch
+
+This switch (Figure D-10) controls hot airflow from the primary heat
+exchanger to the windshield exterior anti-ice air nozzle. The WNDSHLD
+HOT caution is a function of windshield anti-ice air temperature and does
+not measure the temperature of the windshield. Therefore, it is possible
+to severely damage the windshield without any prior warning. Use this
+switch only when necessary and then ensure it is turned off. One
+technique is to guard the switch with your hand when it is on.
+
+CAUTION
+
+Use of the anti-ice system under non-icing conditions
+may damage the windshield.
+
+Engine Anti-Ice/Heat System
+
+The engine anti-ice/heat system consists of an ice detector in the left inlet
+duct and the engine anti-ice/heat system. The ice detector is always on. It
+activates the inlet ice caution on the MPD/MPCD when an icing condition
+exists in the left inlet duct. The engine anti-ice/heat system uses 13th
+stage bleed air to prevent icing on the front of the engine. Bleed air
+passes through a DEEC/engine anti-ice/heat switch controlled shutoff
+valve and into the engine inlet case. The engine anti-ice/heat switch is
+located on the ECS control panel and has three positions (Figure D-11).
+
+ON Activates the engine anti-ice/heat system
+
+OFF Deactivates the engine anti-ice/heat system
+
+TEST Checks the ice detector operation, and turns on the inlet
+ice caution, as well as the MASTER CAUTION and yellow
+ENGINE CAUTION lights (both cockpits)
+
+The DEEC automatically shuts off the engine anti-ice/heat when any of
+the following conditions exist.
+
+e Altitude is above 30,000 feet
+e Engine inlet temperature is above 60°F
+e Throttle is beyond mid range
+
+e Bleed air gets too hot (above 750°F)
+
+ACG-5 D-12
+
+
+Text from ACG-5_Environmental_Control_System_Canopy__Steps_page_19.jpeg:
+Since this is an anti-ice and not a de-ice system, it is essential that
+aircrews anticipate icing conditions and turn the system ON prior to
+encountering icing.
+
+ANTI-FOG
+HOT
+N
+
+ie}
+R
+
+COLD
+
+ANTI-ICE ——_
+WINDSHIELD *
+
+FCP/RCP ECS CONTROL PANEL
+@ ®
+oy @
+{
+——_
+CAUTION CCL)
+ENGINE
+FCP (_
+as
+® @
+@ @
+RCP
+
+MSTR ENGINE
+6)
+
+CAUT |
+
+ACG-05-11
+
+Figure D - 11. Engine Anti-Ice/Heat.
+
+D-18 ACG-5
+
+
+Text from ACG-5_Environmental_Control_System_Canopy__Steps_page_2.jpeg:
+ADMINISTRATIVE INFORMATION
+
+This student workbook is designed to provide information on the F-15E,
+its systems and capabilities. It is not a sole source document, but is to be
+used in conjunction with other standard Air Force publications and
+technical manuals. If you find any differences between the material
+contained herein and other governing regulations, adhere to the
+regulations and notify the OPDR.
+
+Changes to this workbook are indicated with a heavy black line in the left
+margin.
+
+Forward recommendations for revision or change to 4 TS, SJAFB, NC
+275381.
+
+Supersedes: ACG-5, August, 1998
+
+OPDR: 4 TS
+
+Index of Changes
+
+Effective Date Pages Affected
+
+
+
+Text from ACG-5_Environmental_Control_System_Canopy__Steps_page_20.jpeg:
+Anti-G System
+
+The anti-G system is an automatic system that delivers airflow into the G
+suits proportional to the G forces experienced. The system components
+include a connection hose and a manual inflation button used for checking
+the system. Both the hose connection and the manual inflation button are
+located on the left rear console in each cockpit (Figure D-12).
+
+ANTI-G PANEL
+
+RCP
+
+ACG-05-12
+
+Figure D - 12. Anti-G System.
+
+ACG-5 D-14
+
+
+Text from ACG-5_Environmental_Control_System_Canopy__Steps_page_21.jpeg:
+QUESTIONS
+
+The air source knob selects the for the ECS.
+
+Selection of OFF on the cabin temperature control switch or air
+source knob switches avionics to
+
+Below FL 340, the cabin pressure altimeter should read in the
+
+Boop
+
+lower right quadrant.
+upper right quadrant.
+upper left quadrant.
+lower left quadrant.
+
+Activation of the INLET ICE caution means that the
+
+Boop
+
+engine anti-ice system has been turned on.
+detector has sensed ice build up in left engine inlet.
+engine anti-ice system has failed.
+
+DEEC has shut off engine anti-ice.
+
+Turning the emergency vent handle 45° CCW will
+
+Boop
+
+divert ECS cooling air to the avionics.
+
+automatically select anti-fog hot air.
+
+electronically dump cabin pressure.
+
+divert ECS cooling air to the avionics and dump cabin pressure.
+
+D-15 ACG-5
+
+
+Text from ACG-5_Environmental_Control_System_Canopy__Steps_page_22.jpeg:
+ANSWERS
+
+1. engine bleed air source
+
+2. ram air cooling
+
+3 d
+4 b
+5. 6c
+
+ACG-5 D-16
+
+
+Text from ACG-5_Environmental_Control_System_Canopy__Steps_page_23.jpeg:
+PITOT STATIC SYSTEM
+
+The pitot static system uses multiple pitot and static sources for
+redundancy and to provide each engine inlet controller with conditions
+particular to that inlet during flight. There is an airstream pitot static
+mast on each side of the forward fuselage, and a pitot mast and flush
+static port on each inlet duct (Figure D-13). Together they provide total
+and static air pressure to the standby instruments, air data computer
+(ADC), pitch/roll channel assembly, flap airspeed switch, dynamic
+pressure sensor assembly and the inlet controllers.
+
+ACG-05-13
+
+Figure D - 13. Pitot Static System.
+
+D-17 ACG-5
+
+
+Text from ACG-5_Environmental_Control_System_Canopy__Steps_page_24.jpeg:
+The two-position pitot heat switch (Figure D-14) on the ECS panel does
+the following:
+
+ON Provides electrical power to the heating elements of all
+four pitot static probes
+
+OFF Turns pitot heat off
+
+The checklist directs you to turn it ON before takeoff and OFF after
+landing.
+
+OXY BIT
+
+ANTI-FOG
+HOT
+
+N
+Oo
+R
+M
+
+COLD
+
+ANTI-ICE
+
++
+
+WINDSHIELD
+
+ACG-05-14
+
+ECS CONTROL PANEL
+
+Figure D - 14. Pitot Heat Switch.
+
+ACG-5 D-18
+
+
+Text from ACG-5_Environmental_Control_System_Canopy__Steps_page_25.jpeg:
+Two pitot heat circuit breakers are located on the FCP center pedestal
+next to the air vent (Figure D-15). It is sometimes necessary to pull the
+circuit breakers during power on checks of the aircraft; so ensure they are
+
+reset prior to flight.
+
+iS)
+few
+&Y Lc
+= a
+©) NWS
+SS
+SPD q
+BK
+
+VAN L
+
+Vz \ R fi]
+(:) PITOT
+HEAT eo?
++ (=) a
+FCP ACG-05-15
+
+Figure D - 15. Circuit Breakers.
+
+D-19 ACG-5
+
+
+Text from ACG-5_Environmental_Control_System_Canopy__Steps_page_26.jpeg:
+OXYGEN GENERATING SYSTEM
+Molecular Sieve Oxygen Generating System (MSOGS)
+The molecular sieve oxygen generating system (MSOGS) uses ECS cooled
+
+bleed air, filtering out nitrogen and other pollutants, to provide oxygen
+enriched breathing gas (Figure D-16).
+
+ANTI-ICE ——,
+WINDSHIELD * PITOT ENG
+
+HEAT HEAT
+; re) @ ”
+OFF OFF
+
+TEST
+
+= ©
+Urs, |
+OXYGEN REGULATOR PANEL
+(e)
+i ola <r D
+Irsfe: B °
+Eee [ofe) 208 g0e
+een 9} 3° 8 {10 I ji
+FCP RCP
+
+ACG-05-16
+
+Figure D - 16.
+
+ACG-5 D - 20
+
+
+Text from ACG-5_Environmental_Control_System_Canopy__Steps_page_27.jpeg:
+The MSOGS, located behind door 6R, consists of an oxygen concentrator,
+regulator (Figure D-17) and an integral, self-charging backup oxygen
+system (BOS).
+
+OXY BIT
+
+ACG-05-17
+
+Figure D - 17. MSOGS Regulator.
+
+After TCTO 1F-15E-561C or TCTO 1F-15E-725 (latest modification),
+preconditioned bleed air from the water extractor portion of the air
+conditioning system is the only source of air to the MSOGS.
+
+NOTE
+
+Because MSOGS uses ECS air, if ECS is turned off (cabin temp switch
+or air source knob OFF), MSOGS capability (except for breathing gas
+
+remaining in the BOS) will be lost. MSOGS will also be lost if only the
+emergency generator is operating in isolate.
+
+To ensure the proper amount of inlet air is available for power-up BIT and
+to eliminate false concentrator BIT latches, MSOGS should be run only
+after the second engine has been started.
+
+The system provides air that has been filtered to remove nitrogen and
+provides oxygen enriched breathing gas to the aircrew. All contaminants
+may not be filtered out. It is possible to get fumes from other aircraft
+system failures (such as hydraulic fumes) through the ECS. The
+concentrator automatically selects the backup oxygen supply (BOS) during
+a system failure. The MSOGS monitor/controller continuously samples
+the breathing gas to ensure the oxygen concentration of the output gas is
+above acceptable levels. The aircraft essential bus supplies electrical
+power for MSOGS.
+
+D-21 ACG-5
+
+
+Text from ACG-5_Environmental_Control_System_Canopy__Steps_page_28.jpeg:
+The regulator of the MSOGS looks very similar to the LOX regulator. The
+PBG (pressure breathing) option on the supply lever is fully discussed in
+the COMBAT EDGE system explanation in the next section of the
+workbook. The system is electrically driven. During engine start and
+shut down, the FCP supply lever should be off. Move the lever to ON after
+both generators are operating. In this case, the aircrew may have to start
+with the oxygen masks off because the system will not supply air to
+breathe until the system is electrically powered.
+
+CAUTION
+
+Do not lift the regulator toggle switch
+when switching between OFF and ON.
+Damage to the regulator switch will result.
+
+The BOS provides a total of 16 minutes of oxygen enriched breathing gas
+(8 minutes per crew member). BOS normal pressure is 20-450 psi. If BOS
+pressure drops below 20 psi, breathing may be restricted. If pressure goes
+below 16 psi, the BOS activates to build back normal pressure. If the
+bleed air pressure is low (e.g., single engine/single bleed source idle
+descent), the system may switch to the BOS. Normal mode will be
+selected again when the bleed air pressure is restored (throttle advanced
+to 73-74%). BOS is automatically recharged when MSOGS is producing
+93% oxygen enriched gas and adequate pressure is available to the
+concentrator. A minimum of 28 psi on the oxygen gauge is required to
+charge the BOS.
+
+BOS cannot be manually selected. It can be tested and selected via the
+OXY BIT button. The system performs a power up BIT on start. The
+OXY BIT light illuminates with a successful BIT. Reset by pressing and
+releasing the OXY BIT button/light two times in the front cockpit only.
+(The first push acknowledges the BIT and checks the BOS. The second
+push exits the BOS.) If the power up BIT fails, the OXYGEN caution and
+MASTER CAUTION lights come on. The system also performs a
+continuous BIT. If the system fails the continuous BIT, the oxygen
+caution light and master caution light illuminate. The system then
+switches to BOS. Ifthe situation is corrected, the cautions are removed
+and the system reverts from BOS back to the normal system. You can
+also perform a power up BIT by turning off the front cockpit regulator for
+more than 1 second and then back to on.
+
+ACG-5 D - 22
+
+
+Text from ACG-5_Environmental_Control_System_Canopy__Steps_page_29.jpeg:
+You can check the BOS by using the OXY BIT button. Pressing and
+releasing the OXY BIT button switches the system to BOS and allows the
+aircrew to read the BOS pressure on the gauge. You should get a BOS
+pressure reading less than 450 psi, MASTER CAUTION light and
+OXYGEN caution. Pushing the OXY BIT light a second time extinguishes
+these lights and puts the system back to normal. As you breathe, the
+pressure returns to the normal MSOGS pressure range of 10-60 psi.
+
+COMBAT EDGE System
+
+Combined Advanced Technology Enhanced Design “G” Ensemble
+(COMBAT EDGE) equipment is an acronym for an innovation in
+technology that gives the fighter aircrew a combat edge in the air-to-air
+arena.
+
+The COMBAT EDGE system operates in normal flight and pressure
+breathing for G (PBG) modes. The equipment enhances aircrew tolerance
+to G forces. The supply/mode control lever (located on the aircraft
+regulator panel), controls selection between normal flight oxygen supply
+and PBG (Figure D-18). The proper mix of cockpit air and oxygen at the
+correct pressure is supplied to the mask as a function of altitude. This
+function is called pressure breathing for altitude (PBA).
+
+EMERGENCY
+NORMAL
+
+TEST
+MASK
+
+ACG-05-17
+
+Figure D - 18. MSOGS Regulator.
+
+D - 238 ACG-5
+
+
+Text from ACG-5_Environmental_Control_System_Canopy__Steps_page_3.jpeg:
+AIRCRAFT GENERAL
+
+= aa ae
+tc)
+Oo
+? pe
+
+COVER
+
+ENVIRONMENTAL CONTROL SYSTEM, CANOPY & STEPS
+
+INTRODUCTION
+
+This workbook is your guide in studying the F-15E environmental control
+system (ECS), pitot static system, oxygen system, canopy and boarding
+steps. It familiarizes you with the components, nomenclature and
+operational characteristics of these systems.
+
+CONTENTS:
+
+INTRODUCTION se ans cove saws snes asus aan aoxis awe asa sane ais seis aes ans canis dae ance asus aes aes ee A-1
+CRITERION REFERENCED OBJECTIVES (CROs).........0.eeeeeeeeeeeeees B-1
+STUDENT PREPARATION REQUIREMENTS ...00.. eee eeeeeeeeeeeeeees C-1
+TEXT oc eeesecceessseeeceesseeeccesssseeeseeeseeeecesssaeeeeceessaeeeceeeeaaeeeseeeaaeeeeene D-1
+END OF TEXT QUIZ ou. eee eecccecesneeeesseeesesaeeeesneeensaeeeesaeeesseesenaees E-1
+GLOSSARY... eeececeesnceeesneeeeesacecessaeecesaeecesaeecssaeesessaeesesaeeeesaeeseeaeeees F-1
+
+A-1 ACG-5
+
+
+Text from ACG-5_Environmental_Control_System_Canopy__Steps_page_30.jpeg:
+Pressure Breathing for G (PBG) Operation
+
+COMBAT EDGE provides the tactical aircrew member with a PBG system
+for positive acceleration protection at altitudes up to 50,000 feet. The
+COMBAT EDGE equipment is used in conjunction with the G-suit
+currently used in the Air Force. The aircraft anti-G valve senses the onset
+of positive G conditions and provides pressurized engine bleed air at a
+predetermined schedule to the G-suit and the oxygen regulator pressure
+sensor. Regulated air and oxygen, at a predetermined schedule, are
+supplied to the COMBAT EDGE equipment to provide vest inflation and
+positive pressure breathing gas for breathing. The system provides PBG
+at acceleration loads between +4G and +9G. This is accomplished by
+equipping the oxygen regulator with a device to sense a pressure signal
+from the high flow anti-G valve. At G loads above +4G, the input signal to
+the oxygen regulator commands PBG to the vest, mask and helmet
+bladder. If pressure breathing for both G and altitude are required, the
+regulator provides the higher of the two pressure schedules. The
+COMBAT EDGE equipment, used with the anti-G garment enhances the
+M1/L1 aircrew straining maneuvers. M1/L1 aircrew straining maneuvers
+are still required to be performed.
+
+COMBAT EDGE Equipment
+
+CSU-17/P Vest Assembly
+
+There is a vest to be worn, similar in design to the G-Suit (pneumatic
+bladder contained in a Nomex garment, with front zippered closure for
+easy donning and doffing). The vest is worn on the upper torso of the
+crewmember, over the standard flight suit, providing chest
+counterpressure during PBG. A hole within the left-hand side zipper
+enclosure provides for possible future use of a torso cooling system.
+
+ACG-5 D - 24
+
+
+Text from ACG-5_Environmental_Control_System_Canopy__Steps_page_31.jpeg:
+CRU-94/P Integrated Terminal Block (ITB)
+
+The ITB serves as the central interface for breathing gas hoses, the vest
+hose and the emergency oxygen hose. It also contains a pressure relief
+valve that provides system overpressure protection for the aircrew
+member when the vest is not being worn or has been inadvertently
+disconnected. This prevents the operator from receiving excessive PBG
+when not wearing the vest, even if the regulator switch is inadvertently
+left in the PBG position. The ITB provides a man/aircraft interface
+separation point during ground egress or ejection and is categorized as
+manside equipment, although it is stowed in the aircraft. The ITB also
+contains a split ring quick disconnect with a disconnect warning device,
+which warns that the crewmember is disconnected from the oxygen
+source. The CRU-94/P has an upper connector that goes to the oxygen
+mask and a lower connector that goes to the vest. Expensive damage can
+result if the crewmember attempts to connect his oxygen hose to the
+wrong port.
+
+KMU-511/P Helmet Modification Kit
+
+The helmet used for COMBAT EDGE is the HGU-55/P with a modification
+providing for automatic mask tensioning required for PBG. This
+modification consists of an air bladder installed with hook and pile (velcro)
+fasteners, between the thermoplastic liner (TPL) and the foam liner in the
+rear, lower part of the helmet. A bladder supply hose passes through the
+helmet shell and connects to the female side of a quick disconnect. This
+connector allows separation of the helmet and mask for maintenance and
+parachute descent procedures. The visors furnished with the helmet
+modification kits are similar to the current visor, except that the lower
+edge is reshaped to fit neatly against the PBG oxygen mask.
+
+MBU-20/P Oxygen Mask Assembly
+
+The oxygen mask is required for PBG. The oxygen mask contains
+separate inhalation and exhalation valves. The separate valves require
+the oxygen delivery hose to be offset from the center of the mask. The
+inhalation and exhalation valves are interconnected by a compensation
+tube. The compensation tube senses inhalation pressure and a portion is
+directed to the underside of the exhalation valve plate. This compensating
+pressure keeps the exhalation valve shut during inhalation and allows
+PBA up to 50,000 feet.
+
+D-25 ACG-5
+
+
+Text from ACG-5_Environmental_Control_System_Canopy__Steps_page_32.jpeg:
+QUESTIONS
+
+1. The checklist directs you to turn the pitot heat ON and OFF
+a. before taxi, after landing
+b. before takeoff, after landing
+. during taxi check, at engine shutdown
+d. before takeoff, at engine shutdown
+Ds MSOGS normal oxygen pressure is
+
+3. MSOGS BOS normal oxygen pressure is
+
+4. If BOS pressure is below psi, breathing may be restricted.
+
+5. If pressure goes below psi, the BOS will activate.
+
+6. The MSOGS OXY BIT light is reset by
+
+resetting the master caution light.
+
+selecting OFF on the supply lever.
+
+depressing and releasing the OXY BIT button.
+performing a BIT.
+
+pe op
+
+7. The COMBAT EDGE system (MSOGS installed, PBG selected on
+aircraft regulator panel) provides PBG at acceleration loads
+between and G.
+
+ACG-5 D - 26
+
+
+Text from ACG-5_Environmental_Control_System_Canopy__Steps_page_33.jpeg:
+ANSWERS
+
+10-60 psi
+
+20-450 psi
+
+20
+
+16
+
++4 and +9
+
+ACG-5
+
+
+Text from ACG-5_Environmental_Control_System_Canopy__Steps_page_34.jpeg:
+CANOPY SYSTEM
+Components
+
+The canopy system consists of a large clamshell canopy (Figure D-19), a
+hydraulic actuator mounted at the aft of the cockpit, a hydraulic
+accumulator that allows operation prior to starting engines, and a
+pyrotechnic system for emergency canopy jettison.
+
+ACG-05-18
+
+Figure D - 19.
+
+Utility A powers the actuator that raises and lowers the canopy. This
+actuator contains an accumulator that gives approximately three cycles of
+the canopy without hydraulic power. A hand pump socket connector
+exists in the nose wheelwell to operate the canopy without utility A
+hydraulic pressure and with canopy accumulator hydraulic pressure
+depleted. The socket connector is pumped using a 42” drive ratchet.
+
+To operate the canopy without accumulator pressure, move the external
+canopy control handle or one of the two internal handles to the UP or
+DOWN position, and then operate the hand pump in the nose wheelwell.
+To open the canopy from inside the cockpit with accumulator hydraulic
+pressure depleted, place the handle in the UP position and then push up
+on the canopy. A nitrogen charge (approximately 400 psi) in the canopy
+actuator aids in opening the canopy manually.
+
+ACG-5 D - 28
+
+
+Text from ACG-5_Environmental_Control_System_Canopy__Steps_page_35.jpeg:
+Controls
+
+Internal Canopy Control Handle
+
+The front and rear canopy control handles (Figure D-20) interconnect and
+move in unison. Each has four positions:
+
+UP
+
+HOLD
+
+Raises the canopy to maximum open. If selected from
+LOCKED, the canopy unlocks, moves aft and then
+rises.
+
+Provides a hydraulic lock at any point in the cycle.
+Should be used if canopy is to be left open. A leaky
+accumulator may allow the canopy to creep.
+
+Lowers the canopy full down and then forward against
+the windscreen.
+
+Mechanically locks the canopy. Causes a hydraulic
+block, so the canopy must be against the windscreen
+before it can be mechanically locked.
+
+ACG-05-19
+
+Figure D - 20. Internal Control Handles.
+
+D - 29 ACG-5
+
+
+Text from ACG-5_Environmental_Control_System_Canopy__Steps_page_36.jpeg:
+When lowered, the canopy may bounce slightly as it reaches the sill. Once
+the canopy contacts the windscreen, wait 10 seconds before locking it.
+Latches on the frame engage fittings on the cockpit sill to secure the
+canopy. When locked, the canopy seal inflates around the perimeter of the
+canopy frame for cockpit pressurization. Ensure that the CAN UNLKD
+light is on with handle in DN, and that the light is out when the handle is
+moved full forward to LOCKED.
+
+External Canopy Control Handle
+
+There is a flush-mounted external control handle (Figure D-21) on the left
+fuselage, below the canopy, which duplicates the internal control handle
+functions. To access the handle, push the release button. To stow, push it
+in until the retaining latch engages.
+
+RELEASE
+BUTTON
+
+ACG-05-20
+
+Figure D - 21. External Canopy Control Handle.
+
+ACG-5 D - 30
+
+
+Text from ACG-5_Environmental_Control_System_Canopy__Steps_page_37.jpeg:
+Emergency Canopy System
+
+Internal canopy jettison handles (Figure D-22) are located in each cockpit
+under the left sill just aft of the instrument panels. The external jettison
+handle is located just below and forward of the external canopy control
+handle. The system incorporates a pyrotechnic canopy remover that is
+independent of the normal system. It will safely jettison the canopy only
+from the closed and locked position.
+
+For internal jettison, depress the unlock button and rotate the handle aft.
+
+Once fired, the handle locks in place and it (plus the initiator) must be
+replaced. To use the external jettison handle, depress the release button
+to open the access door and pull out the handle and its 8-foot lanyard.
+Pulling the handle initiates canopy jettison.
+
+UNLOCK
+BUTTON
+
+gy
+O
+el
+LE
+SAFETY
+PIN
+
+CANOPY JETTISON HANDLE PUSH TO
+
+OPEN DOOR
+9 Co»
+CANOPY JETTISON
+HANDLE INSIDE
+
+WARNING
+
+IF LEFT ENGINE IS RUNNING,
+APPROACH AIRPLANE ONLY
+
+IF SECURED BY AN ADEQUATE
+RESTRAINING LINE.
+
+ACG-05-21
+
+Figure D - 22. Emergency Canopy System.
+
+D-31 ACG-5
+
+
+Text from ACG-5_Environmental_Control_System_Canopy__Steps_page_38.jpeg:
+Canopy Care
+
+Improperly placed or unsecured items near the canopy remover may
+actuate the canopy jettison bellcrank causing loss of canopy.
+
+Do not place personal items, such as helmet and mask, on the windscreen
+because the canopy and windscreen are easily scratched. Do not use the
+canopy as a note pad.
+
+BOARDING STEPS
+
+From ground level, pressing the flush-mounted release button below and
+in front of the left intake lowers the steps (Figure D-23). Observe the
+printed warning because the steps free fall and can cause an injury.
+
+For cockpit egress, there is a toe-actuated step release button behind a
+spring-loaded door on the left side of the aircraft. A vertical arrow points
+to the door.
+
+CAUTION STEP RELEASE BUTTON
+FREE FALLING STEPS FLUSH WHEN LATCHED.
+
+LOWER STEPS BY HAND
+
+SE
+
+115/200 VAC
+400 HZ, 30
+
+HAVE ALL PERSONNEL
+CLEAR AREA BENEATH
+THE LADDER BEFORE
+
+DEPRESSING BUTTON.
+
+ACG-05-22
+
+Figure D - 23. Steps.
+
+ACG-5 D - 32
+
+
+Text from ACG-5_Environmental_Control_System_Canopy__Steps_page_39.jpeg:
+Stow the steps by pushing up on the bottom step until it locks (step
+release button will be flush). A boarding steps position indicator is located
+on the bulkhead above and aft of the g-suit connection in the front cockpit.
+
+If the steps lower in flight, some buffeting may occur at high speed. Check
+the position indicator or have a wingman confirm steps position. The
+steps have extended in high speed flight with no adverse effect. However,
+reduce speed as soon as practical since structural failure of the steps will
+probably FOD the left engine.
+
+D - 33 ACG-5
+
+
+Text from ACG-5_Environmental_Control_System_Canopy__Steps_page_4.jpeg:
+CRITERION REFERENCED OBJECTIVES (CROs)
+
+1. Identify the operational characteristics of the ECS components,
+
+controls and indicators.
+
+2. Identify the operational characteristics of the pitot static system
+components, controls and indicators.
+
+3. Identify the operational characteristics of the oxygen generating
+system components, controls and indicators.
+
+4. Identify the operational characteristics of the canopy system and the
+boarding steps, including the controls and indicators.
+
+5. Given cockpit indications, identify the malfunction and the initial
+
+action required.
+
+REFERENCES
+
+TO 1F-15E-1 Section I
+
+Section II
+
+Section III
+
+Section VII
+
+FO-23
+
+FO-27
+
+ACG-5
+
+ECS, Pitot Static System, Oxygen System,
+Canopy System and Boarding Steps
+
+Before Entering Cockpit, Cockpit Interior
+Check, Engine Start, Before Takeoff, After
+Landing
+
+Warnings and Cautions
+
+Adverse Weather Operations
+
+Hjection Seat
+
+Environmental Control System
+
+
+Text from ACG-5_Environmental_Control_System_Canopy__Steps_page_40.jpeg:
+QUESTIONS
+
+1. A hand pump socket connector located in the nose wheelwell
+operates the canopy with accumulator pressure
+depleted.
+
+2. For ground egress, with accumulator depleted, to manually raise
+
+the canopy:
+a. Internal control handle - UP, push up on canopy
+b. Control handle - UP, operate hand pump
+e. Jettison the canopy, it is too heavy to lift
+d. Emergency canopy control handle - UP
+3. What occurs when the step release button(s) is/are depressed?
+a. The steps free fall.
+b. The step handle unfolds.
+e. The steps unlock and must be pulled down to deploy.
+d. The steps are hydraulically lowered.
+
+ACG-5 D - 34
+
+
+Text from ACG-5_Environmental_Control_System_Canopy__Steps_page_41.jpeg:
+ANSWERS
+
+1. canopy hydraulic
+
+D- 35 ACG-5
+
+
+Text from ACG-5_Environmental_Control_System_Canopy__Steps_page_42.jpeg:
+MALFUNCTIONS, WARNINGS & CAUTIONS
+ECS Malfunction
+
+MASTER CAUTION, ENGINE Caution and ECS Caution On MPD/MPCD
+
+An ECS caution (Figure D-24) warns of avionics overtemperature (above
+140°F) or low cooling airflow.
+
+Make sure the temperature control switch is in AUTO and the air source
+knob is in BOTH.
+
+On the ground one engine may not provide adequate cooling airflow for
+the avionics. If and when this happens, an immediate automatic avionics
+shutdown occurs. The only indication of this condition will be blank
+displays. Increasing the operating engine to 73% rpm should allow
+normal avionics operation within 2 minutes. If normal operation does not
+resume, it may be necessary to start the second engine.
+
+@, &
+© © l ll loll I |
+Cc) —« ay Vy ce —
+A) cm : ra
+
+—e 2-0 —
+—— Se MASTER (—) v {
+(ENGINE _}_] CAUTION = A: = | ; )
+FCP = —=—- 8 K)
+| INS cs M WJ
+—) a a
+
+Me ~
+
+® ® eo (OFOPOOIOE =
+FCP FCP / RCP
+
+LLL ILL LLL _
+
+ACG-05-23
+
+Figure D - 24. ECS Caution.
+
+ACG-5 D - 36
+
+
+Text from ACG-5_Environmental_Control_System_Canopy__Steps_page_43.jpeg:
+If both engines are running and the ECS caution remains on after
+
+1 minute, the system may not be getting bleed air from both engines. Try
+to isolate the bleed source by rotating the air source knob through all
+positions while the ground crew checks exhaust ports. Once the operating
+source of the ECS air is determined, advance the throttle of the operating
+bleed air source to 77% and turn off all nonessential avionics. Cycle the
+throttle of the nonoperating bleed air source from idle to 78% rpm and
+cycle the air source knob through all positions.
+
+If the ECS caution light remains on after 10 minutes, shut down either
+engine. This should automatically shut down much of the avionics
+equipment including the HUD and the MPDP. If automatic shutdown
+does not occur, shut off all avionics equipment except the UHF to protect
+the equipment. Avionics that cannot be turned off will continue to be heat
+damaged.
+
+In flight, maintain moderate airspeeds and rpm if the ECS caution is on
+because very low or high engine rpm can degrade ECS operation. Shut
+down high cooling demand systems first, such as the radar, ICS, TEWS
+and selected MPD/MPCDs. Nonessential avionics should be turned off for
+their own protection. If diversion of all avionics cooling airflow via the
+EMERG VENT handle is unsuccessful, turn the cabin temperature control
+switch to OFF. This switches avionics cooling to ram air, but temperature
+will continue to be system monitored. Optimum ram air cooling is
+obtained at 400 knots and 15,000 feet. When landing single engine,
+automatic avionics shut down will occur at touchdown or on roll out. If it
+does, the HUD and cockpit displays go blank, and UHF 1 is inoperative. If
+you land with both engines operating and an ECS caution, consider
+shutting down an engine to get the automatic avionics shut down.
+
+NOTE
+
+ECS turbine bearing disintegration can be related to an ECS light
+and/or smoke and fumes. The malfunction usually causes a high
+
+pitched whine that rises as rpm increases, and can result in floor
+vibration. The ECS turbine is shut down by placing the cabin
+temperature control switch or the air source knob to OFF.
+
+D - 37 ACG-5
+
+
+Text from ACG-5_Environmental_Control_System_Canopy__Steps_page_44.jpeg:
+Display Flow Low Caution
+
+A DISPLAY FLOW LOW caution (Figure D-25) during dual engine ground
+operation indicates low cooling air flow to the cockpit displays. Turning
+off all nonessential displays helps protect them from heat damage. The
+mission must be aborted and the condition corrected.
+
+During single engine operation, increasing the rpm above idle will
+extinguish the light if the ECS is operating normally. If it does not, abort
+the mission.
+
+A DISPLAY FLOW LOW while airborne requires turning the ICS OFF to
+increase the cooling air supply to the cockpit displays. Nonessential
+displays should be turned off for their own protection. The remote map
+reader (RMR) and MPCDs should be turned off as soon as possible since
+they are the most sensitive to heat and they have no overheat protection.
+Turning the emergency vent handle increases display cooling airflow, but
+dumps cabin pressure; therefore altitude should be below 25,000 MSL
+before turning the emergency vent handle.
+
+(— @ @ >
+© @
+MASTER DSPL FLO LO
+CAUTION
+FCP 5 @
+@ @)
+FCP
+
+——\__]
+
+la og | | | |
+
+RCP
+
+ACG-05-24
+
+Figure D - 25. Display Flow Low.
+
+ACG-5 D - 38
+
+
+Text from ACG-5_Environmental_Control_System_Canopy__Steps_page_45.jpeg:
+Bleed Air Malfunction
+
+MASTER CAUTION, ENGINE Caution and R BLEED AIR/L BLEED AIR
+Caution On MPD/MPCD
+
+This caution (Figure D-26) displays when a bleed air leak occurs in an
+engine bay or air flowing from a primary heat exchanger becomes too hot.
+This creates the potential for a serious fire or excessive ECS temperature
+and can cause confusion and misinterpretation. Prompt action is
+required. With a left engine bleed air leak, selecting right engine air
+source closes the left bleed air valve. If the caution remains on, pull the
+left throttle to idle to reduce bleed air flow from that engine. If both
+cautions appear, turn the air source knob off.
+
+® ®
+e | 3! 36
+aero eee ee
+|
+FCP
+{J
+3) 8
+® ®
+FCP
+
+LLL ILE_L_]
+
+RCP ACG-05-25
+
+Figure D - 26. Bleed Air Caution.
+
+D- 39 ACG-5
+
+
+Text from ACG-5_Environmental_Control_System_Canopy__Steps_page_46.jpeg:
+Inlet Ice Caution
+
+MASTER CAUTION, Engine Caution and INLET ICE Caution on
+MPD/MPCD
+
+The INLET ICE Caution indicates an ice build up on the engine inlet ice
+probe located in the left engine inlet duct (Figure D-27). The INLET ICE
+Caution remains on as long as the icing condition exists.
+
+Turn the anti-ice engine heat switch ON until the INLET ICE Caution
+disappears and you are clear of the icing conditions.
+
+@. &
+© © © ll il ll ll |
+(So
+| | ‘ 5
+| — 2-0 —
+FCP = 7 tl
+L® ©) oe TOlUIOIOI >" e
+FoP FCP / RCP
+msTR]]joLexone || IL LL | |
+|
+RCP
+
+ACG-05-26
+
+Figure D - 27. INLET ICE Caution.
+
+Windshield Hot Caution
+
+MASTER CAUTION and WNDSHLD HOT Caution on MPD/MPCD
+
+This caution comes on to advise the aircrew that anti-ice air is hot
+(385-401° F). Assuming windshield anti-ice air is no longer needed, turn
+the switch OFF.
+
+ACG-5 D - 40
+
+
+Text from ACG-5_Environmental_Control_System_Canopy__Steps_page_47.jpeg:
+Oxygen Caution Light (MSOGS)
+
+Master Caution and Oxygen Caution on Caution Light Panel
+
+Illumination of the master caution and oxygen caution light on the caution
+light panel indicates a failure in the MSOGS (Figure D-28). After MSOGS
+goes to BOS, 16 total minutes of oxygen remain (8 minutes per crew
+member). Check pressure to ensure BOS is providing oxygen. Descend to
+below 10,000 MSL and use the emergency oxygen bottle if necessary. If
+the system corrects itself, the lights will go out and MSOGS reverts to the
+normal system.
+
+® ® |
+
+ey @
+MASTER
+CAUTION
+
+—— OXYGEN
+
+FCP/RCP
+
+@
+
+® )
+
+©
+
+®
+
+wsTR Jol JL} LE
+le eg | | | | || |
+
+ACG-05-28
+
+——_\__|
+
+Figure D - 28. OXYGEN LOW Caution.
+
+D-41 ACG-5
+
+
+Text from ACG-5_Environmental_Control_System_Canopy__Steps_page_48.jpeg:
+OXY BIT Caution on ECS Panel
+
+The OXY BIT light comes on to show the MSOGS P-BIT (power up built-in
+test) was successful (Figure D-29). It is for information. The pilot should
+reset the light.
+
+ANTI-FOG
+i HOT
+
+{©
+
+COLD
+
+ANTI-ICE ——“
+WINDSHIELD * PITOT ENG
+HEAT HEAT
+ON ON ON
+
+B OFF
+
+TEST
+
+ECS CONTROL PANEL ACG-06-27
+
+Figure D - 29.
+
+ACG-5 D - 42
+
+
+Text from ACG-5_Environmental_Control_System_Canopy__Steps_page_49.jpeg:
+Emergency Oxygen Supply
+The “bailout bottle,” located on the left rear of each ejection seat, provides
+
+a 10-minute emergency oxygen supply (Figure D-30). The supply
+automatically activates upon ejection or manually via the green ring.
+
+WARNING
+
+If the emergency oxygen green ring is
+pulled while still in the cockpit, the
+aircraft oxygen hose must first be
+disconnected from the CRU-94P
+connector, or the emergency oxygen will
+vent into the aircraft system.
+
+EMERGENCY
+OXYGEN BOTTLE
+
+EMERGENCY
+OXYGEN INDICATOR
+
+EMERGENCY OXYGEN
+GREEN RING
+
+ACG-05-29
+
+Figure D - 30. Emergency Oxygen Supply.
+
+D - 43 ACG-5
+
+
+Text from ACG-5_Environmental_Control_System_Canopy__Steps_page_5.jpeg:
+STUDENT PREPARATION REQUIREMENTS
+
+BEFORE CLASS
+
+1. Study the information contained in this workbook and complete the
+quiz.
+
+2. Read the listed reference material.
+
+C-1 ACG-5
+
+
+Text from ACG-5_Environmental_Control_System_Canopy__Steps_page_50.jpeg:
+Cockpit Pressurization/Extreme Temperature Malfunctions
+
+Cockpit Pressurization Malfunctions on the Ground
+
+Aircrews should check to ensure the cockpit is not overpressurized (cockpit
+pressure altitude is lower than actual field elevation). If this occurs, the
+pilot should turn the emergency vent handle to dump cabin pressure.
+Otherwise, the canopy may separate from the aircraft if opened before
+cockpit pressure is dumped.
+
+Loss of Cabin Pressure
+
+If loss of cabin pressure occurs, select 100% oxygen, descend to the lowest
+practical altitude (25,000 feet maximum), check the emergency vent
+handle in and vertical, and land as soon as practical. This situation may
+be reportable as a physiological incident and the aircrew may need to see
+a flight surgeon.
+
+Extreme Cockpit Temperature
+
+If this should occur, attempt to control the temperature in manual. If you
+cannot control the temperature in auto or manual and it becomes
+excessive, you should turn and pull the emergency vent handle below
+18,000 feet. If the temperature is excessively cold, consider a descent to
+warmer air. If the temperature is excessively hot, consider a climb to
+cooler air and/or decelerate to a slower speed. (Optimum ram air cooling
+is obtained at 400 knots and 15,000 feet).
+
+ACG-5 D - 44
+
+
+Text from ACG-5_Environmental_Control_System_Canopy__Steps_page_51.jpeg:
+Canopy Warnings/Cautions
+
+CANOPY UNLOCKED Warning Light
+
+This light (Figure D-31) illuminates whenever the canopy is unlocked or
+when the canopy actuated initiator lanyard (“pigtail”) is disconnected.
+The pigtail is located on the left side of the aft cockpit rear bulkhead.
+
+For a ground malfunction, relock the canopy (cycle the control handle to
+DN and then back to locked). If not remedied, the “pigtail” might be
+disconnected. Give the jet back to maintenance.
+
+The recommended corrective procedure for an in-flight canopy malfunction
+is to slow below 250 knots. Dump cabin pressure (below FL 250) by
+turning the emergency vent handle. Make sure the canopy control handle
+is full forward.
+
+ea ee nee
+®| Al | SAM | OBST [ TF Fa ie CAUT
+
+(e)
+F = —1]
+y
+0.
+EB ae
+CF
+a 0/38
+[880]00
+808
+ce] oO oO
+| [OLo]
+(exe)
+Gd
+FCP RCP
+
+ACG-05-30
+
+Figure D - 31. Canopy Unlocked Warning Light.
+
+D- 45 ACG-5
+
+
+Text from ACG-5_Environmental_Control_System_Canopy__Steps_page_52.jpeg:
+QUESTIONS
+
+1. During ground ops with both engines running, what is your initial
+action when the word ECS appears on an MPD/MPCD?
+
+a. Increase engine rpm.
+
+b. Turn off all avionics except the UHF.
+
+C, Turn off the bleed air.
+
+d. Check the temperature control switch in AUTO and air
+source knob in BOTH.
+
+2. An MPD caution of R BLEED AIR means
+
+a. the left bleed air valve has closed.
+
+b. right engine bleed air flow is restricted.
+
+. R ENG has been selected on the air source knob.
+
+d. a bleed air leak has been detected in the right engine bay.
+3. To activate the 10 minute emergency oxygen supply, place the
+
+regulator lever to EMERGENCY.
+
+a. True
+b. False
+
+4. Where is the canopy actuated initiator lanyard (pigtail) located?
+
+On the front cockpit canopy sill
+
+On the front cockpit ejection seat rail
+
+On the left side of the aft cockpit, rear bulkhead
+On the back side of the aft cockpit, rear bulkhead
+
+po op
+
+5. The CAN UNLKD warning light illuminates whenever the canopy
+is unlocked and/or
+
+the CAN UNLKD light is pressed.
+
+the canopy actuated initiator lanyard is disconnected.
+personal items are placed on the glare shield.
+
+the hydraulic pressure has been depleted.
+
+pe op
+
+ACG-5 D - 46
+
+
+Text from ACG-5_Environmental_Control_System_Canopy__Steps_page_53.jpeg:
+ANSWERS
+
+D - 47 ACG-5
+
+
+Text from ACG-5_Environmental_Control_System_Canopy__Steps_page_54.jpeg:
+(This Page Intentionally Blank)
+
+ACG-5 D - 48
+
+
+Text from ACG-5_Environmental_Control_System_Canopy__Steps_page_55.jpeg:
+END OF TEXT QUIZ
+
+What happens when the air source knob is turned off?
+
+Internal fuel pressurization is residual only.
+
+Engine anti-ice switches to the secondary mode.
+
+Avionics cooling automatically switches to ram air.
+
+The alternate cooling air source must be manually selected.
+
+Boop
+
+Cruising at 3000 feet MSL, the cockpit pressure altimeter should
+
+a 8000 feet.
+
+b. ambient.
+
+Cc sea level.
+
+d whatever the AGL altitude is.
+
+Extension of the emergency vent handle allows ram air to enter the
+cockpit and
+
+mechanically dumps cabin pressure.
+
+diverts ECS cooling air to the avionics.
+
+diverts ram air to the avionics.
+
+deflates the seal around the edge of the canopy frame.
+
+pe op
+
+What does the windshield anti-ice switch do?
+
+a. Electrically heats the windshield.
+
+b. Controls primary heat exchanger airflow to the windshield
+anti-ice nozzle.
+
+c. Activates the WNDSHLD HOT caution when anti-ice
+temperature is excessive.
+
+d. Selects anti-fog hot air when an icing condition is detected.
+
+E-1 ACG-5
+
+
+Text from ACG-5_Environmental_Control_System_Canopy__Steps_page_56.jpeg:
+5. The MPD caution of INLET ICE means the
+
+prevent ice system is working.
+
+prevent ice system is not working.
+
+crew should immediately dive below the freezing level.
+detector has sensed engine inlet ice build up and engine heat
+should be activated, if not already selected.
+
+Ae op
+
+6. During normal ground ops with the canopy down and supposedly
+locked, if the CAN UNLKD light is illuminated, what is the
+recommended action for the aircrew?
+
+a. Have weapons check that the gun has not rotated to a firing
+position.
+
+b. Call for an egress specialist as the canopy may be damaged if
+
+cycled.
+
+Cycle the control handle to LOCKED, the light should go out.
+
+d. Reconnect the canopy actuated initiator lanyard.
+
+©
+
+7. For safe operation of the emergency canopy system, the canopy must
+
+be
+
+a. down.
+
+b. up.
+
+c. closed and locked.
+
+d. inthe HOLD position.
+
+8. What is the recommended initial action when the CAN UNLKD
+warning light illuminates in flight?
+
+Jettison all onboard flares.
+
+Recycle the canopy control handle from DN to LOCKED.
+Slow below 250 knots.
+
+Descend to lowest practical altitude.
+
+po op
+
+ACG-5 E-2
+
+
+Text from ACG-5_Environmental_Control_System_Canopy__Steps_page_57.jpeg:
+When is use of the pitot heat recommended?
+
+When the INLET ICE caution appears.
+
+From before takeoff to after landing.
+
+When ice is visible on wings or wind screen.
+
+Pitot heat operation is automatic and controlled by the DEEC.
+
+Boop
+
+E-3 ACG-5
+
+
+Text from ACG-5_Environmental_Control_System_Canopy__Steps_page_58.jpeg:
+(This Page Intentionally Blank)
+
+ACG-5 E-4
+
+
+Text from ACG-5_Environmental_Control_System_Canopy__Steps_page_59.jpeg:
+ACG-5
+
+
+Text from ACG-5_Environmental_Control_System_Canopy__Steps_page_6.jpeg:
+(This Page Intentionally Blank)
+
+ACG-5 C-2
+
+
+Text from ACG-5_Environmental_Control_System_Canopy__Steps_page_60.jpeg:
+ADC
+BIT
+BOS
+
+COMBAT EDGE
+
+DSPL FLO LO
+ECS
+
+G
+
+HPWS
+
+ITB
+
+MSOGS
+
+PBA
+PBG
+P-BIT
+PPB
+PPO,
+RMR
+
+TPL
+
+GLOSSARY
+
+Air data computer
+Built-in test
+Backup oxygen system
+
+Combined advanced technology enhanced design
+“G’ Ensemble
+
+Display flow low
+
+Environmental control system
+Acceleration, gravity in vertical direction
+High pressure water separator
+
+Integrated terminal block (CRU-94/P)
+Molecular sieve oxygen-generating system
+Oxygen
+
+Pressure breathing for altitude
+
+Pressure breathing for G
+
+Periodic built-in test, power up built-in test
+Positive pressure breathing
+
+Positive pressure oxygen
+
+Remote map reader
+
+Thermoplastic liner
+
+F-1 ACG-5
+
+
+Text from ACG-5_Environmental_Control_System_Canopy__Steps_page_61.jpeg:
+(This Page Intentionally Blank)
+
+ACG-5 F-2
+
+
+Text from ACG-5_Environmental_Control_System_Canopy__Steps_page_7.jpeg:
+TEXT
+ENVIRONMENTAL CONTROL SYSTEM (ECS)
+
+ECS Description
+
+The ECS provides conditioned air and pressurization for the cockpit,
+avionics, windshield anti-fog, anti-ice, anti-G, canopy seal and the fuel
+system. The system uses extracted air, or bleed air, from both engines for
+normal operations. The source of the bleed air is the thirteenth stage of
+the engine compressor. This high pressure air is extremely hot, but
+through a series of components, conditioned air is delivered to the various
+systems. Either engine can provide enough air to operate the ECS, and
+ram air cooling is also available should normal ECS fail. Should ECS
+cooling air fail and the air source knob or cockpit temperature switch be
+placed to OFF, ram air is automatically provided to the avionics for
+cooling.
+
+HIGH TEMP BLEED
+AIR SOURCE
+
+FLOW
+
+MAX ©
+NORM
+MIN
+
+PRIMARY HEAT
+EXCHANGER
+
+PRIMARY HEAT
+EXCHANGER
+
+FUEL HEAT
+EXCHANGER
+
+WINDSHIELD
+ANTI-ICE
+
+COOLING
+TURBINE
+
+COOL TEMP PRESSURE
+
+CANOPY
+SEAL
+
+ACG-05-01
+
+Figure D- 1. ECS.
+
+D-1 ACG-5
+
+
+Text from ACG-5_Environmental_Control_System_Canopy__Steps_page_8.jpeg:
+The primary heat exchanger initially cools the bleed air, decreasing the
+air temperature from the 1000°F to the 200°F range. The compressor
+compresses the air and then the secondary heat exchanger cools it again.
+A high pressure water separator (HPWS) removes the water by using a
+cyclone effect to extract moisture. This dry air is put through a cooling
+turbine where rapid expansion drops the temperature further. The
+conditioned air is now ready for use. A few systems deviate from this
+track. Fuel pressurization (which has its own additional heat exchanger)
+and windshield anti-ice and canopy seal (which use hot air), all branch off
+after the primary heat exchanger and before the compressor.
+The ECS system provides cool air to the following:
+
+¢ Cockpit air vents
+
+e Windshield anti-fog
+
+e Multipurpose display/multipurpose color displays
+
+e Upfront controls
+
+e Forward avionics bays (left and right)
+
+e Internal countermeasures set
+
+e Radar waveguides (throughout the aircraft)
+
+e Radar warning receiver
+
+e Signal data recorder
+The ECS provides hot air to operate or modulate the following:
+
+e Windshield anti-ice
+
+e Anti-G
+
+e Canopy seal
+
+e Fuel pressurization
+
+ACG-5 D-2
+
+
+Text from ACG-5_Environmental_Control_System_Canopy__Steps_page_9.jpeg:
+ECS Controls
+The ECS and the air conditioning panels are located in the front cockpit
+
+on the forward part of the right console (Figure D-2). They contain all the
+normal controls for the ECS.
+
+/
+
+oe/e@ a
+oe|2 of
+
+lo oe
+(e)
+loss
+
+FRONT COCKPIT
+
+ACG-05-02
+
+Figure D - 2. ECS and A/C Panel.
+
+Cabin Temperature Control Switch/Knob
+
+The temperature control switch and knob control cockpit temperature
+(Figure D-3). The temperature control knob operates as a thermostat or
+mixing valve. The temperature control switch selects the function of the
+knob. The switch has three positions.
+
+AUTO The temperature control knob functions as a thermostat
+and maintains constant temperature.
+
+D-3 ACG-5
+
+

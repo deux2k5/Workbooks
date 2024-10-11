@@ -1,0 +1,1428 @@
+Text from RDR-1_Radar_Introduction_page_1.jpeg:
+SUPPORTS COURSES
+FIS5EBQ
+FISETX
+
+ACADEMIC STUDENT WORKBOOK
+F-15E
+
+AIR-TO-AIR RADAR
+RDR-1
+RADAR INTRODUCTION
+
+APRIL 1999
+
+(OFP N/A)
+
+AIR COMBAT COMMAND
+
+
+Text from RDR-1_Radar_Introduction_page_10.jpeg:
+Sidelobes
+
+Unfortunately, the antenna cannot focus transmitted RF energy into a
+precise beam. Some of this RF energy spills over and is also radiated from
+the aircraft. As can be seen from Figure D-3, this energy (called sidelobes)
+radiates all around the main beam. RF energy can be received in the
+sidelobes and be processed by the receiver as a return. The sidelobe from
+the antenna, which spills out directly underneath the aircraft and strikes
+the ground, returns to the antenna where it is processed and displayed as
+an “altitude line.” Its distance out the radar scope is a rough
+approximation of aircraft altitude AGL.
+
+SIDE VIEW TOP VIEW
+
+RDR-01-03
+
+Figure D - 3. Sidelobes.
+
+Generally, sidelobes are not strong enough to interfere with actual returns
+although they may mask a weak target return at longer ranges. They do,
+however, increase the susceptibility to jamming because they can receive
+RF energy transmitted from a jamming source.
+
+RDR-1 D-4
+
+
+Text from RDR-1_Radar_Introduction_page_11.jpeg:
+Display
+
+The fourth basic component of a radar system is the display. In older
+aircraft an actual cathode ray tube (CRT) was used. In new fighters, the
+CRT is replaced by a digitized video display that shows a computer
+generated display of received radar energy that has been
+“smoothed/filtered” by a signal processor. What all of this really means is
+that on newer generation radar displays you see a very “clean” display
+(i.e., no altitude line, etc.). Two types of displays are usually available:
+the plan position indicator (PPI) and the B-scope.
+
+PPI Scope
+
+The PPI displays azimuth, elevation and range information. All objects
+(target returns) are displayed in respect to their actual relationship
+(azimuth and range) to each other and to the fighter. In most cases, the
+PPI display shows only a portion of the area directly in front of the fighter
+(+60° off the nose). The display is pie-shaped with the fighter’s position at
+the vertex, which equates to zero range (Figure D-4). Range to a target is
+measured from the vertex. Target azimuth is measured as an angle from
+the centerline, left or right of the nose. Notice that at short range, targets
+are displayed in their correct relationship to each other and to the fighter,
+but correctly measuring their azimuth is difficult, hence the PPI scope is
+more suited to ground mapping where close-in display is not critical.
+
+AZIMUTH
+O°L
+
+60°L
+
+Ne .
+
+Figure D - 4. PPI Display.
+
+RDR-01-04
+
+D-5 RDR-1
+
+
+Text from RDR-1_Radar_Introduction_page_12.jpeg:
+B-Scope
+
+The second type of display is the B-scope. It is rectangular in shape and
+measures range in the vertical axis, where distance increases from the
+bottom of the display. Azimuth is measured as a distance horizontally
+from the centerline (as opposed to the PPI display where an actual angle
+is used to measure azimuth). This type of display decreases the problem
+of identifying two different targets at close range, but does cause
+distortion. The B-scope can be thought of as a PPI-scope with the bottom
+stretched out as shown in Figure D-5. The B-scope is commonly used for
+air-to-air applications.
+
+ony,
+
+ES
+
+B-SCOPE
+
+RDR-01-05
+
+Figure D - 5. Scope Display.
+
+RDR-1 D-6
+
+
+Text from RDR-1_Radar_Introduction_page_13.jpeg:
+SCAN PATTERNS
+
+Due to the narrow main beam of radar energy used on fighter aircraft,
+detecting a target can be a real challenge (akin to looking for a target
+through a soda straw). To enhance the ability to detect a target, various
+methods are used to increase areas of coverage. Azimuth coverage is
+enhanced by sweeping the antenna side-to-side (and hence, the radar
+beam) to provide a wide angular coverage (+60°) off the fighter’s nose.
+Other methods are used to increase antenna coverage in altitude: conical
+scan, raster scan and track-while-scan.
+
+Conical Scan
+
+A narrow beam’s detection capability can be increased to provide
+additional altitude coverage by offsetting the radar antenna feedhorn and
+rotating the antenna in a circular pattern. This concept is called nutation
+and has two effects: (1) increased antenna coverage in altitude (Figure
+D-6) and (2) with some additions to the radar system, the ability to more
+precisely track a target in azimuth and elevation.
+
+INCREASE
+IN
+
+ALTITUDE
+COVERAGE
+
+RDR-01-06
+
+Figure D - 6. Conical Scan.
+
+D-7 RDR-1
+
+
+Text from RDR-1_Radar_Introduction_page_14.jpeg:
+Raster Scan
+
+A raster scan (Figure D-7) uses a thin beam to cover a rectangular area by
+horizontally sweeping the area while incrementally stepping up or down
+the elevation angle with each horizontal sweep of the sector. The
+elevation angle is reset to the original value after the sector is covered and
+the process repeats.
+
+BAR equals basic antenna raster. One horizontal (sometimes vertical)
+sweep is called one BAR. Figure D-7 is displaying six BARS of sweep,
+each at different elevations. The complete sweep pattern (six BARS in
+this example) is called the frame. Frame time is the total time to sweep
+the frame and return to the starting place.
+
+1° BAR SPACING
+
+RDR-01-07
+
+Figure D - 7. Raster Scan.
+
+RDR-1 D-8
+
+
+Text from RDR-1_Radar_Introduction_page_15.jpeg:
+Track-While-Scan (TWS)
+
+Pure search radar modes display the targets detected on each scan. The
+range, doppler and angle for each detected target may also be displayed or
+available. Each antenna scan is independent of all others. No effort is
+made to decide if a detection on one scan is of the same target as a
+detection on a previous scan or if it is a detection of a new target.
+
+On the other hand, track-while-scan (Figure D-8) combines search and
+track features. The antenna scans a raster pattern (frame) similar to the
+search pattern discussed earlier. However, unlike the search mode, the
+radar computer decides automatically whether a detection belongs to a
+target that was seen on a previous scan or if it belongs to a new target.
+This means that sequential detections from the same target are processed
+into measurements similar to a single target tracking mode and are
+filtered to estimate the target’s position, velocity and acceleration. This
+data composes part of what is called the target’s track file. TWS is
+described more completely in later lessons.
+
+xawur SCAN
+
+TARGET
+DETECTION
+
+RDR-01-08
+
+Figure D - 8. Four Bar Track-While-Scan (TWS).
+
+D-9 RDR-1
+
+
+Text from RDR-1_Radar_Introduction_page_16.jpeg:
+QUESTIONS
+1-4. There are four components of a basic radar system. On the diagram
+
+in Figure D-9 below, label the transmitter, receiver, antenna and
+display.
+
+a I
+
+Cc
+iz al
+RDR-01-09
+Figure D - 9.
+
+5. Ona PPI scope, the sidelobe which strikes the ground directly
+beneath the aircraft and returns to the antenna where it is processed,
+is displayed as a/an
+
+main beam.
+altitude line.
+ground return.
+clutter line.
+
+pe op
+
+6. The display most suited for ground mapping is the
+
+a. B-scope.
+b. GCI-scope.
+c. | PPI-scope.
+d. _E-scope.
+
+RDR-1 D-10
+
+
+Text from RDR-1_Radar_Introduction_page_17.jpeg:
+One method used to increase altitude coverage in a horizontal radar
+scan pattern is
+
+doppler shift.
+
+PPI scan.
+
+elevation scan.
+
+multiple BAR scan (raster scan)
+
+pe op
+
+D-11 RDR-1
+
+
+Text from RDR-1_Radar_Introduction_page_18.jpeg:
+ANSWERS
+
+1-4.
+
+TRANSMITTER ——_— = oo
+
+eRe on
+
+RECEIVER
+ANTENNA
+
+DISPLAY — gprot-t0
+
+Figure D - 10.
+
+5. b
+6. ¢
+7. d
+
+RDR-1 D-12
+
+
+Text from RDR-1_Radar_Introduction_page_19.jpeg:
+PULSED RADARS
+
+Radio frequency energy has several properties that must be understood to
+grasp basic radar theory. Pulsed radars operate in the time domain and
+are excellent at measuring range on all aspect targets at medium and
+short range but are poor at long range or in look-down situations.
+
+Propagation
+
+Radar energy travels through the atmosphere in a straight line at the
+speed of light, (i.e., cannot “see” through terrain or over the horizon), and
+the amount of radar energy returned (or reflected) to the source radar is
+influenced by the reflectivity of the object it strikes.
+
+Radar energy travels at 162,000 nm/sec. For this energy to traverse 1 nm
+takes 6.2 usec (usec = microsecond or 1/1,000,000 of a second). Since radar
+energy must make a two-way trip it actually takes 12.4 usec to travel a
+radar mile (1 nm out and 1 nm back). Another way to express how fast
+radar waves travel is to say that RF energy goes approximately 984 feet in
+1 usec.
+
+The amount of radar energy coming back to the source radar is a function
+of the target’s reflectivity. A target’s reflectivity is simply the term used
+to describe the power that is reflected or scattered by the target. The
+reflectivity of a target is determined by:
+
+aspect
+
+size
+
+material
+
+shape
+engine/blade rpm
+
+D-18 RDR-1
+
+
+Text from RDR-1_Radar_Introduction_page_2.jpeg:
+ADMINISTRATIVE INFORMATION
+
+This student workbook is designed to provide information on the F-15E,
+its systems and capabilities. It is not a sole source document, but is to be
+used in conjunction with other standard Air Force publications and
+technical manuals. If you find any differences between the material
+contained herein and other governing regulations, adhere to the
+regulations and notify the OPDR.
+
+Changes to this workbook are indicated with a heavy black line in the left
+margin.
+
+Forward recommendations for revision or change to 4 TS, SJAFB, NC,
+275381.
+
+Supersedes: RDR-1, July, 1998
+
+OPDR: 4 TS
+
+Index of Changes
+
+Effective Date Pages Affected
+
+
+
+Text from RDR-1_Radar_Introduction_page_20.jpeg:
+If you point a radar at a large piece of metal with a flat polished surface,
+most of the radiated energy returns (as shown by the KC-10 depicted in
+Figure D-11). Targets with knobs and flat surfaces toward the radar
+source have higher reflectivity and provide the best returns. Smooth,
+rounded objects have low reflectivity and reflect most of the radiated
+
+energy away from the source.
+
+FACTORS \V\\ //
+
+AFFECTING:
+
+- ASPECT \\\ J /
+- SIZE
+
+- RPM OF ENGINES ee
+
+Figure D - 11. Reflectivity.
+
+RDR-1 D-14
+
+RDR-01-11
+
+
+Text from RDR-1_Radar_Introduction_page_21.jpeg:
+Anatomy of a Pulse
+
+A radar pulse is defined by the amount of time the transmitter is turned
+on. The transmitter must then shut down to allow the antenna to listen
+for reflected energy. This ON/OFF cycle repeats many times a second.
+The number of pulses present during the cycle (pulses per second) is
+known as the pulse repetition frequency (PRF) and is measured in hertz
+(Hz) or cycles per second. Two successive pulses from a radar transmitter
+are shown in Figure D-12. The time the transmitter is actually
+transmitting (ON) defines the pulse width (PW). The time from the
+beginning of one pulse to the beginning of the next pulse is called the
+pulse repetition interval (PRI). The time from the end of the pulse
+recovery time (RT) to the beginning of the dead time (DT) is known as the
+actual listening time.
+
+PULSE PULSE
+
+<—PW—>|<x—_RT——~|<ACTUAL LISTEN TIME> oo
+
+PRF = PULSE REPETITION FREQUENCY
+
+PRI = PULSE REPETITION INTERVAL
+
+PW = PULSE WIDTH/ PULSE DURATION
+
+RT = RECOVERY TIME
+
+DT = DEAD TIME RDR-01-12
+
+Figure D - 12. Pulse Cycle.
+
+D-15 RDR-1
+
+
+Text from RDR-1_Radar_Introduction_page_22.jpeg:
+Maximum Range
+
+Maximum range is dependent on listening time. Some of the possible
+listening time is unavailable during the time the antenna is transferring
+from transmit to receive functions and again when it changes from the
+receive to the transmit mode. These unavailable times are referred to as
+recovery time and dead time, respectively. Maximum practical detection
+range (in nm) is then:
+
+Actual Listening Time (usec)
+
+12.4 (usec/nm)
+
+Minimum Range
+
+The recovery time immediately following transmission depends on the
+design of the radar. Since the radar cannot see a target while it is either
+transmitting or recovering, the minimum theoretical range depends on
+these two times. The inability of a radar to process a return during these
+times is referred to as eclipsing. For example, given a PW of 5.2 usec and
+a recovery time of 1.0 usec, the total time that the radar cannot receive is
+6.2 usec. Using 984 as the distance radar energy travels in 1 usec,
+minimum range can be determined by the formula:
+
+(PW + RT) x 984
+—_—_—__—_—— = Minimum Range
+2 (two-way trip)
+
+Minimum range for the above example is determined by:
+
+(5.2 + 1.0) x 984
+2
+
+= 3050.4
+
+Therefore, in this example, a target must be more than 3050.4 feet away
+to be seen.
+
+RDR-1 D-16
+
+
+Text from RDR-1_Radar_Introduction_page_23.jpeg:
+Range Ambiguity
+
+Ambiguous returns are associated with pulsed radars. As shown in
+Figure D-13, ambiguity occurs when the reflected energy comes back in a
+pulse listening period other than the one from which it was transmitted.
+The radar sees the return but does not correlate it to the corresponding
+transmitted pulse. This is called range ambiguity. Range is displayed in
+relation to the immediately preceding pulse, which makes range
+computation incorrect. In other words, the returned energy from pulse
+one may be displayed at a range that equates to a return from pulse two
+(Figure D-13). There is a maximum range measurement limitation in any
+pulse radar and it is PRF dependent. This range is referred to as
+maximum unambiguous range for a particular PRF. Low PRFs have a
+long range measuring capability before ambiguity occurs. High PRFs
+have a very short range measuring capability before ambiguity occurs.
+Other more sophisticated ranging methods have been devised to overcome
+range ambiguity.
+
+1 2 3
+
+RETURN FROM
+< R max UNAMBIGUOUS > PULSE 1
+
+RDR-01-13
+
+Figure D - 13. Pulse Timing.
+
+Position Determination
+Merely detecting a target is insufficient. Once you determine that a target
+
+exists, you must then determine its position relative to you in range and
+azimuth.
+
+D-17 RDR-1
+
+
+Text from RDR-1_Radar_Introduction_page_24.jpeg:
+Determining Target Range
+
+Remember that your radar uses a single antenna for both transmission
+and reception of energy. This allows a ranging method using high energy
+pulses. Range is determined by transmitting a small burst of energy and
+measuring the time necessary for the energy to travel to the target and
+return to the receiver. Distance can be computed directly.
+
+As already stated, radar energy travels at the speed of light and since it
+must make a two-way trip in detecting a target, it takes 12.4 usec to
+travel 1 nm. Hence, range to the target can be found by dividing the time
+difference between transmitted and received pulses by 12.4. The formula
+for this is shown as:
+
+Time Between Transmit and Receive (usec)
+Target Range (nm) = —<§_ —---A
+12.4 (usec/nm)
+
+In a typical long range search radar, the transmitted pulse has a duration
+of about 5 usec. RF energy travels at the speed of light (984 feet/usec) so
+the leading edge of the pulse is about 4900 feet from the antenna when
+the transmitter shuts off and the receiver begins listening for echo
+returns. Therefore, as shown in Figure D-14, the incident pulse has a
+length of 4900 feet.
+
+INCIDENT PULSE aan
+
+es |
+
+RDR-01-14
+
+Figure D - 14. Target Range.
+
+RDR-1 D-18
+
+
+Text from RDR-1_Radar_Introduction_page_25.jpeg:
+It would take about 62 usec for the leading edge of the pulse traveling at
+the speed of light to reach the target. The pulse would then reflect back
+through itself as shown in Figure D-15.
+
+REFLECTED waves { { \ \ \\ a=~
+
+4o MILES
+
+1
+
+RDR-01-15
+
+Figure D - 15. Pulse Leading Edge.
+
+D-19 RDR-1
+
+
+Text from RDR-1_Radar_Introduction_page_26.jpeg:
+The entire reflected pulse would travel back toward the receiver at the
+speed of light, making the trip in another 62 usec (Figure D-16). It takes
+124 usec for the pulse to complete a round trip from the antenna to the
+target and back. Therefore, target range would be
+
+124 usec
+————— = 10nm
+12.4 usec /nm
+
+Determining Target Azimuth
+
+The target’s azimuth could be determined by pointing a stationary narrow
+beam at the target. If the beam width was 1° and an echo was displayed
+on the scope, you would know the target azimuth within 1°. This is not,
+however, a practical solution to azimuth determination because all targets
+outside of the 1° beam width would go undetected by radar.
+
+REFLECTED PULSE / ff
+
+[
+etek \
+\ %
+\ XY »®
+
+ne
+
+RDR-01-16
+
+Figure D - 16. Pulse Reflection.
+
+Continuously rotating the antenna through a full 360° (or portion thereof)
+and correlating the presence and range of an echo with the antenna
+azimuth at the time of the received echo solves this problem.
+
+RDR-1 D - 20
+
+
+Text from RDR-1_Radar_Introduction_page_27.jpeg:
+As the antenna rotates in a clockwise direction, it will eventually reach an
+angular area wherein several consecutive transmitted pulses are reflected
+by the target back to the antenna (Figure D-17). In this instance each of
+these pulses will complete the round trip in 124 usec and generate a
+bright spot on the display. The position of the spot will correspond to the
+range and azimuth of the target.
+
+z
+ty)
+N
+i
+
+THE TIME REQUIRED FOR THE
+RADAR PULSE TO GO FROM THE
+ANTENNA TO THE TARGET AND
+BACK IS 124 USEC.
+
+090
+
+180 RDR-01-17
+
+Figure D - 17. Azimuth and Range Determination.
+
+Azimuth ambiguity of some returns is the result of the width of the beam
+and the distance of the object. A 1° beam is only 17-1/2 feet wide at 1000
+feet from the antenna. At 20 nm from the antenna, that same 1° spreads
+to include over 2000 feet as shown in Figure D-18. In other words, there
+may be two bogeys out there even though you can only see one.
+
+D-21 RDR-1
+
+
+Text from RDR-1_Radar_Introduction_page_28.jpeg:
+Resolution
+
+When a pulse radar operates, each transmitted pulse has some physical
+properties that cause problems in resolving azimuth and range.
+
+Azimuth Resolution
+
+The ability to differentiate targets in azimuth depends on the width of the
+beam at the target range. The larger the beam width, and the greater the
+range, the more area the beam covers. From trigonometry you know that
+the length of an arc of 1° at a distance of 60 nm covers 1 nm (or 6000 feet).
+This is also known as the 1-in-60 rule. From this you can see that a radar
+with a 1° beam width covers 6000 feet at a distance of 60 nm. With this 1°
+beam width radar, two targets at a range of 60 nm would have to be at
+least 6000 feet apart to show as separate targets. As range decreases, less
+distance between the targets is required to display as separate targets (at
+20 nm, 1° = 2000 feet; at 30 nm, 1° = 3000 feet etc). Figure D-18 shows
+that at 20 nm, two F-15Es flying with a 1500-foot wingtip spread appear
+as a single contact to a 1° beam width radar.
+
+BEAM WIDTH VERSUS WIDTH OF BEAM
+
+1° AT 20 NM = 2000' BW
+
+RDR-01-18
+
+Figure D - 18. One Degree Beam at 20 nm.
+
+RDR-1 D - 22
+
+
+Text from RDR-1_Radar_Introduction_page_29.jpeg:
+Multiple targets must be separated by at least the width of the beam at
+target range to display separately. Figure D-19 depicts three targets (A, B
+and C). Target A is separated from target B by 600 feet and target B is
+separated from target C by 2400 feet.
+
+A B C
+7 ¥ <co0> ¥ < 2400" -¥
+1° BEAM
+3000'
+A B C
+7 —¥ <c00>¥ < 2400' -¥
+1° BEAM
+30 NM < 2000’ >
+20NM A B Cc
+xr ¥ <c00>¥ < 2400' -¥
+1° BEAM
+<—1000'——>
+10 NM
+aN
+YW _ 1° BEAM WIDTH EXAMPLE
+
+RDR-01-19
+
+Figure D - 19. Multiple Target Azimuth Resolution.
+
+At a range of 30 nm the width of the beam covers all three targets
+simultaneously and only one target is displayed on the radar scope. As
+range decreases to 20 nm the beam covers both target A and B, but as the
+trailing edge of the beam leaves target B, the leading edge of the beam
+has not yet arrived at target C. As the leading edge strikes target C, the
+trailing edge has left target B and thus the radar displays two targets.
+The radar would not be able to differentiate three separate targets until
+range decreases to less than 6 nm.
+
+D - 238 RDR-1
+
+
+Text from RDR-1_Radar_Introduction_page_3.jpeg:
+AIR-TO-AIR RADAR
+
+= 40
+
+coor
+ojo i_0 ty 5 5 ho a 1
+
+COVER
+
+RADAR INTRODUCTION
+INTRODUCTION
+
+This text provides a general overview of airborne radar operating
+characteristics. The information contained in this workbook is essential
+for your understanding of the F-15K air-to-air radar discussed in later
+lessons. This text describes basic radar components, pulse radar
+operation, doppler radar operation and addresses the functions of radar
+systems.
+
+CONTENTS:
+
+INTRODUCTION 0000. eecceeeseeeesneeceseeesssaeecesaaeecnsaeeeesaeesssaeesensaees A-1
+CRITERION REFERENCED OBJECTIVES (CROs).......0....eeeeeeeeeeeeees B-1
+STUDENT PREPARATION REQUIREMENTS . 0.0... eeeeeees C-1
+CL TEAT sos sures sas cos cores canis anais cru amen sexs ansis cas mo Mas oes GSA MaRS Seis MNS Ka HOEK Saws OnE CoReD MoM Ma On D-1
+END OF TEXT QUIZ oo... ec eecceeeseeessceceseeeessaeesesaeesensaeesesaeeesaees E-1
+Hp ce cere ee ees se ces cea cmt ses oe an ce ates ss ce ane ss tae sere ces ee ees se oe F-1
+
+A-1 RDR-1
+
+
+Text from RDR-1_Radar_Introduction_page_30.jpeg:
+Range Resolution
+
+Since a pulse of radar energy has a physical length, multiple targets at
+different ranges also present resolution problems. In this case, however,
+the ability to resolve targets is only a function of the pulse length (PL). As
+a pulse of radar energy strikes a target, the leading edge of the pulse
+begins to reflect back to the sending radar. As long as two targets are
+separated in range by more than 1/2 the PL, they will resolve into two
+distinct targets. For a 1 usec pulse width, two targets must be separated
+by 500 feet in range to show as distinct targets.
+
+Resolution Cell
+If both azimuth resolution and range resolution are considered, a
+
+resolution cell (volume) may be constructed (Figure D-20) with boundaries
+defined by beam width at target range and by half the PL.
+
+WIDTH OF BEAM
+AT TARGET RANGE,
+
+RDR-01-20
+
+Figure D - 20. Resolution Cell.
+
+Multiple aircraft within the cell will appear as one target on the radar
+display.
+
+RDR-1 D - 24
+
+
+Text from RDR-1_Radar_Introduction_page_31.jpeg:
+Pulse Spectrum/Clutter Theory
+
+One problem associated with pulse radars is that radar energy is not only
+reflected from targets of interest, but from other objects, including the
+earth's surface. Sometimes these unwanted returns are referred to as
+noise. Some noise is internal to the radar set due to leakage of RF energy.
+Some noise comes from energy returned in the antenna sidelobes and
+some noise results from main beam contact with the ground.
+Unfortunately, some of this noise masks true target returns. Figure D-21
+depicts an airborne pulse radar with the main beam striking the ground
+at some range. At all the points where sidelobes strike the ground, energy
+is reflected back to the radar (ground return). These returns show up on
+the radar display as an altitude line, sidelobe clutter and main beam
+returns, which may be stronger than other target returns. Sidelobe
+clutter (SLC) is all types of sidelobe energy clutter on the radar display
+that interfere with the true target return. Main beam clutter (MBC) is
+clutter on the radar display that comes from main beam contact with the
+surface (ground return).
+
+Ht
+
+AGL
+
+ALT LINE SIDELOBE res GND
+SIDELOBE CLUTTER RETURN
+(SLC)
+
+aS
+MAIN BEAM CLUTTER (MBC)
+
+MBC AND TGT
+
+SLC AND TGT (A)
+
+ALT LINE
+
+RDR-01-21
+
+Figure D - 21. Pulse Clutter.
+
+D-25 RDR-1
+
+
+Text from RDR-1_Radar_Introduction_page_32.jpeg:
+If the amplitude of returns is graphed as a function of range, as shown in
+Figure D-22, it can be seen that target amplitude must exceed MBC and
+SLC to be seen. Hence, target B will not be seen, while target A will show
+on the radar as a target. This happens because target A has a higher
+amplitude than the sidelobe clutter at the same range. A disadvantage of
+pulse radar is poor look-down capability because main beam clutter from
+ground returns mask real target returns.
+
+A —_—__ RANGE—>
+
+AMPLITUDE
+
+ALT SLC —_MBC-————>
+LINE
+
+RDR-01-22
+
+Figure D - 22. Target Amplitude.
+
+RDR-1 D - 26
+
+
+Text from RDR-1_Radar_Introduction_page_33.jpeg:
+DOPPLER RADARS
+
+Doppler radars exploit frequency changes of the transmitted radar signal.
+Doppler radars operate in the frequency domain (compared to the time
+domain for pulse radars) and are excellent at detecting front aspect
+targets even in look-down situations. They are poor for accurate range
+measurement.
+
+Doppler Shift
+
+A pure doppler radar uses a continuous wave (CW) of radio frequency
+energy with the transmitter turned ON and left ON (as opposed to a
+pulsed wave where the transmitter goes through an ON/OFF cycle). A
+pure CW radar uses two antennas: one for transmitting and another for
+receiving. No timing scheme is used in this CW operation; however, small
+changes in frequency can readily be seen. This change in frequency is
+called doppler shift.
+
+In essence, doppler shift occurs due to the closing (or opening) velocity of a
+target in respect to the transmitter. If the transmitter is stationary and
+sends out a radar signal at a fixed frequency, it is reflected from other
+objects.
+
+D-27 RDR-1
+
+
+Text from RDR-1_Radar_Introduction_page_34.jpeg:
+If this signal is reflected back from another stationary object, the received
+signal is at the same frequency as the transmitted signal. If the second
+object is moving toward the transmitter, the object reflects and
+“compresses” the wavefront of the CW signal. This compression of the
+wavefront causes the transmitted signal to come back at a higher
+frequency. Conversely, an object moving away from the transmitter
+“stretches” the wavefront and the signal returns at a lower frequency.
+This shift of the transmitted frequency is the doppler shift (see Figure
+D-23). Knowing that the frequency is shifted higher tells us that the
+target is moving toward us; by knowing how much the frequency is
+shifted, we can calculate the target's velocity using the factor 1 KHz =
+30 knots.
+
+STATIONARY RADAR TARGET
+
+X-MIT 4
+30KH,,-
+NO SHIFT = STATIONARY
+
+RCV
+30KH,,
+
+J
+
+X-MIT
+30KH,,
+
+!
+
+<— CLOSING = HIGHER
+RCV FREQ
+33KH, =
+
+X-MIT (|
+30KH,"\ [
+—> OPENING = LOW
+
+RCV {| FREQ
+27KH, —
+
+1KHz= 30 KNOTS
+
+RDR-01-23
+
+Figure D - 23. Doppler Shift.
+
+Obviously the same phenomenon applies to an airborne radar versus a
+stationary radar. However, in the case of an airborne doppler radar, the
+host radar is moving and stationary targets appear at a frequency shift
+equal to the fighter’s velocity. In other words, all closure is due to the
+fighter's speed. Additionally, targets with no frequency shift would be
+those going directly away at the same speed as the host radar.
+
+RDR-1 D - 28
+
+
+Text from RDR-1_Radar_Introduction_page_35.jpeg:
+Doppler Spectrum/Clutter Theory
+
+Just as the pulse radar receives returns from the main beam and
+sidelobes, so does a doppler radar. However, in a doppler radar, the
+effects of ground clutter are different. The line across the center of the
+chart depicted in Figure D-24 represents velocity.
+
+MAIN BEAM
+ALTITUDE CLUTTER
+LINE
+NN <—SIDELOBE CLUTTER REGION —» <— CLEAR REGION ——»
+INCREASING
+SIGNAL
+AMPLITUDE
+TRANSMITTER INCREASING TRANSMITTER
+FREQUENCY FREQUENCY ~ FREQUENCY
+Vv Vv
+ie) F CLOSING VELOCITIES
++ yetocities **#————veocities + GREATER THAN | >
+FIGHTER VELOCITY
+TOP VIEW
+#1 #2 #3 #4
+
+500 400 500 500
+KTS KTS KTS KTS
+SAME SPEED OVERTAKING #2 BEAM ASPECT NOSE ASPECT
+AS #1 TO #3 TO #4
+500 KTS 500 KTS 500 KTS 500 KTS
+
+RDR-01-24
+
+Figure D - 24. Doppler Clutter Spectrum.
+
+D - 29 RDR-1
+
+
+Text from RDR-1_Radar_Introduction_page_36.jpeg:
+The same axioms that were examined in pulse radar clutter can be
+derived from the chart. However, the altitude line, sidelobe clutter and
+main beam clutter appear at positions relating to a certain velocity
+(frequency shift), rather than range. The altitude line is at the same place
+that a return from a target with no opening or closing velocity would
+appear. Any targets being overtaken at a speed greater than zero from
+the stern would appear in the sidelobe clutter region. A beam target is
+competing with the main beam clutter since the doppler shift from both is
+equal to the groundspeed of the fighter. Doppler radars usually lose
+targets that move into main beam clutter. Targets that are head-on or
+front-aspect appear in the clear region beyond main beam clutter; doppler
+radars are optimized to detect these targets.
+
+FM Doppler Ranging
+
+As has been pointed out, CW radars cannot provide range information;
+but, there is a technique that allows range estimation by modulating the
+radar frequency. This technique is called frequency modulated ranging
+(FM ranging or FM ramping). Transmitting a constant frequency for a
+short period of time, then changing the frequency (ramping) for a short
+period of time, and then returning to the original frequency produces the
+effect of short bursts of “coded” frequencies. As the signal returns it is
+possible to correlate a returned signal to its codified (ramped) transmit
+frequency. This allows the radar to use a timing system and provide a
+range estimation on a target (see Figure D-25).
+
+RDR-01-25
+
+Figure D - 25. FM Ranging.
+
+RDR-1 D - 30
+
+
+Text from RDR-1_Radar_Introduction_page_37.jpeg:
+Pulsed Doppler
+
+Some fighters utilize a “pulsed doppler” radar. This system combines both
+the characteristics of a pulse radar and a doppler radar by transmitting
+bursts (or pulses) and measuring the return from a target utilizing both
+the time and the velocity domains. In other words, it uses timing of pulses
+for ranging and doppler for velocity. This is accomplished by transmitting
+at a very high PRF, which can be thought of as “near” continuous wave
+(Figure D-26). By combining both pulse and doppler techniques these
+radars take advantage of both long-range detection of front-aspect targets
+(even in a look-down environment) and accurate range measurement on
+all aspect targets. A pulse doppler radar is essentially an all-aspect
+doppler radar.
+
+\ ( \ \
+Aj pM :
+
+RDR-01-26
+
+Figure D - 26. Pulsed Doppler.
+
+D-31 RDR-1
+
+
+Text from RDR-1_Radar_Introduction_page_38.jpeg:
+TARGET TRACKING
+
+The two major functions of fighter radars are searching and tracking. The
+process of searching finds the target and has been discussed. Tracking is
+used to gain more information on the target (e.g., heading, airspeed,
+altitude, etc.); but, more importantly, tracking allows the aircrew to focus
+on a primary target for air-to-air weapons delivery. This section deals
+with various methods used to track a target: range/velocity tracking,
+conical scan, monopulse and phase comparison monopulse.
+
+Range/Velocity Tracking
+
+After target returns come back to the receiver they are sent to the
+processor. Range information is obtained by timing. Target returns are
+then placed in range bins (i.e., a “storage” bin that’s size is determined by
+pulse width). The operator signifies the desire to track a target by
+manipulating some radar display symbol at the target location (i.e.,
+acquisition symbols). This action identifies a specific return in the range
+bins and “gates” it. As the return changes range, the gate moves along
+with it and “tracks” the identified target. As range changes over time, a
+rate of change is computed and displayed as overtake (Vc).
+
+Velocity trackers work in much the same manner by using frequency (or
+velocity) bins to identify a specific target. It is then tracked using a
+velocity gate. No calculation is required to compute overtake since
+velocity is already known from doppler shift.
+
+Angle Tracking
+It is necessary to track a target in azimuth and elevation to keep the
+
+fighter’s radar pointed at the target, especially for certain types of
+air-to-air missiles (i.e., the AIM-7).
+
+RDR-1 D - 32
+
+
+Text from RDR-1_Radar_Introduction_page_39.jpeg:
+Conical Scan Tracker
+
+As previously stated, a conical scan (conscan) pattern is the result of
+offsetting the antenna feedhorn and rotating the assembly. Altitude
+coverage is increased, but also an overlapping pattern in the center of the
+conscan pattern is developed. The radar measures the amplitude in each
+of the scanned quadrants as shown in Figure D-27.
+
+ROTATION ROTATION
+
+NO ERROR SIGNAL ERROR SIGNAL GENERATED
+(CENTERED) (OFF CENTER)
+
+Vs>
+-
+yy
+o
+- H
+
+RDR-01-27
+
+Figure D - 27. Conical Scan Tracking.
+
+D - 33 RDR-1
+
+
+Text from RDR-1_Radar_Introduction_page_4.jpeg:
+CRITERION REFERENCED OBJECTIVES (CROs)
+
+1. Identify the basic principles of pulse radar to include range/range
+rate determination.
+
+2. Identify the basic principles of doppler radar to include velocity and
+range determination.
+
+3. Identify situations where a pulsed radar has advantage over a
+doppler radar.
+
+4. Identify situations where a doppler radar has advantage over a
+pulsed radar.
+
+REFERENCES
+
+AFP 51-45, Electronic Combat Principles, 15 Sept 87
+
+Stimson, George W. Introduction to Airborne Radar. (2nd ed.). SciTech
+Publishing, Inc., 1998
+
+RDR-1 B-1
+
+
+Text from RDR-1_Radar_Introduction_page_40.jpeg:
+When the antenna boresight is pointed at the target the amplitude of the
+return is equal in all quadrants. If the target moves in azimuth/elevation,
+then the amplitude will be higher in one quadrant and lower in others.
+This action generates an error signal that results in the antenna slewing
+back over the target and thus equalizing the amplitude in each of the
+quadrants. Note that the illustration depicts only four quadrants; in
+reality there are many quadrants as the antenna scans the target.
+
+Monopulse Tracker
+
+Monopulse trackers get azimuth, elevation, range and velocity information
+from each single pulse (hence monopulse) of returned energy. Azimuth
+and elevation errors are generated to equalize the sum of the quadrants as
+shown in Figure D-28.
+
+AZIMUTH ERROR = (A + C) - (B + D)
+IF (A+C) - (B+ D) =0 NOERROR
+
+ELEVATION ERROR = (A + B) - (C + D)
+IF (A+B) - (C+D) =0 NOERROR
+
+IF A=B=C=D THE TARGET IS CENTERED
+
+RDR-01-28
+
+Figure D - 28. Monopulse Radar.
+
+RDR-1 D - 34
+
+
+Text from RDR-1_Radar_Introduction_page_41.jpeg:
+Phase Comparison Monopulse Tracker
+
+A phase comparison monopulse antenna uses a hybrid monopulse
+technique. Azimuth, elevation, and range, as well as doppler information
+are received from a single pulse of returned energy. A sum/difference is
+computed for azimuth and elevation tracking. Additionally, the wave
+front of returned energy is checked for phase angle (6) difference. Ifa
+phase difference is found, an error signal is generated to reorient the
+antenna in azimuth/elevation (Figure D-29).
+
+SUM OF 1 AND 3 COMPARED TO SUM OF 2 AND 4 = AZIMUTH ERROR
+SUM OF 1 AND 2 COMPARED TO SUM OF 3 AND 4 = ELEVATION ERROR
+
+SUM AND
+DIFFERENCE
+‘a HYBRID
+
+FOUR QUADRANT
+PLANAR ARRAY ANTENNA
+a
+
+PHASE ANGLE TRACKER
+
+= WAVEFRONT PHASE ERROR RDR-01-29
+
+Figure D - 29. Phase Comparison Monopulse Tracker.
+
+D- 35 RDR-1
+
+
+Text from RDR-1_Radar_Introduction_page_42.jpeg:
+QUESTIONS
+
+1. The amount of energy that returns to the source radar is a function of
+
+the target’s
+
+a. PRF.
+
+b. reflectivity.
+c. speed.
+
+d. altitude.
+
+2. Radar waves travel at the speed of light or
+
+a. 62 feet/usec.
+
+b. 984 feet/usec.
+c. 1200 feet/usec.
+d. 4900 feet/usec.
+
+3. Doppler radars do not provide ranging information to the target.
+Which of the following methods is used to find range in doppler
+radar?
+
+Frequency modulation (FM ranging)
+PRF stagger
+
+Two antennas
+
+Double frequency return echoes
+
+po op
+
+RDR-1 D - 36
+
+
+Text from RDR-1_Radar_Introduction_page_43.jpeg:
+ANSWERS
+
+D- 37 RDR-1
+
+
+Text from RDR-1_Radar_Introduction_page_44.jpeg:
+(This Page Intentionally Blank)
+
+RDR-1 D- 38
+
+
+Text from RDR-1_Radar_Introduction_page_45.jpeg:
+END OF TEXT QUIZ
+
+During which of the following times are all target returns/echoes
+processed?
+
+Actual listening time
+Recovery time
+
+Pulse recurrence time
+Dead time
+
+po op
+
+A radar mile measures the time required for radar energy to travel
+one mile and return. A radar mile is expressed in time as which of
+the following?
+
+a. 6.2 usec
+
+b. 12.4 usec
+c. 1240 usec
+d. 2seconds
+
+Doppler shift occurs when
+
+a. _ the receiver is shut down.
+
+b. the target closes/opens on the fighter radar.
+c Vc is presented on the display.
+
+d. velocity bins are full.
+
+E-1 RDR-1
+
+
+Text from RDR-1_Radar_Introduction_page_46.jpeg:
+Use the diagram below to complete questions 4-6.
+
+4. Which letter on the diagram corresponds to main beam clutter?
+
+pe op
+
+5. Which letter on the diagram corresponds to the altitude line?
+
+af of
+
+6. The area between B and C is called:
+
+sidelobe clutter.
+main beam clutter.
+the altitude line.
+the clear region.
+
+pe op
+
+==. ,
+
+RDR-01-30
+
+Figure F - 1.
+
+RDR-1 E-2
+
+
+Text from RDR-1_Radar_Introduction_page_47.jpeg:
+AGL
+
+BAR
+
+BIRDS
+
+BW
+
+CRT
+
+CW
+
+DT
+
+FM
+
+KHz
+
+MBC
+
+PL
+
+PPI
+
+PRF
+
+PRI
+
+PW
+
+RF
+
+RT
+
+SLC
+
+GLOSSARY
+
+Above ground level
+
+Basic antenna raster
+False radar targets/returns
+Beam width
+
+Cathode ray tube
+Continuous wave
+
+Dead time
+
+Frequency modulation
+Hertz
+
+Kilo-hertz
+
+Main beam clutter
+
+Pulse length
+
+Plan position indicator
+Pulse repetition frequency
+Pulse repetition interval
+Pulse width
+
+Radio frequency
+
+Recovery time
+
+Sidelobe clutter
+Track-while-scan
+
+Velocity of closure
+
+RDR-1
+
+
+Text from RDR-1_Radar_Introduction_page_5.jpeg:
+STUDENT PREPARATION REQUIREMENTS
+BEFORE CLASS
+
+Study the information contained in this workbook and complete the quiz.
+
+C-1 RDR-1
+
+
+Text from RDR-1_Radar_Introduction_page_6.jpeg:
+(This Page Intentionally Blank)
+
+RDR-1 C-2
+
+
+Text from RDR-1_Radar_Introduction_page_7.jpeg:
+TEXT
+BASIC COMPONENTS
+Most airborne radars consist of four essential components:
+@ Transmitter
+@ Receiver
+@ Antenna
+@ Display indicator
+Figure D-1 depicts the relationship of these basic functional components.
+Transmitter
+The transmitter generates a high powered radio frequency (RF) signal
+that is radiated by the antenna. This signal is generated by a high-power
+
+magnetron oscillator. The details of transmitter function are not essential
+for your understanding of the radar system.
+
+TRANSMITTER
+
+UOMOIGIOIG
+
+RECEIVER
+ANTENNA
+
+DISPLAY — pprot-04
+
+Figure D - 1. Functional Components.
+
+D-1 RDR-1
+
+
+Text from RDR-1_Radar_Introduction_page_8.jpeg:
+Receiver
+
+The receiver amplifies and filters RF signals (also called returns) received
+by the antenna. As with the transmitter, it is not important for you to
+remember detailed information regarding the receiver. Remember that
+the receiver listens for the echoes of the waves previously transmitted by
+the antenna.
+
+Antenna
+
+Both the transmitter and receiver share a common antenna. Since only
+one antenna is used, it is important to note that the radar cannot send
+signals out (from the transmitter) and receive signals back (to the
+receiver) at the same time. It must be either a transmitter or a receiver.
+Additionally, the antenna must focus the RF energy into a narrow beam to
+aid in azimuth and elevation determination of detected airborne targets.
+
+RDR-1 D-2
+
+
+Text from RDR-1_Radar_Introduction_page_9.jpeg:
+Main Beam
+
+The narrow beam of energy, which is transmitted along the centerline of
+the antenna, is referred to as the main beam. It is defined by the points
+where the transmitted power drops from maximum strength (along the
+centerline) to one-half power (known as the half power points). The size of
+the main beam is called the beam width and is measured in degrees (see
+Figure D-2). The narrower the beam the more accurate the azimuth and
+elevation measurements of the radar. Note that the antenna is swept
+side-to-side in a 120° pattern (or portions thereof) to measure azimuth,
+which is referenced to the fighter’s nose.
+
+BEAM WIDTH
+(DEGREES)
+
+1/2 POWER
+\ POINTS
+
+RADIATED
+POWER
+
+/ 1/2 POWER
+
+POINTS
+
+RDR-01-02
+
+Figure D - 2. Main Beam.
+
+D-3 RDR-1
+
+

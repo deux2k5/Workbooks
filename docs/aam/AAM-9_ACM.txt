@@ -1,0 +1,2066 @@
+Text from AAM-9_ACM_page_1.jpeg:
+SUPPORTS COURSES
+FIS5EBQ
+FISETX
+
+ACADEMIC STUDENT WORKBOOK
+F-15E
+
+AERIAL ATTACK MANEUVERING
+AAM-9
+AIR COMBAT MANEUVERING (ACM)
+
+MAY 2000
+
+(OFP N/A)
+
+AIR COMBAT COMMAND
+
+
+Text from AAM-9_ACM_page_10.jpeg:
+Deconfliction
+
+The most important concept when discussing roles/responsibilities is that
+of deconfliction. The support fighter owns the deconfliction hammer at all
+times until a proper role exchange occurs. Realize the bandit determines
+who the engaged fighter should be and may necessitate the need for a role
+swap. The control zone is an inherently dangerous region since offensive
+BFM drives attacking fighters into this small airspace. Therefore, it is
+imperative that support fighters ensure the engaged fighter is not a factor
+before entering the control zone. As the support fighter, you should avoid
+all actions that will hamper the engaged fighter’s ability to fulfill the
+primary responsibility of killing the bandit. This does not preclude the
+support fighter from employing all-aspect weapons against the bandit as
+soon as shot deconfliction (discussed later) requirements have been met.
+
+Role Establishment
+
+Engaged
+
+By default, the flight lead is the engaged fighter until clearing the
+wingman to engage. The most effective elements are those in which there
+is a fairly fluid exchange of roles in response to the bandit’s maneuvering
+decisions. Roles are established by an “KNGAGED?” call by one fighter or
+the other. The hierarchy to determine who should be calling “ENGAGED”
+is most defensive fighter, most offensive fighter, then flight lead. The
+initial “ENGAGED?” call requires a response from the other aircraft for the
+role establishment to occur. The best way to respond would be
+
+“EAGLE 2,” which would imply that you were tally the bandit and picking
+up the support fighter role. Some flight leads may want to hear
+
+“EAGLE 2, TALLY” as a response. As the engaged fighter, you are either
+defensive or offensive as discussed in the following paragraphs.
+
+Defensive
+
+The defensive role is whom the bandit is actively attacking. This can
+begin in the BVR or visual arena. Ifa fighter is reacting defensively, that
+fighter should be the engaged fighter. If a role swap is required, it will not
+be accomplished until a positive handoff through radio communications is
+achieved. For example, “EAGLE 1, DEFENSIVE, BANDIT MY SIX, 6000
+FT,” would require a response of “EAGLE 2” to establish roles. In general,
+“DEFENSIVE” is equivalent to an “ENGAGED?” call, which sets up the
+proper engaged/support fighter roles.
+
+AAM-9 D-4
+
+
+Text from AAM-9_ACM_page_11.jpeg:
+Offensive
+
+If the bandit is unaware, then the fighter with the most offensive entry
+should call “ENGAGED.” If the bandit is reacting to a fighter, then that
+fighter should call “ENGAGED.” For example, “EAGLE 1, TALLY 1, BRA
+020/55, 5000, ENGAGED.” As a wingman, you should always strive to be
+the engaged fighter; it is your chance to be aggressive. The flight lead will
+reign you in if required.
+
+Flight Lead
+
+If everything previously discussed is equal and no one has yet called
+“ENGAGED,” then the flight lead is engaged. Once the bandit reacts, it
+should become clear who should subsequently call “ENGAGED” in
+relation to the above-mentioned criteria.
+
+Support
+
+Any fighter who is not an engaged fighter automatically assumes a
+support role. A support fighter maintains this role until it is absolutely
+clear to all involved fighters via communication that the support fighter
+has incurred the engaged role, including by going defensive.
+
+Role Exchange
+Once roles have been established, they do not switch without confirmation
+from the engaged fighter. There must be a simple rule that applies to all
+
+situations to determine when the roles need to swap.
+
+Engaged Fighter is Offensive/Neutral
+
+It is important to remember that the support fighter does not need to be
+the engaged fighter to employ ordnance, as long as the flight path and
+weapons deconfliction can be maintained. If the engaged fighter is
+neutral/stagnated in an offensive position and the support fighter has a
+better entry into the control zone, then the support fighter should call
+“ENGAGED” to request the role exchange. The support fighter will
+maintain deconfliction until the role swap has occurred through
+communication. The support fighter should call “ENGAGED” prior to
+maneuvering the jet into a position where a potential flight path conflict
+might exist. In addition, the support fighter should not call “ENGAGED”
+too early, thereby reducing pressure on the bandit. The timing of the
+“ENGAGED” call is critical.
+
+
+Text from AAM-9_ACM_page_12.jpeg:
+Support Fighter Becomes Defensive
+
+The roles should swap when the support fighter becomes defensive and
+can no longer perform support fighter responsibilities. This will require
+communication for the swap to be complete. It should be noted, however,
+that the roles do not have to swap as long as the support fighter can
+maintain the support fighter’s responsibilities. For example, if Eagle 1 is
+out of the fight looking for a reentry and the bandit’s nose passes through
+Eagle 1 (the support fighter), but the bandit does not continue to
+prosecute an attack on Eagle 1, then Eagle 1 would not call “ENGAGED.”
+The most efficient ACM occurs when there is harmony between who the
+bandit has chosen to engage and the roles established through F-15E
+communication.
+
+Engaged Communication
+
+Once a fighter calls “ENGAGED” according to the criteria, the following
+comm terms will be among the possible responses available to both
+aircrews:
+
+e PRESS — A directive call to the flight member who just called
+“ENGAGED” to continue the attack. The individual saying
+the word “PRESS” is now accepting the support role and will
+ensure deconfliction. Roles are swapped.
+
+e UNABLE -— This response indicates the engaged fighter is
+unable to disengage/pick up the support role without
+jeopardizing continued survival, or the need to attack an
+additional bandit entering the fight will not allow the
+engaged fighter to pick up the support role. Roles are not
+
+swapped.
+
+The flight lead has an additional response available:
+
+e NEGATIVE - This simply means “no.” The flight lead, based
+on inherent authority, is unwilling to disengage/flow in the
+manner requested. The wingman must maintain the support
+role. Roles are not swapped.
+
+AAM-9 D-6
+
+
+Text from AAM-9_ACM_page_13.jpeg:
+Flow, Roles Exchanged
+
+Once the engaged fighter responds in the affirmative (i.e., “PRESS”) to a
+role exchange request, the roles are exchanged. However, even if the
+“PRESS” call is received, prudence dictates that the newly engaged fighter
+should exercise caution as the support fighter (or any other involved
+aircraft) deconflicts. The engaged fighter must continue to clear its own
+flight path and remain predictable.
+
+Flow, No Exchange of Roles
+
+If the engaged fighter is blind or unable to exit the fight without being
+shot, the engaged fighter should call “UNABLE.” If the engaged fighter
+has denied a role exchange, the support fighter must flow to deconflict
+with the fight and continue in the support role. However, this does not
+preclude the support fighter from shooting if a clear field of fire becomes
+available (and flight path deconfliction is assured). The only way for a
+wingman to deny a role exchange is through an “UNABLE” call. The
+flight lead may use “NEGATIVE” for several reasons. For example, if the
+support fighter is not in a good position when calling “ENGAGED.”
+
+Special Case Engage/Support Communication
+Break Turns
+
+A great deal of confusion can occur when a bandit arrives in a position
+that forces the element to execute a break turn. If a break turn is called,
+the F-15E on the inside of the turn will be the engaged fighter until it
+becomes obvious (bandit’s pursuit course or F-15E RWR) who the bandit is
+attacking. The fighter on the outside of the turn will have the easiest
+time maintaining flight path deconfliction while still executing smart
+BFM. Whoever called the break turn should be talking the other fighter’s
+eyes onto the bandit until “TALLY” is called.
+
+Bandit Switches
+
+The bandit could elect to switch the attack to another F-15E at anytime.
+The primary indicators of a switch are bandit nose position (consider
+bandit radar/heat nose and HMS capabilities, as applicable) and F-15E
+spike status. The first fighter to realize the switch should use directive
+communication as required to initiate the appropriate defensive response
+and add any necessary descriptive commentary. The responses are as
+described earlier. For example, “EAGLE 4, BANDIT SWITCHED,
+ENGAGED.” As a technique, the flight lead may brief that a “BANDIT
+SWITCHED” call with an acknowledgement from the other fighter
+completes a role exchange. This technique helps to minimize
+communication.
+
+D-7 AAM-9
+
+
+Text from AAM-9_ACM_page_14.jpeg:
+ACM COMMUNICATIONS
+
+Effective communication is essential to maximize the element’s potential.
+A key factor in role establishment and coordinated employment is
+communication of critical information during the engagement. This is
+where the roles and responsibilities are confirmed so there is no doubt as
+to who the engaged fighter is and who the support fighter is. Aircrews
+must use standard terminology in order to avoid confusion, enhance SA
+and minimize excessive radio transmission time. Standard transmissions
+using brevity code result in a lot of information passed in relatively few
+words. On the other hand, if standard terminology does not fit the
+situation, clearly and concisely state what needs to be said. Nonstandard
+radio terminology (RT), lack of call signs and excessive communication can
+cause confusion and misunderstanding at a critical time. Communication
+discipline is necessary. No one else on the tactical frequency needs to hear
+this intraflight communication; the intensity of the communication
+required may totally saturate whatever frequency is being used.
+Therefore, use the auxiliary radio to the maximum extent possible for
+ACM communication.
+
+Format
+
+The format depends on whether the element is starting out offensive or
+defensive. There are four categories of communication words that apply to
+ACM: directive, descriptive, informative and engaged/support
+communication. This discussion is presented in terms of an engaged
+element. However, it applies with any number of involved F-15Ks.
+
+AAM-9 D-8
+
+
+Text from AAM-9_ACM_page_15.jpeg:
+Communication Categories
+
+Directive Commentary
+
+Directive commentary tells the other fighter in the element to do
+something. The first priority is to get the element maneuvering in
+minimum time to defeat any potential bandit attack and establish roles.
+Tell the element what to do by using the call sign of the fighter you are
+talking to and then filling in important additional information with
+descriptive commentary. For example, if the F-15E wingman (Eagle 2)
+visually detects a bandit approaching weapons parameters from the flight
+lead’s right side, the call “EAGLE 1, BREAK RIGHT!” should be made.
+Eagle 1 now has the engaged role (the defensive fighter), while Eagle 2 is
+the support fighter. Eagle 2, currently with the highest SA on the bandit,
+attempts to kill the bandit while deconflicting with Eagle 1, who may be
+blind and no joy during the defensive break. Examples of directive calls
+are:
+
+@ BREAK (with direction)  ) CHECK
+e HARD (with direction) ® COME BACK
+e FLARE e COME OFF
+
+@ SEPARATE (with direction) e CONTINUE
+
+e JINK e DEPLOY
+
+e BLOW THROUGH e HOOK
+
+e BRACKET @ PUSH IT UP
+
+e BUGOUT ® REFERENCE (with
+direction)
+
+An important point to remember is that when a wingman uses a directive
+term/word, it is a request and the flight lead reserves the right to
+approve/deny the wingman’s requested action. When the flight lead uses
+a directive term, it is just that—lead has the hammer!
+
+
+Text from AAM-9_ACM_page_16.jpeg:
+Descriptive Commentary
+
+Descriptive commentary consists of telling the other fighters where to look
+or what is happening. Descriptive calls can also be used to ask questions.
+After initiating a reaction with directive communication, fill in with
+descriptive commentary, as required, to coordinate between involved
+fighters. Descriptive commentary should include call sign and one or
+more of the following items as the situation requires:
+
+e Type of aircraft or threat identification (bandit/bogey)
+e Left or right (side of aircraft)
+
+e Clock position
+
+e High/level/low
+
+e Range
+
+For example, “EAGLE 1, BANDIT RIGHT 3 O’CLOCK, 2 MILES, LOW.”
+Other example descriptive terms include:
+
+e BANDIT e NO JOY
+
+e BLIND e OFF
+
+e BOGEY e POSIT
+
+e BUDDY LOCK e RAYGUN
+
+e FOX e SLOW
+
+e GREEN e STATUS
+
+e KILL e SWITCHED
+e LOCKED e TALLY
+
+e LOW e TRASHED
+e MERGED e VISUAL
+
+AAM-9 D-10
+
+
+Text from AAM-9_ACM_page_17.jpeg:
+Informative/Situational Awareness Building Communication
+
+Informative communication is used to build situational awareness.
+
+Examples include:
+
+OFFENSIVE/DEFENSIVE
+
+ANCHORED
+
+IN
+
+OUT
+
+SWITCHED
+
+SPIKE
+
+SPLIT
+
+CHECK GAS
+
+Informative calls use the call sign of the aircraft talking.
+
+Plain English
+
+While communication discipline is of the utmost importance in the air
+combat arena, killing the bandit in minimum time while ensuring F-15E
+deconfliction is paramount. If at a loss for what to say, revert to plain
+
+English to convey intentions to the other fighter.
+
+Engaged Communication Format
+
+When engaging from a radar contact or during longer-range tally-ho’s use
+
+BRA format. For example, “EAGLE 1, TALLY 1, BRA 020/5, 5000,
+
+ENGAGED.” When closer, communication may degrade to clock position
+and relative altitude such as “EAGLE 1, TALLY 1, RIGHT 1 O'CLOCK,
+LOW, ENGAGED.”
+
+AAM-9
+
+
+Text from AAM-9_ACM_page_18.jpeg:
+Merge Communication
+
+At the merge, there are four brevity terms to indicate the flight’s status:
+
+ANCHORED - Call “ANCHORED?” if anticipating turning
+more than 90° to shoot a bandit.
+
+DEFENSIVE — A bandit is forcing the aircraft to react for
+survival. The defensive fighter should be the engaged
+fighter, thus not responsible for deconfliction. It implies soon
+to be anchored.
+
+ENGAGED — The caller is maneuvering with intent to kill
+the bandit. In addition, using this term begins the process of
+establishing ACM roles.
+
+BREAK - This call is a directive to perform an immediate
+maximum performance turn in the indicated direction. It
+assumes a defensive situation.
+
+Brevity Definitions
+
+AAM-9
+
+OUT (with direction) — Informative call indicating a turn to a
+cold aspect relative to the threat. In the ACM environment,
+this call is optional. The support fighter normally uses this
+call after a role exchange when leaving the fight to regain
+energy.
+
+IN (with direction) — Informative call indicating a turn to a
+hot aspect relative to the threat. In the ACM environment,
+this call is optional. The support fighter normally uses it
+after regaining energy and starting the turn back toward the
+fight.
+
+STATUS — Request for an individual’s tactical situation. In
+the ACM environment, this call is used to confirm which
+aircraft is the bandit. A quick way to establish
+bandit/friendly is to call out what is seen. For example,
+“EAGLE 1, STATUS, HIGH/LOW.” The description should
+be concise and discriminating. If Eagle 1 were above the
+bandit, the expected reply would be “EAGLE 1, HIGH.”
+Other discriminators might be offensive/defensive, left
+turn/right turn, nose high/nose low, north/south,
+pushing/pulling, etc.
+
+
+Text from AAM-9_ACM_page_19.jpeg:
+SEPARATE -— Leaving a specific engagement; may or may
+not reenter.
+
+BUGOUT - Separation from that particular engagement/
+attack/operation with no intent to reengage/return.
+
+BLIND — No visual contact with friendly aircraft; opposite of
+VISUAL.
+
+BLOW THROUGH - Directive/informative call that indicates
+aircraft will continue straight ahead at the merge and not
+turn with target.
+
+BREAK (with direction) — Directive to perform an immediate
+maximum performance turn in the indicated direction. This
+call assumes a defensive situation.
+
+DEFENSIVE -— Aircraft is in a defensive position and is
+maneuvering with respect to A/A threat. In establishing
+ACM roles, the aircraft calling “DEFENSIVE” initially
+assumes the engaged role.
+
+ENGAGED — Maneuvering with the intent of achieving a
+kill. The term is also used to initiate the establishment of
+ACM roles.
+
+FOX — Air-to-air weapons employment.
+HARD (with direction) — High G energy sustaining turn.
+
+MERGE(D) — Information that friendlies and targets have
+arrived in the same visual arena. This call indicates radar
+returns have come together.
+
+NEGATIVE -— Simply means no, requested action is denied
+(reserved for flight lead).
+
+NO JOY — Aircrew does not have visual contact with the
+target/bandit; opposite of TALLY.
+
+POSIT — Request for position; response normally in terms of
+clock position, cardinal direction, geographic landmark or off
+a common reference point.
+
+
+Text from AAM-9_ACM_page_2.jpeg:
+ADMINISTRATIVE INFORMATION
+
+This student workbook is designed to provide information on the F-15E,
+its systems and capabilities. It is not a sole source document, but is to be
+used in conjunction with other standard Air Force publications and
+technical manuals. If you find any differences between the material
+contained herein and other governing regulations, adhere to the
+regulations and notify the OPDR.
+
+Changes to this workbook are indicated with a heavy black line in the left
+margin.
+
+Forward recommendations for revision or change to 4 TS, SJAFB NC
+27531.
+
+Supersedes: AAM-9, July 1998
+
+OPDR: 4 TS
+
+Index of Changes
+
+Effective Date Pages Affected
+
+
+
+Text from AAM-9_ACM_page_20.jpeg:
+e SWITCH or SWITCHED - Indicates attacking bandit is
+changing from one aircraft to another.
+
+e TALLY — Sighting of a target, bandit or enemy position;
+opposite of NO JOY.
+
+e TUMBLEWEED -— Indicates limited situational awareness;
+no tally, no visual; a request for information.
+
+e VISUAL - Sighting of a friendly aircraft or ground position;
+opposite of BLIND.
+
+Any other communication terms that are different from AFTTP 3-1 should
+be briefed by the flight lead.
+
+Basic Rules for Good Flight Communication
+
+Do not waste words. Know and use the standard brevity code from
+AFTTP 3-1.
+
+Always be directive, pause with the microphone unkeyed (to listen),
+observe the directive action being performed, then be descriptive. When
+needed, repeat the directive call. Even in a permissive communications
+environment, a couple of seconds may mean the difference between
+survival and a long walk home.
+
+Speak slowly and distinctly. If you are not understood, you are not
+contributing to flight situational awareness. Consider limitations of
+
+secure and Have Quick radios.
+
+Listen! Communication is two-way and requires you to listen on the
+radio. This also means to keep intercockpit communication to a minimum.
+
+AAM-9 D-14
+
+
+Text from AAM-9_ACM_page_21.jpeg:
+WEAPONS DECONFLICTION
+
+Once the roles are established by use of good ACM communication, the
+next step usually involves the employment of ordnance. Under normal
+circumstances, the engaged fighter is either pressuring the bandit
+offensively or in a defensive situation near the bandit. From these
+positions, shot deconfliction is not normally a concern for the engaged
+fighter. However, one of the support fighter’s primary concerns should be
+shot deconfliction to avoid fratricide.
+
+AFTTP 3-1, Volume 17 has specific doctrine for shot deconfliction but the
+flight lead may use simplified rules of thumb. These should be briefed and
+understood thoroughly. The support fighter is capable and allowed to
+employ ordnance from various positions in relation to the fight. Because
+of this, the support fighter needs to pay special attention to the rules for
+shot deconfliction and use the appropriate weapon for the situation
+presented. It is critical that you are able to employ ordnance within these
+rules, since fratricide is obviously unacceptable in all circumstances.
+
+Refer to AFTTP 3-1, Volume 17 for information on the AIM-7, AIM-9 and
+AIM-120 shot deconfliction criteria. Only the gun will be addressed here.
+
+For a variety of reasons, the gun may be the only weapon available. The
+biggest advantage of using the gun is that it is very discriminating when
+used properly and can produce a clean, surgical kill. It is also all-aspect
+with a minimum range driven only by the desire of the F-15E aircrew to
+avoid collision with bandit debris. The disadvantage is the high level of
+concentration required to be effective. In addition, slowing down to use
+the gun in a multibogey environment is not conducive to long-term
+survival.
+
+
+Text from AAM-9_ACM_page_22.jpeg:
+OFFENSIVE ACM
+
+Offensive ACM emphasizes working as a two-ship to kill the threat. Once
+again, the key to successful employment of the two-ship depends on your
+ability to work with your lead and fulfill the element contracts of engaged
+and support fighters. Key ingredients of this phase include formations,
+radar search patterns, intercept procedures as a two-ship, weapons
+employment, merge/postmerge tactics, good BFM skills and intraflight
+communication.
+
+Formations and radar search patterns depend on the individual flight
+lead’s desires. Intercepts are primarily single-side offsets (lower aspect
+targets) and brackets (high aspect targets). Weapons employment
+depends on the rules of engagement (VID versus BVR).
+
+Normally, an offensive ACM objective is to turn at the merge and kill the
+bandit in minimum time using a fluid attack system. By the merge,
+someone should be designated as the engaged fighter and someone should
+be the support fighter. If engaged, your primary goal should be weapons
+employment and killing the bandit or at least keeping the bandit
+predictable. As the support fighter, maneuver as required to support the
+engaged fighter. The best support you can give is to kill the bandit so the
+flight does not get anchored!
+
+2 v 1 Intercepts
+
+Approaching the merge, the element must determine what ACM actions
+are needed. Gaining the tally, determining how many bandits are alive,
+deciding on the appropriate tactic, identifying friend or foe and merging
+with an advantage are all important parts of the ACM problem at the
+merge.
+
+The two most common scenarios that will cause 2 v 1 merges are a
+remaining bandit after BVR shots or a VID requirement of a bogey in your
+AOR. It is assumed for the purposes of training that the element can
+recognize a remaining bandit and employ premerge to kill. The VID
+situation is a different problem altogether.
+
+Basic intercept tactics remain the same with single-side offset and bracket
+
+being the primary options. For the purposes of ACM, the intercept
+discussion is joined at the VID decision.
+
+AAM-9 D-16
+
+
+Text from AAM-9_ACM_page_23.jpeg:
+Single-Side Offset (SSO)
+
+With an unaware or low aspect bogey (< 15 AA), the VID scenario from a
+SSO is simply a stern conversion as an element. However, the wingman
+must gain enough separation from lead at the merge to be able to employ
+ordnance once the bogey is declared a bandit. This is accomplished by
+deploying to a wider formation and gaining an altitude stack. The flight
+lead flies the normal pursuit geometry and goes pure NLT 10 nm. The
+wingman should use the bogey’s altitude to determine whether to stack
+high or low. Coming from the opposite portion of the sky as lead will help
+deny tally two.
+
+Gaining a split of approximately 3-4 nm will help the wingman keep
+visual while ensuring the bogey cannot minimum range any WEZs if it
+turns into the wingman at the merge. When taking this turning room, the
+wingman must avoid gimballing the contact while trying to get the desired
+split, striving to be pure NLT 7 nm.
+
+Both members of the element need to work for the tally (always assuming
+more than one). The wingman needs to keep both tally and visual to avoid
+shot deconfliction problems postmerge.
+
+As lead approaches the merge, the wingman should be assessing available
+shots and selecting the appropriate weapon for the situation. Expect to
+hear “EAGLE 1, ENGAGED, BOGEY” at some point. The best answer for
+the support fighter is “EAGLE 2, TALLY,” thereby establishing roles.
+After visually identifying the bogey, lead will say “EAGLE 1, MERGED,
+HOSTILE, HOSTILE” and with shot deconfliction requirements met, the
+wingman should employ ordnance to kill.
+
+
+Text from AAM-9_ACM_page_24.jpeg:
+If the wingman has sufficient separation and altitude split, entry into the
+fight should be simple regardless of the bandit’s first move. If the bandit
+turns belly up to engage lead, the wingman flies BFM to maneuver to a
+shot(s) and kills before the following merge. If the bandit turns into the
+wingman and is unaware, the wingman should use a front aspect weapon
+and follow up with BFM using the established vertical turning room. In
+either case shown in Figure D-1, if the wingman is unable to employ
+ordnance or gain a kill, the wingman is expected to BFM the bandit and
+call “EAGLE 2, ENGAGED?” if necessary.
+
+"EAGLE 2, KILL HOSTILE,
+\ \ SEPARATE EAST"
+
+"EAGLE 1, ENGAGED,
+BOGEY, 11 O'CLOCK, 12 MILES"
+— f "EAGLE 1, MERGED, HOSTILE, HOSTILE"
+
+~N a
+
+"EAGLE 2, TALLY"
+NL { "EAGLE 2, FOX 2"
+_7f
+
+Figure D - 1. Single-Side Offset.
+
+AAM-09-01
+
+
+Text from AAM-9_ACM_page_25.jpeg:
+Bracket
+
+In the case of the aware or high aspect bogey (= 16 AA), the flight lead can
+choose to bracket the bogey NLT 15 nm. Whether from a SSO or flying
+directly at the bogey, the wingman may need to maneuver away from the
+bogey’s nose and stack opposite of lead to help the bracket. Forcing the
+bogey to look in two different areas will help to deny tally two. The
+primary goal of the bracket is to force the bogey to commit on one of the
+fighters.
+
+The bracket is a visual formation flown to approximately 4-5 nm wide and
+usually bracketing the bogey in altitude, although this may not always be
+possible. The radio call should be “EAGLE 1, BRACKET, BOGEY, BRA
+030/20, 15,000.” Again, the wingman should take care not to gimbal when
+maneuvering and be pure as soon as the geometry will allow.
+Determining who the bogey is committed on can be done with the tally or
+with the radar and the bogey’s aspect. For this example, the wingman
+will recognize the bogey’s aspect decreasing and should communicate
+“EAGLE 1, BOGEY’S HOT ON YOU.” At this point, the wingman should
+go pure and, in effect, lead turn the bogey to enter the merge in a position
+of advantage.
+
+Approaching the merge, lead should call “EAGLE 1, ENGAGED” and the
+wingman can best acknowledge with an “EAGLE 2, TALLY” call. At the
+merge (Figure D-2), the wingman has similar choices for shots and
+engaging the bogey once lead declares “EAGLE 1, MERGED, HOSTILE,
+HOSTILE.” Again, shot deconfliction and flying BFM to kill the bandit
+are the keys to success.
+
+"EAGLE 1, BRACKET "
+
+"EAGLE 1, ENGAGED,
+BOGEY, 11 O'CLOCK, 12 MILES"
+
+a =
+—_
+"EAGLE 2, TALLY" "\
+— jf “EAGLE 2, KILL HOSTILE, SEPARATE EAST"
+_” "EAGLE 2, FOX 2"
+"EAGLE 1, BOGEY'S
+HOT ON YOU" AAM-09-02
+
+Figure D - 2. Bracket.
+
+
+Text from AAM-9_ACM_page_26.jpeg:
+Separation
+
+From either scenario, assuming lead is responsible for the VID and the
+wingman for affecting a quick kill, the next step is for the element to
+separate from the fireball. This is where the support fighter’s SA is
+needed to help the flight escape. The engaged fighter is usually slow after
+flying BFM to kill the bandit, so initially the engaged fighter will want to
+separate straight ahead. The support fighter can help by directing a new
+heading based on where safe airspace is and where both fighters can
+regain mutual support. The bottom line is someone needs to get on the
+radio and initiate the separation with a heading. The flight lead will
+probably have to refine the heading to expedite the rejoin to tactical
+formation once out of the immediate area.
+
+The first goal of the separation is to leave the area of the fireball, which
+may attract attention. Proper mechanics for the separation are critical for
+both fighters. Best acceleration, visual lookout and spike inventory are
+important to getting out of the immediate area. Once the initial
+maneuvering has begun, the element can use check turns to get back to
+tactical formation and increase mutual support.
+
+An important part of mutual support is visual lookout, so be careful not to
+get buried in the jet and forget to check six. This is one benefit of a
+two-seat aircraft. The WSO can focus on checking six and gaining/keeping
+the visual. The pilot, on the other hand, should focus on short-range radar
+work.
+
+Short-range radar work starts with AUTO GUNS in the direction of the
+separation or any turns during the separation. First, each pilot should
+clear the area off the nose for immediate threats. Do not forget to visually
+search for other bandits out of the radar’s coverage. Once the AUTO
+GUNS search has cleared that area, each pilot should bias the coverage to
+the briefed search area. Remember to accurately place the acquisition
+symbols whenever slewing to avoid burying the search in the dirt or
+looking up into space. After 10-15 seconds of search, the pilot should
+select short-range missile (SRM) to expand coverage and search area to
+20 nm. Once this area is clear, the pilot can select medium range missile
+and initiate a radar/visual handoff, as briefed, to the WSO.
+
+Whether separating from an alive threat or bugging out after a kill, the
+mechanics of the separation, the regaining of mutual support, the
+short-range radar game plan and the visual lookout for bandits are all
+important steps to successfully escaping a merge/engagement with a
+bandit.
+
+AAM-9 D - 20
+
+
+Text from AAM-9_ACM_page_27.jpeg:
+Postmerge Maneuvering
+
+A number of maneuver options exist after a merge based on the results of
+the merge and the actions of the bandit. If the bandit remains unaware
+until after the merge, stern entry maneuvering will be required. Stern
+entries may include the support fighter exiting the fight and maneuvering
+for areentry. Initially, these reentries will be practiced from perch setups
+as described in the Air-to-Air Phase Manual.
+
+If the bandit becomes aware of at least one of the fighters prior to the
+merge, high aspect maneuvering will be required. These situations will
+usually involve one fighter anchored in a HABFM fight and the other
+maneuvering for a reentry or weapons separation to employ ordnance.
+These situations are initially presented in the first 180° of turn during the
+intercepts. These more dynamic situations will be started from butterfly
+OACM setups. For any of the above situations, it is important for the
+support fighter to understand the mechanics of how to reenter the fight,
+although it should be emphasized that a complete reentry may not always
+be required. The primary goal should be to kill the bandit.
+
+
+Text from AAM-9_ACM_page_28.jpeg:
+Reentering the Fight as the Support Fighter
+
+Support Fighter Position
+
+The support fighter’s position must allow for fulfilling the responsibilities
+as previously listed. In addition, the support fighter must be able to
+assume the engaged fighter responsibilities if the situation dictates. In
+relation to the fight, the support fighter should strive to stay 2-5 nm away.
+This range window keeps the support fighter far enough away to deny the
+bandit a shot opportunity, but close enough to keep tally and visual.
+Extending further than 5 nm makes the fight difficult to see and it will
+take too long to reenter the fight. Your goal is to only go far enough to
+gain turning room and find an entry to a WEZ (which may be all-aspect
+ordnance from well outside the fight). Also, your flight path should keep
+the fight between 7 o’clock and 10 o’clock or 5 o’clock and 2 o’clock. Do not
+allow the fight to drift to 6 o’clock; if you do, you may quickly extend
+beyond visual range. Pointing directly at the fight is only good for
+ordnance employment or entry into the fight. The support fighter’s flight
+path should be a series of hard turns and extensions outside the fight.
+Airspeed should be approximately 425-450 KCAS (near corner velocity)
+with power as necessary to maintain energy (4-6 Gs). The extensions
+should be 5-10 seconds maximum, allowing energy to be gained/
+maintained while turning in an unpredictable manner. By stacking no
+closer than 2000 feet vertically to the fight, the support fighter can
+preclude bandit tallies while preserving turning room. The closer you are
+to the fight, the more vertical turning room is required to allow an entry
+and deny the bandit a shot opportunity.
+
+Support fighter reentries can occur in either stabilized turning fights or
+slow speed neutral fights. In either case, the support fighter must exit the
+fight, gain turning room (as above) and look to reenter the fight in one of
+the following three ways.
+
+Support Fighter Reentries
+
+Two types of reentries are the co-flow entry (also called the fan entry) and
+the counter-flow entry. Depending on the progression of the fight, the
+direction of turning in the fight and the position of the fight relative to the
+support fighter, one type will be more advantageous than the other. You
+might not always be able to choose which type you will use. Your first
+priority is to get away from the fight to obtain turning room. Put the fight
+at 5 or 7 o'clock. Once you have done this, you will need to turn back to
+begin setting up your entry. Put the fight at 10 or 2 o’clock. The direction
+you turn dictates a co-flow or a counter-flow entry.
+
+AAM-9 D - 22
+
+
+Text from AAM-9_ACM_page_29.jpeg:
+When coming back you need to make a conscious decision which way to
+turn. Among the things to consider are keeping the tally/visual,
+preserving turning room, not flying in front of the bandit and not
+highlighting yourself. As a general rule, turn back in the direction that
+will allow you to (in order of preference) not become threatened, keep the
+tally/visual, have the quickest entry/shot and continue to turn in the
+direction you are already going.
+
+If your choice of entry requires a change of direction, then the earlier you
+decide, the closer to the fight you will be and the easier it will be to keep
+tally/visual. This reversal needs to be an initial hard turn to place the
+fight on the other side of the tail, which will aid in rapid regain of
+tally/visual.
+
+Co-Flow Entry
+
+The co-flow entry (Figure D-3) is one in which the support fighter enters
+the fight going the same direction as the bandit.
+
+SUPPORT
+FIGHTER
+
+ENGAGED FIGHTER
+
+———
+SS {
+
+if BANDIT
+
+AAM-09-03
+
+Figure D - 3. Co-Flow Entry.
+
+
+Text from AAM-9_ACM_page_3.jpeg:
+AERIAL ATTACK MANEUVERING
+
+COVER
+
+AIR COMBAT MANEUVERING (ACM
+
+INTRODUCTION
+
+This workbook is your guide in studying the techniques of air combat
+maneuvering. A thorough understanding of these techniques helps
+distinguish engaged and support roles, and ACM geometries.
+
+CONTENTS:
+
+INTRODUCTION 0.00. eeeccceeseeesseeceseeseesaeecesacecensaeeeesaeeessaeeseenaeeens A-1
+CRITERION REFERENCED OBJECTIVES (CROs)............eeeeeeeeeeeeeee B-1
+STUDENT PREPARATION REQUIREMENTS . 0.00... eeeeeeeeeeeeee C-1
+TEXT oc eeccccccessseecceesseeeecessseeecesesaeeeceesssaeeeseesssaeeesesssaeeeseeeeaaeeseee D-1
+END OF TEXT QUIZ o.oo eeecceessneeesseeeeesaeecesaeeeensaeesesaeeseseeeeeaees E-1
+GLOSSARY. ee eeceeesecessneecesseeecesaeecesaeecessaeecesaeeseesaeecesaaesessaeeseeaeeeneas F-1
+
+
+Text from AAM-9_ACM_page_30.jpeg:
+The advantage of the co-flow entry is that the line of sight is less;
+therefore, it is easier to judge your entry. The disadvantage is that it
+requires the bandit to be predictable and to not have you in sight. With
+sufficient vertical turning room (5000-8000 feet), the co-flow entry can be
+made from inside the bandit’s turn circle. It should be obvious that
+airspeed awareness and power modulation will become a factor if
+attempting more vertical entries.
+
+Counter-Flow Entry
+
+The counter-flow entry involves the support fighter and the bandit turning
+in opposite directions (Figure D-4).
+
+ENGAGED FIGHTER
+
+—_——
+
+SUPPORT
+FIGHTER
+
+f BANDIT
+
+AAM-09-04
+
+Figure D - 4. Counter-Flow Entry.
+
+The advantage of the counter-flow entry is that the bandit will probably
+not see the support fighter (assuming a benign background and a good
+vertical split). The disadvantage is that the higher closure rates make the
+entry harder to judge.
+
+Judging your reentries will be based on the bandit’s nose position relative
+to you and your distance from the fight. The rule of thumb for when to
+start your reentry is the bandit’s nose passing through your position
+relative to the fight. This rule of thumb is based on being approximately
+2-3 nm away from the fight. If the altitude stack is sufficient, the bandit
+will not be able to threaten you easily. Be aware, if the engaged fighter
+does not fly good BFM, the bandit will be free of pressure and may be able
+to change flight paths enough to threaten you. So, while waiting for your
+reentry cues, be ready to use CMD and defeat the missile threat.
+
+AAM-9 D - 24
+
+
+Text from AAM-9_ACM_page_31.jpeg:
+Once the bandit’s nose position passes, you will need to rotate your lift
+vector and lead turn the bandit. As you begin the reentry, it is a good
+technique to notify the engaged fighter of your intentions with an
+“EAGLE 2, IN FROM HIGH” call, for example. In-plane or out-of-plane
+maneuvering will depend on the turning room available. HOTAS and
+energy management are important areas to control as you enter the fight.
+When choosing an auto acquisition mode, remember to consider the
+proximity of the engaged fighter and the bandit. Boresight will be the
+most discriminating mode. If you have radar problems or inadvertently
+lock the engaged fighter, be ready to reattempt the lock or use a boresight
+AIM-9. While pointing at the fight during the reentry, be sure to control
+your airspeed to ensure you do not enter too fast or arrive at the bandit’s
+turn circle with no energy. You should not hesitate to take deconflicted
+shots. Just prior to reaching a position where you can maintain pressure
+on the bandit and can accept the responsibilities of the engaged fighter,
+you should call “EAGLE 2, ENGAGED.” Be ready for an “UNABLE” or
+“NEGATIVE” call and the need to maintain deconfliction. You may also
+have to give visual information to the flight lead. Follow-on BFM is very
+critical here. Pointing at the bandit while entering the fight will lead to a
+fast, high HCA entry and usually an overshoot. In the event of an
+“UNABLE” or “NEGATIVE” call, have a plan to abort your entry and
+maneuver for a new reentry if necessary.
+
+
+Text from AAM-9_ACM_page_32.jpeg:
+Slow Speed Fight Entry
+
+The third way of reentering a fight involves entering a slow speed fight
+that may be in a scissors or a tree. This is the hardest fight to enter and
+requires the most communication to ensure intentions are understood.
+
+The key to reentering a slow speed fight is to know that it is slow speed.
+Entering with extra energy is still required but you will not want a
+300-400 knot advantage. Initially, you will want to position yourself to
+gain a perspective on the fight. This perspective and a “POSIT” or
+“STATUS” call can help you be sure of which aircraft is which if you are
+uncertain. If you are entering a tree or scissors, attempt to start your
+entry behind the fight with 45-90° of angle-off. This will allow you to
+maintain good tally/visual, keep some extra energy and maintain 3/9
+control (Figure D-5).
+
+"EAGLE 2,
+KILL BANDIT,
+SEPARATE 050"
+
+"EAGLE 2, FOX 2"
+"EAGLE 2, ~ wae ;
+IN FROM [ —_—o a EAGLE 1
+WEST,
+EAGLE 1
+POSIT,
+HI / LO"
+
+|
+\
+
+"EAGLE 1, ANCHORED,
+ww ~=HI, SOUTH"
+
+AAM-09-05
+
+Figure D - 5. Reentry into a Slow Speed Fight.
+
+AAM-9 D - 26
+
+
+Text from AAM-9_ACM_page_33.jpeg:
+You will need to time your entry and shots to avoid crossing problems in
+the slow speed fight. There is no need to call “ENGAGED” as the support
+fighter since the response would be “UNABLE.” Just determine which
+aircraft is the bandit, ensure shot deconfliction and kill the bandit as soon
+as possible. The two things you cannot afford to do are to get three
+aircraft slow in the same airspace or to dash through the middle of a slow
+speed fight. It may be required to use the radio and directive
+communication to ensure deconfliction. For example, “EAGLE 1, COME
+OFF, HARD RIGHT NOW!” would build in some separation for a
+deconflicted shot. Realize that you had better kill the bandit or you could
+put your flight lead in a precarious position!
+
+Areas to Avoid
+
+In order to fulfill the support fighter responsibilities, you should avoid
+being directly below or within 2 nm of the fight for prolonged periods.
+
+Entering directly from below the fight poses problems. The fight is
+probably descending down toward you, which may take away some of the
+turning room you have just acquired. Also, you will bleed off energy as
+you try to bring your nose up to enter the fight.
+
+Trying to enter the fight from within 2 nm (horizontally) should be
+avoided as well. Inside 12,000 feet, the support fighter may not have the
+required turning room and G available to employ ordnance. This causes
+(at best) rushed shots and (at worst) missed opportunities to engage.
+More distance allows the support fighter time to predict the entry and
+react to the situation. Flying inside 12,000 feet may also allow the bandit
+opportunities to employ ordnance against you while the engaged fighter is
+maneuvering and not posing an immediate threat.
+
+Entering From Above the Fight
+
+Depending on your experience, flying directly above the fight may force
+the support fighter to focus attention on the fight geometry instead of
+clearing the area for other bandits. If this type of entry is attempted, the
+support fighter should be able to align turn circles easily, but must avoid
+getting too fast during the entry.
+
+This maneuver can be difficult and often results in an overshoot because
+of the inability to slow down enough in a very nose low attitude. This is
+known as the “high speed cheerleader” pass through the fight. However,
+if done correctly, entering the fight from above can be an effective
+maneuver.
+
+
+Text from AAM-9_ACM_page_34.jpeg:
+Reentry Exercises
+
+When the bandit breaks into the support fighter, the best BFM maneuver
+is to maneuver to the bandit’s turn circle for a lag maneuver. Once at the
+turn circle, the support fighter will probably have lots of heading crossing
+angles, but the flight lead should be pressuring the bandit around the
+turn circle. At this point, the support fighter makes a choice of turning in
+the same direction as the fight (co-flow) (Figure D-6) or turning in the
+opposite direction (counter-flow) (Figure D-7). When going co-flow,
+keeping the tally will help get the fight to 5 o’clock. When switching the
+turn direction to counter-flow, using the visual on lead will help to place
+the fight at 7 o’clock. On exiting the turn circle, the support fighter should
+aggressively climb or descend to get out-of-plane, and extend away from
+the fight for some horizontal turning room. Co-flow entries take a little
+longer to develop, but are more easily controlled. Going counter-flow
+generally results in the earliest reentry opportunity, but timing the entry
+can be difficult.
+
+"EAGLE 2,
+FOX 2 KILL,
+SEPARATE
+NORTH"
+
+"EAGLE 2,
+ENGAGED"
+
+"EAGLE 2, —_
+OUT WEST" ~ NEC
+{ ~\
+}
+~ A) KN
+‘| "EAGLE 1, PRESS,
+1's OUT NORTH"
+
+"EAGLE 1, "EAGLE 2,
+ENGAGED, TALLY"
+12 O'CLOCK,
+
+2 MILES"
+
+AAM-09-06
+
+Figure D - 6. Co-Flow Reentry Exercise.
+
+AAM-9 D - 28
+
+
+Text from AAM-9_ACM_page_35.jpeg:
+GLE 1, "EAGLE 2,
+PRESS, 1's OUT NORTH" FOX 2 KILL,
+SEPARATE
+
+a
+
+"EAGLE 2,
+OUT WEST"
+
+\ f f "EAGLE 2, ENGAGED"
+
+"EAGLE 1, \ 2, \
+ENGAGED, TALLY"
+12 O'CLOCK,
+
+1 MILE"
+
+AAM-09-07
+
+Figure D - 7. Counter-Flow Reentry Exercise.
+
+High Aspect ACM Setups
+
+While bracket and SSO entries to the merge were used to tie the intercept
+to the merge, the scenarios included an unaware bandit whose
+maneuvering was limited postmerge to BFM on the identifying fighter.
+High aspect ACM is used to practice the more likely scenario of an aware
+bandit at the merge and/or of a short-range pickup by the element, which
+limits time to take turning room and requires quick reactions and
+communication to affect a kill.
+
+The short-range scenario provided by the butterfly setup should begin
+with a “SNAPLOCK” or tally initiated “ENGAGED” call. The flight lead
+should brief any rules for engaging short-range contacts. The roles must
+be established. For this workbook, the wingman will begin as the support
+fighter. Approaching the merge with the roles established allows both
+fighters to better fulfill their roles while flying the best possible BFM.
+Typically, if not announced over the radio, the aircraft merging with the
+bandit is assumed to be the engaged fighter. The other fighter should be
+able to gain a lead turn and fulfill support responsibilities as required.
+
+In general, bracketing a high aspect bandit results in the earliest
+opportunity for the fighter element to employ ordnance against the bandit.
+A smart bandit will attempt to keep both fighters on the same side of his
+aircraft. Do not let him! The bandit that turns away presents a WEZ to
+the support fighter right away. The bandit that turns into the wingman is
+a little more difficult to handle.
+
+
+Text from AAM-9_ACM_page_36.jpeg:
+High Aspect, Bracket, Turn Into, No Switch
+
+The support fighter should get a lead turn and, depending on turning
+room available, be able to shoot once lead is clear of the merge. If the
+turning room is insufficient or shot deconfliction is a problem, as in
+short-range pickups, the support fighter may be able to use the vertical to
+quickly kill the bandit. The caution here is that the original engaged
+fighter will most likely be anchored in a one-circle fight and the engaging
+wingman will be trailing the bandit through a subsequent merge(s).
+
+This makes deconfliction a problem. As the engaged fighter, if lead is
+unable to leave the neutral situation due to BFM requirements or becomes
+anchored or defensive, the wingman should expect to maintain
+deconfliction responsibilities when maneuvering to kill the bandit. Shot
+deconfliction problems will require patience due to the slow speed nature
+of the fight.
+
+If the vertical is unavailable, the support fighter should plan to execute a
+fight exit to reentry. Slow speed fight reentry techniques will be critical.
+From either case, expect the fighter in the one-circle fight to need to
+separate straight ahead initially to gain airspeed (Figure D-8).
+
+AAM-9 D - 30
+
+
+Text from AAM-9_ACM_page_37.jpeg:
+"EAGLE 1,
+ENGAGED,
+12 O'CLOCK,
+
+3 MILES"
+
+"EAGLE 1,
+MERGED,
+HOSTILE, HOSTILE"
+
+Y
+
+"EAGLE 2,
+FOX 2"
+
+"EAGLE 1,
+PRESS, 1's OUT SOUTH"
+
+"EAGLE 2,
+ENGAGED"
+
+"EAGLE 2,
+
+TALLY" AAM-09-08
+
+Figure D - 8. High Aspect, Bracket, Turn Into, No Switch.
+
+
+Text from AAM-9_ACM_page_38.jpeg:
+High Aspect Bracket, Turn Into, Switch
+
+The bandit may become aware of the support fighter as it approaches the
+merge. In this case, expect the bandit to min range the engaged fighter’s
+ordnance and break defensively into the lead turning support fighter.
+This will be made clear when the bandit turns into the support fighter’s
+plane of motion. Awareness of what both fighters are doing becomes
+critical here. Whichever aircraft sees the switch needs to call “BANDIT
+SWITCHED.” The support fighter should consider calling “ENGAGED,
+ANCHORED, ONE-/TWO-CIRCLE,” expecting to hear “PRESS” to
+exchange roles following a bandit switch (Figure D-8). If the bandit
+continues to fight Eagle 2, Eagle 1 should have an easy co-flow entry,
+provided the vertical is used properly. If the bandit switches back to
+Eagle 1 for a one-circle fight, another “BANDIT SWITCHED?” call should
+be made and if necessary, another role exchange should be accomplished.
+Eagle 1 should have some extra lead turn and the support fighter should
+be given an exit for a reentry as shown in Figure D-9.
+
+An aware bandit or a late pickup may force the fighter formation to
+engage in an offset formation. These scenarios are discussed based on
+limited turning room and lead starting as the engaged fighter.
+
+"EAGLE 1,
+FOX 3 KILL,
+SEPARATE WEST"
+
+"BANDIT
+
+SWITCHED" Page @
+
+= PRESS" J JS
+
+"HOSTILE, :
+HOSTILE" \
+
+( "EAGLE 2,
+\ ANCHORED (
+TWO-CIRCLE" |
+"EAGLE 1,
+ENGAGED,
+12 O'CLOCK, "EAGLE 2,
+TALLY"
+
+3 MILES"
+
+as
+
+AAM-09-09
+
+Figure D - 9. High Aspect, Bracket, Turn Into, Switch.
+
+AAM-9 D - 32
+
+
+Text from AAM-9_ACM_page_39.jpeg:
+High Aspect, Offset, Turn Into, No Switch
+
+Attacking a high aspect bandit from an offset formation provides some
+more difficult choices. However, the first priority is to fly your best BFM
+while maintaining flight path deconfliction, so lead turn, lead turn, lead
+turn (Figure D-10)! At the merge, it may be difficult to determine which
+fighter the bandit is turning with, so clear communication is critical in
+this engagement. If you are sure that you are the support fighter, you
+may use your lead turn advantage and the vertical to achieve the first
+shot. Be aware of your flight lead’s position for potential shot
+deconfliction problems.
+
+} "EAGLE 1, HOSTILE,
+HOSTILE"
+
+"EAGLE 2,
+ENGAGED"
+
+J
+/ LEAD TURN EAGLE.
+ANCHORED
+_ TWO-CIRCLE"
+"EAGLE 2, "EAGLE 1, ENGAGED,
+TALLY" 12 O'CLOCK, 3 MILES" smunoe.ta
+
+Figure D - 10. High Aspect, Offset, Turn Into, No Switch.
+D - 33 AAM-9
+
+
+Text from AAM-9_ACM_page_4.jpeg:
+CRITERION REFERENCED OBJECTIVES (CROs)
+1. Identify engaged and support fighter responsibilities, role
+establishment and exchange procedures, and the communications
+
+used during element maneuvering in a visual arena.
+
+2. Identify initial reactions to threat detection in the front, beam or
+stern quadrants and subsequent maneuvering in a mature fight.
+
+3. Identify ACM weapons employment and deconfliction
+
+responsibilities.
+
+REFERENCES
+
+AFTTP 3-3 Volume XVII Chapter 4
+
+AFTTP 3-1 Volume 17 Chapter 16
+
+Volume 1 Attachment 1 -
+
+Operational
+Brevity Code
+Words and
+Terminology
+
+AAM-9 B-1
+
+
+Text from AAM-9_ACM_page_40.jpeg:
+The support fighter will not always be able to achieve a quick shot and
+may need to maneuver to the control zone. As the support fighter becomes
+the engaged fighter, deconfliction should shift to the element lead as the
+support fighter. However, it is important to recognize the merge problems
+associated with this scenario. Figure D-11 shows how a role exchange
+occurs during a subsequent merge. If the roles were swapped late in the
+two-circle fight, the new support fighter (lead) may still need to merge to
+defend against the bandit’s missiles. The new engaged fighter will need to
+keep some SA on both aircraft and shot deconfliction until after the merge
+when the new support fighter can separate for a reentry.
+
+"EAGLE, CHECK
+
+“\. RIGHT, 310"
+4
+
+\ "EAGLE 1"
+
+oS "EAGLE 2"
+
+"EAGLE 2,
+7 FOX 2"
+
+~— —
+
+"EAGLE 2,
+KILL BANDIT, \ "EAGLE 1, MERGED, PRESS"
+SEPARATE WEST" \,
+
+AAN-09-11
+
+Figure D - 11. Second Merge after Role Exchange.
+
+AAM-9 D - 34
+
+
+Text from AAM-9_ACM_page_41.jpeg:
+High Aspect, Offset, Turn Into, Switch
+
+A disadvantage in this type of engagement with an aware bandit is that
+both the engaged and support fighter are on the same side of the bandit’s
+canopy. This makes it easy for the bandit to keep track of both fighters
+and may make it possible for the bandit to switch between the two
+fighters multiple times. If the bandit switches at the merge to the support
+fighter, two options exist. The first option involves both fighters turning
+two-circle (Figure D-12), which should allow lead to rate fight to an
+advantage while the wingman continues to fight two-circle looking for an
+advantage from another switch by the bandit. This scenario may lead to
+subsequent merges but one of the fighters should have an advantage.
+Poor BFM by either fighter here usually results in a free-switching bandit
+in the middle of the formation.
+
+/
+
+"EAGLE 2,
+ANCHORED
+"EAGLE 2, TWO-CIRCLE"
+TALLY" "EAGLE 1,
+ENGAGED,
+12 O'CLOCK,
+
+3 MILES"
+
+a XS BANDIT. % C
+SWITCHED"
+
+AAM-09-12
+
+Figure D - 12. High Aspect, Offset, Turn Into, Switch, Two-Circle.
+
+
+Text from AAM-9_ACM_page_42.jpeg:
+The second option is for one of the fighters to take the bandit single-circle
+at the merge to force a predictable fight and to keep the fighters aft of the
+bandit’s 3/9 line (Figure D-13). This is usually best done by the second
+fighter merging with the bandit if BFM will allow. The disadvantage here
+is that one of the fighters must “get in the phone booth” with the bandit
+while the other fighter works for the entry, sorts out who is who in the
+single-circle fight and waits for shot deconfliction to happen.
+
+"EAGLE 2,
+ANCHORED
+ONE-CIRCLE"
+
+=
+aad "BANDIT
+SWITCHED"
+
+(/ ¢
+
+"EAGLE 2, "EAGLE 14,
+
+TALLY" ENGAGED,
+12 O'CLOCK,
+3 MILES"
+
+AAM-09-13
+
+Figure D - 13. High Aspect, Offset, Turn Into, Switch, One-Circle.
+
+There are many permutations possible in a high aspect ACM engagement.
+The bandit may enjoy some initial freedom to switch, but should become
+defensive quickly if the element is working together and fulfilling their
+roles. No matter which scenario, the basic tenets remain the same—fly
+your best BFM, maintain flight path deconfliction and maneuver to kill
+the bandit.
+
+AAM-9 D - 36
+
+
+Text from AAM-9_ACM_page_43.jpeg:
+Engaging Other Threats
+
+The support fighter’s job is to keep the engaged fighter free to kill the
+bandit. In part, this means killing any bandit who may become a factor to
+the fight. Often, the support fighter gets a tally on another bandit looking
+for an entry on the engaged fighter. The support fighter must engage this
+new threat and quickly kill the bandit before the engaged fighter is forced
+to react. Radar contacts may present a threat as well. These contacts
+must be analyzed in terms of their range and aspect in relation to the
+fight. Normally, split criteria are briefed to give the support fighter a
+decision making aid on whether to engage this new threat or monitor/drop
+it. For more on split criteria refer to AFTTP 3-1, Volume 17.
+
+Separation/Bugout
+
+As discussed in the 2 v 1 intercepts section, the end result of each
+engagement needs to be a separation from the bandit or a bugout from the
+fireball. Deciding whether to reengage an alive bandit will be the flight
+lead’s responsibility or based on defensive BFM requirements. If able to
+bugout, exiting the area near the fireball is the primary concern. Regain
+mutual support and formation as soon as the situation allows.
+
+DEFENSIVE ACM
+
+In order to prosecute/defeat a short-range attack, the bandit must first be
+detected. Detecting bandits is a continuous effort. Element members
+must clear the area around their flight for new bandits and multiquadrant
+attacks. The complete attention of both element members cannot be
+focused on a single bandit attacking them. The support fighter, in
+particular, must be alert for additional bandits. Detection can occur
+visually, with radar, RWR or from a GCI/AWACS point out. To
+successfully defeat a short-range attack, visual acquisition by at least one
+element member early in the defensive initial move sequence is essential.
+Once the bandits are detected, a rapid assessment must be made of the
+threat. If bandits are out of range and have insufficient closure, extend.
+Bandits at or approaching weapons parameters must be countered with
+an initial move by the element. In general, adhere to the following steps:
+detect bandit(s), direct an initial move, defeat any attack with proper
+BFM and AAMD, provide mutual support within the element and gain the
+offensive or disengage/separate.
+
+
+Text from AAM-9_ACM_page_44.jpeg:
+The basis of successful two-ship defense is a system of well thought out
+initial moves. The moves must effectively negate the initial attack. They
+must be aggressive and designed to rotate the vulnerable cones away from
+the threat. There is no room for error; initial moves must be simple and
+easy to remember. Lastly, initial moves must become almost second
+nature; only practice will help.
+
+When the bandit is sighted in the aft quadrant approaching missile range
+you should avoid putting both aircraft in the same area at the same time.
+When possible, split the element laterally and vertically (i.e., good tactical
+formation). In addition, the aircrew with the tally should simultaneously
+start a hard/break turn into the bandit, direct the flight to maneuver with
+communication and dispense chaff/flares as required. The aircrew
+without a tally should turn as directed, dispense preemptive chaff/flares,
+pull maximum Gs and attempt to acquire the tally.
+
+The difference between a hard and break turn is power selection and
+G-loading. In both cases, turn the aircraft to rotate your vulnerable cone
+while bringing the threat to your nose. If the bandit is definitely outside
+of weapons parameters and you have good energy, you may be able to
+perform a good 8-10 AOA extension in full AB and separate out of the
+fight. Be sure the bandit is far enough outside of a WEZ that you are
+willing to bet your (and your wingman’s) life on it! A hard turn should be
+called if a bandit is maneuvering for a shot but definitely not in weapons
+parameters. Maximum AB in a hard turn assures maximum energy, but
+be careful not to enter a WEZ in full AB. If the bandit is in position to
+shoot or has taken a shot, a break turn in mil power or less while
+dispensing chaff and flares offers the best defense. Afterburner should be
+selected as soon as the bandit’s nose is no longer in position to shoot, or is
+outside valid weapons parameters. If it is evident that the bandit intends
+to pursue the attack, stores jettison may be appropriate, if so configured.
+
+If it is apparent from the beginning that the flight cannot separate, the
+object should be to defeat any bandit ordnance, sandwich the bandit and
+achieve a kill or separation, or force the bandit to separate. The bandit
+determines who is engaged; the other fighter maneuvers to bring ordnance
+to bear. However, communication is still required so there is no
+misunderstanding as to who the support fighter is (deconfliction
+responsibility).
+
+AAM-9 D - 38
+
+
+Text from AAM-9_ACM_page_45.jpeg:
+Visual Lookout Responsibilities and Range Estimation
+
+Primary areas for visual search are shown in Figure D-14. (The
+designations 1A, 1B, 2A and 2B indicate the flight position and crew
+position; e.g., 1A refers to the lead pilot, 2B refers to the wingman’s WSO.)
+As the tactical situation changes, primary areas of visual search
+responsibilities also change. Visibility across the formation to the outside
+is degraded with increasing distance. At the maximum horizontal and
+vertical separation, a bandit may arrive in a weapons envelope behind a
+fighter before being visually acquired. Therefore, tactical formation
+spreads depend on the size and type of threat expected.
+
+1A
+
+1B (PRIM) /\ 1B (SEC) \ 2B (SEC) j\ 2B (PRIM) !
+ \ / \ [ \ /
+N / N 7
+\ i \ 7 \ | 7
+ee ee ee i ae
+~ AAM-09-14
+
+Figure D - 14. Primary Areas of Visual Search.
+
+Note that the pilots have primary responsibility for lookout forward of the
+3/9 line and WSOs have the responsibility aft of the 3/9 line. A good
+technique is to crew coordinate your visual lookout. For example, the pilot
+would say, “I’m outside and to the right” and the WSO would concentrate
+visual lookout on the left of the formation. Remember that an extra pair
+of eyes is a great advantage in the visual arena. Do not squander that
+advantage by having both crew members searching the same piece of sky.
+
+
+Text from AAM-9_ACM_page_46.jpeg:
+Figure D-15 shows the references for range estimation behind your
+leader’s aircraft from line abreast formation. By using aircraft references
+for 30° aft (just off the inlet ramp) and 60° aft Gust off trailing edge of the
+wingtip), you can estimate how far behind the formation the bandit is. A
+simple rule of thumb exists for the 45° aft reference of looking down the
+wing line: the bandit’s range behind your wingman is equal to your line
+abreast tactical range. For example, if you are 9000 feet line abreast from
+your wingman, then the bandit is 9000 feet behind your wingman.
+Getting exact ranges is not important, but knowing whether or not the
+bandit is in a WEZ will determine whether you call for a break turn
+versus a hard turn.
+
+AAM-9 D - 40
+
+
+Text from AAM-9_ACM_page_47.jpeg:
+AAM-09-15
+
+Figure D - 15. Visual Lookout Bandit Range Estimation.
+
+
+Text from AAM-9_ACM_page_48.jpeg:
+Bandit Attack Options
+
+A single bandit has four basic attack options: no switch, early switch, late
+switch and uncommitted bandit at six. This section discusses each option
+and an appropriate response.
+
+No Switch
+
+The bandit attacks one element member and does not switch. Response:
+both Eagles should break into the bandit. In Figure D-16, the bandit
+attacks Eagle 1 who flies the best possible defensive BFM while Eagle 2
+flies the best possible offensive BFM to employ a missile. Eagle 2 must
+use caution during the initial move to control the radar and AIM-9M
+because of the potential for fratricide as the bandit and Eagle 1 are in
+close proximity after 90-120° of turn when the shot opportunity occurs.
+Eagle 1 cannot immediately separate from this attack unless the bandit
+goes for pure pursuit and a high-angle snapshot. Eagle 2 must be
+prepared to continue flying BFM should shot deconfliction, poor HOTAS or
+bandit maneuvering deny the quick kill.
+
+"EAGLE 2, "BANDIT,
+FOX 2" 6 O'CLOCK, 9000"
+
+POSSIBLE SHOT "EAGLE,
+
+BREAK
+LEFT"
+
+EAGLE 2
+
+"EAGLE 1,
+
+aa
+DEFENSIVE" EAGLE 1
+
+AAM-09-16
+
+Figure D - 16. No Switch.
+
+AAM-9 D - 42
+
+
+Text from AAM-9_ACM_page_49.jpeg:
+Early Switch
+
+In this example, the bandit attacks Eagle 2, but switches quickly to
+
+Eagle 1 (Figure D-17). The bandit starts the switch prior to losing 3/9 line
+advantage (thus, early switch) on Eagle 1. Caution: do not confuse bandit
+BFM with an early switch. Response: when the bandit switches, Eagle 1
+should call “BANDIT SWITCHED.” Eagle 2 should continue to turn until
+tally, then extend for energy and turning room, get out of plane and set up
+an entry. Normally the flight cannot separate from an early switch.
+
+Eagle 1 is now engaged and Eagle 2 has the option for a co-flow or
+counter-flow entry.
+
+"BANDIT SWITCHED,
+
+"EAGLE 2, TALLY, 1's DEFENSIVE"
+
+OUT NORTH"
+
+"BANDIT,
+6 O'CLOCK, 9000"
+
+EAGLE 2 A A EAGLE 1
+
+"EAGLE, BREAK LEFT"
+
+AAM-09-17
+
+Figure D - 17. Early Switch.
+
+D - 43 AAM-9
+
+
+Text from AAM-9_ACM_page_5.jpeg:
+STUDENT PREPARATION REQUIREMENTS
+
+BEFORE CLASS
+
+1.
+
+2.
+
+Study the information contained in this workbook and complete the
+End of Text Quiz.
+
+Read ACM related chapters in AFTTP 3-1 and AFTTP 3-3.
+
+
+Text from AAM-9_ACM_page_50.jpeg:
+Late Switch
+
+The bandit attacks Eagle 1 and then switches to Eagle 2 when ahead of
+Eagle 2’s 3/9 line (Figure D-18). Response: Eagle 1 executes the initial
+move in the called direction and strives for a tally. Eagle 2 breaks into the
+bandit. When the bandit switches, Eagle 2 calls “BANDIT SWITCHED”
+and meets the bandit at high aspect. The element can normally separate
+on a late switch if Eagle 2 flies good BFM and merges 180 out with the
+bandit. In this case, Eagle 2 is closest to the bandit and should make the
+separation call. The separation normally looks like a 1-3 nm echelon/trail.
+Eagle 2 must keep a tally during the separation to decide whether to
+continue the separation or react defensively again. The element’s goal is
+to separate and leave or to build enough separation to engage the bandit
+high aspect after turning to engage.
+
+——
+"BANDIT SWITCHED"
+
+"BANDIT,
+6 O'CLOCK, 9000"
+
+Ss
+J "EAGLE 1,
+DEFENSIVE"
+
+—
+
+AGLE 1 EAGLE 2
+"EAGLE, BREAK LEFT"
+
+mo
+
+"EAGLE,
+SEPARATE i
+SOUTH" |
+"EAGLE 1" \
+
+AAM-09-18
+
+Figure D - 18. Late Switch.
+
+AAM-9 D - 44
+
+
+Text from AAM-9_ACM_page_51.jpeg:
+Uncommitted Bandit
+
+The bandit’s relative position may not clearly identify the F-15E under
+attack. The bandit can come from any aspect. A quick assessment of the
+bandit’s lethality to the flight must be made based on range and nose
+position. If the bandit has not reached weapons employment parameters,
+an extension (while monitoring the bandit) may be appropriate. If the
+bandit presents a threat or continues to close, a prompt flight reaction is
+required. This discussion addresses the principles valid for all potential
+bandit attack axes. The initial move should accomplish five things: deny
+a shot, present the bandit with maximum BFM problems, force the bandit
+to commit on one or the other fighter, maximize the element’s offensive
+potential after the initial move and clearly establish engaged (defensive)
+and support fighter roles. Next, let us discuss the advantages and
+disadvantages of a same direction break versus cross-turn, followed by
+some examples.
+
+There are several advantages to breaking in the same direction. The
+aircraft on the outside of the turn is able to maintain tally throughout the
+turn. The bandit must immediately commit against one fighter or the
+other. The bandit’s offensive potential versus each fighter is no longer
+identical. The element is in a position to establish defensive and support
+fighter roles based on bandit reaction. Both aircraft can devote full
+attention to flying the best BFM against the bandit since flight path
+deconfliction is not difficult. Finally, each element member is able to
+isolate the threat axis on the same side of their respective aircraft.
+
+The second, but less desirable option, is to break the element toward each
+other in a cross-turn or hard-to-six turn. There are several disadvantages
+of the cross-turn including both fighters being in the same piece of sky,
+which allows the bandit to delay the decision on which fighter to engage
+until seeing a definite advantage. Also, element deconfliction is more
+difficult initially, when the fighters should be more focused on the bandit.
+A good stack by the wingman will reduce the deconfliction problem. A
+cross-turn break may occur unintentionally for several reasons: a
+simultaneous break call by both fighters (stepping on each other on the
+radios) or in the heat of battle confusing which direction is left or right. If
+this should happen, your best move is to continue the turn and be sure to
+deconflict flight paths.
+
+
+Text from AAM-9_ACM_page_52.jpeg:
+Now let us look at some examples. Like everything in air-to-air, your
+reaction to a bandit at your flight’s mutual six depends on several factors.
+How far back is the bandit? Who is the bandit threatening most? With a
+
+bandit at the fighter element’s mutual six, it is in each fighter’s best
+interest to turn into the bandit. The most likely scenario is for one fighter
+to pick up the tally and call the flight to break. Assume Eagle 1 sees the
+bandit and calls “EAGLE, BREAK RIGHT.” This is an acceptable
+response. If one aircraft is able to assess that the bandit is threatening
+the other, he can call “EAGLE X, BREAK LEFT/RIGHT,” and can break
+in the other direction to engage the bandit. The bottom line is that as
+soon as a bandit is detected, the fighters must start moving and this
+begins with communication. The appropriate action depends on the
+fighter’s assessment of the bandit at the tally.
+
+AAM-9 D - 46
+
+
+Text from AAM-9_ACM_page_53.jpeg:
+END OF TEXT QUIZ
+
+The operational brevity code word “PRESS” indicates
+
+a. aircraft is maneuvering to achieve a kill.
+
+b. fighter intent to engage a kill.
+
+c. requested action is authorized, no engaged or support roles
+are assumed.
+
+d. continue the attack, mutual support will be maintained,
+
+appropriate engaged and support roles exchanged.
+
+In the ACM environment you hear “NEGATIVE” in response to
+your “ENGAGED” call. You should
+
+remain the support fighter and ensure deconfliction.
+disregard and enter if you have a better shot.
+request an alpha check.
+
+remain the engaged fighter.
+
+po op
+
+The most important responsibility for the support fighter in an
+encounter is
+
+a. flight path deconfliction.
+
+b. establishing an offensive posture and maintaining situational
+awareness.
+
+c. advising the engaged fighter of additional threats.
+
+d. preparing to assume the engaged fighter’s responsibilities.
+
+As the engaged fighter in an offensive ACM encounter, your
+primary goal entails
+
+a. killing the bandit.
+
+b. maneuvering the bandit into the kill zone of the support
+fighter.
+
+c. keeping visual contact with the bandit until the encounter is
+over.
+
+d. releasing any flight lead responsibilities to the support
+fighter.
+
+
+Text from AAM-9_ACM_page_54.jpeg:
+5. A co-flow entry occurs when the support fighter enters the fight
+
+at a 45-90° angle above the bandit.
+
+at a 45-90° angle below the bandit.
+
+turning in the same direction as the bandit.
+turning in the opposite direction of the bandit.
+
+a9 op
+
+6. A counter-flow entry occurs when the support fighter enters the
+
+a turning in the same direction as the bandit.
+b. turning in the opposite direction of the bandit.
+c at a 45-90° angle above the bandit.
+d at a 45-90° angle below the bandit.
+
+7. In defensive ACM tactics for a two-ship element, if a single bandit
+is detected approaching weapons parameters and closing but has
+not closed inside either fighter’s turn circle, the preferred option for
+the fighter element is
+
+a. breaking the element toward each other.
+b. breaking the element in the same direction.
+c. breaking the element in opposite directions.
+d. continuing on their present flight path until the bandit
+commits to either aircraft.
+8. If a bandit is in a position to shoot or has taken a shot at you, a
+
+turn in mil power or less while dispensing chaff and
+flares offers the best defense.
+
+a. hard
+
+b. cross
+
+c. break
+
+d. counter-flow
+
+AAM-9 E-2
+
+
+Text from AAM-9_ACM_page_55.jpeg:
+GLOSSARY
+
+AB Afterburner
+
+ACM Air combat maneuvering
+
+AFTTP Air Force Technical Training Publication
+
+AIM Air intercept missile
+
+AOA Angle of attack
+
+ASAP As soon as possible
+
+BFM Basic fighter maneuvers
+
+BVR Beyond visual range
+
+CMD Countermeasures dispenser
+
+DACM Dissimiliar air combat maneuvering
+
+DBFM Dissimiliar basic fighter maneuvers
+
+HABFM High aspect basic fighter maneuvers
+
+HCA Heading crossing angle
+
+HOTAS Hands on throttle and stick
+
+KCAS Calibrated airspeed in knots
+
+MCM Multiple command manual
+
+mil(s) Milliradian(s); 1 mil = 0.0573°, 1° = 17.45 mils, 1 mil
+subtends approximately 1 foot at a 1000-foot range
+
+MRM Medium range missile
+
+NLT Not later than
+
+nm Nautical miles
+
+
+Text from AAM-9_ACM_page_56.jpeg:
+OACM Offensive air combat maneuvering
+
+OBFM Offensive basic fighter maneuvers
+SA Situational awareness
+
+SRM Short range missile
+
+SSO Single-side offset
+
+VID Visual identification
+
+WEZ Weapons employment zone
+
+WSO Weapon systems officer
+
+AAM-9 F-2
+
+
+Text from AAM-9_ACM_page_57.jpeg:
+(This Page Intentionally Blank)
+
+AAM-9
+
+
+Text from AAM-9_ACM_page_58.jpeg:
+BACK PAGE
+COVER SHEET
+
+
+Text from AAM-9_ACM_page_6.jpeg:
+AAM-9
+
+(This Page Intentionally Blank)
+
+
+Text from AAM-9_ACM_page_7.jpeg:
+TEXT
+
+ACM is the link between basic intercepts and basic fighter maneuvers
+(BFM). This lesson encompasses the critical elements of ACM, which
+include premerge mechanics, element roles and responsibilities, element
+communication, weapons employment, postmerge maneuvering, air
+combat situational awareness and negating or separating from a threat.
+While ACM is certainly not limited to a two-ship, the following discussion
+will focus on the 2 v 1 employment aspects of a fighter element.
+
+The three topics generic to all of ACM are fighter roles and
+responsibilities, communication and weapons employment requirements.
+These ACM elements are the foundation on which two aircraft can employ
+to effectively kill or defeat a threat within lethal range.
+
+FIGHTER ROLES AND RESPONSIBILITIES
+
+AFTTP 3-1 breaks down the possible roles of fighter aircraft into engaged
+and support fighters. Each fighter in the formation must know what their
+role is in an engagement to properly execute an attack or defeat a threat.
+Once these roles are established, the responsibilities associated with each
+role can be fulfilled. In all cases, every fighter is responsible for flying
+effective BFM to avoid unnecessary losses and/or delays in killing or
+defeating the threat.
+
+Engaged Fighter versus Engaged
+
+The difference between the term engaged and acting in the role of the
+engaged fighter needs to be clarified. Engaged, as defined by AFTTP 3-1,
+Volume 1, simply means the F-15E is maneuvering with the intent to kill.
+This can apply anywhere on the BFM spectrum from offensive to
+defensive. The majority of the time, this will apply to both F-15Ks.
+However, setting the engaged fighter/support fighter roles must determine
+two things: (1) who is doing their best BFM to kill/survive (engaged
+fighter) and (2) who is ultimately responsible for deconfliction while also
+executing smart BFM (support fighter).
+
+
+Text from AAM-9_ACM_page_8.jpeg:
+Engaged and Support Roles
+
+In an engagement, specific responsibilities must be assigned to each
+aircraft. Effective communication is vital to fulfilling each fighter’s
+responsibilities. In a 2 v 1 engagement, only one aircraft can be the
+engaged fighter. The other aircraft assumes the support fighter
+responsibilities. Roles can change several times during an engagement.
+The appropriate responsibilities must be handed off and confirmed with
+radio calls and aircraft maneuvers.
+
+Engaged Fighter Responsibilities
+
+e Best BFM to kill/survive — The engaged fighter executes its best
+BFM to ultimately result in killing/surviving, no matter where it is
+on the BFM spectrum—offensive/high aspect/defensive. The
+engaged fighter’s game plan is the same as it would be if fighting
+the bandit alone.
+
+e Clear the F-15E’s flight path — Although the support fighter is
+ultimately responsible for deconfliction, it does not relieve the
+engaged fighter of clearing its own flight path. The engaged fighter
+should strive to be tally and visual.
+
+e Allow the support fighter to engage. If the support fighter becomes
+defensive or has a more advantageous offensive entry and calls
+“ENGAGED,” then the engaged fighter, if conditions permit, should
+exchange the engaged/support fighter roles.
+
+AAM-9 D-2
+
+
+Text from AAM-9_ACM_page_9.jpeg:
+Support Fighter Responsibilities
+
+The support fighter’s list of responsibilities is longer because the job
+changes with how offensive or defensive the engaged fighter is. The first
+two responsibilities stand alone as the highest objectives for the support
+fighter. Everything else is secondary. As the engaged fighter transitions
+to being more offensive, the secondary responsibilities become as
+important.
+
+Maintain flight path deconfliction with the engaged fighter and
+bandit. Beyond visual range (BVR), the support fighter must
+remain visual. In the visual arena, the support fighter must
+remain tally/visual or have constant SA of the bandit/engaged
+fighter to ensure there is no chance of a flight path conflict.
+
+Execute smart BFM maneuvers to avoid being shot and employ
+ordnance with a clear field of fire. Smart BFM refers to the support
+fighter’s maneuvering based on the engaged fighter’s BFM position.
+If the engaged fighter is offensive, the support fighter’s goal is to
+maneuver to achieve weapons separation for a missile shot. If the
+engaged fighter is defensive, then the support fighter must
+maneuver for immediate weapons employment. In this case, either
+a missile or control zone entry to a gunshot is appropriate.
+
+Secondary responsibilities include:
+
+e Clear the fight for other adversaries that are a factor to the
+element.
+
+e Direct a defensive response or specific maneuver for weapons
+deconfliction.
+
+e Check own six.
+
+e Maintain overall SA (area orientation, fuel and separation
+opportunities).
+
+These roles allow two aircraft to fight a threat with limited
+communication and maximum awareness of what each fighter is
+responsible for during an engagement.
+
+

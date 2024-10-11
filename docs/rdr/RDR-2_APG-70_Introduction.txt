@@ -1,0 +1,2135 @@
+Text from RDR-2_APG-70_Introduction_page_1.jpeg:
+SUPPORTS COURSES
+FIS5EBQ
+
+FISETX
+
+FISESOC
+
+ACADEMIC STUDENT WORKBOOK
+F-15E
+
+AIR-TO-AIR RADAR
+RDR-2
+APG-70 INTRODUCTION
+APRIL 1999
+
+(SUITE 3 OFP)
+
+AIR COMBAT COMMAND
+
+
+Text from RDR-2_APG-70_Introduction_page_10.jpeg:
+Cockpit Controls
+
+Radar Power Knob
+
+The radar power knob is on the sensor control panel located on the FCP
+left console. It is a four-position knob (Figure D-3).
+
+TF RDR
+
+RDR ALT
+
+ON © OVERRIDE
+
+® STBY ® ol
+OFF
+
+RDR-02-03
+
+OFF
+
+STBY
+
+ON
+
+EMERG
+
+RDR-2
+
+Figure D - 3. Sensor Control Panel.
+
+Removes all power from the radar.
+
+Initiates a three-minute warm-up period. A radar BIT is
+performed during power up. At the end of that period, all
+radar functions are operational except for transmitter high
+voltage and RF transmissions. AIM-120 missile BIT is
+performed (does not BIT training PACS missiles).
+
+Full radar operation except on the ground (weight on
+wheels [WOW] switch engaged). TUNE appears on the
+MPD/MPCD until all AIM-7 missiles tune or the
+120-second timer expires, whichever occurs first. If the
+operator bypasses the STBY position, radar operation is
+inhibited until the three-minute warm-up timer expires.
+
+This position provides full radar operation. It bypasses all
+protective interlocks, except the WOW switch, the
+transmitter coolant flow interlocks and the three-minute
+warm-up timer. Activation requires pulling the switch out
+and rotating it to EMERG. Going to EMERG sets a white
+flag to the right of the switch that requires maintenance
+action to reset.
+
+
+Text from RDR-2_APG-70_Introduction_page_11.jpeg:
+NOTE
+
+Use of EMERG is not authorized for peacetime training missions.
+
+MPD/MPCD Controls
+
+As with any MPD/MPCD, you cannot control the display unless you are
+‘in command” of that display. Display of “in command” lines on the
+bottom of the MPD/MPCD and solid acq symbols indicate system control.
+A “system in use” message indicates the other crew member is moving the
+acq symbols or has locked-up/designated a target.
+
+Elevation (EL) Scan Control
+
+PB #2 controls the number of elevation bars (Figure D-4/D-5) that the
+antenna covers during its raster search pattern. The bars have 1° spacing
+in 40, 80 and 160 nm ranges. They have 2-1/2° spacing in 20 nm and 3.4°
+spacing in 10 nm ranges. In TWS, elevation bar spacing is always 1.5°.
+Current bar sweep (e.g., 3 for third) and PRF (HI or MED) appear on the
+lower left corner of the display.
+
+K
+
+2.5°
+BEAMWIDTH
+
+v
+
+—_—_
+1° BAR SPACING
+nn a
+
+RDR-02-04
+
+Figure D - 4. Multiple Bar Sweep Pattern.
+
+D-5 RDR-2
+
+
+Text from RDR-2_APG-70_Introduction_page_12.jpeg:
+Frame Store (FS)
+
+PB #8 (Figure D-5) specifies the number of old frames that a target
+continues to appear on the screen. With frame store set at 3, a fast
+moving target might appear as three old targets in trail, reduced in
+intensity, along with the brightest current frame target. If displayed on
+the MPCD, the most recent hit is white, the next blue and the last green.
+Track-while-scan (TWS) frame store is automatically set at one.
+
+Ground Moving Target Rejection (GMTR)
+
+PB #4 (Figure D-5) allows selection of a 45 to 95 knot filter around main
+beam clutter in medium PRF (i.e., RWS-M). LO provides +45 knots of
+moving target rejection as long as the antenna elevation is less than +3°
+lookup. (For angles greater than +3° look up, clutter rejection is + 10
+knots with GMTR LO selected.) GMTR MED provides +63 knots of target
+rejection, and GMTR HI provides +87 knots of rejection. Each setting
+successively reduces the possibility of ground moving targets causing
+unwanted returns on the display. GMTR CHAF selects a special MPRF
+mechanization, which provides 95 knots of GMT rejection and an airborne
+beam notch of +95 knots.
+
+RDR-2 D-6
+
+
+Text from RDR-2_APG-70_Introduction_page_13.jpeg:
+Vis-Ident (VI)
+
+The VI legend is located at PB #5 when in single target track (STT)
+(Figure D-5). VI, when selected, provides fighter steering to a visual
+identification position directly behind the target. It can be used from any
+aspect set up. The VI legend is not available during “Flood,” VS, BST and
+Gun Modes. The GUN, SRM and MRM launch circuits are operational in
+VI. The weapons symbology is not.
+
+ELEVATION BAR SWEEP
+1,2,4,6,&8
+
+FRAME STORE
+0, 1,2,&3
+
+MOVING TARGET REJECT
+LO, MED, HI, AND CHAF
+
+von vOoOorn
+
+V WHEN IN STT
+
+MODES OF OPERATION RDR-02-05
+
+Figure D - 5. MPD Controls.
+
+D-7 RDR-2
+
+
+Text from RDR-2_APG-70_Introduction_page_14.jpeg:
+Range While Search (HI, MED, INLV)
+
+PB #6 (Figure D-6) cycles through and selects (boxed) the three range
+while search modes. These modes are HI (HPRF), MED (MPRF) and
+INLV (interleaved PRF). RWS will be described more fully later in this
+workbook.
+
+1+MED
+
+G485 280-040
+
+MODES OF OPERATION RDR-02-06
+
+Figure D - 6. MPD Controls.
+
+RDR-2 D-8
+
+
+Text from RDR-2_APG-70_Introduction_page_15.jpeg:
+Range Gate High (RGH)
+
+The RGH mode at PB #7 (Figure D-7) employs an intermediate PRF
+between MPRF and HPRF and allows detection of both front and tail
+aspect targets with good ranging accuracy and sorting capability. It
+reverts back to INLV when aircraft altitude is less than 4000 feet AGL.
+RGH is boxed when selected.
+
+VS
+
+Pressing PB #8 (Figure D-7) selects VS (velocity search), a pure doppler
+HPRF mode. There is no ranging available in this mode and the display
+format is azimuth and velocity. With VS selected (boxed), pressing PB #8
+again brings up and boxes VCTR (vector scan). Vector scan also uses
+HPRF, but with FM ranging. The VCTR display format is azimuth and
+range. VCTR changes the antenna scan rate to facilitate detecting small
+radar cross section (RCS) targets.
+
+ee
+
+4
+
+von voorn
+
+MODES OF OPERATION RDR-02-06
+
+Figure D - 7. MPD Controls (Cont'd).
+
+D-9 RDR-2
+
+
+Text from RDR-2_APG-70_Introduction_page_16.jpeg:
+ENTER
+
+Enter at PB #10 (Figure D-8) presets certain air-to-air search parameters
+based on MRM or SRM selection. To use this feature, first select MRM or
+SRM at the weapon select switch, and then choose the parameters you
+desire for that mode. Selectable radar parameters are bar scan, range and
+radar mode (e.g., INLV). After selecting the desired radar parameters,
+press ENTER. Selecting MRM or SRM on the weapon select switch
+(forward or aft on RCP castle switch) will initialize the radar to those
+specific parameters. Other radar parameters such as frame store,
+azimuth and GMTR are not programmable with PB #10, but will be as
+last selected. The MC/DTM may also be used to program radar
+parameters.
+
+FLOOD
+
+Selecting Flood at PB #13 (Figure D-8) is a MPRF ranging only mode that
+provides gun LCOS track funnel ranging out to 2 nm as long as the target
+is maintained in the flood antenna beam (16° wide/40° vertical, centered
+on W). Other flood modes will be covered in subsequent lessons.
+
+EP MODES
+
+St
+
+(CFCS
+
+eee
+
+s/ J
+
+mZH oO
+
+ACQUISITION SNIFF
+
+SYMBOL
+
+FLOOD 16° X 40°
+
+vox ogoorn
+
+ENTER
+
+Sige
+
+Figure D - 8. MPD Controls (Cont'd).
+
+RDR-02-07
+
+RDR-2 D-10
+
+
+Text from RDR-2_APG-70_Introduction_page_17.jpeg:
+SNIFF
+
+SNF at PB #15 (Figure D-9) is a special mode that will be covered in later
+lessons.
+
+E-1, E-2, E-38 and COR
+
+E-1 and E-2 at PBs #18 and 17 respectively (Figure D-9) are special
+classified EP modes that will be covered in later lessons. COR will also be
+covered in a later lesson. If E-1 is boxed, a plus (+) appears in the lower
+left corner between bar and PRF cues (i.e., 1 + HI). E-3 at PB #16 is not
+functional.
+
+EP MODES
+
+——
+(OUI CC Cs
+
+SNIFF
+ACQUISITION
+
+SYMBOL
+
+FLOOD 16° X 40°
+
+vox ooorn
+
+ENTER
+
+RDR-02-07
+
+Figure D - 9. MPD Controls (Cont'd).
+
+Acquisition (Acq) Symbol
+
+The acq symbol is a pair of vertical lines with space between them (Figure
+D-10). The crew member moves the acq symbol with the TDC; the acq
+symbol is used to position the lock-on gate (volume) on the radar display
+or to sample/highlight targets in search/TWS. Manual lock on is obtained
+by placing the acq symbol over the target and depressing and releasing
+the FCP TDC or the RCP trigger. This lock on is called single target track
+(STT).
+
+D-11 RDR-2
+
+
+Text from RDR-2_APG-70_Introduction_page_18.jpeg:
+The acquisition symbol is available during STT when medium range
+missile (MRM) is selected on the weapon select switch. The acquisition
+symbol is not available in STT when short range missile (SRM) or gun is
+selected on the weapon select switch.
+
+Besides using the acq symbol for lock on, the crew member can use the acq
+symbol to command azimuth or range “bumping.” Bumping the side of the
+display changes the azimuth scan between 60° and 120° (azimuth
+bumping not available in STT). Bumping the top of the screen changes to
+the next higher range. Bumping the bottom changes to the next lower
+range. Range bumping is available in STT; however, once range bumping
+is used, automatic range scale change is no longer available (auto range
+scale change will return when MRM is deselected in STT). Also, once in
+STT with MRM selected, the CC will not honor a range bump to a range
+scale smaller than the STT target’s current range.
+
+A slow/fast cue (target speed greater than or equal to 1.1 Mach, or less
+than or equal to 0.4 Mach) will appear to the right of the target in STT or
+to the right of the acquisition symbol when the target is sampled with the
+acq symbol in TWS. Acquisition symbol sampling of the target will also
+recall NCTR data.
+
+EP MODES
+
+St
+
+(CFCS
+
+eee
+
+sJ) |
+
+mZH oO
+
+ACQUISITION SNIFF
+
+SYMBOL
+
+FLOOD 16° X 40°
+
+vox voorn
+
+ENTER
+
+RDR-02-07
+
+PPI IA |
+
+Figure D - 10. MPD Controls (Cont'd).
+
+RDR-2 D-12
+
+
+Text from RDR-2_APG-70_Introduction_page_19.jpeg:
+Search Display Symbols
+
+The symbols shown in search (Figure D-11) present both the aircraft's
+radar parameters and certain aircraft flight parameters. Refer to Figure
+D-11 through Figure D-15 when reading the following paragraphs A thru
+J.
+
+A Own Aircraft
+
+Your ground speed appears at the lower left and TAS at the lower
+right. The horizon line indicates the aircraft's attitude.
+
+B_~ Antenna Position
+
+The screen shows a caret for the antenna's present azimuth and
+elevation. On the bottom of the display, the azimuth caret sweeps
+between the antenna limit circles. On the display's left side, there
+are three scribe lines above the center line and three below the center
+line. These scribe lines indicate 10° up or down increments in
+antenna tilt angle with a maximum of 30° (antenna can go +60° but
+no scribe lines are displayed past 30°).
+
+O) ON AIRERATT  TOWOUOUOTOL
+re ee |
+
+- GROUND SPEED rd
+- ATTITUDE E-7 E-2 E-3
+ANTENNA POSITION
+
+- AZ & EL CARET
+- SWEEP LIMIT INDICATOR
+
+F
+L
+fe)
+fe)
+D
+R
+Cc
+D
+
+TARGET
+
+Eeeee
+
+RDR-02-08
+
+D-18 RDR-2
+
+
+Text from RDR-2_APG-70_Introduction_page_2.jpeg:
+ADMINISTRATIVE INFORMATION
+
+This student workbook is designed to provide information on the F-15E,
+its systems and capabilities. It is not a sole source document, but is to be
+used in conjunction with other standard Air Force publications and
+technical manuals. If you find any differences between the material
+contained herein and other governing regulations, adhere to the
+regulations and notify the OPDR.
+
+Changes to this workbook are indicated with a heavy black line in the left
+margin.
+
+Forward recommendations for revision or change to 4 TS, SJAFB, NC
+275381.
+
+Supersedes: RDR-2, July, 1998
+
+OPDR: 4 TS
+
+Index of Changes
+
+Effective Date Pages Affected
+
+
+
+Text from RDR-2_APG-70_Introduction_page_20.jpeg:
+C Altitude Searching
+
+The two numbers shown to the right of the acquisition symbol
+indicate the altitude block being searched. The altitude block
+numbers represent the coverage at the range of the acq symbol. The
+numbers represent the top and bottom of the coverage in thousands
+of feet MSL. Altitude coverage circles are also displayed on the left
+edge of the grid for a graphic depiction of the top and bottom of the
+elevation coverage. The center of the scale (0° or level) corresponds to
+0 feet. The top of the scale (60°) corresponds to 60,000 feet. When
+the acq symbol is placed over a target in search, a digital MSL
+altitude is displayed left of the acq symbol and an altitude "coffin"
+appears within the altitude coverage circles, both more precisely
+defining the target's altitude.
+
+D_ Range Displayed
+
+The range of the display (10, 20, 40, 80 or 160 nm) appears at the top
+right corner. The inscribed lines represent 25%, 50% and 75% of the
+total range.
+
+Ofte NS 2a MCN OUC IT S
+
+- ACQUISITION SYMBOL
+- ALTITUDE CIRCLES/ CHAN DS EA ED ES
+COFFIN/DIGITAL ALTITUDE 300
+
+(D) RANGE DISPLAYED
+
+©
+
+Q
+Sj
+
+II
+
+0on o00rm
+
+| HOA
+
+TARGET
+
+/\
+6HI
+1 Vv fe
+G485 330-033 T 465
+INLV RGH vs ENTER
+
+SJ
+
+i=
+
+Figure D - 12. Search Display Symbols (Cont'd).
+
+=
+«(yt
+
+iS
+
+®Oe
+
+RDR-02-26
+
+RDR-2 D-14
+
+
+Text from RDR-2_APG-70_Introduction_page_21.jpeg:
+KE AOJ/HOS/JAM
+
+AOJ, HOJ and JAM cues are displayed at the top (approximately
+centered) of the radar display. The AOJ cue is displayed during
+search operation when jamming is detected. The HOJ and JAM cues
+are displayed during track operation.
+
+F Destination Symbol
+
+Assuming the current steer point is within the swept area of the
+display, it appears as an unmarked, full intensity, open triangle. Up
+to 5 additional steer points may be displayed (i.e., current plus next
+5). These appear as 3/4 intensity, open triangles labeled with their
+appropriate sequence point number.
+
+G Range Limited Targets
+
+In search, the radar processes targets beyond the displayed target
+range and displays a range limited target at the top of the display.
+The symbol is a tall, skinny, open triangle which, after one frame,
+will be at half-intensity. These resolved targets are within 10 nm of
+the display range and are shown at their correct azimuth.
+
+(E) AOJ/HOJ/JAM
+(F) DESTINATION SYMBOL
+
+RANGE LIMITED
+TARGETS
+
+F
+L
+fe)
+le)
+D
+R
+Cc
+D
+
+=
+
+TARGET
+
+Beeee
+
+Figure D - 18. Search Display Symbols (Cont'd).
+
+RDR-02-09
+
+D-15 RDR-2
+
+
+Text from RDR-2_APG-70_Introduction_page_22.jpeg:
+H Bullseye Bearing and Range (BBR) and Symbol
+
+The Bullseye symbol (a small dot with a circle around it) is displayed
+on the air-to-air radar display in search if it is within the radar sweep
+area. If a destination symbol and the bullseye point are at the same
+location, then both will be displayed and super-imposed. A digital
+readout of bearing and range from the bullseye point (whether
+symbol is on A/A radar display or not) to either the STT target or acq
+symbol (if not in STT) is shown to the right of the F-15E ground speed
+readout on the A/A radar display. Bullseye data may be blanked in
+some radar modes (e.g., Flood).
+
+I Display of Bearing, Range and Altitude (BRA)
+
+In addition to existing altitude information (coffin in search or digital
+altitude readout in search and track), bearing and range information
+from the F-15E to the acquisition symbol/tracked target is available
+to the aircrew. This information is a digital readout in the upper left
+corner of the A/A radar display (to the left of channel-band selection).
+Bearing is above range and is in degrees (5 degree increments)
+relative to Magnetic North, with leading zeroes. Range is in one
+nautical mile increments without leading zeroes.
+
+®
+
+\E
+
+fe)
+a
+a
+
+BULLSEYE BEARING —
+RANGE/SYMBOL
+
+Cd) BEARING AND RANGE
+
+(a)
+
+iPi@iwit
+
+TARGET
+
+Figure D - 14. Search Display Symbols (Cont'd).
+
+RDR-2 D-16
+
+
+Text from RDR-2_APG-70_Introduction_page_23.jpeg:
+J  Hot/Cold Search
+
+Hot/Cold Search is available in RWS, RGH, VCTR and TWS and
+provides an indication of the “Hot” (Nose = +), “Cold” (Tail = «) or
+“Null” (side = ,) orientation of up to ten targets relative to the F-15E.
+In RWS with MRM selected, upgraded hot/cold target symbology is
+also available. This upgraded symbology is a filled-in rectangle with
+a heading line attached (; ).
+
+mI
+3
+
+E-
+
+J) HOT/COLD SEARCH
+TARGETS AND
+UPGRADED TARGET
+
+F
+L
+le)
+le)
+D
+R
+Cc
+D
+
+TARGET
+
+Sie
+
+Figure D - 15. Search Display Symbols (Cont'd).
+
+RDR-02-28
+
+D-17 RDR-2
+
+
+Text from RDR-2_APG-70_Introduction_page_24.jpeg:
+HOTAS Controls
+FCP Stick
+
+The auto acquisition switch (Figure D-16) is the only switch on the FCP
+stick that controls the radar. It is spring loaded to center and has three
+other positions: forward, aft and down. From radar search, the switch
+commands radar auto acquisition supersearch (SS), boresight (BST), long
+range boresight (LR BST) and vertical scan (VTS). When in search, the
+down position (mode reject or return to search (RTS)) can be used to clear
+the radar display (erase the targets). In radar track, the switch
+commands TWS variations. Forward selects high data TWS (HD-TWS)
+and aft selects normal TWS (N-TWS). In TWS, forward alternately cycles
+(toggles) HD-TWS/N-TWS. Aft from any TWS mode toggles STT/N-TWS.
+
+AUTO ACQ SWITCH (RADAR IN SEARCH)
+FORWARD: SUPERSEARCH/BORESIGHT/
+LR BORESIGHT
+AFT: VERTICAL SCAN
+DOWN: MODE REJECT/CLEAR
+
+RDR-02-10
+
+Figure D - 16. Stick HOTAS Functions.
+
+RDR-2 D-18
+
+
+Text from RDR-2_APG-70_Introduction_page_25.jpeg:
+FCP Throttles
+
+There are six HOTAS switches on the FCP throttles (Figure D-17). They
+are the elevation wheel, laser fire switch, target designator control (TDC),
+coolie switch, boat switch and the weapon select switch.
+
+COOLIE
+
+UP: HIGHLIGHT / QUICK STEP
+OR GDS/ GDS FUNNEL/
+COMBINED MODE
+
+ELEVATION
+DOWN: MSL BORESIGHT/ WHEEL
+SIGHT STIFFEN
+INBOARD: EID/EWWS/
+NCTR ACTIVATE eo IRE
+
+OUTBOARD: AAI ACTIVATE
+
+TDC
+
+RDR-02-11
+
+Figure D - 17. FCP Throttles.
+
+Elevation (EL) Wheel
+
+The elevation wheel is a spring-centered, round switch located on the left
+side of the left throttle. The wheel allows control of the vertical pointing
+angle (space stabilized relative to INS horizon) of the radar antenna in
+search. Moving the wheel from center causes the radar antenna vertical
+angle to move up or down. The farther the switch is held from center, the
+faster the antenna vertical angle changes. Rotating the front of the wheel
+upward causes the radar antenna to move upward. Down on the wheel
+moves the antenna downward. Since radar elevation coverage is
+determined by the vertical pointing angle of the antenna, the control
+switch is called the elevation wheel instead of some other name. Vertical
+pointing angle remains centered on the target upon exit from STT or TWS
+back to search. However, the vertical pointing angle is initialized to zero
+(INS horizon) upon exit from SS, BST, LR BST or VTS search patterns to
+normal search patterns by RTS (mode reject). During GUNS auto acq
+search pattern, mode reject will return the scan pattern to the INS
+horizon centerline.
+
+D-19 RDR-2
+
+
+Text from RDR-2_APG-70_Introduction_page_26.jpeg:
+TDC
+
+The TDC positions the acquisition symbol on the radar display. The acq
+symbol moves in the same direction as the TDC moves. Depressing and
+releasing the TDC commands target lockon from search (FCP only).
+Depressing the TDC for greater than one second commands the narrow
+azimuth scan sort mode from search or track. The TDC also positions the
+radar's scan center in either supersearch or gun mode. If in radar search
+with less than full gimbal azimuth sweep, the TDC will adjust the sweep
+center left and right (the sweep center is centered on the acq symbol).
+
+Coolie Switch
+
+This switch (Figure D-17) is at the right front corner of the right throttle.
+In addition to the spring loaded neutral position, it has the following four
+
+positions:
+
+UP
+
+DOWN
+INBOARD
+
+OUTBOARD
+
+RDR-2
+
+This quick steps (moves) from one designated TWS
+target to the next (other TWS actions covered later).
+If gun is selected and a radar lock is achieved, it
+cycles between GDS and GDS funnel modes. It
+selects highlight and combined modes.
+
+This is a missile boresight/gunsight stiffen position.
+This activates the EID/EWWS/NCTR.
+
+This activates the AAI.
+
+
+Text from RDR-2_APG-70_Introduction_page_27.jpeg:
+Boat Switch
+
+This is the third switch down the inboard side of the right throttle (Figure
+D-18). It is a three-position switch, spring loaded to the center neutral
+position.
+
+FORWARD With weapon select switch in MRM, cycles between
+AIM-7 and AIM-120.
+
+With weapon select switch in SRM, rejects and cycles
+among AIM-9s.
+
+AFT Undesignates a track-while-scan target when the acq
+symbol is over the target.
+
+BOAT SWITCH
+FORWARD: MISSILE REJECT
+AFT: TARGET UNDESIGNATE
+
+WEAPON SELECT SWITCH
+FORWARD: MRM (AIM-7/120)
+CENTER: SRM (AIM-9)/COMBINED MODE
+
+(AIM-9/ GUN) RDR-02-12
+AFT: GUN (M61A1)
+
+Figure D - 18. FCP Throttles.
+
+D-21 RDR-2
+
+
+Text from RDR-2_APG-70_Introduction_page_28.jpeg:
+Weapon Select Switch
+
+This is a three-position switch at the bottom of the right throttle. (Figure
+D-18). It selects the air-to-air weapon and programmed radar mode.
+
+FORWARD MRM (AIM-7/AIM-120), programmed long range search
+(LRS) radar parameters.
+
+CENTER SRM (AIM-9)/COMBINED MODE (AIM-9/GUN),
+programmed short range search (SRS) radar
+parameters.
+
+AFT GUN (M61A1), selects air-to-air master mode, gives
+FCP command of the radar and selects the GUNS
+radar auto acquisition mode, if the radar was ina
+search mode. If the radar is tracking, STT is entered.
+
+RDR-2 D - 22
+
+
+Text from RDR-2_APG-70_Introduction_page_29.jpeg:
+Hand Controllers
+
+There are two hand controllers in the rear cockpit, and they are mirror
+images of each other. (See right hand controller in Figure D-19.) Relative
+to radar control, the TDC and castle switches perform the same function
+on each controller. However, the outboard switch on the right hand
+controller is an interrogate switch. The outboard switch on the left
+controller is a CMD dispense switch.
+
+CASTLE SWITCH
+
+FORWARD: LRS (MRM SEARCH)
+AFT: SRS (SRM SEARCH)
+LEFT: TARGET UNDESIGNATE
+RIGHT: MISSILE REJECT
+DOWN: = QUICK STEP/HIGHLIGHT
+
+\ INTERROGATE SWITCH
+FORWARD: AAI ACTIVATE
+
+AFT: EID/EWWS/
+NCTR ACTIVATE
+
+TDC
+ACQUISITION SYMBOL CONTROL
+
+ELEVATION CONTROL (WITH
+TRIGGER % ACTION)
+
+RDR-02-13
+
+Figure D - 19. Right Hand Controller.
+
+D - 238 RDR-2
+
+
+Text from RDR-2_APG-70_Introduction_page_3.jpeg:
+AIR-TO-AIR RADAR
+
+COVER
+
+APG-70 INTRODUCTION
+INTRODUCTION
+
+This RDR-2 workbook is your guide in studying the F-15E air-to-air radar
+
+system as part of a lecture preparation. Use it to familiarize yourself with
+the components, nomenclature and operational characteristics of the radar
+system prior to the RDR-2 lecture.
+
+CONTENTS:
+
+INTRODUCTION 0.00. ceecccccesneecesneeeessneecesaeeesseeesssaeesessaeesesaeeeesaeeees A-1
+CRITERION REFERENCED OBJECTIVES (CROSs).........0..eeeeeeeeeeeeeee B-1
+STUDENT PREPARATION REQUIREMENTS ...0... eee eeeeeeeeeeeees C-1
+CERT er ses sas es carws wa sme eas ees sats se cae wa Ses aa ee Mt we Sa eas es amt cs aa we SS a D-1
+END OF TEXT QUIZ ou. eeececeesnceeeeseeecesaeeeesneecssaeesessaeesssaeesenaees E-1
+(SOB AIRY corse case sae sass secs case ans sane aus avis nase aes wants Gaus GE SRE es Manis Uae Sa Su MARS Ms HE F-1
+
+A-1 RDR-2
+
+
+Text from RDR-2_APG-70_Introduction_page_30.jpeg:
+Castle Switch
+
+In addition to a spring-loaded neutral position (off), this switch has
+five-positions: left, right, forward, aft and down.
+
+LEFT Undesignates a track-while-scan target.
+
+RIGHT Rejects the missile currently selected.
+
+FORWARD Initiates LRS (MRM) programmed radar search
+parameters/mode.
+
+AFT Initiates SRS (SRM) programmed radar search
+parameters/mode.
+
+DOWN Quick steps from one TWS designated target to
+another (other TWS actions covered later). Selects
+highlight mode.
+
+TDC
+
+This controls the acquisition symbol, just like the FCP TDC. When used
+with half action on the trigger, it controls the elevation coverage of the
+radar by adjusting the antenna vertical pointing angle.
+
+Interrogate Switch
+
+This is a three-position button on the outboard side of the right hand
+controller (Figure D-19) spring loaded to the center-off position. It
+activates AAI when moved forward, and EID/EWWS/NCTR functions
+when moved aft.
+
+Countermeasures Dispenser (CMD) Switch
+
+The CMD switch is located on the outboard side of the left hand controller
+(Figure D-20). Forward starts the Manual 1 program and aft starts the
+Manual 2 program. The switch is spring loaded to the center (off)
+position.
+
+Coolie Switch
+
+This switch scrolls and takes command of the displays in the RCP.
+
+RDR-2 D - 24
+
+
+Text from RDR-2_APG-70_Introduction_page_31.jpeg:
+Auto Acquisition
+
+Pressing down on the auto acq button returns the radar to search.
+Antenna elevation remains that of the target from STT and TWS. Auto
+acq forward or aft for less than 1 second may be used to return the
+antenna vertical pointing angle to the INS horizon (elevation caret to zero)
+and the azimuth to centerline. All other positions control specific track
+functions. The radar auto acquisition modes cannot be commanded from
+the rear cockpit. When in search, the down position (mode reject) clears
+the radar display (erases the targets or birds). TWS functions are
+identical to those described for the front cockpit auto acquisition button.
+
+TRIGGER
+
+F.A.
+
+TARGET
+DESIGNATION
+%2 ACTION
+EL CONTROL
+W/TDC
+
+CMD SWITCH
+
++ LASER FIRE
+r SWITCH
+|
+
+COOLIE
+
+AUTO ACQ SWITCH
+
+FORWARD: RESET ELEVATION
+HD-TWS/N-TWS
+
+AFT: RESET ELEVATION RDR-02-14
+N-TWS/STT
+
+DOWN: MODE REJECT
+
+Figure D - 20. Left Hand Controller.
+Trigger
+This is a three position switch: out, half depressed (half action) and fully
+depressed (full action). Half action, in conjunction with the TDC, controls
+
+the vertical pointing angle (elevation) of the antenna. Full action and
+release commands lockon and target designation.
+
+D-25 RDR-2
+
+
+Text from RDR-2_APG-70_Introduction_page_32.jpeg:
+QUESTIONS
+
+1. The F-15E radar uses multiple transmitting band/channels, cockpit
+selectable, to prevent
+
+a. hostile jamming of the radar and intraflight interference.
+b. radar detuning.
+c. frequency compromise.
+d. AIM-9 detune.
+2. The warm up time of the radar is minutes.
+
+RDR-02-15
+
+Figure D - 21.
+
+3. The MPD shown above means that the radar is
+
+searching 6° of elevation.
+
+in a 6 bar/120° azimuth search.
+in a 6 bar/60° azimuth search.
+in a 3 bar/2° elevation search.
+
+poop
+
+RDR-2 D - 26
+
+
+Text from RDR-2_APG-70_Introduction_page_33.jpeg:
+RDR-02-16
+
+Figure D - 22.
+
+To the right of the acq symbol on the display shown above, the
+numbers -9 and 30 appear. They are
+
+designated target altitude and airspeed.
+
+designated target range and altitude.
+
+the altitude coverage at the range of the acquisition symbol.
+the altitude coverage at the midrange of the display.
+
+pe op
+
+D-27 RDR-2
+
+
+Text from RDR-2_APG-70_Introduction_page_34.jpeg:
+ANSWERS
+
+l. a
+2. 3
+3. Cc
+4, ¢
+
+RDR-2 D - 28
+
+
+Text from RDR-2_APG-70_Introduction_page_35.jpeg:
+F-15E BIT CHECKS
+Initiated BIT (I-BIT) Checks
+
+Normally, the aircrew should accomplish an I-BIT (with track test) on the
+radar before every flight. After the I-BIT, the aircrew will be fully aware
+of radar system status and its capabilities. If the radar does not work
+properly in flight, include the results of an airborne
+
+I-BIT in the maintenance write up.
+
+Procedures to start an I-BIT on the ground or airborne are displayed in
+Figure D-23. The radar power knob must be in STBY or ON with the
+radar warmed up. Display the radar on a separate MPD/MPCD. When
+the radar is warmed up, the azimuth caret will ~ sweeping.
+
+6, EO OTOWONG I 5 Z a eee ee
+
+BUILT-IN TEST
+
+1. MENU 1 2. GROUND BIT DISPLAY
+BIT PAGE DISPLAYS
+
+(OlOtoOnoiol 2
+ee a |
+AUTO MAINT DETAIL SFDR
+
+BUILT-IN TEST
+
+BUILT-IN TEST
+
+POMC Cals
+
+2. AIRBORNE BIT DISPLAY 3. I-BIT INPROGRESS
+
+RDR-02-17
+
+Figure D - 23. Starting an I-BIT.
+
+D - 29 RDR-2
+
+
+Text from RDR-2_APG-70_Introduction_page_36.jpeg:
+Aircrew BIT Matrix
+
+On initial ground startup, with the radar power knob in STBY and the
+radar warmed up, run the STBY I-BIT prior to turning the radar to ON to
+ensure the integrity of the WOW switch. I-BIT is started as mentioned in
+Figure D-23. The aircrew BIT matrix will be displayed on the radar
+display. If GND appears at the bottom right of the aircrew BIT matrix
+display (Figure D-24), the aircrew can be confident that the radar will not
+transmit while on the ground when the radar power is turned on.
+
+The aircrew BIT matrix remains displayed until you proceed to the
+maintenance BIT matrix, or until you reject it by pressing down on the
+auto acq switch.
+
+The aircrew BIT matrix (Figure D-24) lists those radar functions that
+failed the BIT and shows any RF channels that are bad. The
+three-character designation following “MDC” in the lower right corner
+indicates which radar software (OFP) version is being used. In this case,
+DAT is the current radar OFP version.
+
+GIGIG &)
+
+NOGO STATUS A APPEARS ONLY
+NCTR SCORE MED INLV HI RGH VS PVU MAP HRM WHEN FAILED
+
+GHANS BAD xx APPEAR ONLY WHEN
+F
+i
+
+tr LOADED AND FAILED
+A 12345678
+B 12345678
+CHARNEL SD a iaussers OFP IDENT
+WEIGHT ON
+WHEELS
+
+PIMIMIM IMI ="
+
+RDR-02-18
+
+Figure D - 24. Aircrew BIT Matrix, Radar Display.
+
+RDR-2 D - 30
+
+
+Text from RDR-2_APG-70_Introduction_page_37.jpeg:
+Maintenance BIT Matrix
+
+The maintenance BIT matrix (Figure D-25) is accessed by selecting
+forward on the auto acq from the aircrew BIT matrix. The matrix
+contains specific failure callouts for four BIT test type categories. Record
+the information for inclusion on maintenance debrief forms. There may be
+up to 10 maintenance matrix pages. Auto acq forward steps the pages in
+sequence. Auto acq aft returns to the previous maintenance matrix page.
+Track Test
+
+RCVR/EXCS 025
+ANTENNA 031
+ARSP 038
+DRSP XXXXXXXXXXXX 044
+RDP FUNCTION: XXXXXXXXXXXX 082
+TRANSMITTER 300000000000000000000 111
+LVPS 610
+
+ORT: XXX XXX XXX XXX XXX
+
+GBIT: XXX XXX XXX XXX XXX
+FBIT: XXX XXX XXX XXX XXX
+CM: = XXX XXX XXX XXX XXX
+PERS: XXX XXX XXX XXX XXX
+
+RDR-02-19
+
+Figure D - 25. Maintenance BIT Matrix, Radar Display.
+
+After the STBY I-BIT matrix pages have been checked, place the radar
+power knob to ON, wait for the AIM-7 tune cycle to finish and the radar
+display to begin azimuth sweeping. At this point, start another I-BIT.
+SELECT OPTION appears after starting the radar I-BIT (Figure D-26).
+Moving the auto acq switch forward or aft once starts the radar’s track
+test. Failure to select track test during the time SELECT OPTION is
+displayed allows the radar to continue the initiated BIT without a track
+test.
+
+During track test, check the radar's tracking functions. You should lock
+on to both medium and high PRF targets to check out the tracking
+circuits. Also check manual and auto acquisition modes.
+
+The I-BIT takes approximately 90 seconds by itself. The track test may be
+maintained as long as desired, and when terminated, the I-BIT continues
+to completion. Normally, all of the radar BIT procedures can be
+accomplished in 3-4 minutes.
+
+D-31 RDR-2
+
+
+Text from RDR-2_APG-70_Introduction_page_38.jpeg:
+1.)
+
+2.)
+
+3.)
+
+Figure D -
+
+A/A RADAR SELECTED, FIRST 7.5 SECONDS
+AFTER BIT INITIATED. G-BIT APPEARS IN THE
+LOWER LEFT CORNER OF THE RADAR DISPLAY
+INDICATING PROPER OPERATION OF THE
+WEIGHT-ON-WHEELS aren SWITCH (F-BIT
+APPEARS IN THE SAME LOCATION DURING
+
+AN AIRBORNE BIT).
+
+7.5 TO 15 SECONDS, TO SELECT TRACK TEST,
+SELECT AUTO ACQ FORWARD OR AFT,
+OTHERWISE DISPLAY RETURNS TO 1.
+
+TRACK TEST INITIATED. TO TERMINATE TEST,
+PRESS STOP TT ON BIT DISPLAY; DISPLAY
+RETURNS TO 1.
+
+RDR-02-20
+
+26. Track Test.
+
+Because the radar BIT is a self-contained process, the MPD/MPCD BIT
+display can be freed up to allow the accomplishment of the other system
+tests. To exit the track test press STOP TT at PB #19 on the MPD/MPCD
+BIT display. After the track test has been exited, STOP replaces STOP
+TT. Press STOP and, in five seconds, ESCAPE replaces it. Pressing
+ESCAPE returns the main MPD/MPCD BIT display legend. The radar
+I-BIT will continue to completion on its own. Now, other system BITs can
+
+be run.
+
+RDR-2
+
+
+Text from RDR-2_APG-70_Introduction_page_39.jpeg:
+Degrades
+
+Below are examples of degrades that appear in the BIT window on the
+radar display (Figure D-27). The TO 1F-15E-34-1-1 air-to-air radar
+section contains a complete list of all degrades that may appear in the BIT
+window. Degrades and a short explanation follow:
+
+RF NG
+
+This stands for radio frequency no go. RF NG appears any time the radar
+transmitter's power is below a usable level (no AIM-7 capability). Attempt
+another channel or recycle the radar power.
+
+LO FLO
+
+This indicates that the transmitter coolant flow rate is insufficient. The
+radar will not operate.
+
+(OLOVOVOWO
+rT ft ft fT i
+-1 E-2 E-
+
+E- 3
+
+son” voorn
+
+BIT WINDOW
+
+1 VIO 4
+258-082 T 465
+[| RcH | vs | | ENTER
+
+Figure D - 27. BIT Window Display.
+
+D - 33 RDR-2
+
+
+Text from RDR-2_APG-70_Introduction_page_4.jpeg:
+CRITERION REFERENCED OBJECTIVES (CROs)
+
+1. Identify the functions and effects of the F-15E radar frequency
+bands, channels and PRF switching.
+
+2. Identify the function of individual F-15E radar controls.
+
+3. Given a radar display or radar BIT display, interpret the data
+presented.
+
+4. Identify the operating characteristics and applications of selected
+radar search modes.
+
+REFERENCES
+TO 1F-15E-34-1-1 Section I Radar Set - General
+Radar Built-In Test (BIT)
+System
+A/A Radar Controls
+A/A Radar Display
+Radar Search Modes
+
+RDR-2 B-1
+
+
+Text from RDR-2_APG-70_Introduction_page_40.jpeg:
+RDR HOT
+
+This obviously means that the radar is too hot. RDR HOT appears when
+there is insufficient cooling. Turn the radar OFF to prevent damage. On
+the ground, the radar will automatically shut off.
+
+NO TWS
+
+This display is present when track-while-scan (TWS) entry from single
+target track (STT) is inhibited.
+
+NO STT
+
+Appears when return to STT from TWS is inhibited.
+
+RETUNE
+
+This appears if an in-flight retuning of the AIM-7 missiles is requested.
+TKTSTX
+
+This indication means that the track test portion of the initiated BIT is in
+progress in X PRF or mode.
+
+RDR-2 D - 34
+
+
+Text from RDR-2_APG-70_Introduction_page_41.jpeg:
+F-15E RADAR SEARCH MODES
+
+During radar surveillance, there are three operational phases: detection,
+acquisition and tracking. In the search or detection phase, the
+fundamental concern is optimizing radar parameters to detect both long
+and short range targets. Common terms for these conditions are long
+range search (LRS) and short range search (SRS). These are also referred
+to as MRM search and SRM search. By presetting the APG-70 radar,
+detection sensitivity to long range, front aspect target detection is
+optimized. Likewise, in the SRS, detection capability is optimized by
+presetting the radar mode for short range maneuvering targets.
+
+PB #6 on the MPD selects the LRS or SRS radar modes normally used.
+These are INLV and MED. These RWS modes can be preset to coincide
+with the selection of either MRM or SRM on the weapon select switch.
+For example, normally the aircrew programs the radar to initialize in
+MED when selecting SRM or INLV when selecting MRM. Once
+programmed by the aircrew (or MC/DTM), LRS or SRS parameters can
+also be selected by toggling the RCP castle switch forward (LRS) or aft
+(SRS) while in command of the A/A radar display.
+
+Long Range Search Mode (Primary)
+
+Range While Search-Interleaved (INLV)
+
+During normal LRS conditions, INLV is the basic air-to-air surveillance
+mode. In INLV the radar operates in an interleaved (alternating high and
+medium) PRF. For example, the first bar of the radar's transmission is
+high PRF (radar bit window reads “HI”) and the second bar is medium
+PRF (radar bit window reads “MED”). Alternating PRF maximizes target
+detection capabilities under most tactical conditions. In other words,
+interleaved gives maximum capability to detect front aspect targets at
+long range and all-aspect targets at short range.
+
+Although INLV is normally high and medium interleaved PRF, the radar
+employs only MPRF (radar bit window reads “MED”) waveform with
+
+10 nm range selected. With 160 mile range selected, the radar employs
+either HPRF (radar BIT window reads “HA”) or interleaved PRF
+waveform (radar BIT window alternates “HI” and “MED”), selectable by
+alternate acq symbol range bumps against the top of the A/A radar
+display.
+
+D- 35 RDR-2
+
+
+Text from RDR-2_APG-70_Introduction_page_42.jpeg:
+Advantages
+
+Interleaved combines the advantages of both high and medium PRF. It
+gives the capability to detect long range high aspect targets. It also gives
+the capability to detect all-aspect short range targets.
+
+Disadvantages
+
+INLV is a poor sort mode. Because of the different methods used to
+determine range (either HPRF or MPRF), it is possible to see different
+ranges for the same target.
+
+Limitations
+
+At maximum ranges, there are FM ranging limitations. MPRF detection
+is not available at long ranges.
+
+Short Range Search Mode (Primary)
+
+Range While Search-Medium (MED)
+
+This mode is good for a short range, look-down, cluttered environment. It
+will detect both opening and closing velocity targets by using an all MPRF
+waveform. Compared to INLV, this mode provides better breakout
+capability. However, long range performance is less than that in LRS
+modes (160 nm range not available). Target sort capability and range
+resolution is better when compared to those in HPRF.
+
+Advantage
+
+The biggest advantage of this mode is its all-aspect target detection
+capability.
+
+Disadvantage
+
+There are blind zones in the detection pattern.
+
+RDR-2 D - 36
+
+
+Text from RDR-2_APG-70_Introduction_page_43.jpeg:
+Limitations
+
+The limited range against small targets is the biggest limitation of MED.
+The max range for a small target is approximately 40 nm.
+
+Other Search Modes
+
+Range While Search-HIGH (HI)
+
+Unlike INLV, HI transmission is all-HPRF waveform (radar BIT window
+reads “HI”). This mode, under certain tactical conditions, allows longer
+detection ranges than does INLV. Basically, these tactical conditions are
+look-up and look-down for front aspect targets. The HI mode will
+normally not detect tail aspect targets. This means that detecting a
+maneuvering, long range target, is best done in INLV not HI.
+
+Advantage
+
+The greatest advantage of this mode is long range pickup. It aligns more
+with a doppler mode than other RWS modes.
+
+Disadvantage
+
+The disadvantages of this mode are similar to the disadvantages of
+doppler radars. HPRF search is not normally usable against beam and
+tail aspect targets.
+
+Limitations
+
+The limitation of this mode is FM ranging.
+
+Range-Gated High (RGH) Mode
+
+The RGH mode employs an intermediate PRF falling between MPRF and
+HPRF and allows detection of both frontal and tail aspect targets with
+good ranging accuracy and sorting capability. A slower scan rate
+(50°/second) and long pulse waveform are used in the 40, 80 and 160 nm
+range scales. The 10 and 20 nm range scales use a 70°/second scan rate
+and short-pulse waveform to increase target breakout capability.
+
+D - 37 RDR-2
+
+
+Text from RDR-2_APG-70_Introduction_page_44.jpeg:
+INLV is automatically invoked when F-15E altitude drops below 4000 feet
+AGL and special mode E-1 is selected in order to reduce false targets.
+When F-15E altitude is increased above 4500 feet AGL, normal RGH
+operations resume.
+
+Advantage
+
+Longer range all aspect contacts.
+
+Disadvantage
+
+Detection range for front aspect targets is less than HPRF. Tail aspect
+performance is limited on cospeed or tail closing targets. A slower scan
+rate increases the time to search a volume of airspace.
+
+Limitation
+
+Aircraft altitude must be above 4000 feet AGL to use RGH mode. Target
+maneuvering is difficult to see due to the slower scan rate.
+
+Velocity Search (VS) Mode
+
+The third LRS mode, velocity search, is the only pure doppler mode found
+in the F-15E. The operator selects VS by pushing PB #8 on the MPD. The
+VS mode is a nonranging HPRF waveform and is strictly for long range,
+front aspect detection. The waveform in VS is more sensitive than the
+waveform found in the HI mode; therefore, initial target detection should
+be greater using VS. Presentation of target information on the display is
+in terms of target relative ground speed (radial velocity) versus azimuth
+(Figure D-28). Target relative ground speed (TRGS) is that component of
+the target ground speed directly toward (away) from ownship.
+
+In VS, the target must be a front aspect target with 80 to approximately
+2400 knots of positive TRGS. For example, VS is the best search mode to
+use for high, fast flyers like the Foxbat. Once a VS lock on is achieved, the
+radar will continue to attempt to resolve range. When it does, the VS
+track will automatically transfer to normal STT.
+
+RDR-2 D - 38
+
+
+Text from RDR-2_APG-70_Introduction_page_45.jpeg:
+RANGE SELECTED TRGS, KTS
+
+VELOCITY SEARCH ——., STEERING DOT
+
+80
+VS
+
+S OF |
+ACQUISITION
+SYMBOL
+POSITION
+HI
+G 502 016.020 — T 533 G 502 T 533
+1. DETECTION, RADAR IN VS 2. INITIAL TRACK FROM VS
+
+(ANGLE & VELOCITY TRACK ONLY)
+
+¢ TRGS = TARGET RELATIVE
+GROUND SPEED
+¢ TRGS CHANGES AS ASPECT
+CHANGES FOR SAME TARGET.
+© OWNSHIP HEADING AND GROUND
+SPEED ARE NOT FACTORS
+
+RDR-02-22
+
+3. TARGET RELATIVE GROUND SPEED
+
+Figure D - 28. Velocity Search.
+
+D - 39 RDR-2
+
+
+Text from RDR-2_APG-70_Introduction_page_46.jpeg:
+Advantage
+It provides very distant radar contacts.
+Disadvantage
+
+There is no range information. Normal search is not available while using
+VS. There is no detection of targets without a positive TRGS.
+
+Limitation
+The system requires at least 80 knots of positive TRGS before it displays
+any targets on the radar scope. The steering dot and circle provide pure
+
+pursuit steering.
+
+Vector Scan (VCTR) Mode
+
+The fourth LRS mode, vector scan, is an all-HPRF RWS that changes to a
+slower antenna scan rate. It is mechanized for small RCS target
+detection, but will normally give longer range contacts than HI on any size
+target.
+
+Advantage
+
+The main advantage of vector scan is longer range pickups.
+
+Disadvantage
+
+Vector scan has poor beam and tail-on acquisitions, and due to its slow
+scan rate, takes a much longer time to search a volume of airspace.
+
+Limitation
+
+FM ranging is a limitation. Also, due to the slow scan rate, target
+Maneuvering may go undetected or create false targets.
+
+RDR-2 D - 40
+
+
+Text from RDR-2_APG-70_Introduction_page_47.jpeg:
+Highlight Mode
+
+A special highlight mode can be entered from search with the MRM
+selected, which provides track-like data for a target in search. To enter,
+bracket target with acquisition symbol and select quickstep (front cockpit
+coolie switch up for less than 1 second/rear cockpit castle switch depress
+for less than 1 second).
+
+NOTE
+
+Highlight provides track-like information and symbology; however
+the radar mode remains search. Launch of a missile from this mode
+
+will result in a flood AIM-7 or visual AIM-120 shot.
+
+When a target is highlighted, the radar enters a series of mini-rasters
+about the selected target. Once vector status is achieved on the target,
+mini-raster is exited. The radar then returns to the search bar, which was
+interrupted for the highlight and completes the current scan.
+
+Upon entry into the highlight mode, the acquisition symbol will stay
+latched to the highlighted target until moved to another location. The
+acquisition symbol will relatch if placed back over the highlighted target.
+
+A 3/4 intensity diamond is placed over the highlighted target on the
+display. The diamond receives a long heading vector if vector status is
+achieved (sufficient hits to determine heading information). While the
+highlighted target is identified, target data (true airspeed, aspect angle,
+and mag heading) is displayed at the top left of the A/A radar display.
+The highlighted target's altitude is displayed as a digital readout on the
+left side of the display, and a range caret and Vc (combined overtake) are
+displayed on the right side of the display. Target altitude, aspect angle,
+the range caret (with Vc) and the TD box are displayed on the HUD
+(Figure D-29). The weapon steering dot and weapon employment cue are
+displayed on the HUD and radar display; the ASE circle and break X are
+not displayed.
+
+D-41 RDR-2
+
+
+Text from RDR-2_APG-70_Introduction_page_48.jpeg:
+Highlight can be exited under the following circumstances:
+
+a.
+b.
+c.
+
+d.
+
+mo
+
+mode reject selected.
+
+exit MRM on weapon select switch.
+
+range bump such that highlighted target is beyond the selected
+range scale.
+
+select a radar mode other than MED, HI or INLV.
+
+command manual acquisition via TDC action.
+
+command Track-While-Scan.
+
+35 01
+weep
+305 __ — z % 80
+“7 500 17R 260 —
+é 85 yo
+= 8.2 993>)
+OI — Zo
+wa . & =
+F —< [| __3®
+FO gue" 19-1 17R
+—
+§ O} A4A sao R 47.0
+— 830 eae ~
+M ) 2.2 9.0G ‘
+—
+
+HIGHLIGHT SELECTED, ACQ SYMBOL
+CORRELATED TO HIGHLIGHTED TARGET
+
+GHG ml | l= RDR-02-23
+CORRELATED TO HIGHLIGHTED TARGET
+
+Figure D - 29. Highlight Mode, A/A Radar Display, A/A HUD.
+
+RDR-2
+
+
+Text from RDR-2_APG-70_Introduction_page_49.jpeg:
+Periodic Doppler Mode
+
+Although the INS is the main source of the radar's velocity data, the
+aircrew should be aware that HPRF search modes will periodically enter a
+doppler update mode. During this update, doppler GS updates the radar's
+velocity data and positions the radar's main lobe clutter (MLC) filters.
+There is no effect on GS or INS present position data. The update
+requires approximately 3 seconds to complete. During the update, as the
+display freezes, the aircrew will notice the azimuth and elevation carets
+move to 0°. During the 3-second period, the antenna drives down 15°
+below the INS horizon and alternately left or right 45°.
+
+The doppler update is fully automatic and occurs approximately every
+7 minutes. The only aircrew action that can prevent the update is to
+operate in an all medium PRF. The update mode is automatically
+inhibited in TWS and during the presence of jamming (AOJ). If the
+seven-minute timer expires during STT or HOJ extrapolate, the
+three-second update occurs 32 seconds after RTS.
+
+D - 43 RDR-2
+
+
+Text from RDR-2_APG-70_Introduction_page_5.jpeg:
+STUDENT PREPARATION REQUIREMENTS
+BEFORE CLASS
+
+1. Study the information contained in this workbook and complete the
+quiz.
+
+2. Review the references.
+
+C-1 RDR-2
+
+
+Text from RDR-2_APG-70_Introduction_page_50.jpeg:
+QUESTIONS
+
+1. The operable difference between medium PRF and high PRF
+corresponds to the difference between pulse radar and doppler radar.
+
+a. True
+b. False
+
+2. Theradar BIT informs the crew if
+
+the visual identification mode is bad.
+the AIM-9s are not tuned.
+
+HPRF is not operable.
+
+track transfer is bad.
+
+aos pe
+
+3. RDR HOT, when presented in the radar BIT window during airborne
+operations, requires that the radar be turned off if no longer needed
+
+for combat.
+a. TRUE
+b. FALSE
+
+4. The limiting factor in INLV is
+
+range ambiguity.
+
+tail aspect acquisition.
+short (40 nm) range.
+beam targets.
+
+pe op
+
+RDR-2 D - 44
+
+
+Text from RDR-2_APG-70_Introduction_page_51.jpeg:
+ANSWERS
+
+D- 45 RDR-2
+
+
+Text from RDR-2_APG-70_Introduction_page_52.jpeg:
+(This Page Intentionally Blank)
+
+RDR-2 D - 46
+
+
+Text from RDR-2_APG-70_Introduction_page_53.jpeg:
+END OF TEXT QUIZ
+
+PRF switching between medium and high PRF
+
+requires the close attention of the crew.
+has virtually no effect on radar contacts.
+is used to jam other radars.
+
+enables all-aspect radar contacts.
+
+ao oP
+
+The frame store control
+
+determines how bright the target appears.
+
+can cause highly maneuverable targets to disappear.
+affects the file number of the target.
+
+determines for how many frames a target is displayed.
+
+ao oP
+
+On the sensor control panel, the radar control knob in the ON
+position
+
+turns the radar on after 120 seconds warm-up.
+bypasses the protective interlocks, except WOW.
+tunes all missiles for 5 minutes.
+
+turns the radar on.
+
+Boop
+
+RDR-2
+
+
+Text from RDR-2_APG-70_Introduction_page_54.jpeg:
+© (OVOvOIoro
+
+|
+
+NOGO STATUS
+
+CHANS BAD 1
+AIM-7 F
+
+ea {Oil
+
+fe)
+fe)
+Zz
+S
+
+FeeeE
+
+Figure F - 1.
+
+RDR-02-24
+
+Use the above figure for the next 2 questions.
+4. This matrix readout indicates
+
+interleaved PRF is inoperative.
+the AIM-120 capability is limited.
+velocity search is inhibited.
+medium PRF is only intermittent.
+
+pe op
+
+5. According to this display,
+
+a. the master duplicating code is 123.
+b. RGH is inoperative.
+
+c. | the A/G map function is broken.
+
+d. band/channel A& is bad.
+
+RDR-2 E-2
+
+
+Text from RDR-2_APG-70_Introduction_page_55.jpeg:
+cow 9voOOoOrn
+
+6HI
+
+fe] ._V
+G 485 275-005
+RGH
+
+RDR-02-25
+
+Figure F - 2.
+
+Use the above figure for the next 2 questions.
+
+6. Ground controlled intercept (GCI) has just informed you that you
+have a target 25° right, 35 miles, at 20,000 feet. Using the radar
+scope above, will you be able to see the target?
+
+7. | Which radar search mode is the most appropriate for long range
+acquisition on high aspect angle targets?
+
+a. HI
+
+b. MED
+
+ce. FLOOD
+d. RGH
+
+E-3 RDR-2
+
+
+Text from RDR-2_APG-70_Introduction_page_56.jpeg:
+8. During your preflight radar BIT, you saw the “HI” and “INLV”
+written under NOGO STATUS. What is the most appropriate short
+range search mode?
+
+a. HI
+b. MED
+ce. INLV
+d. VS
+
+RDR-2 E-4
+
+
+Text from RDR-2_APG-70_Introduction_page_57.jpeg:
+AOJ
+
+BAR
+
+BBR
+
+BIT
+
+BRA
+
+BST
+
+CHAN
+
+CMD
+
+D-TWS
+
+EID
+
+EL
+
+EP
+
+EWWS
+
+FM
+
+FS
+
+GDS
+
+GMTR
+
+HD-TWS
+
+HI
+
+HOJ
+
+GLOSSARY
+Air-to-air interrogator
+Angle of jam
+Basic antenna raster
+Bullseye bearing and range
+Built-in test
+Bearing, range, and altitude
+Boresight
+Channel
+Countermeasures dispenser
+Designated TWS
+Enhanced identification
+Elevation
+Electronic Protection
+Electronic warfare warning set
+Frequency modulated
+Frame store
+Gun director sight
+Ground moving target rejection
+High data TWS
+High
+
+Home on jam
+
+RDR-2
+
+
+Text from RDR-2_APG-70_Introduction_page_58.jpeg:
+HPRF
+
+INLV
+
+LRS
+
+MED
+
+MI
+
+MLC
+
+MPRF
+
+MRM
+
+N-TWS
+
+NCTR
+
+PRF
+
+RGH
+
+SNF
+
+SRM
+
+SRS
+
+SS
+
+STT
+
+TDC
+
+VCTR
+
+VS
+
+RDR-2
+
+High pulse repetition frequency
+Interleaved
+Long range search
+Medium
+Mutual interference
+Main lobe clutter
+Medium pulse repetition frequency
+Medium range missile
+Normal TWS
+Noncooperative target recognition
+Pulse repetition frequency
+Range gated high
+SNIFF
+Short range missile
+Short range search
+Supersearch
+Single target track
+Target designator control
+Track-while-scan
+Vector
+Visual identification
+
+Velocity search
+
+
+Text from RDR-2_APG-70_Introduction_page_59.jpeg:
+VS BST Velocity search boresight
+VTS Vertical scan
+
+WOW Weight on wheel
+
+F-3 RDR-2
+
+
+Text from RDR-2_APG-70_Introduction_page_6.jpeg:
+(This Page Intentionally Blank)
+
+RDR-2 C-2
+
+
+Text from RDR-2_APG-70_Introduction_page_7.jpeg:
+TEXT
+F-15E RADAR INTRODUCTION
+Description
+
+The F-15E radar is a high frequency, pulse doppler, attack radar. Its
+design is optimized for both air-to-ground and air-to-air combat. In the
+air-to-air mode, the radar provides target range, range rate and angular
+rates to the CC for attack computations. The CC digitally produces and
+displays radar targets on the MPD based on radar information. Radar
+controls are available on the MPD/MPCD and HOTAS. The radar
+operates with utility A hydraulics and main generator power.
+
+Multifrequency
+
+The F-15E radar is a multifrequency radar. The capability exists to
+spread the operating frequency across a wide band of the electromagnetic
+spectrum. This reduces mutual interference and enhances jamming
+avoidance. The radar's band is selectable on the MPD/MPCD with PB #20
+(Figure D-1). The channel is selectable with PB #19. The combination of
+band/channel selection determines the radar operating frequency in
+search.
+
+D-1 RDR-2
+
+
+Text from RDR-2_APG-70_Introduction_page_8.jpeg:
+Interference
+
+Mutual radar interference is likely with F-15E radars operating on the
+same frequency (Figure D-1). To prevent mutual interference (MI), widely
+separated bands and channels will be assigned during the premission
+brief.
+
+AIM-7 problems due to mutual interference are a potential problem within
+an individual flight. Ifthe flight's frequencies are too close together, one
+radar can degrade the AIM-7 performance of another. You can reduce
+potential problems by selecting radar channels as widely separated as
+possible.
+
+BAND CHANNEL
+
+MI CUE
+AOJ STROBE
+
+Feeeel
+
+RDR-02-01
+
+Figure D - 1. Electronic Interference.
+Multi PRF
+
+The APG-70 uses different PRFs to perform its various functions. Specific
+aspects and ranging functions have their own assigned PREF.
+
+Aspect
+
+High PRF (HPRF) provides the high aspect, nose-on capability of doppler
+radar. Medium PRF (MPRF) improves the all-aspect capability.
+
+RDR-2 D-2
+
+
+Text from RDR-2_APG-70_Introduction_page_9.jpeg:
+Ranging
+
+High PRF ranging in radar search is done in accordance with the FM
+ranging process discussed in the RDR-2 lesson. Medium PRF ranging is
+done by the pulse method of timing. The radar uses multiple PRFs to
+reach an accord on the exact range before displaying the target.
+
+Search
+
+In addition to HPRF or MPRF search, the F-15E is capable of a
+combination PRF search. This interleaved PRF uses both high and
+medium PRF waveforms. Multiple PRF search improves the all-aspect
+detection capability, but at a price. Often the same target appears at
+different ranges on the display (range ambiguity). This is due to the type
+of PRF (high or medium) at the time of acquisition.
+
+Phase Comparison Monopulse
+
+The F-15E radar is a phase comparison monopulse tracker (Figure D-2).
+It is very similar to the monopulse radar discussed previously. The sine
+wave phase comparison of the reflected energy determines azimuth and
+elevation errors.
+
+SUM OF 1 AND 3 COMPARED TO SUM OF 2 AND 4 = AZIMUTH ERROR
+
+SUM OF 1 AND 2 COMPARED TO SUM OF 3 AND 4 = ELEVATION ERROR
+
+SUM AND
+DIFFERENCE
+cb HYBRID
+
+Oa
+
+PLANAR ARRAY ANTENNA
+— PHASE ANGLE TRACKER
+
+RDR-02-02
+
+Figure D - 2. Phase Comparison Monopulse Tracker.
+
+D-3 RDR-2
+
+

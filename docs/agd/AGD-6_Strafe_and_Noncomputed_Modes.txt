@@ -1,0 +1,1416 @@
+Text from AGD-6_Strafe_and_Noncomputed_Modes_page_1.jpeg:
+SUPPORTS COURSES
+FIS5EBQ
+
+FISETX
+
+FISESOC
+
+ACADEMIC STUDENT WORKBOOK
+F-15E
+
+AIR-TO-GROUND DELIVERY
+AGD-6
+STRAFE AND NONCOMPUTED MODES
+
+MAY 1999
+
+(SUITE 3 OFP)
+
+AIR COMBAT COMMAND
+
+
+Text from AGD-6_Strafe_and_Noncomputed_Modes_page_10.jpeg:
+HUD: While in the A/G master mode, select a PACS program with no
+stations selected. Take command of the HUD and thumb aft on the FCP
+auto acq switch. This selects CDIP GUN and the HUD data block
+displays the legend GUN. There is no RDY on the armament display, and
+master arm switch to ARM is not required for the GUN legend. The only
+head-up display indication of the master arm switch in ARM is the
+presence of the gun cross. The reticle has no DIL attached (Figure D-3).
+
+Rounds remaining, the current ranging source, and the analog bar/slant
+range (if available) are also displayed.
+
+RETICLE
+(AGR OR LAS)
+
+18 1415
+ROUNDS
+COUNT 25 Cy
+400 “A
+b 10.5
+30 —— ~~-130
+
+35L—— —~W35 7200
+IN CMD TGT 4.A
+
+400P G 1.2
+680 — 00:10 TTGT
+9 9.0G ibe" Sl GUN AGR
+
+CDIP GUN ee
+
+CURRENT RANGING SOURCE
+Figure D - 3. HUD, CDIP GUN (High Angle Strafe).
+Trigger: In flight, consider the FCP trigger “hot” anytime the gun is
+
+mechanically/electrically armed and the master arm switch is in ARM
+
+(gun cross ON), regardless of the status of the A/A or A/G PACS
+(TRNG/CMBT mode).
+
+AGD-6 D-4
+
+
+Text from AGD-6_Strafe_and_Noncomputed_Modes_page_11.jpeg:
+MANUAL GUN
+
+The MANUAL GUN mode for A/G strafe provides a backup capability
+(aiming reference) when the CC or PACS has failed or the CDIP reticle is
+not functioning properly. The following switches and actions are required.
+
+A/G Master Mode: The A/G master mode enables the bombing circuitry
+and must be selected to obtain an A/G sight. (Selecting a MANUAL
+position with the selective jettison knob automatically selects the A/G
+master mode).
+
+Selective Jettison Knob: To obtain a fixed depressible sight for A/G strafe,
+select MANUAL delivery mode (MAN FF or MAN RET) on the ACP, with
+either SRM or MRM selected on the weapons select switch (not GUNS).
+
+FCP MPCD: When the selective jettison knob is moved to a manual
+release mode, the FCP MPCD reverts to a manual PACS display
+
+(Figure D-4). The previously selected gun rate of fire is used. The PACS
+selected bullet type is of no consideration.
+
+MANUAL
+
+(A) ACP (B) FCP MPCD
+
+AGD-06-04
+
+Figure D - 4. Armament Display (MANUAL).
+
+D-5 AGD-6
+
+
+Text from AGD-6_Strafe_and_Noncomputed_Modes_page_12.jpeg:
+A/G Delivery Display: The fixed depressible sight mil setting is set and
+read on the A/G delivery display (Figure D-5) (if available).
+
+AGD-6
+
+® IOUIGICIGICN
+
+SUU20N SUU20N
+1 1
+
+1)
+
+1 BDU33 A/G DLVRY 1 BDU33
+
+PROG
+PAGE
+
+LOFT 0° AT 0°
+TARM 6.5 SEC CT 0°
+RET
+
+25 AUTO PRIOR STATUS
+
+[1] VAL
+MRA AGR SAN
+sence sys VAL
+
+WO
+
+SYSB 12384'
+WIND 270°/023
+TIME = 15:30:20
+
+PROG 1
+CDIP STEP
+
+AACBT [AIGCBT |
+JOPPA
+
+A/G DELIVERY DISPLAY
+
+i
+
+® <i
+
+AGD-06-05
+
+Figure D - 5. A/G Delivery Display.
+
+
+Text from AGD-6_Strafe_and_Noncomputed_Modes_page_13.jpeg:
+If the CC fails (probably the major reason for using a manual sight), the
+MPDP is used as a backup. RET 0 replaces GCWS on UFC Menu 2, and
+the desired reticle depression angle (0-250 mils) can be entered on the
+
+UFC backup Menu 2 (Figure D-6). Twenty-six mils is an approximate
+“hip pocket” mil setting.
+
+NVC OFF
+
+ILS 109.10
+
+_| (PP-INS
+
+_| | U228.300 U379.875Gx
+
+Ololololo
+
+AGD-06-06
+
+Figure D - 6. UFC Backup Menu 2.
+
+D-7 AGD-6
+
+
+Text from AGD-6_Strafe_and_Noncomputed_Modes_page_14.jpeg:
+Master Arm Switch: The master arm switch must be placed to ARM.
+
+HUD: A fixed depressible sight is displayed in the HUD. “MANUAL” is
+displayed in the lower right corner of the HUD, regardless of the position
+of the master arm switch. The gun cross, with the master arm switch in
+ARM will be displayed with CC failure (Figure D-7), but will not be
+displayed with most PACS failures. If AGR or LASER ranging is
+available, it will be measured along the pipper LOS and presented as a
+reticle range/analog bar. To achieve ranging, the pilot must be in
+
+command of the HUD. With CC failure, neither AGR nor LASER range
+will be available.
+
+17
+
+ry a
+
+25 L—-- -~125
+Om
+
+385-—— ——~1185
+
+NAV 1
+N2.5
+
+MANUAL
+40_-—— ~~~ 40
+
+DOES NOT REQUIRE
+MASTER ARM ON
+
+AGD-06-07
+
+Figure D - 7. HUD - MANUAL (With CC Failure).
+
+AGD-6
+
+
+Text from AGD-6_Strafe_and_Noncomputed_Modes_page_15.jpeg:
+Strafe
+
+Due to its upward cant, the gun system of the F-15E is not optimized for
+A/G strafe. For a gun canted at or below the velocity vector, the pipper
+moves toward the velocity vector from below as range decreases. For a
+gun canted above the velocity vector, the pipper moves toward the velocity
+vector from below only at very long range. At employment range, the
+pipper moves above and away from the velocity vector. Finally, at shorter
+ranges, the pipper moves toward the velocity vector from above
+
+(Figure D-8). At effective strafe ranges, the velocity vector is short of the
+target. This situation can result in very low pullouts. The more shallow
+the dive angle, the more severe the problem. Strafe angles of less than
+about 15° are uncomfortable.
+
+(A) DOWN CANT (B) UP CANT
+
+AGD-06-08
+
+Figure D - 8. Pipper Versus Flight Path.
+
+Approach
+
+The target may be approached from virtually any altitude or heading. It
+is not necessary to designate the target but a TD diamond and command
+heading may help in locating an obscure target. You must fly the airplane
+to a position from which you can achieve your planned dive angle with
+your velocity vector short of the target at the aim-off distance (Figure D-9)
+and the pipper above the velocity vector (Figure D-10).
+
+D-9 AGD-6
+
+
+Text from AGD-6_Strafe_and_Noncomputed_Modes_page_16.jpeg:
+/ OPEN FIRE
+
+CEASE FIRE
+
+AGD-06-09
+
+Figure D - 9. High Angle Strafe.
+
+13 14 15
+Ligiiiiiity
+25
+
+LLLIIt
+25 L-AK 4!
+6
+
+b 10.5
+30L —— ~~-130
+
+35L—— —~135 11000
+TGT 4.A
+IN CMD
+G 1.5
+— 00:10 TTGT
+GUN AGR
+
+Se 40_-—— —~~~140
+
+AGD-06-10
+
+Figure D - 10. CDIP GUN Rollout (High Angle Strafe).
+
+AGD-6
+
+
+Text from AGD-6_Strafe_and_Noncomputed_Modes_page_17.jpeg:
+Tracking and Firing
+
+As you close on the target with the velocity vector held on the aim-off
+point, the pipper moves up toward the target. As the pipper reaches the
+target, hold it there momentarily and squeeze the trigger. Continue to
+hold the pipper on the target while firing (Figure D-11). For consistent
+results, maintain planned airspeed and fire at the appropriate range. If
+the rudder is used while strafing, the bullets will move approximately 80%
+of the rudder input. Firing ranges for 30° strafe are approximately
+7000-8000 feet slant range, and approximately 8000-9000 feet for 20°
+strafe. Long slant ranges like these are not very effective for 20 mm.
+These ranges are based on the M56 bullet. For weapons effect, PGU-28
+will move the ranges out 300-500 feet.
+
+abe ett R3500
+
+35L-—— ——~135 7500
+
+IN CMD a4 .
+350P :
+710 — 00:08 TTGT
+9 9.0G 40L-—— —~W1140 GUN AGR
+
+AGD-06-11
+
+Figure D - 11. CDIP GUN Firing (High Angle Strafe).
+
+Frag patterns and ricochet patterns are directly affected by the type of
+target. Harder surfaces produce more ricochets, while explosive targets
+can produce huge frag patterns. The bullet ricochet pattern to be avoided
+is a 500 foot diameter bubble and a +30° cone at 12 o’clock to the target.
+The chances of a bullet ricochet hitting your jet go up as you fly 12 o’clock
+to the target.
+
+D-11 AGD-6
+
+
+Text from AGD-6_Strafe_and_Noncomputed_Modes_page_18.jpeg:
+Egress/Reattack
+
+A good aggressive pulloff (5 Gs in 2 seconds) is required to avoid bullet
+ricochets. It is important to pull the nose well above the horizon (20°)
+even if you intend to egress at low altitude. Once you have cleared the
+ricochet area you can return to low altitude. If a reattack is required,
+steering is available if the target had been designated. Squeezing the
+trigger does not designate a target.
+
+Malfunctions
+Failure to Fire
+
+Check the master arm switch and RCP circuit breakers (Gun Trigger
+Power, Last Round Power, Master Arm Logic Power). Check that A/G
+CMBT and A/A CMBT are selected on the PACS.
+
+Runaway Gun
+
+In the event of uncommanded firing or failure to stop firing, point the gun
+in the safest direction while turning off the master arm switch. Safe the
+gun and do not attempt to fire the gun again.
+
+Jammed Gun
+
+WARNING
+
+Unscheduled gun stoppage during firing
+constitutes a possible hazardous condition
+and is cause to terminate gun operation
+for remainder of the flight. Stoppages can
+be caused by malfunctions such as
+rupture of round cartridge cases and
+consequent dispersal of gun powder in the
+gun compartment. Further operation of
+the gun after a stoppage could make a
+hazardous condition worse or cause a
+minor problem to develop into a
+hazardous condition.
+
+AGD-6 D-12
+
+
+Text from AGD-6_Strafe_and_Noncomputed_Modes_page_19.jpeg:
+PACS/Mux Bus Failure
+
+If the BIT page reveals a PACS mux bus code; i.e., PACS 2A, attempt to
+clear by a CC mux bus clear (from the BIT MAINT AUDIT display), PACS
+recycle and/or CC reset. An uncleared mux bus fault may inhibit selecting
+an A/G CDIP GUN sight.
+
+Will Not Safe
+
+With the master arm in SAFE, if the HUD displays rounds remaining,
+rather than XXX and/or a gun cross, assume the gun is armed. Do not
+turn the master arm switch to ARM unless planning to fire the gun. Pull
+the previously mentioned RCP circuit breakers and select A/A TRNG and
+A/G TRNG on the PACS. Obviously, avoid the FCP trigger.
+
+WARNING
+
+If the HUD gun cross remains visible
+after selecting master arm SAFE, the
+weapon release button and trigger
+circuits are ARMED.
+
+D-13 AGD-6
+
+
+Text from AGD-6_Strafe_and_Noncomputed_Modes_page_2.jpeg:
+ADMINISTRATIVE INFORMATION
+
+This student workbook is designed to provide information on the F-15E,
+its systems, and capabilities. It is not a sole source document, but is to be
+used in conjunction with other standard Air Force publications and
+technical manuals. If you find any differences between the material
+contained herein and other governing regulations, adhere to the
+regulations and notify the OPDR.
+
+Changes to this workbook are indicated with a heavy black line in the left
+margin.
+
+Forward recommendations for revision or change to 4 TS, SJAFB, NC,
+275381.
+
+Supersedes: AGD-6, July, 1998
+
+OPDR: 4TS
+
+Index of Changes
+
+Effective Date Pages Affected
+
+
+
+Text from AGD-6_Strafe_and_Noncomputed_Modes_page_20.jpeg:
+QUESTIONS
+
+1. When the gun is armed, the master arm switch is in ARM, and A/A
+CMBT and A/G CMBT are selected on the PACS, the gun can be fired
+in flight
+
+a.
+b.
+
+e
+
+only in the A/A or A/G master modes.
+
+anytime in the A/A master mode and in the A/G master mode
+when all stations on the PACS are unboxed.
+
+in any master mode, anytime the trigger is squeezed.
+
+in all master modes except INST.
+
+2. CDIP gun is HOTASable when
+
+pe op
+
+the pilot is in command of the HUD.
+
+a CDIP PACS program is selected with all stations unboxed.
+the A/G master mode is selected.
+
+all of the above are required.
+
+3. While strafing using CDIP GUN, when does squeezing the trigger
+
+redesignate the target?
+
+a. Never
+
+b. Always
+
+c. Always, except with TTGT showing in the HUD
+
+d. Only if the previous designation was accomplished using CDIP
+
+4. While strafing, A/G ranging is available (if the pilot is in command of
+
+the HUD)
+
+a. in CDIP GUN.
+
+b. in MANUAL (if a failure, like CC failure, does not preclude it).
+c. in A/A gun.
+
+d. Bothaandb.
+
+AGD-6
+
+
+Text from AGD-6_Strafe_and_Noncomputed_Modes_page_21.jpeg:
+5. During a typical strafe pass in the F-15E, the pipper is initially
+a. onthe target and velocity vector.
+
+b. long of the target and short of the aim-off point (velocity vector).
+c. short of the target and long of the aim-off point (velocity vector).
+
+D-15 AGD-6
+
+
+Text from AGD-6_Strafe_and_Noncomputed_Modes_page_22.jpeg:
+ANSWERS
+
+1. ¢
+2. d
+3. a
+4. d
+5. ¢
+
+AGD-6 D-16
+
+
+Text from AGD-6_Strafe_and_Noncomputed_Modes_page_23.jpeg:
+NONCOMPUTED DELIVERY MODES
+
+You will not often have the opportunity or the desire to use the
+noncomputed bombing modes in the F-15E. The computed system
+reliability is such that failure of the computed modes is rare. Further,
+with the exception of PACS or CC failure, most failures which would
+compromise the computed modes will also negate the manual modes.
+
+The noncomputed modes available to you for bomb delivery are DIRECT
+and MANUAL. When these modes are employed, the central computer is
+not used to generate and display a bombing solution. These noncomputed
+modes are backup modes, not alternate modes; they are incorporated to
+provide a means for you to release armed munitions in the event you
+suffer a PACS and/or CC failure in, or approaching, the target area. The
+DIRECT mode provides the capability to practice “manual” bombing using
+a SUU-20.
+
+DIRECT
+
+The primary function of the DIRECT mode is to remove the CC generated
+ballistics from the bombing solution, so that you can practice “manual
+bombing.” The reticle is commanded to be displayed in a fixed position as
+set on the program page of the A/G delivery display. Bomb release occurs
+as soon as the pickle button is depressed. The pilot must achieve
+preplanned parameters associated with the mil setting for a valid solution
+to exist. This mode is available only with the SUU-20 bomb dispenser or
+GBU-24/28 selected on the PACS.
+
+Required Equipment
+
+In order to have the DIRECT mode available, the following equipment
+must be functional: CC, MPDP, PACS, and at least one MPD/MPCD. To
+be able to achieve parameters, the HUD, ADC/ADP and INS or EGI must
+also be functional.
+
+Although the CC does not generate the bombing solution, it commands the
+reticle to be displayed at the entered depression angle. The reticle is
+created within the MPDP and displayed on the HUD. In short, it takes a
+lot of equipment just to have a reticle as an aiming device.
+
+An MPD/MPCD is required to program the PACS for a direct delivery and
+to select ordnance and release sequencing.
+
+D-17 AGD-6
+
+
+Text from AGD-6_Strafe_and_Noncomputed_Modes_page_24.jpeg:
+Required delivery parameters include airspeed, altitude, angle of attack,
+and delivery angle. The ADC/ADP is needed to have accurate airspeed
+and altitude information. The INS/EGI is your source of attitude
+information.
+
+So, if all the above mentioned equipment is working, you have an aiming
+device, a way to select the DIRECT mode, and a way to determine delivery
+
+parameters.
+
+Switches/Controls
+
+The following is a look at the switches and actions involved in setting up
+the DIRECT mode.
+
+A/G Master Mode: The A/G master mode enables the bombing circuitry
+and must be selected to release air-to-ground ordnance in any delivery
+mode.
+
+MPD/MPCD: You must use an MPD/MPCD to program the PACS. You
+must set up a DIRECT program (SUU-20 or GBU-24/28 only) to include
+ordnance stations and desired release sequencing.
+
+A/G Delivery Display: Mils can be input only through the A/G delivery
+display, adjacent to PB #2. To change the mil setting, enter the desired
+value (0 to 250) into the UFC scratchpad and depress PB #2. The new
+value is sent to the CC.
+
+Master Arm Switch: The master arm must be placed to ARM to enable
+the release circuits and obtain a PACS RDY.
+
+Pickle Button: The last step to initiate a release is to depress the pickle
+button on either cockpit control stick.
+
+Release Programming
+
+Full PACS capability must exist to have DIRECT available. Establish a
+DIRECT program. For the SUU-20 only, if DIRECT is selected, the STEP
+release sequence is automatically selected. 1/STA, RPL SGL and RPL
+MPL are unavailable if DIRECT is selected with a SUU-20.
+
+AGD-6 D-18
+
+
+Text from AGD-6_Strafe_and_Noncomputed_Modes_page_25.jpeg:
+Displays
+
+To use the DIRECT bombing mode, you need an armament display on an
+MPD/MPCD, the UFC, and the HUD.
+
+Armament: You can bring up an ARMT display (Figure D-12) on any
+MPD/MPCD. You must have a DIRECT program selected with at least
+one SUU-20, GBU-24, or GBU-28 loaded station boxed. If the pilot is in
+command of the HUD during GBU-24/28 operations, pulling aft on the
+auto acq switch cycles between AUTO and DIRECT delivery modes. You
+must also have a RDY indication next to PB #11 which indicates the
+master arm is in ARM and the PACS is ready.
+
+SEL 1 BDU33 1 BDU33
+
+Jerr Bor
+
+COMBAT A/ACMBT CTR
+
+AT 0°
+TARM 6.5 SEC CT 0°
+
+PROG 1
+DIRECT STEP
+OPTIONS
+
+AGD-06-12
+
+Figure D - 12. Armament Display (DIRECT).
+
+D-19 AGD-6
+
+
+Text from AGD-6_Strafe_and_Noncomputed_Modes_page_26.jpeg:
+You must select the A/G delivery display (Figure D-13) to check/set sight
+depression. Remember, this is the only place you can read the mil setting.
+
+UALR
+
+SUU20N
+1 BDU33 A/G DLVRY
+PROG
+
+PAGE
+
+1
+1 BDU33
+
+LOFT 0° AT 0°
+
+TARM 6.5 SEC CT 0°
+AUTO PRIOR STATUS
+
+VAL
+
+AGR SAN
+
+sys VAL
+
+SYSB_ 12384'
+
+WIND 270°/023
+TIME = 15:30:20
+DIRECT
+
+STEP
+A/A CBT
+
+AGD-06-13
+
+Figure D - 18. A/G Delivery Display (mils)
+
+AGD-6 D - 20
+
+
+Text from AGD-6_Strafe_and_Noncomputed_Modes_page_27.jpeg:
+HUD: The HUD (Figure D-14) displays the reticle at the selected
+depression angle. This is an “iron” sight and does not move on the HUD;
+it is just like any other fixed depressible sight you may have used.
+“DIRECT” appears in the lower right corner of the HUD if it is the
+selected mode and only if the PACS is ready. Presence of the gun cross is
+a further indication the master arm is in ARM. Since the CC is required
+to obtain the DIRECT mode, many of the features available in the
+computed modes are available—a designated target, LASER ranging, or
+AGR, for example. Pickling in DIRECT does not designate the target like
+it does in CDIP or undesignated AUTO. However, since the DIRECT
+mode simulates using the MANUAL mode with combat ordnance, for a
+true simulation you may not want to use features not available when
+MANUAL was required because of avionics failures.
+
+15
+L
+
+ee | anal
+
++
+5-— —15
+
+5L-- --45
+
+.630 NAV 1.A
+1.0 9.0G N 5.1
+
+L a]
+10 £3 10 DIRECT
+
+AGD-06-14
+
+Figure D - 14. HUD (DIRECT).
+
+D-21 AGD-6
+
+
+Text from AGD-6_Strafe_and_Noncomputed_Modes_page_28.jpeg:
+MANUAL
+
+The primary function of the MANUAL modes is to bypass a failed CC or
+PACS. It uses hardwired circuits to the weapons stations. The CC’s
+ballistic computations are removed from the bombing solution. The mode
+essentially provides a way to release armed ordnance in the event of a
+major failure. The reticle is displayed at the depression set on the UFC.
+Bomb release occurs as soon as the pickle button is depressed. The pilot
+must achieve preplanned parameters associated with the mil setting for a
+valid solution to exist. This mode cannot be used to release bombs from a
+SUU-20 since the release pulse is sent to the BRU-47 breeches, rather
+than the SUU-20. If the BRU-47 was carted (it normally is not with a
+SUU-20 loaded), a release pulse would release the SUU-20.
+
+Required Equipment
+
+To enter the MANUAL mode requires only that the selective jettison knob
+be rotated to a manual release mode. However, to have a reticle, the
+MPDP and HUD must be functional. To be able to achieve parameters,
+the ADC/ADP and INS or EGI must also be functional. The UFC is
+required to set the mils (assuming you are using MANUAL because the
+CC has failed).
+
+Just as in the DIRECT mode, the reticle is displayed at the entered
+
+depression angle. The reticle is created in the MPDP and displayed on the
+HUD.
+
+To determine airspeed, altitude, and attitude for release, you need the
+ADC/ADP and the INS or EGI.
+
+If the above equipment is functional, you have a way to select the mode,
+aim the bomb, and determine delivery parameters.
+
+Switches/Controls
+
+Next is a look at the switches and actions required to set up the MANUAL
+mode.
+
+Selective Jettison Knob: This knob, located on the armament control
+
+panel, is rotated to either MAN RET or MAN FF to select the MANUAL
+mode.
+
+AGD-6 D - 22
+
+
+Text from AGD-6_Strafe_and_Noncomputed_Modes_page_29.jpeg:
+A/G Master Mode: The A/G master mode enables the bombing circuitry
+and must be selected to release ordnance in any delivery mode. With CC
+
+failure, selectable master modes are unavailable, but selection of
+MANUAL also selects the A/G master mode.
+
+FCP MPCD: When the selective jettison knob is moved to one of the MAN
+release modes, the FCP MPCD reverts to a MANUAL PACS display and
+the top row of pushbuttons (PBs #16-20) are activated. These PBs are
+used to select weapons loaded stations.
+
+UFC: With an operative CC, mils can be set on the A/G delivery display
+adjacent to PB #2. To change the mil setting, enter the desired value (0 to
+250) into the scratchpad and depress PB #2. The new value is shown on
+the display and sent to the CC. If the CC fails, the sight depression angle
+defaults to 0 mils and the reticle depression angle can be entered on the
+UFC backup Menu 2. (The A/G delivery display is unavailable with CC
+failure).
+
+Master Arm Switch: The master arm must be placed to ARM to enable
+the release circuits.
+
+Pickle Button: To initiate a release, depress and hold the pickle button on
+either cockpit control stick. With no way to program the number of bombs
+to be released or to monitor the number of bombs actually released, the
+pickle button must be held long enough to ensure all selected stations
+empty.
+
+Release Programming
+
+Only limited release programming is available in the MANUAL mode and
+is obtained by selection of MAN RET or MAN FF.
+
+MAN RET: Weapons stations are as selected on the FCP MPCD. Only
+the tail fuze solenoid is activated. Bombs are released in a ripple multiple
+mode with one bomb being released from each selected station
+simultaneously, until all bombs are released (or the pickle button is
+released). The release interval is fixed at a range of 200 to 260 ms (230
+Ms nominal).
+
+D - 23 AGD-6
+
+
+Text from AGD-6_Strafe_and_Noncomputed_Modes_page_3.jpeg:
+AIR-TO-GROUND DELIVERY
+
+COVER
+
+STRAFE AND NONCOMPUTED MODES
+
+INTRODUCTION
+
+This workbook is your guide to strafe and the noncomputed bombing
+modes available in the F-15E.
+
+CONTENTS:
+
+INTRODUCTION 0000. eeecccesnceceeseeceseeeessaeecssaeecessaeeessaesensaeesesaeeens A-1
+CRITERION REFERENCED OBJECTIVES (CROs).............eeeeseeeeeeeeees B-1
+STUDENT PREPARATION REQUIREMENTS . 0.000. eeeeeeeeeee C-1
+CEE os ses sans sos cores nos nas ois cua cares canis ans as RSA SNS Onis aU KUNE kK NewS SHES KoRKG MU NaS HSS aUD KR D-1
+END OF TEXT QUIZ... ceeseeeeseecessneecssaeecessaeesessaeeseseeeeeaees E-1
+(ina) F-1
+
+A-1 AGD-6
+
+
+Text from AGD-6_Strafe_and_Noncomputed_Modes_page_30.jpeg:
+MAN FF: Weapons stations are as selected on the FCP MPCD. Only the
+nose and center fuze solenoids are activated. Bombs are released in a
+ripple multiple mode with one bomb being released from each selected
+station simultaneously, until all bombs are released (or the pickle button
+is released). The release interval is fixed at a range of 60 to 80 ms (70 ms
+nominal).
+
+NOTE
+
+If CBU type ordnance is loaded, MAN FF must be selected to get an
+armed weapon for canister opening (there is no way to get nose and tail
+arming in MANUAL). This will cause the fuzes to function on time
+
+which may result in earlier than desired canister openings. Also,
+ripple intervals may be below the minimum interval required in
+Section V of the Dash 1.
+
+AGD-6 D - 24
+
+
+Text from AGD-6_Strafe_and_Noncomputed_Modes_page_31.jpeg:
+Displays
+
+If the UFC is inoperative with CC failure, weapons can still be released,
+but the “iron sight” in the HUD will be displayed at zero setting (with CC
+failure, the mil setting defaults to zero). If the HUD is inoperative, no
+head-up display will be available, although a HUD repeater may be
+available on an MPD/MPCD (not available with CC failure).
+
+Armament: The FCP MPCD automatically reverts toa MANUAL PACS
+display (Figure D-15) when the selective jettison knob is rotated to a MAN
+position. The display has the word “MANUAL” printed in the center. The
+top row of PBs is usable to select weapons stations even if the display
+itself is not working. These PBs are internally lighted and are lit if a
+station is selected. The FCP MPCD is frozen while in MANUAL and
+cannot be changed until the SEL JETT knob is rotated out of the MAN
+mode.
+
+MANUAL
+
+(A) ACP (B) FCP MPCD
+
+AGD-06-15
+
+Figure D - 15. Armament Display (MANUAL).
+
+D - 25 AGD-6
+
+
+Text from AGD-6_Strafe_and_Noncomputed_Modes_page_32.jpeg:
+If any other MPD/MPCD has an ARMT display up when the SEL JETT
+knob is rotated to a manual release mode, the display reverts to the basic
+display menu and the ARMT option at PB #2 is removed. Since the
+ARMIT option is deleted from the display menu, no MPD/MPCD other than
+the FCP MPCD can display ARMT information while the SEL JETT knob
+is in MAN.
+
+A/G Delivery Display: To check or set sight depression mils (CC
+operative), you must be on the A/G delivery display. The currently
+selected mil setting is next to PB #2. Use a transfer from the UFC
+scratchpad to set the mils.
+
+If the CC fails, the MPDP is used as a backup to provide a UFC. The
+sight depression angle defaults to 0 mils, and the reticle depression angle
+can be entered on the UFC backup Menu 2 (Figure D-16).
+
+= JVC OFF
+
+oO RET 25 Lr}
+(—) {ILS 109.10 L{ |
+
+_| [PP-INS
+
+_| (0228300 U379.875Gx | L,
+
+C11
+
+IIE
+
+AGD-06-16
+
+Figure D - 16. UFC Backup Menu 2 Display (CC Inoperative).
+
+AGD-6 D - 26
+
+
+Text from AGD-6_Strafe_and_Noncomputed_Modes_page_33.jpeg:
+HUD: The HUD (Figure D-17) displays the reticle at the selected
+depression angle. This “iron” sight will not float on the HUD and is like
+any depressible sight you may have used in the past. The legend
+“MANUAL?” appears in the lower right corner of the HUD as soon as the
+SEL JETT knob is rotated to a manual release mode. Since this mode
+essentially goes around the PACS, the PACS is not checked for a ready
+condition and the master arm does not have to be in ARM to get the
+legend. There is no pullup (for lofts) cue in MANUAL. If you are using
+MANUAL because the CC is inoperative (the normal reason), there is a
+gun cross with the master arm in ARM. Ifthe CC is operative but the
+PACS is failed, a gun cross may or may not be displayed, depending on the
+failure.
+
+PP,
+
++
+5™_ —715
+
+—4:—
+
+N 5.1
+
+10 £10 MANUAL
+
+DOES NOT REQUIRE
+MASTER ARM ON
+
+AGD-06-17
+
+Figure D - 17. HUD - MANUAL (With CC Failure).
+
+D-27 AGD-6
+
+
+Text from AGD-6_Strafe_and_Noncomputed_Modes_page_34.jpeg:
+QUESTIONS
+1. The PACS must be operable for which noncomputed mode?
+
+a. MANUAL
+b. DIRECT
+
+2. The DIRECT mode employs a standby reticle which is independent of
+the CC.
+
+a. True
+b. False
+
+3. The DIRECT mil setting is read/entered
+
+on the FCP MPCD.
+
+using the mils knob to the left of the HUD.
+on the A/G delivery display.
+
+on the armament control panel.
+
+ao op
+
+4. MANUAL is selected using
+
+a. an MPD.
+
+b. the FCP auto acq switch.
+c. the selective jettison knob.
+d. the UFC.
+
+5. Which MANUAL option uses the longer release interval?
+
+a. MANFF
+b. MAN RET
+
+AGD-6 D - 28
+
+
+Text from AGD-6_Strafe_and_Noncomputed_Modes_page_35.jpeg:
+Which MPD/MPCD is used to select stations for release in MANUAL?
+
+a. Any MPD/MPCD
+
+b. Any MPCD
+
+c. The FCP MPCD only
+
+d. Stations are automatically selected.
+
+The master arm must be in ARM for the legend MANUAL to be
+present on the HUD.
+
+a. True
+b. False
+
+D - 29 AGD-6
+
+
+Text from AGD-6_Strafe_and_Noncomputed_Modes_page_36.jpeg:
+ANSWERS
+
+1. b
+2. b
+3. Cc
+4. ¢
+5. b
+6. Cc
+7. b
+
+AGD-6 D - 30
+
+
+Text from AGD-6_Strafe_and_Noncomputed_Modes_page_37.jpeg:
+END OF TEXT QUIZ
+At rollout on a CDIP strafe pass, the aim-off point is
+
+a. coincident with the target.
+b. beyond the target.
+c. short of the target.
+
+When the gun is armed and the master arm switch is in ARM, the
+gun can be fired in all master modes (A/A and A/G CMBT PACS).
+
+a. True
+b. False
+
+A manual A/G reticle is displayed
+
+a. when ALTN RELis selected on the armament control panel
+(ACP).
+. when MAN FF or MAN RET is selected on the ACP.
+c. by selecting MANUAL reticle on the A/G delivery program
+display.
+d. automatically during a CC failure.
+
+To drop CBU type ordnance in MANUAL, MAN FF must be selected
+to get an armed weapon for canister opening.
+
+a. True
+b. False
+
+When using DIRECT, bomb release is
+
+delayed if the CC does not see the proper bomb range.
+instantaneous at pickle.
+
+delayed by the amount entered during PACS programming.
+delayed by one-half the stick length.
+
+ae op
+
+E-1 AGD-6
+
+
+Text from AGD-6_Strafe_and_Noncomputed_Modes_page_38.jpeg:
+ao op
+
+Release sequencing in DIRECT with the SUU-20 is
+
+limited to ripple multiple.
+
+the same as is available in CDIP.
+
+limited to ripple single or ripple multiple.
+limited to STEP.
+
+7. In MANUAL, the tail fuze option is
+
+a ©
+
+selected with MAN FF.
+
+selected with MAN RET.
+
+selected with either MAN FF or MAN RET if N/T is selected on
+the ARMT display.
+
+unavailable.
+
+8. In MANUAL, the reticle
+
+©
+
+AGD-6
+
+floats to accommodate AOA changes.
+
+is displayed at a fixed depression as set on the A/G delivery
+display or UFC (whichever is available).
+
+is not adjustable and is always displayed at 140 mils.
+
+is not available.
+
+
+Text from AGD-6_Strafe_and_Noncomputed_Modes_page_39.jpeg:
+A/G
+A/A
+ACP
+ADC
+ADP
+AGR
+AT
+BIT
+BRU
+CC
+CDIP
+CMBT
+CT
+DIL
+EGI
+FCP
+FF
+GBU
+GCWS
+HOTAS
+
+HUD
+
+GLOSSARY
+Air-to-ground
+Air-to-air
+Armament control panel
+Air data computer
+Air data processor
+Air-to-ground ranging
+Along track
+Built-in test
+Bomb rack unit
+Central computer
+Continuously displayed impact point
+Combat
+Cross track
+Displayed impact line
+Embedded GPS/INS
+Front cockpit
+Free-fall
+Guided bomb unit
+Ground collision warning system
+Hands on throttle and stick
+
+Head-up display
+
+AGD-6
+
+
+Text from AGD-6_Strafe_and_Noncomputed_Modes_page_4.jpeg:
+CRITERION REFERENCED OBJECTIVES (CROs)
+
+1. Identify the operational characteristics of the A/G gun modes to
+include switch settings and displays (CDIP and manual).
+
+2. Identify the steps to perform A/G strafe (CDIP and manual).
+
+3. Identify the operations and functions of the noncomputed weapons
+delivery modes (direct and manual).
+
+REFERENCES
+
+TO 1F-15E-34-1-1 Section I AIR-TO-GROUND BOMBING
+Manual Bombing Modes
+A/G GUN EMPLOYMENT
+
+Section II EXTERIOR INSPECTION
+
+M61A1 Gun
+
+A/G STRAFE
+
+ATTACK - BOMBS &
+
+DISPENSERS
+Direct Mode
+Manual Mode
+
+GUN ATTACK
+
+Section ITI EMERGENCY PROCEDURES
+ABNORMAL OPERATIONS
+Master Arm Switch Failure
+A/G Failure Modes
+
+TO-1F-15E-34-1-3 Section V SAFE ESCAPE MANEUVERS
+
+AGD-6 B-1
+
+
+Text from AGD-6_Strafe_and_Noncomputed_Modes_page_40.jpeg:
+INS
+
+INST
+
+LOS
+
+MAN
+
+MPCD
+
+MPD
+
+MPDP
+
+MRA
+
+NAV
+
+PACS
+
+PB
+
+PGU
+
+RCP
+
+RET
+
+SRM
+
+SUU
+
+TD
+
+TRNG
+
+UFC
+
+AGD-6
+
+Inertial navigation system
+Instrument
+
+Laser
+
+Line of sight
+
+Manual
+
+Multipurpose color display
+Multipurpose display
+Multipurpose display processor
+Minimum recovery altitude
+Navigation
+
+Programmable armament control set
+Pushbutton
+
+Projectile gun unit
+
+Rear cockpit
+
+Retard
+
+Short range missile
+
+Stores suspension and release unit
+Target designator
+
+Training
+
+Upfront control
+
+
+Text from AGD-6_Strafe_and_Noncomputed_Modes_page_41.jpeg:
+(This Page Intentionally Blank)
+
+F-3 AGD-6
+
+
+Text from AGD-6_Strafe_and_Noncomputed_Modes_page_42.jpeg:
+BACK PAGE
+COVER SHEET
+
+
+Text from AGD-6_Strafe_and_Noncomputed_Modes_page_5.jpeg:
+STUDENT PREPARATION REQUIREMENTS
+BEFORE CLASS
+
+1. Study the information contained in this workbook and complete the
+End of Text Quiz.
+
+2. Read the references in TO 1F-15E-34-1-1 and TO 1F-15E-34-1-3.
+
+C-1 AGD-6
+
+
+Text from AGD-6_Strafe_and_Noncomputed_Modes_page_6.jpeg:
+(This Page Intentionally Blank)
+
+AGD-6 C-2
+
+
+Text from AGD-6_Strafe_and_Noncomputed_Modes_page_7.jpeg:
+TEXT
+A/G GUN
+
+The M61A1 gun description and functions are covered in the air-to-air
+weapons block of instruction. Preflight procedures for a hot gun are
+contained in TO 1F-15E-34-1-1CL-1.
+
+Modes
+
+There are two A/G gun modes: CDIP GUN and MANUAL. With CDIP
+GUN selected, the pilot has a computer driven CDIP reticle. The
+MANUAL GUN mode, selected from the FCP armament control panel
+(ACP), provides a fixed depressible sight, with a manually set reticle
+depression. AGR/LAS ranging may be used in either mode, if available.
+
+The A/A gun mode is only marginally useful in A/G strafe. The A/A gun
+attack steering only computes a crosswind correction. The wind-corrected
+attack steering is only valid when the pipper is stabilized on the target
+with the ball centered. Without a lock on, the CC uses a 2250-foot range
+and a 50 fps range rate in lead angle computation. Also, in the A/A mode,
+A/G slant range (AGR or LAS) presentation is not available.
+
+NOTE
+
+The gun is “hot” in flight in all master modes (A/A, A/G, NAV, INST)
+anytime the master arm switch is in ARM (gun cross ON), assuming
+
+the gun is electrically/mechanically armed and both A/A CMBT and
+A/G CMBT are selected on the PACS.
+
+Although the gun will not fire unless both A/A and A/G PACS are in the
+combat mode (TO 1F-15E-34-1-1), the same document makes several
+disclaimers concerning use of the TRNG PACS as a SAFE mode including
+that circuit failures can occur which would allow weapon release, even
+with TRNG selected. Do not use the A/A and/or A/G TRNG PACS
+selection as a gun safing feature.
+
+D-1 AGD-6
+
+
+Text from AGD-6_Strafe_and_Noncomputed_Modes_page_8.jpeg:
+Switches and Controls
+CDIP GUN
+The following switches and actions are required to use CDIP GUN.
+
+A/G Master Mode: The A/G master mode is required to obtain an A/G
+sight.
+
+Armament: To employ CDIP GUN you need a CDIP PACS program with
+no stations selected. Call up any existing CDIP program and unbox all
+the stations. The PACS RDY at PB #11 goes away (Figure D-1). Then,
+while in command of the HUD, pull aft on the FCP auto acq switch. This
+selects CDIP GUN. If you drop all the bombs on the selected stations
+during a CDIP pass, you have effectively unboxed all stations making
+CDIP GUN HOTASable. (This includes when the PACS believes the
+SUU-20 to be empty and unboxes the station).
+
+Two types of bullets are available for the F-15E. The type and quantity of
+bullets are entered on the A/A weapons load page. On all PACS display
+formats where rounds count is shown, the count is followed by a “P” for
+PGU-28 or “M” for M56. The firing rate, LOW or HIGH, is set on the A/A
+PACS employment display.
+
+SUU20N
+1
+1 BDU33
+A/G CMBT BOT
+A/A CMBT CTR
+AT 0°
+TARM 6.5 SEC CT 0°
+
+CDIP STEP
+
+OPTIONS
+
+AGD-06-01
+
+Figure D - 1. A/G PACS Display.
+AGD-6 D-2
+
+
+Text from AGD-6_Strafe_and_Noncomputed_Modes_page_9.jpeg:
+A/G Delivery Display Format: A minimum recovery altitude (MRA) can
+be set on the A/G delivery display. Along track (AT)/cross track (CT)
+corrections can be set on the program page of the A/G delivery display by
+boxing “PROG PAGE.” LASER range or AGR is available if the AUTO
+sensor hierarchy is selected or if LAS and/or AGR is included in the MAN
+sensor hierarchy selection. Ranging information on the HUD requires
+that the pilot be in command of the sensor (radar/AGR and/or TGT
+pod/LAS) through HUD command.
+
+/—- SUU20N SUU20N \N lj LAS HRM AGR PASS __RALT \
+1 1
+
+1 BDU33 A/G DLVRY 1 BDU33 A/G DLVRY
+PROG
+PAGE SYS
+A/G DLVRY PROG
+LOFT 0° AT 0°
+
+TARM 6.5 SEC CT 0°
+
+CLEAR
+AUTO PRIOR STATUS o° AUTO PRIOR STATUS
+
+SYSB 12384'
+WIND 270°/023
+TIME 15:30:20
+
+CDIP STEP
+
+A/G DELIVERY DISPLAY A/G DELIVERY PROGRAM DISPLAY
+
+AGD-06-02
+
+Figure D - 2.
+
+Master Arm Switch: The master arm switch must be placed to ARM.
+
+D-3 AGD-6
+
+

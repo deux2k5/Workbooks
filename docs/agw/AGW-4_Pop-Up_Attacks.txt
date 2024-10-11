@@ -1,0 +1,3037 @@
+Text from AGW-4_Pop-Up_Attacks_page_1.jpeg:
+SUPPORTS COURSES
+FIS5EBQ
+
+FISETX
+
+FISESOC
+
+ACADEMIC STUDENT WORKBOOK
+F-15E
+
+AIR-TO-GROUND DELIVERY
+AGW-4
+POP-UP ATTACKS
+
+APRIL 1999
+
+(OFP N/A)
+
+AIR COMBAT COMMAND
+
+
+Text from AGW-4_Pop-Up_Attacks_page_10.jpeg:
+Profiles
+
+Offset Pop-Up
+
+The most common type of pop-up delivery is the offset pop, also known as
+an indirect pop. This type of pop-up delivery is defined by an angle off
+(AO) ranging from 15° to 90°. Remember, the difference between your
+approach heading and your attack heading constitutes the angle off
+(Figure D-2).
+
+AGW-04-02
+
+Figure D - 2. Offset (Indirect) Pop-Up.
+
+AGW-4 D-4
+
+
+Text from AGW-4_Pop-Up_Attacks_page_11.jpeg:
+Initial Point
+There are two ways to get from the IP to the PUP in an offset pop. One
+choice is to fly from the IP directly to the PUP, as shown in Figure D-3.
+
+This approach course steering initially points you to the side of the target.
+
+PUP
+
+AGW-04-03
+
+Figure D - 3. IP Direct to PUP.
+
+D-5 AGW-4
+
+
+Text from AGW-4_Pop-Up_Attacks_page_12.jpeg:
+The other choice is to depart the IP and fly directly at the target. Then, at
+a given range from the target, execute a check turn left or right for offset
+(the point where the turn is started is the action point), delay as required
+and then pop-up (Figure D-4).
+
+PUP
+
+(DELAY
+OPTIONAL)
+
+IP ACTION POINT
+
+AGW-04-04
+
+Figure D - 4. IP Direct to Target.
+
+Although it looks more complicated, this choice is often quicker to plan
+and is the more common choice among aircrews. It is sometimes referred
+to as a “whip pop.” It also can be flown from any attack direction, without
+the need to overfly the IP, simply by putting the target on the nose and
+actioning at the planned range. This option can be useful for reattacks,
+especially after threat reactions.
+
+Advantages
+
+The offset pop-up has several advantages. First, target acquisition is
+simplified because during the climb to pull-down altitude the target is not
+hidden under the nose of the aircraft, and you have time to look for the
+target. Second, as you acquire the target in the climb, you are able to see
+any corrections needed to achieve the correct parameters. Third, it
+enables you to maneuver the aircraft three dimensionally, making it
+difficult for target area threats to track you.
+
+AGW-4 D-6
+
+
+Text from AGW-4_Pop-Up_Attacks_page_13.jpeg:
+Disadvantages
+
+Reliance on a faulty INS or timing errors could place you in unacceptable
+parameters, i.e., inside the MAP when rolling out to begin tracking. Make
+every attempt to use easily identifiable visual references for the IP, action
+point and PUP. Second, the maneuver may expose you to the heart of the
+enemy defenses. Hence, you do not want to increase your tracking time
+beyond the minimum needed to accurately get weapons on target and
+thereby increase your exposure to the enemy.
+
+Direct Pop-Up
+
+The second type of pop-up delivery is called the direct pop-up because the
+final approach course to the pull-up-point (PUP) is within 0-15° of the
+planned attack axis, which gives you a 0-15° angle off (Figure D-5). Even
+
+though a direct pop may be up to 15° angle off, they are normally flown at
+zero degrees angle-off (target on the nose).
+
+PUP
+
+| |i
+
+Figure D - 5. Direct Pop-Up.
+
+AGW-04-05
+
+D-7 AGW-4
+
+
+Text from AGW-4_Pop-Up_Attacks_page_14.jpeg:
+The direct pop-up is an instrument maneuver; no attempt is made to
+visually acquire the target until rolled out on final. Direct pops can be
+accomplished in AUTO or CDIP. In practice, you will usually see this type
+of delivery called a LAT (low-altitude toss), which is a modified direct pop-
+up performed in AUTO where you pickle and start a pull prior to bomb
+release. A typical direct pop-up pattern is depicted in Figure D-6.
+
+APEX
+
+5000' AGL 5 SEC TRACK
+
+PULL-UP
+
+4.5NM _ TGT
+
+AGW-04-06
+
+Figure D - 6. Direct Pop-Up Profile.
+
+You must approach the pull-up point with a good designation (RDR or
+TGT IR). The AUTO designation and ASL will help with the rollout and
+target acquisition. At the computed pull-up point begin a wings level 4 Gs
+in 2 second climb to the planned climb angle. Relax the climb G
+approximately 2-3° prior to reaching the desired climb angle to avoid
+overshooting. (The WSO may be able to acquire the target during the
+climb and redesignate with the TGT POD). At the computed roll-in
+altitude, unload and roll to wings level inverted. Then, smoothly pull 4 Gs
+in 2 seconds. In the roll and pull over the top, you may have displaced the
+ASL a few degrees opposite your roll direction. Ensure your pull is
+parallel to the ASL, not toward it. Approximately 5° prior to reaching the
+desired dive angle unload the aircraft, roll into the ASL, steady out on
+your dive angle and then look to acquire the target. During the roll to
+upright you will lose 3-5°, thus putting you at the desired dive angle. If
+you rolled out with the same G as you rolled in (1 G being desired), and in
+the same direction, the ASL should be centered. If it is not, turn toward
+the ASL as you attempt to acquire the target. As an alternative, a 0.5 G
+bunt may be used to transition from the climb to the dive but this must be
+well planned, since it will affect the pull-up range and the bunt altitude.
+
+AGW-4 D-8
+
+
+Text from AGW-4_Pop-Up_Attacks_page_15.jpeg:
+If you are using an AUTO delivery you can either bomb the designated
+target (pickle and pull up the ASL) or, if the designation is off,
+undesignate and redesignate the target visually. If the target is acquired
+with the AUTO reticle short of the target, undesignate, track the pipper to
+the target and redesignate. Then follow the ASL pulling 2-4 G’s. Bomb
+release will occur while you are in the pull.
+
+If the reticle is long of the target at acquisition and the designation is
+inaccurate, you have two options. The first option is to select CDIP via
+HOTAS and visually designate the target with the CDIP pipper, if you are
+still above pickle altitude. If the CDIP pipper is already past the target or
+you are below release altitude, then go through dry. On the next pass
+increase the pull-up range.
+
+Advantages / Disadvantages
+
+Essentially, a direct pop is the only way you can visually identify a target
+
+(through the NAV FLIR) at night (low level ingress) when you do not have
+a TGT IR pod. It also has an advantage when compared to an indirect pop
+in having the least exposure time. However, it has several disadvantages.
+
+First, it requires precise instrument flying and an accurate designation.
+Errors in either of the above could lead to the target not being in the FLIR
+FOV upon rollout. This may force an abort since the extent of your errors
+cannot be determined until after the rollout.
+
+Second, the target cannot be seen visually during the climb. Time is
+critical to attempt to identify the target and correct any designation errors
+once rolled out.
+
+Common Errors
+
+e Pulling up or down with less than the computed G putting you inside
+the MAP
+
+e Attempting to acquire the target while inverted/during rollout
+
+e Not using unloaded rolls resulting in large azimuth deviations (target
+no longer in HUD field of view)
+
+D-9 AGW-4
+
+
+Text from AGW-4_Pop-Up_Attacks_page_16.jpeg:
+e  =Rolling out in opposite direction than that used to roll in, causing
+large azimuth deviations
+
+e Attempting to center the ASL during inverted pull-down
+
+Pop-to-Level
+
+A third type of pop-up delivery is the pop-to-level (Figure D-7). It is used
+when a very low altitude approach is desired to minimize threat exposure.
+The crew climbs close to the target to achieve fuze arming, safe escape,
+safe separation, weapon effects or visual acquisition in a level release
+profile. The climb is a 5 Gin 2 second pull to a climb angle equal to the
+number of feet to climb divided by 100 (i.e., 2000 ft to climb - use 20°).
+
+The pushover should begin at 40 ft per degree of climb angle below the
+bombing altitude (i.e., 400 ft prior for a 10° climb, 800 ft prior for a 20°
+climb). This delivery is often planned as a weather backup (ceiling too low
+for planned delivery but high enough to allow frag clearance).
+
+STABILIZE AIRSPEED AND
+
+ALTITUDE THEN PICKLE PUSHOVER LIGHT IN SEAT,
+
+8 - 10 UNITS AOA, TO LEVEL OFF
+(40 FT PER DEGREE OF CLIMB)
+
+CLIMB ANGLE = NUMBER OF 100s
+a OF FEET NEEDED TO CLIMB
+
+, 5 Gs IN2 SEC
+¢ 2.5 - 3.0 NM
+
+AGW-04-07
+
+Figure D - 7. Pop-to-Level.
+Advantages
+
+This maneuver enables the crew to drop a low drag bomb using a level
+delivery under low ceilings. Second, it allows you to clear the
+fragmentation, achieve the desired fuze arming times and achieve the
+desired impact angle. Third, popping-to-level aids in target acquisition by
+letting you get higher, particularly if the target has little or no vertical
+development.
+
+AGW-4 D-10
+
+
+Text from AGW-4_Pop-Up_Attacks_page_17.jpeg:
+Disadvantages
+
+The first disadvantage of the pop-to-level maneuver is that climbing out of
+the low level environment exposes you to the enemy defenses, and if a
+straight ahead egress is executed, overflight of the target and defenses
+adds to the exposure. Second, the length of time maintaining straight and
+level at release altitude gives the enemy gunners a fairly predictable
+target. Therefore, the amount of time at release altitude should be kept to
+a minimum, similar to the angular deliveries (5 seconds is ideal). Also,
+frag may cause problems for you or for a wingman in trail, forcing him to a
+higher altitude or more time between aircraft to ensure frag deconfliction
+(covered in detail in TAC-2).
+
+Aborts
+
+Any pop-up maneuver should be aborted if any of the following conditions
+occur:
+
+Actual pull-up point inside planned pull-up point (for FTU/MQT
+students)
+
+Roll-in pointed at wrong target (no changing targets after roll-in to
+final) (for FTU/MQT students)
+
+Roll-in requires more than 90° or less than 15° of turn, except for
+direct pop-up (for FTU/MQT students)
+
+Airspeed below 350 KIAS (300 KIAS above 10,000 ft AGL)
+
+Actual dive angle exceeds planned dive angle by more than 5° (10° if
+recovery altitude is above 10,000 AGL)
+
+Target is not positively identified
+Satisfactory entry/release conditions are not achieved
+Discernible horizon reference is lost
+
+Aircraft passes below the minimum release altitude
+
+D-11 AGW-4
+
+
+Text from AGW-4_Pop-Up_Attacks_page_18.jpeg:
+QUESTIONS
+1. A pop-up delivery allows the crew to
+
+decrease their exposure time.
+more easily transition to air-to-air.
+save fuel.
+
+expedite the rejoin.
+
+pe op
+
+2. Which is not an advantage of an angle off pop-up?
+
+Easier target acquisition
+
+Parameter corrections are easier to see
+Deceptive maneuver
+
+Increases exposure time
+
+pe op
+
+3. The minimum attack perimeter (MAP) is defined as
+
+a circle that you want to be inside of when tracking is begun.
+
+a circle depicting frag patterns, which you need to stay clear of.
+
+c. animaginary circle centered on the target with a radius equal to
+the distance from the target at which rollout occurs and tracking
+begins.
+
+d.  acircle in space, devoted to final alignment of aircraft sighting
+
+systems.
+
+of
+
+4. During a planned 20° direct pop the rollout to upright should be
+initiated when the dive angle is
+
+a. od°.
+
+b. 10°.
+ec. 15°.
+d. 20°.
+
+AGW-4 D-12
+
+
+Text from AGW-4_Pop-Up_Attacks_page_19.jpeg:
+ANSWERS
+
+D-18 AGW-4
+
+
+Text from AGW-4_Pop-Up_Attacks_page_2.jpeg:
+ADMINISTRATIVE INFORMATION
+
+This student workbook is designed to provide information on the F-15E,
+its systems and capabilities. It is not a sole source document, but is to be
+used in conjunction with other standard Air Force publications and
+technical manuals. If you find any differences between the material
+contained herein and other governing regulations, adhere to the
+regulations and notify the OPDR.
+
+Changes to this workbook are indicated with a heavy black line in the left
+margin.
+
+Forward recommendations for revision or change to 4 TS, SJAFB, NC
+275381.
+
+Supersedes: AGW-4, July, 1998
+
+OPDR: 4 TS
+
+Index of Changes
+
+Effective Date Pages Affected
+
+
+
+Text from AGW-4_Pop-Up_Attacks_page_20.jpeg:
+POP-UP PLANNING
+
+There is a positive correlation between the quality of your planning and
+the quality of execution. The more effort spent in mission planning, the
+easier in-flight execution becomes.
+
+Planning With Auto Systems
+
+The F-15E, with its computed modes (AUTO/CDIP), is capable of dropping
+accurate bombs at practically any combination of altitude, dive angle and
+airspeed. However, if actual release parameters differ from planned
+conditions, fuze arming times, weapons effects, dive recovery and/or safe
+escape criteria may not be met.
+
+Adhere to planned release parameters in order to
+e ensure safe separation.
+
+e ensure fuze arming.
+
+e achieve desired weapons effect.
+
+e provide frag clearance.
+
+@ provide ground clearance.
+
+Steps in Planning an Attack
+
+There are several steps involved when planning a pop-up attack. The first
+and most important step is to calculate a minimum release altitude
+(MRA). This is to keep you from killing yourself during the delivery! The
+MRA is based on the highest of safe escape, safe separation, vertical drop
+required for fuze arm, altitude lost during dive recovery and an altitude
+that gives the desired weapons effect. The second step is to plan the
+actual pop-up maneuver and planned release altitude (above the MRA)
+based on computed release conditions. These computations are made
+using the Combat Weapons Delivery Software (CWDS). The final step is
+to take the planned attack, and put it onto paper so that it can be used in
+the cockpit. The following sample problem illustrates this flow.
+
+AGW-4 D-14
+
+
+Text from AGW-4_Pop-Up_Attacks_page_21.jpeg:
+Sample Pop Attack With Given Conditions and Constraints
+
+Target altitude/temperature: 4 ft MSL/90° F (density alt = 1975 ft)
+
+Weapon: 1x MK 84 LDGP
+
+Fuze: FMU-113/B, 5 second fuze arm time
+
+Release angle: 20°
+Release airspeed: 500 KTAS
+
+Track time: 5 seconds
+
+Escape maneuver: climbing (5 G pull in 2 seconds, to 30° nose high)
+
+5 nm action, 60° R angle off
+
+AGW-4
+
+
+Text from AGW-4_Pop-Up_Attacks_page_22.jpeg:
+Computer Solutions
+
+The CWDS program (TO 1-1M-44-1FD) is used to calculate the release
+conditions.
+
+Aircraft and Munition Data
+Upon entering the program, you must input the aircraft, weapon, target,
+
+IP data and the delivery options. Figure D-8 shows the initial input page
+in CWDS.
+
+baa Combat Weapon Delivery Softwares - AGOTATE BinkE|
+Fie Profle Opens Dever; Tables Hele
+(Ciele sr} ke]
+cua 1SE Pw220 WICFT =] Gross Weight [55088
+Profile [Profile 1 wif lef | foe 375] qgteiee [SFT
+Munition Data
+Hanne Sus Pen Sion
+[MeL a] [srunsya =i
+Fuze Data =
+| Senin
+) Location Hare Tin
+
+| Mose fa Mose [PMH 13/6 =i is ft
+
+Delvey: Dive Eom Popup
+Tanget _TARGET Recover: SG Climb Maneuver
+
+For Help, press F1
+
+AGW-04-08
+
+Figure D - 8. CWDS Initial Page.
+
+AGW-4 D-16
+
+
+Text from AGW-4_Pop-Up_Attacks_page_23.jpeg:
+To input data, the left mouse button is used to access the pull-down menu
+
+choices and select the various data input blocks. Under the “Aircraft”
+block, ensure the correct aircraft, engine and CFT configuration is
+
+selected. Choose the desired munition and fuze data, including the fuze
+arm time. The TDA and target elevation may be directly entered here, or
+input through the Point Data Entry page, discussed next.
+
+Target and IP Data
+
+To input the TGT and IP coordinates and elevation, select “Options” and
+“Point Entry...” to access the Point Data Entry page (Figure D-9).
+
+Pomi Data Prin: Screen
+
+Target OnfO# Latitude Elevation  MGRS ~ TOA
+eo iNssatas | [arr (esvetsssasep22 | Mode
+Datum Longitude idag War _[Elew'Temp =H
+wosa4 = nwO75 53.28 [1o.aw apy, Fars in
+Temp +30F
+
+Descripiion (TARGET j
+
+Type OafO Lattude Elewatian MGRS Riaage
+
+[IP= x} Fo Nass000 | [10FT _flesvEvposi47s33— | [iS.eNM
+Cretan Longitude iMag Var Bearing To/From
+wos = ‘wore 06.23 | [9.9w jest ito tct if
+Descripion [IP j
+
+AGW-04-09
+
+Figure D - 9. CWDS Point Data Entry Page.
+
+AGW-4
+
+
+Text from AGW-4_Pop-Up_Attacks_page_24.jpeg:
+Enter the coordinates and elevations for the Target and IP. Ensure the
+TDA is correct. Three TDA modes are available (““Elev/Temp,” “Density
+Alt” or “Press Alt/Temp”). “Elev/Temp” is usually the easiest method and
+when they are entered, CWDS will automatically calculate the TDA which
+is used by the computer to determine safe escape data and weapons
+ballistics.
+
+Wind Model Data
+
+Wind model data can be entered (from the initial input page) by selecting
+“Options” and “Wind Model....” You may now select one of three options
+(“None,” “Ballistic” or “F-15E”). An important planning note is that Safe
+Escape will not be computed in your attack calculation if you select any
+wind model option other than “None.”
+
+Ballistics Tables /Safe Escape Tables
+
+Before calculating the actual minimum release altitude for your delivery,
+you should look at the ballistics tables for the ordnance, delivery and safe
+escape maneuver combination you plan on employing. These ballistics
+tables are produced using the CWDS program. (The flying squadrons may
+still have copies of the outdated ballistics manuals, but remember that the
+CWDS program is the only currently authorized version for weapons
+ballistics.)
+
+AGW-4 D-18
+
+
+Text from AGW-4_Pop-Up_Attacks_page_25.jpeg:
+To build a ballistics table for your delivery, select the “Tables” and
+“Ballistic Data” pull-down menus (from the initial input page) to access
+the Ballistics Table page shown in Figure D-10.
+
+Ballistics Tables | x |
+
+— Aircraft / Munition Data
+Aircraft FI5E |
+Munition § |MK-84 LD Suspension |BRU-47/A |
+Delivery [=a ~ | toa [1975
+
+1
+#Wrpons to Drop
+
+UNITS MIN MAX INC
+Airspeed KTAS zl aog sia =a
+Angle 15 25 5
+Altitude AGL Fl 3000 5000 1000
+
+Preview Table | Print Table |
+
+AGW-04-10
+
+Figure D - 10. CWDS Ballistics Tables Page.
+
+AGW-4
+
+
+Text from AGW-4_Pop-Up_Attacks_page_26.jpeg:
+On this page, enter the type of delivery (“Level,” “Dive,” “Loft/Toss” and
+“Dive Toss”) and values for the airspeed, release angle and altitude ranges
+in the increments you desire for calculating the tables. With this
+information, the CWDS program will produce tables which can be
+previewed on screen or printed (see Table D-1) to compare with the results
+obtained when CWDS calculates an MRA for your planned delivery
+profile. This will provide a safety check to ensure the delivery will work
+as planned and not result in either a “dud” weapon or “fragging” yourself.
+Care must be taken to ensure the correct ordnance and delivery profiles
+are used.
+
+AIC F15E PW220 W/CFT GROSS WEIGHT 55000
+WPN MK-84 LD
+DELIVERY Dive
+SUSP BRU-47/A
+TDA 1975 FT
+DIVE RELEASE BOMB TIME SLANT IMPACT SIGHT WIND CORRECTION
+ANGLE ALT TAS RANGE OF RANGE ANGLE DEP FROM FACTORS
+ABOVE FALL FLIGHT H/T CROSS
+TGT PATH DRIFT
+DEG FT KTS FT SEC FT DEG MILS MILS/KT FT/KT
+15 3000 400 5844 9.10 6569 ot 214 1.1 15
+15 3000 450 6286 8.71 6965 34 185 0.9 15
+15 3000 500 6659 8.32 7303 32 163 0.8 14
+15 3000 550 6981 7.96 7598 30 145 0.7 13
+15 4000 400 7105 11.09 8154 40 252 1.1 19
+15 4000 450 7681 10.67 8660 ot 219 1.0 18
+15 4000 500 8177 10.25 9103 35 194 0.8 17
+15 4000 550 8612 9.85 9495 33 174 0.7 17
+15 5000 400 8231 12.88 9630 43 285 1.2 22
+15 5000 450 8930 12.43 10235 40 250 1.0 21
+15 5000 500 9540 11.99 10771 38 222 0.9 20
+15 5000 550 10080 11.57 11252 35 199 0.8 20
+20 3000 400 5068 8.12 5890 39 187 1.2 14
+20 3000 450 5391 7.68 6170 36 160 1.0 13
+20 3000 500 5654 7.26 6401 34 140 0.9 12
+20 3000 550 5873 6.88 6595 33 124 0.8 12
+20 4000 400 6242 10.02 7414 42 222 1.2 17
+20 4000 450 6679 9.54 7785 39 192 1.1 16
+20 4000 500 7044 9.07 8100 ot 168 0.9 15
+20 4000 550 7353 8.64 8371 35 150 0.8 15
+20 5000 400 7300 11.75 8848 45 253 1.3 20
+20 5000 450 7844 11.22 9302 42 219 1.1 19
+20 5000 500 8306 10.72 9695 40 194 1.0 18
+20 5000 550 8702 10.26 10036 38 173 0.9 17
+25 3000 400 4397 7.31 5323 41 164 1.3 12
+25 3000 450 4635 6.85 5521 39 140 1.1 12
+25 3000 500 4822 6.42 5679 ot 122 1.0 11
+25 3000 550 4974 6.04 5809 36 108 0.9 10
+25 4000 400 5475 9.12 6781 44 196 1.3 15
+25 4000 450 5808 8.60 7052 42 168 1.2 15
+25 4000 500 6077 8.11 7275 40 147 1.0 14
+25 4000 550 6299 7.68 7462 38 130 0.9 13
+25 5000 400 6455 10.78 8165 47 224 1.4 18
+25 5000 450 6879 10.21 8504 44 193 1.2 17
+25 5000 500 7228 9.68 8789 42 170 1.1 16
+25 5000 550 7521 9.19 9032 40 151 1.0 16
+Table D - 1. Ballistics Table (MK-84 LD, 15-25 deg dive, 3000'-5000' AGL, 400-
+550 KTAS).
+
+AGW-4 D - 20
+
+
+Text from AGW-4_Pop-Up_Attacks_page_27.jpeg:
+Safe escape tables can also be calculated in CWDS. From the initial input
+page, select “Tables” and “Safe Escape....” Enter the type of Escape
+Maneuver to be flown from the list of options (“No Safe Escape,” “Lvl Cnst
+Spd No Turn,” “5G Climb Maneuver,” “5G Turn Maneuver,” or “5G Turn
+(Lvl Turn)”). Once selected, CWDS calculates a series of tables that cover
+many dive angle and airspeed combinations for both single and multiple
+releases of the selected weapon. Tables are produced for both 0’ and 5000’
+TDA. Again, use these tables as a “sanity check” for your planned
+delivery to ensure it can be accomplished safely.
+
+Delivery Options
+
+The next step is to input the rest of the data needed to compute a delivery.
+Select “Delivery” to get into the delivery options submenu. To plan a pop-
+up delivery, select “Dive...,” which takes you to the Dive Delivery page.
+Once entered, the next screen looks like Figure D-11.
+
+DIVE DELIVERY
+
+Dive Angle: ENTRY: | Pop-Up hal
+
+Roll-Out Airspeed: Wing Pos/Dist:
+
+Release Airspeed: Run in Altitude: s00A
+
+Release Alt Mode: Run in Airspeed: 510T
+Min Mote pice te =) Action PT G/Bank:
+Variable Parameter: | Dive Angle | Pull-Up G / Onset Rate: EERE
+Deviation: oO Climb Angle:
+
+Tracking: | Time =| 5 |
+
+# Wpns To Drop:
+
+|
+
+Roll-In Airspeed:
+
+Roll-In G / Onset Rate: sec
+Escape Mvr. Rol-in / Roll-Out Rate: {135 |
+Attack Options:
+
+Action Distance:
+
+Angle-Off-
+
+Preview Output | Print Output |
+
+AGW-04-11
+
+Figure D - 11. CWDS Dive Delivery Page.
+
+D-21 AGW-4
+
+
+Text from AGW-4_Pop-Up_Attacks_page_28.jpeg:
+This is where the remainder of the inputs are entered including: the type
+of “Entry” (None, Pop-Up, Fly-up, Bunt Pop, Direct Pop), “Wing Pos/Dist”
+from lead (None, Left, Right), dive angle, airspeeds, tracking time, G and
+onset rates for the maneuver, and “Attack Options” (Distance/Heading,
+Distance/Angle, Angle/Heading). Distance/Angle is a common one to use
+when you wish to select an action range based on a specific distance from
+a target to the action point (INS ground range makes this easily readable
+in the HUD) and a desired angle off (as in this example). A good rule of
+thumb for angle off is somewhere between 2 X climb angle (minimum
+angle off) and 80° to allow room for any repositioning maneuvers. Most
+sets of plotters used to draw pop-up attacks include templates for 45° (for
+10° deliveries) and 60° (for 20° deliveries) of angle off. “Action Distance”
+and “Angle-Off” can be directly entered on this page. Also on this page is
+a list of possible options for the desired safe escape maneuver. A final
+input (and the one that causes the most confusion) is the desired “Release
+Alt Mode,” which determines how CWDS calculates the minimum release
+altitude (MRA) you will use for the attack.
+
+Calculating the Minimum Release Altitude (MRA)
+
+As mentioned earlier, the minimum release altitude is the highest of safe
+escape altitude, safe separation altitude, altitude required for fuze
+arming, altitude required for dive recovery or altitude required for
+weapons effect.
+
+Safe Escape Warning
+
+When using CWDS to plan weapon deliveries at minimum release
+conditions, deviations from planned delivery/recovery conditions may
+result in a significant increase in the risk of self-fragmentation.
+
+Therefore, the aircrew must observe the appropriate delivery parameters,
+minimum release altitudes and recovery maneuvers required for safe
+escape/separation. Additionally, the CWDS program computes safe escape
+data based on self-fragmentation. For leader/other aircraft frag
+deconfliction, minimum recovery altitudes from the Maximum
+Bomb/Rocket Fragment Travel Chart (TO 1-1M-34) must be used or
+additional deconfliction is required.
+
+AGW-4 D - 22
+
+
+Text from AGW-4_Pop-Up_Attacks_page_29.jpeg:
+Release Altitude Computation
+
+When planning a minimum release altitude, always plan for the worst
+case. The following technique will ensure you will be able to deliver your
+weapons safely. Since an attack can be continued up to 5° steep, a good
+technique is to plan for a delivery that is 5° steeper than you actually
+desire. In this example, we are planning a 20° delivery, so we will
+compute the MRA using 25°.
+
+CWDS provides three altitude options: “Specific Alt,” “Min Rec Alt,” or a
+“Planned Rel Altitude.” For initial computation of MRA, use "Planned
+Rel Altitude " and a low “Min Recovery/Release” altitude (1000A for
+example) to ensure the program forces a calculated MRA that is above
+your input. A “Variable Parameter” window now appears, allowing you to
+select “Airspeed,” “Dive Angle,” or “Press Time” as a variable to
+compensate for errors in arriving at the release point. Select “Dive Angle”
+and enter 0° in the deviation field, as you have already allowed for a 5°
+steep delivery.
+
+NOTE
+
+CWDS will also compute the same MRA if you enter your planned dive
+angle (20 in the example) and 5° as the deviation. However, this
+method only shows data for the entered dive angle, not for the 5° steep
+
+pass. Although the MRA provided by CWDS is still correct, you will not
+be able to determine upon what constraint (such as fuze arming, safe
+escape, etc.) the MRA is based.
+
+When all data is entered, you may preview or print the resulting data by
+selecting “Preview Output” or “Print Output” at the bottom of the page. It
+is strongly advised that you check the output on the screen (before you try
+to print the final results) to ensure it passes the “common sense test.” The
+output will appear like Table D-2 with the MRA information (altitude and
+driving factor) near the end.
+
+Notice the computer is even “smart enough” to change some of your inputs
+automatically (in this example, Fuze Arm Time) to meet all criteria (safe
+escape, safe separation, etc.). Ensure these changes are made known to
+the rest of the flight and maintenance if any weapons settings are
+affected! The information in Table D-2 was computed using the “Planned
+Rel” option with 5° steep as an input.
+
+D - 238 AGW-4
+
+
+Text from AGW-4_Pop-Up_Attacks_page_3.jpeg:
+AIR-TO-GROUND WEAPONS
+
+l "i
+AS I O
+= |
+=: a — @ i \ a O
+f = Ss y
+7 K . x oo 0 Aa i}
+_ HS [> Is d
+
+a
+
+|
+
+COVER
+
+POP-UP ATTACKS
+INTRODUCTION
+This workbook is your guide in planning a pop-up delivery in a low level
+
+tactical interdiction mission. It also familiarizes you with the low level
+pop-up profiles.
+
+CONTENTS:
+
+INTRODUCTION oc ces sows sass sxcn seus anus cons came wnsn osu ants ais cess ase sane au anes tae ans 3 A-1
+CRITERION REFERENCED OBJECTIVES (CROs)... B-1
+STUDENT PREPARATION REQUIREMENTS ...00. eee C-1
+TEXT oc eececccccessneeeceesseeeeceessaeeeceesssaeeeceessseeeeceessaeeeseeesaeeeseneaaes D-1
+END OF TEXT QUIZ 0. eee eeccecseseeeeeseeceseeeessaeesessaeesesaeeeesaees E-1
+GELOBSARY sess was cows sive sues sure sens se sire snes suinn suivs stv sete sins ue suivs Ses suns sins sins ete we F-1
+
+A-1 AGW-4
+
+
+Text from AGW-4_Pop-Up_Attacks_page_30.jpeg:
+CWDS v6.1
+
+Profile Output
+
+** PLEASE NOTE ***
+
+Input fuze time setting increased for safe separation.
+
+Minimum Release Alt driven by fuze arming.
+*** MISSION DATA ***
+
+AIRCRAFT
+GROSS WEIGHT
+MUNITION
+SUSPENSION
+DELIVERY
+
+*“** FUZE DATA ***
+FUZE LOCATION
+
+NOSE FUZE
+NOSE FUZE TIME SETTING
+
+Input fuze time setting increased for safe separation.
+
+NEW FUZE SETTING FOR SAFE SEPARATION
+MAX FUZE ARM TIME
+
+*** ANGLE OFF POP-UP INFORMATION ***
+
+**RUN-IN DATA**
+
+RUN-IN ALTITUDE (AGL=ABOVE TGT ELEV)
+RUN-IN AIRSPEED
+
+RANGE IP TO TARGET
+
+HEADING IP TO TARGET
+
+** ACTION POINT DATA**
+BEARING ACTION PT TO TARGET
+RANGE ACTION PT TO TARGET
+HEADING ACTION PT TO PULL-UP
+RANGE IP TO ACTION PT
+
+TIME IP TO ACTION PT
+
+ACTION PT G/BANK
+
+RANGE ACTION PT TO PULL-UP
+CLIMB ANGLE
+
+TIME ACTION PT TO PULL-UP
+TURN ANGLE AT ACTION POINT
+PULL-UP G
+
+**ROLL-IN/PULL-DOWN DATA**
+ATTACK HEADING
+
+ROLL-IN G
+
+ROLL-IN AIRSPEED
+
+ROLL RATE
+
+PULL-DOWN ALTITUDE
+
+ANGLE-OFF
+
+APEX ALTITUDE
+
+RANGE PULL-UP TO PULL-DOWN
+RANGE PULL-UP TO TARGET
+ROLL-IN/PULL-DOWN TURN RADIUS
+TARGET ASPECT ANGLE AT PULL-UP
+TARGET ON RIGHT AT PULL-UP
+
+Table D - 2. CWDS Profile Output (Page 1 of 3).
+
+AGW-4
+
+D - 24
+
+F15E PW220 W/CFT
+55000
+
+MK-84 LD
+
+BRU-47/A
+
+Dive
+
+Nose
+
+FMU-113/B
+
+5.00 SEC
+
+6.00 SEC
+
+7.10 SEC
+
+504M 500A
+494C 510T
+10.6NM 64521FT
+092M 082T
+092M 082T
+5.0NM 30381FT
+069M 059T
+5.6NM 34141FT
+40 SEC
+
++4.00
+
+1.3NM T775FT
+30 DEG
+
+9 SEC
+
+23 DEG
+
++4.0 in 1.0 SEC
+129M 119T
++4.0 in 1.0 SEC
+
+433C 475T
+135 DEG/SEC
+
+4360M 4356A
+60R
+
+5956M 5952A
+1.6NM 9574FT
+3.9NM 23672FT
+4069FT
+
+28 DEG
+
+.78M
+19666M
+
+9260M
+
+10406M
+
+2370M
+
+.74M
+
+2918M
+7215M
+
+
+Text from AGW-4_Pop-Up_Attacks_page_31.jpeg:
+“eee PLANNED RELEASE PAD DATA ****
+PAD VALUE
+** RELEASE CONDITIONS ***
+
+NUMBER OF WEAPONS RELEASED
+
+RELEASE ALTITUDE FIRST WEAPON
+
+RELEASE ALTITUDE CORRECTED FOR ALT LAG
+RELEASE DIVE ANGLE
+
+RELEASE AIRSPEED
+
+TARGET DENSITY ALTITUDE
+
+TARGET ELEVATION
+
+TARGET TEMPERATURE
+
+** TRACKING INFORMATION ***
+
+INITIAL PIPPER PLACEMENT
+
+PERCENT DOWN BOMB FALL LINE FROM FPM
+AIM-OFF DISTANCE
+
+AVERAGE TRACK VELOCITY
+
+MINIMUM ATTACK PERIMETER
+
+ROLL-OUT (TRACK) AIRSPEED
+
+AOA AT TRACK ALTITUDE
+
+TRACK TIME
+
+TRACK/MAP ALTITUDE
+
+TRACK/MAP ALT CORRECTED FOR ALT LAG
+
+** WEAPON CONDITIONS ***
+
+ZERO SIGHT LINE AOA
+
+S.D.F.P
+
+TOTAL SIGHT SETTING
+CROSSWIND CORRECTION
+HEAD/TAIL WIND CORRECTION
+F-15 CFT LATERAL DISPLACEMENT
+RANGE FIRST RELEASE TO IMPACT
+SLANT RANGE AT RELEASE
+
+TIME OF FALL FIRST RELEASE
+WEAPON IMPACT ANGLE
+
+WEAPON IMPACT VELOCITY
+
+we SAFE ESCAPE SAFE SEPARATION DIVE RECOVERY INFORMATION ***
+
+ae FOR UNPADDED RELEASE
+
+Input fuze time increased to meet Safe Separation.
+NEW FUZE SETTING FOR SAFE SEPARATION
+SAFE ESCAPE MANEUVER
+
+DIVE RECOVERY G
+
+ALT LOST DURING DIVE RECOVERY
+
+MIN ALT DURING DIVE RECOVERY
+
+Table D - 2. CWDS Profile Output (Page 2 of 3).
+
++0 DEG
+
+1
+
+83938A
+3460M
+25 DEG
+467C
+1975 FT
+4¥T 1M
++32C +90F
+
+3397M
+
+500T
+
+42.2 MILS
+49.0
+0.3N)
+802 FT/SEC
+1.5NM
+409C
+41.9 MILS
+5 SEC
+5091M
+5152M
+
+i
+
+1947FT
+
+8962FT
+450T
+
+5087A
+
+67.0 MILS
+131.8 MILS
+198.9 MILS
+12.0 FT/KT
+1.0 MILS/KT
+42FT
+0.9NM
+6317FT
+7.10 SEC
+38 DEG
+943 FT/SEC
+
+5329FT
+
+2K
+
+6.00 SEC
+
+5G Climb Maneuver
++5.0
+
+1030FT
+
+2363A 2367M
+
+77M
+
+593M
+
+2732M
+.70M
+
+1624M
+
+AGW-4
+
+
+Text from AGW-4_Pop-Up_Attacks_page_32.jpeg:
+*“* WEAPON MRA INFORMATION FOR UNPADDED RELEASE ***
+
+Minimum Release Alt driven by fuze arming.
+
+MIN RECOVERY ALTITUDE (user input) 1000A 1004M
+MRA FOR MIN RECOVERY ALTITUDE 2030A 2034M
+including alt lag 2099M
+MRA FOR GP FUZE ARMING 3393A 3397M
+including alt lag 3459M
+ABSOLUTE REC ALT (NO SAFETY FACTOR) 1030A 1034M
+including alt lag 1093M
+MRA FOR SAFE ESCAPE 2229A 2233M
+including alt lag 2295M
+MAX FRAGMENT TRAVEL
+ALTITUDE 38295A 3299M
+HORIZONTAL RANGE 3794FT
+TOF 31.0 SEC
+TOF FOR DIVE RECOVERY MRA 2.52 SEC
+TOF FOR SAFE ESCAPE MRA 5.00 SEC
+
+TOF FOR FUZE ARMING/CBU FUNCTION MRA 7.11 SEC
+
+Table D - 2. CWDS Profile Output (Page 3 of 3).
+Delivery Altitude “Pad”
+
+Up to this point, calculations have only been made for release at the MRA.
+It is very important to note the MRA numbers given in the MRA section of
+the CWDS printout are for an unpadded release. Since any problems
+(target acquisition, lining up on the target, etc.) can cause a delay in
+dropping the weapons, it would be easy to go below the MRA if trying to
+pickle right at the minimum altitude. For this reason, you need to “pad”
+your release altitude (i.e. you should plan to release at a specific altitude
+high enough to allow you some sort of “pad” or press factor).
+
+One of the simplest techniques available to compute a “pad,” and a good
+rule of thumb for “press” is to add an altitude equal to your planned dive
+angle X 30 (600 feet for a 20° diving delivery). Another common technique
+is to add an altitude equal to the amount lost in two seconds of track time.
+This is calculated by the formula of 2 seconds X true airspeed X 1.69 X
+sine of the dive angle (2 X 500 X 1.69 X 0.3420 = 578 feet for this
+example). The sine of the dive angle is obtained from Table D-3. Notice
+the results are similar.
+
+AGW-4 D - 26
+
+
+Text from AGW-4_Pop-Up_Attacks_page_33.jpeg:
+DIVE ANGLE SIN COS TAN COT
+
+0 0 1.000 0 + 90
+
+1 0.0175 0.9999 0.0175 57.29 89
+
+2 0.0349 0.9994 0.0349 28.64 88
+
+3 0.0523 0.9986 0.0524 19.08 87
+
+4 0.0698 0.9976 0.0699 14.30 86
+
+5 0.0872 0.9962 0.0875 11.43 85
+6 0.1045 0.9945 0.1051 9.514 84
+7 0.1219 0.9926 0.1228 8.144 83
+8 0.1392 0.9903 0.1405 7.115 82
+9 0.1564 0.9877 0.1584 6.314 81
+10 0.1737 0.9848 0.1763 5.671 80
+11 0.1908 0.9816 0.1944 5.145 79
+12 0.2079 0.9782 0.2126 4.705 78
+13 0.2250 0.9744 0.2309 4.331 77
+14 0.2419 0.9703 0.2493 4.011 76
+15 0.2588 0.9659 0.2680 3.732 75
+16 0.2756 0.9613 0.2868 3.487 74
+17 0.2924 0.9563 0.3057 3.271 73
+18 0.3090 0.9511 0.3249 3.078 72
+19 0.3256 0.9455 0.3443 2.904 71
+20 0.3420 0.9397 0.3640 2.747 70
+21 0.3584 0.9336 0.3839 2.605 69
+22 0.3746 0.9272 0.4040 2.475 68
+23 0.3907 0.9205 0.4245 2.356 67
+24 0.4067 0.9136 0.4452 2.246 66
+25 0.4226 0.9063 0.4663 2.145 65
+26 0.4384 0.8988 0.4877 2.050 64
+27 0.4540 0.8910 0.5095 1.963 63
+28 0.4695 0.8830 0.5317 1.881 62
+29 0.4848 0.8746 0.5543 1.804 61
+30 0.5000 0.8660 0.5774 1.732 60
+31 0.5150 0.8572 0.6009 1.664 59
+32 0.5299 0.8481 0.6249 1.600 58
+33 0.5446 0.8387 0.6494 1.540 57
+34 0.5592 0.8290 0.6745 1.483 56
+35 0.5736 0.8192 0.7002 1.428 55
+36 0.5878 0.8090 0.7265 1.376 54
+37 0.6018 0.7986 0.7536 1.327 53
+38 0.6157 0.7880 0.7813 1.280 52
+39 0.6293 0.7772 0.8098 1.235 51
+40 0.6428 0.7660 0.8391 1.192 50
+41 0.6561 0.7547 0.8693 1.150 49
+42 0.6691 0.7431 0.9004 1.111 48
+43 0.6820 0.7314 0.9325 1.072 47
+44 0.6947 0.7193 0.9657 1.036 46
+45 0.7071 0.7071 1.000 1.000 45
+
+COs SIN COT TAN DIVE ANGLE
+
+Table D - 3. Trigonometric Functions Table.
+
+D-27 AGW-4
+
+
+Text from AGW-4_Pop-Up_Attacks_page_34.jpeg:
+You will want to obtain a final CWDS printout for the planned delivery
+with your desired “press” factor added in to use in putting your attack on
+paper (map or attack card). This can be done by going back to the Dive
+Delivery page, inputting the planned dive angle (20° in this example), and
+changing the “Release Alt Mode” to “Specific Alt.” Enter an altitude that
+is higher than the previously calculated minimum release altitude by your
+“press” factor. Using the rule of thumb in the last paragraph, 4000A
+would work well for this example (3393A computed unpadded release
+altitude from CWDS output plus 600’).
+
+It is important to note for this example that you must go back to the
+initial input page and increase the fuze arm time to 6 seconds to meet the
+safe separation required for the radar fuze. (This is changed
+automatically when using the “Planned Rel” mode, but not when using the
+“Specific Alt” mode.) The final attack you have planned is now shown in
+Table D-4.
+
+AGW-4 D - 28
+
+
+Text from AGW-4_Pop-Up_Attacks_page_35.jpeg:
+CWDS v6.1
+
+Profile Output
+
+** PLEASE NOTE ***
+
+Input fuze time setting increased for safe separation.
+
+Minimum Release Alt driven by fuze arming.
+
+** MISSION DATA ***
+AIRCRAFT
+
+GROSS WEIGHT
+MUNITION
+SUSPENSION
+DELIVERY
+
+6" BUZE DATA ***
+
+FUZE LOCATION
+
+NOSE FUZE
+
+NOSE FUZE TIME SETTING
+MAX FUZE ARM TIME
+
+*** ANGLE OFF POP-UP INFORMATION ***
+
+** RUN-IN DATA **
+
+RUN-IN ALTITUDE (AGL=ABOVE TGT ELEV)
+RUN-IN AIRSPEED
+
+RANGE IP TO TARGET
+
+HEADING IP TO TARGET
+
+** ACTION POINT DATA **
+BEARING ACTION PT TO TARGET
+RANGE ACTION PT TO TARGET
+HEADING ACTION PT TO PULL-UP
+RANGE IP TO ACTION PT
+
+TIME IP TO ACTION PT
+
+ACTION PT G/BANK
+
+RANGE ACTION PT TO PULL-UP
+CLIMB ANGLE
+
+TIME ACTION PT TO PULL-UP
+TURN ANGLE AT ACTION POINT
+PULL-UP G
+
+** ROLL-IN/PULL-DOWN DATA **
+ATTACK HEADING
+
+ROLL-IN G
+
+ROLL-IN AIRSPEED
+
+ROLL RATE
+
+PULL-DOWN ALTITUDE
+ANGLE-OFF
+
+APEX ALTITUDE
+
+RANGE PULL-UP TO PULL-DOWN
+RANGE PULL-UP TO TARGET
+ROLL-IN/PULL-DOWN TURN RADIUS
+
+TARGET ASPECT ANGLE AT PULL-UP 31 DEG
+
+TARGET ON RIGHT AT PULL-UP
+
+F15E PW220 W/CFT
+
+55000
+
+MK-84 LD
+BRU-47/A
+
+Dive
+
+Nose
+
+FMU-113/B
+6.00 SEC
+7.10 SEC
+
+504M
+494C
+10.6NM
+092M
+
+092M
+5.0NM
+066M
+5.6NM
+40 SEC
++4.00
+1.1NM
+30 DEG
+8 SEC
+26 DEG
+
+500A
+510T
+64535FT
+082T
+
+082T
+30381 FT
+056T
+34154FT
+
+6618FT
+
++4.0 in 1.0 SEC SEC
+
+126M 116T
++4.0 in 1.0 SEC
+432C 475T
+135 DEG/SEC
+4348M 4344A
+60R
+5997M 5993A
+1.6NM 9553FT
+4.1NM 24963FT
+4100FT
+
+.78M
+19670M
+
+9260M
+
+10410M
+
+2017M
+
+.74M
+
+2912M
+7609M
+
+Table D - 4. CWDS Profile Final Output (with “press” added)
+(Page 1 of 3).
+
+AGW-4
+
+
+Text from AGW-4_Pop-Up_Attacks_page_36.jpeg:
+*** RELEASE CONDITIONS ***
+
+NUMBER OF WEAPONS RELEASED 1
+RELEASE ALTITUDE FIRST WEAPON 4000A 4004M
+RELEASE ALTITUDE CORRECTED FOR ALT LAG 4054M
+RELEASE DIVE ANGLE 20 DEG
+RELEASE AIRSPEED 463C 500T
+TARGET DENSITY ALTITUDE 1975FT
+TARGET ELEVATION 4FT 1M
+TARGET TEMPERATURE +32C +90F
+*** TRACKING INFORMATION ***
+INITIAL PIPPER PLACEMENT 46.8 MILS
+PERCENT DOWN BOMB FALL LINE FROM FMP 60.0
+AIM-OFF DISTANCE 0.6NM 3946FT
+AVERAGE TRACK VELOCITY 802 FT/SEC
+MINIMUM ATTACK PERIMETER 1.8NM 10810FT
+ROLL-OUT (TRACK) AIRSPEED 408C 450T
+AOA AT TRACK ALTITUDE 43.2 MILS
+TRACK TIME 5 SEC
+TRACK/MAP ALTITUDE 5375M 53871A
+TRACK/MAP ALT CORRECTED FOR ALT LAG 5422M
+*** WEAPON CONDITIONS ***
+ZERO SIGHT LINE AOA 68.5 MILS
+S.D.F.P. 168.4 MILS
+TOTAL SIGHT SETTING 237.0 MILS
+CROSSWIND CORRECTION 15.3 FT/KT
+HEAD/TAIL WIND CORRECTION 0.9 MILS/KT
+F-15 CFT LATERAL DISPLACEMENT 538FT
+RANGE FIRST RELEASE TO IMPACT 1.2NM 7044FT
+SLANT RANGE AT RELEASE 8100FT
+TIME OF FALL FIRST RELEASE 9.07 SEC
+WEAPON IMPACT ANGLE 37 DEG
+WEAPON IMPACT VELOCITY 958 FT/SEC
+** SAFE ESCAPE SAFE SEPARATION DIVE RECOVERY INFORMATION ***
+SAFE ESCAPE MANEUVER 5G Climb Maneuver
+MRA FOR SAFE ESCAPE 1891A 1895M
+including alt lag 1942M
+MAX FRAGMENT TRAVEL
+ALTITUDE 33454 3349M
+HORIZONTAL RANGE 3851FT
+TOF 31.3 SEC
+DIVE RECOVERY G +5.0
+ALT LOST DURING DIVE RECOVERY 736FT
+RELEASE ALTITUDE FIRST WEAPON 4000A 4004M
+MIN ALT DURING DIVE RECOVERY 38264A 3268M
+ABSOLUTE REC ALT (NO SAFETY FACTOR) 736A 740M
+including alt lag 785M
+MRA FOR GP FUZE ARMING 2917A 2921M
+including alt lag 2970M
+POP UP PLANNER
+APPROACH POP ROLL DIVE RELEASE
+510T 380DEG RIGHT 20DEG 500T MAP
+500A +4.0 +4.0 5 SEC 4000A ALT
+
+IP-TGT HDG: 092M
+Action Distance: 5.0NM
+
+BOMB RANGE: 7044FT
+
+77M
+
+1203M
+
+3295M
+.70M
+
+2147M
+
+10810FT
+53871A
+
+Table D - 4. CWDS Profile Final Output (with “press” added)
+(Page 2 of 3).
+
+AGW-4
+
+
+Text from AGW-4_Pop-Up_Attacks_page_37.jpeg:
+POP UP PLAN FOR LEADER
+
+ANGLE-OFF 45 50 55 60 65 70 75
+AP TO PULL-UP HDG TRUE 062 060 058 056 054 052 050
+AP TO PULL-UP FT 5417 5771 6170 6618 7120 7680 8802
+AP TO PULL-UP SEC 6 7 7 8 8 9 10
+
+PULLUP TO PULL-DOWN FT 9697 9654 9607 9553 9495 9430 9358
+PULL-DOWN ALTITUDE AGL 4427 4403 43875 4344 4310 4273 4232
+
+APEX ALTITUDE AGL 5954 5966 5979 5993 6008 6024 £6040
+ATTACK HEADING TRUE 107. = 110 113 116 119 122 125
+PULL-UP TO RELEASE SEC 27 27 27 27 28 28 28
+TGT TO PULL-UP BRG TR 265 265 266 266 267 268 269
+TGT TO PULL-UP FT 25719 25497 25246 24963 24648 24300 23917
+
+Table D - 4. CWDS Profile Final Output (with “press” added)
+(Page 3 of 3).
+
+Ripple Release
+
+If a ripple release is desired, number of weapons to drop, type of drop
+(string for ripple single or multiple for ripple multiple) and impact spacing
+need to be entered on the Dive Delivery page. These factors should be
+input at the beginning of the planning process (calculating the MRA) to
+ensure the planned release altitude is based on the ripple release. The
+output is essentially the same through release and weapon conditions,
+where the first, last, and center bomb ranges, altitudes and times of flight
+will be listed. The center of stick ranges are used for calculating the MAP
+(Table D-5).
+
+D-31 AGW-4
+
+
+Text from AGW-4_Pop-Up_Attacks_page_38.jpeg:
+CWDS v6.1
+Profile Output
+
+** MISSION DATA ***
+
+AIRCRAFT
+GROSS WEIGHT
+MUNITION
+SUSPENSION
+DELIVERY
+
+* FUZE DATA ***
+
+FUZE LOCATION
+
+NOSE FUZE
+
+NOSE FUZE TIME SETTING
+MAX FUZE ARM TIME
+
+“ee ANGLE OFF POP-UP INFORMATION ***
+
+** RUN-IN DATA **
+
+RUN-IN ALTITUDE (AGL=ABOVE TGT ELEV)
+RUN-IN AIRSPEED
+
+RANGE IP TO TARGET
+
+HEADING IP TO TARGET
+
+** ACTION POINT DATA **
+BEARING ACTION PT TO TARGET
+RANGE ACTION PT TO TARGET
+HEADING ACTION PT TO PULL-UP
+RANGE IP TO ACTION PT
+
+TIME IP TO ACTION PT
+
+ACTION PT G/BANK
+
+RANGE ACTION PT TO PULL-UP
+CLIMB ANGLE
+
+TIME ACTION PT TO PULL-UP
+TURN ANGLE AT ACTION POINT
+PULL-UP G
+
+** ROLL-IN/PULL-DOWN DATA **
+ATTACK HEADING
+
+ROLL-IN G
+
+ROLL-IN AIRSPEED
+
+ROLL RATE
+
+PULL-DOWN ALTITUDE
+
+ANGLE-OFF
+
+APEX ALTITUDE
+
+RANGE PULL-UP TO PULL-DOWN
+RANGE PULL-UP TO TARGET
+ROLL-IN/PULL-DOWN TURN RADIUS
+TARGET ASPECT ANGLE AT PULL-UP
+TARGET ON RIGHT AT PULL-UP
+
+“ee RELEASE CONDITIONS ***
+NUMBER OF WEAPONS RELEASED
+RELEASE ALTITUDE FIRST WEAPON
+
+RELEASE ALTITUDE CORRECTED FOR ALT LAG
+
+RELEASE ALTITUDE LAST WEAPON
+ALTITUDE LOST DURING RIPPLE
+RELEASE DIVE ANGLE
+
+RELEASE AIRSPEED
+
+TARGET DENSITY ALTITUDE
+TARGET ELEVATION
+
+TARGET TEMPERATURE
+
+F15 PW220 W/CFT
+
+55000
+
+MK-84 LD
+BRU-47/A
+
+Dive
+
+NOSE
+FMU-113/B
+
+6.00 SEC
+
+7.10 SEC
+
+504M 500A
+494C 510T
+10.6NM 64535F
+092M 082T
+092M 082T
+5.0NM 30381FT
+065M 055T
+5.6NM 34154F
+40 SEC
+
++4.00
+
+1.0NM 5994FT 1827M
+30 DEG
+
+7 SEC
+
+27 DEG
+
++4.0 in 1.0 SEC
+
+125M 115T
+
++4.0 in 1.0 SEC
+
+430C 475T
+
+135 DEG/SEC
+
+4548M 4544A
+
+60R
+
+6197M = 6193A
+
+16NM 9900FT 3018M
+
+4.2NM 25555FT
+
+4100FT
+
+31 DEG
+
+4
+
+4200A 4204M
+4254M
+
+4096A 4100A
+
+104FT
+
+20 DEG
+
+462C 500T .77M
+
+1975FT
+
+4FT 1M
+
++32C +90F
+
+.78M
+19670M
+
+9260M
+10410M
+
+.74M
+
+7789M
+
+Table D - 5. Release Conditions Output for Ripple Release
+(4 x MK 84 with 50 ft spacing) (Page 1 of 3).
+
+AGW-4
+
+D - 32
+
+
+Text from AGW-4_Pop-Up_Attacks_page_39.jpeg:
+“ee TRACKING INFORMATION ***
+
+INITIAL PIPPER PLACEMENT
+
+PERCENT DOWN BOMB FALL LINE FROM FMP
+AIM-OFF DISTANCE
+
+AVERAGE TRACK VELOCITY
+
+MINIMUM ATTACK PERIMETER
+
+ROLL-OUT (TRACK) AIRSPEED
+
+AOA AT TRACK ALTITUDE
+
+TRACK TIME
+
+TRACK/MAP ALTITUDE
+
+TRACK/MAP ALT CORRECTED FOR ALT LAG
+
+*8 WEAPON CONDITIONS ***
+
+ZERO SIGHT LINE AOA
+
+S.D.F.P.
+
+TOTAL SIGHT SETTING
+CROSSWIND CORRECTION
+HEAD/TAIL WIND CORRECTION
+F-15 CFT LATERAL DISPLACEMENT
+RANGE FIRST RELEASE TO IMPACT
+RANGE LAST RELEASE TO IMPACT
+SLANT RANGE AT RELEASE
+
+RANGE RELEASE TO CENTER OF STICK
+TIME OF FALL FIRST RELEASE
+TIME OF FALL LAST RELEASE
+IMPACT SPACING
+
+STICK LENGTH
+
+RIPPLE INTERVAL
+
+WEAPON IMPACT ANGLE
+
+WEAPON IMPACT VELOCITY
+
+tek SAFE ESCAPE, SAFE SEPARATION, DIVE RECOVERY INFORMATION ***
+
+SAFE ESCAPE MANEUVER
+MRA FOR SAFE ESCAPE
+
+including alt lag
+MAX FRAGMENT TRAVEL
+
+ALTITUDE
+
+HORIZONTAL
+
+TOF
+DIVE RECOVERY G
+ALT LOST DURING DIVE RECOVERY
+RELEASE ALTITUDE FIRST WEAPON
+MIN ALT DURING DIVE RECOVERY
+ABSOLUTE REC ALT (NO SAFETY FACTOR)
+
+45.3 MILS
+60.0
+0.7NM 4159FT 1268M
+802 FT/SEC
+1.8NM 11147FT 3398M
+407C 450T .70M
+43.5 MILS
+5 SEC
+5575M 5571A
+5622M
+68.7 MILS
+169.3 MILS
+238.0 MILS
+15.9 FT/KT
+0.9 MILS/KT
+55FT
+1.2NM 7305FT 2227M
+7170FT 1.2NM 2185M
+8492FT
+7380FT
+9.41 SEC
+9.24 SEC
+50FT 15M
+150FT 46M
+119.8MS
+38 DEG
+963 FT/SEC
+5G Climb Maneuver
+2058A 2062M
+2109M
+3361A 3365M
+3869FT
+31.4 SEC
++5.0
+736FT
+
+4200A 4204M
+3360A 3364M
+854A 858M
+
+including alt lag 903M
+MRA FOR GP FUZE ARMING 8035A 3039M
+including alt lag 3087M
+POP UP PLANNER
+APPROACH POP ROLL DIVE RELEASE
+510T 380DEG RIGHT 20DEG 500T MAP 11147FT
+500A +4.0 +4.0 5 SEC 4200A ALT 5571A
+
+IP-TGT HDG: 092M
+Action Distance: 5.0NM
+
+BOMB RANGE: 7380FT
+
+Table D - 5. Release Conditions Output for Ripple Release
+(4 x MK 84 with 50 ft spacing) (Page 2 of 3).
+
+AGW-4
+
+
+Text from AGW-4_Pop-Up_Attacks_page_4.jpeg:
+CRITERION REFERENCED OBJECTIVES (CROs)
+
+1. Identify the attributes of and compute the parameters for pop-up
+
+deliveries.
+
+2. Perform crew duties in accordance with established guidelines.
+
+NOTE
+
+CRO #2 will be evaluated in the simulator and in flight.
+
+REFERENCES
+
+TO 1F-15E-1
+
+TO 1-1M-34
+
+TO 1-1M-44-1FD
+
+AFTTP 3-3
+
+AGW-4
+
+Section V
+
+Section VI
+Section VIII
+
+Chapter 5
+
+External Stores Limitations
+
+Safe Escape/Safe Separation
+Mission Planning
+
+CWDS (Conventional Weapons
+Delivery Software) for Windows
+
+version 6.1 (1 Jan 97)
+
+Air-to-Surface Employment
+
+
+Text from AGW-4_Pop-Up_Attacks_page_40.jpeg:
+ANGLE-OFF
+
+AP TO PULL-UP HDG TRUE
+AP TO PULL-UP FT
+
+AP TO PULL-UP SEC
+PULLUP TO PULL-DOWN FT
+PULL-DOWN ALTITUDE AGL
+APEX ALTITUDE AGL
+ATTACK HEADING TRUE
+PULL-UP TO RELEASE SEC
+TGT TO PULL-UP BRG TR
+TGT TO PULL-UP FT
+
+POP UP PLAN FOR LEADER
+
+45 50 55 60
+
+061 059 057 055
+4771 5131 5538 5994
+6 6 6 7
+10043 10001 9953 9900
+4627 4603 4575 4544
+6154 6166 6179 6193
+106 109 112 115
+
+27 27 28 28
+264 265 265 266
+26350 26116 25851 25555
+
+65
+053
+6506
+
+9841
+4510
+6208
+118
+
+266
+25224
+
+70 75
+
+051 050
+7077 =7712
+8 9
+
+9776 9705
+4473 4432
+6224 6240
+121 125
+28 29
+
+267 =©268
+
+24859 24458
+
+Table D - 5. Release Conditions Output for Ripple Release
+(4 x MK 84 with 50 ft spacing) (Page 3 of 3).
+
+AGW-4
+
+
+Text from AGW-4_Pop-Up_Attacks_page_41.jpeg:
+Indirect Pop-Up Rules of Thumb/Planning Worksheet
+
+Another way to compute pop-up parameters is to use the numbers
+obtained from the CWDS ballistics tables and enter them in the following
+pop planning worksheet.
+
+1. Bomb Range from the CWDS Tables
+
+ft
+2. Distances Covered Tracking
+Slant range = average TAS X 1.69 X track time ft
+Ground distance covered = slant range X cosine (dive angle)
+ft
+Altitude lost tracking = slant range X sine (dive angle)
+ft
+3. Minimum Attack Perimeter (MAP)
+Bomb range + ground distance covered ft
+4. Track Point Altitude (Roll-Out Altitude)
+Release altitude + Altitude lost tracking ft AGL
+Add target altitude for track altitude MSL ft AGL
+5. Climb Angle
+Dive angle + 5° (for 10-15° deliveries)
+Dive angle + 10° (for 20° and steeper) deg
+6. Optimum Bank Angle During Pull-Down
+180°-angle off deg
+7. Turn Radius (During Roll-In)
+v2 2
+TR= _ (TAS x 1.69)
+Grxg G rx 32.2
+ft
+Gr = radial G
+
+Gc = cockpit G
+
+D- 35 AGW-4
+
+
+Text from AGW-4_Pop-Up_Attacks_page_42.jpeg:
+Gr = \Be + [1 - (2 Gc)(cosine bank angle)}
+5000 feet is a reasonable rule of thumb for turn radius.
+
+8. Minimum Angle Off
+2 X Climb Angle deg
+
+9. Apex Altitude
+
+Track point altitude + (50 X dive angle) [3 - 4 G roll-in]
+
+Track point altitude + (37.5 X dive angle) [4.5 - 5 G roll-in]
+ft MSL/AGL
+
+10. Pull-Down Altitude
+Apex altitude - (climb angle X 50) [8 - 4 G roll-in]
+
+Apex altitude - (climb angle X 37.5) [4.5 - 5 G roll-in]
+ft
+
+11. Pull-Up (PUP) to Pull-Down Point Distance
+
+Apex altitude x 60
+Climb angle
+
+ft
+
+12. Aim-Off Distance
+
+( Release altitude
+
+———_____——_| - Bomb range
+Tan dive angle
+
+ft
+
+AGW-4 D - 36
+
+
+Text from AGW-4_Pop-Up_Attacks_page_43.jpeg:
+Pop-Up Planning Worksheet
+
+An example of a similar worksheet you may find in the flying squadron is
+provided below.
+
+1.
+
+Extract the Bomb Range from CWDS
+
+ft
+Distances Covered Tracking
+Slant Range = Average TAS X 1.69 X Time on Final
+ft
+Altitude Lost Tracking = Slant Range X Sine (Dive Angle)
+ft
+Ground Distance Covered = Slant Range X Cosine (Dive Angle)
+ft
+DIVE ANGLE SINE COSINE
+5 .0872 .9962
+10 1737 .9848
+15 .2588 .9659
+20 3420 .9397
+25 4226 .9063
+30 .5000 .8660
+45 .7071 .7071
+Minimum Attack Perimeter
+Bomb Range + Ground Distance Covered ft
+Track Point Altitude
+Release Altitude + Altitude Lost Tracking ft AGL
+Add Target Altitude for Tracking Altitude MSL ft MSL
+
+D - 37 AGW-4
+
+
+Text from AGW-4_Pop-Up_Attacks_page_44.jpeg:
+5. Turn Radius
+5000 Feet is a Good Conservative Rule of Thumb
+
+6. Climb Angle
+
+Dive Angle + 5° (For 10° and 15° Deliveries)
+
+Dive Angle + 10° (For 20° and Steeper)
+
+7. Optimum Angle Off
+
+2 X Climb Angle
+
+8. Apex Altitude
+
+Track Point Altitude (AGL) X (50 X Dive Angle)
+
+Add Target Altitude for Apex Altitude MSL
+
+9. Pull Down Altitude
+
+Apex Altitude (AGL)-(Climb Angle X 40) For A 4 To 5G Roll In
+
+Add Target Altitude for Pull Down Altitude MSL
+
+10. Pull Up Point
+
+(Apex Altitude + Climb Angle) X 60
+Subtract Run In Altitude if in Mountainous Terrain
+
+AGW-4 D - 38
+
+ft
+
+Degrees
+
+Degrees
+
+Degrees
+
+ft AGL
+
+ft MSL
+
+ft AGL
+
+ft MSL
+
+ft
+
+
+Text from AGW-4_Pop-Up_Attacks_page_45.jpeg:
+Plotting the Attack
+
+Drawing the Attack on Charts
+
+Once release conditions have been calculated and are known, start
+plotting out the pop-up attack on a map. Accuracy is critical during the
+planning and plotting and the more accurately planned, the better the
+results during the execution will tend to be.
+
+First, find the bomb range under Weapon Conditions. The MAP, aim off
+distance and the Track/Map Altitude are found in Tracking Information.
+The release altitude is found in Release Conditions. With these values, we
+can plot the bombing triangle (Figure D-12).
+
+TRACKING
+
+ALTITUDE
+a
+
+4000" AGL
+RELEASE
+
+3946" 7044" H 3766"
+
+1
+AOD > i¢ BOMB RANGE ————i<4———_ GROUND DISTANCE ——>
+' 10,810 VERED
+<¢—_—_—Y_—— MINIMUM ATTACK PERIMETER (MAP) | ———_-
+
+-“_-
+
+AGW-04-12
+
+Figure D - 12. Expanded Bombing Triangle.
+
+D - 39 AGW-4
+
+
+Text from AGW-4_Pop-Up_Attacks_page_46.jpeg:
+From the bomb triangle, we shift to a “God’s Eye” view and begin plotting
+the attack on a chart. Normally, a 1:50,000 or a 1:24,000 chart is used for
+attack planning (if available). With the God’s eye view, start at the target
+and work out. Begin by drawing a circle around the target at the MAP
+
+distance and a line out from the target to the MAP on the desired attack
+axis as shown in Figure D-13.
+
+RELEASE PT
+4000' AGL
+
+Figure D - 13.
+
+Next, from the ROLL-IN/PULL-DOWN DATA section, find the ROLL-
+IN/PULL-DOWN TURN RADIUS. This is normally between 4000' and
+
+5000' depending on how aggressive the maneuver over the top is (4.5 or
+3.5 Gs).
+
+AGW-4
+
+
+Text from AGW-4_Pop-Up_Attacks_page_47.jpeg:
+From the track point, draw in the turn radius towards the IP as shown in
+Figure D-14.
+
+RELEASE PT
+4000' AGL
+
+TRACK POINT
+5371' AGL
+
+XN
+XN
+PULL-DOWN
+We GROUNDTRACK
+
+ROLL-IN /
+TURN
+RADIUS
+
+—\_--"
+
+AGW-04-14
+
+Figure D - 14. Drawing MAP and Roll-In.
+
+D-41 AGW-4
+
+
+Text from AGW-4_Pop-Up_Attacks_page_48.jpeg:
+Draw a line tangent to the turn radius back to the IP. The point of
+tangency is the pull-down point (Figure D-15).
+
+AGW-04-15
+
+Figure D - 15. Drawing IP to Roll-In.
+
+AGW-4 D - 42
+
+
+Text from AGW-4_Pop-Up_Attacks_page_49.jpeg:
+Figure D-16 shows the planned pop with apex altitude, pull-down altitude
+and pull-up point added.
+
+RELEASE
+ALTITUDE
+
+(4000' AGL)
+
+TRACKING
+ALTITUDE
+(5371' AGL)
+
+APEX ALTITUDE
+ae (5993' AGL)
+ae ePULL-DOWN,
+ALTITUDE (4344' AGL)
+
+— PULL-UP-POINT
+
+AGW-04-16
+Figure D - 16. Apex, Pull-Down and Pull-Up Point.
+
+Finally, when planning and plotting an IP direct to target/action point
+offset pop-up attack, the CWDS program may not compute the proper turn
+radius at the action point. This may result in a tight pop-up attack and
+the perception of popping late. To help alleviate this problem, work from
+the target, to the MAP, to the ROLL-IN, to the PULL-UP point and then
+
+back to the action point. Also, remember the more precisely planned and
+plotted, the better the results will be.
+
+D - 43 AGW-4
+
+
+Text from AGW-4_Pop-Up_Attacks_page_5.jpeg:
+STUDENT PREPARATION REQUIREMENTS
+BEFORE CLASS
+
+1. Study the information contained in this workbook and complete the
+end of text quiz.
+
+2. Scan the listed references.
+
+C-1 AGW-4
+
+
+Text from AGW-4_Pop-Up_Attacks_page_50.jpeg:
+Templates
+
+Pop-up planning templates are available in many squadrons and often
+pilots or WSOs have their own pop-up templates. Exercise caution when
+using these templates because you are trusting someone else’s work and
+all the assumptions they made when building the template. Be especially
+careful, that it is the same scale as the map that you are using! You must
+still calculate the numbers (using CWDS) for your weapon types, delivery
+and conditions to ensure the attack can be flown as plotted. Plan a good
+attack and fly the attack as it is planned!
+
+Attack Card Preparation
+
+Once the attack has been planned and plotted, it must be put into a usable
+format for the cockpit. First, draw the attack on the map and convert the
+AGL numbers to MSL numbers (Figure D-17). One way to get a cockpit
+usable format is just to reduce the map the attack is drawn on. This can
+be done on a copy machine. This is the quickest and simplest method of
+making an attack planning card. However, due to coordinate grids,
+contour lines, target depictions, etc., it could become cluttered and hard to
+read once shrunk down.
+
+AGW-4 D - 44
+
+
+Text from AGW-4_Pop-Up_Attacks_page_51.jpeg:
+AGW-04-17
+
+17. Pop-Up Attack on Map.
+
+Figure D
+
+AGW-4
+
+D- 45
+
+
+Text from AGW-4_Pop-Up_Attacks_page_52.jpeg:
+An alternate to this method is a “Thumbnail Sketch” attack card. This
+attack card reduces the map into a hand drawing depicting the essential
+geographical features (Figure D-18). This takes longer, but is more
+readable in the cockpit. Other attack cards may be more or less elaborate
+depending on the target area and visual references available.
+
+J\, F-15E Attack Card = 4
+Attack Profile _20 CDIP
+
+PACS Prog
+
+IPData: ICW
+ns: N 3540.000 Elev: 22”
+ew: W 076 06.233
+
+Tot Data A/C ON RWY © strrt 9.
+NIS: N 3541.123 Elev: yY
+ew: W 075 52.862
+
+AGW-04-18
+
+Figure D - 18. Sample Attack Card.
+
+AGW-4 D - 46
+
+
+Text from AGW-4_Pop-Up_Attacks_page_53.jpeg:
+POP-UP POSITIONING ERRORS
+
+The most common error that necessitates a repositioning maneuver is a
+missed PUP caused by inadequate mission planning, navigation errors,
+unfamiliar terrain, weather and/or defensive reactions due to threats. If
+the PUP is missed, three things must happen. First, recognize that you
+are not on planned parameters. Second, assess whether you have
+sufficient turning room to complete the attack. Third, assess whether a
+repositioning maneuver is required.
+
+Five broad categories of errors exist that require repositioning. They are
+outside PUP, outside planned run-in, inside PUP, inside planned run-in,
+and inside PUP and run-in.
+
+Outside PUP
+
+If you initiate the pop too soon, as seen in Figure D-19, the options are:
+
+LEGEND
+
+ACTUAL
+
+——— PLANNED
+
+AGW-04-19
+
+Figure D - 19. Outside PUP.
+
+e Reduce G and climb angle, pull-down at a slightly higher than planned
+altitude and intercept the planned dive angle and attack axis (best
+solution due to flying to the preplanned parameters).
+
+D - 47 AGW-4
+
+
+Text from AGW-4_Pop-Up_Attacks_page_54.jpeg:
+e Pull-down at the planned altitude and accept a longer track time,
+lower dive angle and new attack axis.
+
+e Check away from the target, pull-down at a higher altitude, and
+intercept the planned dive angle at a lower airspeed and further from
+
+the target thereby increasing tracking time.
+
+e Reduce angle-off by turning toward the target (use care not to have
+less than 15° AO).
+
+e All are acceptable; however, they all increase exposure time.
+Outside Planned Run-In
+
+If you are outside the planned run-in line when you pop, you can (see
+Figure D-20):
+
+LEGEND
+
+ACTUAL
+
+——— PLANNED
+
+AGW-04-20
+
+Figure D - 20. Outside Planned Run-In.
+
+e Angle into the roll-in point during the pull-up and pull-down at the
+planned altitude (best solution due to flying to the preplanned
+parameters).
+
+AGW-4 D - 48
+
+
+Text from AGW-4_Pop-Up_Attacks_page_55.jpeg:
+Pull-down at a higher altitude and intercept the planned dive angle at
+a lower airspeed and further from the target. This increases tracking
+time.
+
+Pull-down at the planned altitude and accept a shallower dive angle
+with more tracking time and on a different attack axis.
+
+Inside PUP
+
+If you are past the planned PUP (Figure D-21), you only have a few
+choices:
+
+Pull to a higher climb angle, pull-down slightly early and intercept the
+planned attack (this takes aircraft back to preplanned parameters).
+
+Check away to use lateral turning room, pull down slightly late and
+accept the increased track time.
+
+Pull-down early and accept a shallow dive angle, more tracking time
+and a different attack heading.
+
+Abort the attack (here at F-15E FTU, this is the correct choice).
+
+LEGEND
+
+AGW-04-21
+
+Figure D - 21. Inside PUP.
+
+D - 49 AGW-4
+
+
+Text from AGW-4_Pop-Up_Attacks_page_56.jpeg:
+Inside Planned Run-In
+
+A pop initiated inside the planned run-in line (Figure D-22) may be
+correctable if the problem is not severe and recognized early.
+
+e Immediately turn back toward the planned track and intercept it prior
+to pull-down (best solution due to flying to the same roll-in point and
+preplanned parameters). Attack axis is farther around the MAP; abort
+if angle off exceeds 90°.
+
+e Ifyou are well inside the run-in line or you recognize it late, reposition
+outside the planned run-in line because of the additional turning room
+required to bring the nose back to the correct aim off distance at the
+track point.
+
+e Abort the attack if satisfactory entry/release parameters are not
+achieved.
+
+LEGEND
+
+AGW-04-22
+
+Figure D - 22. Inside the Planned Run-In.
+
+AGW-4 D- 50
+
+
+Text from AGW-4_Pop-Up_Attacks_page_57.jpeg:
+Inside PUP and Run-In
+The worst situation is to be inside the planned run-in line and
+
+pull-up-point (Figure D-23).
+The best option is to stay low, egress the area, and then reattack, hit
+
+e
+an alternate target, or return to base.
+If you are forced to attack, a 180° reversal may be required (not an
+
+e
+option at F-15E FTU).
+
+1
+1
+!
+1
+!
+1
+i
+I
+i
+'
+'
+t
+i
+!
+t
+i
+1
+1!
+t
+t
+1
+i
+t
+i
+!
+I
+!
+Li
+!
+!
+I
+t
+i
+i
+L
+
+o
+?
+iN
+”
+?
+”
+AGW-04-23
+
+Figure D - 23. Inside PUP and Run-In.
+
+AGW-4
+
+
+Text from AGW-4_Pop-Up_Attacks_page_58.jpeg:
+CREW COORDINATION
+Individual Duties
+
+As in other mission phases, crew coordination duties during low level,
+weapons delivery, etc. should be addressed during the crew briefing.
+However, these delineations must be flexible enough for adjustments
+when required by the situation and/or individual preference.
+
+Pilot Duties
+
+During pop-up attacks, it is the pilot’s primary duty to fly the planned
+attack and deliver ordnance on the target. To do this, the pilot must
+achieve the correct release parameters for the maneuver being flown so as
+to achieve the desired weapons effects and to avoid fragging himself or his
+wingman. The pilot must also evaluate the designation and redesignate if
+required. They will also set the FCP switches in accordance with the
+appropriate checklist. As always, not hitting the ground is of primary
+importance. If threats become a factor, the pilot will maneuver the
+aircraft as necessary.
+
+WSO Duties
+
+In general, the WSO will perform all functions and duties that are not
+performed by the pilot. These include initial designations, switch changes,
+PACS functions, UFC inputs, A/A and A/G radar operations, TFR changes,
+and other duties required to strike the target that can be performed in the
+RCP. The WSO has primary responsibility for threat lookout and
+countermeasures employment. The WSO must also maintain mutual
+support with other flight members during the attack. The WSO should
+also assist the pilot in target acquisition and maneuver accomplishment, if
+possible. This possibly includes “talking the pilot’s eyes onto the target,”
+calling altitudes/ airspeeds/dive angle, and monitoring safe escape. This
+should not interfere with the WSOs lookout responsibilities. As always,
+not hitting the ground is of primary importance.
+
+AGW-4 D - 52
+
+
+Text from AGW-4_Pop-Up_Attacks_page_59.jpeg:
+Mission Element Duties
+
+Prior to the IP
+
+The WSO keeps the navigation platform updated in both position and
+velocity so a NAV designation will be as accurate as possible. The WSO or
+the pilot clears the target area with the A/A radar and prepares for the
+final designation, if required. The pilot flies the aircraft and ensures
+ground clearance.
+
+The pilot normally stays in the NAV master mode, although this is not
+absolutely required, until just prior to the IP in order to work timing and
+get steering to the IP in case the WSO designates early. Strive to be at
+the IP on time so you can concentrate on flying the planned attack and not
+worry about making timing corrections IP to target. At or just prior to the
+IP, the pilot should select A/G master mode and turn the master arm on if
+it is not already armed. The WSO checks the PACS for proper
+programming and a RDY indication. The WSO should also confirm the
+VTRS is recording and the TEWS is set. Both the pilot and WSO should
+review the planned attack and be mentally prepared to fly it.
+
+IP to Target
+
+IP to target, the pilot’s main job is to fly the attack. The pilot must
+maneuver the aircraft, as required, to put bombs on the target which
+means flying the planned attack as closely as possible. The pilot should
+use both the aircraft systems and visual/timing reference points to find
+the pull-up point and the target. If a final designation is required, the
+WSO should get it as soon as possible and give the radar/command of the
+HUD to the pilot. The WSOs primary responsibility now becomes
+defensive. This includes visual lookout, maintaining mutual support as
+much as possible, TEWS employment and terrain clearance. The WSO
+gives the pilot any assistance deemed necessary to properly execute the
+attack (or that was briefed during crew coordination) such as an “UP” call
+at the pull-up point, a “pull-down” call at pull-down altitude, etc. The
+WSO should be especially cognizant of minimum release altitudes for safe
+escape. The pilot should keep the current designation until the target is
+sighted and the aircraft is in position to deliver ordnance. The pilot may
+then undesignate and/or thumb aft to CDIP, as required.
+
+D - 53 AGW-4
+
+
+Text from AGW-4_Pop-Up_Attacks_page_6.jpeg:
+(This Page Intentionally Blank)
+
+AGW-4 C-2
+
+
+Text from AGW-4_Pop-Up_Attacks_page_60.jpeg:
+Egress
+
+After weapons release, the pilot must complete the planned safe escape
+maneuver. The pilot may select auto guns to enhance radar look-out and
+prepare for a possible air-to-air engagement. The pilot also needs to be
+careful about buddy locks, which may set off the wingman’s RWR. As
+always, the pilot’s main job is terrain avoidance. After completion of the
+safe escape maneuver, the pilot flies the planned egress routing and
+regains mutual support. Once clear of the target area and mutual support
+has been regained, the pilot should return control of the radar to the
+WSO. During the safe escape maneuver, the WSO should continue visual
+look-out and maintain mutual support. The WSO may need to talk the
+pilot’s eyes onto other formation members or direct maneuvers to regain
+mutual support, and take command of the radar. The WSO should
+initially clear the egress routing in SRM and then MRM. The WSO
+should also check the PACS and confirm any remaining/hung ordnance.
+
+AGW-4 D- 54
+
+
+Text from AGW-4_Pop-Up_Attacks_page_61.jpeg:
+QUESTIONS
+
+Which of the following are reasons to adhere to planned release
+parameters?
+
+a.
+
+b.
+
+Ensure fuze arming, provide frag clearance and achieve desired
+impact angle
+
+Increase exposure time, ensure fuze arming and provide frag
+clearance
+
+Achieve desired impact angle, provide frag clearance and be less
+predictable
+
+Ensure fuze arming, achieve desired impact angle and CDIP
+requires you to fly exact parameters
+
+What is your maximum angle off when doing a 15° dive delivery?
+
+pe op
+
+40°
+50°
+60°
+90°
+
+If the pop is initiated outside the PUP, the crew should
+
+reduce G and climb angle to arrive at the planned roll-in point.
+pull-down at a lower altitude and intercept the planned dive
+angle on a new axis of attack.
+
+increase angle off by turning away from the target.
+
+D-55 AGW-4
+
+
+Text from AGW-4_Pop-Up_Attacks_page_62.jpeg:
+4. What is the pilot’s primary responsibility when performing a pop-up
+
+attack?
+
+a. Terrain avoidance
+
+b. Thumbing aft to CDIP
+
+c. Checking for a RDY
+
+d. Undesignating the target
+
+5. During egress, the WSO should
+
+monitor the safe escape maneuver.
+maintain/regain mutual support.
+maintain visual look-out.
+
+All of the above.
+
+ae op
+
+AGW-4 D - 56
+
+
+Text from AGW-4_Pop-Up_Attacks_page_63.jpeg:
+ANSWERS
+
+D-57 AGW-4
+
+
+Text from AGW-4_Pop-Up_Attacks_page_64.jpeg:
+(This Page Intentionally Blank)
+
+AGW-4 D - 58
+
+
+Text from AGW-4_Pop-Up_Attacks_page_65.jpeg:
+END OF TEXT QUIZ
+The MAP (minimum attack perimeter) is equal to
+
+release altitude + altitude lost tracking.
+
+bomb range + altitude lost tracking.
+
+bomb range + ground distance covered during track.
+release altitude + ground distance covered.
+
+po op
+
+Which of the following is NOT a factor when determining minimum
+release altitude?
+
+Fuze arm
+Weather
+
+Safe escape
+Dive recovery
+
+po op
+
+For a 20° dive angle pop up attack, what is your climb angle?
+
+a. 10°
+b. 20°
+c. 25°
+d. 30°
+
+E-1 AGW-4
+
+
+Text from AGW-4_Pop-Up_Attacks_page_66.jpeg:
+CWDS OUTPUT
+
+**ROLL-IN/PULL-DOWN DATA**
+
+ATTACK HEADING 223M 222T
+
+ROLL-IN G +4.0
+
+ROLL-IN ALTITUDE 2551M 2551A
+
+ROLL-IN AIRSPEED 472C 475T 72M
+PULL-DOWN ALTITUDE 33538M 83538A
+ANGLE-OFF 60R
+
+APEX ALTITUDE 3888M 3888A
+
+RANGE PULL-UP TO PULL-DOWN 1.4NM 8307FT 2532M
+RANGE PULL-UP TO TARGET 3.3NM 19875FT 6058M
+ROLL-IN/PULL-DOWN TURN RADIUS 5158FT
+
+TARGET ASPECT ANGLE AT PULL-UP 31 DEG
+
+TARGET ON RIGHT AT PULL-UP
+
+***RELEASE CONDITIONS***
+
+NUMBER OF WEAPONS RELEASED 1
+
+RELEASE ALTITUDE FIRST WEAPON 1829M 1829M
+RELEASE ALTITUDE CORRECTED FOR ALT LAG 1875M
+
+RELEASE DIVE ANGLE 20 DEG
+
+RELEASE AIRSPEED 489C 500T 76M
+TARGET DENSITY ALTITUDE OFT
+
+TARGET ELEVATION OFT 0M
+
+*** TRACKING INFORMAITON***
+
+INITIAL PIPPER PLACEMENT 52.9 MILS
+
+PERCENT DOWN BOMB FALL LINE FROM FPM 42.0
+
+AIM-OFF DISTANCE 0.2NM 1335FT 407M
+AVERAGE TRACK VELOCITY 823 FT/SEC
+
+MINIMUM ATTACK PERIMETER 1.2NM 7505FT 2303M
+ROLL-OUT (TRACK) AIRSPEED 455C 475T .73M
+AOA AT TRACK ALTITUDE 69.7 MILS
+
+TRACK TIME 5 SEC
+
+TRACK/MAP ALTITUDE 3236M 8236A
+TRACK/MAP ALT CORRECTED FOR ALT LAG 3282M
+
+AGW-4 E-2
+
+
+Text from AGW-4_Pop-Up_Attacks_page_67.jpeg:
+Use the CWDS output to answer the following questions.
+
+4. What is the track altitude AGL?
+
+a. 2551A
+b. 3353 A
+c. 3236A
+d. 7555 ft
+
+5. What is the aim off distance?
+
+a. 13835 ft
+b. 7555 ft
+c. 1829A
+d. 3236A
+6. What is your best repositioning maneuver, when inside the PUP and
+run-in?
+a. A90° reversal
+b. Do not have to reposition
+c.  Reattack
+d. A180° reversal
+
+7. |The primary crew member responsible for flying the attack is
+
+a. the WSO.
+b. _ the pilot.
+c. either one.
+
+E-3 AGW-4
+
+
+Text from AGW-4_Pop-Up_Attacks_page_68.jpeg:
+(This Page Intentionally Blank)
+
+AGW-4 E-4
+
+
+Text from AGW-4_Pop-Up_Attacks_page_69.jpeg:
+AGL
+
+AO
+
+AOD
+
+ASL
+
+CDIP
+
+CWDS
+
+INS
+
+IP
+
+MAP
+
+MRA
+
+MRM
+
+MSL
+
+PUP
+
+RWR
+
+SRM
+
+TDA
+
+GLOSSARY
+Above ground level
+Angle off
+Aim-off distance
+Azimuth steering line
+Continuously displayed impact point
+Combat Weapons Delivery Software
+Inertial navigation system
+Initial point
+Low altitude toss
+Minimum attack perimeter
+Minimum release altitude
+Medium range missile
+Mean sea level
+Pull-up point
+Radar warning receiver
+Short range missile
+
+Target density altitude
+
+AGW-4
+
+
+Text from AGW-4_Pop-Up_Attacks_page_7.jpeg:
+TEXT
+POP-UP ATTACKS
+Introduction
+
+The objective of tactical fighter operations in air interdiction missions is to
+delay, neutralize or destroy the military potential of the enemy before it
+can be effectively brought to bear against friendly forces. Deception and
+surprise are two invaluable ingredients in achieving success in any attack.
+They both can be achieved to some degree when a pop-up delivery is used
+in conjunction with a low level approach.
+
+A pop-up attack allows an aircraft to ingress low altitude, then reposition
+to a visual high or low drag weapon release profile and get back into the
+low altitude environment with minimal exposure. This attack profile
+enhances visual acquisition of the target and helps in satisfying weapons
+effects, dive recovery, safe separation and safe escape requirements.
+While in the pop-up profile, the aircraft is maneuvering in three
+dimensions, making enemy tracking difficult; but pop-up attacks require
+precise planning and execution to ensure target destruction and
+survivability of your own aircraft.
+
+Terms
+The following terms are illustrated in Figure D-1.
+
+Initial Point (IP)
+
+The point along the low level route where the air-to-ground target attack
+commences. Preferably, the IP should be a visually significant point.
+
+Approach Heading
+
+The heading from the initial point (IP)/action point to the pull-up point
+(PUP).
+
+Angle Off (AQ)
+
+The angle between the extension of the approach heading and the attack
+heading.
+
+D-1 AGW-4
+
+
+Text from AGW-4_Pop-Up_Attacks_page_8.jpeg:
+Pull-Up Point (PUP)
+
+A position at which the climb is initiated. Also called the pop-up point.
+Climb Angle
+
+The angle of climb that is to be achieved during the pull-up.
+Pull-Down
+
+A maneuver to transition from the climbing to the diving portion of a
+pop-up delivery.
+
+Pull-Down Point
+
+The geographical point in space where the pilot rolls the aircraft to
+initiate the pull-down maneuver.
+
+Pull-Down Altitude
+
+The altitude at which the pilot rolls the aircraft to initiate the pull-down
+maneuver.
+
+Pull-Up to Pull-Down Distance
+
+Distance covered along the ground during the climb between the pull-up
+and the point where the pull-down is initiated.
+
+Apex
+
+The highest altitude attained in the pop-up delivery.
+Track Point
+
+A point in space where target tracking is initiated.
+
+Tracking Time
+
+The amount of time with wings level on final between track point and
+pickle.
+
+Attack Heading
+
+The planned heading to be flown on final, from the track point to the
+release point.
+
+AGW-4 D-2
+
+
+Text from AGW-4_Pop-Up_Attacks_page_9.jpeg:
+Minimum Attack Perimeter (MAP)
+
+An imaginary circle centered on the target with a radius equal to the
+distance from the target at which tracking begins. The radius of the circle
+varies with delivery parameters, track time and type of munition.
+
+MAP Distance
+
+Distance from the MAP to the target (MAP distance = bomb range +
+ground distance covered while tracking).
+
+Aim-Off Distance (AOD)
+
+The distance from the target to a point on the ground beyond the target
+that is the projected flight path of an aircraft in a dive delivery. This is
+the same point where the velocity vector is placed to achieve given
+parameters in a diving delivery.
+
+Release Altitude
+
+Planned altitude where weapons will be released from the aircraft (equal
+to minimum release altitude (MRA) + press factor, discussed later in
+workbook).
+
+APEX
+PULL-DOWN POINT —"
+a" a
+
+PULL-DOWN
+ALTITUDE
+
+[| " PUP MINIMUM
+
+RELEASE
+
+APPROACH HEADING
+
+PULL-UP TO PULL-DOWN
+DISTANCE
+
+AGW-04-01
+
+Figure D - 1. Pop-Up Terms.
+
+D-3 AGW-4
+
+

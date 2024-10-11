@@ -1,0 +1,1707 @@
+Text from OPS-2_AHC_page_1.jpeg:
+SUPPORTS COURSES
+FIS5EBQ
+
+FISETX
+
+FISESOC
+
+ACADEMIC STUDENT WORKBOOK
+F-15E
+
+OPERATIONS
+OPS-2
+AIRCRAFT HANDLING
+CHARACTERISTICS (AHC)
+
+MARCH 2000
+
+(SUITE 3 OFP)
+
+AIR COMBAT COMMAND
+
+
+Text from OPS-2_AHC_page_10.jpeg:
+AOA Warning Tones
+
+A 900 Hz double tone (two short 10Hz beeps followed by a .3 second pause) is
+available to cue the aircrew when a programmed angle of attack limit is
+exceeded. In addition to the warning tone, the AOA units displayed in the
+HUD will flash when this limit is exceeded. The system limit defaults to
+
+30 units at power up with CFTs, external air-to-ground stores, or
+miscellaneous stores loaded on the aircraft. The system can be programmed
+for 20 to 50 units through the HUD repeater format. Enter the desired value
+(20-50 units) in the UFC scratchpad and then depress PB #15 on the HUD
+repeater to enter the value. Setting 46 to 50 units disables the AOA warning
+tone. The gear down AOA tone is a high pitch (1600 Hz) beeping tone, which
+starts at 28.4 units. The beep rate increases as AOA increases. The tone can
+be eliminated by decreasing AOA.
+
+Coefficient of Lift (C,) Versus AOA
+
+The generalized C, versus AOA curve for a high speed, swept wing aircraft
+(Figure D-2) illustrates the way C,, varies with changing AOA.
+
+C, MAX = MAXIMUM LIFT COEFFICIENT
+As = STALL AOA OPS-02-02
+
+Figure D - 2. C, Versus AOA.
+
+OPS-2 D-4
+
+
+Text from OPS-2_AHC_page_11.jpeg:
+Lift coefficient increases as AOA increases to some maximum value of C,, at
+which point any further increase in AOA results in decreased lift. As the
+figure shows, this happens in the negative AOA direction also.
+
+The AOA associated with C,, MAX is the classic “stall” AOA (alpha). An
+aircraft can be limited to some AOA less than alpha due to control authority
+limits or a handling qualities limit.
+
+In any event, whatever limits the maximum usable AOA or C, ends up
+determining the definition for stall in that aircraft. The stall itself may be
+spectacular or a nonevent, but it is always a limit to performance. In the
+F-15E, classic stall AOA is never achieved due to the aft stick stabilator limit
+being reached before actual C, MAX.
+
+Coefficient of Lift (C,) Versus Coefficient of Drag (Cp)
+
+In studying the effect of AOA on performance, it is necessary to look at how
+drag is related to lift production. It is referred to by several names, but
+regardless of what it is called, the relationship of drag to lift is the root of
+aircraft performance.
+
+D-5 OPS-2
+
+
+Text from OPS-2_AHC_page_12.jpeg:
+A typical curve showing this lift versus drag relationship is shown in
+
+Figure D-3. Unless the aircraft under study is a glider, the L/D relationships
+must be related to engine performance in order to determine optimum
+performance.
+
+This data is presented in 1F-15E-1-1 Performance Data. These work for
+preflight planning purposes; but for in-flight situations, charts are not
+practical and rules of thumb that produce near optimum performance are of
+much greater value.
+
+12
+
+L/D
+
+OPS-2
+
+0.24
+
+0.20
+
+0.08
+
+0.04
+
+0.2 0.4 0.6 0.8 1.0 1.2 OPS-02-03
+
+Figure D - 3. Generic C,, Versus Cp Curve.
+
+
+Text from OPS-2_AHC_page_13.jpeg:
+AOA Rules of Thumb
+
+Best cruise and best loiter (endurance) is a concern at one time or another
+during any flying career (e.g., first the crew is told to divert, and at the divert
+base, is told to hold). The crew needs simple solutions to generate near
+optimum performance.
+
+In the F-15E, 14 units AOA at or below 25,000 feet or 14.5 units AOA above
+25,000 feet establishes optimum cruise. This should give max range for the
+present altitude; and, if the aircraft goes to the optimum altitude for the
+configuration (probably near the tropopause), this should provide the overall
+max range.
+
+For max endurance, 18 units AOA at or below 25,000 feet or 17 units AOA
+above 25,000 feet works well. Maximum endurance is not altitude sensitive.
+Climbing to optimum holding altitude does reduce fuel flow, but it takes more
+than an hour to save the extra fuel used to climb.
+
+In a fighter aircraft, turn performance is also a major concern. Of interest
+are the maximum turn and the optimum turn. The max turn for any set of
+conditions is easy for the F-15E because it is obtained at full aft stick, or the
+G limit, whichever comes first. Be careful though, because in many
+configurations, there is a 30-unit AOA limit. The max turn can normally be
+sustained only for a few seconds before you must ease off the stick to stay
+below 30 units. Airspeed will bleed off at a high rate when performing a max
+turn.
+
+The optimum turn refers to the maximum turn rate that can be maintained
+without losing energy. Generally, an optimum energy-conserving turn
+requires about 16-22 units AOA.
+
+So now you have some AOAs to put in your bag of tricks. To obtain generic,
+near optimum performance inside the envelope, fly:
+
+8-10 units for best acceleration
+
+14/14.5 units for max range cruise (25,000 feet or > 25,000 feet)
+
+18/17 units for max endurance (25,000 feet or > 25,000 feet)
+
+16-22 units for optimum, energy-sustaining turns
+
+28-30 units for best rate
+
+Aircraft G limiter full aft stick for max turns (unless otherwise limited by
+AOA)
+
+D-7 OPS-2
+
+
+Text from OPS-2_AHC_page_14.jpeg:
+NORMAL FLIGHT CHARACTERISTICS
+
+Normal flight characteristics deal with the subjects of stability, control and
+maneuverability. Of interest are: how easily you are able to change an
+aircraft’s flight path (maneuverability), how much effort you must expend to
+keep the aircraft’s nose pointed forward (controllability) and how the aircraft
+responds to small disturbances (stability).
+
+These three areas are tied together and are usually not constant throughout
+the flight envelope. As a matter of fact, in high-speed aircraft that carry
+expendable stores, large changes in stability and control can occur in flight.
+
+Terms and Relationships
+
+Stability deals with the reaction of systems disturbed from equilibrium. It is
+described as being positive, negative or neutral. Positive indicates a tendency
+to return to equilibrium once disturbed. Negative indicates a tendency to
+move away from equilibrium. Neutral implies no tendency to regain or move
+away from equilibrium. Figure D-4 illustrates this concept.
+
+POSITIVE A NEGATIVE B NEUTRAL C
+
+OPS-02-04
+
+Figure D - 4. Static Stability Hlustration.
+
+Static stability refers to the initial tendency to return to equilibrium, and
+dynamic stability refers to the tendency to finally settle back at the original
+condition. Dynamic stability can also be positive, negative or neutral.
+Another look at Figure D-4 reveals that only the system with positive static
+stability has any chance of being dynamically stable.
+
+OPS-2 D-8
+
+
+Text from OPS-2_AHC_page_15.jpeg:
+Maneuverability deals with how easy it is to intentionally alter the
+equilibrium condition. It can be viewed as being opposed to stability.
+
+Controllability deals with the ease with which equilibrium can be
+maintained.
+
+As stability is increased, maneuverability decreases and it becomes difficult
+to change the aircraft’s flight path. On the other hand, as stability is
+decreased, maneuverability increases, but the flight path becomes more
+difficult to control. Stability can be decreased to a point where controlling the
+aircraft becomes a full time job; and finally, in aircraft such as the F-16,
+control is impossible with a manual flight control system.
+
+A fighter should be as maneuverable as possible, but not require a pilot’s full
+effort to control it. This puts limits on stability. When stability is reduced to
+enhance maneuverability, there are ways to provide apparent stability.
+Variable gain flight controls and stability augmenters can make an aircraft
+seem more stable to the pilot than it really is.
+
+The F-15E uses variable gain controls. Pitch and roll channel response is
+modified to compensate for changing aerodynamic conditions. The F-15E also
+employs a control augmentation system (CAS) in pitch, roll and yaw. The
+CAS complements manual control inputs and provides damping.
+
+These systems together provide the controllability of a fairly stable aircraft.
+At the same time, maneuverability is very good and similar to that available
+in a marginally stable aircraft.
+
+AOA and Mach Effects
+
+As mentioned earlier, stability of an aircraft is not constant throughout its
+flight envelope. Variations in AOA and Mach number change the stability of
+an aircraft. The effects of these variations on the F-15E are discussed below.
+
+D-9 OPS-2
+
+
+Text from OPS-2_AHC_page_16.jpeg:
+AOA Effects
+
+As long as AOA remains in the linear portion of the C, versus AOA curve,
+aircraft stability is not affected by changes in AOA. However, when AOA
+goes well beyond this straight line area, airflow patterns over the airframe
+change significantly. Flow separation occurs from some areas, and flow
+blanking occurs in other areas.
+
+Flow separation results in the center of pressure moving forward, reducing
+stability. The result is a tendency for nose rise or pitch up. Less stabilator
+input is required to raise the nose. Flow blanking, on the other hand, affects
+the vertical tails. Reducing flow over the tails reduces their contribution to
+directional stability.
+
+The net result of the changes at high AOA is an overall reduction of stability
+and controllability at a time when control becomes critical. The changes can
+
+make operating at very high AOA dangerous.
+
+Mach Effects
+
+Airflow characteristics vary with Mach number; in general, supersonic flow
+becomes incompressible. In the transonic region, as the airflow pattern
+changes from one of primarily subsonic flow to supersonic flow, there is a
+large center of pressure change (from approximately .25 to .560 MAC (mean
+aerodynamic cord)). This change generates a large nose down pitching
+moment, which is known as Mach tuck.
+
+As airspeed changes from supersonic to subsonic, the center of pressure
+moves forward, which generates a large nose up pitching moment, known as
+transonic dig-in. These characteristics may cause control difficulties when
+operating near Mach 1.
+
+In addition to changes in longitudinal (pitch) stability, directional (yaw)
+stability changes with Mach number. In general, directional stability
+increases through Mach 1 and then begins to decrease. The sweep back of
+the wing adds to directional stability in the transonic region, but its effects
+are overcome at higher Mach numbers (sweep back needs to increase). At
+high Mach numbers lift decreases and the vertical tail surfaces lose
+effectiveness at generating side loads to offset side slip, leading to reduced
+directional stability.
+
+OPS-2 D-10
+
+
+Text from OPS-2_AHC_page_17.jpeg:
+F-15E Flight Controls
+
+Since Mach and AOA effects tend to change aircraft response to pilot inputs,
+and changing response may lead to overcontrol, the F-15E flight control
+system was designed to compensate. The automatic flight control system
+(AFCS) modifies aircraft response so as to mask the changes in stability
+caused by AOA and Mach effects. Hence, nose rise, pitch-up, stick force
+lightening, Mach tuck and transonic dig-in do not show themselves in a
+normally functioning Eagle. The phenomena are present, but are not
+apparent to the pilot.
+
+This means the pilot can maneuver aggressively throughout the envelope
+with little fear of overcontrol. Remember, though, the destabilizing
+phenomena are real and must be dealt with by the pilot if the AFCS is not
+doing its job.
+
+Landing Configuration
+
+The landing configuration alters an aircraft’s basic stability for several
+reasons. Gear struts and doors alter airflow patterns and create pitching
+forces. Raising and lowering gear changes the aircraft CG. Moving flaps
+changes wing shape and effective lift. All of these changes combine to reduce
+longitudinal and directional stability and/or limit stabilator authority.
+
+The F-15E flight control system compensates, in part, for the landing
+configuration. However, since full aileron and differential stab response to
+lateral stick is available at any longitudinal stick position when the landing
+gear is down, significant adverse yaw may exist at high AOA. An AOA limit
+of 30 units has been established to prevent departure in the landing
+configuration. The 1600 Hz AOA tone will sound at 28.4 units AOA in the
+landing configuration to help prevent departures.
+
+D-11 OPS-2
+
+
+Text from OPS-2_AHC_page_18.jpeg:
+ADVERSE HANDLING CHARACTERISTICS
+
+This section looks at some configurations and conditions encountered which
+affect the F-15Es handling characteristics.
+
+External Stores
+
+Adding external stores to an aircraft does three things: changes airflow and
+air loads, changes the center of gravity and adds weight. Since these three
+factors influence handling characteristics, it is safe to say adding external
+stores to an aircraft changes its handling characteristics. Just how and to
+what magnitude handling characteristics change is another story. Among
+other things, stores affect more than one axis.
+
+OPS-2 D-12
+
+
+Text from OPS-2_AHC_page_19.jpeg:
+Symmetrically Loaded Stores
+
+Aerodynamic Effects: External stores are aerodynamically unstable in
+themselves, and they tend to aerodynamically destabilize an aircraft in one or
+more axes. Fuselage stores reduce lateral/directional stability, while wing
+stores reduce longitudinal stability.
+
+CG Effects: Loading stores change the aircraft CG. The CG movement may
+be in any or all three axes. Longitudinal changes affect pitch stability.
+Lateral changes affect lateral/directional stability and departure/spin
+susceptibility. Vertical changes are usually not terribly significant.
+Longitudinal changes are usually of most interest and are, in fact, the only
+ones routinely computed for the crew by the wing quality assurance function.
+As CG moves forward, the aircraft becomes more stable. As CG moves aft,
+the aircraft becomes less stable in pitch. The same statement generally
+applies to directional stability as well. Figure D-5 illustrates the effects of
+external stores on overall aircraft stability.
+
+F-15E
+
+Lu
+—_
+< 4
+D +— F-15E + -4CFTs
+v3
+g 5 /,— F-15E + -4CFTs + LANTIRN
+A
+
+1 ~
+
+“N
+
+STATIC MARGIN - PERCENT MAC
+
+v 0 va FASE + -ACFTs + LANTIRN
+lu /
+q ~~ + ONS + 12 CBU-58
+TF y— FASE + -ACETs + LANTIRN
+Zz -2 + WING PYLONS WITH WING
+> TANKS + 12 CBU-58
+w 4 (UNAUTHORIZED CONFIGURATION)
+=
+-4
+04 05 06 O7 O08 09 10
+MACH NUMBER
+CENTER OF GRAVITY = 29% MAC ALTITUDE = 5,000 FT
+
+OPS-02-05
+
+Figure D - 5. Stores Effects on Stability.
+
+D-18 OPS-2
+
+
+Text from OPS-2_AHC_page_2.jpeg:
+ADMINISTRATIVE INFORMATION
+
+This student workbook is designed to provide information on the F-15E,
+its systems and capabilities. It is not a sole source document, but is to be
+used in conjunction with other standard Air Force publications and
+technical manuals. If you find any differences between the material
+contained herein and other governing regulations, adhere to the
+regulations and notify the OPDR.
+
+Changes to this workbook are indicated with a heavy black line in the left
+margin.
+
+Forward recommendations for revision or change to 4 TS, SJAFB, NC
+275381.
+
+Supersedes: OPS-2, January, 1999
+
+OPDR: 4 TS
+
+Index of Changes
+
+Effective Date Pages Affected
+
+
+
+Text from OPS-2_AHC_page_20.jpeg:
+Inertial Effects: Stores add mass to the aircraft (for some, the mass is quite
+large). This mass equates to added inertia; thus, it is harder to get the
+aircraft to move and harder to get it to stop once motion is established. Since
+the mass distribution is changed along with the total mass, inertial response
+and inertial coupling are also changed in all three axes. On the plus side, the
+added mass tends to dampen short term disturbances, providing a more solid
+feeling aircraft.
+
+Total Effect: The total effect of loading external stores on the F-15E is a
+combination of all the individual effects. The F-15E flight control system
+compensates for much of the change caused by loading stores, but not all.
+The aircraft is somewhat more sluggish due to inertial effects. The aircraft is
+more susceptible to departure at high AOA due to store instability. Ifa
+departure occurs, it is more violent than in the clean aircraft. Also, recovery
+from out-of-control situations normally takes longer.
+
+Asymmetrically Loaded Stores
+
+The aerodynamic, CG and inertial effects of asymmetrically loaded stores are
+the same as for symmetrically loaded stores. However, rolling and yaw
+moments are created due to the unbalanced loads. Once again, the flight
+control system can, up to a point, compensate for these moments. At high
+AOA, the flight control inputs needed to counter the asymmetry can be more
+than the system can provide and may greatly increase departure and spin
+susceptibility. Should a departure or spin occur, recovery time is significantly
+increased.
+
+The aircraft is fully controllable below 30 units AOA with lateral asymmetry
+equivalent to one full external wing tank. Above 30 units AOA, lateral
+asymmetry is the most significant factor contributing to departure
+susceptibility.
+
+OPS-2 D-14
+
+
+Text from OPS-2_AHC_page_21.jpeg:
+Dash 1 restrictions are designed to keep lateral asymmetry under 5000 ft-lbs,
+thereby keeping the aircraft resistant to departures and spins. Lateral
+asymmetry over 5000 ft-lbs significantly increases susceptibility to
+departures/spins. Extreme susceptibility occurs at 7000 ft-lbs.
+
+Single Engine Operation
+
+Due to the way the engines are mounted, the high thrust output of the
+engines, and flight control mechanization, single engine operation does not
+produce significant yaw/sideslip if conditions permit operating below MIL
+power on the good engine. If afterburner is required (e.g., high gross weight
+and/or high air temperature), sideslip becomes quite noticeable (especially
+with -229 engines).
+
+F-15Es equipped with -229 engines may experience a departure characterized
+by rapid uncommanded sideslip, should an asymmetric thrust condition be
+encountered at high speeds and power setting. The Asymmetric Thrust
+Departure Prevention System (ATDPS) is designed to provide protection
+against such an occurrence.
+
+During normal cruise and recovery operations, there are no special control
+problems associated with single engine operation. The most significant
+handling problem is flight control transients, which degrade aircraft handling
+characteristics caused by cycling hydraulic switchover valves. To prevent
+switchover valve cycling, avoid stabilized flight where engine windmilling
+conditions produce hydraulic pressure fluctuations between 800 and 2000 psi.
+In addition, at high gross weights the ability to climb or accelerate is severely
+degraded.
+
+No Flap Landing
+
+The no-flap landing configuration presents no particular handling problem.
+The aircraft is slightly more pitch sensitive than with the flaps down, and
+total drag is reduced. The pitch attitude for a given AOA is noticeably higher
+than with the flaps down. These combine to make a precise spot landing
+slightly more difficult.
+
+Turbulence
+At lower gross weight and wing loadings, the F-15E exhibits a bumpy ride in
+
+turbulent air. This should not cause significant flight path variation, but
+may be uncomfortable.
+
+D-15 OPS-2
+
+
+Text from OPS-2_AHC_page_22.jpeg:
+QUESTIONS
+
+1. What four limits form the flight envelope?
+
+pe op
+
+2. An aircraft can be limited to an AOA, which is less than stall AOA due to
+control authority limits or a handling qualities limit.
+
+a. True
+b. False
+
+3. Best loiter AOA for the F-15E is approximately units.
+
+a. 7.9
+
+b. 8.5
+
+c. 18
+
+d. 16-22
+
+4. As stability is increased, maneuverability is
+
+5. Transonic dig-in causes an over G in the F-15E if even moderate
+maneuvering is attempted when decelerating through Mach 1.
+
+a. True
+b. False
+
+OPS-2 D-16
+
+
+Text from OPS-2_AHC_page_23.jpeg:
+ANSWERS
+
+a. airspeed
+b. Mach
+c. thrust
+d. AOA
+a
+
+c
+decreased
+b
+
+OPS-2
+
+
+Text from OPS-2_AHC_page_24.jpeg:
+ADVERSE FLIGHT CHARACTERISTICS
+
+Even though the F-15E flight control system alleviates many of the more
+undesirable characteristics of a swept wing fighter, the characteristics are
+there and can cause grief under certain conditions. Adverse yaw, stalls,
+departures, coupling, autorolls, spins and inadvertent nose high/nose low
+situations can all occur and need some discussion.
+
+Adverse Yaw
+
+Sideslip produced by roll control deflection is known as adverse yaw. Effects
+of this sideslip can vary from barely noticeable to spectacular. Adverse yaw
+varies with AOA and is strongest at high AOA.
+
+Cause - Deflection of ailerons effectively changes a wing’s shape, AOA and lift
+vector orientation. These changes affect drag as well as lift and produce
+yawing moments.
+
+Cues/Recognition - Sideslip created by adverse yaw displaces the ball of the
+turn and slip indicator, if displayed. The crew members may also feel
+themselves being pushed laterally in the cockpit. Reduced roll rates, roll
+hesitation or roll reversal may occur at higher AOA.
+
+Prevention/Recovery - The solution to adverse yaw is to use rudder to
+coordinate all turns and “keep the ball centered.” Fortunately, the F-15E
+flight control system does this for you. The mechanical flight control system
+washes out aileron deflection at high AOA (with the gear up) to reduce
+adverse yaw, and the ARI blends in rudder to overcome any sideslip
+produced. If operating with a degraded AFCS, (roll CAS OFF, or pitch or roll
+ratio EMERG), use manual rudder to coordinate turns. Limiting AOA also
+reduces adverse yaw. With the gear down, ailerons are not washed out and
+adverse yaw is more pronounced.
+
+Stalls
+
+In the purest sense, stall occurs after C,, MAX is exceeded. Beyond
+
+C,, MAX, further increases in AOA reduce C,; however, available stabilator
+authority does not permit reaching actual C,, MAX in the F-15E. In practice,
+there are several definitions for stall, but all are based on some maximum
+useful lift coefficient.
+
+OPS-2 D-18
+
+
+Text from OPS-2_AHC_page_25.jpeg:
+One G Stall
+
+This stall occurs when the extreme of useful C,, is achieved in unaccelerated
+flight. In the F-15E, the wing is not fully stalled in this situation.
+
+Cause - Maximum AOA at full aft stick is achieved. C, MAX for the aircraft
+is not achieved, but AOA cannot be increased using the stick. There is not
+enough thrust to overcome the drag in this situation, so the aircraft goes
+downhill.
+
+Cues / Recognition - This stall has no spectacular cues. In a 1 G stall, the
+stick is against the aft stop; the AOA is stabilized at 38 units or above. Light
+buffet begins at approximately 15 units AOA, increases in intensity until
+
+23 units and then remains fairly constant. Buffet begins earlier and is
+somewhat more intense with external stores aboard. Small roll/yaw
+oscillations are present. The aircraft is sinking; roll/yaw response is almost
+nonexistent.
+
+Prevention / Recovery - If in a 1 G stall, neutralize lateral control inputs and
+ease the stick forward to reduce AOA. Add power, if available, to speed up
+
+the recovery.
+
+Accelerated Stall
+
+In this stall, once again, the wing does not exceed its maximum lift potential.
+However, airframe buffet is heavy and moderate yaw and roll oscillations
+occur. Drag is high and the energy state and flying characteristics quickly
+approach the 1 G condition.
+
+Cause - High AOA induces flow separation, and the turbulent air impinging
+on parts of the airframe causes buffet.
+
+Cues / Recognition - The key indicators for this stall are the heavy airframe
+buffet and moderate roll/yaw oscillations. There is also a very rapid energy
+bleed off rate. Buffet and yaw/roll oscillations diminish with airspeed
+reduction. Turn rate essentially goes to zero.
+
+Prevention / Recovery - Prevention is just a matter of awareness and smooth
+
+control inputs. Recovery is accomplished by releasing back pressure until the
+buffet eases.
+
+D-19 OPS-2
+
+
+Text from OPS-2_AHC_page_26.jpeg:
+Negative G Stall
+
+This stall is similar to the positive G case, but with negative AOA.
+Cause - Maximum negative AOA at full forward stick is attained.
+
+Cues / Recognition - AOA is pegged at zero with the stick against the forward
+stop. Since 0 is the minimum indication on the AOA gauge, AOA is pegged
+long before the stick reaches the forward stop. Your body is pushed towards
+the canopy, you have tears in your eyes and you can taste your last meal.
+
+Prevention / Recovery - Most people have a natural tendency to avoid this
+condition, and judicious use of forward stick prevents a stall. If “in the
+
+straps,” positive aft stick is required to generate a positive AOA.
+
+Landing Configuration Stall
+
+This is essentially the same case as the one G stall. However, since full
+aileron travel is available at any fore or aft stick position, care must be taken
+to avoid adverse yaw caused by aileron input. With external stores, buffet
+onset is at a lower AOA and buffet level increases.
+
+Out of Control/Departure
+Before discussing the causes, recognition and recovery techniques for out of
+control and departure situations, the distinction between the two must be
+
+clearly understood.
+
+Out of Control
+
+The aircraft is out of control if it is not properly responding to flight control
+inputs.
+
+Departure
+
+A departure is characterized by an uncommanded change in the aircraft’s
+flight path such as a nose slice, roll away from lateral input or excessive yaw
+rate. In the F-15E, a departure is normally accompanied by the yaw rate
+warning tone. The yaw rate warning tone should be treated as an indication
+of the need for immediate initiation of the out of control recovery and not as
+an indication of max performance.
+
+OPS-2 D - 20
+
+
+Text from OPS-2_AHC_page_27.jpeg:
+Cause - Yawing moments are present that exceed the aircraft and flight
+control system capabilities to restore stability.
+
+There are several potential causes of departure in the F-15E. These include
+asymmetric thrust, flying with lateral asymmetries or inappropriate
+maneuvering at low AOA.
+
+Asymmetric Thrust Departure Prevention
+
+Asymmetric thrust is a potential problem only for F-15Es configured with
+PW F100-229 engines. In the event of an ATDPS failure above 500 KCAS or
+1.1 Mach, the aircraft is subject to departure. Likewise, intentional
+asymmetric throttle inputs in this flight regime can also lead to departure.
+
+To prevent departures due to asymmetric thrust, do not make asymmetric
+throttle inputs above 500 KCAS/1.1 Mach. In the event of an ATDPS failure,
+remain below this speed regime. For those flying Strike Eagles configured
+with PW F-100-220 engines, the problems will not be encountered throughout
+the flight envelope.
+
+Lateral Asymmetry Departure Prevention
+
+While it may be intuitively obvious that an asymmetrically loaded F-15E
+would be more susceptible to departure, Strike Eagle crews may find
+themselves going to combat with just such a configuration. Mission tasking,
+multiple targets, and mixed loads may occasionally result in asymmetric
+aircraft configurations.
+
+Nevertheless, application of Dash 1 procedures should prevent these
+departures. Limit maneuvering to below 30 AOA when asymmetrically
+configured, and avoid inappropriate low AOA control inputs. Keeping the
+AOA below 30 units under these circumstances is easy to do.
+
+Inappropriate Control Inputs at Low AOA
+
+The most likely cause of F-15E departures is the misapplication of flight
+control inputs at low angles of attack (below 30 AOA). As with the F-15A-D,
+the Strike Eagle is subject to low AOA departures resulting from improper
+stick and rudder inputs. The Dash 1 emphasizes the fact that the aircraft is
+capable of generating very high pitch and roll rates at low AOA. Inertial and
+kinematic coupling during high pitch and roll rates can lead to both high yaw
+rates and large AOA and sideslip angle excursions. Laterally asymmetric
+loads, centerline fuel tank and LANTIRN pods can aggravate such
+excursions. If these factors alone are not sufficient to make Strike Eagle
+
+D-21 OPS-2
+
+
+Text from OPS-2_AHC_page_28.jpeg:
+drivers take notice, higher airspeeds can aggravate the situation even
+further.
+
+According to the Dash 1, “low AOA maneuvers, which are particularly
+departure prone, include abrupt lateral stick or full rudder pedal inputs
+below 25 CPU or abrupt or full cross-control inputs below 30 CPU. At any
+AOA, abrupt longitudinal stick inputs should be avoided while the aircraft is
+already rolling rapidly.” Furthermore, rolling or slicing departures may be
+encountered even in level flight if attempting “...high sideslip maneuvers with
+extensive cross-control inputs (lateral stick opposite rudder) ...and such
+departures are more likely to be encountered with external fuel tanks and/or
+LANTIRN pods installed.”
+
+So, how do Strike Eagle drivers prevent such departures? There is an easy
+answer-follow the Dash 1 guidance. When maneuvering the aircraft at lower
+AOA (below 30 CPU), abrupt lateral stick/full rudder inputs and abrupt
+cross-control inputs are not effective means of flying the Strike Eagle, and
+these inputs can easily lead to low AOA departures.
+
+Coupled Motion
+
+Coupled motion is defined as motion in one axis caused by motion in another
+axis. For example, rolling with rudder is coupled motion; a yaw or directional
+input causes a sideslip that, in turn, causes the aircraft to roll. Pulling the
+stick aft and establishing a pullup is an example of noncoupled motion. The
+term roll coupling is often heard because rolling motions readily couple with
+the yaw and pitch axes of modern fighter aircraft.
+
+Cause - The actual cause of coupling in a given circumstance may not be
+readily apparent to the pilot and there may be more than one cause. The
+coupling mechanism may be aerodynamic, kinematic or inertial.
+
+Cues/Recognition - Unfortunately, coupling is usually only recognizable after
+the fact: accelerations were higher than anticipated, G or AOA got away from
+the pilot or the aircraft departed. In modern aircraft, including the F-15E,
+coupling as a result of rolling (roll coupling) is a concern; so when
+uncommanded sideslip or AOA starts to build during a roll, coupling is
+usually the case.
+
+OPS-2 D - 22
+
+
+Text from OPS-2_AHC_page_29.jpeg:
+Prevention/Recovery - You cannot totally avoid coupling, nor should you want
+to. A rudder roll is an example of controlled coupling. However, unbridled
+coupling can lead to loss of control and even aircraft disintegration. If roll
+velocities are controlled in terms of rate and duration, coupling generally does
+not cause a real problem. However, avoid large, abrupt control inputs in two
+axes at once.
+
+Also avoid trying to generate a very high roll rate when large AOA or yaw
+rates already exist. If you detect coupling before it reaches catastrophic
+proportions, smoothly neutralize the controls and allow the natural stability
+to recover the aircraft.
+
+As a general rule, if a roll is started using the rudders, stop it by using the
+rudders. This helps prevent inadvertent coupling, autorolls and spins.
+
+Autorolls
+
+An autoroll is a sustained roll/yaw motion occurring after control
+neutralization, and is viewed in the cockpit primarily as roll. The wing is not
+stalled during an autoroll.
+
+Cause - An autoroll is an example of coupled motion. A large sideslip angle
+created by the pilot with rudder at high AOA starts the aircraft rolling
+because of aerodynamic coupling. The stick is then moved forward, which
+drives up the roll rate. The roll rate builds so fast that inertial coupling
+prevents AOA and yaw/sideslip angles from being reduced. Hence the
+autoroll continues, sustained by any residual rudder that may be present.
+Without residual rudder, the roll eventually stops, if the aircraft CG is not
+abnormally far forward.
+
+Cues/Recognition - An autoroll can be recognized by roll acceleration as the
+stick is moved forward during a rudder roll. The AOA stays at 20-30 units.
+Yaw rate may or may not be high enough to actuate the departure tone.
+Airspeed is normally between 200 and 350 knots.
+
+Prevention/Recovery - The autoroll can be prevented by judicious use of
+rudder at very high AOA, and by using smooth stick movements during any
+rudder maneuvering. If an autoroll is encountered, neutralize the controls
+and smoothly feed in opposite rudder to stop the roll. When the roll rate
+decreases, the AOA breaks and the nose pitches down. The severity of the
+negative G pitch-over is a function of the rate of recovery and is worse if pitch
+CAS is off. An abrupt application of rudder may cause a negative G pitch-
+over of up to four negative Gs. If in a negative G autoroll, neutral controls
+will recover the aircraft.
+
+D - 23 OPS-2
+
+
+Text from OPS-2_AHC_page_3.jpeg:
+OPERATIONS
+
+@}
+a CO
+
+oo
+1 tt) yy deo 0
+
+COVER
+
+AIRCRAFT HANDLING CHARACTERISTICS (AHC
+
+INTRODUCTION
+
+This workbook is designed to familiarize you with the terms,
+fundamentals and applications of F-15K handling characteristics.
+
+CONTENTS:
+
+INT RODLIC TION sc anes sue ans sxc nese ans conte ante accn asus news certs axe ase eu ans mis ae mesa wate GE A-1
+CRITERION REFERENCED OBJECTIVES (CROs).........000eeeeeeeeeeeeeeee B-1
+STUDENT PREPARATION REQUIREMENTS . 0.00... eeeeeeseeeeeeee C-1
+TEXT oc eecccccceessseecceesseeeecessseeeceessseeeecesssseeeseeessaeeeseessaeeeseeeeaaeeseeea D-1
+END OF TEXT QUIZ oui eeccccesseeeesneeeeesaeecssanecessaeesesaeesssneeeesaees E-1
+GLOSSARY. ieee eeccceeseeesscecssneeecesaeeceseecessaeeceseecessaeesesaaeeeesaeeeesnaeeeseas F-1
+
+A-1 OPS-2
+
+
+Text from OPS-2_AHC_page_30.jpeg:
+Spins
+
+The F-15E is extremely resistant to departure at high angles of attack (above
+30 cpu). Even so, flight control malfunctions at high AOA or large lateral
+asymmetries make it possible to depart and spin the jet. A spin is a sustained
+roll/yaw motion, which is viewed, in the cockpit, primarily as yaw. The wing
+is stalled during a spin. The spin is probably the premier example of coupled
+motion.
+
+Cause - Progression from a departure to a spin is most likely if neutralization
+of controls is delayed, lateral stick is held against the roll/yaw and/or lateral
+asymmetry is present. Most, but not all spins exceed the 60°/second yaw
+rate, with AOA pegged (over 45 units) and extremely low airspeed. Also, the
+turn needle will be steady and fully deflected in the direction of the spin.
+
+If engines are left in afterburner during a spin, they are more likely to
+stagnate than during normal flight. Reduce power to military if in
+afterburner.
+
+Cues/Recognition/Recovery Characteristics - If the AOA is pegged and the
+departure tone is on, the aircraft may be in, or about to enter, a spin. If the
+yaw rate is more or less constant at 60-135°/second (45°/second inverted), and
+if you are being pushed forward in the seat, the aircraft almost certainly is in
+a spin.
+
+The flight control system has a Direct Electric Link (DEL) between the FCC
+and the stab actuators that is active during the normal CAS-off period in spin
+conditions. In the DEL mode, the FCC essentially controls the stab actuators
+with full, no-feedback authority in harmony with the lateral stick command if
+the aircrew moves the control stick in the same direction as indicated by the
+Spin Recovery Display (SRD). There is no DEL command in the pro-spin
+direction. The warning in the Dash 1 to reset the pitch and roll CAS is to
+ensure the DEL mode has engaged. The CAS will probably remain
+disengaged.
+
+OPS-2 D - 24
+
+
+Text from OPS-2_AHC_page_31.jpeg:
+To aid in spin recognition and recovery, the aircraft provides the aircrew with
+a SRD. The system recognizes a spin condition when yaw rate exceeds
+57°/second, or exceeds 41.5°/second and persists above 30°/second for greater
+than 5 seconds. At that time, all MPD/MPCD displays are replaced by the
+SRD (Figure D-6).
+
+STICK
+< LEFT
+
+O45
+
+omr-aAjtonro
+
+OPS-02-06
+
+Figure D - 6. Spin Recovery Display.
+
+The display contains an arrow to show recommended direction of stick
+movement, recommended throttle positions, angle of attack, calibrated
+airspeed and radar altitude. In addition, the low altitude warning system
+(LAWS) is changed from its present set altitude to actuate at 10,000 feet and
+again at 5000 feet AGL. The SRD format stays active until:
+
+1) PB #11 (Menu) is selected.
+
+2) anew master mode is selected (only changes those displays
+programmed through a master mode).
+
+3) HOTAS is used to select a new programmed display.
+
+4) four seconds after recovery and yaw rate decreases below 20°/second.
+
+D-25 OPS-2
+
+
+Text from OPS-2_AHC_page_32.jpeg:
+Spin types include:
+
+Oscillatory Spin
+
+e Average yaw rate: 60-90°/second
+e Average AOA: 70-80 units (pegged)
+e Typical oscillations: 20°/second yaw rate
+
+To quickly recover and prevent a flat spin from developing, use aileron in the
+direction of spin (turn needle). The flight control spin recovery mode assists
+in spin recovery by allowing full aileron authority, regardless of longitudinal
+stick position (if yaw rate exceeds 41.5° per second for five seconds). Neutral
+controls alone normally recover the aircraft, but more slowly (2500-7000 feet
+altitude loss), and may allow progression to a flat spin. Delaying recovery or
+inadvertently applying pro-spin (opposite) controls can rapidly cause a flat
+spin.
+
+Flat Spin
+
+@ Average yaw rate: 75-135°/second
+
+@ Average AOA: 70-90 units (pegged)
+
+@ Extreme (negative 3-4 G) “eyeballs out” forces - uncomfortable and
+disorienting
+
+@ Very little oscillation
+
+To recover, use full aileron in the direction of rotation (turn needle). The yaw
+rate reduction is smooth and quite slow, so it may not be apparent for some
+time. To recover requires a minimum altitude loss of 3000-6000 feet, two to
+four turns, and 10-20 seconds; however, there are documented recovery cases
+with numbers well beyond these.
+
+Neutral controls alone do not recover the aircraft. Pro-spin controls
+
+accelerate yaw and delay recovery or cause the crew to initiate ejection
+procedures (documented several times).
+
+OPS-2 D - 26
+
+
+Text from OPS-2_AHC_page_33.jpeg:
+Low Yaw Rate Spin
+
+@ Encountered infrequently, most likely from a slowspeed entry
+
+Mild oscillations
+
+@ You may not get a SRD until more than 5 seconds at >30 degrees per
+second yaw rate
+
+@ Low yaw rate: approximately 45-60°/second (departure tone beep rate may
+not be constant)
+
+Full lateral stick in the direction of the spin normally recovers the aircraft
+quickly. If the aircraft is in the low rate spin mode and is not recovering with
+full anti-spin controls (especially with yaw rate gyro failure), landing gear
+may be lowered to ensure full anti-spin aileron deflection. If for some reason
+DEL has not engaged, do NOT extend flaps!
+
+Delay in applying recovery controls (or applying pro-spin controls) can cause
+a higher spin rate.
+
+Inverted Spin
+
+@ Normally entered from negative G stall (full lateral stick or rudder applied
+at full forward stick)
+
+@ Average yaw rate is low: 40-45°/second
+
+@ Average AOA: minus 55-60 units (pegged off the low end)
+
+@ No buffet or oscillations
+
+Neutral controls recover aircraft in 1 to 1-1/2 turns, with approximately
+4000 feet altitude loss.
+
+If a very high rotation rate has developed before you begin recovery, it takes
+quite a while before the yaw rate stops (10-20 seconds). If carrying a lot of
+stores or an asymmetric load, the recovery takes even longer. Altitude
+required to recover from a spin is difficult to predict. Typically, altitude loss
+is 1500-2500 feet per turn and 1 to 7 turns are required to break the spin.
+Remember that a dive recovery follows the spin recovery and 6000 feet is the
+minimum execution altitude for ejection.
+
+D-27 OPS-2
+
+
+Text from OPS-2_AHC_page_34.jpeg:
+Inadvertent Nose High/Low Airspeed
+
+This is not a serious condition in the F-15E unless the aircraft is close to the
+ground.
+
+Cause/Recognition - This condition is normally the result of inattention
+during extreme vertical maneuvering. Lack of aircraft response to control
+inputs is the first clue.
+
+Prevention/Recovery - If, despite your best efforts, the aircraft ends up nose
+high at very low airspeed, neutralize the controls, retard the engines out of
+AB and wait for the aircraft to recover. The aircraft ends up pointed down
+and airspeed increases. The ride may be somewhat uncomfortable as the
+aircraft flips around, but the F-15E stabilizes fairly quickly if the pilot does
+not fight it.
+
+The aircraft unloads as speed approaches zero and one or more of the
+following may happen:
+
+@ Aircraft falls off forward, backward or to the side.
+
+e@ CAS falls off the line due to yaw rate (master caution/flight control).
+@ Oil pressure falls to zero during the unload (master caution/ engine).
+@ ECS surges and Display Flow Low caution illuminates.
+
+As the nose falls, the aircraft may roll (quickly) or nose may tuck. Maintain
+
+neutral controls, not forward stick. Once nose is down and airspeed is
+increasing, recover from the dive.
+
+OPS-2 D - 28
+
+
+Text from OPS-2_AHC_page_35.jpeg:
+Inadvertent Nose Low/High or Low Airspeed
+
+If in a nose low situation and recovery before hitting the ground is
+questionable, use the following emergency dive recovery procedures.
+
+NOTE
+Representative 40-45,000 lb and 65,000 lb GW charts are shown in
+
+Figures D-7 and D-8. Refer to TO 1F-15E-1-1, page A9-33.
+
+Immediately roll in the shortest direction to wings level, and then begin the
+pull out based on airspeed and gross weight.
+
+@ Below 350 KCAS: Speed brake in; Above 350 KCAS: Speed brake out
+@ Below 350 KCAS at any gross weight: Select full A/B while
+simultaneously applying full aft stick or 12 Gs to wing rock
+e 350 - 500 KCAS:
+e 40-45,000 lbs - Select idle while simultaneously applying full aft
+stick or 10 Gs to wing rock
+e 65,000 lbs - Select idle while simultaneously applying full aft stick or
+8.7 Gs to wing rock
+e Above 500 KCAS:
+e 40-45,000 lbs - Select idle while simultaneously applying 8.0 Gs
+e 65,000 lbs - Select idle while simultaneously applying 6.8 Gs
+
+Approximate altitude loss will be as depicted in Figures D-7 and D-8.
+
+D - 29 OPS-2
+
+
+Text from OPS-2_AHC_page_36.jpeg:
+9 DIVE ANGLE AT
+START OF PULL-OUT
+
+7 90°
+
+60°
+
+ALTITUDE LOSS - 1000 FEET
+
+30°
+
+|
+
+0
+0 100 200 300 400 500 600 700
+INITIAL AIRSPEED -KCAS OPS-02-07
+
+Figure D - 7. Emergency Dive Recovery 65,000 lbs. CFTs + 4 AIM-7 + AIM-9.
+
+9 DIVE ANGLE AT
+3 START OF PULL-OUT
+LL
+8
+© 6
+2
+O
+60°
+Ww 4
+a |
+Ee
+F 3 sasarte cae
+xt
+1 ROCCE eee
+
+0
+0 100 200 300 400 500 600 700
+INITIAL AIRSPEED -KCAS OPS-02-08
+
+Figure D - 8. Emergency Dive Recovery 65,000 lbs CFTs + LANTIRN Pods +
+12 MK-82 + 4 AIM-9.
+
+OPS-2 D - 30
+
+
+Text from OPS-2_AHC_page_37.jpeg:
+HANDLING QUALITIES WITH MALFUNCTIONS
+
+You should now have some knowledge of handling characteristics and
+phenomena as they apply to aircraft in general and the F-15E in particular.
+You should also know how the F-15Es flight control system works and its
+normal response throughout the flight envelope. You should spend some time
+thinking about how failure of certain components of the AFCS affects
+handling characteristics. The Dash 1 describes handling with various
+portions of the mechanical flight control system and CAS inoperative. You
+should read these descriptions in Section HI and VI of the Dash 1 if you have
+not already done so.
+
+The best way to relate aircraft handling characteristics to flight control
+malfunctions is to recall the purpose of the various flight control features.
+
+NOTE
+
+If a flight control anomaly is apparent, but aircraft control is adequate,
+do not disengage CAS since it may be responsible for maintaining
+
+controlled flight.
+
+CAS Off
+
+With the CAS off (all axes) and pitch/roll ratios in AUTO, the aircraft feels
+less solid. Stability augmentation and precise handling refinements are lost.
+
+@ The aircraft is sensitive at high speed, and pilot-induced oscillations (PIO)
+may occur. Because of this, operation with CAS off above 600 KCAS is
+prohibited.
+
+@ Higher stick forces are required at high G.
+
+@ There is no added authority to compensate for external stores. Close
+formation/AAR may be difficult with three external tanks.
+
+@ Automatic trim is less effective.
+
+@ CAS ARI is inoperative. Some manual rudder may be needed for
+coordinated flight.
+
+@ Aircraft may exhibit some wallowing and dutch roll tendencies.
+
+D-31 OPS-2
+
+
+Text from OPS-2_AHC_page_38.jpeg:
+Pitch/Roll Ratio EMERG
+
+With the pitch and roll ratios in EMERG and the CAS on, the
+hydromechanical system uses fixed midrange values, and the CAS must use
+more of its available authority to give nearly normal handling characteristics.
+
+@ There is no mechanical ARI.
+@ Maximum stabilator deflection is reduced at low speed.
+@ The greatest potential problem is if pitch CAS fails or is turned off.
+
+CAS Off, Pitch Ratio EMERG
+
+In this case, the pitch ratio goes to fixed midrange authority (.3 to .5). No
+additional authority is available from CAS.
+
+e@ Aircraft handling is significantly degraded.
+
+@ High longitudinal stick forces are present at low speed.
+
+@ The aircraft is very sensitive at high speed (600 knot limit).
+
+@ There is no ARI available.
+
+@ There is no automatic trim.
+
+@ The maximum available AOA is approximately 21 units at touchdown
+speed.
+
+Perform a controllability check, if practical. Avoid high sink rates - fly
+18-unit AOA on final.
+
+CAS Off, Roll Ratio Emergency
+
+Roll ratio goes to fixed midrange authority, and no additional authority is
+available from CAS.
+
+@ Reduced roll rates at all speeds.
+@ High lateral stick forces are present.
+
+@ No ARI.
+
+Approach and landing are difficult in crosswind, turbulence, or with an
+asymmetric load.
+
+OPS-2 D - 32
+
+
+Text from OPS-2_AHC_page_39.jpeg:
+FLIGHT LIMITATIONS
+
+Limits that apply to the F-15K are contained in the Dash 1. In addition,
+limits that apply to the aircrew are contained in Air Force and field level
+regulations (AFI 11-206, AFI 11-214).
+
+Speed Limits
+
+The F-15E airspeed limit is never greater than 800 KCAS/2.5M and is
+usually going to be less than that. Look at the aircraft configuration, consult
+the Dash 1 and determine the most restrictive limit that applies. The actual
+limit may vary with phase of flight.
+
+Some of these limits can easily be exceeded (e.g., stores employment and
+jettison limits), and it is the crew’s responsibility to keep things under control
+(i.e., there are no speed warning cues except for some TF cautions on the
+HUD).
+
+G Limits
+
+Due to engine considerations, negative Gs are limited to 7 seconds and
+steady-state zero G is prohibited. The positive G limit and current G state
+are presented on the HUD via the overload warning system. In order for this
+system to compute properly, the crew must program the PACS correctly.
+Even more importantly, stores limits are not included in OWS computation,
+and some are easy to exceed.
+
+CG Limits
+
+For the clean aircraft, CG stays well inside the limits throughout the flight.
+As internal fuel burns, the CG moves aft, and the aircraft becomes less stable
+as the flight progresses. For a CFT configured aircraft, the CG moves
+forward as CFT fuel is burned and then moves aft again as internal fuel
+burns. CG limits require some thought when expendable stores are loaded.
+Exceeding CG limits, particularly the aft limit, affects handling qualities.
+These limits are even more important in the event of a CAS failure.
+
+D - 33 OPS-2
+
+
+Text from OPS-2_AHC_page_4.jpeg:
+CRITERION REFERENCED OBJECTIVES (CROs)
+
+1. Identify the F-15E flight envelope, normal flight characteristics and
+limits, and the effects of exceeding those limits.
+
+2. Identify the definitions, causes and recovery methods for the
+following F-15K flight conditions:
+
+Samo ase
+
+Adverse yaw
+
+Stalls
+
+Autorolls
+
+Spins
+
+Out of control
+Departure
+Inadvertent nose high
+Inadvertent nose low
+
+3. Identify the adverse handling characteristics caused by:
+
+a
+b.
+c
+
+d
+
+External stores
+
+Single engine operation
+No flap landing
+Turbulence
+
+4. Identify the effects of these flight control malfunctions on F-15E
+
+handling:
+
+a. CAS off
+
+b.  Pitch/roll ratio LMERG
+
+c. CAS off, pitch ratio EMERG
+d. CAS off, roll ratio EMERG
+
+OPS-2
+
+
+Text from OPS-2_AHC_page_40.jpeg:
+Roll Limits
+
+The Dash 1 list is long. Most of these limitations were established to
+minimize the effects of coupling and reduce the risk of departure and
+structural overload. High roll rate, long duration situations are the ones
+prohibited. These limits should not restrict normal air-to-air or air-to-ground
+operations.
+
+AOA Limits
+
+For conditions that are not departure resistant, AOA is limited to 30 units.
+These include:
+
+@ Lateral asymmetry over 8000 ft-lbs without external tanks.
+
+@ Lateral asymmetry over 5000 ft-lbs with any external tank(s).
+With A/G stores or cargo pods loaded (except for SUU-20B/A on stations 2
+and/or 8 with no other stores with a limit of 35 units).
+
+Fuel in wing mounted external tanks.
+
+Three external tanks loaded on the aircraft.
+
+Landing gear down.
+
+Split inlet ramps (one ramp locked full up and one ramp operating
+normally).
+
+CAS off or a continuously displayed HIGH AOA DGRD caution.
+Tank 1 fuel transfer problem.
+
+OPS-2 D - 34
+
+
+Text from OPS-2_AHC_page_41.jpeg:
+QUESTIONS
+
+Adverse yaw is stronger at AOA.
+a. high
+b. low
+
+Due to high drag associated with the accelerated stall, the characteristics
+quickly approach
+
+What is coupled motion?
+
+During a sustained positive G autoroll, the AOA is typically ___ units.
+
+a. O
+
+b. 16-18
+ce. 20-30
+d. 40-45
+
+The G limit for your specific external stores configuration is always as
+displayed by the OWS on the HUD.
+
+a. True
+b. False
+
+Half-way through a Hi to Low intercept, you realize you were disoriented,
+and are now 90° nose down at 400 KCAS, passing 5000 feet AGL. How do
+you recover, and what would be your minimum altitude loss, if you do
+everything right? (Gross weight 44,000 lb)
+
+D- 35 OPS-2
+
+
+Text from OPS-2_AHC_page_42.jpeg:
+ANSWERS
+
+2. those of the one G stall
+
+3. Motion in one axis caused by motion in another axis.
+
+6. Select IDLE/speed brake, pull 10 Gs to 850 KCAS, and then full AB and
+full aft stick, or 12 Gs, if required, to wing rock. Altitude loss would be
+about 4200 feet.
+
+OPS-2 D - 36
+
+
+Text from OPS-2_AHC_page_43.jpeg:
+END OF TEXT QUIZ
+The Mach limit of the F-15E flight envelope is based on
+
+engine thrust.
+aerodynamic heating.
+fuel pump capacity.
+roll response.
+
+po op
+
+Adding external stores to the F-15E generally
+
+a. makes the aircraft more susceptible to departure.
+b. makes the aircraft less susceptible to departure.
+c. does not influence aircraft susceptibility to departure.
+
+An autoroll is by residual rudder.
+a. caused
+
+b. sustained
+
+c. prevented
+
+d. attenuated
+
+Under positive G, if a spin is mistaken for an autoroll, rudder
+opposite the roll will
+
+a. prevent a recovery.
+b. assure a speedy recovery.
+c. have little effect.
+
+With CAS off and pitch ratio in EMERG,
+
+the maximum available G increases.
+
+ARI and automatic trim are not available.
+
+the aircraft is less sensitive at high speed.
+longitudinal stick forces are lighter at low speed.
+
+ao op
+
+E-1 OPS-2
+
+
+Text from OPS-2_AHC_page_44.jpeg:
+6. The AOA limit with air-to-ground stores loaded is____ units.
+
+ao op
+
+7. You have just entered the VFR traffic pattern (2500 feet MSL) when
+a runway closure is announced. The runway is expected to be closed
+for 10 minutes; you have about 15-20 minutes of fuel remaining and
+cannot divert. You should
+
+pe op
+
+climb to FL 180 and hold at 18 units AOA.
+maintain present altitude and hold at 18 units AOA.
+climb to FL 180 and hold at 14 units AOA.
+maintain present altitude and hold at 14 units AOA.
+
+8. Coupled motion
+
+a ©
+
+OPS-2
+
+is not a real consideration in modern aircraft such as the F-15E.
+is a concern in the F-15E but is easy to detect.
+
+is a concern in the F-15E and is rarely detected until after the
+fact.
+
+only occurs in the F-15E if two or more axes of the CAS fail.
+
+
+Text from OPS-2_AHC_page_45.jpeg:
+AFCS
+AOA
+ATDPS
+CAS
+Cy
+
+CG
+
+DEL
+LAWS
+MAC
+
+SRD
+
+GLOSSARY
+Automatic flight control system
+Angle of attack
+Asymmetric Thrust Departure Prevention System
+Control augmentation system
+Coefficient of drag
+Center of gravity
+Coefficient of lift
+Direct Electric Link
+Low altitude warning system
+Mean aerodynamic cord
+
+Spin recovery display
+
+OPS-2
+
+
+Text from OPS-2_AHC_page_5.jpeg:
+5. Identify the F-15E limitations/prohibitions regarding the following:
+
+a. airspeed
+
+b. G
+
+c. CG
+
+d. Roll
+
+e. AOA
+REFERENCES
+TO 1F-15E-1
+
+Section II
+
+Section III
+
+Section V
+
+Section VI
+
+TAKEOFF through NO FLAP
+
+LANDING
+
+Pitch Ratio Failure
+Out-of-Control Recovery
+Single Engine Operation
+Runaway Trim
+
+Flight Control Malfunction
+LAT STK LMT Caution
+Controllability Check
+
+Flap Malfunctions
+
+Airspeed Limitations
+Prohibited Maneuvers
+
+CG Limitations
+
+External Stores Limitations
+
+All
+
+OPS-2
+
+
+Text from OPS-2_AHC_page_6.jpeg:
+STUDENT PREPARATION REQUIREMENTS
+BEFORE CLASS
+
+1. Study the information contained in this workbook and complete the
+quiz.
+
+2. Read the references in TO 1F-15E-1, Chapter 6.
+
+OPS-2 C-1
+
+
+Text from OPS-2_AHC_page_7.jpeg:
+TEXT
+THE FLIGHT ENVELOPE
+
+The F-15E, like any other aircraft, is free to rove the entire atmosphere at
+will, as long as you remain within the boundaries prescribed by stall, thrust
+and airspeed. The limits of this G designed flight envelope are not hard
+boundaries and can be penetrated, but not without some consequences.
+Further, the limits of the envelope change with aircraft configuration. The
+general level flight envelope is represented in Figure D-1.
+
+DESIGN MACH LIMIT
+
+THRUST LIMIT
+
+AOA me \,
+
+60
+55
+50
+45
+40
+35
+30
+25
+20
+15
+10
+
+TIME LIMITED ZONE
+
+ALT - 1000 FT
+
+DESIGN AIRSPEED LIMIT
+
+0.2 04 06 08 1.0 12 14 16 18 20 22 24 26
+MACH NO.
+
+OPS-02-01
+
+Figure D - 1. Flight Envelope.
+
+The limits of the flight envelope are formed by airspeed (maximum dynamic
+pressure) on the lower right, Mach (heating) on the upper right, engine thrust
+on the top and angle of attack on the left. Knowledge of the limits of this
+envelope is important to safely operate the F-15E.
+
+D-1 OPS-2
+
+
+Text from OPS-2_AHC_page_8.jpeg:
+Airspeed Limit
+
+The lower right edge of the flight envelope is formed by a maximum allowable
+calibrated airspeed. This limit is based on the structural strength of the
+airframe and represents the maximum dynamic pressure (referred to as Q)
+the aircraft can withstand without permanent deformation. This limitation
+applies primarily at lower altitudes and becomes even more of a factor with
+external stores loaded. Exceeding the limit may cause control problems due
+to airframe twisting and eventually causes airframe damage.
+
+Mach Limit
+
+At high Mach numbers (above 2.0), aerodynamic heating becomes a
+significant factor. Aluminum alloys rapidly lose strength at elevated
+temperatures, effectively reducing the maximum dynamic pressure the
+airframe can support. Thus, the Mach limit is an extension of the airspeed
+limit.
+
+Since airframe heating is not instantaneous, time-limited dashes are
+permitted (e.g., 2.5M through 2.3M for one minute). In addition to airframe
+limits, temperature inside intake ducts rises rapidly with increased Mach,
+and engine front-face temperatures can become a problem. This limitation
+exists at higher altitudes where high Mach flight is achievable. The penalty
+for exceeding this limit is much the same as exceeding the airspeed limit.
+Additionally, elevated temperatures in the inlet ducts affect engine life.
+
+Thrust Limit
+
+This limit represents the absolute altitude that can be achieved and level
+flight maintained. (The max rate of climb, without losing airspeed, is zero.)
+This limit is very sensitive to gross weight, drag and engine performance.
+
+The limit is not terribly important in normal operations, but could be a factor
+if operating single engine in mountainous terrain with a load of ordnance.
+This limit can be exceeded with a zoom climb or when losing an engine at
+altitude.
+
+Generally, exceeding this limit causes no difficulty in itself; the result is that
+the aircraft descends back into the envelope.
+
+OPS-2 D-2
+
+
+Text from OPS-2_AHC_page_9.jpeg:
+Angle of Attack (AOA) Limit
+
+The left edge of the flight envelope equates to the maximum usable lift
+characteristics of the aircraft. At lower speeds, C,, MAX is normally the limit.
+At higher speeds, buffet or undesirable handling characteristics become the
+limit.
+
+AOA limitations are an operational factor at all altitudes, airspeeds and
+configurations. These limitations effectively determine how well the pilot is
+able to alter/control the flight path. Exceeding AOA limitations results in
+decreased performance, stall and/or departure from controlled flight. AOA is
+the key to performance and is the parameter of most concern when we talk
+about “max performing” the aircraft. In fact, AOA is the dominant factor
+even when operating well inside the envelope.
+
+Performance within the Envelope
+
+The two primary controls are the stick and throttles, which control AOA and
+thrust. For most operations, the pilot controls AOA with the stick and the
+amount of thrust selected by the throttles. The pilot generally thinks in
+terms of controlling attitude and airspeed, but it is AOA (and its associated
+lift and drag coefficients) that determines performance.
+
+F-15E Cockpit AOA Displays
+
+An indication of AOA appears constantly in the front cockpit on the AOA
+gauge, which displays AOA in arbitrary units from 0 to 45. AOA is also
+displayed on the HUD and the ADI at all times. Although there is an AOA
+indication on the HUD, it is important to learn to estimate AOA by aircraft
+response and “feel.”
+
+D-3 OPS-2
+
+

@@ -1,0 +1,1358 @@
+Text from AGR-2_APG_70_Intro_page_1.jpeg:
+SUPPORTS COURSES
+FIS5EBQ
+
+FISETX
+
+FISESOC
+
+ACADEMIC STUDENT WORKBOOK
+F-15E
+
+AIR-TO-GROUND RADAR
+AGR-2
+APG-70 A/G INTRODUCTION
+
+JULY 2000
+
+(SUITE 3 OFP)
+
+AIR COMBAT COMMAND
+
+
+Text from AGR-2_APG_70_Intro_page_10.jpeg:
+Cursor Function Select (PB #7)
+
+Determines which of five cursor functions can be commanded.
+
+MAP
+
+UPDT
+
+TGT
+
+CUE
+
+MARK
+
+Creates a high resolution patch map centered on the
+cursor.
+
+Updates the mission navigator (MN) and/or inertial
+navigation system with reference to cursor position and
+the latitude/longitude of the sequence point at PB #17.
+
+Designates the location of the cursor as a target or target
+offset, cues the TGT IR to the target and inputs ranging
+information to the CC for weapons delivery computations.
+
+Directs the TGT IR to the current cursor location.
+
+Stores the latitude, longitude and altitude (if available) of
+the cursor position and time of the mark for later use.
+
+Display Window Selected (PB #8)
+
+Eight HRM patch map sizes (.67, 1.3, 3.3, 4.7, 10, 20, 40 and 80 nm
+square) and a blank size are selectable via HOTAS only. PB #8 is not
+functional. An outline (display window) of the selected patch map size is
+also displayed on the radar to show the area to be encompassed if a map is
+commanded. If a smaller size is commanded with .67 preselected, the
+display window (DW) size blanks and the display window is no longer
+displayed. When a map is commanded with the size blank, the map size is
+based on cursor position as follows.
+
+CURSOR POSITION DW SIZE
+2.7nm- 50nm 3.38 nm
+50.0nm- 80nm 4.7nm
+80.0 nm - 160 nm 10.0 nm
+AGR-2 D-4
+
+
+Text from AGR-2_APG_70_Intro_page_11.jpeg:
+Antenna Azimuth Scan Select (PB #9)
+
+Three different scans (FULL, HALF and QTR) are selectable (in all cursor
+functions) and displayed at PB #9 (Figure D-2). Depressing and releasing
+PB #9 changes the scan from FULL (100°) to HALF (50°) to QTR (25°)
+(Figure D-2). Partial scan (HALF/QTR) is centered on the cursor and is
+slewable within the total radar sweep limits (such that the outer limit of
+the partial scan cannot exceed + 50° of the aircraft velocity vector). In
+FREEZE, the azimuth legend change inputs are ignored until FREEZE is
+deselected. A change of radar modes returns the scan to FULL if HALF or
+QTR was selected.
+
+| th |
+
+[Al
+=
+|
+(VV)
+
+®
+
+BRT
+
+a ht tt |
+
+AGR-02-02
+
+Figure D - 2. Azimuth Scans.
+
+D-5 AGR-2
+
+
+Text from AGR-2_APG_70_Intro_page_12.jpeg:
+Interleaved Ground Moving Target IGMT) Mode (PB #10)
+This mode is discussed later in detail.
+
+Patch Map Timer
+
+This is displayed below the gray scale and only in the MAP cursor
+function. It shows the time required from commanding a patch map to
+actual display of the map. When a patch map is commanded, the timer
+will count down and at zero, the patch map is displayed. The estimated
+time to go is only displayed when a DW is selected and the cursor is over a
+mappable location.
+
+Bull’s-eye
+
+Magnetic bearing and ground range from the selected bull’s-eye point
+(UFC Menu 2) to the cursor.
+
+Radar Range Select (PBs #13 and #14)
+
+Six radar ranges (4.7, 10, 20, 40, 80 and 160 nm) are selectable (all cursor
+functions) via PBs #13 and #14. Ranges can be increased/decreased in the
+RCP by moving the auto acq switch forward to decrease or aft to increase
+when the trigger is half action. The following chart lists RBM resolutions
+as a function of range.
+
+RANGE (in nm) RESOLUTION (in feet)
+RNG AZ
+
+4.7 59 582
+10.0 127 1325
+20.0 253 2650
+40.0 507 5300
+80.0 1014 1.75 nm
+
+160.0 2028 3.5 nm
+
+AGR-2 D-6
+
+
+Text from AGR-2_APG_70_Intro_page_13.jpeg:
+IPVU (Interleaved Precision Velocity Update) (PB #16)
+
+The IPVU legend is only displayed in the RBM, HRM PPI and HRM
+“patch” radar modes. It is only selectable in the MAP cursor function,
+although once selected it is functional in all cursor functions. Once
+selected (boxed), whenever the radar is functioning in RBM, HRM PPI or
+HRM patch modes (except during actual map construction), the A/G radar
+is scheduled to automatically perform a 5-second, four-antenna position
+PVU every minute. During the PVU the radar video is not refreshed,
+IPVU appears above PB #6 and the resulting INS Vs radar deltas are
+automatically accepted by the MN. When IPVU is selected, the results of
+the most recent PVU are displayed below the boxed IPVU legend.
+
+Selecting IPVU frees the aircrew from manually selecting the PVU mode,
+thus keeping the system velocities accurate with minimum aircrew
+attention. Conversely, since the IPVU only occurs while the radar is
+functioning in the RBM/HRM modes, if the aircrew elects to use the radar
+in the air-to-air mode, the IPVU is not performed. Also, the accuracy of a
+dedicated PVU (eight antenna positions) versus that of the IPVU (four
+antenna positions) dictate that a dedicated PVU be performed prior to
+constructing an HRM patch map prior to an update or designation.
+
+NOTE
+If the mode is changed while IPVU is boxed, the IPVU numbers at
+PB #16 are removed until a new IPVU is accomplished.
+
+Sequence Point Indicator (PB #17)
+
+The sequence point indicator displays the currently selected radar
+sequence point. Pressing PB #17 or selecting quick step with the FCP
+coolie switch or RCP castle switch cycles the selected SP among the points
+currently displayed on the radar based on range. The sequence point can
+also be changed by typing the number in the UFC scratchpad and
+pressing PB #17 (or quick stepping with a point in the scratchpad). If
+changed via the UFC and the point is not within the selected radar
+footprint, the display window/cursor is latched at the top of the scope.
+However, azimuth and range readouts at the top left will be to the
+sequence point. It is important to note that if the cursor is manually
+moved (TDC) after being stepped (UFC/PB #17, cycling PB #17, or
+HOTAS), the cursor will not be latched to the sequence point (and the
+azimuth and range readouts will be to the cursor but not to the sequence
+point).
+
+D-7 AGR-2
+
+
+Text from AGR-2_APG_70_Intro_page_14.jpeg:
+NOTE
+
+If a map is commanded from the TSD, the sequence point number at
+
+PB #17 on the A/G radar display blanks with the new map and
+remains blank until the aircrew selects a new sequence point.
+
+SNF (Sniff) (PB #18)
+
+SNF is a receive only mode used to detect jamming or to provide minimum
+radar radiation times. It is selectable in RBM, GMT, HRM, PVU and
+BCN modes. All cursor functions are available but ground returns are not
+present. For a more detailed discussion of SNF, refer to
+
+TO 1F-15E-34-1-1-1.
+
+Radar Frequency Select (PBs #19 and #20)
+
+The radar channel and frequency (A-E and 1-8, respectively) are displayed
+below PB #19. These 32 different selections allow aircraft within a flight
+to avoid interference with each other or from external jamming. Channels
+are changed with PB #20 and frequencies, with PB #19. The selected A/G
+channel is not carried over to the A/A radar modes. However, the selected
+A/A channel is carried over to the A/G modes. For a detailed discussion of
+the radar channels, refer to TO 1F-15E-34-1-1-1.
+
+Antenna Elevation
+
+Antenna elevation is automatically controlled to cover 60% of the selected
+radar range based on altitude. It can be moved manually using trigger
+half action and TDC up/down (RCP) or throttle elevation wheel (FCP) in
+RBM, GMT and BCN only, but when moved, it may remain in the same
+position until moved again. Selecting a larger range scale recalculates the
+antenna elevation based on the new range, while smaller range scale
+selections attempt to keep the same area illuminated. If the antenna
+elevation is manually positioned above the horizon, weather mapping is
+assumed. Subsequent range scale changes do not change the elevation
+until it is positioned below the horizon.
+
+AGR-2 D-8
+
+
+Text from AGR-2_APG_70_Intro_page_15.jpeg:
+Ground Moving Target (GMT) Mode (PB #6)
+
+The objective of GMT is the detection of ground moving targets (e.g., truck
+convoys). Eventually, target acquisition, tracking and AGM-65 EO IR
+missile handoff operations with multiple missile launch will be possible.
+Only target detection operations can be accomplished at this
+time. The GMT radar mode can be selected as a dedicated mode with no
+map background (GMT) or can be selected during RBM operations as an
+RBM-GMT interleaved mode (IGMT). Approximately 90-100 detections
+can be displayed out to a maximum range of 32 nm. If more than the
+allowed symbols are present, the oldest detections are deleted and only
+the newest are retained.
+
+Dedicated GMT
+
+GMT can be entered using PB #6 and presents ground moving targets in
+the form of plus (+) symbols on a PPI scan format (Figure D-8).
+
+MAXIMUM [ IC
+RANGE
+COVERAGE BAR SCAN
+CIRCLE COVERAGE
+CUES
+GMTs
+4.7, 10, 20, 40
+EL 1, 2, 3,4
+ADDITIONAL
+TARGET oN
+INDICATOR soi M MIN RANGE
+| | COVERING
+WS GMT | MAP | 47 | i 2 ) CIRCLE
+
+AGR-02-03
+
+Figure D - 3. A/G Radar, Dedicated GMT.
+
+D-9 AGR-2
+
+
+Text from AGR-2_APG_70_Intro_page_16.jpeg:
+EL Bar Selection (PB #3)
+
+This button allows selection of the number of elevation bars (sweeps, 1-4)
+to be included in the frame. At GMT mode entry, the antenna elevation is
+positioned so that the top of the radar beam matches the far limit of the
+selected range scale. For example, with a 20 nm scale selected, the top of
+the GMT beam will be set at 20 nm. The range at the bottom of the beam
+depends on aircraft altitude. With multiple bars selected (two or more)
+the radar scans from the nearest to the farthest range so that the closer
+targets are observed first. For example, with 1-bar selected, if the current
+beam coverage is 15-32 nm, selecting 2-bar will increase coverage to
+
+8-32 nm. The first bar will cover 8-15 nm and the second bar will cover
+15-32 nm. Selecting 3- or 4-bar will further increase the total range
+coverage. Specific range coverage depends on aircraft altitude, antenna
+tilt angle and the number of bars selected.
+
+GMT Error Messages
+
+GMT processing can be automatically halted when certain conditions
+arise. If the condition requires that GMT processing cease to reinitialize
+the frame, FRAME ABORT is displayed. If the condition requires that all
+GMT mode processing halt indefinitely, NO GMT is displayed. The
+possible error conditions are
+
+e RANGE/ELEV LIMIT - Attempt to process GMTs outside of
+elevation or range limits.
+
+e AZ GIMBAL LIMIT - Attempt to process GMTs outside of
+azimuth limits.
+
+e PROCESSING ERROR - Internal GMT processing error.
+
+NOTE
+
+The maximum GMT coverage is 32 nm. Therefore, with a 40 nm radar
+range selected, the top of the radar beam will be set at 32 nm.
+
+AGR-2 D-10
+
+
+Text from AGR-2_APG_70_Intro_page_17.jpeg:
+Cursor Functions (PB #7)
+
+Similar to RBM but no update function available.
+
+Antenna Elevation
+
+Manual antenna elevation control commands are similar to RBM HOTAS.
+
+Antenna Azimuth Scan Select (PB #9)
+
+This function is mechanized just as it is in RBM (previously discussed).
+
+Range (PBs #13 and #14)
+
+Ranges available are 4.7, 10, 20 and 40 nm. Mode entry with a range
+selection of greater than 40 nm initializes to 40 nm. When the range
+selection is 40, the “up” button is not available. The HOTAS is similar to
+RBM. Ground moving targets can only be detected/displayed out to
+
+32 nm.
+
+Freeze
+
+The operator may command freeze. The GMT scan halts immediately and
+targets remain on the display at the fixed location.
+
+GMT Range Coverage Circles and Asterisks
+
+The radar displays range cues (small circles) along the displayed ground
+track line that represent GMT minimum and maximum range coverage
+with the selected el bar setting. In addition to the range cues, asterisk
+cues are used to indicate the current GMT scan coverage on the current el
+bar. The lower asterisk always represents the minimum scan coverage for
+the frame. The upper asterisk represents the maximum range of the
+current bar. The cue steps out in range as each (subsequent) bar is
+scanned.
+
+GMT Additional Target Indicators
+
+In GMT, the entire + 50° scan is processed, although the farthest range
+portions of the extreme azimuths are off the edge of the display. Detected
+targets that are AZ limited are indicated by a triangle oriented to point
+outboard, toward the limited targets.
+
+D-11 AGR-2
+
+
+Text from AGR-2_APG_70_Intro_page_18.jpeg:
+Interleaved Ground Moving Target
+
+Interleaved GMT is entered by selecting PB #10 while in RBM mode with
+a display range less than 80 nm selected. IGMT is not available and the
+legend is not displayed if the selected range is 80 or 160 nm. A “frame”
+consists of a single sweep of RBM followed by one or more GMT sweeps,
+depending on el bar selection.
+
+El Bar Scan
+
+Cursor function and antenna elevation are identical to dedicated GMT
+(Figure D-4), except that the update cursor function is available.
+
+MAXIMUM
+RANGE
+COVERAGE BAR SCAN
+CIRCLE COVERAGE
+CUES
+GMTs SE
+| = 4.7, 10, 20, 40
+EL 1,2, 3,4 L—-» 2 LIM |
+= =
+TT | —
+ADDITIONAL OF O}
+TARGET = —
+INDICATOR foal ie MIN RANGE
+o | — COVERING
+CIRCLE
+ge SiS
+| | | AGR-02-04
+Figure D - 4. A/G Radar, Interleaved GMT.
+Freeze
+
+Freeze mechanization is the same as GMT except: 1) an RBM scan would
+be completed before the freeze, 2) when freeze is deselected, processing
+starts with a new RBM frame and 3) manual EL commands are ignored
+during freeze.
+
+IGMT range coverage circles, additional target indicators and error
+messages are the same as dedicated GMT. Selection of IFF interrogation
+suspends the GMT portion of the IGMT for the duration of the
+interrogation. IFF symbology is removed when the GMT frame restarts.
+
+AGR-2 D-12
+
+
+Text from AGR-2_APG_70_Intro_page_19.jpeg:
+High Resolution Map (HRM) Mode
+
+The HRM mode uses synthetic array radar mapping to provide the
+increased mapping resolution for improved target detection and accurate
+long-range designations. The HRM is displayed in both PPI and patch
+map formats. The PPI format (Figure D-5) is similar to the RBM format
+except for the doppler notch (an area 8° either side of the velocity vector
+where video is not displayed) and that it does not provide a “real time”
+radar picture due to the delay required for doppler processing. HRM
+ranges are the same as RBM; however, HRM resolution is significantly
+better than RBM. HRM takes up to 18 seconds per sweep, vice 1 second
+for RBM, and like the RBM display, up to five sequence points can be
+presented. HRM patch maps provide greatly enhanced resolution and
+magnify selected areas for navigation updates and target designations.
+
+WOON
+
+AGR-02-05
+
+Figure D - 5. HRM PPI Format.
+
+D-13 AGR-2
+
+
+Text from AGR-2_APG_70_Intro_page_2.jpeg:
+ADMINISTRATIVE INFORMATION
+
+This student workbook is designed to provide information on the F-15E,
+its systems and capabilities. It is not a sole source document, but is to be
+used in conjunction with other standard Air Force publications and
+technical manuals. If you find any differences between the material
+contained herein and other governing regulations, adhere to the
+regulations and notify the OPDR.
+
+Changes to this workbook are indicated with a heavy black line in the left
+margin.
+
+Forward recommendations for revision or change to 4 TS, SJAFB NC
+27531.
+
+Supersedes: AGR-2, November 1999
+
+OPDR: 4TS
+
+Index of Changes
+
+Effective Date Pages Affected
+
+
+
+Text from AGR-2_APG_70_Intro_page_20.jpeg:
+The following chart lists the HRM PPI radar ranges and their associated
+resolutions.
+
+RANGE (in nm) RESOLUTION (in feet)
+4.7 59
+10.0 127
+20.0 253
+40.0 507
+80.0 1014
+160.0 2028
+
+DCL (Declutter) (PB #2)
+
+DCL is the same as RBM; when declutter is selected in HRM PPI and an
+HRM patch map is made, the patch map is also decluttered.
+
+ML (Multilook) (PB #38)
+
+ML2 video has a “less grainy” presentation (due to array overlapping)
+than ML1 video but takes roughly 1.5 times as long as ML1 (due to slower
+antenna sweep). Resolution is the same for both (ML1 and ML2).
+
+Display Brightness (PBs #4 and #5)
+
+Display brightness in HRM functions the same as in RBM, except that it
+only operates in HRM FREEZE. (In RBM it is functional only with
+FREEZE not implemented.)
+
+Radar Mode (PB #6)
+
+Same as RBM.
+
+Cursor Function (PB #7)
+
+Same as RBM.
+
+Display Window Size (PB #8)
+
+Same as RBM.
+
+AGR-2 D-14
+
+
+Text from AGR-2_APG_70_Intro_page_21.jpeg:
+Antenna Elevation
+
+Automatically selected to cover the top (farther) 60% of the selected radar
+range based on altitude (not adjustable).
+
+Antenna Azimuth Scan Select (PB #9)
+
+This capability functions exactly as previously described for RBM
+
+(Figure D-6).
+
+®
+
+Or
+
+(> wee B6 S|
+
+R 34.2
+
+(4
+
+AGR-02-06
+
+Figure D - 6. Scan Centered on Cursor.
+
+AGR-2
+
+
+Text from AGR-2_APG_70_Intro_page_22.jpeg:
+Patch Map Modes
+
+The following functions are available when a patch map is made
+(Figure D-7, page D-17).
+
+Map Stabilizing Options (PB #2)
+
+Two options are available: PRG (progressive) and STB (stabilized). In
+PRG the azimuth and range, from the aircraft to the area being mapped,
+remain the same, while in STB, a specific ground point is continuously
+mapped. The radar initializes to STB; PRG can be selected via PB #2.
+PRG is essentially a reconnaissance function in that it constructs maps in
+a strip map way as the mapped area “snowplows’” along the area being
+mapped.
+
+Antenna Azimuth Scan Select (PB #9)
+
+Azimuth scans are centered on the last map center and are the same as
+PPI (i.e., if the scan in PPI restricts the horizontal boundaries of the map,
+those areas are not displayed when the map is made). If a patch map is
+commanded from a PPI display (RBM or HRM), a FULL azimuth patch
+map will be made unless the aircrew had a reduced azimuth selected
+when last exiting the HRM PATCH mode. Ifthe latter were the case, the
+new patch made will be reduced azimuth.
+
+Antenna Elevation
+
+Is automatically centered on cursor position and for the selected range
+(not adjustable).
+
+PPI (PB #14)
+
+Depressing the PB commands the radar to the HRM PPI format, which
+initializes at the last selected PPI range.
+
+NOTE
+
+Anytime you reject (with the auto acq switch) out of a patch map, the
+radar initializes to RBM at the last selected PPI range.
+
+AGR-2 D-16
+
+
+Text from AGR-2_APG_70_Intro_page_23.jpeg:
+Recall Options
+
+When freeze is selected in HRM (patch map format), three new options are
+added to the display: (1) display brightness adjust for the most recently
+constructed map, (2) a recall option and (3) store (STO). In the recall
+option, the radar retains or “remembers” two patch maps labeled NEW
+and OLD. Each time a new map is made (and automatically displayed),
+the previously displayed map becomes the OLD map. These are recalled
+alternately by depressing PB #10 (Figure D-7). The options available with
+
+PB #10 are:
+
+NEW
+
+With the radar in FREEZE, NEW indicates that the
+
+map being displayed is the most recent HRM map
+
+created.
+
+OLD
+
+With the radar in FREEZE, OLD indicates that the
+
+map being displayed is not the most recent HRM map
+
+created.
+
+®
+rs ee |
+
+CHAN B6 SNF 2.2 IPVU
+
+3SEC
+030-010
+ovo |
+HRM | MAP | 3.3 | FULL | NEW
+
+IOUCOUCIOUOR
+
+eee
+
+DISPLAYED MAP
+
+g
+'
+
+fe)
+a
+a
+
+Ta
+Ip
+
+Ss
+T
+[e)
+P
+a=)
+—
+Kj
+3
+R
+Cc
+D
+
+=
+
+als
+
+CONT
+®
+
+®
+
+IETo)
+
+IK
+
+BRT
+
+® ers
+
+AZ
+R
+
+COU ON ON “7
+
+CHAN B6
+045L
+18.2
+
+SNF 2.2 IPVU
+
+FREEZE
+
+3sEc M
+
+030-01
+
+| ovo
+HRM | MAP | 4.7 | FULL | OLD
+
+0
+
+CRIP
+
+DISPLAYED MAP
+
+Figure D - 7. New and Old Patch Maps.
+
+OFF
+
+0QOnA N- ®F —-VVD OFAN
+WCMonono
+
+as)
+
+CONT
+®
+
+AGR-02-07
+
+Regardless of what is displayed (NEW or OLD), if a new map is made, the
+map that is not currently displayed is replaced.
+
+AGR-2
+
+
+Text from AGR-2_APG_70_Intro_page_24.jpeg:
+STO (Store)
+
+When PB #15 is pressed, the currently displayed map (either NEW or
+OLD) is stored for future recall. This map is retained as long as STO is
+boxed. PB #10 now alternates between STORE and NEW (old map
+stored) or STORE and OLD (new map stored) until the next map is made
+(Figure D-8). After the next map is made with STO boxed, PB #10
+
+alternates between STORE and NEW as long as STO is boxed.
+
+STORE (PB #10)
+
+NEW (PB #10)
+
+AGR-2
+
+®
+
+Les]
+Td
+-Cr= WAM
+
+Ke" |
+
+do >
+
+With the radar in FREEZE, STORE indicates that the
+map being displayed can be recalled anytime the radar
+is in FREEZE.
+
+Displays the most recent patch map created. If
+additional maps are created, they sequentially replace
+
+this
+
+map.
+
+CHAN B6 SNF 2.2 IPVU
+AZ 059L
+
+R 18.2
+
+N
+7
+
+Lo | |
+HRM | MAP | .67 | FULL |STORE
+
+| —
+
+ig
+
+FREEZE
+
+TI
+
+| yd
+@ = | OO
+
+030-010
+
+Beer
+
+Figure D - 8. Stored Patch Map.
+
+AGR-02-08
+
+STORED MAP
+
+
+Text from AGR-2_APG_70_Intro_page_25.jpeg:
+Precision Velocity Update (PVU) Mode
+
+The primary function of the selectable PVU mode (Figure D-9) is to
+provide an estimate of velocity error for updating either the INS or MN.
+An MN PVU can compensate for velocity errors of up to 150 knots from
+the radar. In other words, the INS and MN (with INS input) “think” they
+are moving across the surface in a certain direction and rate. This
+movement is calculated from accelerations provided to the INS from
+aircraft movement. The radar also calculates this movement from the
+rate of change of the ground returns it sees. As the radar calculations can
+be more accurate, PVU provides the crew with the delta or difference in
+perceived movement by the two systems and allows an update if desired.
+This delta is displayed beneath RADAR on the PVU display. This
+information is also used for in-flight alignments of the INS. The PVU
+mode is necessary because even small velocity errors in the INS and MN
+can have a significant effect on the accuracy and quality of HRM maps
+and therefore, on radar weapons delivery accuracy.
+
+DOPPLER BIAS
+
+RESET MISSION
+NAVIGATOR
+
+CLEAR SELECTED
+
+AGR-02-09
+
+Figure D- 9. PVU.
+
+D-19 AGR-2
+
+
+Text from AGR-2_APG_70_Intro_page_26.jpeg:
+After TCTO 1F-15E-737, MN and INS PVUs are permitted in any present
+position keeping source (PPKS). In embedded GPS/INS (EGI) PPKS MN
+PVUs are not necessary prior to HRM patch map construction; however,
+INS PVUs are still necessary after replacement of the CC, RDR antenna
+or the INS.
+
+With the PVU mode selected, the following options are displayed on the
+MPD.
+
+Doppler Bias Select (PB #2)
+
+PB #2 displays either of two selectable options for the INS PVU. LAN or
+SEA provides different bias inputs to the PVU, depending upon selection.
+The PVU mode initializes with LAN selected. If flying over water, select
+the SEA option. However, for MN PVUs, the LAN/SEA option is
+nonfunctional. The aircrew may select either option but the PVU will
+continue to function as though LAN was selected. SEA is not available
+with an in-flight alignment in progress.
+
+RST (Reset) (PB #4)
+
+Reinitializes the PVU operation. Not selectable with an INS PVU or
+in-flight alignment in progress. Selecting RST provides the same results
+as exiting and then reentering the PVU mode. Prior MN velocity updates
+stored in memory are not affected by RST.
+
+CLR (Clear) (PB #5)
+
+CLR is provided to give the operator the means to delete an MN velocity
+update that may have been in error. Not selectable after PVU update is
+commanded for the INS or if in an in-flight align mode.
+
+MN (Mission Navigator) (PB #8)
+
+MN is selected (boxed) upon PVU mode entry. The MN velocities are
+updated if the operator accepts the PVU errors with MN selected.
+
+AGR-2 D - 20
+
+
+Text from AGR-2_APG_70_Intro_page_27.jpeg:
+INS Unertial Navigation System) (PB #9)
+
+With INS boxed when the operator accepts PVU errors, the INS PVU
+process begins, continuously updating the INS velocities. When update is
+commanded, options displayed at PBs #4 and #5 are removed.
+
+IFA (In-flight Alignment)
+
+Displayed at PB #10 when INS has been cycled from OFF to NAV during
+flight. With an IFA in progress, options at PBs #2, #4 and #5 are not
+selectable. Utilized only when the INS has malfunctioned and needs
+realigning in flight.
+
+Beacon (BCN) Mode
+
+The primary purpose of BCN (Figure D-10) is to use a ground-based
+beacon for radar/offset bombing. Two different beacon codes can be
+interrogated. The radar does not display normal video returns but instead
+displays beacon location in range and azimuth. The beacon return
+consists of four horizontal lines in range order. The strobe closest in range
+is the actual position of the beacon. Like RBM and HRM, targets can be
+designated in BCN. Peculiar BCN display controls follow.
+
+Cursor Function Select (PB #7)
+
+Only MAP and TGT are available in the BCN mode. The target functions
+are the same as RBM. The MAP function is available only so that HOTAS
+functions that are available only in MAP cursor function are usable in
+BCN (mode reject to RBM, for example).
+
+EL Bar Scan
+
+Five different elevation scans—1, 2, 4, 6 and 8 bar scan—can be selected
+via PB #15 to facilitate beacon detection.
+
+D-21 AGR-2
+
+
+Text from AGR-2_APG_70_Intro_page_28.jpeg:
+Antenna Elevation
+
+Same as RBM.
+
+NOTE
+
+BCN initializes at 40 nm range and full sweep.
+
+EL BAR
+SELECTION
+
+BEACON
+RETURNS
+
+AGR-02-10
+
+Figure D - 10. Beacon.
+
+AGR-2 D - 22
+
+
+Text from AGR-2_APG_70_Intro_page_29.jpeg:
+Air-to-Ground Ranging (AGR)
+
+The air-to-ground ranging mode provides slant range information for
+weapons delivery computations and position updates. The radar slant
+range is displayed in digital form on the A/G radar format and on the
+HUD above the NAV data block. Radar slant range is also displayed on
+the HUD A/G reticle via an analog bar (large reticle) or an analog cue
+(small reticle) (Figure D-11). AGR is not selectable from the A/G radar
+format. Its selection is a function of the type of weapons delivery or
+position update, weapons delivery modes, sensor priority, etc., all of which
+are discussed in later lessons.
+
+|
+o-
+|
+
+o4s.oa6 © /N0- Ft 10\
+> RNG TGT 47 FULL | NEW ‘ / iY >
+HRM | TST | 47 | FULL | yy, AUTO AGR
+LZ
+RADAR IS PROVIDING SLANT RANGE
+RANGING DISPLAYED HERE
+
+AGR-02-11
+
+Figure D - 11. Air-to-Ground Ranging (AGR).
+
+D - 23 AGR-2
+
+
+Text from AGR-2_APG_70_Intro_page_3.jpeg:
+AIR-TO-GROUND RADAR
+
+@
+aS
+
+—
+Dif —t_t_Wyp y g hon oo
+
+COVER
+
+APG-70 A/G INTRODUCTION
+
+INTRODUCTION
+
+This workbook introduces the F-15E air-to-ground (A/G) radar. It
+familiarizes you with the characteristics and functions of each A/G radar
+mode. As part of a computer-based training (CBT) lesson, this workbook
+should be read prior to taking the CBT instruction
+
+CONTENTS:
+
+INTRODDUGCTION 6 ces cuss sss sess sen sens sews suns sues sure sens set sews sues sur seins sen seis sess sumn axes « A-1
+CRITERION REFERENCED OBJECTIVES (CROs).........000eeeeeeeeeeeeeeee B-1
+STUDENT PREPARATION REQUIREMENTS . 0.00... eeeeeeeeeeee C-1
+TEXT oc eecccccceessseecceesseeeecessseeeceessseeeecesssseeeseeessaeeeseessaeeeseeeeaaeeseeea D-1
+SONOS RII “Me tly Me) Medel see see ees es sec ante es se ane cea tame see ese ap ee te se: ce N/A
+GLOSSARY. ieee eeccceeseeesscecssneeecesaeeceseecessaeeceseecessaeesesaaeeeesaeeeesnaeeeseas F-1
+
+A-1 AGR-2
+
+
+Text from AGR-2_APG_70_Intro_page_30.jpeg:
+QUESTIONS
+
+1. In BCN, the beacon location on the A/G radar display is the
+in range of four horizontal lines.
+
+a. closest
+b. second
+c. third
+d. last
+
+Ds In HRM, azimuth limits of the selected scan are depicted by
+
+range bars.
+
+the azimuth scan caret.
+
+the antenna azimuth scan scale.
+the azimuth scan circles.
+
+aS oP
+
+3. To direct the targeting IR to the radar cursor, select the
+cursor function.
+
+a. MAP
+
+b. UPDT
+
+c. CUE or TGT
+d. MARK
+
+4. When IPVU is selected, the radar automatically updates MN
+velocities about every ___ seconds.
+
+a. 6
+b. 9
+c. 30
+d. 60
+
+AGR-2 D - 24
+
+
+Text from AGR-2_APG_70_Intro_page_31.jpeg:
+Resolution for ML2 is that of ML1.
+
+a. the same as
+b. 1.5 times
+
+C. three times
+d. four times
+
+If in HRM FREEZE with STO not boxed and the OLD patch map
+displayed, commanding another patch map
+
+eliminates the NEW patch map not being shown.
+eliminates the OLD patch map being shown.
+replaces the STORE patch map.
+
+is not possible as the OLD one is being displayed.
+
+Boop
+
+D - 25 AGR-2
+
+
+Text from AGR-2_APG_70_Intro_page_32.jpeg:
+ANSWERS
+
+1. a
+2 d
+3. €
+4 d
+5. a
+6. a
+
+AGR-2 D - 26
+
+
+Text from AGR-2_APG_70_Intro_page_33.jpeg:
+A/A
+A/G
+AGL
+AGR
+AZ
+BCN
+CC
+CLR
+DBA
+DCL
+DW
+EGI
+EL
+EO
+FCP
+ft
+GC
+GMT
+GPS
+HOTAS
+
+HRM
+
+GLOSSARY
+Air-to-air
+Air-to-ground
+Above ground level
+Air-to-ground ranging
+Azimuth
+Beacon
+Central computer
+Clear
+Display brightness adjust
+Declutter
+Display window
+Embedded GPS/INS
+Elevation
+Electro-optical
+Front cockpit
+Foot; feet
+Gain control
+Ground moving target
+Global positioning system
+Hands on throttle and stick
+
+High resolution map
+
+AGR-2
+
+
+Text from AGR-2_APG_70_Intro_page_34.jpeg:
+HUD Head-up display
+
+IFA In-flight alignment
+
+IFF Identification friend or foe
+
+IGMT Interleaved ground moving target
+INS Inertial navigation system
+
+IPVU Interleaved precision velocity update
+IR Infrared
+
+LAN Land
+
+ML Multilook
+
+MN Mission navigator
+
+MPCD Multipurpose color display
+
+MPD Multipurpose display
+MSL Mean sea level
+
+nm Nautical mile(s)
+
+PB Pushbutton
+
+PPI Planned position indicator
+PPKS Present position keeping source
+PRG Progressive
+
+PVU Precision velocity update
+RBM Real beam map
+
+RCP Rear cockpit
+
+RNG Range
+
+AGR-2 F-2
+
+
+Text from AGR-2_APG_70_Intro_page_35.jpeg:
+RST Reset
+
+SEA Water
+
+SP Sequence point
+
+STB Stabilized
+
+STO Store
+
+TDC Target designator control
+TGT Target
+
+TO Technical order
+
+UFC Upfront control
+
+UPDT Update
+
+F-3 AGR-2
+
+
+Text from AGR-2_APG_70_Intro_page_36.jpeg:
+BACK PAGE
+COVER SHEET
+
+
+Text from AGR-2_APG_70_Intro_page_4.jpeg:
+CRITERION REFERENCED OBJECTIVES (CROs)
+
+1. Identify the purpose and characteristics of specific air-to-ground
+radar modes.
+
+Ds Identify MPD controls for air-to-ground radar display options.
+
+REFERENCES
+
+TO 1F-15E-34-1-1 SECTION I A/G RADAR
+A/G RADAR EMPLOYMENT
+
+AGR-2 B-1
+
+
+Text from AGR-2_APG_70_Intro_page_5.jpeg:
+STUDENT PREPARATION REQUIREMENTS
+BEFORE CBT CLASS
+
+1. Study the information contained in this workbook.
+Z Read the associated material in TO 1F-15E-34-1-1.
+
+C-1 AGR-2
+
+
+Text from AGR-2_APG_70_Intro_page_6.jpeg:
+(This Page Intentionally Blank)
+
+AGR-2 C-2
+
+
+Text from AGR-2_APG_70_Intro_page_7.jpeg:
+TEXT
+INTRODUCTION
+
+The F-15E A/G radar (APG-70) has five operating modes: real beam map
+(RBM), ground moving targets (GMT), high resolution map (HRM), beacon
+(BCN) and precision velocity update (PVU). The radar also has an
+air-to-ground ranging mode (AGR).
+
+Included in these modes is the ability to create a high resolution patch
+map (MAP), perform position updates to the navigation systems (UPDT),
+designate targets (TGT), cue the targeting IR (CUE) and mark the
+latitude and longitude of points of interest (MARK). The A/G radar
+display can only be displayed on the MPDs (not MPCDs). Table D-1
+summarizes the different modes, their performance and their purpose.
+
+GROSS TERRAIN FEATURES
+FOR NAVIGATION/TERRAIN
+AVOIDANCE (INCLUDING IMC
+
+RESOLUTION: 500 FT AT TERRAIN FOLLOWING)
+
+4.7NM
+
+REAL BEAM MAP (RBM) WEATHER
+
+DETECTION/AVOIDANCE
+
+MAXIMUM RANGE - 160 NM
+(RESOLUTION = 21,200 FT)
+
+HRM CUEING (INITIATING
+HRM PATCH MAPS)
+
+GROUND MOVING GROUND MOVING TARGET
+TARGETS (GMT) MSXIMUNRSNGE:- 32.NM DETECTION
+WIDE AREA SEARCH
+
+59 FT RESOLUTION AT 4.7 NM POSITION UPDATES
+HIGH RESOLUTION MAP ED UP TO 2028 FT RESOLUTION TGT IR CUEING
+TO 160 NM
+IN-WEATHER TARGET
+DESIGNATION
+
+POSITION UPDATES
+8.5 FT RESOLUTION AT 39 NM
+HIGH RESOLUTION MAP TGT IR CUEING
+(PATCH MAP)* UP TO 1014 FT RESOLUTION
+AT 160 NM IN-WEATHER TARGET
+DESIGNATION
+
+PROVIDE PRECISE
+PRECISION VELOCITY UPDATE ACE DPE mTOR VELOCITIES FOR NAVIGATION
+AND PATCH MAP CREATION
+
+BEACON MAXIMUM RANGE - 160 NM OFFSET BOMBING
+
+TGT DESIGNATION
+AIR-TO-GROUND RANGING* RADAR SLANT RANGE WEAPON DELIVERY
+POSITION UPDATES
+
+* NOT PUSHBUTTON SELECTABLE FROM THE AIR-TO-GROUND RADAR DISPLAY FORMAT
+Table D - 1. A/G Modes Summary.
+
+D-1 AGR-2
+
+
+Text from AGR-2_APG_70_Intro_page_8.jpeg:
+RADAR MODES
+Real Beam Map (RBM) (PB #6)
+
+The purpose of RBM is to provide a conventional radar mode for ground
+mapping and weather detection. The RBM format (Figure D-1) is a plan
+position indicator (PPI) display, which takes approximately 1 second per
+sweep and provides six ranges (from 4.7 to 160 nm). Up to five sequence
+points and five mark points can be simultaneously presented on the RBM
+display. The following discussion explains the pushbutton options
+counterclockwise from PB #2.
+
+reomer—¢ MMIIG &
+©
+BIT CHAN SEQUENCE
+OFF
+ALT-114
+DECLUTTER
+3.3 4 RANGE
+GAIN TIME TO
+CONTROL MAKE A MAP
+BULLSEYE
+DISPLAY BEARING/
+BRIGHTNESS : RANGE
+Ge BsEo DISPLAY
+—T | — WINDOW SIZE
+MODE x eRBM [MAP | 4.74 FULL] IGMT _/
+A ms
+4 \_ N_) \_/ \_ =) L
+CURSOR iW] " ' | 7 = AZIMUTH
+FUNCTION B CONT 6 SCALE
+
+AGR-02-01
+
+Figure D - 1. Real Beam Map.
+
+DCL (Declutter) (PB #2)
+
+DCL removes the magnetic north indicator, all sequence points and their
+related numbers from the radar display. If declutter is selected and an
+HRM patch map is created from RBM, it will also be decluttered. The
+declutter option is selectable/deselectable in all cursor functions and all
+modes except BCN.
+
+AGR-2 D-2
+
+
+Text from AGR-2_APG_70_Intro_page_9.jpeg:
+GC (Gain Control) (PB #8)
+
+There are four selectable gain settings, 0-3, with 0 being the lowest gain
+setting and 3 being the highest. This controls intensity of radar returns
+through the receiver. GC3 is recommended for normal operation.
+
+Display Brightness Adjust (DBA) (PBs #4 and #5)
+
+Brightness of the map display is controlled through 16 selectable levels of
+brightness (0-15), provided you are not in FREEZE. Once set, brightness
+will be retained for a specific mode, provided all mode changes are made
+via HOTAS. Ifthe radar mode is changed by using PB #6, the brightness
+level defaults to 8. An eight-shade gray scale is located in the lower right
+corner of the display to aid in optimizing MPD brightness/contrast
+adjustment.
+
+Radar Mode Select (PB #6)
+
+Individually selects the five radar modes: RBM, GMT, HRM (PPI), BCN
+and PVU. HRM patch map is not selectable. Usually when PB #6 is used
+to select a different radar mode, the radar range initializes to that selected
+in the last PPI mode. You can also enter various A/G radar modes via
+taking command of the A/G radar display, thus taking the radar from an
+A/A radar mode or from AGR; or you can enter some radar modes (RBM,
+PVU, HRM patch) via mode reject from another A/G radar mode. The
+various mode parameters can initialize to values based on how you
+selected the mode, what mode you selected from and the previous
+parameters. As you move among the various A/G radar modes, you should
+check the parameters, ensuring they are set correctly.
+
+D-3 AGR-2
+
+

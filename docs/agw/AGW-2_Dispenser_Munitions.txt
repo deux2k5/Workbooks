@@ -1,0 +1,819 @@
+Text from AGW-2_Dispenser_Munitions_page_1.jpeg:
+SUPPORTS COURSES
+FIS5EBQ
+FISETX
+
+ACADEMIC STUDENT WORKBOOK
+F-15E
+
+AIR-TO-GROUND WEAPONS
+AGW-2
+DISPENSER MUNITIONS
+
+NOVEMBER 1998
+
+(SUITE 3 OFP)
+
+AIR COMBAT COMMAND
+
+
+Text from AGW-2_Dispenser_Munitions_page_10.jpeg:
+SUU-64/B / SUU-65/B / SUU-66/B Dispensers
+
+The SUU-64/B, SUU-65/B, and SUU-66/B tactical munitions dispensers
+(TMD) (Figure D-3) are three-piece clamshell cluster munitions
+dispensers. They are normally used with the FZU-39/B proximity sensor
+fuze that offers cockpit selectable function modes. The aircrew has the
+option of changing from integral fuze function [TIME] which is nose
+arming only, to FZU-39 proximity function [HEIGHT] which arms both
+the nose and tail solenoids.
+
+NOTE: On preflight, make sure the fuze arming lanyard is routed
+correctly. The nose arming solenoid must also be energized when
+selecting the FZU-39 since the integral timer fuze is the source of
+electrical power for the FZU-39 proximity sensor. Energizing only the
+tail arming solenoid will result in the dispenser impacting the
+ground intact since the FZU-39 will otherwise receive no
+electrical power to operate.
+
+FUZE ARM AND
+OPTION LANYARDS TAIL SECTION
+FIN RELEASE
+
+FINS RETRACTED
+
+BODY SECTION TAIL ASSEMBLY
+
+=
+
+FINS DEPLOYED
+
+AGW-02-03
+
+Figure D - 3. SUU-64/B, -65/B, -66/B.
+
+AGW-2 D-4
+
+
+Text from AGW-2_Dispenser_Munitions_page_11.jpeg:
+The SUU-65/B is a SUU-64/B with a modified tail section that imparts
+spin to the dispenser to enhance submunitions dispersion. When the
+dispenser reaches the preset function altitude, the fuze activates the fin
+cant, causing the dispenser to spin. Upon reaching the proper spin rate,
+the SUU-65/B opens. The SUU-66/B is a SUU-64/B with the Gator mine
+electronics package removed, and the airbag system installed to eject the
+submunitions.
+
+SPECIFIC MUNITIONS
+The CBUs discussed use the SUU-64/B, SUU-65/B, or SUU-66/B. The
+
+combination of a particular dispenser with a particular submunition
+results in a particular CBU designation.
+
+D-5 AGW-2
+
+
+Text from AGW-2_Dispenser_Munitions_page_12.jpeg:
+CBU-87 Combined Effects Munitions (CEM)
+
+CBU-87 CEM is a SUU-65/B dispenser loaded with 202 BLU-97/B
+bomblets (Figure D-4). The bomblet case is made of scored steel designed
+to break into preformed fragments for defeating light armor and
+personnel. It also contains a forward-firing, shaped charge liner for
+defeating armor, plus a zirconium ring for incendiary capability. This is a
+multiuse weapon.
+
+WARNING
+
+CBU-87/B and S/B have experienced
+numerous submunition airbursts
+immediately following submunition
+arming. These airbursts affect safe
+separation from submunition shaped
+charges during level deliveries when
+releasing multiple weapons in the timer
+mode. Refer to Section VI of TO 1-1M-34
+for delivery restrictions.
+
+SCORED-STEEL CASE
+
+AIR INFLATABLE
+DECELERATOR
+
+ZIRCONIUM
+CHARGE RING
+
+STAND OFF TUBE 4
+
+SPYDER
+
+AGW-02-04
+
+Figure D - 4. BLU-97/B Bomblet.
+
+AGW-2 D-6
+
+
+Text from AGW-2_Dispenser_Munitions_page_13.jpeg:
+CBU-89 Gator
+
+CBU-89 consists of a SUU-64/B dispenser containing 72 BLU-91/B
+(Figure D-5) and 22 BLU-92/B submunitions. The BLU-91/B antitank
+mine is a magnetic target-sensing submunition. Detonation occurs when
+the magnetic sensor detects a target, when the mine is disturbed, at the
+expiration of the self-destruct time, or when the battery voltage drops
+below a specified level. The BLU-92/B antipersonnel mine has a
+fragmenting case warhead triggered by one of eight 40 foot trip wires.
+Detonation occurs when a target activates the trip wire, when the mine is
+disturbed, at the expiration of the self-destruct time, or when the battery
+voltage drops to a specified level. The Gator is an excellent area denial
+weapon for both armor and personnel.
+
+TRIP WIRE PORTS
+(BLU-92 ONLY)
+
+AGW-02-05
+
+Figure D - 5. BLU-91/B Bomblet.
+
+D-7 AGW-2
+
+
+Text from AGW-2_Dispenser_Munitions_page_14.jpeg:
+CBU-97/B SENSOR FUZED WEAPON
+
+The CBU-97 sensor fuzed weapon (SFW) consists of a SUU-66/B TMD, an
+airbag dispensing system, 10 BLU-108/B submunitions packaged in two
+bays of five, an integral timer fuze, and the FZU-39/B proximity sensor.
+SFW is designed to provide multiple kill per pass capability against tanks,
+armored vehicles, artillery, APCs, and support vehicles.
+
+The BLU-108/B submunition consists of a nose electronics section,
+warhead launcher assembly, rocket motor, and orientation/stabilization
+device (OSD). The nose electronics section contains the power supply,
+safe-arm device, sequencer, and radar altimeter. The launcher assembly
+holds four skeet warheads (four skeet for each BLU-108/B or a total of 40
+skeet per SFW munition). The OSD consists of externally mounted fins, a
+drogue parachute, and a main parachute.
+
+SFW is delivered as an unguided, gravity drop, direct attack or limited
+standoff munition. After release, the SUU-66/B TMD falls and opens as
+discussed earlier. When the TMD skin is released, two gas generators fire
+inside the TMD inflating forward and aft bay airbags. As gas pressure
+fills inside the airbags they expand, overcoming the release locks on the
+restraining bands, ejecting first the five submunitions in the forward bay,
+followed by the five submunitions in the aft bay.
+
+AGW-2 D-8
+
+
+Text from AGW-2_Dispenser_Munitions_page_15.jpeg:
+The skeets are antiarmor warhead projectiles and function as the kill
+mechanism of the SFW. Each contains a thermal battery, a passive
+two-color IR sensor, processing electronics, a safe-arm device, and an
+explosively formed projectile warhead (Figure D-6).
+
+PRECISION
+COVER INITIATION
+COLUMN
+ELECTRIC
+MODULE x
+BATTERY
+UPPER IR SENSOR
+HOUSING ELEMENT
+e
+1.924
+OCTOL
+3.75
+LINER
+HOUSING
+LINER
+RETAINING
+
+RING
+5.00
+LENS
+
+Figure D - 6. Skeet Warhead.
+
+AGW-02-06
+
+D-9 AGW-2
+
+
+Text from AGW-2_Dispenser_Munitions_page_16.jpeg:
+The skeets are canted slightly during articulation so that upon release
+from the spinning submunition, their flight path will contain a slight
+wobble (Figure D-7). This is referred to as coning. As the skeets fly away
+from the submunition they are spinning and coning. The spinning arms
+the skeet via rotation of the safe-arm device while the coning action
+causes an IR seeker boresighted to the spin axis of the skeet to describe a
+scan pattern across the ground. A single skeet will cover a search area
+approximately 100 feet wide and over 300 feet long. The scan patterns of
+all forty skeet from a single CBU-97 canister will describe a search
+pattern 1200 feet long and 700 feet wide. Skeet operation is depicted in
+Figure D-8.
+
+TACTICAL
+MUNITIONS
+DISPENSER
+(TMD)
+
+"SKEET" =>
+WARHEAD
+
+SUBMUNITION
+\__’ (BLU-108/B)
+
+AGW-02-07
+
+Figure D - 7. Skeet Dispenser.
+
+AGW-2 D-10
+
+
+Text from AGW-2_Dispenser_Munitions_page_17.jpeg:
+qr Toe, MAIN CHUTE
+SUBMUNITION DEPLOYMENT
+FLIGHT STABLE DESCENT
+DROGUE - SLOWS DESCENT
+
+DEPLOYMENT - UHOF DETECTION
+- INITIATE EACH PROJECTILE
+
+SUBMUNITION
+STABILIZATION
+
+- ARTICULATION
+AND LOCK
+SKEETS
+
+- PARACHUTE JETTISON
+- LHOF DETECTION TAL
+} J
+iy SKEET
+SKEET(S) FLIGHT RELEASE
+
+- SCAN, DETECT, FIRE ‘ ~s(PAIRS) :
+
+/-ARMSANDA | (SNgp CNITION
+(ROTATE ROTOR)!
+
+\
+.
+\
+PO
+
+AGW-02-08
+
+Figure D - 8. Skeet Operation.
+
+The individual warheads seek targets based on predetermined two-color
+IR signatures. When a target is detected, a processor in the skeet issues a
+fire pulse to the detonator within 60 ms (+10 ms). The explosive output of
+the detonator initiates the precision initiation coupler. This initiates the
+high explosive which in turn produces a high velocity, aeroballistically
+stable charge, called an explosively forged penetrator. This explosively
+formed projectile hits and penetrates the engine area from the top of the
+target inflicting a mobility kill. If the skeet does not detect a target
+during the fly-out period, a self-destruct feature detonates the warhead
+8.0 seconds after release.
+
+D-11 AGW-2
+
+
+Text from AGW-2_Dispenser_Munitions_page_18.jpeg:
+QUESTIONS
+
+1. Which dispenser is used with the CEM?
+
+a. SUU-73
+b. SUU-20
+ce. SUU-65
+d. SUU-64
+
+2. ASUU-65/B is a
+
+a. pylon.
+
+b. GP bomb.
+
+c. submunition.
+d. dispenser.
+
+3. Which CBU uses the SUU-64/B dispenser?
+
+a. CBU-71/B
+b. CBU-87/B
+ec. CBU-89
+
+d. CBU-97/B
+
+4. Which munition has the time delay useful for area denial of armor?
+
+a. CBU-87/B
+b. CBU-89
+c. CBU-97/B
+d. GBU-12
+
+5. Which munition uses a two-color passive IR sensor?
+
+a. CBU-87/B
+b. CBU-89
+c. CBU-97/B
+d. GBU-15
+
+AGW-2 D-12
+
+
+Text from AGW-2_Dispenser_Munitions_page_19.jpeg:
+ANSWERS
+
+D-13 AGW-2
+
+
+Text from AGW-2_Dispenser_Munitions_page_2.jpeg:
+ADMINISTRATIVE INFORMATION
+
+This student workbook is designed to provide information on the F-15E,
+its systems, and capabilities. It is not a sole source document, but is to be
+used in conjunction with other standard Air Force publications and
+technical manuals. If you find any differences between the material
+contained herein and other governing regulations, adhere to the
+regulations and notify the OPDR.
+
+Changes to this workbook are indicated with a heavy black line in the left
+margin.
+
+Forward recommendations for revision or change to 4 TS, SJAFB, NC,
+275381.
+
+Supersedes: AGW-2, July, 1998
+
+OPDR: 4TS
+
+Index of Changes
+
+Effective Date Pages Affected
+
+
+
+Text from AGW-2_Dispenser_Munitions_page_20.jpeg:
+FUZES
+
+FZU-39/B Proximity Sensor
+
+This proximity sensor (Figure D-9) is used with the SUU-64/B, SUU-65/B,
+and SUU-66/B dispensers. It has selectable arming time and height of
+function settings. It transmits a signal which it uses to determine vertical
+height. When a SUU-64/B or SUU-66/B reaches the preset height, the
+sensor sends a fire pulse to the integral fuze, opening the canister. On the
+SUU-65/B, at preset height, the sensor sends a signal for fin cant causing
+the dispenser to spin. Then when reaching the preset spin rate, the
+canister opens. There is also a selectable ECM feature. The FZU-39
+options are shown on Figure D-10. The PACS program should mirror the
+correct fuze settings. Time or height of function is cockpit selectable.
+
+If the FZU-39/B fuze was not available, the dispensers have an integral
+timer fuze. However, expect that the FZU-39/B fuze will be available and
+tasked to be used in the height of function mode. The radar proximity
+fuze provides more consistent minefield dimensions or frag patterns and
+more liberal release parameters than the integral timer fuze.
+
+| SAFETY PIN
+
+ECM SET
+ARM/OPTION
+
+SAFETY PIN
+
+THO
+
+SPIN SET
+
+FZU-39/B
+PROXIMITY
+SENSOR
+
+ARM TIME
+
+HOF SET
+
+AGW-02-09
+
+Figure D - 9. FZU-39/B.
+
+AGW-2 D-14
+
+
+Text from AGW-2_Dispenser_Munitions_page_21.jpeg:
+ARMING HEIGHT OF FUNCTION
+
+SWITCH ARMING SWITCH | HOF
+POSITION TIME (SEC) | SETTING | (FT) | TOLERANCE
+
+AGW-02-10
+
+* (CBU-89 ONLY)
+
+Figure D - 10. FZU-39 Settings.
+
+FZU-39/B ECM Mode
+
+The FZU-39 ECM mode is selected by an on/off switch on the side of the
+fuze. When the ECM switch is positioned to the ON position and the fuze
+is unable to determine height above ground due to the presence of
+jamming, the ECM mode is activated. If the ECM mode is able to defeat
+the jamming, the fuze will function normally. If the ECM mode fails to
+counter the jamming, the fuze will open the dispenser after a two-second
+delay. This normally results in the fuze functioning to open the dispenser
+at other than the desired height above ground. However, this ECM
+feature at least provides for dispenser opening even when radar range is
+denied.
+
+If the ECM mode is selected and no ECM is experienced, the fuze will
+function normally. Not selecting the ECM mode in a jamming
+environment may result in the dispenser impacting the ground intact.
+Further detail of how the ECM mode functions is not necessary for the
+level of knowledge required to plan for and employ Gator mines and CEM
+munitions. The important point is that the ECM mode should always be
+
+selected.
+D-15 AGW-2
+
+
+Text from AGW-2_Dispenser_Munitions_page_22.jpeg:
+QUESTIONS
+
+1. PACS fuze selection arming option “N” will select which option time
+
+on the FZU-39/B fuze?
+a. 0.95
+b. 1.60
+ce. 2.23
+d. 4.15
+
+2. Which FZU-39/B switch setting should be used for a height of
+
+function of 900 feet?
+a A
+b. B
+c C
+d. D
+
+3. The FZU-39/B is mated with the
+a. SUU-30.
+b. CBU-71.
+c SUU-20.
+d. SUU-65.
+
+4. Which fuze is a proximity function fuze?
+
+a. M904
+b. M905
+ec. MK 339
+d. FZU-39
+
+AGW-2 D-16
+
+
+Text from AGW-2_Dispenser_Munitions_page_23.jpeg:
+ANSWERS
+
+D-17 AGW-2
+
+
+Text from AGW-2_Dispenser_Munitions_page_24.jpeg:
+WEAPON/FUZE COMBINATIONS
+
+The many different munitions the F-15E can carry accommodate a variety
+of fuzes that can have numerous settings. Each combination of weapon,
+fuze, and setting will produce a predictable effect on a given target. An
+example can be shown with the CBU-87. Delivery is most flexible with
+the FZU-39 with HEIGHT function selected by the crew. If TIME is
+selected, delivery parameters become increasingly important, since fuze
+function is controlled only by the integral timer as opposed to the
+proximity fuze. With TIME selected the dispenser will fall for the preset
+number of seconds and then open regardless of altitude. If you are too
+high you do not get the desired submunition density. If you are too low
+the dispenser may hit the ground before opening.
+
+Targeting
+
+Targeting, for the purpose of this discussion, is the matching of munitions
+with the desired effect on a target. Targeting is normally accomplished at
+higher headquarters by the people who have “the big picture.” They use
+the Joint Munitions Effectiveness Manuals (JMEM) as their “Bible” for
+weapon selection. The JMEMs are the authoritative source of information
+needed to select weapons and estimate the force requirements to achieve
+the desired results.
+
+Munitions Selection
+
+The following are examples of munitions matched to targets to maximize
+target destruction.
+
+CBU with Instantaneous Fuze
+
+Since CBU munitions are quite small and depend on small high speed
+fragments to be lethal, the target must be unprotected (even trees can
+diminish the killing power). CBUs are good against:
+
+° personnel
+
+¢ light trucks
+
+¢ unprotected fuel/ammunition
+° radar vans/antennas/SAMs
+
+° aircraft on the ground
+
+AGW-2 D-18
+
+
+Text from AGW-2_Dispenser_Munitions_page_25.jpeg:
+CBU with Delayed Fuze
+
+These munitions are excellent for area denial. The Gator mines are
+especially good for denying armor or personnel movement through an
+area.
+
+CBU-87 or Skeet
+
+The shaped charges are specifically designed for use against armor.
+CBU-87 is also outstanding against personnel, light vehicles, lightly
+protected fuel, ammunition, radar vans, antennas, SAMS, and aircraft in
+the open.
+
+APPROX SAFE
+
+MUNITION DISPENSER | SUBMUNITION |NUMBER OF | WEIGHT FUSE | ESCAPE
+OPTION | @5000"
+
+BOMBLETS
+
+CBU-87 /B, A/B
+CBU-87 B/B SUU-65 / B BLU-97 / B 202 FZU-39 | 2200'
+CBU-87 C/B
+(CEM)
+CBU-89 SUU-64 /B BLU-91/B 72
+(GATOR) BLU-92/B 22
+CBU-97/B SUU-66/B | BLU-108/B 10
+(SFW / SKEET) (40 SKEET)
+
+AGW-02-11
+
+Figure D - 11. Cluster Bomb Chart Summary.
+
+D-19 AGW-2
+
+
+Text from AGW-2_Dispenser_Munitions_page_26.jpeg:
+(This Page Intentionally Blank)
+
+AGW-2 D - 20
+
+
+Text from AGW-2_Dispenser_Munitions_page_27.jpeg:
+END OF LESSON QUIZ
+
+What fuze setting ensures weapon safe separation from the aircraft?
+
+ae op
+
+Burst height
+
+Fuze function setting
+Safe escape altitude
+Fuze arm time
+
+When will the dispenser open on a SUU-65?
+
+ae op
+
+HOB
+
+HOF
+
+At preset spin rate
+At terminal velocity
+
+Which fuze is used in the CBU-87/B CEM?
+
+a. M905
+
+b. MK 339
+
+c. FZU-39/B
+
+d. FMU-56
+
+The FZU-39/B is a(n) function fuze.
+a. impact
+
+b. time
+
+c. proximity
+
+d. time or proximity
+
+A good weapon to use against tanks in the open would be
+
+ae op
+
+MK 82 with a delay fuze.
+BLU-27.
+
+CBU-87/B.
+
+20 mm API.
+
+E-1 AGW-2
+
+
+Text from AGW-2_Dispenser_Munitions_page_28.jpeg:
+6. Your target isa SAM site. Of the munitions listed, which would
+likely be most effective?
+
+a. MK 82 with a .25 delayed fuze
+b. 20mm HEI
+
+c. CBU-89 Gator
+
+d. CBU-87 CEM
+
+7. Which CBU would you use to deny tanks access potential to an area
+(area denial)?
+
+a. CBU-89 Gator
+b. CBU-87 CEM
+c. CBU-97 Skeet
+d. BLU-755
+
+8. Which CBU requires adherence to safe separation criteria?
+
+a. CBU-89
+b. CBU-87
+c. CBU-97
+d. BLU-755
+
+AGW-2 E -2
+
+
+Text from AGW-2_Dispenser_Munitions_page_29.jpeg:
+GLOSSARY
+
+APC Armored personnel carrier
+BLU Bomb, live unit
+
+CBU Cluster bomb unit
+
+CEM Combined effects munitions
+ECM Electronic countermeasures
+FZU Fuze unit
+
+GBU Guided bomb unit
+
+GP General purpose
+
+HOF Height of function
+
+IR Infrared
+
+JIMEM Joint Munitions Effectiveness Manual
+
+ms Milliseconds
+
+OSD Orientation/stabilization device
+
+PACS Programmable armament control system
+SAM Surface-to-air missile
+
+SFW Sensor fuzed weapon
+
+SUU Stores suspension and release unit
+
+TMD Tactical munitions dispensers
+
+F-1 AGW-2
+
+
+Text from AGW-2_Dispenser_Munitions_page_3.jpeg:
+AIR-TO-GROUND WEAPONS
+
+COVER
+
+DISPENSER MUNITIONS
+
+INTRODUCTION
+
+This workbook is your guide for studying the nomenclature, components,
+and characteristics of conventional weapons used by the F-15E.
+
+CONTENTS:
+
+Ie EDO USGI exe ce ase ees ese sesame ses se aoe: ces seam Ses ee an cee: ator se ese ao so A-1
+CRITERION REFERENCED OBJECTIVES (CROs)..........0.eeeeseeeeeeeees B-1
+STUDENT PREPARATION REQUIREMENTS . 0.00... eeeeeeeeeeeeeee C-1
+TERT wr sees sas ces cas wa one sane ws wats we sus eas ates as ee ant eas eS amt ae Ua nt OS aa ale Ma 8 D-1
+END OF TEXT QUIZ... eecccessneecesneeeessaeecssaeeceesaeesesaeessseeeeeaees E-1
+CS OIBIS AY cess ans sane anus aesn ssn news canis ave aise Sue MOR mS EMG NSS Mate MG GS ENG Mens ER A F-1
+
+A-1 AGW-2
+
+
+Text from AGW-2_Dispenser_Munitions_page_30.jpeg:
+BACK PAGE
+COVER SHEET
+
+
+Text from AGW-2_Dispenser_Munitions_page_4.jpeg:
+CRITERION REFERENCED OBJECTIVES (CROs)
+
+1. Identify the dispenser munitions carried on the F-15E by type and/or
+function and the characteristics of the fuze used.
+2. Identify the effects of various dispenser munitions.
+AGW-2
+
+
+Text from AGW-2_Dispenser_Munitions_page_5.jpeg:
+STUDENT PREPARATION REQUIREMENTS
+BEFORE CLASS
+1. Read TO 1F-15E-1, Section V, External Stores.
+2. Read TO 1-1M-34, applicable portions.
+
+3. Study the information contained in this workbook and complete the
+End of Text Quiz.
+
+C-1 AGW-2
+
+
+Text from AGW-2_Dispenser_Munitions_page_6.jpeg:
+(This Page Intentionally Blank)
+
+AGW-2 C-2
+
+
+Text from AGW-2_Dispenser_Munitions_page_7.jpeg:
+TEXT
+WEAPON CHARACTERISTICS
+
+The dispenser munition is one of several types of ordnance carried by the
+F-15E. The dispenser munition consists of a larger case, called the
+dispenser, which contains smaller submunitions. This lesson covers the
+various types of dispensers and submunitions, and how they function.
+
+Cluster Bomb Units (CBUs)
+
+CBUs are dispensers loaded with various submunitions. Each CBU has a
+designated design purpose. Also, the numbering of the various CBUs can
+be confusing. CBU designation is derived from a combination of a
+dispenser type and different submunitions.
+
+D-1 AGW-2
+
+
+Text from AGW-2_Dispenser_Munitions_page_8.jpeg:
+Dispensers
+
+During employment, a dispenser may remain attached to the aircraft (as
+the submunitions are released) or be released as a free-fall unit. This
+discussion is limited to the free-fall type, as that is the most common.
+Free-fall dispensers are carried and released much like general purpose
+bombs. They are designed as clamshells with three longitudinal sections
+(Figure D-1). The clamshells blow apart at a predetermined time after
+release or at a preset altitude. At this time, the submunitions are
+released into the airstream. The altitude above the ground at which the
+fuze functions (and separates the clamshells) is known as the height of
+function (HOF). The HOF, dive angle, and airspeed determine the size of
+the pattern of the bomblets on the ground. A larger pattern decreases the
+density of the bomblets. Refer to the Dash 34 to determine the delivery
+parameters and fuze settings for the desired area coverage.
+
+AGW-02-01
+
+Figure D - 1. Dispenser.
+
+AGW-2 D-2
+
+
+Text from AGW-2_Dispenser_Munitions_page_9.jpeg:
+Submunitions
+
+There are various submunitions or bomblets (Figure D-2) that can be used
+in the dispensers. The F-15E only carries and delivers CBU-87, CBU-89,
+and CBU-97. Most of the submunitions are designed for light material
+and personnel in the open. Others with a shaped charge are good against
+armor. The primary kill mechanism for CBU munitions is fragmentation,
+but other important elements are armor penetration and incendiary
+effects.
+
+CEM
+
+AGW-02-02
+
+Figure D - 2. BLU Bomblets.
+
+D-3 AGW-2
+
+

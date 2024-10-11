@@ -1,0 +1,1182 @@
+Text from ACG-1_Aircraft_Introduction__Cockpit_Overview_page_1.jpeg:
+SUPPORTS COURSES
+FIS5EBQ
+
+FISETX
+
+FISESOC
+
+ACADEMIC STUDENT WORKBOOK
+F-15E
+
+AIRCRAFT GENERAL
+ACG- 1
+AIRCRAFT INTRODUCTION
+& COCKPIT OVERVIEW
+
+SEPTEMBER 1998
+(SUITE 3 OFP)
+
+AIR COMBAT COMMAND
+
+
+Text from ACG-1_Aircraft_Introduction__Cockpit_Overview_page_10.jpeg:
+Academic lectures are presented in the 333 FS classroom or Eagle
+Academics classrooms (classrooms 1, 2, and 3). Computer-based training
+(CBT) blocks are accomplished in the Learning Center upstairs in the
+333 FS. Integrated Avionics Trainer (IAT) lessons and cockpit
+familiarization trainer (CFT) lessons are done upstairs in the 333 FS.
+Weapon system trainer (WST) missions are completed in one of the
+simulator buildings (building 4400 or 5006).
+
+NONE
+
+There is no formal ACG phase review in the F-15E syllabus.
+However, individual instructors are available to answer questions
+
+and assist in reviewing ACG material. Please do not hesitate to ask
+them for help.
+
+Using the syllabus flowcharts and daily schedules as a guide, you should
+always know what is coming next in this course. The major responsibility
+for learning the material is yours. The instructors can assist; however,
+you must do the learning. This is especially true in the avionics block
+with most of the instruction being CBT lessons. Classroom, flight and
+trainer time is limited; to get the most out of these devices, it is essential
+that you complete all preparatory steps before going to the event.
+Instructors will present material to you and field your questions. If you
+are unsure of anything in this course, ASK!
+
+F-15E ROLES AND CAPABILITIES
+
+The F-15E is a high performance, supersonic, all-weather, dual role
+fighter.
+
+The air-to-ground (A/G) role tasking includes both conventional (general
+purpose and precision guided munitions) and nuclear strike. The term
+“all-weather” means the F-15E can penetrate and deliver ordnance in or
+under the weather.
+
+The air-to-air (A/A) role tasking may include self-escort and air base
+
+defense. The design mission definitions specify relatively long station
+times and excellent dash and turning capabilities.
+
+ACG-1 D-4
+
+
+Text from ACG-1_Aircraft_Introduction__Cockpit_Overview_page_11.jpeg:
+Configurations, Range, and Capabilities
+
+The dual role mission requires superior payload/radius characteristics,
+payload loading flexibility, high speed sea level penetration capability,
+and superior combat maneuverability. The performance of the F-15E
+provides over 1000 nm mission radius, a 600 KTAS penetration, 4 Gs
+sustained maneuvering at MIL power and 6 Gs with afterburner.
+Instantaneous evasive maneuvers up to 9 Gs at gross weights of 68,000
+lbs are achievable at sea level.
+
+In the A/G role, the payload/radius of the F-15E is enhanced by the
+capability to carry up to 35,550 lbs of fuel and by the low drag associated
+with the tangential carriage of weapons on the conformal fuel tanks
+(CFTs). A mission radius of 680 nm is achievable with a payload of four
+MK-84s and four AIM-120s (advanced medium range air-to-air missile or
+AMRAAM) including a 100 nm sea level dash. At MIL thrust, it can
+achieve sea level dash speeds of 590 KTAS without external tanks and
+550 KTAS with tanks. Nuclear strike mission capability is almost 1100
+nm (tanks dropped). The F-15E has 19 integral store stations, the
+potential for 24,500 lbs of payload with full internal fuel, and eight
+stations for A/A missiles. This provides the field commander the flexibility
+to match payload and radius to the requirements no matter what the
+theater of operation.
+
+In the A/A role, the maneuvering performance is equal to that of the
+F-15C at subsonic speeds and increased at supersonic speeds.
+Instantaneous maneuvering is enhanced by increasing the design limit
+load factor to 9 Gs. The A/A mission performance is substantial. For
+theater air defense with a payload of eight missiles, the F-15E can loiter
+on combat air patrol (CAP) for up to 3.7 hours at 200 nm from base. For
+the area intercept mission, the radius with eight missiles is 967 nm.
+
+In the ferry mission, the F-15E has sufficient range to deploy worldwide
+without tanker support. Range with full external fuel and four AIM-120s
+is approximately 2200 nm.
+
+Design Philosophy
+
+The F-15E is the product of a technically low risk attempt to satisfy a
+USAF requirement for a survivable deep interdiction aircraft. The
+rationale was to exploit capabilities already existing in the F-15 by
+modifying them only to the extent needed to provide the ability to
+penetrate and accurately deliver weapons in all weather, day or night.
+
+D-5 ACG-1
+
+
+Text from ACG-1_Aircraft_Introduction__Cockpit_Overview_page_12.jpeg:
+Relatively minor changes were required to the airframe and basic
+systems. Substantial cockpit changes were required to fully exploit low
+altitude navigation and targeting infrared for night (LANTIRN) and
+decrease crew workload to the extent that the dual role could be
+accomplished. Many of the “changes” in the F-15E were already approved
+for the F-15A/C and reflect refinements of operational systems rather than
+new developments.
+
+The cockpits were designed to reduce and simplify crew tasks. Workload
+is minimized by using multiple displays (multipurpose displays [MPDs],
+and multipurpose color displays [MPCDs]) for simultaneous display of
+sensor, weapon, and advisory data without requiring extended sequencing
+through display selections. Color displays are provided for easier
+interpretation of data. An integrated upfront control (UFC) is included in
+each cockpit for operation of aircraft communications, navigation and
+identification (CNI) systems. Hand controllers permit rapid changes of
+mode, selection of display options and sensor/weapon management.
+Display units are within easy reach and, along with other cockpit
+instruments and caution/advisory indicators, are situated for easy
+viewing.
+
+Operation from any MPD/MPCD uses prompting menus for sensor modes,
+submodes, and advisory formats. The cockpit controls, instrumentation
+and displays are integrated to provide virtually unlimited flexibility in the
+use of the systems.
+
+Extreme cockpit flexibility requires extensive crew coordination. Crews
+must have a plan to ensure everything gets done without duplicating
+effort.
+
+F-15E ENHANCEMENTS
+
+LANTIRN
+
+The LANTIRN system consists of two pods, which provide night,
+all-weather low altitude navigation and precision targeting information.
+
+The LANTIRN system provides the following capabilities:
+e Terrain following radar (TFR)
+e Forward looking infrared (FLIR)
+
+e Day/Night target detection, identification and designation
+
+ACG-1 D-6
+
+
+Text from ACG-1_Aircraft_Introduction__Cockpit_Overview_page_13.jpeg:
+e Target acquisition and track
+e Automatic target handoff to Maverick missiles
+
+A radar altimeter is integrated into the system for both automatic terrain
+following and hand flying operations.
+
+F100-PW-220 Engine
+The F-15E is powered by the F100-PW-220 turbofan engine. This engine
+replaces the F100-PW-100 engine used in earlier F-15 models. In
+comparison, it is easier to maintain, more responsive, has a longer life,
+and is computer controlled to provide maximum performance throughout
+the flight envelope. F-15Ks, starting with tail number 90-0233 and up,
+have the F100-PW-229 increased performance engine (IPE).
+Tactical Electronic Warfare System (TEWS)
+The TEWS consists of the following electronic warfare systems:
+
+e ALQ-135 internal countermeasures set (ICS)
+
+e ALQ-128 electronic warfare warning set (EWWS)
+
+e ALR-56C radar warning receiver (RWR)
+
+e ALE-45 countermeasure dispenser (CMD) set
+Inertial Navigation System (INS)
+The INS is a self-contained, fully automatic ring laser gyro (RLG) system
+that supplies the primary attitude reference for the aircraft and provides
+continuous present position (PP) monitoring. You can do a stored heading
+alignment in 40 seconds or a full alignment in 4 minutes. It is accurate to
+
+approximately 0.8 nm/hr., has reliability of 2000 hours mean time
+between failure (MTBF), and can operate on emergency generator power.
+
+D-7 ACG-1
+
+
+Text from ACG-1_Aircraft_Introduction__Cockpit_Overview_page_14.jpeg:
+APG-70 Radar A/G Functions
+
+The APG-70 high frequency, pulse doppler radar retains all of the A/A
+modes and capabilities of the F-15C, but includes many new A/G modes.
+
+Improved A/G modes are incorporated to provide the necessary long range
+precision cueing of the LANTIRN targeting pod. These modes are
+implemented through software changes. The new modes are: high
+resolution map (HRM), real beam map (RBM) and precision velocity
+update (PVU).
+
+High Resolution Map
+
+The HRM mode provides the most accurate long range designation and
+LANTIRN cueing capability. Resolution varies from 8.5 feet to 1014 feet
+depending on the size map and range selected. This feature is not
+available within 8° of the aircraft velocity vector; it is otherwise available
+over the limits of the plan position indicator (PPI) scan.
+
+Real Beam Map
+
+The RBM mode permits rapid mapping of large areas. RBM permits
+mapping along the velocity vector and provides backup targeting pod
+cueing capability against large discrete targets. RBM provides the crew
+with an indication of gross terrain features along the flight path to aid in
+low altitude navigation. Additionally, the antenna manual elevation
+control coupled with the pencil beam antenna pattern provides excellent
+weather detection.
+
+Precision Velocity Update
+
+In the HRM mode, coherent doppler processing uses aircraft velocity to
+display target returns at correct azimuth position. LANTIRN’s narrow
+field of view requires velocity accuracies of less than 1 fps when
+designating targets from radar maps at 10 nm or greater. The PVU mode
+is used to determine a more refined estimate of ownship velocity than that
+provided by the INS.
+
+ACG-1 D-8
+
+
+Text from ACG-1_Aircraft_Introduction__Cockpit_Overview_page_15.jpeg:
+Missionized Cockpits
+
+Both cockpits are arranged to enhance situational awareness and reduce
+workload. The front cockpit includes two 6-inch MPD, one 5-inch MPCD,
+a UFC, an integrated engine monitor display (EMD), and a wide field of
+view head-up display (WFOV HUD). The rear cockpit has two 6-inch
+MPDs, two 5-inch MPCDs, and a UFC. This allows both crew members to
+view data best suited for that specific mission segment. Either crew
+member may view a display format in command by the other crew
+member.
+
+COCKPIT FAMILIARIZATION
+
+The F-15E maintains the basic F-15 hands-on throttle and stick (HOTAS)
+philosophy for the front cockpit, and provides it in the rear cockpit too.
+The crew interface eliminates many traditional control panels by
+integrating the system functions, via software, into the display formats.
+For example, instead of having a radar control panel to select elevation,
+scan, range, mode, etc., the functions are now integrated within the A/A
+radar display format adjacent to push buttons, which are arranged around
+the perimeter of each MPD/MPCD. The operational technique is the same
+for both front and rear cockpits.
+
+Additional cockpit familiarization is covered by the instructor in class.
+
+Also, refer to foldouts 5 and 7 in the Dash 1 and the handout section of
+this workbook.
+
+D-9 ACG-1
+
+
+Text from ACG-1_Aircraft_Introduction__Cockpit_Overview_page_16.jpeg:
+Multipurpose Display Group
+
+There are few dedicated controls and displays in the F-15E cockpits. Most
+systems are accessed and their output and/or indications are displayed on
+a MPD or MPCD (Figure D-3). MPDs and MPCDs are functionally
+similar, except A/G radar cannot be displayed on MPCDs.
+
+eS eater on
+
+BIT
+1 POWER
+INDICATOR |
+(7 BIT EVENT ENG HUD ~~ oan SWITCH
+1 =| ADI A/ARDR | 4 15
+2 =| ARMT A/GRDR 14
+3 | HSI TEWS |= 13
+4 TF TGTIR 12
+5 -|TSD M2 = +—_ 11
+M/M —
+PROG VTRS y,
+BRIGHTNESS yy
+SWITCH <+——— CONTRAST
+SWITCH
+
+ACG-01-03
+
+Figure D - 3. MPD/MPCD.
+
+ACG-1 D-10
+
+
+Text from ACG-1_Aircraft_Introduction__Cockpit_Overview_page_17.jpeg:
+MPD/MPCD
+
+The MPD/MPCDs and associated display processors provide flexibility to the
+crew. The MPD/MPCDs have 20 peripheral push buttons by which the crew
+controls aircraft/systems and the mission data to be displayed. For
+convenience, these push buttons are referred to by number using the
+numbering convention shown on Figure D-3 (for example, PB #1). Menu items
+are positioned adjacent to each push button to advise the crew of the modes
+and options selectable for operation. In addition to the 20 push buttons, each
+MPD/MPCD has three rocker switches and one BIT indicator. Their
+functions, except for the BIT ball, are the same as the similarly labeled
+switches on your home TV set. The BIT ball turns white to warn of internal
+system failure. Color coding of display data on MPCDs aids in quick
+interpretation of complex formats such as an electronic HSI and ADI. Color
+presentation of navigational maps also contributes to easy assessment of the
+tactical situation.
+
+Wide Field Of View Head-Up Display
+
+In addition to being the “gunsight,” the HUD (Figure D-4) displays
+information critical to flying and employing the F-15E. Primary HUD
+displays include: aircraft attitude, AOA, current/available G and a flight path
+marker called the velocity vector. Through the selection of different master
+modes (A/A, A/G, NAV, Inst), the HUD also provides steering information for
+various navigation and weapons delivery displays. In addition, the HUD has
+the capability to display LANTIRN FLIR video for night operations. A HUD
+repeater is available on any front or rear cockpit display.
+
+TON 112X
+T 16.0
+
+00:02:20E
+
+ACG-01-04
+
+Figure D - 4. WFOV HUD.
+
+D-11 ACG-1
+
+
+Text from ACG-1_Aircraft_Introduction__Cockpit_Overview_page_18.jpeg:
+Upfront Control
+
+There is a UFC (Figure D-5) in each cockpit. The UFCs are used as the
+input/output control for most of the F-15E avionic systems/functions. By
+design, the UFCs take the place of conventional avionic switch panels
+found on other aircraft.
+
+Each UFC has 10 option push buttons located along the sides of the liquid
+crystal display (LCD) screen. The screen consists of six 20-character rows.
+The top four rows display menu/submenu options and data. The fifth row
+displays UHF manual frequency data. The sixth row displays preset
+channel selections and in the “scratchpad,” data that has been entered via
+the keyboard. UHF preset channel select knobs are located adjacent to
+the corresponding scratchpad display. UHF volume control knobs are
+located below the respective channel select knobs.
+
+@ 6 ROW LCD
+OPTION
+PUSHBUTTON
+
+a AIP NAD SCRATCHPAD
+— AREA
+UHF 1 PRESET EFF le 3
+
+Reslei4y
+
+CHANNEL —
+SELECTOR (ATF NORM UHF 2 PRESET
+—— CHANNEL
+( jd |UeebieS SELECTOR
+CONTROL J
+hee
+UHF VOLUME
+or alee oe
+R2e OR4
+
+LCD
+BRIGHTNESS
+CONTROL
+
+JFIIE
+
+| oo | os| vz]
+=
+©
+
+EMISSION
+pie) (Eee
+DATAI!|||IMENU] @®) |]! Tit BUTTON
+
+ACG-01-05
+
+ven
+@® |}A/ Pill] CLR
+
+Figure D - 5. UFC.
+
+ACG-1 D-12
+
+
+Text from ACG-1_Aircraft_Introduction__Cockpit_Overview_page_19.jpeg:
+The systems/functions controlled by the UFCs include the following:
+
+ADF System Updates
+A/A Interrogator LINK 16
+Auto Pilot Low Altitude Warning
+Command Ground Speed Navigation FLIR
+Flight Data Readout Ground Collision
+Warning System
+
+GPS
+IFF Transponder TACAN
+ILS TF Radar
+INS Data UHF Radios
+
+The 20 key data entry keyboard consists of alphanumeric data entry keys
+and special function keys. UFC displays are referred to as data, menu
+and submenu displays. There are two data displays (Data 1 and Data 2),
+two menu displays (Menu 1 and Menu 2), and several submenu displays.
+
+The DATA key selects Data 1 or Data 2. Data 1 contains current flight
+data such as bearing/range to the selected steer point, ETE/ETA, altitude,
+airspeed, and wind. Data 2 provides future data such as TOA and fuel
+remaining at steer points beyond the current selected point.
+
+The MENU key selects Menu 1 or Menu 2. Menu 1 provides for control of
+equipment that may be used frequently during flight such as the TACAN,
+IFF, AAT, etc. Mission specific items such as update submenu, ILS, etc.,
+are controlled with Menu 2.
+
+D-18 ACG-1
+
+
+Text from ACG-1_Aircraft_Introduction__Cockpit_Overview_page_2.jpeg:
+ADMINISTRATIVE INFORMATION
+
+This student workbook is designed to provide information on the F-15E,
+its systems and capabilities. It is not a sole source document, but is to be
+used in conjunction with other standard Air Force publications and
+technical manuals. If you find any differences between the material
+contained herein and other governing regulations, adhere to the
+regulations and notify the OPDR.
+
+Changes to this workbook are indicated with a heavy black line in the left
+margin.
+
+Forward recommendations for revision or change to 4 TS, SJAFB, NC,
+275381.
+
+Supersedes: ACG-1, July, 1998
+
+OPDR: 4 TS
+
+Index of Changes
+
+Effective Date Pages Affected
+
+
+
+Text from ACG-1_Aircraft_Introduction__Cockpit_Overview_page_20.jpeg:
+To select a function or submenu, ensure that the scratchpad is clear and
+depress the button that is adjacent to the desired function or submenu.
+To change data in a UFC controlled system, type the new data into the
+scratchpad with the alphanumeric data keys and depress the button
+adjacent to the option to be changed.
+
+Other special function keys are listed below:
+
+GREC C/M - permits selection/deselection of the UHF guard receiver and
+selection between a preset channel or manual UHF frequency.
+
+MARK - used to select and store present position latitude and longitude.
+
+A/P - used to engage the autopilot and command display of the autopilot
+submenu.
+
+I/P - initiates IFF identification of position (I/P)
+SHF - permits shifting to the uppercase alphanumerics.
+
+CLR - used to clear the scratchpad of miskeyed or unneeded data. The
+first depression removes the last alphanumeric entry and the next
+depression clears the entire entry. If the scratchpad is clear, the first
+depression clears the top four display rows. The second depression clears
+the bottom two rows. This blanking feature is designed to be used during
+night operations as a way to eliminate UFC light reflections on the
+canopy. To recall all display rows, depress the MENU or DATA button or
+one of the top eight option buttons.
+
+EMIS LMT - when depressed, turns off all IFF modes and stops all RF
+
+transmissions except for the radar altimeter and the TF radar, which
+switches to the low probability of intercept (LPI) mode.
+
+ACG-1 D-14
+
+
+Text from ACG-1_Aircraft_Introduction__Cockpit_Overview_page_21.jpeg:
+Although you will need a thorough working knowledge of the UFC, it is
+designed so memorizing submenus is not necessary. If “lost” in a
+submenu, remember:
+
+e Pressing Menu 1 or Data 1 returns you to a starting reference.
+
+e Regardless of the display option selected, UHF frequency data is
+always displayed on rows five and six. With a blank scratchpad, the
+UHF submenu can be accessed from any display/submenu by
+depressing PB #5 or #6.
+
+e The scratchpad must be blank in order to change a display or to
+select another option, except to elect Data 1/2 or Menu 1/2.
+
+The UFCs design allows avionic systems control from either cockpit. The
+UFC menus/submenus can be accessed from either cockpit at the same
+time. However, for data entry the individual entering the data must be
+the one who typed it into the scratchpad. The last aircrew input,
+regardless of cockpit, is the entry that is accepted.
+
+D-15 ACG-1
+
+
+Text from ACG-1_Aircraft_Introduction__Cockpit_Overview_page_22.jpeg:
+(This Page Intentionally Blank)
+
+ACG-1 D-16
+
+
+Text from ACG-1_Aircraft_Introduction__Cockpit_Overview_page_23.jpeg:
+GLOSSARY
+
+A/G Air-to-ground
+
+A/A Air-to-air
+
+CAP Combat air patrol
+
+CBT Computer-based training
+
+CFT Conformal fuel tank(s)
+
+CFT Cockpit familiarization trainer
+CMD Countermeasure dispenser
+CNI Communications, navigation, identification
+EMD Engine monitor display
+EWWS Electronic warfare warning set
+FLIR Forward looking infrared
+HOTAS Hands-on throttle and stick
+HRM High resolution map
+
+IAT Integrated avionics trainer
+ICS Internal countermeasures set
+INS Inertial navigation system
+IPE Increased performance engine
+
+LANTIRN Low altitude navigation and targeting infrared for night
+
+LCD Liquid crystal display
+LPI Low probability of intercept
+MPCD Multipurpose color displays
+
+F-1 ACG-1
+
+
+Text from ACG-1_Aircraft_Introduction__Cockpit_Overview_page_24.jpeg:
+MPD
+
+MTBF
+
+PP
+
+PPI
+
+PVU
+
+RLG
+
+RWR
+
+TEWS
+
+TFR
+
+UFC
+
+WFOV HUD
+
+WST
+
+ACG-1
+
+Multipurpose displays
+
+Mean time between failure
+Present position
+
+Plan position indicator
+
+Precision velocity update
+
+Ring laser gyro
+
+Radar warning receiver
+
+Tactical electronic warfare system
+Terrain following radar
+
+Upfront control
+
+Wide field of view head-up display
+
+Weapon system trainer
+
+
+Text from ACG-1_Aircraft_Introduction__Cockpit_Overview_page_25.jpeg:
+(This Page Intentionally Blank)
+
+F-3 ACG-1
+
+
+Text from ACG-1_Aircraft_Introduction__Cockpit_Overview_page_26.jpeg:
+T-O
+
+T-DOV
+
+AIR-TO-AIR RADAR
+
+(SEARCH, SRM) — COMBINED MODE
+(SEARCH, MRM) — HIGHLIGHT
+
+QUICK STEP
+MASTER MODE SELECTION (FWD)
+
+EID/EWWSINCTR + <—INBOARD —}—OUTBOARD -> AAI NAV DATA (FOR 3 SEC)
+DISPLAY SCROLL DOWN
+DOWN - TAKE COMMAND
+WEAPON RELEASE MISSILE BORESIGHT
+
+_ GUNSIGHT STIFFEN
+DOWN — CMD MANUAL 4 LOOK INTO TURN ENABLE
+
+MANUAL AIM-9L/M SBR
+
+AUTO ACQ EL CONTROL
+
+(AFT)
+GUN VERT SCAN
+TWS/STT
+
+LR BST (>1 SEC)
+
+MAN 2
+CMD |
+CAGE/UNCAGE DOWN
+(DOWN)
+GUN/SRM/MRM
++ AFT
+F-15E FRONT COCKPIT CONTROL STICK TWS TGT MISSILE
+
+UNDESIGNATE REJECT
+
+ACQ SYMBOL CONTROL
+PRESS — MINI RASTER
+RELEASE — DESIGNATE
+
+F-15E FRONT COCKPIT THROTTLE GRIPS
+
+ACG-01-06
+
+
+Text from ACG-1_Aircraft_Introduction__Cockpit_Overview_page_27.jpeg:
+T-DOV
+
+AIR-TO-GROUND RADAR
+
+NAV FLIR W/ COOLIE DOWN SEQUENCE POINT SELECT
+
+SNAP LOOK DOWN
+UP
+FWD
+EID/EWWS/NCTR <—INBOARD OUTBOARD -» AAI NAV DATA (FOR 3 SEC)
+SNAP LOOK LEFT <——LEFT RIGHT ——» SNAP LOOK RIGHT
+DOWN
+
+AFT
++ MISSILE BORESIGHT
+SNAP LOOK UP GUNSIGHT STIFFEN
+
+LOOK INTO TURN ENABLE
+SNAP LOOK ENABLE FREEZE/UNFREEZE
+
+MAN 2
+AUTO ACQ SWITCH *
+UP
+CMD
+SMALLER LARGER v
+WINDOW WINDOW (1) MAN 1
+
+aueeiai UNDESIGNATE | AFT
+
+MODE REJECT
+
+CURSOR CONTROL
+
+(1) PSL ENABLE W/TGT CURSOR FUNCTION DESIGNATE
+
+F-15E FRONT COCKPIT CONTROL STICK
+F-15E FRONT COCKPIT THROTTLE GRIPS
+
+ACG-01-07
+
+
+Text from ACG-1_Aircraft_Introduction__Cockpit_Overview_page_28.jpeg:
+T-DOV
+
+F-15E FRONT COCKPIT CONTROL STICK
+
+TSD
+
+SEQUENCE POINT SELECT
+
+UP
+
+EID/EWWS/NCTR <—INBOARD OUTBOARD -» AAI NAV DATA (FOR 3 SEC)
+
+DOWN
+
+MISSILE BORESIGHT
+GUNSIGHT STIFFEN
+LOOK INTO TURN ENABLE
+
+CMD MANUAL 1
+
+TRACK/UNTRACK
+
+AUTO ACQ SWITCH
+
+FWD | <———— | AFT
+
+SMALLER CUE LARGER CUE
+FOOTPRINT FOOTPRINT
+
+RETURN TO P.P. MAP
+
+RANGE/BEARING LINE
+CONTROL/COMMAND CUE
+
+F-15E FRONT COCKPIT THROTTLE GRIPS
+
+ACG-01-09
+
+
+Text from ACG-1_Aircraft_Introduction__Cockpit_Overview_page_29.jpeg:
+T-DOV
+
+TGT FLIR
+
+NAN ELIE Wt SEL EDOMN SEQUENCE POINT SELECT
+SNAP LOOK DOWN
+UP
+FWD
+EID/EWWSINCTR <—INBOARD —}-OUTBOARD -» AAI NAV DATA (FOR 3 SEC)
+SNAP LOOK LEFT <——LEFT | RIGHT —» SNAP LOOK RIGHT
+DOWN
+
+AFT
+
+MISSILE BORESIGHT
+
+SNAP LOOK UP GUNSIGHT STIFFEN
+
+LOOK INTO TURN ENABLE
+
+SNAP LOOK — ENABLE LASER FIRE/STOP FIRE
+
+CMD MANUAL 1
+
+AUTO ACQ SWITCH
+UNDESIGNATE (AFT)
+
+[a=]
+
+<1 SEC FOV CHANGE RETURN TO CUE <1 SEC
+>1 SEC SNOWPLOW >1 SEC SPACE/GND STAB
+
+CMD
+
+TRACK/UNTRACK
+
+LOS CONTROL/
+DESIGNATE/MARK
+
+F-15E FRONT COCKPIT CONTROL STICK
+F-15E FRONT COCKPIT THROTTLE GRIPS
+
+ACG-01-08
+
+
+Text from ACG-1_Aircraft_Introduction__Cockpit_Overview_page_3.jpeg:
+AIRCRAFT GENERAL
+
+c>
+
+COVER
+
+AIRCRAFT INTRODUCTION & COCKPIT OVERVIEW
+INTRODUCTION
+
+This workbook presents course administration information, acquaints you
+with the F-15Es general capabilities, and gives an overview of the cockpit.
+
+CONTENTS:
+
+INTRODUCTION 0000. eeecceesneeeesneeeeeaeesesaeeeessaeesssaeesessaeeseseeeesaees A-1
+CRITERION REFERENCED OBJECTIVES (CROs)......0.....eeeeeeeeeeeeee B-1
+STUDENT PREPARATION REQUIREMENTS ...0... ee eeeeeeeeeee C-1
+TEXT oc cecececceeesseecceessseeeceesssseeecesssseeeeeeesaeeescessaeeeseessaaeessensaaeess D-1
+END OR PET UIA: cess ces sane sas sxe sens anus wens sae sen ess news cexis eave onsa sue aks ais ew E-1
+GLOSSARY... eeeceesseeceeseeeeesaceseeeeecesaeeeessaeecesaaeecssaeecesaeesssaeeeensaees F-1
+EDOM Se ase ccs race see see sete ees ose see eet seme sees tse anes sas ee sees se an se ate sew G-1
+
+A-1 ACG-1
+
+
+Text from ACG-1_Aircraft_Introduction__Cockpit_Overview_page_30.jpeg:
+AIR-TO-AIR RADAR
+RCP HAND CONTROLLERS
+
+CMD SWITCH INTERROGATE SWITCH
+FORWARD - MAN 1 COOLIE SWITCH FORWARD - AAI
+FWD - SCROLL MPD aFT~ SEWWS
+AFT - SCROLL MPCD 2NCTR
+
+LEFT - TAKE COMMAND LEFT DISPLAY (EID
+
+RIGHT - TAKE COMMAND RIGHT DISPLAY
+
+CASTLE SWITCH
+
+FWD - MRM RADAR SEARCH PROGRAM
+AFT - SRM RADAR SEARCH PROGRAM
+LEFT - TGT UNDESIGNATE IN TWS
+RIGHT - MISSLE REJECT
+
+DOWN - TWS QUICK STEP/HIGHLIGHT
+
+TDC
+ACQ SYMBOL RANGE AND AZIMUTH
+CONTROL WITH TRIGGER HALF ACTION
+QD ANTENNA ELEVATION CONTROL
+
+oO AUTOACQ/MODE REJECT SWITCH
+
+RDR IN STT - FWD - HDTWS
+AFT - DTWS
+DOWN - RETURN TO SEARCH
+
+RDR IN TWS - FWD - HDTWS/DTWS CYCLE
+AFT - STT ON PDT
+DOWN - RETURN TO SEARCH
+
+RDR IN SEARCH - FWD/AFT - RETURN TO BORELINE
+
+DOWN - CLEAR TRACK FILES
+SS, TRIGGER
+
+HALF ACTION - ELEVATION SLEW ENABLE
+FULL ACTION - COMMAND LOCKON IN SEARCH
+- DESIGNATE SDTs IN TWS
+
+‘ane LASER FIRE BUTTON _
+
+<1 SEC, MANUAL SBR
+
+ACG-01-10
+
+T-DOV
+
+
+Text from ACG-1_Aircraft_Introduction__Cockpit_Overview_page_31.jpeg:
+AIR-TO-GROUND RADAR
+
+CMD SWITCH INTERROGATE SWITCH
+COOLIE SWITCH
+
+FWD - SCROLL MPD
+AFT - SCROLL MPCD
+
+LEFT - TAKE COMMAND LEFT DISPLAY
+RIGHT - TAKE COMMAND RIGHT DISPLAY
+
+CASTLE SWITCH
+
+FWD - CURSOR MAP FUNCTION
+
+AFT - CURSOR TARGET FUNCTION
+LEFT - CURSOR CUE/MARK FUNCTION
+RIGHT - CURSOR UPDATE FUNCTION
+DOWN - STEERPOINT SELECT/QUICKSTEP
+
+TDC
+CURSOR/PSL CONTROL
+
+HRM - WITH TRIGGER HALF ACTION - EXPAND
+RBM - WITH TRIGGER HALF ACTION - ELEVATION CONTROL
+
+MODE REJECT SWITCH
+
+FWD - SMALLER HRM MAP WINDOW
+AFT - LARG ERHRM MAP WINDOW
+
+- RBM-HALF ACTION-CHANGE PPI RANGE
+DOWN - MODE REJECT/UNDESIGNATE
+
+ae TRIGGER
+
+HALF ACTION - HRM -EXPAND ENABLE/PPI RANGE CHANGE ENABLE
+- HRM-EI SLEW ENABLE/PPI RANGE CHANGE
+FULL ACTION - DESIGNATION/MAP/CUC/UPDATE/MARK COMMAND
+
+an LASER FIRE BUTTON —— FY
+
+T-DOV
+
+FREEZE/UNFREEZE
+
+ACG-01-11
+
+
+Text from ACG-1_Aircraft_Introduction__Cockpit_Overview_page_32.jpeg:
+ZL-L0-D0V
+
+as
+
+GONVWWODS AND - NOLLOV TINA
+
+MOVELNA/AOVEL - NOILLOV SIVH
+
+ae YaooldL
+
+dVW NOILISOd LNASSYd OL NYNLAY - NMOd
+ANINdLOOA AND Ya ONVI- LAV
+LNIWdLOOA AND YATIVWS - GMA
+
+HOLIMS LOAray SGOW
+
+TOYLNOO SANIT ONINVAE/SONVY
+
+odL
+
+ALNIOd SONANDAS LXAN OL daLSHOIND - NMOG
+dnd aaravava - 1451
+
+AWOS dVWASVAYO Ni- LAV
+
+AWOS dVW ASVayosd - GM4
+
+HOLIMS FILSVO
+AV1dSIC LHOIY GNVWWOO AVL - LHOIY
+AV 1dSId 1431 GNVWWOO AyMVL - 1451
+GOdW TIONOS - LAV
+QdW TIOYNDS - GMA
+
+HOLIMS AIIOO9
+
+HOLIMS ALVDOUNALNI
+
+Qsl
+
+ACG-1
+
+G-7
+
+HO.LIMS GINO
+
+
+Text from ACG-1_Aircraft_Introduction__Cockpit_Overview_page_33.jpeg:
+T-DOV
+
+A/G TGT FLIR (A/A CLASSIFIED -34-1-1-1)
+
+CMD SWITCH INTERROGATE SWITCH
+
+COOLIE SWITCH
+
+FWD - SCROLL MPD
+AFT - SCROLL MPCD
+
+LEFT - TAKE COMMAND LEFT DISPLAY
+RIGHT - TAKE COMMAND RIGHT DISPLAY
+
+CASTLE SWITCH
+
+FWD - >1 SEC - BLACK HOT/WHITE HOT
+- <1 SEC - WHITE/BLACK/AUTO TRACK
+AFT - TARGET CURSOR FUNCTION
+LEFT - >1 SEC -HANDOFF INITIATE- STA 2
+- <1 SEC - CUE/MARK CURSOR FUNC
+RIGHT - > 1 SEC - HANDOFF INITIATE- STA 8
+- <1 SEC - UPDATE CURSOR FUNCTION
+DOWN - QUICKSTEP TO NEXT SEQUENCE POINT
+
+TDC
+LINE OF SIGHT CONTROL
+PRESS/RELEASE - POINT TRACK/AREA TRACK
+
+MODE REJECT SWITCH
+
+FWD - >1 SEC -SNOWPLOW
+
+- <1 SEC - FIELD OF VIEW CHANGE
+AFT - >1SEC-SPACE/GND STABILIZER
+
+- <1 SEC - RETURN TO CUE
+DOWN - UNDESIGNATE
+
+TRIGGER
+
+HALF ACTION - TRACK/BREAKTRACK
+FULL ACTION - TARGET/CUE/UPDATE/MARK COMMAND
+
+LASER FIRE BUTTON
+
+LASER FIRE/STOP FIRE
+
+ACG-01-13
+
+
+Text from ACG-1_Aircraft_Introduction__Cockpit_Overview_page_4.jpeg:
+CRITERION REFERENCED OBJECTIVES (CROs)
+
+The purpose of this lesson is to provide an understanding of course
+administration and the information necessary to identify the primary
+mission, capabilities, and operating characteristics of the F-15E. There
+are no CROs for this lesson.
+
+REFERENCES
+
+TO 1F-15E-1 Section I All; FO-3, FO-5, FO-7
+
+ACG-1 B-1
+
+
+Text from ACG-1_Aircraft_Introduction__Cockpit_Overview_page_5.jpeg:
+STUDENT PREPARATION REQUIREMENTS
+BEFORE CLASS
+
+None.
+
+C-1 ACG-1
+
+
+Text from ACG-1_Aircraft_Introduction__Cockpit_Overview_page_6.jpeg:
+(This Page Intentionally Blank)
+
+ACG-1 C-2
+
+
+Text from ACG-1_Aircraft_Introduction__Cockpit_Overview_page_7.jpeg:
+TEXT
+ADMINISTRATION
+Security
+
+Much of what you will study here is classified material. Care in
+safeguarding this material is required to prevent compromise.
+
+The administrative specialist will issue classified materials to you during
+the first two weeks of the course. You must log this classified material
+into the squadron student safe, located in the weapons shop.
+
+Once signed out, the classified materials are your responsibility. NEVER
+leave them unattended. Studying classified material is authorized only in
+specific, designated classified study areas. You may not take classified
+material to your room or off base.
+
+Syllabus Flow
+A course map and management flowchart are in the F-15E syllabus
+available to review in your flying squadron or the lounge in the academic
+
+building. The course map (Figure D-1) shows the relative order in which
+the instruction is presented and how the various media fit together.
+
+D-1 ACG-1
+
+
+Text from ACG-1_Aircraft_Introduction__Cockpit_Overview_page_8.jpeg:
+ACG-01-01
+
+LEGEND
+
+- FO
+
+COCKPIT
+
+FLIGHT oocoiLvey SIMULATOR FAMILIARIZATION
+TRAINING TRAINING OR INTEGRATED
+
+AVIONICS TRAINER
+
+Figure D - 1. Course Map.
+
+The course map shows the general order in which courses will be taught,
+but more importantly, it shows what the prerequisites are to a specific
+event. It is your responsibility to make sure you have completed all
+prerequisites prior to any syllabus event. If you are scheduled for an
+event and have not completed the prerequisites, tell the scheduler or your
+flight commander.
+
+ACG-1 D-2
+
+
+Text from ACG-1_Aircraft_Introduction__Cockpit_Overview_page_9.jpeg:
+The management flowchart (Figure D-2) shows what events are planned
+for any given training day. Realize on any given day your actual training
+progress may be ahead of, behind or on schedule.
+
+mm [ite f-t-)-[[- [|
+
+SPECIALIZED sT-1
+TRAINING ST-7
+AcG-2 | ACG-4 | ACG-6
+LECTURE | ACG-1 | <3 |ACG-5 | ACG-7
+ACADEMICS
+
+ACG-9
+
+ACG-01-02
+
+Figure D - 2. Management Flow Chart.
+
+This creates the need for the weekly/daily schedule published by your
+squadron, which is the final word on the coming day’s events.
+Additionally, the daily schedule published by academics gives the location
+
+of each class.
+
+Aircraft General is highly compressed and will be completed in just over
+one week. Lessons are listed below, and the date and time for each lesson
+are found on the daily schedule. Specific lessons and the length of time
+
+required will vary based on syllabus track.
+
+TITLE
+
+Aircraft Introduction & Cockpit Overview
+Propulsion System
+
+Fuel System
+
+Electrical System
+
+Environmental Control System,
+Canopy, & Steps
+
+Hydraulic Systems
+
+Flight Controls
+
+Caution & Warning System Integration
+Emergency Procedures &
+
+Abnormal Operations
+
+BLOCK HOURS
+(B Course)
+ACG-1 2.0
+ACG-2 4.0
+ACG-3 2.5
+ACG-4 2.0
+ACG-5 2.0
+ACG-6 3.0
+ACG-7 4.0
+ACG-8 1.5
+ACG-9 2.0
+
+ACG-1
+
+

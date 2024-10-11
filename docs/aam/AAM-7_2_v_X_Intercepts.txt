@@ -1,0 +1,2362 @@
+Text from AAM-7_2_v_X_Intercepts_page_1.jpeg:
+SUPPORTS COURSES
+FIS5EBQ
+FISETX
+
+ACADEMIC STUDENT WORKBOOK
+F-15E
+
+AERIAL ATTACK MANEUVERING (AAM-7) 2V X INTERCEPTS
+
+MARCH 2000
+
+(SUITE 3 OFP)
+
+AIR COMBAT COMMAND
+
+
+Text from AAM-7_2_v_X_Intercepts_page_10.jpeg:
+Available Assets
+
+The assets dedicated or available for your package will be spelled out in
+the ATO. You must consider all of them when planning the mission.
+Tanker numbers and track location will influence your marshal plan,
+divert fuel, refueling priority, boom time and availability. An
+often-neglected portion of mission planning is how to incorporate
+GCI/AWACS into your plan; you must know their capabilities and
+limitations. Know what to expect in terms of communications, frequency
+usage, chattermark procedures and levels of control. You also need to be
+aware of GCI radio/radar blind zones, as they may affect your CAP and/or
+search. In circumstances where you can prebrief your controller, be as
+specific as possible concerning your commit and engagement criteria, flow
+plan and degraded operations options. No GCI is better than bad GCI—do
+not contribute to bad GCI by keeping secrets. Consider the controller’s
+additional wingmen and brief them accordingly. Include an
+environmental brief on your check-in.
+
+All other assets (A/A players, SEAD, other strikers, etc.) will impact your
+plan. You need to ensure the plan incorporates them all and provides for
+combined force employment.
+
+Combat Air Patrol (CAP)
+
+There are many things to consider as you enter the area. First, ensure the
+fence check, trigger check and alpha checks are complete. Next, check the
+environment and compare it to the weather brief. Note whether it is
+difficult to see the F-15E looking up or down and where the sun is; this
+could affect the flow direction of your intercept. Next, check the winds;
+they will affect the GMTR setting (above ~50 knots for GMTR chaff). SYS
+ALT RESET should be accomplished (prior to EGI installation) because
+the radar uses system altitude to display altitudes. Consider all of these
+factors (along with the airspace restrictions, AOR, etc.) to determine how
+the environment will affect your intercepts. Finally, take alibis from the
+formation for information on how our systems are working and if the
+intercept plan has to be altered due to limiting factors (limfacs).
+
+There are many different types of CAPs. (See AFTTP 3-1, Volume 17,
+
+Chapter 15 for a detailed discussion of each.) Each type has different
+considerations for employment.
+
+AAM-7 D-4
+
+
+Text from AAM-7_2_v_X_Intercepts_page_11.jpeg:
+The CAP is the starting point of the intercept. The principles of the CAP
+are proper orientation and placement, use of command, control and
+communications when off threat axis, ensuring adequate time and look
+angle for search, and preservation of intercept room until committed. The
+objectives of the CAP are building a mental three-dimensional picture of
+the presentation, making a sound commit decision and committing from
+the CAP in the desired formation. Notice that the CAP objectives do not
+include labeling the picture. In general, the CAP phase is too early to
+begin labeling the picture because it will likely change between the actual
+commit and the targeting/shooting phase.
+
+The CAP briefing includes length, location, altitude and formation in the
+CAP, or the marshalling point prior to the commit. As a two-ship, you can
+expect a fluid formation until the commit. Usually the hot leg (the one
+with radars pointed down track) is slower than the cold leg to maximize
+radar look time. It is important to CAP in the proper location to ensure
+the opportunity to commit early enough to engage bandits in the desired
+engagement zone (DEZ).
+
+Another important element of the CAP is the “talker” priority order. On
+the hot leg it is usually lead - GCI — wingman. On the cold leg, it is
+usually GCI — lead — wingman.
+
+Many factors affect the different CAP considerations. For CAP altitude,
+factors include weather, fuel considerations, anticipated threats, terrain,
+dissimilar formations and radar footprints. CAP speed factors include fuel
+considerations, GCI availability and threat proximity. As a ROT, if in the
+mid 20s use 350 CAS, and .9 M if in the 30s. Turns in the CAP will be
+based on CAP geometry, winds at altitude and flight lead preference. The
+flight lead should brief all CAP parameters and expectations.
+
+Radar Setup
+
+Radar setup is one of the most important aspects of the intercept. It is
+extremely important to tailor your radar setup to the tactical and
+environmental situation you expect. The following key terms and
+concepts will give you a basis for your radar setup decisions. Actual radar
+game plans are discussed in AFTTP 3-1.
+
+
+Text from AAM-7_2_v_X_Intercepts_page_12.jpeg:
+PRE
+
+Interleaved PRF is generally the best option for threat detection at all
+aspects and long-range. Consider other waveforms when specific threat
+parameters (high fast fliers, EW environment, etc.) are known. MPRF
+makes it easier to break out formations and helps with maneuvering
+contacts, especially those at or near the beam. It also reduces the IPRF
+range ambiguities, but sacrifices longer-range detection due to decreased
+power output. Remember that MPRF gains down below 5000' and may
+increase false returns (“birds”) at low altitude.
+
+Scope Range
+
+Determine the minimum range necessary to detect the threat, analyze
+geometry and threat maneuvers, and still have room for the commit (i.e.,
+room to establish the DEZ). Set scope range to search this minimum
+range and beyond, considering the factor bandit range.
+
+Azimuth Selection
+
+Consider limiting azimuth selection when a single threat axis is available
+(lane assignment) and/or when GCI/AWACS coverage will supplement
+your own radar coverage.
+
+Frame Store
+
+The primary consideration is crew workload. If one crew member can
+spend adequate time in radar interpretation, frame store 1 may be
+adequate. If crew duties do not leave much time for radar interpretation,
+consider frame store 2. Remember, however, that use of a frame store
+option higher than you normally use can be more confusing than helpful.
+
+GMTR
+
+Four GMTR settings are available: LO, MED, HI and CHF. Each setting
+sets specific velocity filters for target detection and radar blind zones in
+medium PRF. The chaff setting invokes special logic for search, TWS and
+manual acquisition functions (not track) in a chaff environment. Your
+own altitude, winds, threat axis and probability of encountering chaff
+determine the optimum GMTR setting for the mission. Lower GMTR
+settings may be necessary for missions requiring detection of slow speed
+targets.
+
+AAM-7 D-6
+
+
+Text from AAM-7_2_v_X_Intercepts_page_13.jpeg:
+Acquisition Symbol Placement
+
+A prebriefed range must be specified to ensure that all flight members are
+using the same range to set the altitude coverage. If different reference
+ranges are used, gaps in the search coverage may occur. A ROT is to use
+meld range (discussed later) as the acq symbol placement range.
+
+Altitude Search Selection
+
+Altitude sanitization and division of elevation area of responsibility (AOR)
+are important factors in building a complete picture. Set up scope range
+as desired (40-80 nm) with acquisition symbols at briefed meld range.
+Divide the elevation coverage into high and low search to build a complete
+picture. Overlap radar coverage at least 2000 feet at meld range to avoid
+unintentional coverage holes. Refer to Table D-1 in the following example.
+If the AOR is 20,000-40,000 feet MSL with acq symbols at 20 nm, it is
+impossible to cover this AOR in either 4- or 6-bar. Selecting 4-bar
+provides 12,000 feet of coverage, while 6-bar provides 16,000 feet. In
+either case, the elevation scan will have to be moved. If using 4-bar, the
+scan can be moved in 14" versus 21" for 6-bar (assumes 120° sweep).
+However, if the AOR remains the same but the briefed acq symbol range
+becomes 25 nm, the 6-bar is a more effective means of covering the AOR.
+The bottom line is that by increasing the bar scan from 4 to 6, you get a
+33 percent increase in altitude coverage, offset with a 50 percent increase
+in search time.
+
+BAR RANGE ALTITUDE TIME IN SEC
+SCAN | __NM__| COVERAGE
+
+4
+4
+4
+
+6
+6
+6
+
+NOTES:
+Assumes scope range > 40 nm, RWS interleaved and one complete
+bar scan.
+Altitude coverage was determined using the ROT:
+bar scan and 2 X range = alt coverage.
+
+Table D - 1.
+
+
+Text from AAM-7_2_v_X_Intercepts_page_14.jpeg:
+Elevation Coverage — Bar Selection
+
+Time to build each radar frame is determined by sweep rate, number of
+bars per frame and azimuth width. Some considerations for limiting
+altitude coverage are contrail level, GCI/AWACS coverage, workload,
+limited altitude area of responsibility, radar footprint and radar
+desensitization.
+
+Air Force Mission Support System (AFMSS) and Mission Planning
+Support System (MPSS)
+
+The AFMSS and its more modern replacement, the MPSS, are useful tools
+for planning and preparing mission data; they will be referred to
+collectively as MPSS for purposes of this workbook. Flight planning, fuel
+consideration data, mission routes, bull’s-eye points, airspace
+restrictions/definitions and offset points can all be generated by MPSS.
+Some key mission items that the crew may want displayed in the aircraft
+(TSD, radar, INS), as well as communication plans, IFF phasing,
+munitions loads and jettison programs can all be loaded in the DTM.
+
+Communication Plan
+
+The first step is to refer to the ATO and SPINs for the current frequency
+list. Review the daily ATO for comm plan changes. Determine which
+frequencies you are most likely to use and load those in the radio
+channels. However, there should be a copy of the complete frequency plan
+in the aircraft. Also consider authentication procedures; the ATO should
+specify the current authenticators as well as backup and emergency
+authentication procedures. Be familiar with each authenticator’s use.
+Confirm KY-58 fills are loaded (through 781) and control head is set to
+remote (for UFC operation). The same considerations are true for the
+Have Quick radio. The time and duration of the flight may require more
+than one period of authenticators, frequency plan, Have Quick
+frequencies, etc. For Have Quick, consider loading two periods, one in
+each radio. Also, note that multiple WODs (Have Quick IT) can be loaded
+through the AFMSS for both radios. There may be situations where HQ I
+is directed, others where HQ II is directed.
+
+AAM-7 D-8
+
+
+Text from AAM-7_2_v_X_Intercepts_page_15.jpeg:
+DTM List and Sequence Points
+
+A common tendency is to try to display too much data; display only the
+data that is essential to the mission. Sequence points and/or list points
+can be used for more than defining the route; they can be used as
+references for possible contingencies (alternate tanker tracks, divert fields,
+etc.), outlining AORs, lanes, known troop concentrations, dump targets,
+etc. Use the different mission symbols (sequence, offset, aim and target
+points) to determine particular points or areas of interest. For land or
+sector caps, points can be entered to define the edges or corners of your
+flight’s AOR. This information (your AOR) then appears on the radar
+scope and/or TSD, allowing quick assessment of whether the bandit is in
+your area or not. Remember that you can display one route on the TSD
+while steering to another (and displaying it on the radar). Remember,
+when preparing a DTM route load to organize the data points, try not to
+display too much data and restore the DTM load to the squadron standard
+load (if applicable) at the end of the mission.
+
+IFF Phasing
+
+IFF modes and codes can be programmed for the mission and AAI can be
+slaved to the phased IFF. Phasing occurs on the central computer time
+(Data 1), so aircrews must ensure phasing and aircraft clock are both
+based on the same time (local or Zulu). Remember that EGI defaults the
+CC clock to Zulu time. Also, when AAT is slaved to IFF phasing, IFF mode
+changes (either manual or phased) force AAI codes to match currently
+selected Modes 1 and 3, and AAI Modes 1/2/38 default to correct code.
+
+Aircrew and HUD Data
+
+The aircrew has the option of programming display, scrolling and master
+mode selections. HUD titling data and default radar settings for MRM
+and SRM can be specified.
+
+Ordnance
+The aircrew can specify ordnance loads for combat and training PACS,
+
+both A/A and A/G, and combat jettison options. Configuration data is
+used to generate takeoff and landing data (TOLD) information.
+
+
+Text from AAM-7_2_v_X_Intercepts_page_16.jpeg:
+Crew Coordination
+
+The F-15E, with its ordnance (AIM-120s/-7s/-9s), BVR sensors (APG-70,
+A/A targeting pod, TEWS, etc.) and within-visual-range tools (large HUD,
+auto acq modes), is able to effectively engage any platform in the world.
+Having two crew members in the jet has proven to be an important part of
+the F-15E’s success or failure. However, the complexity of the mission,
+weapons and aircraft systems, and aircrew training and proficiency
+frequently make crew coordination the “weak link” in the chain. In
+addition to the “standard” crew coordination brief covering all the
+administrative duties (EPs, ground ops, system management and other
+tasks), a tactical mission demands additional important items.
+
+For a typical air-to-air engagement, crew coordination includes:
+
+e Radar: Who will control the radar during each phase of the
+intercept? Considerations should include proficiency,
+day/night, medium/low altitude. Pilots must never assume it
+is not their job to control the radar. Likewise, WSOs should
+not assume the radar belongs to them.
+
+e Targeting pod: Who will operate the A/A targeting pod?
+Generally, the crew member not operating the radar should
+operate the targeting pod. However, there are times when
+one person can and will operate both sensors at once.
+
+e RWR: Who is primarily responsible for the RWR?
+Proficiency allowing, both crew members should strive to
+include the RWR in their cross-check.
+
+e CMD: Who dispenses CMD and when? How much is
+dispensed for each actuation?
+
+As the F-15E continues to evolve (i.e., fighter data link with OFP Suite 4),
+crew coordination will become even more vital (and complex) to the
+success of the mission. Both pilots and WSOs should strive to be experts
+on every system on the aircraft. This will make crew coordination more
+efficient and your aircraft more deadly.
+
+AAM-7 D-10
+
+
+Text from AAM-7_2_v_X_Intercepts_page_17.jpeg:
+Visual Lookout
+
+Visual lookout must be crew coordinated prior to the mission. AF TTP 3-8,
+Volume XVII has a section devoted to responsibilities and visual search
+techniques; this is a “must read.” Each crew must “cage” their clock
+positions and elevation descriptions prior to any A/A engagement. This
+should consist of using references on the ground and again in the air to
+ensure that your “2 o’clock 10 low” is the same as the other crew
+member’s. The crew brief should include some kind of system for
+deconfliction of effort. One technique is for the WSO to deconflict by
+watching the pilot’s head and searching a different piece of sky; another
+technique is to be descriptive about where you are searching; e.g., “?M
+HIGH, OUTSIDE ....”
+
+Intercockpit Communication
+
+Communication between cockpits should be minimized and limited to
+mission essential information. AFTTP 3-1 lists communication brevity
+words that apply to intercockpit communication. Normally, each
+squadron has additional “standard” comm. Use these as much as possible
+to limit self-induced comm jamming. Do not shortchange this important
+element in the crew brief. If you have specific information you want at a
+particular time, in a particular format, brief it!
+
+Contingency Planning
+
+There are several types of contingency planning, including overall
+package/mission contingencies and flight A/A game plan contingencies.
+We will address overall contingencies here and game plan contingencies
+later.
+
+Weather
+
+Mission planning must include a bad-weather plan for all aspects of the
+mission, which include marshal deconfliction, attack deconfliction,
+weapons delivery, threat assessment, tanker plan, etc. Minimum weather
+requirements may be spelled out in the ATO.
+
+
+Text from AAM-7_2_v_X_Intercepts_page_18.jpeg:
+Package Fallout/Late
+
+You need to consider the minimum assets necessary to accomplish your
+mission. How many A/A players are required? What is the limited tanker
+plan? What is the minimum SEAD package required? How long can the
+mission be slipped and what are the procedures for ensuring that all
+players get the word? Again, many of these may be spelled out in the
+ATO and will differ from mission to mission. Remember that many of
+your assets may be coming from different bases or AORs.
+
+Intercept Geometry/Tactics
+
+The objective of the intercept is to position the flight to kill groups while
+avoiding being killed. The goal of the intercept is to use proper geometry
+to place the flight in a positional advantage while maximizing time
+available to work the radar. This is accomplished by maximizing the
+F-15E’s WEZ while minimizing the bandit’s WEZ.
+
+The basic game plan is mission, threat and weapons load dependent.
+These factors plus the number of threat groups will dictate if launch and
+leave (LL) or launch and decide (LD) tactics should be employed. Risk
+level is also important and should be spelled out by HHQ. As a ROT, use
+the following guidelines:
+
+e High risk: We are willing to accept potential losses due to a
+merge.
+
+e Medium risk: A merge is not desirable, but is acceptable.
+
+e Low risk: Losses or a merge is not acceptable.
+
+Launch and Leave
+
+Taking shots and performing an out/abort maneuver outside of
+decision/abort range performs the launch and leave tactic. It ensures
+defeating the bandit’s WEZ and avoiding a merge. Launch and leave
+tactics will usually need to be performed from medium altitude if any
+shots need to be taken. Due to reduced shot ranges, launch and leave
+from low altitude is almost impossible.
+
+AAM-7 D-12
+
+
+Text from AAM-7_2_v_X_Intercepts_page_19.jpeg:
+Launch and Decide
+
+The basic flow should initially heat up the intercept, then WEZ manage
+outside of the bandit’s maximum shot range (typically outside our meld
+range). Target, take shots and crank to continue WEZ management and
+F-pole. Launch and decide tactics normally assume a continuous flow
+toward the target/bandits, which is also known as “worming” to the merge
+(“bonsai”). However, the “skate” (launch and leave) option can also be
+performed if A-pole/F-pole range allows—hence the “decide” portion of the
+name. Both tactics are discussed in depth in AFTTP 3-1, Volume 17,
+Chapter 15.
+
+An offset slows the intercept down, allowing time to build the picture
+when bandits are maneuvering, run the ID matrix and start the WEZ
+management process. Generally, wingmen will offset outside the flight,
+allowing a visual search toward the bandits that goes through lead, which
+simplifies visual lookout and position keeping. The 30° scribe on the radar
+works well for establishing offset while keeping contacts on all radars.
+
+Group targeting plans and problems drive intercept options. Two
+considerations that must be applied to each intercept are factor bandit
+range (FBR) and shot depth (SD). FBR is the minimum range between
+threat groups that allows the F-15E to achieve F-pole on the closest group
+and still maintain first launch opportunity (FLO) on all groups outside of
+this range. All groups within this range must be targeted. Groups
+outside FBR can be subsequently engaged or avoided. In order to
+maximize firepower, groups that fall outside FBR should not be included
+in initial targeting. Threat weapons capability, F-15E weapons capability,
+closure and proficiency drive FBR. Shot depth (SD) is how far missile
+shots will be taken into groups. SD is tactic dependent and will be
+different when using launch and decide (LD) or launch and leave (LL).
+Rules of thumb for FBR, SD and threat WEZs can be found in AFTTP 3-1,
+Volume 17, Chapter 15. Three intercept options often briefed are CATA,
+the single-side offset and the bracket.
+
+CATA
+
+This intercept type is the fastest and allows the maximum range shot. It
+consists of finding the enemy, putting him on the CATA and running hot
+until shot range. The disadvantages are decreased time to picture build,
+target/sort, EID and shoot. It also solves his intercept problem for him.
+
+
+Text from AAM-7_2_v_X_Intercepts_page_2.jpeg:
+ADMINISTRATIVE INFORMATION
+
+This student workbook is designed to provide information on the F-15E,
+its systems and capabilities. It is not a sole source document, but is to be
+used in conjunction with other standard Air Force publications and
+technical manuals. If you find any differences between the material
+contained herein and other governing regulations, adhere to the
+regulations and notify the OPDR.
+
+Changes to this workbook are indicated with a heavy black line in
+the left margin.
+
+Forward recommendations for revision or change to 4 TS, SJAFB NC
+27531.
+
+Supersedes: AAM-7, July, 1998
+
+OPDR: 4 TS
+
+Index of Changes
+
+Effective Date Pages Affected
+
+
+
+Text from AAM-7_2_v_X_Intercepts_page_20.jpeg:
+Single-Side Offset
+
+The element takes offset on one side of the bandit formation (Figure D-1).
+The goal is to use the superior F-15E radar capability to detect the target
+and offset the formation. It is imperative that the wingman maneuver to
+the deployed position immediately.
+
+Between initial offset range and pure pursuit range, the flight assesses
+the bandit(s), sorts or makes targeting assignments and employs
+ordnance. The wingman’s position is critical for the sort plan, visual
+lookout and radar gimbal protection.
+
+Neg
+SNE
+
+V\S>
+
+AAM-07-01
+
+Figure D - 1. Single-Side Offset Intercept.
+
+AAM-7 D-14
+
+
+Text from AAM-7_2_v_X_Intercepts_page_21.jpeg:
+Advantages
+
+e Visual mutual support good for both aircraft.
+
+e Geometry is responsive to target maneuvers.
+
+e Radar sorting is from similar radar pictures.
+
+e Good single radar option.
+
+e Slows intercept pacing.
+
+Disadvantages
+
+e Merge from single attack axis.
+
+e Targets may get tally on both F-15Es.
+
+e Wingman may be thrown to trail at pure pursuit range.
+e
+
+If targets check away, excessive time and fuel may be needed to
+
+chase down the bandits.
+
+AAM-7
+
+
+Text from AAM-7_2_v_X_Intercepts_page_22.jpeg:
+Bracket
+
+The bracket intercept is designed to envelop the target formation from
+either side after a front-quarter merge (Figure D-2). It epitomizes the
+concept of a multiaxis entry.
+
+AAM-07-02
+
+. Bracket Intercept.
+
+AAM-7 D-16
+
+
+Text from AAM-7_2_v_X_Intercepts_page_23.jpeg:
+Advantages
+
+e Multiaxis attack entry complicates visual acquisition of both
+F-15Es.
+
+e Once the bracket starts to develop, any bandit reaction results in
+turning room for at least one F-15E.
+
+e At least one F-15E sees enough profile for a VID.
+
+e Good visual lookout until bracket develops.
+
+Disadvantages
+
+e Poor visual lookout in bracket.
+
+e Bandit maneuvers may force a switch at short range.
+
+e Communications may be degraded in jamming environment
+(beyond burn-through range).
+
+e Wide splits are probably sortable by the targets’ radars.
+
+AAM-7
+
+
+Text from AAM-7_2_v_X_Intercepts_page_24.jpeg:
+Inside-Out
+
+Another contingency is a late threat detection where your flight has been
+bracketed and there is not enough intercept room to enter from the
+outside. Now the flight will be forced to split and perform an inside-out
+intercept (Figure D-3).
+
+OPTION:
+LEAN INTO ONE SIDE
+OF THE BANDIT FORMATION
+TO TAKE OTHER BANDITS
+"OUT OF THE FIGHT"
+
+AAM-07-03
+
+Figure D - 3. Inside-Out Intercept.
+
+AAM-7 D-18
+
+
+Text from AAM-7_2_v_X_Intercepts_page_25.jpeg:
+Advantages
+
+e Visual mutual support maintained until pure pursuit range.
+e Responsive to bandit maneuvers.
+Disadvantages
+
+e The flight has been bracketed.
+e The formation’s flight path is predictable until pure pursuit range.
+e Mutual support is degraded beyond pure pursuit range.
+
+e May expose belly to opposite bandit at merge.
+
+
+Text from AAM-7_2_v_X_Intercepts_page_26.jpeg:
+Hook-ID
+
+Since no flight or intercept is ever perfect, contingencies must be planned
+to cover the most likely breakdowns or problems. Several of these
+problems can be discussed together. These are single-radar plan, forced
+VID or radar/missile problems in one aircraft. To overcome these
+contingencies, use a hotter single-side offset with the bad radar/wingman
+deployed in a position to employ ordnance upon lead arriving at the merge
+and declaring the contact hostile or timing out his shots. This profile is
+commonly called the hook-ID and puts the wingman in a favorable
+offensive position at the merge (Figure D-4).
+
+HARD TURN
+
+AAM-07-04
+
+Figure D - 4. Hook-ID Intercept.
+
+AAM-7 D - 20
+
+
+Text from AAM-7_2_v_X_Intercepts_page_27.jpeg:
+Advantages
+
+e Good kill potential — if bandit reacts to lead at merge, wingman has
+good belly entry.
+
+e Coverage of leader’s 6 o’clock is good.
+
+e Visual identification is achieved.
+
+e Responsive to target maneuvering.
+
+Disadvantages
+
+e Wingman must clear his own 6 o'clock.
+
+e Leader will probably lose visual on wingman.
+
+e
+
+Aircraft merging first may not have offensive potential for some
+
+time.
+
+AAM-7
+
+
+Text from AAM-7_2_v_X_Intercepts_page_28.jpeg:
+INTERCEPT BASICS
+
+An air-to-air game plan is based on many things. The following discussion
+of air-to-air game plan and mechanics is very general in nature and does
+not presume any of the following:
+
+Mission (OCA, DCA)
+
+Flight makeup (two-ship, four-ship)
+
+Risk level (high, medium, low)
+
+Tactic (launch and leave, launch and decide)
+
+Radar versus group (may include multitargeting with
+AIM-120s), radar versus contact
+
+Ordnance (AIM-120s/-7s/-9s)
+Missile management (desired missile/contact ratio)
+
+Threat (long-burn radar, short-burn radar, limited-aspect
+radar, heat).
+
+Every air-to-air game plan should take these variables into consideration
+and be built around them. Remember that the air-to-air plan is never
+“standard’—only bits and pieces of it are.
+
+During the planning process, your “range ladder” should account for the
+above variables. In general, your range ladder should produce a blue air
+first launch opportunity (FLO) and should be built back from that
+predicted range. Aircrew should memorize missile shot range rules of
+thumb for different missiles at different shooter altitudes.
+
+
+Text from AAM-7_2_v_X_Intercepts_page_29.jpeg:
+As you plan, brief, execute and debrief the A/A plan, continually ask the
+following three questions:
+
+1. Formation: Lead — are you executing the briefed flow,
+intercept and tactics? Wingman — are you in position or
+correcting to be there?
+
+Zz. Radar: Lead/wingman — are you in your assigned AOR or
+targeting IAW the plan or lead’s directive?
+
+3. Communication: Lead/wingman — are you using brevity,
+following the comm flow plan, listening and hearing?
+
+Communication and Picture Building
+
+The ability to engage the enemy requires the use of clear, concise,
+accurate, situational awareness-building communications. In short,
+effective communications can make or break the intercept. This does not
+mean talking excessively.
+
+The two most important factors in an efficient, effective comm plan are
+brevity and accuracy. Of these two, accuracy is paramount. We always
+strive to communicate IAW AFTTP 3-1, but there may be times when
+plain English is required to communicate accurately. Additional keys to
+communication are listening and good pacing. You will not communicate
+well if you do not listen and build a picture based on what you hear. Also,
+there is no communication if everyone is stepping on one another. Brief a
+comm flow (i.e., GCI, Eagle 1, Eagle 3) and then adhere to it. If your back
+is to the fight, GCI is the primary talker, followed by lead, then number
+two. If your radars are pointing down track, the fighters should talk with
+GCI filling in. A good flow of communication will set the stage for a fluid,
+error-free intercept.
+
+The discussion of B/E versus BRA is normally a heated debate. In most
+instances, B/E comm makes the most sense to the fighters as well as other
+blue air assets (F-15Cs, AWACS, GCI, etc.). BRA format should be used
+only when it makes sense (““POP-UP” “GROUP,” F-15Ks are together).
+Preface all calls with “BULL’S-EYE” or “BRA” unless otherwise briefed.
+Reference AFTTP 3-1 guidelines for proper communication
+recommendations. This comm plan is a CAF-wide standard used by
+AWACS, GCI, F-15C, etc. Attachment 1 to AFTTP 3-1, Volume 1 (Dec
+99) contains brevity words and terminology.
+
+
+Text from AAM-7_2_v_X_Intercepts_page_3.jpeg:
+AERIAL ATTACK MANEUVERING
+
+C
+aC
+
+coor
+ojf io 0 D, 5 9 hoo 0
+
+COVER
+
+2 VX INTERCEPTS
+
+INTRODUCTION
+
+This text provides a general overview of element intercepts and factors to
+be considered for aerial attack mission planning and execution. The
+information contained in this workbook is essential for your
+understanding of element tactical considerations and mission
+employment. The text describes planning considerations, standard
+terminology, intercept geometry options and system integration.
+
+CONTENTS:
+
+INT RODLIC TION sc anes sue ans sxc nese ans conte ante accn asus news certs axe ase eu ans mis ae mesa wate GE A-1
+CRITERION REFERENCED OBJECTIVES (CROs)............eeeeseeeeeeees B-1
+STUDENT PREPARATION REQUIREMENTS . 0.00... eeeeeeseeeeeeee C-1
+TEXT oc eecececcceesneeeccessseeeceessseeecceessaeeeeeesssaeeeseeessaeeeseessaeeeseeeeeaeeeeeee D-1
+END OF TEXT QUIZ oui eeccccesseeeesneeeeesaeecssanecessaeesesaeesssneeeesaees E-1
+GLOSSARY cscs sas sess sss sues see sees set sews sues sun stirs se seis Ns subs suivs Seve see ies wen sutvn ules sn F-1
+
+
+Text from AAM-7_2_v_X_Intercepts_page_30.jpeg:
+Calling the Picture and Labels
+
+Fundamentals
+
+Group criteria will be [AW AFTTP 3-1, which is currently 3 nm (as an
+addition, use 15,000' altitude). Group definition may be briefed
+nonstandard (i.e., 5 nm, 10,000'). A group is nothing more than a hit on
+your radar scope. A group may have one, two or more contacts within it.
+For example, four MiG-29s flying in close formation would be a single
+group. Depending on their inner-group distance, your radar beam width
+and your distance from them, your radar may begin to break the
+individual contacts out of the group. If two MiG-29s were flying line
+abreast, 10 nm from one another, your radar scope presentation would be
+two groups. As the MiGs get closer, you may be able to determine each
+group contains only one MiG (single contact).
+
+“BULL’S-EYE” or “BRA” will preface all calls to reduce or eliminate
+ambiguity. Digital bull’s-eye is the format that will be used for
+bull’s-eye-referenced calls (the eight cardinal directions will not normally
+be used).
+
+A full call sign will be associated with every radio transmission.
+
+Core information will include the number of groups, bull’s-eye location,
+altitude and tracking direction. One group will be called “GROUP,” not
+“single group.” In addition, when using core information to anchor the
+location of groups, do not say “... FIRST GROUP B/E 360/10, SECOND
+GROUP B/E 040/20”. Just call them “GROUP’—no number—and anchor
+the location (e.g., “... GROUP B/E 360/10, GROUP B/E 040/20”).
+
+If an aircrew member has amplifying information on a group, they should
+use the group’s location. For example, “EAGLE 1, GROUP B/E 360/10,
+HITS 35,000.” By sticking to this rule, aircrew will avoid the ambiguous
+type call (e.g., “EAGLE 1, HITS 2ND GROUP, 35,000”). Groups within
+
+5 nm of the B/E will be labeled “over bull.”
+
+For anchoring group location, the group closest to the fighters will be
+anchored off bull’s-eye first, followed by the next closest, and so on. If
+multiple groups are equal distance from the fighters, the group closest to
+the bull’s-eye will be anchored first.
+
+AAM-7 D - 24
+
+
+Text from AAM-7_2_v_X_Intercepts_page_31.jpeg:
+If more than three groups are detected, aircrew will call the number of
+groups, but will only anchor the closest group to the fighters. For
+example, “EAGLE 1, 4 GROUPS, CLOSEST GROUP BULL’S-EYE
+270/25, HITS 15,000, FLANK WEST.”
+
+Fill-in information should include (but is not limited to) number of
+contacts within a group, the inner-group formation, eyeballs and any ID
+criteria met (i.e., “SPADES”).
+
+Labeling the picture will help fighter targeting and help the flight lead
+decide how to direct the actual intercept geometry and targeting. For
+example, a wide azimuth presentation may warrant a single-side offset
+type intercept while a pure range presentation may call for a hotter, pure
+intercept. Attempt to establish a group picture prior to targeting/meld
+range or bypass labeling altogether—use only core information. Common
+sense and the tactical presentation should drive labeling. Some general
+rules of thumb for when to label are:
+
+e Fighters have committed, bogies/bandits are on a steady
+heading (2 or more hits), formation is determinable and
+labeling will help aircrew SA.
+
+e Groups are within bounding range (one package). Groups
+within a specific range (i.e., 25 nm) will be a package.
+Groups outside bounding range will be labeled second
+package.
+
+Before reviewing the various picture labels, it is important to remember
+not to “force the picture.” If one of the following picture labels does not
+apply to your particular presentation, it is best to simply call each group
+out one by one with respect to B/E than to try and make a predefined
+picture label fit.
+
+As for the labels used to describe two groups, there are two major
+categories: azimuth and range. If the groups are an azimuth
+relationship, name the groups using the four cardinal directions; i.e.,
+northern, southern, etc. If the groups are in a range relationship, name
+the groups using “LEAD GROUP” and “TRAIL GROUP.” The use of
+“SIDE-SIDE” and “NEAR-FAR’” are reserved for inner-group relationships
+(i.e., sorting).
+
+
+Text from AAM-7_2_v_X_Intercepts_page_32.jpeg:
+A possible fill-in to a presentation is “ECHELON.” If the two echelon
+groups are wider than they are long, call “... TWO GROUPS, AZIMUTH
+SPLIT 10, ECHELON NORTHWEST, SOUTHERN B/E ....” Ifthe two
+echelon groups are longer than they are wide, call “... 2 GROUPS, RANGE
+SPLIT 10, KCHELON SOUTHWEST, LEAD GROUP B/E ....”
+
+Other labels are used when we are faced with three or more groups. Some
+examples of these three or more group presentations are wall, ladder,
+
+champagne and vic (Figures D-5 and D-6).
+
+For three or more group labels, the range or azimuth split called is the
+distance between the outer edges.
+
+80 80
+
+q inl qk
+
+6 MED
+{e) {e)
+G510 340-19 G510 340-19
+"...3GROUP WALL, AZIMUTH SPLIT 25 ..." "... 3GROUP LADDER, RANGE SPLIT 12..."
+AAM-07-05
+Figure D - 5.
+
+In a three-group wall or ladder, call the group in the middle the middle
+group.
+
+In a range presentation with four or more groups (four-group ladder),
+name the groups after the lead group as “second, third, fourth,” etc.
+
+AAM-7 D - 26
+
+
+Text from AAM-7_2_v_X_Intercepts_page_33.jpeg:
+In a four-group wall, name the outside groups with cardinal directions, as
+in a two-group azimuth, “northern” and “southern.” The other groups
+inside the wall can be called as “southern middle” and “northern middle.”
+For example, Eagle 1 calls “... LOCKED B/E 270/10, 25,000.” By using
+the names mentioned above, Eagle 2 can respond, “EAGLE 1, YOU'RE
+LOCKED NORTHERN GROUP, NORTHERN MIDDLE GROUP B/E
+230/14.”
+
+IAW AFTTP 3-1 definitions, champagne is an attack of three distinct
+groups with two in front and one behind. The leading two groups are
+attempting to bracket with the trailing third group flying up the middle.
+Vic is defined as three groups/contacts with a single closest in range and
+an element/two groups in trail. When calling the distances between
+groups in a champagne, the azimuth split will be called first and the range
+split will be called in the next transmission. When calling the distances
+between groups in a vic, the range split will be called first, then the
+azimuth split in the next transmission. (Currently, AFTTP 3-1,
+
+Volume 17 directs champagne and vic labels to be called the same; e.g.,
+azimuth first, then range.) However, if it looks only slightly like a
+champagne or vic, it will be called a three-ship wall.
+
+In a vic, the group closest to the fighters will be called the lead group and
+the other two will be called “TRAILERS” (northern trailer and southern
+trailer in a vic headed east toward the fighters).
+
+In champagne, the two groups closest to the fighters will be called lead
+groups, and the group closest to the fighters will be anchored off B/E. The
+third group in a champagne will be called the “TRAILER.”
+
+
+Text from AAM-7_2_v_X_Intercepts_page_34.jpeg:
+When labeling the presentation for a three-group champagne or vic, use
+the information shown in Figure D-6.
+
+80
+
+1 | I |
+G510 340-19 G510 340-19
+
+"EAGLE 1, 3 GROUP CHAMPAGNE, AZIMUTH "EAGLE 1, 3 GROUP VIC, RANGE SPLIT 10,
+SPLIT 12, EASTERN LEAD GROUP B/E 340/19, LEAD GROUP B/E 340/19, HITS 15,000."
+HITS 15,000." FILL-IN: "TRAIL GROUP, RANGE FILL-IN: "TRAILERS AZIMUTH SPLIT 15."
+SPLIT 10."
+
+AAM-07-06
+Figure D - 6.
+
+IAW AFTTP 3-1, Volume 1, if aircrews see more than three contacts, but
+the specified number cannot be accurately determined, “HEAVY” will be
+used by itself. However, if aircrews can accurately count the number of
+contacts in a group, they will provide the specific number of contacts.
+
+For maneuvering groups, recognize and call the maneuver. For example,
+“EAGLE 1, LEAD GROUP MANEUVER.” After the group is steady on a
+heading, call the group “FLANKING/BEAMING/DRAGGING.”
+
+In general, if a previously reported group is not processed for two
+consecutive sweeps, it will be reported as “FADED” and the term
+“ESTIMATE” will be used to anchor where it faded.
+
+Labels may be changed by calling “NEW PICTURE.” However, labels will
+not be changed inside a prebriefed range (typically meld range). If no
+such range is prebriefed, use the briefed targeting/meld range as the
+cutoff.
+
+AAM-7 D - 28
+
+
+Text from AAM-7_2_v_X_Intercepts_page_35.jpeg:
+If aircrews detect a previously unreported group, a “NEW PICTURE” may
+need to be called. If the group is detected outside meld/target range, it
+will be called a new group and anchored off B/E. Then call a new picture
+if able; e.g., “EAGLE 1, NEW PICTURE, THREE-GROUP LADDER,
+RANGE SPLIT 10, LEAD GROUP B/E .....” If detected inside
+meld/targeting range, it will be called a pop-up group and BRA will be
+used. A fighter now threatened by that group will target that group
+unless already targeted to a higher threat.
+
+Figures D-7 and D-8 depict some examples of picture building using the
+discussed comm.
+
+GSO 340-1 GSO 340-4
+
+"EABAGLEGRO|GROUPS4RANGEITS NELGS,” “EAGLE 2BROBP SAI RANGHLSBLIT 10,
+
+LEAD GROUP B/E 340/ 19, HITS 15,000." LEAD GROUP B/E 340/ 19, HITS 15,000."
+"EAGLE 1." "EASTERN GROUP, B/E 340/19, HITS 15,000."
+
+"EAGLE 1, TRAILER, HITS 35,000." "EAGLE 1, TRAILERS AZ SPLIT 15,
+
+"WEISS FERN /FRAERERY STS 28.000."
+AAI 7008
+Figure D - 7.
+
+
+Text from AAM-7_2_v_X_Intercepts_page_36.jpeg:
+80 80
+8
+q< tslmli
+©
+6 MED
+(e) Vv. fe) fe)
+G510 340-19 G510 340-19
+"EAGLE 2, 2 GROUPS RANGE 10 MILES, "EAGLE 2, 3 GROUPS VIC, RANGE SPLIT 10,
+LEAD GROUP B/E 340/19, HITS 15,000." LEAD GROUP B/E 340/19, HITS 15,000."
+"EAGLE 1, TRAILER, HITS 35,000." "EAGLE 1, TRAILERS AZ SPLIT 15,
+WESTERN TRAILER, HITS 28,000."
+AAM-07-08
+Figure D - 8.
+AAM-7 D-30
+
+
+Text from AAM-7_2_v_X_Intercepts_page_37.jpeg:
+Intercept Flow
+
+The overall flow of the intercept is based on several factors. These include
+environmentals (“Can we come out of the sun, isolate against a cloud deck,
+etc.?”), package flow (“Is the package we are defending going a particular
+direction? We do not want to drag the threat to the strike package.”), our
+prebriefed tactics (CATA, SSO or bracket), desired intercept geometry
+(perhaps the most important factor), etc. The flow is important to build
+overall SA of the flight and the rest of the package during and after
+engagements, and can be broken down into several different phases.
+
+Search
+
+Search responsibilities are assigned in the briefing. Give some thought to
+your radar coverage and base it on threat, experience level, AOR and
+radar setup. Figure D-9 shows typical overlapping search blocks.
+Typically, leads will search an AOR in which they expect the threat.
+Initially search in 120° sweep (except in turns) until all factor groups can
+be contained in a narrower sweep. At an acq symbol placement of 25 nm,
+120° gives 50 nm of azimuth coverage.
+
+AAM-07-09
+
+Figure D - 9. Overlapping Search Blocks.
+
+
+Text from AAM-7_2_v_X_Intercepts_page_38.jpeg:
+It is important to search the extremes of your coverage first. The footprint of
+the radar is smaller at the extremes and it is easier for a bandit to fly
+through your coverage where the footprint is small (Figure D-10).
+
+VERY HIGH CAP
+VERY SMALL FOOTPRINT
+
+MEDIUM CAP
+LARGER FOOTPRINT
+
+AAM-07-10
+
+Figure D - 10. Radar Footprints.
+
+AAM-7 D - 32
+
+
+Text from AAM-7_2_v_X_Intercepts_page_39.jpeg:
+The two most important things to remember when searching with the radar
+are discipline and patience. Discipline means sanitizing your area of
+responsibility by staying in it. To properly sanitize you must use the briefed
+acq symbol placement when setting your coverage. Then, move you acq
+symbols to the expected azimuth and range of the bandits. Moving your acq
+symbols to the predicted (or called) range of the targets will help you build a
+mental picture of the presentation and will optimize HPRF at that range.
+Use flight mates, AWACS, GCI, etc. to build a picture of what is happening
+outside your AOR. Listen and be patient. Patience means allowing the radar
+to do the work; e.g., ensuring a full sweep before resetting your coverage.
+How do you know your radar has done a full sweep? You can hack a clock
+(21 seconds for two full sweeps in 6-bar, INLV) or look at the bottom left of
+your radar scope where it shows the bar scan of the radar. When that scan
+comes up again, the radar has finished one full sweep. For example, the
+radar reads 6 MED when you look at it; when it reads 6 MED again, it has
+swept two full times.
+
+Learn how to interpret the radar scope. The radar screen is twice as wide as
+itis long. For example, at the 20 mile range bar, 120° sweep is 40 miles wide.
+Further, the width of one 30° block on the radar equates to 2 the range (i.e.,
+at 60 nm, one block is 60/2 = 30 miles wide; at 40 nm, one block is 40/2 = 20
+miles wide). Finally, the acq symbols are roughly 6° wide—at 30 miles, they
+are 3 miles wide (as a rule of thumb, acq range equals distance across). In
+addition, altitude is given in RWS with acq symbols over a contact (accurate
++/- 5000'). All of these things can help you build a picture and make good,
+SA-building calls without locking. This allows you to continue looking at the
+big picture.
+
+One last issue is TWS. Avoid using TWS within meld +5 nm to meld, unless
+targeting with a radar-versus-group plan. In any case, NEVER try to search
+with TWS; it has too small a search block to be effective as a search tool.
+
+
+Text from AAM-7_2_v_X_Intercepts_page_4.jpeg:
+CRITERION REFERENCED OBJECTIVES (CROs)
+
+1. Identify the types of intercept attack options and the advantages
+and disadvantages of each.
+
+2: Identify recommended radar search and sort parameters in the
+tactical environment.
+
+3. Identify examples of element sort priorities.
+4. Identify the correct operational brevity code word for a given
+situation.
+REFERENCES
+AFTTP 3-1 Volume 1
+Volume 4
+Volume 17
+AFTTP 3-3 Volume XVII
+
+AAM-7 B-1
+
+
+Text from AAM-7_2_v_X_Intercepts_page_40.jpeg:
+Sample
+
+Once groups are detected, the flight must build SA on them. Are they bandits
+or friendlies, are they hot or cold, high or low, fast or slow, etc.? Single target
+track (STT) gives the most information on a specific target but other systems
+can assist in determining information about a group. EWWS, TWS, acq
+symbol/altitude coffin, AAI, EID, NCTR, Highlight mode and apparent drift
+can give data on various groups. This information will be used to determine
+if a commit should be initiated. Fast targets require a hotter intercept profile
+than slow targets. Ifthe primary game plan is an offset intercept, a hot
+target (16 AA) requires more maneuvering to gain the offset than a colder
+target. Note the displayed shot ranges during a sample lock. They will give
+you a good indication of when to take your final lock or how to modify your
+other ranges (target, meld, sort, LNLT, etc.). Also, depending on ID criteria,
+STT or HDTWS may be needed for an NCTR. Remember that the longer you
+are locked to a specific target, the lower your SA on what the rest of the group
+is doing or what is happening with other groups.
+
+AAT/EID/PID
+
+In today’s BVR environment, electronic identification is critical. Getting a
+“HOSTILE” call out early gets you in the mindset of killing early in the
+intercept. On the other hand, a quick “FRIENDLY” call can free your brain
+from trying to keep track of someone who is not trying to kill you. EID can be
+accomplished without locking a target and can be used to ensure “clear field
+of fire” to the bandit. If you see a friendly reply, do not lock.
+
+With our avionics, AAI and EID use can be confusing. A sound technique is
+to set up the EID to the criteria spelled out in the ROEs. Set the AAI to find
+flight members. Get in the habit of going aft in the RCP and inboard in the
+FCP to determine which contacts are bandits. The bottom line is do not shoot
+diamonds, whether in AAI or EID.
+
+AAM-7 D - 34
+
+
+Text from AAM-7_2_v_X_Intercepts_page_41.jpeg:
+Some important terms for identification criteria and communication follow.
+
+e BANDIT — a positively identified enemy aircraft. The term is a
+function of identification and does not necessarily imply
+direction or authority to engage.
+
+e Hostile — a bandit upon which clearance to fire is authorized
+IAW theater ROEs.
+
+The requirements to satisfy BVR ID criteria will be sortie/scenario
+dependent. The identification matrix required to ID a group “HOSTILE”
+might include the need to have a positive enemy indication, a lack of friendly
+indication or both. In addition, a visual identification (VID) may fulfill the
+requirements to employ ordnance. The ability to meet BVR ID criteria can
+come from onboard systems, offboard systems or a combination of both.
+
+NOTE: Most current theaters require both a positive enemy indication and a
+lack of friendly indication to ensure the aircraft within a group is/are enemy
+owned and operated.
+
+Positive Enemy Indications
+The following may or may not be used to satisfy a positive enemy indication.
+
+e Point of origin (POO) — a group operating beyond a political
+boundary, FEBA, FLOT or another specified enemy safe area
+may be called a bandit. AWACS will also use the term
+“OUTLAW” in this situation.
+
+e NCTR —- an unambiguous return will be indicated with “PRINT
+.” The fill-in may be called in the clear or called with
+a code word.
+
+e Mode X — a Mode X return will be indicated by the word “ECHO”
+IAW AFTTP 3-1.
+
+e AWACS/GCI may “DECLARE” a group hostile using
+information such as POO, IFF, situational awareness, etc.
+Declarations are normally used for aircraft lacking onboard
+interrogation equipment (F-16).
+
+
+Text from AAM-7_2_v_X_Intercepts_page_42.jpeg:
+Lack of Friendly Indication
+
+In order to satisfy lack of friendly requirements, a completed check of
+identification friend or foe (IFF)/selective identification feature (SIF) codes
+must be accomplished. If using STT/PDT, processing must be completed, not
+just initiated.
+
+e “PAINTS” will be used (IAW AFTTP 3-1 “friendly IFF
+interrogation return”) to mean a group does NOT meet “lack of
+friendly” criteria; i.e., the group IS squawking one or more of the
+required friendly modes/codes.
+
+@ “SPADES” will be used IAW AFTTP 3-1 “lack of required
+friendly IFF reply”) to mean a group DOES meet the “lack of
+friendly” criteria; i.e., the group in question is NOT squawking
+required modes 1, 2, 3C or 4, depending on SPINs.
+
+Commit
+
+Commit criteria is ROE dependent. The briefing usually includes commit
+criteria (e.g., within 40 nm of CAP point or in the area of responsibility with
+aspect 9 H-12 C). You can expect different commit criteria on each sortie.
+Sometimes aspect, airspeed and range define the commit; other times the
+location of the radar contacts defines it. Generally, fighters commit in order
+to engage targets in a desired engagement zone (DEZ). The DEZ may be
+defined by the particular AOR or by the flight lead. The bottom line in the
+air is that the wingman can recommend, but lead has the hammer on the
+commit. The briefed criteria are a guide, rather than a contract, for the flight
+to commit.
+
+Aborted Commit
+
+If the fighters have committed, there are certain times to abort the commit
+and return to the CAP. Reasons may include bandits dragging at long range
+or outside the DEZ, bandits greatly outnumber the fighters, no PID, EA, etc.
+Aborted commit should be included in the plan and understood by all players.
+
+The mechanics for a commit should include a climb to maximize your WEZ
+and ensure first launch opportunity (FLO) and acceleration to above the
+mach (if able). Jettison the fuel tanks if ROE/squadron standards
+dictate/allow, but remember that once you jettison them, they are gone for
+good. Take fuel considerations into the jettison decision.
+
+AAM-7 D - 36
+
+
+Text from AAM-7_2_v_X_Intercepts_page_43.jpeg:
+Sanitize
+
+Realize that the sample phase may occur several times during the search
+phase. However, you need to ensure that all threats in your AOR have been
+identified. This is the sanitization phase. A good rule of thumb is to make
+sure you resanitize your AOR 5 nm prior to the meld. Remember to search
+the extremes first.
+
+Target
+
+The targeting phase starts at the commit when the picture is being built. In
+general, target groups and sort within groups. Fighter numbers and
+ordnance, bandit numbers and ordnance, and the planned fighter tactic will
+determine how the targeting will be accomplished. The targeting plan may
+be for the fighters to target radar versus group (assigning a radar to each
+factor group and multitargeting using TWS and AIM-120s) or radar versus
+contact (assigning more than one radar to each group, sort within that group
+and shoot each contact with AIM-7s/-120s). If the targeting plan is
+well-briefed (and well-understood) the actual targeting should be obvious and
+should not require directive comm from lead.
+
+It is important to understand the concept of owning and sharing groups for
+targeting to be effective. If you are targeting in accordance with the briefed
+plan or have been directively targeted to a group, you own that group. This
+means that you are the primary targeter and it is your responsibility to
+kill/maintain SA on all contacts in that group. If your group subsequently
+maneuvers and meets your return to search (RTS) criteria, you are still
+responsible for the group until you ensure a positive handoff to another flight
+member, AWACS or GCI. In general, flight leads and element leads will own
+groups as the primary targeters. If a meld has been called on a group, then
+other flight members designated to meld are sharing that group (secondary
+targeters). When sharing, the secondary targeter will pick up the secondary
+sort responsibility (i.e., as the wingman [far, respective side, AOR altitude]).
+
+As an example of this concept, assume the fighters step with a primary plan
+of radar versus group, multitargeting using TWS and AIM-120s. The initial
+picture shows a single group with four contacts, but the fighters are only
+loaded with three AIM-120s each. A single fighter cannot multitarget into
+the group and account for all contacts. Lead may call, “EAGLE 2, MELD
+BULL 360-50-21,000, FOUR CONTACTS, AZIMUTH.” With a single call
+(meld), lead has just directed a change from radar versus group (each fighter
+owning a group) to radar versus contact (both fighters sharing a group). Note
+here, the fighters must still multitarget into the heavy group in order to
+account for all contacts.
+
+
+Text from AAM-7_2_v_X_Intercepts_page_44.jpeg:
+This brings up the roles of primary and secondary targeters. The primary
+targeter is the fighter responsible for targeting a specific group. Specific
+responsibilities are:
+
+e Locking the group at the briefed range
+
+e ID if required
+
+e Multitargeting or calling the meld if sharing is required
+
+e Communicating sort responsibilities if required
+
+e Eyeball count
+
+e Maintaining STT/PDT on respective side or highest threat
+
+e Communicating bandit maneuvers
+
+The secondary targeter is responsible for assisting the primary targeter.
+Specific responsibilities include:
+
+e Sanitizing and melding around primary targeter’s group (if
+required)
+
+@ Targeting spitters
+@ Targeting pop-ups
+e Sharing the group (if called in)
+
+e Targeting the group when directed (shots trashed, heavy group,
+etc.)
+
+Realize that all these are prebriefed responsibilities. Lead always has the
+hammer for directive targeting.
+
+AAM-7 D - 38
+
+
+Text from AAM-7_2_v_X_Intercepts_page_45.jpeg:
+Meld
+
+Meld range depends on desired weapons employment range. AFTTP 3-1,
+Volume 17, Chapter 15 discusses considerations for weapon employment
+ranges. Minimal sort range should be 2-3 nm outside shot range, although
+this may be increased due to ID requirements. In order to ensure all flight
+members will see the threat picture, meld range must be an additional
+5-10 nm outside sort range. Therefore, if you want to shoot NLT 20 nm, a
+25 nm sort range and a 30 nm meld range might be appropriate.
+
+The purpose of the meld is to see the picture—to find sort responsibility or
+initiate targeting. When melding radars it is important to put your radar in
+a position to (in decreasing priority) find your sort, see the entire picture and
+bias altitude to your area of responsibility. Whether you own a group alone
+(targeting) or are sharing a group (sorting), the mechanics of melding are the
+same. The four basic mechanics are 60° sweep, MPRF, acq symbols leading
+the group and set altitude coverage. At the meld call, acq symbols should be
+initially placed at the briefed lock/sort range, then the altitude coverage set to
+find your responsibility.
+
+Initially, center your altitude coverage on the called altitude or on the last
+known altitude of the group. As your proficiency increases, a good rule of
+thumb is to bias your altitude coverage 5000' below/above the target, towards
+your wingman’s AOR. For example, if you have the high search and the
+target is at 18,000' put the bottom of your radar coverage to 13,000'. The
+range to meld radars is weapons load, altitude and threat dependent.
+Generally, meld in time to complete EID and sort for FLO/desired launch
+range.
+
+If planning to sort (share), the most important information is the group
+altitude —“EAGLE 2, MELD, 25,000.”
+
+Assume the group is within 30° of the nose and at the prebriefed meld range.
+If this is not the case, then this information should be added to the meld call:
+“EAGLE 2, MELD, 25,000, BRA 360-25.”
+
+Additionally, the inner group picture should be called ASAP after the meld
+call. If no picture is called, expect the wingmen to sort IAW the brief
+according to the radar-apparent picture—“EAGLE 2, MELD 25,000,
+SIDE-SIDE.”
+
+
+Text from AAM-7_2_v_X_Intercepts_page_46.jpeg:
+The actions and comm, if clean after the meld, should also be briefed. In
+general, if you are unable to see the picture on your scope after two full
+sweeps, call “CLEAN.” The fighter with the picture should select TWS and
+multitarget if able. If unable, the fighter with the picture should tell the
+clean fighter where to look to find the sort. If both fighters are clean at the
+meld, the flight lead should call a “de-meld.” This is a directive call to return
+to search in your respective AOR. A common technique is to bring your acq
+symbols 3-5 nm in front of the last known contact to set your coverage. This
+will ensure adequate overlap in coverage at the closest possible range to the
+lost contact.
+
+Lock No Later Than (LNLT)/Sort
+
+Lock range is established to ensure first launch opportunity (FLO) against an
+adversary. If a valid sort can be accomplished, all players should lock/sort at
+this predetermined range. If a valid sort cannot be accomplished, the
+primary targeter (normally the flight lead/element lead) should lock to ensure
+FLO. If owning the group alone, TWS should be selected after the initial shot
+if more than one contact is known or expected.
+
+The objective of sorting is to ensure all targets within a group are engaged to
+achieve maximum kills premerge. A meld call should always precede a sort.
+If no meld call is made, it is assumed the primary targeter is multitargeting
+and the wingman will stay in search to sanitize for pop-ups/spitters. Radar
+apparent geometry drives the sort, not necessarily the formation bandits are
+flying. Possible radar-apparent formations are:
+
+Side-Side (azimuth) — One side of acq symbols fits between returns
+Near-Far* (range) — Distinct range breakout (generally = 2 nm)
+
+High-Low (altitude) — May appear as one return but at two separate
+altitudes
+
+“Recall near-far is used for inner-group formation (sorting), while lead-trail is
+used when labeling groups in range (picture building, targeting).
+
+AAM-7 D - 40
+
+
+Text from AAM-7_2_v_X_Intercepts_page_47.jpeg:
+The primary sort plan should be to match your formation. When sorting in
+range, leads take the closest bandit, wingmen the farthest. When sorting in
+azimuth, take the bandit that matches your position in the formation (your
+side). If planned to be in a trail formation ( NAV FLIR trail), it should be
+briefed how to handle a side-side sort. For example, inside-out is a method of
+dealing with this. The lead sorts from the nose out, and the wingman sorts
+from the side of the scope in. Multitargeting (more targets than missiles)
+should be addressed as a contingency in the brief. It may be more useful to
+brief a cardinal direction (i.e., lead sorts northern, and wingman sorts
+southern).
+
+If a valid sort is accomplished, call your sort with the appropriate label—
+“EAGLE 2 SORTED FAR.” If unsure that a valid sort is achieved, call
+“LOCKED” with the B/E and altitude. When locking and unsure of a valid
+sort, the rule of 2s (altitude 2000', range 2 nm or heading 20°) is a good rule
+of thumb to determine if you actually have a good sort. In that case, the call
+sounds like: “EAGLE 2, LOCKED, B/E 230, 20, 20,000.”
+
+The response should be one of two possible responses:
+
+“EAGLE 1, SORTED NEAR, B/E 235, 25, 15,000” — lead just told you
+that the flight is sorted and Eagle 2 is sorted far.
+
+or
+
+“EAGLE 1, LOCKED SAME, HEADING 180” — Eagle 1 has used the
+rule of 2s, and the altitude and range of his contact were within two of
+yours.
+
+Now you must look at the heading of your bandit to see if there is greater
+than 20° difference. If good (greater than 20°), call “EAGLE 2, HEADING
+210, GOOD SORT.” If bad (within 20°), call “EAGLE 2 BAD SORT, BAD
+SORT.”
+
+Normally, the first to realize the bad sort will break lock and attempt to
+achieve a valid sort. One caveat is if missiles are already in the air. In this
+case, call “BAD SORT, FOX 3 THERE,” and flight lead will make the call on
+who will break lock and sanitize to find the sort.
+
+
+Text from AAM-7_2_v_X_Intercepts_page_48.jpeg:
+Remember that sorted does not mean locked. Nevertheless, once you are
+sorted, you have a contract to monitor your responsibility and kill when in
+position to do so. Sort on the shortest-range scope you can. This gives the
+largest apparent breakout on the radar. When locking into a near-far
+formation, bring the acq symbols in from the front of the formation to lock the
+lead group, and from the back to lock the trailer. If locking into an azimuth
+sort, come in from outside your man. This helps you lock the correct contact.
+Also, try to lead your lock to allow the contact to “fly” into your mini-raster
+because the radar shows history. Another technique is called spearing. This
+is using the tip of the inside acq symbol to spear your sort contract
+
+(Figure D-11). Generally, lock range is dependent on bandit altitude (WEZ).
+A good rule of thumb for NLT lock range is 20 nm.
+
+F
+L
+[e)
+le)
+D
+R
+Cc
+D
+
+AAM-07-11
+
+Figure D - 11. Moving in and Spearing.
+
+AAM-7 D - 42
+
+
+Text from AAM-7_2_v_X_Intercepts_page_49.jpeg:
+Shot
+
+This is also mission, risk level, weapons load, altitude and threat dependent.
+Weapons employment should be planned and briefed. Brief primary shooters,
+noting the element leads are not required to be the primary shooters. In fact,
+the scenario may drive wingmen as the primary shooters, while the element
+leads hold missiles and keep their radars in RWS, waiting for the dust to
+settle from the initial shots. This is a frequent F-15C employment tactic.
+
+Regardless of your mission or loadout, missile management is always critical.
+Your plan may call for a “shoot-look-shoot” (shoot, assess shot, shoot again if
+necessary) or “shoot-shoot-look” (shoot two, assess shots) option. Typically,
+attempt to shoot at DMC = 30-50. You can increase the DMC by centering
+the dot; if on a CATA intercept, this will consist of a loft. A typical increase
+with a loft is 10-30 DMC. The effectiveness is dependent on the altitudes of
+both the shooter and the target. The goal is a single-shot kill. Monitor initial
+shots and take follow-up shots out of a crank if necessary. After the initial
+shot, crank at least 50-60° cold on the scope (on the fence works well). A
+crank is a hard turn (4-5 Gs) as quickly as possible after the shot. You should
+also descend and slow down (but maintain a tactical airspeed). You need to
+watch bandit maneuvers while maintaining the crank so as not to gimbal.
+Remember the difference between the HUD’s aspect stick and the radar
+B-scope’s relative heading stick; do not confuse the two. During an
+aggressive crank, a quick glance at the radar’s heading stick may make the
+target appear to be maneuvering. Check the target’s displayed heading or
+assess aspect changes via the HUD’s aspect stick. If the situation allows,
+crank in the direction that supports your lead/wingman. The objective of the
+crank is to decrease the bandit’s WEZ and maximize your F-pole. Remember
+that you do not get the expanded F-pole if you are shooting out of TWS, so
+plan to keep the TWS volume on the radar, and use no more than 4 Gs prior
+to MPRF active.
+
+
+Text from AAM-7_2_v_X_Intercepts_page_5.jpeg:
+STUDENT PREPARATION REQUIREMENTS
+
+BEFORE CLASS
+
+1. Study the information contained in the workbook and complete the
+End of Text Quiz.
+
+2. Read AFTTP 3-1, Volume 1, Attachment 1, the Operational Brevity
+Words, Terminology, and Air-to-Air Communications Standards.
+
+
+Text from AAM-7_2_v_X_Intercepts_page_50.jpeg:
+Crank Priorities
+
+The following will give you a basic guideline to help you make the best
+decision. Realize that it is you on the line and any decision is better than no
+decision. Crank priorities are
+
+1. Away from spikes. If you are spiked, you have to assume that
+you are in or close to a WEZ. Crank in the closest direction to
+put the spike on the beam.
+
+2. Away from known factor threats. If other threats are or may be
+
+a factor, crank away to isolate all the threats to one side.
+
+3. With the briefed flow/mutual support. Large packages may
+have a briefed flow; therefore, it would be in your best interest to
+follow it and not be shot by a trigger-happy viper. Otherwise,
+crank with your flight lead to maintain mutual support.
+
+4. Against your bandit and away from his nose.
+
+5. Toward green airspace. GCI or SA will be able to determine
+this.
+
+It is in your best interest to know the picture/threats when you take your
+APG-70 from RWS to STT. Do not forget to communicate your actions so those
+
+around you know what you are doing.
+
+Decision Range
+
+Decision range is the range at which you must decide to press the attack or go
+out. The winning, losing, neutral decision is also made at this range. See
+AFTTP 3-1, Volume 17, Chapter 15 for definitions and explanations.
+
+Abort Range
+
+Abort range is the last-chance range to go out and avoid a merge. See
+AFTTP 3-1, Volume 17, Chapter 15 for definitions and explanations.
+
+Shot Depth
+
+Shot depth is how far into a threat display missiles will be shot. See
+AFTTP 3-1, Volume 17, Chapter 15 for definitions and explanations.
+
+AAM-7 D - 44
+
+
+Text from AAM-7_2_v_X_Intercepts_page_51.jpeg:
+Split
+
+This is guidance provided to the wingman. When the position/maneuvers of
+the target pull the wingmen away from their formation position, they must
+decide whether to leave formation or pass the target to GCI and maintain
+formation. Split criteria are generally briefed as a target aspect at a given
+range. This also applies to pop-up groups inside of meld range. A good rule
+of thumb is to split if bogey/bandit aspect is greater than the range inside
+FBR. It should be briefed whether split criteria is auto or must be requested.
+Regardless, comm should be exchanged to increase all flight members’ SA.
+The basic floating/split comm includes:
+
+e Floating: Target has reached 45° and you must turn to
+maintain radar SA.
+
+e Split: At visual limits. Request to leave formation to prosecute
+the attack.
+
+e Crossing: Crossing lead’s 6 o’clock to maintain radar SA/STT.
+
+Drop/Monitor
+
+Maneuvering bandits can create confusion and a breakdown in your flight’s
+formation integrity. You want to avoid having the target maneuvers scatter
+your flight, lose all mutual support and have little or no SA about the overall
+merge environment. Additionally, and probably more important, you do not
+want to stay in STT on a bandit that is outside of a WEZ for an extended
+amount of time and allow an untargeted bandit to arrive within a WEZ and
+shoot. Generally, monitor or return to search (RTS) when outside of a WEZ
+and:
+
+e target beam aspect, outside of 15 nm
+
+e target drag aspect, outside of 10 nm
+Meeting RTS criteria does not mean “DROP.” You must always maintain SA
+on your targeting/sort responsibility. Try to get a tally-ho or the targeting
+pod on the group before returning to search. Also, select MPRF and 60°
+
+sweep to maintain the highest chance of maintaining hits on the radar.
+
+The “DROP” means that you have handed the responsibility for that group or
+threat to another agency/flight (GCI, F-15C or other A/A assets).
+
+
+Text from AAM-7_2_v_X_Intercepts_page_52.jpeg:
+ALL-ASPECT MISSILE DEFENSE (AAMD)
+
+The key to properly defending is to always know your spike status, shot
+status and range. It is also very important to know whether you were spiked
+before or after your shot, especially when shooting AIM-7s. When offensively
+engaging a threat BVR, you will use a decision and abort range based on the
+threat. AFTTP 3-1 contains a good discussion of recommended decision/abort
+ranges. These ranges will ensure you can defeat any front-quarter shots
+kinematically and be outside of a rear-quarter WEZ after the maneuver. If
+outside abort range, you have a choice to abort or notch. If inside abort
+range, you are forced to notch. To decide if an abort is necessary you need to
+decide if you are winning or losing. In short, if you are naked and supporting
+a missile, you are winning. If you are spiked within the threat’s shot range
+and have not shot, you are losing. If in a losing situation outside abort range
+or if you do not feel you have good SA inside meld, prior to abort range, then
+abort. To perform an abort, slice the aircraft 135° in AB to put the
+bandit/bogey on your tail in minimum time while max performing the aircraft
+(sliceback). If you find yourself in a losing situation inside abort range, make
+a hard descending turn to the notch, dispense chaff, start looking for a tally
+and thinking about IRMD. Asa rule, attempt to abort as a flight or element,
+but notch as a singleton. Remember that the flight lead is the ultimate
+authority. Ifthe flight lead calls an abort, it is directive; the wingman’s call
+is descriptive.
+
+Visual Arena
+
+For most game plans, the goal is to shoot beyond visual range (BVR) and
+remain BVR. However, some conditions/scenarios may require a merge. The
+first thing to do is effectively pass the radar/visual responsibilities between
+cockpits. Denying the bandit tally and acquiring tally is a huge advantage.
+Also, going blind or stripped is a possibility in this phase. Do not keep
+secrets—if you are “BLIND” call it. Call “STRIPPED” if outside briefed
+formation and unable to tactically return.
+
+AAM-7 D - 46
+
+
+Text from AAM-7_2_v_X_Intercepts_page_53.jpeg:
+INFRARED MISSILE DEFENSE (IRMD)
+
+Prior to the merge, IRMD becomes a player. Try to get as much speed as
+possible prior to the 10 nm point. IRMD effectiveness depends on the threat
+missile. In general, against less than fourth-generation heaters, the
+following technique is good. At 10 nm start cooling down by getting out of AB
+if the bandit is hot (> 16 AA). At 8 nm stand up your throttles, if able.
+Around 5 nm, get the power back to idle and flare if you are spiked. If
+performing AAMD, use 8 nm for out of AB, 5 nm stand up the throttles, and
+3 nm power to idle and flares with a break into the bandit to deny IR missile
+shots. Use timing to estimate 8, 5 and 3 nm, and a tally to determine when
+to break into the bandit. Crew coordinate who will employ countermeasures.
+This way both crew members will not put them out at the same time and
+waste them.
+
+Merge
+
+At the merge, the possibility for ACM engaged/supporting roles exists. Use
+proper comm (334 FS/DOW ACM comm handout) so there is a definite role
+for each fighter. If multiple bandits are alive, clearing your flight path and
+maintaining tally visual of all players is imperative. It is important to keep
+the visual to avoid collisions into one another. A second consideration is the
+flow to additional groups. Most likely the supporting fighter is monitoring
+additional groups and will direct the flow to additional groups at the end of
+the engagement.
+
+Egress/Separation
+
+Getting a quick separation is your number one priority when egressing a
+fight. Air-to-air engagements and fireballs tend to draw a crowd and you
+probably do not want to be there when more players arrive. The direction of
+the separation is secondary. Ideally, you would like to separate toward a
+friendly area, but that may not be feasible. So, head “the same way, same
+day” and regroup. Always remember to change your altitude block when
+able. Then turn back to the friendly area as a flight. Just in case the flight
+separates, there needs to be a rendezvous plan. Also, consider your fuel and
+ordnance state when egressing a fight. Have a short-range radar game plan.
+
+
+Text from AAM-7_2_v_X_Intercepts_page_54.jpeg:
+SHORT-RANGE RADAR
+
+Anytime you are clearing a merge or turning the flight to a direction that has
+not been sanitized, employ short-range radar mechanics to clear your flight
+path. Imagine building a bubble around your formation as you roll out on the
+new heading. Always work from near to far. In general, use AUTO GUNS to
+your side of the formation, biased into your AOR. Each sweep in AUTO
+GUNS takes about 6 seconds. After one sweep in your AOR, bias the
+coverage into the other AOR for one sweep. Always remember to look
+visually into the AOR opposite of the AUTO GUNS search. After a frame in
+each AOR (approximately 12 seconds), return to 20 nm scope, MPRF and
+120° sweep. Place acquisition symbols at half scope (10 nm) and set the
+prebriefed altitude coverage for a minimum of one full frame before returning
+to long-range search. Remember that on a 20 nm scope you actually have
+coverage out to 30 nm with the range limited cue capability of the APG-70.
+
+Short-Range Commits
+
+The actions in a short-range commit depend on range. Contacts outside meld
+range will be handled IAW the briefed long-range plan. Remember that
+groups outside meld will be prefaced with core information using DBE
+information.
+
+Inside of meld range, things need to happen fast because we do not have time
+to build a picture and target. Inside of meld, call “POP-UP” with BRA.
+Normally the flight lead will either target you there, or tell you to sanitize
+because he is employing ordnance there. If you see more than one contact,
+call a meld and sort appropriately (Figure D-12).
+
+Inside FBR, the bandit is possibly in a WEZ and there is no time to meld and
+sort. In this case, revert to ACM comm and roles. Call “ENGAGED” with
+BRA (if acquired on the radar) or a clock position (if acquired visually). ID
+and shoot ASAP! The flight lead will call you off using engaged comm if
+necessary. Remember to check your spike status and react accordingly
+(Figure D-12).
+
+AAM-7 D - 48
+
+
+Text from AAM-7_2_v_X_Intercepts_page_55.jpeg:
+40
+
+"GROUP, BULL..."
+
+"POP-UP, BRA..."
+"ENGAGED, BRA..."
+
+AAM-07-12
+
+Figure D - 12.
+
+Defensive Response
+
+Similar to AAMD, the key is to be continuously aware of your spike status. If
+against a correlated threat on the radar, the reaction will be basically the
+same as the previous AAMD discussion. However, in a tactical environment,
+you may be spiked from an unknown bandit. It is paramount to have a plan
+to be able to survive. In general, uncorrelated far spikes (a spike from a
+direction other than the bandits you see on your radar) can be reacted to
+
+offensively. Turn to put a radar in the direction of the spike and use
+
+short-range radar to find, ID and kill. Uncorrelated medium and near spikes
+must be treated differently because the bandit may be in a WEZ. In general,
+the spiked fighter will turn in the shortest direction to the notch and the
+naked fighter will turn to the bearing of the spike, so use short-range radar
+
+and visual lookout to find and kill.
+
+
+Text from AAM-7_2_v_X_Intercepts_page_56.jpeg:
+CONTINGENCIES
+
+The following is a list of different contingencies that may need to be
+
+considered:
+
+AAM-7
+
+If there is a single contact or unsortable group, who locks and
+shoots? That depends on what lead briefs, which is personal
+preference, and depends on the experience level of each flight
+member.
+
+SKOSH/WINCHESTER: Automatic RTB or continue for radar
+SA, ete.
+
+Fighter fallout: Who will pick up primary talker, targeter and
+shooter roles? How will the formation change?
+
+GADGET BENT: Give the “tactical” lead to the good radar and
+fly an offset intercept to the visual arena.
+
+AAI/EID BENT: The good AAI has the hammer on bandit calls.
+
+RWR/CMD/ICS BENT: For CMD, RWR and ICS problems,
+leave it up to each crew to make a personal decision. One
+technique is to have one good RWR in the element and assume
+the same spike status.
+
+Electronic attack (EA): In general, counter deception techniques
+(“MUSIC”) with MPRF and counter noise techniques
+(“STROBES”) with HPRF. In addition, switching radar
+channels and offsetting the formation out of the jamming
+pattern may be effective.
+
+Return to search: Lastly, when does the flight return to search
+and monitor a maneuvering bandit? That is threat dependent,
+but typically use 10 nm for a dragger and 15 nm for a contact in
+the beam.
+
+High fast flyer (HFF): Define the HFF in the brief.
+Engagement will likely include aggressive intercept geometry
+and a climb to obtain near co-altitude and a hot (> 16 AA)
+aspect. Missile choice is also a factor (AIM-7 versus AIM-120).
+
+
+Text from AAM-7_2_v_X_Intercepts_page_57.jpeg:
+END OF TEXT QUIZ
+
+PRF optimizes detection of all-aspect targets at all
+
+ranges.
+
+a. Interleaved
+
+b. Medium
+
+c. High
+
+d. Velocity search
+
+When initiating radar search from the CAP and GCI/AWACS is not
+available, search
+
+a. radar elevation extremes first.
+
+b. radar elevation extremes last.
+
+c. low block first.
+
+d. wherever you want.
+
+Disadvantages of the intercept geometry are:
+
+wingman must clear his own 6 o’clock, leader may lose the visual in
+the endgame and the aircraft merging first may not have offensive
+potential for some time.
+
+a. bracket
+
+b. single-side offset
+c. hook-ID
+
+d. inside-out
+
+The operational brevity code word to describe a target with
+stabilized aspect between 70° and 110° is
+
+a. FLANK/FLANKING.
+b. BEAM/BEAMING.
+
+c. NOTCH/NOTCHING.
+d. DRAG/DRAGGING.
+
+
+Text from AAM-7_2_v_X_Intercepts_page_58.jpeg:
+5. The operational brevity code word to describe a target altitude of
+
+6000 feet is
+a. LOW.
+b. MEDIUM.
+c. HIGH.
+6. Contacts resolved in range will normally be sorted in the
+priority.
+a. side-side
+b. near-far
+c. low-high
+
+AAM-7 E-2
+
+
+Text from AAM-7_2_v_X_Intercepts_page_59.jpeg:
+AAMD
+A/A
+
+A/G
+
+AB
+ACM
+ACO
+ACP
+acq
+AFMSS
+AGL
+AIM
+AOR
+ASAP
+ATO
+AWACS
+B/E
+BRA(A)
+BVR
+CAF
+
+CAP
+
+GLOSSARY
+Aspect angle
+All-aspect missile defense
+Air-to-air
+Air-to-ground
+Air-to-air interrogator
+Afterburner
+Air combat maneuvering
+Airspace control order
+Airspace control plan
+Acquisition
+Air Force mission support system
+Above ground level
+Air intercept missile
+Area of responsibility
+As soon as possible
+Air tasking order
+Airborne warning and control system
+Bull’s-eye
+Bearing, range, and altitude (aspect)
+Beyond visual range
+Combat Air Forces
+
+Combat air patrol
+
+
+Text from AAM-7_2_v_X_Intercepts_page_6.jpeg:
+AAM-7
+
+(This Page Intentionally Blank)
+
+
+Text from AAM-7_2_v_X_Intercepts_page_60.jpeg:
+CAS
+
+CATA
+
+CC
+
+CMD
+
+DBE
+
+DCA
+
+DEZ
+
+DTM
+
+EA
+
+ECM
+
+EGI
+
+EID
+
+EP
+
+EW
+
+EWWS
+
+FBR
+
+FCP
+
+FEBA
+
+FEZ
+
+FLIR
+
+FLO
+
+FLOT
+
+AAM-7
+
+Calibrated airspeed
+
+Collision antenna train angle
+Central computer
+Countermeasures dispenser
+Digital bull’s-eye
+
+Defensive counter air
+Desired employment zone
+Data transfer module
+Electronic attack
+
+Electronic countermeasures
+
+Embedded global positioning system inertial navigation
+system
+
+Electronic identification
+Emergency procedure
+Electronic warfare
+
+Electronic warfare warning set
+Factor bandit range
+
+Front cockpit
+
+Forward edge of battle area
+Fighter engagement zone
+Forward looking infrared
+
+First launch opportunity
+
+Forward line of own troops
+
+F-2
+
+
+Text from AAM-7_2_v_X_Intercepts_page_61.jpeg:
+GCI
+GMTR
+HDTWS
+HFF
+HHQ
+HPRF
+HQ
+HUD
+IAW
+ICS
+
+ID
+
+IFF
+INLV
+INS
+IPRF
+IR
+IRMD
+LD
+
+LL
+
+LNLT
+
+MEZ
+
+MPRF
+
+Ground controlled intercept
+Ground moving target reject
+High data rate track while scan
+High fast flyer
+
+Higher headquarters
+
+High pulse repetition frequency
+Have Quick
+
+Head-up display
+
+In accordance with
+
+Internal countermeasures set
+Identification
+
+Identification friend or foe
+Interleaved
+
+Inertial navigation system
+Interleaved pulse repetition frequency
+Infrared
+
+Infrared missile defense
+Launch and decide
+
+Launch and leave
+
+Lock no later than
+
+Mach
+
+Missile engagement zone
+
+Medium pulse repetition frequency
+
+F-3 AAM-7
+
+
+Text from AAM-7_2_v_X_Intercepts_page_62.jpeg:
+MPSS
+
+MRR
+
+MSL
+
+NAV
+
+NCTR
+
+NLT
+
+hm
+
+OCA
+
+OFP
+
+PACS
+
+PDT
+
+PID
+
+POO
+
+PRF
+
+RCP
+
+ROE
+
+ROT
+
+RTB
+
+RTS
+
+RWR
+
+RWS
+
+SA
+
+SAR
+AAM-7
+
+Mission planning support system
+Minimum risk routing
+
+Mean sea level
+
+Navigation
+
+Noncooperative target recognition
+
+No later than
+
+Nautical mile
+
+Offensive counter air
+Operational flight program
+Programmable Armament Control System
+Primary designated target
+Positive identification
+Point of origin
+
+Pulse repetition frequency
+Rear cockpit
+
+Rules of engagement
+
+Rule of thumb
+
+Return to base
+
+Return to search
+
+Radar warning receiver
+Range while search
+Situational awareness
+
+Search and rescue
+
+
+Text from AAM-7_2_v_X_Intercepts_page_63.jpeg:
+SD
+
+SEAD
+
+SIF
+
+SPINS
+
+SRM
+
+SSO
+
+STT
+
+TD
+
+TDA
+
+TEWS
+
+TOLD
+
+TOT
+
+TSD
+
+UFC
+
+VID
+
+WEZ
+
+WOD
+
+WSO
+
+Shot depth
+
+Suppression of enemy air defenses
+Selective identification feature
+Special instructions
+
+Short range missile
+
+Single-side offset
+
+Single target track
+
+Target designator
+
+Target density altitude
+
+Tactical electronic warfare system
+Takeoff and landing data
+
+Time on target
+
+Tactical situation display
+
+Track while scan
+
+Upfront control
+
+Visual identification
+
+Weapon employment zone
+
+Word of the day
+
+Weapon systems officer
+
+
+Text from AAM-7_2_v_X_Intercepts_page_64.jpeg:
+BACK PAGE
+COVER SHEET
+
+
+Text from AAM-7_2_v_X_Intercepts_page_7.jpeg:
+TEXT
+MISSION PLANNING
+
+One of the most important aspects contributing to mission success is
+premission planning. When planning for a mission, remember that there
+is no single, best solution to any given tactical situation. The prudent
+flight leader considers all available tactical options to develop a game plan
+that accomplishes the mission objectives and is executable by the
+least-experienced member of the flight.
+
+Mission Planning Sources
+
+Air Tasking Order (ATO)
+
+The first source available for mission planning is the ATO. It is commonly
+referred to as the frag and is written by the theater air component
+commander. It directs the mission and the required assets. The mission
+objectives drive all the subsequent planning and are balanced with force
+survival to arrive at the combat plan. The frag also contains information
+the individual flight leads will need to execute the mission. It will list the
+call signs, ordnance, targets, TOTs, mission commander, package
+elements, tanker information and any other support assets. Special
+instructions (SPINs) and notes usually accompany it. Each mission will
+be directed to the notes that will give additional information about the
+mission or package. The SPINs and notes provide the coordination
+instructions for composite force operations and include general
+information that could explain the objectives or emphasize areas of
+command concern. The SPINs are usually broken down into monthly,
+weekly and daily SPINs. The monthly SPINs contain general information
+or things that do not change; e.g., the overall engagement criteria, the
+EID/PID criteria, the active tanker tracks, etc. The weekly SPINs contain
+information that changes more rapidly; e.g., radio frequencies, code words,
+changes to the monthly SPINs, etc. The daily SPINs have only those
+things that change on a daily basis; e.g., IFF modes and codes, transition
+levels or SAR codes. All of these documents should be checked to make
+sure they all agree and do not hamper the mission. Changes to the ATO
+or SPINs must be coordinated through the ATO production agency.
+
+
+Text from AAM-7_2_v_X_Intercepts_page_8.jpeg:
+Airspace Control Order (ACO)/Airspace Control Plan (ACP)
+
+The ACO is used to implement airspace control procedures. The aircrew
+must be intimately familiar with this document to prevent degradation of
+friendly air defense tactics or even worse, being shot down by friendly
+forces. Key information listed in the ACO includes minimum risk routing
+(MRR), missile engagement zones (MEZs), fighter engagement zones
+(FEZs), kill zones, kill boxes, preset CAP points, AWACS orbits and
+tanker tracks.
+
+Intelligence
+
+The intelligence section provides “big picture” data concerning the
+air/ground/electronic order of battle. Intelligence also provides some
+detailed information concerning enemy defenses, probable points of
+encountering defenses, number of and type of systems, avionics capability
+and tactics (observed and estimated). One approach to using intelligence
+is to build a big picture, then develop the plan. Fine tune the plan with
+detailed analysis of available intelligence data.
+
+Weather
+
+The weather shop estimates weather conditions for the area of operations.
+Use this data to determine how weather may limit or enhance some of
+your options. Consider tops and bottoms of cloud layers, visibility, contrail
+level, solar azimuth and elevation, moon illumination, weather
+restrictions at divert fields and how the weather may affect the support
+assets. Weather condition estimates are likely to be less accurate the
+further you operate from friendly territory.
+
+AAM-7 D-2
+
+
+Text from AAM-7_2_v_X_Intercepts_page_9.jpeg:
+Mission Planning Considerations
+
+With the “big picture” data, you are ready to plan the specifics for your
+mission. The following list is not all-inclusive, but contains some
+considerations for mission planning.
+
+Weather
+
+Cloud layers may force you higher or lower than the desired altitude.
+Consider how much clear air above and below the cloud layers will be
+optimum for visual lookout and threat reactions; the minimum altitude
+may be spelled out for you in the ROKs. Contrails highlight you visually
+but can be used to limit your radar search. In-flight visibility may force
+the flight into tighter visual formations (reducing 6 o’clock coverage) or
+may force a detached mutual support formation (radar trail), limiting the
+wingman’s radar lookout. Sun angle may determine an offset direction
+and final attack geometry. TDA/IR visibility may also influence the
+attack profile or direction. If at night, moon illumination and elevation
+need to be considered. Winds, at altitude and for the weapon time of fall,
+must be considered when planning the mission; severe crosswinds or
+head/tailwinds may be a determining factor for target attacks and fuel
+planning. Finally, weather is a factor in determining fuel requirements
+for diverts, or which diverts are even available.
+
+Terrain
+
+Selection of ingress and egress altitudes involves a number of trade-offs.
+Consider the mission objective, threat capability, crew workload and radar
+detection as the primary issues when determining penetration altitudes.
+Terrain masking may offer good concealment but may limit your own
+radar detection and weapons capabilities. Low altitude may severely
+affect friendly GCI capability. MSL versus AGL must be considered for
+threat assessment, ejection altitudes, RWR considerations and weapons
+effects. Do not forget to determine radar blind zones and possible ambush
+CAP locations for your own formation’s radar game plan.
+
+

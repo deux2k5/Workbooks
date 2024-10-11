@@ -1,0 +1,2887 @@
+Text from AGD-3_Basic_Bombing_page_1.jpeg:
+SUPPORTS COURSES
+FIS5EBQ
+FISETX
+
+ACADEMIC STUDENT WORKBOOK
+F-15E
+
+AIR-TO-GROUND DELIVERY
+AGD-3
+BASIC BOMBING
+
+APRIL 1999
+
+(OFP N/A)
+
+AIR COMBAT COMMAND
+
+
+Text from AGD-3_Basic_Bombing_page_10.jpeg:
+Distance Traveled Calculations
+
+In working bombing problems, the traditional time distance relationship
+applies:
+
+distance _
+time
+
+eed
+
+or
+
+distance = speed x time
+
+As always, consistent units must be used throughout calculations. In most
+bombing problems speeds are specified in knots true airspeed (KTAS), times
+are specified in seconds, and distances are specified in feet. These are not
+consistent units; so conversion is necessary.
+
+The following conversion factors apply:
+
+Inm _ 6076 ft -16 ft
+
+1 knot = = =],
+hr 3600 sec sec
+
+A sample calculation is made to find the distance (D) traveled in 5 seconds if
+the speed is given as 475 KTAS:
+
+D = speed x time x conversion factor
+D=475 kt x 5 secx 1.69 ft/sec/kt
+D = 4013.75 ft
+
+AGD-3 D-4
+
+
+Text from AGD-3_Basic_Bombing_page_11.jpeg:
+Crosswind Corrections
+
+Crosswind corrections (Figure D-2) are generally referred to as “drifting” or
+“crabbing.” These terms really only have meaning relative to a fixed run-in
+line. If you fly the planned run-in heading and drift toward the target as the
+sight drifts toward the release aim point, you are drifting. If you adjust the
+attack heading upwind so as to parallel the run-in line, you are crabbing.
+Regardless of which method you use, the pipper must end up on the same
+release aim point (RAP)—there is only one.
+
+<WIND
+
+RAP (RELEASE
+AIM POINT)
+
+(EXPANDED FOR
+ILLUSTRATION)
+
+RUN-IN LINE
+
+CRAB DRIFT
+
+AGD-03-02
+
+Figure D - 2. Crosswind Corrections.
+
+D-5 AGD-3
+
+
+Text from AGD-3_Basic_Bombing_page_12.jpeg:
+In this example (Figure D-2), the wind is a direct crosswind. For a no drag
+bomb, the crab line would be on the run-in line, and for a high drag bomb, it
+would be only slightly upwind.
+
+Zero Sight Line
+
+This is the reference from which all sight settings are measured; it is the
+sight line which exists at 0 mils. In the F-15E, the zero sight line (ZSL) is
+represented by the gun cross and is 2° above the fuselage reference line
+(waterline) which is not displayed in the A/G master mode (Figure D-8).
+
++ ZERO SIGHT LINE
+
+ZSL AOA
+
+O- FLIGHT PATH
+) SDFP
+
+DEPRESSED SIGHT
+LINE
+
+AGD-03-03
+
+Figure D - 3. Zero Sight Line.
+
+ZSL Angle of Attack (AOA)
+
+ZSL AOA is the angle between the ZSL and the flight path vector. AOA is
+related to gross weight, calibrated airspeed, and dive angle.
+
+Sight Depression from Flight Path (SDFP)
+
+SDFP is the angular difference between the impact point of the aircraft and
+the impact point of the bomb. It varies with dive angle, airspeed, altitude,
+bomb range, and is expressed in milliradians (mils).
+
+Sight Setting
+
+ZSL and SDFP are extracted from weapons delivery tables for airspeed and
+
+dive angle, and are summed to obtain sight setting mils to be set in the A/G
+delivery display.
+
+AGD-3 D-6
+
+
+Text from AGD-3_Basic_Bombing_page_13.jpeg:
+Aim-off Distance (AOD)
+
+After release, the bomb is accelerated downward by gravity and slowed by
+aerodynamic drag. These factors cause the bomb to travel along a curved
+path and to impact the ground some distance short of the aircraft’s extended
+flight path. The ground distance between the target and the projected flight
+path intersection with the ground is called the aim-off distance (Figure D-4).
+It is important to understand AOD, since it is a basic parameter for manual
+bombing, and is also important for computed deliveries. It is the ground
+distance subtended by SDFP at release. This distance can be computed using
+triangulation, or it can be determined using Dash 34 charts. Once the
+distance is known, an aim-off point (AOP) can be determined. This AOP does
+not change throughout the pass and is useful for rollout and for tracking
+analysis. The best wind-corrected reference for the AOP is the velocity
+vector. In other words, during a perfect dive bomb pass, the velocity vector
+remains exactly on the aim-off point.
+
+r +  ZSL
+
+ZSL AOA
+O-  AOP
+
+AOD<
+L<<fS> TET
+
+SDFP
+IPP
+RETICLE
+DEPRESSED
+
+AGD-03-04
+
+Figure D - 4. Aim-off Distance.
+
+The initial pipper placement (IPP) is also important at rollout to track to the
+target at bomb release. The IPP is the distance the pipper is short of the
+target at the track point altitude.
+
+D-7 AGD-3
+
+
+Text from AGD-3_Basic_Bombing_page_14.jpeg:
+TYPES OF MANUAL WEAPONS DELIVERIES
+Level
+
+The term “level delivery” refers to any attack with a planned delivery angle of
+0-4° of dive/climb. This type of delivery is normally conducted at low altitude,
+but can be conducted at any altitude.
+
+Release Conditions
+
+The release parameters are relatively easy to achieve. Probably the most
+difficult parameter to achieve is to be in exactly level flight (i.e., exactly 1 G).
+When using a fixed sight, small pitch deviations cause significant range
+errors.
+
+Using manual delivery modes, altitude is limited by the available sight
+depression. You have to be able to see the target over the aircraft nose.
+
+Accuracy
+
+The accuracy of the low level attack is quite good if the target can be
+positively identified. This is because bomb range is relatively short. As
+altitude and bomb range increase, aiming errors are magnified and accuracy
+suffers. Because of this, the level attack is normally a low altitude attack
+profile.
+
+Target Detection
+
+For a large target with vertical development, detection ranges are quite good.
+Because of the very shallow look angles, if the target is small, hidden, or has
+no vertical development, detection may be delayed to the point where steering
+corrections cannot be made prior to release. Indeed, the target may not be
+detected at all.
+
+Exposure
+
+One of the primary advantages of the low level attack is your ability to avoid
+detection by the enemy. However, you are in the heart of the AAA envelope.
+At low altitude, your own weapon frag is a threat. A relatively minor loss of
+altitude could lead to disaster.
+
+AGD-3 D-8
+
+
+Text from AGD-3_Basic_Bombing_page_15.jpeg:
+Climbing
+
+The climbing attack refers to any profile involving a release in a climbing
+attitude. A long range attack with a low drag weapon released in a climb is
+called a loft. The other climbing attack is called the LADD (low altitude
+drogue delivery), which is used to deliver nuclear weapons.
+
+Release Conditions
+
+Release conditions are relatively difficult to predict and achieve. Very small
+variations in climb angle can result in large range variations. For loft,
+release normally occurs 2-4 nm from the target and at a climb angle of 5-40°.
+For LADD, release will normally occur virtually over the target and at a
+climb angle of 45°. Large climb angles can produce disorienting flight
+conditions, and may be restricted by low ceilings.
+
+Accuracy
+
+Bombs delivered from a climb have a long time of flight. Low drag bombs
+delivered from a loft have a very long range. The long time of flight means
+large wind correction factors, making bombing in a wind quite difficult. The
+long bomb ranges associated with loft deliveries (about 20,000 feet) amplify
+any aiming errors. These two sources of error combined make bombing of
+point targets with general purpose bombs a challenge, at best, using a
+noncomputed system.
+
+Target Detection
+
+Since the climbing attack is conducted from low altitude, target detection
+problems are the same as for the low level attack. These problems are
+further complicated by the very long bomb ranges. In fact, during a loft, it is
+quite likely you will not see the target.
+
+Exposure
+
+Once again, approaching at low altitude reduces the enemy’s ability to detect
+your presence. However, during the pull-up and recovery, you are vulnerable
+to detection and attack. Fortunately, this portion of the attack is short, and
+the recovery maneuver itself constitutes a defensive maneuver. Except for
+nuclear weapons, escaping weapons effects is not normally a problem.
+
+D-9 AGD-3
+
+
+Text from AGD-3_Basic_Bombing_page_16.jpeg:
+Diving
+
+The diving attack refers to any delivery profile with a planned dive angle of
+5° or greater.
+
+Release Conditions
+
+Release conditions are relatively difficult to achieve during a diving attack.
+For the low angle/low altitude attack, release range is relatively easy to judge
+and is not terribly sensitive to small variations in parameters. For the high
+angle/high altitude attack, release range is quite difficult to judge and is very
+sensitive to small variations in parameters.
+
+Accuracy
+
+The accuracy of low angle/low altitude dive bombing is quite good. As dive
+angle and release altitude are increased, accuracy drops off; but this is
+partially compensated for by better target acquisition, and accuracy remains
+acceptable.
+
+Target Detection
+
+Because of the steeper look angle and viewing time, target detection is very
+good. In fact, many times a lookdown on the target is the only way to
+visually acquire it.
+
+Exposure
+
+For the high altitude roll-in and pull-off, exposure to enemy fighters, certain
+SAMs, and large caliber AAA are definite factors and must be considered in
+planning the attack. If a pop-up maneuver is employed, exposure is minimal
+prior to the pop. In the pop, exposure is high; but if the attack is properly
+planned and executed, the duration is brief.
+
+AGD-3 D-10
+
+
+Text from AGD-3_Basic_Bombing_page_17.jpeg:
+QUESTIONS
+
+The reference line from which sight mil settings are measured is the
+
+po op
+
+aircraft waterline.
+fuselage reference line.
+zero sight line.
+
+missile boresight line.
+
+If you fly an adjusted run-in heading which causes you to parallel the
+“planned” run-in line, you are
+
+a. drifting.
+
+b. crabbing.
+
+Accuracy of the level attack is better at altitude.
+a. low
+
+b. high
+
+Release conditions for the loft attack are
+
+Ro op
+
+easy to predict but difficult to achieve.
+difficult to predict and achieve.
+
+easy to predict and achieve.
+
+difficult to predict and easy to achieve.
+
+For ease of visual target identification, the best attack profile is
+
+a.
+b.
+e.
+
+level.
+climbing.
+diving.
+
+D-11 AGD-3
+
+
+Text from AGD-3_Basic_Bombing_page_18.jpeg:
+ANSWERS
+
+1. ¢
+2. b
+3. a
+4. b
+5. Cc
+
+AGD-3 D-12
+
+
+Text from AGD-3_Basic_Bombing_page_19.jpeg:
+WEAPONS DELIVERY RECOVERY MANEUVERS
+General Considerations
+
+Before looking at specific recovery maneuvers, briefly look at some general
+considerations. To determine your release altitude, consider safe escape, safe
+separation, fuze arming, altitude lost during the dive recovery, and the
+desired weapons effect. The highest applicable altitude/time must be used.
+Safe escape data from your weapons is given for specific escape maneuvers.
+Safe escape from weapon fragmentation and ground avoidance are the
+primary considerations in recovering from any attack.
+
+If you do not exactly follow the specific maneuver guidelines, you may
+significantly increase your probability of being struck by fragmentation from
+your weapons. Safe escape/safe separation data considers all weapon
+fragments except an extreme few such as lugs, hardbacks, fuze wells, etc.
+The probability of one of these objects being aimed at the delivery aircraft is
+very small. It is operationally accepted that with a properly flown escape
+maneuver, the probability of being hit by one of these fragments is less than
+or equal to 1 chance in 1000 when releasing at minimum altitude.
+
+Safe Escape/Safe Separation
+
+Safe Escape
+
+This is the minimum safe distance between the aircraft and a bomb which
+explodes at impact. It is normally expressed as a minimum release altitude.
+You must consider this for all bombs. Remember, safe escape does not
+consider secondary explosions which may drastically change the frag pattern.
+For proximity fuzed GP bombs, the detonation altitude must be added to the
+minimum release altitude for safe escape.
+
+Safe Separation
+
+To avoid the frag of a bomb which explodes at the end of the arming time, a
+safe separation distance must exist between the bomb and the aircraft when
+the arming timer expires. Safe separation is the same distance as safe escape
+but is normally expressed as a minimum time of fall, in seconds. You are
+required to determine and achieve this for all bombs, but it is critical for
+bombs equipped with proximity fuzes and certain CBUs. This distance
+determines the minimum fuze arm time setting (allow for negative fuze
+tolerances). Positive fuze arm tolerance dictates the minimum altitude
+required to guarantee the bomb is armed at impact.
+
+D-13 AGD-3
+
+
+Text from AGD-3_Basic_Bombing_page_2.jpeg:
+ADMINISTRATIVE INFORMATION
+
+This student workbook is designed to provide information on the F-15E,
+its systems, and capabilities. It is not a sole source document, but is to be
+used in conjunction with other standard Air Force publications and
+technical manuals. If you find any differences between the material
+contained herein and other governing regulations, adhere to the
+regulations and notify the OPDR.
+
+Changes to this workbook are indicated with a heavy black line in the left
+margin.
+
+Forward recommendations for revision or change to 4 TS, SJAFB, NC,
+275381.
+
+Supersedes: AGD-3, December, 1997
+
+OPDR: 4TS
+
+Index of Changes
+
+Effective Date Pages Affected
+
+
+
+Text from AGD-3_Basic_Bombing_page_20.jpeg:
+Ground Clearance
+
+Safe escape data provides minimum release altitudes for frag avoidance. In
+addition, for diving deliveries, altitude loss during multiple releases and dive
+recovery is included for ground avoidance. The data is based on a zero foot
+clearance plane. If the wing or squadron does not establish required ground
+clearance, the crew must determine how much ground clearance is required
+for recovery from a diving delivery.
+
+Detailed instructions on the use of safe escape/safe separation data is
+contained in TO 1F-15E-34-1-3 and TO 1-1M-34, Section VI.
+
+Recovery Maneuvers
+
+Minimum altitudes for dive recovery and safe escape are computed in CWDS.
+Minimum altitudes are based on the aircrew flying one of the following
+escape maneuvers after release.
+
+1. Level Straight Through Maneuver (LST) (Figure D-5). This maneuver is
+used with level deliveries only and consists of maintaining a level,
+constant speed flight profile for at least 3 seconds plus the TOF of the
+last bomb released.
+
+pe AT TOF + 3 SEC RELEASE |
+
+AFTER RELEASE OF LAST BOMB, THE LST PROFILE MUST BE CONTINUED FOR AT LEAST
+THREE SECONDS PLUS TOF OF THE LAST BOMB OF THE RIPPLE.
+
+NOTE
+
+THE LST MANEUVER IS USED ONLY WITH LEVEL RELEASE
+AGD-03-06
+
+Figure D - 5. Level Straight Through Maneuver.
+
+AGD-3 D-14
+
+
+Text from AGD-3_Basic_Bombing_page_21.jpeg:
+Climbing Maneuver (Figure D-6). This maneuver is used for deliveries
+using 0-60° of dive. The maneuver is begun after weapon release with a
+5.0 Gin 2 seconds pull. Military power is applied as the nose reaches
+the horizon and G is maintained to a 20° climbing flight path angle. Gis
+then relaxed as the climb angle is increased to 30°. The minimum
+release altitudes for this maneuver allow for bank angles of up to 30°
+during the recovery. Once a 30° climb is established, the escape
+maneuver is complete and target egress may be initiated.
+
+EGRESS AT
+30° CLIMB ———>
+PULL 5 Gs
+
+“Sag IN 2 SEC \ a é
+
+REDUCE G RELEASE
+
+NOTE
+
+THE ESCAPE MANEUVER TERMINATES AFTER REACHING THE 30 DEGREE FLIGHT
+PATH ANGLE. THE MINIMUM RELEASE ALTITUDES DEPICTED FOR THIS ESCAPE
+MANEUVER ALLOW FOR BANK ANGLES UP TO 30 DEGREES DURING RECOVERY.
+
+AGD-03-07
+
+Figure D - 6. Climbing Maneuver.
+
+D-15 AGD-3
+
+
+Text from AGD-3_Basic_Bombing_page_22.jpeg:
+3. Turning Maneuver (Figure D-7). This maneuver is used for deliveries
+using 0-20° of dive. The maneuver requires 5 Gs for at least 60° of turn
+to ensure separation and normally results in a descending turn away
+from the target. At release, simultaneously select mil power to attain
+5 Gs in 2 seconds while rolling as required (60-85° of bank) to initiate
+the turn and decrease dive angle to approximately 5°. Maintain the 5 Gs
+for at least 60° of turn and vary bank to control flight path vector and
+rate of descent. Guard against an increased bank angle and/or reduced
+G which may result in a very nose low altitude. If necessary, reduce
+bank angle and increase G to ensure terrain clearance while achieving
+60° of turn. Failure to achieve 60° of turn may result in
+self-fragmentation. Once 60° of turn is achieved, the escape maneuver is
+complete and target egress may be initiated.
+
+This safe escape maneuver is not authorized for use in ACC
+
+aircraft.
+PULL 5 Gs IN 2 SEC
+WHILE ROLLING TO
+60-85° OF BANK
+TURN MINIMUM
+OF 60°
+(5° OF DIVE)
+
+INCREASED BANK ANGLE AND/OR INSUFFICIENT G MAY RESULT IN VERY LOW PITCH ATTITUDES.
+BANK ANGLE SHOULD BE DECREASED AND G INCREASED TO REDUCE PITCH ATTITUDE AND
+INSURE TERRAIN CLEARANCE WHILE CONTINUING TO MANEUVER FOR 60 DEGREES OF TURN.
+FAILURE TO ACHIEVE 60 DEGREES OF TURN MAY RESULT IN SELF-FRAGMENTATION.
+
+AGD-03-08
+
+Figure D - 7. Turning Maneuver (0-20° of Dive).
+
+AGD-3 D-16
+
+
+Text from AGD-3_Basic_Bombing_page_23.jpeg:
+Level Turning Maneuver (Figure D-8). This maneuver is also used for
+deliveries using 0-20° of dive and results in a turning escape maneuver
+that is level rather than descending. At release, simultaneously select
+mil power and attain a wings level pull of 5 Gs in 2 seconds. As the nose
+approaches the horizon, use a loaded roll (2-5 Gs) to establish a level
+turn. Maintain 5 Gs through at least 60° of turn to ensure safe
+separation. Again, guard against increased bank angles or insufficient
+G which could result in a very nose low altitude or failure to complete
+60° of turn in time to ensure safe separation. Once 60° of turn is
+complete, target egress may be initiated.
+
+This safe escape maneuver is authorized by ACC over land with
+a discernable horizon.
+
+WINGS LEVEL
+PULL TO HORIZON
+(5 Gs)
+
+LOADED ROLL TO
+5 G LEVEL TURN
+
+RELEASE
+
+TURN MINIMUM
+OF 60°
+
+AGD-03-09
+
+Figure D - 8. Level Turning Maneuver (0-20° of Dive).
+
+D-17 AGD-3
+
+
+Text from AGD-3_Basic_Bombing_page_24.jpeg:
+5. Backup Escape Maneuver. This maneuver is designed for use when
+unexpected terrain, weather, or threats preclude use of the planned safe
+escape maneuver. It is not to be used as a primary escape maneuver.
+The maneuver is designed to provide reasonable assurance of safe escape
+for most anticipated situations assuming the release altitude is greater
+than or equal to the minimum release altitude provided for turning
+maneuver safe escape. The maneuver is initiated by establishing a 5 G
+in 2 seconds pull. As the nose approaches the horizon, select mil power
+and maintain 5 Gs until 20° of climb or 60° of heading change has been
+achieved. If executing a climb, relax G at 20° as climb angle is increased
+to 80°. The maneuver is complete and target egress may be initiated
+when 30° of climb or 60° of heading change is achieved.
+
+AGD-3 D-18
+
+
+Text from AGD-3_Basic_Bombing_page_25.jpeg:
+CWDS Data
+
+Figure D-9 is an example of the data in a CWDS product for a climbing
+maneuver recovery. Note that the minimum release for a 30° dive at 500
+KTAS is 2470 feet AGL to achieve safe escape from your bomb and equates to
+a 4.86 second safe separation time. It is also well above the 1370 foot release
+required to avoid the ground on pullout.
+
+F15E PW220 W/CFT MAX FRAG TRAVEL
+MK-84 LD
+5G CLIMB MANEUVER ALTITUDE (FT) HORIZONTAL (FT) TOF (SEC)
+
+OFT TDA 2855 3295 28.9
+
+RELEASE | SAFE ESCAPE
+P SINGLE RIPPLE - 2 BOMBS
+
+30 MSEC 75 FEET 150 FEET
+
+MRA IMP | MRA _sINTV| MRA _ INTV
+KNOTS} FEET FEET FEET |FEET MSEC|}FEET MSEC
+
+1370 2470 4.86
+30.0 525 1490 2540 4.81
+30.0 550 1610 2600 4.75
+30.0 575 1720 2670 4.70
+30.0 600 1840 2760 4.70
+
+8
+8
+8
+8
+7
+7
+7
+7
+7
+7
+7
+7
+6
+6
+6
+
+AGD-03-10
+
+Figure D - 9. Safe Escape CWDS.
+
+Two other considerations that must be made are finding a fuze setting that
+exceeds safe separation and separation from other aircraft bombs dropped in
+front of you.
+
+D-19 AGD-3
+
+
+Text from AGD-3_Basic_Bombing_page_26.jpeg:
+Fuze Arming Distance
+
+Fuze arming distance for a particular fuze is the vertical distance below the
+aircraft where the fuze becomes armed. Most fuzes have several timer
+settings. Selection of an acceptable fuze arming delay setting for a particular
+mission is based on the safe escape data, type of fuzing (contact or proximity),
+and operational considerations. Fuze arming data is computed by CWDS for
+release conditions and desired fuze settings. A setting above the safe
+separation time is required and will force a release altitude above safe escape
+altitude to preclude a dud bomb.
+
+Vertical drop required for fuze arming is independent of release G, but is
+dependent on dive angle and TAS. If bomb impact occurs within the fuze
+arming distance, a dud bomb is probable. The arming delay setting plus the
+positive tolerance and inherent fuze delays are used by CWDS in the
+determination of the vertical drop required for safe separation defined in
+Figure D-9 as MRA (minimum release altitude). Current tolerances on
+arming delays and delays for these fuzes are listed in TO 1-1M-34.
+
+AGD-3 D - 20
+
+
+Text from AGD-3_Basic_Bombing_page_27.jpeg:
+Fragmentation Envelope
+
+In addition to avoiding the fragments of your own weapons, you must avoid
+fragments of another aircraft’s exploding weapon. You must know where
+their fragmentation will be at any time after an explosion. Within the
+limitations of certain simplifying assumptions, this information is generated
+and presented in TO 1-1M-34, section VI in tabular format (Figure D-10) and
+is also shown at the top of CWDS safe escape tables (Figure D-9, page D-19).
+Note that the data in the CWDS product may differ slightly from the chart in
+TO 1-1M-34 but appears to be more conservative.
+
+MAXIMUM BOMB FRAGMENT TRAVEL
+
+ALTITUDE HORNE TIME OF FLIGHT
+(FEET) (SECONDS)
+
+(FEET)
+MUNITION
+
+UNITARY WARHEADS
+M22 2140 | 2500 | 2550 | 2900 24.4 25.9
+
+ALL TYPES
+
+INTACT CLUSTERS
+
+CBU-52B /B
+CBU-58/B, A/B 1895 2140 2290 2595 23.0 24.4
+71/B,A/B
+
+*TDA = TARGET DENSITY ALTITUDE
+
+AGD-03-05
+
+Figure D - 10. Fragmentation Envelope.
+
+The table gives the maximum dimensions of a frag envelope. While
+fragments are airborne, flight inside the envelope is not reeommended. When
+using the table, consider all bombs dropped in your proximity. You must
+avoid at least one of the three dimensions of altitude, horizontal distance, or
+
+time.
+
+D-21 AGD-3
+
+
+Text from AGD-3_Basic_Bombing_page_28.jpeg:
+BALLISTIC COMPUTATIONS
+Basic Considerations
+
+With the advent of computed bomb release systems, the amount of number
+crunching in mission planning has been considerably reduced. There may
+still be a need to deliver bombs manually, however. There are several ways
+to come up with the hip pocket mil settings you need to carry with you.
+
+TO 1-1M-34 contains planning checklists which provide a step-by-step
+procedure to generate mission data. This is by far the most time consuming
+method but it works when computer programs are unavailable. However,
+some data is only available in the computer and hard copies of common
+deliveries should be maintained.
+
+A quicker method is to use one of the squadron’s computer programs to
+generate all the mission data.
+
+Data Requirements
+
+Regardless of which method you choose to produce your mission data, you
+must bring certain information to the problem.
+
+Target Data
+
+As you begin this phase of a mission plan, you have already determined the
+target and the weapon to be used against it. This information is usually
+given to you in an air tasking order. You need to know the target elevation to
+be able to compute release indicated altitude. Additionally, you need density
+altitude, or pressure altitude and temperature, to determine safe escape and
+ballistics.
+
+Weapon Data
+
+The specific weapon determines the set of tables to use. You also need some
+information about the fuze. Specifically, you need to know the type (i.e.,
+proximity, impact, or timed) and the arm time, which may or may not be
+predetermined. Last, you must know any special requirements such as
+desired area coverage, pattern length/density, or impact angle.
+
+AGD-3 D - 22
+
+
+Text from AGD-3_Basic_Bombing_page_29.jpeg:
+Delivery Data
+
+Much of this information is determined before you begin ballistics
+computations. In some cases (e.g., specific impact angle required), you must
+enter the tables with the hard requirements and work backwards to get a
+release airspeed, altitude, and dive angle. Whichever approach you take, you
+must have dive angle, release airspeed, release sequence (number and
+interval of bombs), required ground clearance, and aircraft gross weight. At
+this time, you must also determine the type of recovery maneuver you intend
+to use.
+
+The Big Picture
+Whether you use computed deliveries or manual methods, your delivery and
+resulting target destruction are significantly affected by your ability to
+
+position the aircraft precisely.
+
+The big picture as seen from above is shown in Figure D-11.
+
+TRACK RELEASE AIM-OFF
+
+icy i
+RADIUS POINT POINT TARGET POINT
+HORIZONTAL BOMB RANGE AIM-OFF
+TRACK DISTANCE
+DISTANCE
+
+BASE LEG
+
+AGD-03-11
+
+Figure D - 11. Dive Bomb Pass (Overhead View).
+
+D - 23 AGD-3
+
+
+Text from AGD-3_Basic_Bombing_page_3.jpeg:
+AIR-TO-GROUND DELIVERY
+
+=)
+
+—
+Dif —t_t_Wyp y g hon oo
+
+COVER
+
+BASIC BOMBING
+
+INTRODUCTION
+
+This workbook is your guide to the basic bombing problem. It outlines the
+various delivery profiles and leads you through the basic steps to plan and
+execute a manual delivery in the F-15E.
+
+CONTENTS:
+
+INTRODUCTION 0000. eeecccesnceceeseeceseeeessaeecssaeecessaeeessaesensaeesesaeeens A-1
+CRITERION REFERENCED OBJECTIVES (CROs).............eeeeseeeeeeeeees B-1
+STUDENT PREPARATION REQUIREMENTS . 0.000. eeeeeeeeeee C-1
+CEE os ses sans sos cores nos nas ois cua cares canis ans as RSA SNS Onis aU KUNE kK NewS SHES KoRKG MU NaS HSS aUD KR D-1
+END OF TEXT QUIZ... ceeseeeeseecessneecssaeecessaeesessaeeseseeeeeaees E-1
+(ina) F-1
+HANDOUT 000 eeecceceesnceceseeeeesacecesneecesaeecesaeecssaeeeessaeesesaeesssaeesesaees G-1
+
+A-1 AGD-3
+
+
+Text from AGD-3_Basic_Bombing_page_30.jpeg:
+When you look at the bombing triangle in profile (Figure D-12), you can see
+how the vertical and horizontal components can be combined to give you a
+distance from, and an altitude above the target to establish a consistent base
+leg.
+
+TURN RADIUS (3.5 Gs)
+ALT LOST
+ROLL-IN
+
+: aS » TRACK POINT ALT
+
+ALT LOST
+
+AGL TRACKING*.
+BASE 2 ye i.
+LEG
+ALT
+RELEASE :*.
+
+ALTITUDE: ~
+
+AIM-OFF
+
+HORIZONTAL HORIZ TRK |
+DISTANCE
+
+TURN RADIUS DIST
+
+TRACK POINT DISTANCE
+MINIMUM ATTACK PERIMETER
+
+i BASE LEG TO TARGET»
+i DISTANCE FROM BASE TO AOP >
+
+BOMB RANGE _ |
+
+AGD-03-12
+
+Figure D - 12. Bombing Triangle.
+
+Procedures
+
+The intent here is not to make you an ace at computing mil settings, but to
+
+review the general process and point out some areas of the procedures that
+
+should be accomplished even when you fully intend to use a computed mode
+such as AUTO or CDIP. After establishing your preliminary data, the first
+
+thing you must do is determine the release altitude.
+
+AGD-3 D - 24
+
+
+Text from AGD-3_Basic_Bombing_page_31.jpeg:
+Sample Problem
+
+To see how all of this works, follow through the sample problem.
+
+As'(c)- 010) re BDU-33 D/B, SUU-20
+AUVSPee 0........cccccessssccccceceeessesssssceeeeeeceeeeessesssseeeeeeees 475 KCAS (500 KTAS)
+TUT A cer ser er ee re ee ee ee ee ee eee see see see see 2 30°
+
+Aircraft Weight ............ccccccccccccccccccccccecceeeeeeeeeeeeeeeeees 55,000 pounds
+Release Altitude..........ccccccccccccccesesseesteeeeeeeeeeeeseeesaees 4000 feet AGL
+
+Target Temperature .............ccccccceessessesesssesessesssesees 13°C
+
+Target Pressure Altitude ..............ccccccseeessssssseseeseeees 1000 feet MSL
+Target Density Altitude................cccccceeeesesesseeeeeeeeees 1000 feet MSL
+
+Pp atks "TG vs sce sees exe sous sas eves ones one enn sows exes ene antes exe woes 5 seconds
+
+Min Recovery Alt ..............ccccccceeesesesssssssssssessesseeseeees 2500 feet AGL
+Solution
+
+Release Conditions
+
+The first parameters to determine are release dive angle, airspeed, and
+altitude. Release altitude, dive angle, and airspeed are dictated by the
+threat, weather, desired weapons effects (i.e., pattern or impact angle), and
+aircraft limitations (i.e., external stores limitations and maximum speed
+attainable, both from the Dash 1). Altitude must also consider safe
+escape/safe separation and fuze arm weapon limitations.
+
+Release Altitude
+
+Since the assigned weapon is a practice bomb, safe separation and safe
+escape are not factors. However, the minimum recovery altitude is a
+consideration. From Figure D-9 on page D-19, a CWDS product, it can be
+determined that for a 30° dive angle, an airspeed of 500 KTAS, with a 5.0 G
+in 2 seconds pull, the aircraft will lose 1370 feet during pullout. By adding
+1370 to the minimum recovery altitude of 2500 feet, a minimum release
+altitude of 3870 feet is obtained. To avoid interpolation problems and to
+make release altitude an easier number to remember, the 3870 will be
+rounded up to 4000 feet AGL.
+
+D - 25 AGD-3
+
+
+Text from AGD-3_Basic_Bombing_page_32.jpeg:
+Weapon Ballistic Data
+
+After determining munition release altitude, airspeed, dive/climb angle, and
+separation it is time to go to the bombing tables in the CWDS computer
+program (Figure D-13). This is the only source of ballistic data. Select the
+parameters for the specific weapon and delivery profile. Look for an altitude
+and TOF equal to or greater than the values determined in the above
+procedure. You will need to know the target density altitude or pressure
+altitude and temperature. You can now extract the ballistics parameters
+associated with your delivery. These data are bomb range, TOF, impact
+angle, sight depression from the flight path (SDFP), and the wind correction
+factors. Remember that impact angle may be critical and you may have to
+select other parameters based on it.
+
+AC
+
+WPN
+DELIVERY
+SUSP
+TDA
+
+DIVE
+ANG
+
+F15E PW220 W/ICFT GROSS WEIGHT 55000
+BDU-33D/B
+
+DIVE
+
+SUU-20
+
+1000 FT
+
+WIND CORRECTION
+FACTORS
+
+RELEASE BOMB TIME SLANT
+ALT TAS RANGE OF RANGE
+
+IMPACT SIGHT
+ANGLE DEP FROM
+
+ABOVE
+TGT
+FT
+
+FALL
+
+SEC
+
+8.90
+8.55
+8.18
+9.87
+9.50
+9.12
+10.80
+10.42
+10.03
+7.23
+6.83
+6.45
+8.10
+
+FLIGHT H/T
+
+PATH
+MILS
+
+192
+167
+148
+209
+182
+163
+225
+197
+176
+149
+127
+112
+163
+
+MILS/KT
+
+1.1
+1.0
+0.9
+1.2
+1.0
+0.9
+1.2
+1.0
+0.9
+1.4
+1.2
+1.1
+1.4
+
+CROSS
+
+DRIFT
+FT/ KT
+
+15
+14
+14
+17
+16
+15
+18
+18
+17
+12
+12
+11
+14
+
+30 4000 500 59137 167 6510 44 139 1.2 13
+Q 0S 4 ‘
+
+30
+30 4500
+30 4500
+
+AGD-3
+
+450
+500
+550
+
+5368
+5641
+5840
+
+8.94
+8.49
+8.05
+
+7004
+7216
+7373
+
+D - 26
+
+Figure D - 13. CWDS Ballistic Data.
+
+AGD-03-13
+
+
+Text from AGD-3_Basic_Bombing_page_33.jpeg:
+Zero Sight Line AOA
+
+Using the aircraft gross weight, true airspeed, and dive angle, determine the
+ZSL AOA at release from the TO 1-1M-34 tables (Figure D-14). Simply enter
+the appropriate chart with the entry arguments and read off the AOA.
+
+The sight setting is simply the ZSL AOA plus the depression (SDFP) from the
+ballistic tables. This is the number of mils you enter on the A/G delivery
+display prior to beginning the attack. For this problem, add 139 mils
+
+(Figure D-138) to 58 mils (Figure D-14) to get a total sight depression angle of
+192 mils. Set 192 mils on the A/G delivery display for BDU-33 direct
+deliveries or for manual deliveries using a fixed sight. (If bombing using
+direct deliveries because of central computer failure, mils are set on the UFC,
+Menu 2, PB #2.)
+
+AIRCRAFT GROSS WEIGHT -/55,000 LB
+DIVE ANGLE (DEG)
+
+ZERO SIGHT LINE ANGLE OF ATTACK (MIL) TABLES
+
+NOTE: ZSL TABLES ARE COMPUTED USING 5000 FT DENSITY ALTITUDE.
+ANY DEVIATION RESULTS IN ERRONEOUS AOA. KTAS MUST BE
+CORRECTED FOR DENSITY ALTITUDE TO RELATE TO AOA.
+
+AGD-03-14
+
+Figure D - 14. ZSL AOA Table.
+
+D-27 AGD-3
+
+
+Text from AGD-3_Basic_Bombing_page_34.jpeg:
+Attack Development
+
+Track Point
+
+This point defines one end of the track point distance, also called the
+minimum attack perimeter (MAP), and is where you should stabilize your
+flight path and begin to track the target (Figure D-15). To find the track
+point, compute the track distance (which is equal to average true airspeed
+
+from rollout to release) times 1.69 (to convert knots to feet per second) times
+the planned track time.
+
+track distance = true airspeed x 1.69 x track time
+
+Since average true airspeed is an estimate, this calculation can be less
+scientific than it sounds. A sample calculation based on an average true
+airspeed of 475 knots and track time of 5 seconds yields:
+
+track distance = 475 KTAS x 1.69x5 seconds = 4014 feet
+
+To find the altitude lost while tracking, multiply track distance by the sine of
+the dive angle [in this example assume a dive angle of 30° (Sin 30° = 0.5)].
+
+altitude lost = 4014 feet x 0.50 = 2007 feet
+Add 2007 feet to release altitude to calculate track point altitude.
+To find the ground distance covered during tracking, multiply the track
+
+distance by the cosine of the dive angle (Cos 30° = 0.866).
+
+horizontal track distance = 4014 feet x0.866 = 3476 feet
+
+Add the horizontal track distance to the bomb range to find the track point
+distance.
+
+AGD-3 D - 28
+
+
+Text from AGD-3_Basic_Bombing_page_35.jpeg:
+TURN RADIUS (3.5 Gs)
+ALT LOST
+ROLL-IN
+
+y wee eee eee o TRACK POINT ALT
+
+ALT LOST
+AGL TRACKING.
+
+RELEASE }*.:
+ALTITUDE: ~
+
+AIM-OFF
+
+HORIZONTAL | HORIZTRK | BoMBRANGE | SISTANCE |
+
+| TURN RADIUS
+
+DIST
+TRACK POINT DISTANCE
+MINIMUM ATTACK PERIMETER
+\¢ BASE LEG TO TARGET»
+'¢ DISTANCE FROM BASE TO AOP >i
+
+AGD-03-15
+
+Figure D - 15. Bombing Triangle.
+
+Track Point ZSL AOA
+
+Track point mils are recomputed and are different than release point mils
+because you are at a different airspeed and further away from the target and
+aim-off point. These mils will be subtracted from release mils to determine
+the initial pipper placement on rollout.
+
+To determine the ZSL AOA you must know the airspeed at the track or
+rollout point. You can only make an educated guess based on your airspeed
+prior to final maneuvering and the amount of maneuvering planned to
+
+achieve the track point. In other words, make a guess. Using the same chart
+
+as in the release point AOA determination, reenter with the track point
+
+airspeed and find the ZSL AOA mils. If you estimate your rollout speed at
+450 KTAS, reenter the chart (Figure D-14) and interpolate between 440-460
+KTAS to get 61 mils.
+
+D - 29 AGD-3
+
+
+Text from AGD-3_Basic_Bombing_page_36.jpeg:
+Aim-off Distance
+
+The aim-off distance remains constant throughout the attack but is most
+useful during the rollout. Using the aim-off charts (Figure D-16) in
+
+TO 1-1M-34, you can determine the required aim-off distance in feet. It is
+this distance in feet that remains constant from rollout to release. The angle
+subtended by this distance varies throughout the pass and is responsible for
+the pipper movement across the ground as you approach the target (not
+counting any wind). Find the aim-off distance in feet and a sight depression
+angle at rollout by entering the chart with release SDFP.
+
+Using an aim-off chart for 30° dive (Figure D-16), enter with the SDFP
+
+determined from the ballistic tables (139), proceed up to the release altitude
+(4000 feet AGL) and over to read the aim-off distance in feet (1775).
+
+2500
+
+2000
+
+ALTITUDE
+AGL (FT)
+
+1500
+
+AIM-OFF DISTANCE (FT)
+
+0 20 40 60 80 100 120 140 160 180 200 220 240
+SIGHT DEPRESSION FROM FLIGHT PATH (MIL)
+30° DIVE
+
+AGD-03-16
+
+Figure D - 16. Aim-off Distance.
+
+AGD-3 D - 30
+
+
+Text from AGD-3_Basic_Bombing_page_37.jpeg:
+Another way to find aim-off distance is to divide release altitude by the
+tangent of the dive angle and subtract bomb range from the result.
+
+AOD = release altitude 7
+
+tan dive angle
+
+A sample calculation for a BDU-33 released at 4000 feet AGL in a 30° dive
+yields (BR = 5138 feet, tan 30° = .0577):
+
+AOD = 4000 — 5138 = 1790 feet
+tan 30°
+
+Note: This is only 15 feet different from the 1775 feet using the chart.
+
+The chart illustrated in Figure D-16 may also be used to determine track
+point aim-off distance (AOD) mils. AODtp mils are required to compute
+initial pipper placement (IPP). To determine AODt? mils, begin at the left
+edge and read to the right from aim-off distance (1775 feet) along the original
+line, stopping at track point altitude (6007 AGL). Then read down to obtain
+the number of mils which subtend AOD at track point (about 87 in the
+example). Use this number to compute IPP.
+
+D-31 AGD-3
+
+
+Text from AGD-3_Basic_Bombing_page_38.jpeg:
+Initial Pipper Placement
+
+If you take the release sight setting and subtract the AOA and aim-off mils at
+the track point, the result is the initial pipper placement (Figure D-17). This
+is the distance the pipper is short of the target (in mils) as tracking begins.
+
+IPP mils = Sight Setting - AOD,,, - AOA,»
+or
+
+IPP mils (44) = 192 - 87-61
+
+ZSL
+x |
+AOA AT TRACK 64 miLs
+POINT i
+t O x
+SIGHT
+SETTING Lain MPO NT 87 MILS
+192 MILS
+SDFP AT TRACK
+POINT A t
+IPP 44 MILS
+
+v v ‘oS: Yy
+
+Figure D - 17. Initial Pipper Placement at Track Point.
+
+AGD-03-17
+
+AGD-3 D - 32
+
+
+Text from AGD-3_Basic_Bombing_page_39.jpeg:
+Base Altitude
+
+This is little better than a guess, which depends on how much maneuvering
+must be done and the technique used. For the standard 90° base-to-final
+turn (box pattern), altitude lost in the roll-in can be computed by multiplying
+the roll-in turn radius by the sine of the dive angle. Adding this altitude loss
+to the track point altitude yields the base, or roll-in, altitude.
+
+2
+turn radius (TR) = PEAS SAO , Where G, = radial G
+Gp X 382.2
+
+In this example, assume Gr equals cockpit G and that roll-in is accomplished
+at 342G. Therefore,
+
+2
+TR = 450x169)" _ 5199 foot
+3.5xX32.2
+
+Altitude lost during roll-in equals TR x sine 30° = 5132 x .5 = 2566 feet.
+Therefore, roll-in altitude equals 8573 feet AGL (6007 + 2566).
+
+Track Point Distance
+
+The track point distance is equal to bomb range (5137 feet) plus the
+horizontal distance covered while tracking (3476 feet), which have already
+been calculated. Therefore, the track point distance equals 8613 feet from
+
+the target.
+
+If a ripple delivery is accomplished, half of the horizontal distance covered
+during the ripple release must be added so the middle bomb hits the target.
+
+D - 33 AGD-3
+
+
+Text from AGD-3_Basic_Bombing_page_4.jpeg:
+CRITERION REFERENCED OBJECTIVES (CROs)
+
+1. Identify the definitions of terms and the relationships used in
+computing bomb delivery parameters.
+
+2. Identify the attributes of different types of weapons deliveries.
+
+3. Identify the attributes of the different weapons delivery recovery
+maneuvers.
+
+4. Identify the factors and/or requirements used in ballistic
+computations for manual deliveries.
+
+5. Identify the major steps to perform manual bomb deliveries.
+
+6. Identify how incorrect parameters and external factors affect bomb
+impact accuracy.
+
+REFERENCES
+
+TO 1F-15E-34-1-3 Safe Escape/Safe Separation
+Maneuvers
+
+TO 1-1M-34 Section VI Safe Escape/Safe Separation
+Definitions Fuze Arming
+Data
+Maximum Fragment Travel
+Chart
+
+Section VII Bombing Geometry
+Error Analysis
+
+Section VIII Mission Planning
+Chart and Table Examples
+
+TO 1-1M-34-2FD-E (CWDS) Ballistics Tables
+Safe Escape/Safe Separation
+Data
+
+AFTTP 3-3 VOL XVII Manual Modes
+
+AGD-3 B-1
+
+
+Text from AGD-3_Basic_Bombing_page_40.jpeg:
+Base Distance
+
+The base distance is the distance from the target at roll-in to arrive at the
+track point (Figure D-18). It is defined as track point distance plus the
+horizontal distance covered during the roll-in. This horizontal distance is
+equal to the roll-in turn radius times the cosine of the dive angle.
+
+turn radius (TR) x = cos 30° = base turn distance
+
+The turn radius (5132) times cos 30° (.866) is equal to the base turn distance
+(4444): plus, track point distance (8613) is equal to the base leg distance
+(13,057).
+
+2566' J
+
+5132' TURN RADIUS (3.5 Gs)
+
+ALT LOST
+ROLL-IN
+: » TRACK POINT ALT 6007’
+2007
+; ALT LOST.
+8573 TRACKING ™..
+AGL . NeeeeeeS
+BASE
+LEG
+ALT
+4000
+RELEASE !
+ALTITUDE :
+4444' | 3476 | 51 a | 1775' |
+HORIZONTAL |! HORIZTRK BOMB RANGE AIM-OFF
+TURN RADIUS DIST DISTANCE
+8613)
+— TRACKPOINT DISTANCE —>»
+MINIMUM ATTACK PERIMETER
+< 13057’ ly
+BASE LEG TO TARGET
+, 14832! ,
+DISTANCE FROM BASE TO AOP
+
+AGD-03-18
+
+Figure D - 18. Bombing Triangle.
+
+AGD-3 D - 34
+
+
+Text from AGD-3_Basic_Bombing_page_41.jpeg:
+Base leg can be computed manually, or you could do it using the Dive Angle
+Versus Distance chart (Figure D-19) from TO 1-1M-34. Enter the chart at
+the desired base leg altitude (8573 feet AGL), proceed right to the dive angle
+(30°), and down to the distance (14,900 feet). This distance is to the aim-off
+point—not the target. You must subtract AOD (1775 feet) to get base
+distance (13,125). This is close enough to our calculated distance of 13,057
+feet. Rounding the base altitude to 9000 feet AGL would give us an AOD of
+about 15,200 feet or a base distance of 13,425 feet vs 13,125 feet which is
+close enough to 13,057 feet for most bombers. If you are bombing in a wind,
+you need to modify your base leg position. It is generally more acceptable to
+modify base leg position rather than base leg altitude. Use about 3 times the
+crosswind correction factor listed in the CWDS tables for the type of delivery
+you are attempting. (If the correction factor is 10 feet/knot, correct your base
+leg by 30 feet/knot).
+
+24
+
+S
+23 war
+22 (e)
+21 <4
+<Z5 (7)
+20 <2 Ay
+19 S95
+18 4
+<0
+17 <p,
+16 7g
+15
+%6
+g" NEES
+12 <p | SK 1%
+= 44 Z & s
+im $a 19S .
+Q 10 ENS)
+Z 9g 0
+> 8
+fe} &
+27 Loo
+Ww oy
+Q 6 wy)
+= 05
+5 5 45
+4
+‘ YY 40°
+3
+2 =
+1
+0
+
+012 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20
+DISTANCE FROM AIM-OFF POINT (FT X 1000)
+AGD-03-19
+
+Figure D - 19. Dive Angle Versus Distance.
+
+D-35 AGD-3
+
+
+Text from AGD-3_Basic_Bombing_page_42.jpeg:
+MSL Conversion. All altitudes must be converted to MSL which then can be
+read in the HUD. In this example, roll-in altitude is 9573 feet MSL, track
+point altitude is 7007 feet MSL, and release altitude is 5000 feet MSL. All
+
+were obtained by adding the target elevation (1000 feet MSL) to the AGL
+altitudes computed.
+
+AGD-3 D - 36
+
+
+Text from AGD-3_Basic_Bombing_page_43.jpeg:
+QUESTIONS
+
+Safe escape charts provide ground clearance based on a ___ foot
+clearance plane.
+
+a. O
+
+b. 200
+ce. 400
+d. 1000
+
+The standard planned pullout parameter for recovery from diving
+deliveries is
+
+3 Gs in 4 seconds.
+
+3.5 Gs in 2 seconds.
+
+5 Gs in 2 seconds.
+
+4.5 Gs in 1.25 seconds.
+
+pe op
+
+The published climbing recovery/escape maneuver for the diving delivery
+terminates as
+
+the aircraft nose reaches the horizon and the descent stops.
+
+the descent stops, regardless of nose position.
+
+the aircraft climb angle reaches 30° above the horizon.
+
+the descent rate is reduced to one-half the descent rate at release.
+
+pe op
+
+Sight setting is the sum of ZSL AOA plus
+
+The aim-off distance or aim-off point throughout a
+dive bomb attack.
+
+a. remains constant
+
+b. moves away from the target
+c. moves toward the target
+
+D - 37 AGD-3
+
+
+Text from AGD-3_Basic_Bombing_page_44.jpeg:
+ANSWERS
+
+l. a
+2. ¢
+3. Cc
+
+4. SDFP or sight depression from flight path
+
+5. oa
+
+AGD-3 D - 38
+
+
+Text from AGD-3_Basic_Bombing_page_45.jpeg:
+MANUAL DELIVERIES
+
+Pattern
+
+Base Leg
+
+The secret to manual bombing is to fly a proper and consistent base leg
+(Figure D-20). In fact, the most likely cause of poor parameters in a manual
+dive bomb pass is failure to establish a proper base leg position. Of course,
+the ideal is to be able to look out the canopy and “see” the proper dive angle.
+Initially, you probably need to be a little more mechanical than that.
+
+'¢——— ALTITUDE—___»
+
+i DISTANCE FROM AOP >
+
+AGD-03-20
+
+Figure D - 20. Base Leg.
+
+D- 39 AGD-3
+
+
+Text from AGD-3_Basic_Bombing_page_46.jpeg:
+Roll-in Technique
+
+There are several roll-in techniques used for dive bombing, but all have the
+same goal: to end up at the track point on airspeed and on dive angle. To do
+this, you must lead the turn by one turn radius at whatever G load you
+intend to use (usually 3-4 Gs). With your eyes on the aim-off point, roll to
+bring the point near the top of the canopy (the approximate bank angle to use
+is 80°, plus the dive angle). Now, pull the aircraft around to roll out with the
+velocity vector on the AOP.
+
+AOD and IPP
+
+As you roll out and the velocity vector moves to the aim-off point, cross-check
+your dive angle and initial pipper placement (Figure D-21). Immediately
+correct your IPP, if necessary. For most events you have an IPP of 40-70 mils
+(44 mils in our example). If you are on track point parameters and your IPP
+is correct, the pipper tracks to the target and arrives as you reach release
+altitude.
+
+ace~.
+~ en
+
+v Mon
+( GF}
+
+nee IPP (44 MILS)
+
+AGD-03-21
+
+Figure D - 21. AOD and IPP.
+
+AGD-3 D - 40
+
+
+Text from AGD-3_Basic_Bombing_page_47.jpeg:
+Tracking (No Wind)
+
+After establishing IPP, you must allow the pipper to track smoothly to the
+target (Figure D-22). Because AOA decreases as you accelerate, you see little
+pipper movement initially. This takes about 1-3 seconds of your tracking
+time. After airspeed is set and AOA stops changing, the pipper moves toward
+the target. The pipper moves the fastest during the last third of tracking
+time. Approximately 2 seconds prior to release, the pipper is 25 mils short of
+the target (i.e., the top of the reticle is on the target). If you maintain a
+constant dive angle, the velocity vector remains stationary over the aim-off
+point.
+
+Do no forget to pickle as the pipper intersects the target and you reach
+release altitude.
+
+‘\ FIXED AT
+AIM-OFF POINT FIXED AT
+
+AIM-OFF POINT
+
+aw ater,
+o
+
+a ™™
+
+{ Gr
+
+.
+Me, -
+
+a
+
+RETICLE MOVES TOWARD TARGET; TARGET GROWS IN
+RELATIVE SIZE.
+
+AGD-03-22
+
+Figure D - 22. Tracking (No Wind).
+
+To kill any 3 or 9 o'clock error, the pipper should track down the run-in line
+and the aircraft should pass directly over the target.
+
+If the above tracking indications are not present, take immediate and positive
+corrective action. You only have time for one or two corrections prior to
+reaching release altitude. If you are still making corrections as you reach
+release altitude, it is very easy to induce an error, such as a bank angle or G
+error, which will likely produce a miss.
+
+D-41 AGD-3
+
+
+Text from AGD-3_Basic_Bombing_page_48.jpeg:
+The tracking rules, then, are:
+e Make smooth positive corrections.
+e Accept small errors to avoid last minute corrections.
+
+Wind Corrections
+
+If you stay in the bomb dropping business for 20 or so years, you may get to
+drop on a no-wind day two or maybe even three times. The rest of the time,
+you will have to drop in a wind, and the odds are it will not be a head/tail
+wind.
+
+RAP (Release Aim Point)
+
+To bomb in a wind and still hit the target, you must make some adjustments.
+Essentially what you do is bomb a new “target” located upwind from the
+actual target by a distance equal to the wind-caused miss distance. This
+distance is found by multiplying the wind speed by the crosswind correction
+factor (XWCF) (18 ft/kt) from the ballistic tables in CWDS (Figure D-13,
+page D-26).
+
+RAP = wind speed x XWCF
+
+The RAP becomes your new target, and you must meet all your no-wind
+parameters with the pipper on the RAP to hit the actual target.
+
+RAPE (Release Aim Point - Extended)
+
+Since your aircraft is being blown downwind while you are coming down the
+chute, you must further extend your release aim point upwind to account for
+this drift. The RAPE is found by multiplying the wind speed (knots) by 1.69
+by [bomb TOF + track time (in seconds)].
+
+RAPE =wind x1.69x(TOF + track time)
+
+The RAPE must be determined for both drift and crab tracking methods to
+determine IPP. In either method, the pipper is under RAPE on rollout and
+tracks to the RAP at release.
+
+AGD-3 D - 42
+
+
+Text from AGD-3_Basic_Bombing_page_49.jpeg:
+AOP
+
+For the drift method (Figure D-23), the aircraft rolls out upwind by a distance
+equal and parallel to the RAPE. If you use the crab method, the aircraft is
+between the target and RAP (to compensate for bomb drag) but the pipper is
+still under the RAPE due to the crab. In either case, if the velocity vector of
+the HUD is functioning properly, it compensates for the wind and is only
+moved upwind from the aim-off point the amount you are offset from the
+target at release.
+
+HAIRLINE SYMBOLS - NO WIND
+
+AGD-03-23
+
+Figure D - 23. AOP and IPP Winds.
+
+IPP
+
+Your initial pipper placement (Figure D-23) must also be moved into the wind
+by a distance equal and parallel to the RAPE. An approximate rule of thumb
+is to use two times the crosswind correction factor.
+
+D - 43 AGD-3
+
+
+Text from AGD-3_Basic_Bombing_page_5.jpeg:
+STUDENT PREPARATION REQUIREMENTS
+BEFORE CLASS
+
+1. Study the information contained in this workbook and complete the
+End of Text Quiz.
+
+2. Read the references in TO 1F-15E-34-1-3.
+3. Scan the material in TO 1-1M-34, Sections VII and VIII.
+
+4. Read the references in AFTTP 3-3, Volume XVII.
+
+C-1 AGD-3
+
+
+Text from AGD-3_Basic_Bombing_page_50.jpeg:
+RAP Tracking
+
+Your pipper must now track (Figure D-24) from its initial placement to the
+release aim point (RAP). The RAP is your new target and the pipper must be
+on the RAP at release altitude. However, if you roll out with the proper IPP
+relative to your rollout aim point (RAPE) and your flight path takes you
+across the target (very slightly upwind, actually), the pipper should be on the
+RAP when you arrive at release altitude.
+
+Pickle as the pipper reaches the release aim point.
+
+aS
+
+~ ”
+i v
+SANZ
+
+AGD-03-24
+
+Figure D - 24. Tracking (Wind).
+
+AGD-3 D - 44
+
+
+Text from AGD-3_Basic_Bombing_page_51.jpeg:
+BOMB IMPACT ACCURACY
+Noncrew-caused Errors
+
+Inherent Weapon Dispersion
+
+Inherent dispersion is primarily the result of construction variances. As with
+anything else, no two bombs are exactly alike. For low drag weapons,
+dispersion is about 5 mils. For high drag weapons, dispersion is about 8 mils.
+Although the dispersion is greater for the high drag weapons, the shorter
+release slant ranges may result in a smaller overall miss distance.
+
+Installation Errors
+
+For free-fall weapons, this is very small. The flight path of a free-fall bomb is
+determined by the flight path of the aircraft at release, weapon drag, and
+
+gravity.
+
+Aircraft Systems Errors
+
+The same manufacturing errors that affect weapons also affect aircraft
+systems. No two radars, HUDs, or INSs are alike. Further, when it comes to
+installing or aligning these systems and boresighting them, a combination of
+tolerances may result in some pointing errors. Some of these systems errors,
+primarily the error associated with boresighting, are predictable. After a few
+passes, you are sure “this airplane drops 30 feet left.” This type of error can
+be compensated for by adjusting the aim point. Squadrons normally track
+these types of errors in some sort of systems book which crews can review
+prior to flight. There is another category of error which is random and is
+related to the slop or noise level within a system. This type error you just
+have to accept.
+
+Assumptions
+
+All ballistic tables and even the airplane CC make certain simplifying
+assumptions before solving ballistics problems. One common assumption is a
+standard atmosphere. These assumptions cause small errors in ballistic
+solutions.
+
+D - 45 AGD-3
+
+
+Text from AGD-3_Basic_Bombing_page_52.jpeg:
+Crew-caused Errors
+
+Aiming Errors
+
+Pipper Not On Release Aim Point (RAP)
+
+This is normally the result of poor tracking technique or simply a tracking
+error. The correct aim point is known; you simply run out of tracking time
+before the pipper gets to the RAP. Another possibility is to mistakenly think
+the pipper was on the RAP at pickle; this error is normally caught during
+postmission tape review. Remember, the RAP is the same as the target, only
+for a no-wind condition.
+
+Release Aim Point Not Known
+
+This is a very common situation where winds are concerned. The error is
+usually the result of using the wrong wind or a computation error in
+determining the wind offset aim point. Additionally, in manual dive
+bombing, it is common to make small errors and then make an offsetting
+correction to another parameter. Since these corrections are made rapidly,
+there is ample room for error. Finally, the problem may simply be the result
+of not being able to identify the correct spot on the ground. Whatever the
+reason, if you make an aiming error the bomb follows the aircraft trajectory
+at release and misses the target.
+
+Parameters
+
+In examining parameter errors there are two general assumptions made: the
+pipper is on the target, and only one error exits. This is seldom the case, and
+for most errors, if they persist for any length of time, another error surely
+results.
+
+Altitude
+
+Munitions released from a higher than planned altitude have a greater than
+planned range to travel to the target. Although the longer time of fall
+increases the bomb range over that planned, the increase is never as great as
+the longer range which exists. As a result, a bomb dropped from a higher
+than planned altitude falls short. Conversely, a bomb dropped at a lower
+than planned altitude falls long.
+
+AGD-3 D - 46
+
+
+Text from AGD-3_Basic_Bombing_page_53.jpeg:
+Airspeed
+
+Munitions released at a lower than planned airspeed fall short of the target
+for two reasons. First, the weapon simply will not travel as far due to
+reduced airspeed. Also, the lower airspeed alters the AOA of the delivery
+aircraft and therefore reduces the effective depression. Conversely,
+munitions released at a higher than planned airspeed go long.
+
+Dive Angle
+
+If munitions are released in a shallower than planned dive angle at the
+planned altitude, the aircraft is farther from the target than planned.
+Additionally, reducing dive angle increases required sight depression. These
+errors combine to cause a shallow bomb to fall short of the target. A bomb
+delivered from too steep a dive falls long.
+
+G Loading
+
+The instantaneous effect of increased G is to increase the AOA and reduce the
+effective depression from flight path resulting in a short bomb. If increased G
+is held for any length of time, a dive angle error results, compounding the
+problem. If the instantaneous G is reduced (bunt) the effect is opposite and
+the bomb goes long.
+
+Bank Angle Error
+
+Since the sight is depressed below the flight path, it acts like a long
+pendulum. Rotating this pendulum results in two errors. First, the sight
+rotates away from the bank angle; second, the reticle moves forward in range.
+As a result, if a bomb is dropped in a bank, the bomb falls short and in the
+direction of the bank from where the pipper is pointed.
+
+Uncoordinated Flight
+Since a bomb travels along the flight path at release, if the sight line is not
+
+along the flight path, an impact error results. The bomb impacts laterally in
+the direction of any skid.
+
+D - 47 AGD-3
+
+
+Text from AGD-3_Basic_Bombing_page_54.jpeg:
+Parameter Errors
+
+Dive Angle
+
+Shallow - short
+
+Steep - long
+Airspeed
+
+Slow - short
+
+Fast - long
+Altitude
+
+High - short
+Low - long
+Bank
+
+Short; laterally in the direction of bank
+
+G
+
+Pull - short
+
+Bunt - long
+Skid
+
+Laterally in the direction of skid
+Corrections
+
+Release Aim Point
+If you find you did not have the proper aim point, recompute it as necessary
+
+and move it. If the problem was in tracking the aim point, resolve to track
+more accurately on the next pass.
+
+AGD-3 D - 48
+
+
+Text from AGD-3_Basic_Bombing_page_55.jpeg:
+Base Leg Adjustments
+
+If you had an error in parameters, the most likely problem is that the base
+leg was not properly flown. Improper base leg position can result in dive
+angle errors and altitude errors. Roll-in technique is most often responsible
+for airspeed problems, but roll-in problems are normally the result of trying
+to correct for base leg positioning errors. The bottom line for parameter
+errors is to make the necessary corrections to your base leg on the next pass.
+
+Crew Coordination
+Pilot
+
+The pilot’s primary job is to fly the aircraft, avoid the ground, and fly to the
+proper release point. Additionally, the pilot selects delivery options.
+
+WSO
+
+The WSO is the primary sensor operator. During manual deliveries there is
+little or no sensor operation to be performed so the WSO can help the pilot by
+calling airspeed, dive angle, and altitudes. Defensive lookout is required
+during any delivery. In addition, the WSO should monitor the attack and
+provide checklist support to the pilot.
+
+Error Analysis
+
+Between passes, the crew should analyze the previous pass to determine
+what corrections, if any, should be made on the next pass. Downwind is the
+best place to do this because this is where you have the most time, and most
+adjustments have to be made on the base leg.
+
+Assumptions
+
+Basic error analysis assumes the pipper was on the target and only one error
+exists. Because of these assumptions you need to separate aiming errors
+from parameter errors. If you did not have the pipper on the “proper” target,
+fix it on the next pass. If you did have the pipper on the “proper” target/aim
+point and the bomb still missed, then you must have made an error in
+parameters. If you do not know where the pipper was and where the bomb
+hit relative to the pipper, you have no basis to make a correction.
+
+D - 49 AGD-3
+
+
+Text from AGD-3_Basic_Bombing_page_56.jpeg:
+CONCLUSION
+
+That is about it for manual deliveries. You will not get to do them often, but
+many of the principles involved in manual bombing will also affect the
+accuracy of computed deliveries. The more aspects of the bombing problem
+you solve by flying consistent and accurate passes, the better your computed
+deliveries will be.
+
+Knowing the correct aim-off point is critical even for computed deliveries. If
+you do not know it and pick a distance too close to the target, you have an
+excellent chance to frag yourself or even contact the ground during your
+recovery.
+
+AGD-3 D - 50
+
+
+Text from AGD-3_Basic_Bombing_page_57.jpeg:
+QUESTIONS
+
+Installation variance is a major source of error in determining bomb
+impact accuracy.
+
+a. True
+b. False
+
+Which of the following release errors cause a bomb to impact short of the
+target? (Pipper on target, no other error.)
+
+Release altitude lower than planned.
+
+Release in a 30° bank.
+
+Release in a steeper than planned dive angle.
+Release at a lower G loading than planned.
+
+po op
+
+When bombing in a wind, your IPP is moved into the wind ___ time(s)
+the crosswind correction factor (track time = bomb TOF).
+
+ao op
+BPO ND Re
+
+D-51 AGD-3
+
+
+Text from AGD-3_Basic_Bombing_page_58.jpeg:
+ANSWERS
+
+1. b
+2. b
+3. b
+
+AGD-3 D - 52
+
+
+Text from AGD-3_Basic_Bombing_page_59.jpeg:
+END OF TEXT QUIZ
+
+Following a bomb release, the distance a bomb lags behind the
+delivery aircraft is known as
+
+a. bomb range.
+b. bomb lag.
+
+c. bomb trail.
+d. trail off.
+
+Which type of delivery profile is most sensitive to aiming errors?
+a. Level
+
+b. Climbing
+ec. Diving
+
+The most commonly used type of attack profile for a visual attack is
+
+a. level.
+b. climbing.
+c. diving.
+
+Track point ZSL AOA is based on
+
+base leg true airspeed.
+
+release true airspeed.
+
+roll-in calibrated airspeed.
+
+track point density altitude of 5000 ft.
+
+ae op
+
+If the pipper is on the target at release but the pilot’s foot is
+depressing the rudder to the right, you should expect the bomb to
+
+miss the target to the right.
+miss the target to the left.
+hit the target.
+
+miss the target short.
+
+po op
+
+E-1 AGD-3
+
+
+Text from AGD-3_Basic_Bombing_page_6.jpeg:
+(This Page Intentionally Blank)
+
+AGD-3 C-2
+
+
+Text from AGD-3_Basic_Bombing_page_60.jpeg:
+6. Dive Angle Versus Distance charts are based on distance from
+
+the target.
+
+the aim-off point.
+
+bomb range.
+
+the initial pipper placement point.
+
+ao op
+
+7. The release aim point for a crabbing delivery is
+
+closer to the target than the drifting RAP.
+farther from the target than the drifting RAP.
+the same point as the drifting RAP.
+
+always on the target.
+
+ao op
+
+AGD-3 E-2
+
+
+Text from AGD-3_Basic_Bombing_page_61.jpeg:
+A/G
+
+ACC
+AGL
+AOA
+AOD
+AOP
+AUTO
+BDU
+CBU
+CC
+CDIP
+CWDS
+GP
+HUD
+INS
+IPP
+KCAS
+KTAS
+LADD
+
+LST
+
+GLOSSARY
+Air-to-ground
+Antiaircraft artillery
+Air Combat Command
+Above ground level
+Angle of attack
+Aim-off distance
+Aim-off point
+Automatic
+Bomb dummy unit
+Cluster bomb unit
+Central computer
+Continuously displayed impact point
+Combat weapon delivery software
+General purpose
+Head-up display
+Inertial navigation system
+Initial pipper placement
+Knots calibrated airspeed
+Knots true airspeed
+Low altitude drogue delivery
+
+Level Straight Through Maneuver
+
+AGD-3
+
+
+Text from AGD-3_Basic_Bombing_page_62.jpeg:
+MAP Minimum attack perimeter
+
+Mil Milliradian
+
+MRA Minimum recovery altitude
+MSL Mean sea level
+
+RAP Release aim point
+
+RAPE Release aim point - extended
+SAM Surface-to-air missile
+
+SDFP Sight depression from flight path
+SUU Stores suspension and release unit
+TDA Target density altitude
+
+TOF Time of fall
+
+TR Turn radius
+
+UFC Upfront control
+
+WSO Weapon System Officer
+
+ZSL Zero sight line
+
+AGD-3 F-2
+
+
+Text from AGD-3_Basic_Bombing_page_63.jpeg:
+HANDOUT
+
+The following are examples of CWDS products for a MK 84 LD release at
+30° of dive, 500 KTAS, and 4910 MSL releases.
+
+NOTES:
+
+Fuze data (page G-2): the maximum fuze arm time is worst case and
+includes a 20% tolerance for the M905 tail fuze which is greater than the
+10% for a M904E2.
+
+Release conditions (page G-2): the 4910 MSL minimum release altitude in
+this example is based on maximum fuze arm time to prevent a dud. Note
+TOF is also 7.2 seconds. You would want to change the release altitude to
+a round number (as an example, 5000 MSL) and recompute the solution.
+In this example, a 90-foot change is only about 2 mils.
+
+Safe escape (page G-3): There are only 2 safe escape tables for 0 and 5000
+foot target density altitudes. Use the closest one. Safe escape is not a
+problem with 6 second arm time. The profile output example shows the
+altitude lost of 13867 feet for a 1000 foot TDA and recovers you at 3543
+MSL. Further down the page (weapon MRA information) you see the
+minimum release altitude for safe escape is only 3512 MSL, 3583 to
+accommodate altimeter lag.
+
+CAUTION: CWDS will not advise you if safe separation is not met for
+mechanical fuzes. You need to compare the safe escape table TOF (4.86
+seconds) (page G-5) to your fuze arm time minus fuze tolerance
+
+(6 - 1.2 = 4.8). The tolerance can be determined by subtracting the
+maximum fuze arm time from the fuze setting (7.2 - 6 = 1.2 seconds) in the
+fuze setting section on page G-2. In this example you would need to retry
+the problem using an 8 second fuze setting to exceed the 4.86 seconds
+needed (8 - 1.6 = 6.4 minimum arm time) which again changes all your
+data of release altitude, mil settings, etc.
+
+Ballistic table (page G-7): Note the TOF from 4000 AGL (7.34 seconds)
+exceeds our maximum fuze arming of 7.2 (page G-2) and the table is clear
+if arming time exceeds TOF based on fuze setting inputs.
+
+Error analysis (page G-8): Note that short errors tend to exceed long
+errors of the same amount.
+
+G-1 AGD-3
+
+
+Text from AGD-3_Basic_Bombing_page_64.jpeg:
+CWDS Profile Output
+
+*** DLEASE NOTE ***
+Minimum Release Alt driven by fuze arming.
+
+** MISSION DATA ***
+AIRCRAFT
+
+GROSS WEIGHT
+MUNITION
+SUSPENSION
+DELIVERY
+
+** FUZE DATA ***
+
+FUZE LOCATION
+
+NOSE FUZE
+
+NOSE FUZE TIME SETTING
+TAIL FUZE
+
+TAIL FUZE ARM TIME SETTING
+MAX FUZE ARM TIME
+
+** RELEASE CONDITIONS ***
+
+NUMBER OF WEAPONS RELEASED
+
+RELEASE ALTITUDE FIRST WEAPON
+
+RELEASE ALTITUDE CORRECTED FOR ALT LAG
+RELEASE DIVE ANGLE
+
+RELEASE AIRSPEED
+
+TARGET DENSITY ALTITUDE
+
+TARGET ELEVATION
+
+*e* TRACKING INFORMATION ***
+
+INITIAL PIPPER PLACEMENT
+
+PERCENT DOWN BOMB FALL LINE FROM FPM
+AIM-OFF DISTANCE
+
+AVERAGE TRACK VELOCITY
+
+MINIMUM ATTACK PERIMETER
+
+ROLL-OUT (TRACK) AIRSPEED
+
+AOA AT TRACK ALTITUDE
+
+TRACK TIME
+
+TRACK/MAP ALTITUDE
+
+TRACK/MAP ALT CORRECTED FOR ALT LAG
+
+** WEAPON CONDITIONS ***
+ZERO SIGHT LINE AOA
+
+S.D.F.P.
+
+TOTAL SIGHT SETTING
+CROSSWIND CORRECTION
+HEAD/TAIL WIND CORRECTION
+F-15 CFT LATERAL DISPLACEMENT
+RANGE FIRST RELEASE TO IMPACT
+SLANT RANGE AT RELEASE
+
+TIME OF FALL FIRST RELEASE
+WEAPONS IMPACT ANGLE
+WEAPON IMPACT VELOCITY
+
+AGD-3
+
+F-15E PW220 W/CFT
+55000
+
+MK-84 LD
+
+BRU-47/A
+
+Dive
+
+Nose and Tail
+M904E2
+
+6.00 SEC
+M905
+
+6.00 SEC
+7.20 SEC
+
+1
+3910A 4910M
+4984M
+30 DEG
+470C
+1000 FT
+
+1000FT
+
+500T
+
+305M
+
+44.6 MILS
+49.0
+0.3NM
+823 FT/SEC
+1.4NM
+433C
+36.0 MILS
+5 SEC
+6967M
+7042M
+
+1621FT
+
+8715FT
+475T
+
+5967A
+
+65.5 MILS
+126.8 MILS
+192.3 MILS
+12.2 FT/KT
+1.1 MILS/KT
+42FT
+0.8NM
+6468FT
+7.20 SEC
+43 DEG
+959 FT/SEC
+
+5152FT
+
+77M
+
+494M
+
+2656M
+.74M
+
+1570M
+
+
+Text from AGD-3_Basic_Bombing_page_65.jpeg:
+“ee SAFE ESCAPE SAFE SEPARATION DIVE RECOVERY INFORMATION ***
+
+SAFE ESCAPE MANEUVER
+
+DIVE RECOVERY G
+
+ALT LOST DURING DIVE RECOVERY
+MIN ALT DURING DIVE RECOVERY
+
+*** WEAPON MRA INFORMATION ***
+Minimum Release Alt driven by fuze arming.
+MIN RECOVERY ALTITUDE (user input)
+MRA FOR MIN RECOVERY ALTITUDE
+including alt lag
+MRA FOR GP FUZE ARMING
+including alt lag
+ABSOLUTE REC ALT (NO SAFETY FACTOR)
+including alt lag
+MRA FOR SAFE ESCAPE
+including alt lag
+MAX FRAGMENT TRAVEL
+ALTITUDE
+HORIZONTAL RANGE
+TOF
+TOF FOR DIVE RECOVERY MRA
+TOF FOR SAFE ESCAPE MRA
+TOF FOR FUZE ARMING/CBU FUNCTION MRA
+
+** POINT DATA **
+
+TGT Point
+DESCRIPTION: .TARGET
+LATITUDE: WN 303004
+LONGITUDE: W085 59 56
+
+MGRS: 16REJ9608474476
+ELEVATION: 1000FT 305M
+DATUM: AdiBurFa
+
+IP Point
+DESCRIPTION:  .IP
+LATITUDE: WN 305004
+LONGITUDE: W085 59 56
+MGRS: 16REK9575511419
+ELEVATION: OFT OM
+
+RANGE TO TGT: 20.0NM 121521FT 37040M
+
+BEARING: 181M To TGT
+DATUM: AdiBurFa
+
+5G Climb Maneuver
+
++5.0
+
+1367FT
+
+2548A 35438M
+
+2500A 3500M
+
+38867A 4867M
+59438M
+
+3910A 4910M
+4984M
+
+1867A 2367M
+2436M
+
+2512A 3512M
+3583M
+
+3258A 4258M
+
+38752FT
+
+30.9 SEC
+
+2.86 SEC
+
+4.94 SEC
+
+7.21 SEC
+
+AGD-3
+
+
+Text from AGD-3_Basic_Bombing_page_66.jpeg:
+CWDS SAFE ESCAPE/SAFE SEPARATION TABLE
+F15E PW220 W/CFT
+
+MAX FRAG TRAVEL
+
+MK-84 LD ALTITUDE (FT) HORIZONTAL (FT) TOF (SEC)
+5G Climb Maneuver 2855 3295 28.9
+OFT TDA
+RELEASE SAFE ESCAPE
+SINGLE RIPPLE - 2 BOMBS
+30 MSEC 75 FEET 150 FEET
+DIVE ALT
+ANG TAS LOST MRA _ TOF MRA IMP MRA INTV | MRA _INTV
+DEG KNOTS FEET FEET SEC FEET FEET | FEET MSEC | FEET MSEC
+0.0 450 0 480 5.12 480 22 490 99 500 197
+0.0 475 0 460 4.97 460 24 470 94 480 188
+0.0 500 0 440 4.84 440 25 450 89 460 179
+0.0 525 0 420 4.71 430 26 430 85 440 170
+0.0 550 0 420 4.68 430 27 430 81 440 163
+0.0 575 0 420 4.66 420 28 430 717 440 156
+0.0 600 0 420 4.63 420 29 420 74 430 151
+0.0 625 0 420 4.77 420 30 420 72 430 147
+0.0 650 0 420 4.78 420 31 430 70 430 143
+5.0 450 100 790 5.01 800 16 810 136 840 271
+5.0 475 100 790 4.91 790 17 810 132 830 263
+5.0 500 110 790 4.83 790 17 810 127 830 255
+5.0 525 120 780 4.70 780 18 800 124 820 248
+5.0 550 120 790 4.66 790 18 810 120 830 241
+5.0 575 130 800 4.62 810 19 820 118 840 234
+5.0 600 140 810 4.58 820 19 830 115 850 229
+5.0 625 150 830 4.68 830 19 850 114 870 225
+5.0 650 150 840 4.66 850 19 860 114 880 224
+10.0 450 240 1120 5.02 1130 13 1160 174 1200 845
+10.0 475 250 1110 4.85 1120 13 1150 171 1180 341
+10.0 500 270 1130 4.80 1140 13 1170 167 1210 3832
+10.0 525 290 1150 4.75 1150 13 1180 164 1220 326
+10.0 550 310 1150 4.63 1170 14 1190 161 1230 821
+10.0 575 330 1190 4.65 1200 14 1220 157 1260 314
+10.0 600 350 1210 4.60 1220 14 1250 156 1290 307
+10.0 625 370 1240 4.65 1250 14 1280 153 1320 302
+10.0 650 400 1270 4.65 1280 14 1300 154 1340 306
+15.0 450 410 1440 5.02 1460 10 1500 213 1560 422
+15.0 475 450 1460 4.91 1470 11 1510 211 1570 418
+15.0 500 480 1480 4.82 1490 11 1540 207 1600 411
+15.0 525 520 1510 4.76 1520 11 1570 204 1630 405
+15.0 550 560 1540 4.71 1550 11 1600 201 1660 399
+15.0 575 600 1570 4.65 1580 11 1630 198 1690 394
+15.0 600 640 1610 4.62 1630 11 1670 194 1730 388
+15.0 625 680 1650 4.64 1670 11 1710 191 1770 383
+15.0 650 720 1690 4.63 1700 11 1750 190 1810 382
+20.0 450 630 1750 5.01 1770 9 1840 249 1920 494
+20.0 475 680 1780 4.90 1790 9 1860 249 1940 493
+20.0 500 740 1820 4.84 1840 9 1910 246 1990 490
+20.0 525 790 1870 4.79 1890 9 1960 244 | 2040 486
+20.0 550 850 1920 4.75 1930 9 2000 242 | 2090 483
+20.0 575 920 1950 4.67 1970 9 2040 243 | 2120 480
+20.0 600 980 | 2010 4.66 2030 9 2100 240 | 2190 473
+20.0 625 1050 | 2060 4.66 2080 9 2160 238 | 2240 468
+20.0 650 1110 | 2110 4.65 2130 9 2210 236 | 2290 466
+AGD-3 G-4
+
+
+
+Text from AGD-3_Basic_Bombing_page_67.jpeg:
+F15E PW220 W/CFT
+
+MK-84 LD
+
+5G Climb Maneuver
+
+OFT TDA
+
+RELEASE SAFE ESCAPE
+
+SINGLE RIPPLE - 2 BOMBS
+30 MSEC 75 FEET 150 FEET
+
+DIVE ALT
+
+ANG TAS LOST MRA _ TOF MRA IMP MRA INTV | MRA _INTV
+
+DEG KNOTS FEET FEET SEC FEET FEET | FEET MSEC | FEET MSEC
+25.0 475 950 | 2090 4.90 2100 8 2190 289 | 2290 573
+25.0 500 1030 | 2150 4.85 2170 8 2270 286 | 2370 569
+25.0 525 1120 | 2210 4.80 1230 8 2330 288 | 2440 568
+25.0 550 1200 | 2270 4.75 2280 8 2390 288 | 2510 566
+25.0 575 1290 | 2320 4.70 2340 7 2450 288 | 2570 567
+25.0 600 1380 | 2390 4.68 2410 7 2530 286 | 2650 563
+25.0 625 1480 | 2460 4.68 2480 7 2600 283 | 2720 559
+25.0 650 1580 | 2520 4.66 2540 7 2660 281 | 2790 553
+30.0 450 1150 | 2350 5.02 2370 7 2500 3827 | 2620 651
+30.0 475 1260 | 2380 4.88 2390 7 2530 830 | 2670 655
+30.0 500 1370 | 2470 4.86 2490 7 2620 328 | 2760 653
+30.0 525 1490 | 2540 4.81 2550 7 2690 332 | 2840 652
+30.0 550 1610 | 2600 4.75 2620 6 2760 3832 | 2910 654
+30.0 575 1720 | 2670 4.70 2690 6 2840 832 | 3000 654
+30.0 600 1840 | 2760 4.70 2780 6 2940 3832 | 3100 653
+30.0 625 1960 | 2840 4.69 2870 6 3030 331 | 3200 651
+30.0 650 2100 | 2920 4.69 2940 6 3110 328 | 3280 646
+35.0 450 1460 | 2630 5.03 2650 6 2800 877 | 2960 739
+35.0 475 1600 | 2660 4.88 2690 6 2860 880 | 3040 743
+35.0 500 1750 | 2760 4.85 2780 6 2960 879 | 3140 743
+35.0 525 1910 | 2840 4.80 2860 6 3040 381 | 3230 745
+35.0 550 2050 | 2920 4.75 2930 6 3120 882 | 3320 748
+35.0 575 2210 | 3000 4.71 3030 6 3230 883 | 3440 747
+35.0 600 2360 | 3110 4.71 3140 6 3340 884 | 3560 748
+35.0 625 2510 | 3210 4.71 3240 6 3450 3884 | 3670 752
+35.0 650 2670 | 3300 4.71 3330 6 3550 384 | 3780 749
+40.0 450 1790 | 2870 5.00 2890 5 3090 428 | 3290 838
+40.0 475 1980 | 2930 4.89 2960 5 3180 431 | 3410 839
+40.0 500 2170 | 3030 4.85 3060 5 3290 431 | 3510 843
+40.0 525 2360 | 3120 4.79 3140 5 3380 434 | 3620 847
+40.0 550 2550 | 3210 4.74 3230 5 3480 436 | 3730 850
+40.0 575 2740 | 3320 4.72 3350 5 3610 436 | 3870 850
+40.0 600 2930 | 3430 4.71 3470 5 3730 439 | 4010 853
+40.0 625 8110 | 3550 4.71 3580 5 3860 441 | 4140 859
+40.0 650 3290 | 3670 4.74 3700 5 3990 444 | 4280 864
+45.0 450 2150 | 3090 4.97 3110 5 3350 488 | 3620 947
+45.0 475 2380 | 3180 4.90 3210 5 3480 489 | 3760 949
+45.0 500 2610 | 3290 4.85 3310 5 3600 491 | 3890 953
+45.0 525 2850 | 3380 4.78 3400 4 3700 495 | 4010 959
+45.0 550 3100 | 3480 4.74 3510 4 3830 496 | 4150 962
+45.0 575 3330 | 3610 4.73 3640 5 3970 498 | 4300 964
+45.0 600 3540 | 3740 4.72 3770 5 4110 500 | 4460 968
+45.0 625 8750 | 38870 4.73 3900 5 4260 504 | 4610 977
+45.0 650 3950 | 4000 4.74 4040 4 4410 508 | 4780 999
+50.0 450 2530 | 3290 4.95 3300 4 3640 552 | 3970 | 1068
+
+G-5 AGD-3
+
+
+
+Text from AGD-3_Basic_Bombing_page_68.jpeg:
+F15E PW220 W/CFT
+
+MK-84 LD
+5G Climb Maneuver
+OFT TDA
+RELEASE SAFE ESCAPE
+
+SINGLE RIPPLE - 2 BOMBS
+
+30 MSEC 75 FEET 150 FEET
+
+DIVE ALT
+ANG TAS LOST MRA TOF |MRA IMP | MRA __ INTV | MRA _INTV
+DEG KNOTS | FEET FEET SEC | FEET FEET| FEET MSEC | FEET MSEC
+50.0 500 3100 3510 4.83 | 3540 4| 3890 559 | 4250 ae
+50.0 525 3380 3610 4.77 | 3640 4| 4020 562 | 4400 1986
+50.0 550 3680 3740 4.74 | 3770 4| 4170 563 | 4570 106
+50.0 575 3950 +3890 4.7 | (3980) (  4)| (4410) (556) _ | (4850) erat
+50.0 600 4210 4030 4.7 | (4240) (  4)| (4670) (547) | (120) ee
+50.0 625 4460 4170 4.7 | (4490) (  5)| (4930) (553) | (6360) ince
+50.0 650 4670 4400 4.9 | (4690) (  5)| (5150) (576) | (5590) 1090)
+AGD-3 G-6
+
+
+
+Text from AGD-3_Basic_Bombing_page_69.jpeg:
+CWDS BALLISTIC TABLE
+
+A/C F15E PW220 W/CFT GROSS WEIGHT 55000
+WPN MK-84 LD
+
+DELIVERY Dive
+
+SUSP BRU-47/A
+
+TDA 1000 FT
+
+DIVE RELEASE BOMB TIME SLANT IMPACT SIGHT WIND
+CORRECTION
+
+ANGLE ALT TAS RANGE OF RANGE ANGLE DEP FROM FACTORS
+ABOVE FALL FLIGHT H/T CROSS
+TGT PATH DRIFT
+DEG FT KTS FT SEC FT DEG MILS MILS/KT FT/KT
+20 3500 450 6052 8.63 6991 38 176 1.0 15
+20 3500 500 6367 8.19 7266 36 155 0.9 14
+20 3500 550 6633 7.78 7499 34 138 0.8 13
+20 4000 450 £6678 9.54 7785 39 192 1.1 16
+20 4000 500 7043 9.07 8100 37 168 0.9 15
+20 4000 550 7354 8.65 8371 35 150 0.8 15
+20 4500 450 7274 10.40 8553 41 206 1.1 18
+20 4500 500 7688 9.92 8908 38 181 0.9 17
+20 4500 550 8043 9.47 9216 37 162 0.8 16
+30 3500 450  ##ERROR: Failed to meet fuze arming criteria.
+30 3500 500 ERROR: Failed to meet fuze arming criteria.
+30 3500 550 ERROR: Failed to meet fuze arming criteria.
+30 4000 450 _5048 7.83 6441 45 148 1.3 13
+00 5249 1.1
+
+0 4000 0 nhHOR: Failed to meet fuze arming criteria.
+30 4500 450 5544 8.61 7140 46 159 1.3 15
+30 4500 500 5778 8.09 7323 44 139 1.1 14
+30 4500 550 5968 7.63 7474 42 123 1.0 13
+40 3500 450 ##ERROR: Failed to meet fuze arming criteria.
+40 3500 500 ERROR: Failed to meet fuze arming criteria.
+40 3500 550 ERROR: Failed to meet fuze arming criteria.
+40 4000 450 ERROR: Failed to meet fuze arming criteria.
+40 4000 500 ERROR: Failed to meet fuze arming criteria.
+40 4000 550 ERROR: Failed to meet fuze arming criteria.
+40 4500 450 4191 7.38 6150 52 124 1.5 12
+40 4500 500 ERROR: Failed to meet fuze arming criteria.
+
+40 4500 550 ERROR: Failed to meet fuze arming criteria.
+
+G-7 AGD-3
+
+
+Text from AGD-3_Basic_Bombing_page_7.jpeg:
+TEXT
+BOMBING TERMS AND RELATIONSHIPS
+
+There is much more to the bombing problem than just pointing the aircraft at
+the target and releasing the bomb. To establish the picture, it helps to know
+and understand the terms and relationships which exist in the basic bombing
+problem. Even if you never perform a manual delivery, this background in
+the bombing problem should help you improve your preflight planning and
+your range scores.
+
+Time of Fall
+
+The time of fall (TOF) of a bomb is simply the time from release to impact.
+TOF is determined by aircraft altitude, dive angle, and airspeed at bomb
+release; ejection velocity; gravity; and bomb drag. This time is most
+important to you when determining fuze arm times and minimum release
+altitudes. The TOF value for a given set of delivery parameters is found in
+ballistic tables and is given in seconds. Though difficult to compute, this time
+is the basis for the rest of the ballistic computations. For a level delivery of a
+dragless bomb, TOF can be calculated by the formula:
+
+2h
+g
+
+t=
+
+where
+t = TOF
+h = distance of fall
+g = gravity (32.2 ft/sec’)
+
+D-1 AGD-3
+
+
+Text from AGD-3_Basic_Bombing_page_70.jpeg:
+CWDS ERROR ANALYSIS OUTPUT
+
+A/C F15E PW220 W/CFT
+
+WPN MK-84 LD
+
+DELIVERY Dive
+
+SUSP BRU-47/A
+
+TDA 1000 FT
+
+ACFT GROSS WEIGHT 55000
+
+INTENDED) DIVE ANGLE: sssccsverseessveseccourerceereversecarererevesvsoncerseeeenesys 30
+
+INTENDED RELEASE ALTITUDE... eee ceeeeeeeeees 3910A 4910M
+
+INTENDED RELEASE AIRSPEED 0.0.0... cece eect eeeeeeeeees 470C 500T .77M
+DIVE RELEASE ALT RELEASE A/S ERROR
+ANGLE MSL AGL KCAS KTAS MACH
+25 4410 3410 463 490 0.75 132 FT SHORT
+25 4410 3410 473 500 0.77 74 FT SHORT
+25 4410 3410 482 510 0.78 20 FT SHORT
+25 4910 3910 460 490 0.75 3823 FT SHORT
+25 4910 3910 470 500 0.77 256 FT SHORT
+25 4910 3910 479 510 0.78 191 FT SHORT
+25 5410 4410 457 490 0.75 542 FT SHORT
+25 5410 4410 467 500 0.77 464 FT SHORT
+25 5410 4410 476 510 0.79 390 FT SHORT
+30 4410 3410 463 490 0.75 66 FT LONG
+30 4410 3410 473 500 0.77 108 FT LONG
+30 4410 3410 482 510 0.78 147 FT LONG
+30 4910 3910 460 490 0.75 50 FT SHORT
+30 4910 3910 470 500 0.77 ON TARGET
+30 4910 3910 479 510 0.78 47 FT LONG
+30 5410 4410 457 490 0.75 188 FT SHORT
+30 5410 4410 467 500 0.77 129 FT SHORT
+30 5410 4410 476 510 0.79 74 FT SHORT
+35 4410 3410 463 490 0.75 174 FT LONG
+35 4410 3410 473 500 0.77 207 FT LONG
+35 4410 3410 482 510 0.78 236 FT LONG
+35 4910 3910 460 490 0.75 106 FT LONG
+35 4910 3910 470 500 0.77 146 FT LONG
+35 4910 3910 479 510 0.78 182 FT LONG
+35 5410 4410 457 490 0.75 22 FT LONG
+35 5410 4410 467 500 0.77 69 FT LONG
+35 5410 4410 476 510 0.79 110 FT LONG
+
+AGD-3 G-8
+
+
+Text from AGD-3_Basic_Bombing_page_71.jpeg:
+(This Page Intentionally Blank)
+
+G-9 AGD-3
+
+
+Text from AGD-3_Basic_Bombing_page_72.jpeg:
+BACK PAGE
+COVER SHEET
+
+
+Text from AGD-3_Basic_Bombing_page_8.jpeg:
+Bomb Range
+
+Bomb range (Figure D-1) is simply the horizontal distance a bomb travels
+during its time of fall. Without drag, range is equal to the horizontal
+component of true airspeed at release multiplied by the bomb time of fall.
+The bomb range for a given set of delivery parameters can be found in
+ballistic tables and is given in feet. The bombing problem is determining
+when your range to the target is equal to the current bomb range. Any
+variation in release velocity, dive angle, or altitude affects bomb range and
+delivery accuracy.
+
+<———80mB RANGE > BOMB TRAIL——>|
+
+AGD-03-01
+
+Figure D - 1. Bomb Range and Bomb Trail.
+
+AGD-3 D-2
+
+
+Text from AGD-3_Basic_Bombing_page_9.jpeg:
+Bomb Trail
+
+Bomb trail (Figure D-1) reflects the drag effect in bomb range. Because a
+bomb has drag, it begins to lose forward speed as soon as it is released and
+begins to lag behind the aircraft. The distance a bomb lags behind the
+delivery aircraft is called bomb trail. This value is not directly computed nor
+is it given in Dash 34 tables. The higher the drag and the longer the TOF of
+a bomb, the larger its bomb trail.
+
+To calculate bomb trail, subtract bomb range from average aircraft velocity
+(in ft/sec) times bomb TOF.
+
+bomb trail = (aircraft velocity x bomb TOF) — (bomb range)
+
+Ballistic Trajectory
+
+Ballistic trajectory is the path of a munition from release to impact. This
+trajectory is the result of release velocity, release angle, release height above
+the target, gravity, and weapon drag characteristics.
+
+Mil (Milliradian)
+
+Mil is a term commonly used as an abbreviation for milliradian (1/1000 of a
+radian). A radian is a unit of plane angular measurement equal to the angle
+at the center of a circle subtended by an arc equal in length to the radius of
+the circle. Since the circumference of a circle is equal to 27 times the radius,
+there are 27, or 6.283, radians (6283 milliradians) in a complete circle. Since
+a circle with a radius of 1000 feet has a circumference of 6283 feet
+
+(c = 2x x 1000 = 6283), each milliradian subtends one foot at a range of
+
+1000 feet. The relationship of milliradians to degrees is:
+
+1 mil = et 0.0573°
+6283
+
+17.453 mils = 1°
+
+D-3 AGD-3
+
+

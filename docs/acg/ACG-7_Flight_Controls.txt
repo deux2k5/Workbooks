@@ -1,0 +1,1851 @@
+Text from ACG-7_Flight_Controls_page_1.jpeg:
+SUPPORTS COURSES
+FIS5EBQ
+
+FISETX
+
+FISESOC
+
+ACADEMIC STUDENT WORKBOOK
+F-15E
+
+AIRCRAFT GENERAL
+ACG-7
+FLIGHT CONTROLS
+
+SEPTEMBER 1999
+
+(SUITE 3 OFP)
+
+AIR COMBAT COMMAND
+
+
+Text from ACG-7_Flight_Controls_page_10.jpeg:
+Pitch Trim Compensator
+
+Manual trim is controlled by the trim button on the stick, which changes
+the neutral position of the longitudinal feel spring. This determines the
+neutral (zero force) position of the stick. Automatic pitch trim is done
+through a combination of the pitch trim compensator (PTC) and the
+control augmentation system (CAS). It is a series input downstream of
+the stick that compensates for changes in airspeed or configuration,
+without manual trim inputs. It changes the stab position without moving
+the stick. A rough estimate of the required auto trim input is made by the
+pitch trim compensator. However, the primary calculation is supplied by
+the CAS through an interconnect. The automatic pitch trim also drives to
+a midrange position and locks if UTL A/PC2 A hydraulic pressure is lost
+or the pitch ratio switch is placed to EMERG.
+
+Roll Ratio Changer
+
+The roll ratio changer works much the same as the pitch ratio changer to
+give a relatively constant roll response for a given lateral stick input. For
+example, at high speed the ratio is lower than at low speed. However, its
+job is more complex since pitch (AOA) is also a factor in figuring roll
+sensitivity. The roll ratio changer looks at longitudinal stick position
+(approximate predictor of AOA) before computing the ratio between stick
+movement and aileron/differential stab deflection in order to prevent
+adverse yaw.
+
+Also, at aft stick positions the ratio to the ailerons/stabs is lower. Unlike
+the pitch ratio changer, there is no gauge that displays the roll ratio.
+
+When roll inputs are being “washed out” due to aft stick, a corresponding
+input is made to the ARI to blend in some rudder. The roll ratio will also
+go to midrange and lock if hydraulic pressure is lost or the roll ratio switch
+is placed to EMERG. A spin recovery aid provides full lateral control
+authority, regardless of longitudinal stick position, when the yaw rate
+exceeds 41.5°/sec and remains greater than 30°/sec for 5 seconds. If the
+yaw rate exceeds 57°/sec, the spin recovery aid is available immediately.
+Normal control authority resumes when the yaw rate drops below 30°/sec.
+Full aileron/differential stab authority is also available with the landing
+gear down.
+
+ACG-7 D-4
+
+
+Text from ACG-7_Flight_Controls_page_11.jpeg:
+Hydromechanical Aileron-Rudder Interconnect (HM ARI)
+
+The HM ARI is mechanically linked to the stick, the rudder pedals and the
+PRCA. It estimates and applies coordinated rudder based on lateral and
+longitudinal stick input. As the stick is moved aft of center, the HM ARI
+applies more and more rudder for a given lateral stick position (up to 15°
+of rudder per inch of lateral stick movement). As the stick is moved
+forward of center, the HM ARI applies rudder in the opposite direction (up
+to 7.5° of rudder per inch of lateral stick movement). HM ARI inputs are
+always summed with rudder pedal inputs. The ARI does not work if the
+PRCA is inop; so, if UTL A/PC2 A is lost or if pitch or roll ratios are in
+EMERG, the ARI is inop. Above Mach 1.0, HR ARI rudder input is not
+desired, so the HM ARI is automatically disengaged. ARI is also
+disengaged when the wheels are spinning at 50 knots or faster during
+takeoff or landing so that the ARI does not interfere with pilot flight
+control movements. However, if the anti-skid switch is placed to PULSER
+or OFF, the ARI is cut out as soon as the gear handle is placed down.
+
+Rudder Pedal Travel Limiter
+
+To prevent the rudder pedals from moving the rudders too far in high
+speed flight, a rudder pedal travel limiter is provided in each cockpit. It
+physically limits pedal travel to 1/3 of normal (which displaces the rudder
+about 5°) when above Mach 1.5 and retracts when the speed drops below
+it.
+
+D-5 ACG-7
+
+
+Text from ACG-7_Flight_Controls_page_12.jpeg:
+QUESTIONS
+
+1. The F-15E flight control system is made up of the and
+the .
+
+2. The CSBPC is composed of the and the .
+
+3. The CSBPC is powered by the , backed up by the
+
+4. The primary function of the pitch ratio changer is
+
+5. Ifthe PRCA is not operational, the will also be inoperative.
+6. The ailerons are operated by the system only.
+7. The stabilators provide and control.
+
+8. Placing the pitch ratio switch in EMERG causes the ratio to drive
+to . This is displayed on the pitch ratio indicator by the
+needle pointing to .
+
+ACG-7 D-6
+
+
+Text from ACG-7_Flight_Controls_page_13.jpeg:
+ANSWERS
+hydromechanical system (HM), automatic flight control system
+(AFCS)
+PRCA, ARI
+UTIL A hydraulic circuit, PC2 A hydraulic circuit
+
+to produce a constant G for a given stick input throughout the flight
+envelope
+
+HM ARI
+HM
+pitch, roll
+
+midrange, .3 to .5
+
+D-7 ACG-7
+
+
+Text from ACG-7_Flight_Controls_page_14.jpeg:
+AUTOMATIC FLIGHT CONTROL SYSTEM (AFCS)
+
+The AFCS is the “electrical” part of the flight control system that parallels
+the HM system. It is made up of the control augmentation system (CAS)
+and the autopilot (Figure D-4).
+
+AUTOMATIC FLIGHT
+CONTROL SYSTEM
+
+ed
+a
+AUTOPILOT
+
+FLIGHT
+
+CONTROL
+ACTUATORS
+
+HYDROMECHANICAL
+SYSTEM
+
+CSBPC
+
+PRCA ARI
+
+ACG-07-04
+
+Figure D - 4. AFCS.
+
+The major functions of the CAS are:
+@ Stability augmentation
+
+@ Refinements to the HM system
+
+ACG-7 D-8
+
+
+Text from ACG-7_Flight_Controls_page_15.jpeg:
+The CAS is a three axis, three channel fly-by-wire flight control system
+that overlays and tracks the HM system (Figure D-5). It normally works
+with the HM system but is capable of adequate control on its own. It
+takes aircrew commands, measured by the stick force sensors and rudder
+pedal position transducers, and compares them to the aircraft response
+measured by motion sensors (accelerometers, rate gyros, AOA sensors).
+The flight control computer (FCC) then refines the commands by adding
+or subtracting control surface displacement until the airplane response is
+precisely that requested.
+
+CENT MECHANICAL STABILATOR
+COMPUTER ACTUATOR
+ELECTRICAL
+
+STABILATOR
+
+ACTUATOR
+LANTIRN FLIGHT
+CONTROL
+
+COMPUTER AILERON
+
+ACTUATOR
+
+SENSORS
+AILERON
+ACTUATOR
+
+mii
+
+PILOT
+INPUT
+
+RUDDER
+ACTUATOR
+
+RUDDER
+ACTUATOR
+
+ACG-07-05
+
+Figure D - 5. CAS.
+
+D-9 ACG-7
+
+
+Text from ACG-7_Flight_Controls_page_16.jpeg:
+The CAS provides a redundant capability for stability augmentation,
+damping and HM refinement in the pitch, roll and yaw axes. There are
+three channels in each axis. The inputs, computations and outputs made
+are triplex (i.e., there are three separate accelerometers per axis, triplex
+voting logic in the flight control computer, etc). If one channel in any axis
+disagrees with the other two, failure monitoring automatically removes
+the failed channel’s computation from that axis; however, the CAS
+continues operating on the two good channels (fail-operate). A subsequent
+“like” failure in one of the two remaining channels causes that CAS axis to
+disengage, leaving only the HM system to operate the controls (fail-safe).
+
+In addition to providing stability augmentation and refined handling, the
+CAS ARI (through the yaw axis) performs a function similar to that of the
+hydromechanical ARI. Whereas the HM ARI feeds in rudder as a function
+of stick position, the CAS ARI feeds in rudder as a function of roll rate and
+AOA and is, more accurately, a roll-rudder interconnect system. CAS ARI
+disengages at greater than or equal to Mach 1.5, wheel spin-up to greater
+than or equal to 50 knots and negative AOA.
+
+During a spin, the CAS drops off line (greater than 41.5° yaw rate) and
+cannot be reset while the spin condition exists in order to prevent pro-spin
+control inputs. However, a Direct Electric Link (DEL) is activated to
+provide a direct electrical interconnect from the lateral stick to the
+stabilator actuators, which enables the pilot to command maximum
+differential stabilators for spin recovery.
+
+ACG-7 D-10
+
+
+Text from ACG-7_Flight_Controls_page_17.jpeg:
+Pitch CAS
+
+The pitch CAS functions as shown in Figure D-6. It can command 10° of
+stab travel from the HM input, which gives it quite a bit of authority. It
+tracks the HM pitch system through the CAS interconnect (CAST)
+servoloop. At higher AOA, pitch CAS inputs are proportionally reduced to
+give a more normal feel (i.e., more aft stick force required for higher pitch
+attitude/rate). Pitch CAS will disengage if two of the triplex channels fail
+or if the CAS-HM interconnect fails. Also, pitch CAS will disengage if it
+detects a yaw rate of 41.5°/sec to preclude the possibility of making
+pro-spin inputs.
+
+PITCH RATE NORMAL
+
+GYROS ACCELEROMETERS
+Ss OF-ATTACK
+a
+| ] rusts, contRow CONTROL
+| ] rusts, contRow ——~»
+PRESSURE
+SENSORS
+MANUAL an
+
+TRIM AND Mas ef y
+TRIM SERVOLOOP ;
+\ STICK FORCE ee
+" ARI
+STICK
+
+PRCA
+
+ACG-07-06
+
+Figure D - 6. Pitch CAS.
+
+D-11 ACG-7
+
+
+Text from ACG-7_Flight_Controls_page_18.jpeg:
+Roll CAS
+
+The roll CAS works basically the same as pitch CAS (Figure D-7). It
+provides 5° differential authority over stab movement; it makes no input
+to the ailerons. Roll CAS is cut out above 30 units of AOA for spin
+prevention and has full authority on the ground at wheel spin-up
+
+(50 knots) to aid in crosswind landing control. It disengages if two
+channels fail and if either pitch or yaw CAS fails. It can be reset for a
+pitch-only failure but remains disengaged if yaw CAS fails.
+
+ROLL RATE PRESSURE
+J ANGLE-OF-ATTACK SENSORS SENSORS
+7 ——
+
+* TRIM ACTUATOR POSITION FLIGHT CONTROL
+COMPUTER
+
+STICK FORCE a
+
+ACG-07-07
+
+Figure D - 7. Roll CAS.
+
+ACG-7 D-12
+
+
+Text from ACG-7_Flight_Controls_page_19.jpeg:
+Yaw CAS
+
+As you might expect, the yaw CAS functions are basically the same as
+pitch and roll CAS (Figure D-8). Its authority is 15°. CAS ARI is provided
+by yaw CAS. Yaw CAS has 3.75° of authority to keep the ball centered;
+therefore, manual rudder trim is normally not used. Fail logic/
+disengagement is the same as that for pitch and roll; it also cuts out above
+41.5°/sec yaw rate.
+
+LATERAL
+ROLL RATE YAW RATE ACCELERATION
+SENSORS SENSORS SENSORS
+
+|] FLIGHT CONTROL
+
+COMPUTER
+
+YAW TRIM
+SWITCH
+
+ACG-07-08
+
+Figure D - 8. Yaw CAS.
+
+Circuit Breakers
+
+AFCS circuit breakers are located in the front cockpit only.
+
+D-18 ACG-7
+
+
+Text from ACG-7_Flight_Controls_page_2.jpeg:
+ADMINISTRATIVE INFORMATION
+
+This student workbook is designed to provide information on the F-15E,
+its systems and capabilities. It is not a sole source document, but is to be
+used in conjunction with other standard Air Force publications and
+technical manuals. If you find any differences between the material
+contained herein and other governing regulations, adhere to the
+regulations and notify the OPDR.
+
+Changes to this workbook are indicated with a heavy black line in the left
+margin.
+
+Forward recommendations for revision or change to 4 TS, SJAFB, NC
+275381.
+
+Supersedes: ACG-7, November 1998
+
+OPDR: 4 TS
+
+Index of Changes
+
+Effective Date Pages Affected
+
+
+
+Text from ACG-7_Flight_Controls_page_20.jpeg:
+Autopilot
+
+The autopilot can automatically maintain attitude/altitude and desired
+steering. For any autopilot mode or submode to operate, all CAS axes
+must be engaged and working properly. Also, the INS and the air data
+computer must be available for reference. Autopilot operation details are
+covered in another lesson.
+
+CONTROLS AND INDICATORS
+Control Stick
+There is a control stick in each cockpit consisting of a stick grip and a stick
+
+force transducer (Figure D-9). The sticks look different but perform the
+same flight control functions.
+
+New, ((@
+(c' Se TRIM BUTTON
+
+PADDLE SWITCH an
+
+FCP RCP
+
+Figure D - 9. Control Stick.
+
+ACG-07-09
+
+ACG-7 D-14
+
+
+Text from ACG-7_Flight_Controls_page_21.jpeg:
+There is a standard pitch/roll trim button on each stick grip. The force
+transducer, which sits at the base of the stick grip, senses and transmits
+aircrew inputs to the CAS. The paddle switch does the following when
+pressed:
+
+Terminates AFCS BIT (ground)
+
+Interrupts nose gear steering (ground) (press and hold)
+Disengages autopilot (air)
+
+Resets terrain following (TF) flyups (air)
+
+Interrupts auto and armed TF operations (air)
+
+Resets CAS (called rapid CAS reset) (air with yaw rate less than 10°
+per second)
+
+Rudder Pedals
+
+Each cockpit has a set of rudder pedals that perform rudder movement,
+wheel brake and nose gear steering functions.
+
+D-15 ACG-7
+
+
+Text from ACG-7_Flight_Controls_page_22.jpeg:
+Rudder Pedal Adjust Knob
+
+The rudder pedal adjust knob is located just above the center air
+conditioning louver in both cockpits (Figure D-10). Pulling it releases the
+pedals, which move toward you by heavy spring pressure. You must
+physically push them away for adjustment.
+
+NOTE
+Have your feet on the pedals before pulling the adjust knob.
+
+NOTE
+
+With the Rudder Pedal Adjust Knob pulled, you cannot brake or steer the
+aircraft.
+
+F—| FRONT
+4 }~COCKPIT
+
+EMERG BK
+Fs Top / RURD
+
+Figure D - 10. Rudder Pedal Adjust Knob.
+
+COCKPIT
+
+ACG-07-10
+
+ACG-7 D-16
+
+
+Text from ACG-7_Flight_Controls_page_23.jpeg:
+CAS Control Panel
+
+The CAS control panel is located on the left console just forward of the
+throttles in the front cockpit (Figure D-11). On it are the yaw, roll and
+pitch CAS switches, TF couple switch, takeoff trim button and light, and
+the BIT button.
+
+FRONT COCKPIT
+
+ACG-07-11
+
+Figure D - 11. CAS Control Panel.
+
+CAS Switches
+
+These switches control the three CAS axes and they function as follows:
+ON Allows normal operation after engagement.
+
+RESET Engages a disconnected axis providing no fault exists; the
+switch is spring loaded from RESET to ON.
+
+OFF Disengages the applicable axis; lever locked position.
+
+D-17 ACG-7
+
+
+Text from ACG-7_Flight_Controls_page_24.jpeg:
+The CAS channels should be engaged from left to right (yaw-roll-pitch).
+
+To reengage any one of the CAS channels, you momentarily go to the reset
+position which engages it, provided there is no malfunction in that
+channel. If you lose pitch CAS, the roll CAS will also disengage. You can
+reset the roll channel if nothing is wrong with it, even if the pitch channel
+will not reset. However, if you lose yaw CAS, roll will not reset until yaw
+CAS does.
+
+TF Couple Switch
+
+This two-position switch couples the automatic terrain following mode.
+
+Takeoff Trim Button and Light
+
+When the takeoff trim button is pressed, it drives the stick and rudder
+pedal feel springs to the takeoff position. This, in turn, moves the cockpit
+controls to their takeoff location and positions the rudders and ailerons to
+neutral and the stabs in a symmetrical, slightly nose up attitude. This
+provides maximum pitch authority for rotation at takeoff. The “YAW
+RATE, YAW RATE” voice warning and yaw rate departure warning tone
+sounds (900 Hz beeping tone corresponding to a yaw rate of approximately
+30°/sec) and the take off trim light comes on when the button is depressed
+and the flight control surfaces and flight controls are in the proper
+position. The tone and light go off when the button is released.
+
+BIT Push Button
+
+The BIT button on the CAS panel is used in concert with the paddle
+switch on the stick to clear AFCS BIT codes. To clear AFCS BIT codes,
+press and hold the paddle switch, and then press and release the BIT
+button. The AFCS BIT codes are cleared prior to flight control group
+checks.
+
+The BIT button is also used in concert with the MPD/MPCD BIT display
+
+to initiate an AFCS BIT. AFCS BIT initiation is described later in this
+workbook.
+
+ACG-7 D-18
+
+
+Text from ACG-7_Flight_Controls_page_25.jpeg:
+Pitch Ratio Switch and Indicator
+
+The pitch ratio switch and gauge are located next to the landing gear
+handle in the front cockpit (Figure D-12). With the switch in AUTO, the
+computing functions of the CSBPC work normally. If the switch is placed
+to EMERG, the pitch ratio changer drives to the midrange of .3 to .5 and
+locks; also, automatic pitch trim locks in midrange and the HM ARI is
+disabled.
+
+FRONT COCKPIT
+
+ACG-07-12
+
+Figure D - 12. Pitch Ratio Switch and Gauge.
+
+The gauge shows the position of the pitch ratio changer. The scale reads
+from zero, the minimum ratio, to a maximum value/ratio of 1.0. Below
+about 250 KCAS, the pitch ratio should be 1.0.
+
+D-19 ACG-7
+
+
+Text from ACG-7_Flight_Controls_page_26.jpeg:
+Roll Ratio Switch
+
+The roll ratio switch is located on the left side of the miscellaneous control
+panel in the front cockpit (Figure D-13). This switch works essentially the
+same as the pitch ratio switch.
+
+AUTO _ Provides normal system functions.
+
+EMERG Roll ratio drives to a midrange and locks; ARI is disabled.
+
+ANTI SKID
+NORM
+
+PULSER
+
+INLET RAMP
+AUTO
+
+FRONT COCKPIT
+
+ACG-07-13
+
+Figure D - 13. Roll Ratio Switch.
+
+Anti-Skid Switch
+
+The anti-skid switch also affects the flight control system. With the
+anti-skid switch in OFF or PULSER and the gear handle down, ARI is
+disengaged. With the switch in NORM the ARI is cut out if wheel speed is
+greater than 50 knots.
+
+ACG-7 D - 20
+
+
+Text from ACG-7_Flight_Controls_page_27.jpeg:
+Rudder Trim Switch
+
+Located in the right rear corner of both throttle quadrants, this switch
+changes the neutral position of the rudder feel spring and the rudder
+pedals. Normally, the yaw CAS makes use of this switch unnecessary.
+Warning Tones
+
+There are three warning tones that sound to indicate potentially
+hazardous flight regimes: gear down AOA tone, departure warning tone
+
+and high AOA warning tone.
+
+Landing Gear AOA Tone
+
+This 1600 Hz AOA warning tone beeps in flight when the angle-of-attack
+reaches approximately 30 units with the gear down. The beep rate
+increases with increasing AOA and does not stop until the AOA is reduced
+below 30 units.
+
+High AOA Tone
+
+A programmable high AOA warning tone incorporates a 900 Hz tone
+doublet (two short 10 Hz beeps followed by a 0.3 second pause) to cue the
+aircrew when the programmed AOA is exceeded. The AOA setting is
+changed at PB #15 on the HUD repeater display. The system defaults to
+30 units AOA at aircraft power up with CFTs, external A/G stores and
+miscellaneous stores; but can be programmed for 20 to 45 units AOA. For
+all other loadings the system defaults to off (to include A/A only). If the
+value is set at 46-50 units AOA, the tone is also off. Programming can be
+done on the ground or airborne. The warning tone is heard and the HUD
+AOA flashes when the programmed limit is equaled or exceeded.
+
+D-21 ACG-7
+
+
+Text from ACG-7_Flight_Controls_page_28.jpeg:
+Departure Warning Tone
+
+The departure warning tone provides warning of an impending departure
+and warns the aircrew of improper control inputs and excessive yaw rates.
+The required pilot action for excessive yaw rate is to smoothly neutralize
+the controls.
+
+Departure warning tone activation generates the “YAW RATE, YAW
+RATE” voice warning followed by a 900 Hz beeping tone when the yaw
+rate (under certain conditions) exceeds 15°/sec. As the yaw rate increases,
+the beep rate increases, reaching a maximum at 60°/sec yaw rate. This
+tone is the same as the one heard when setting the T/O Trim (beep rate
+for approximately 30°/sec yaw rate).
+
+The departure warning, the overload warning system and the high AOA
+warning all use the same 900 Hz tone. However, each tone uses a
+different repeat rate and the departure warning tone has priority over the
+other tones.
+
+ACG-7 D - 22
+
+
+Text from ACG-7_Flight_Controls_page_29.jpeg:
+Spin Recovery Display (SRD)
+
+The purpose of the SRD is to provide information to help the aircrew
+recover from an up-right or inverted spin and verify the out-of-control
+condition is a spin and not an auto-roll. When the flight control computer
+detects a spin condition, the CC displays an SRD on all MPD/MPCDs
+(Figure D-14), LAWS is reset to activate at 10,000’ AGL and again at
+5000’ AGL, and the VTRS split screen records the HUD and FCP left MPD
+until 30 seconds after recovery. “SPIN RECOVERY?” is displayed and an
+arrow indicates the required stick position (full left/full right), and throttle
+position bars indicate recommended throttle placement (idle/mil) for an
+upright spin. “CONTROLS NEUTRAL?” is displayed for an inverted spin.
+
+CALIBRATED
+AIRSPEED
+
+RECOMMENDED
+STICK
+MOVEMENT
+
+(imi
+
+RADAR (R) OR
+BARO
+ALTITUDE
+
+ANGLE- ——L RECOMMENDED
+
+OF-ATTACK A> 4 THROTTLE
+POSITIONS
+(LEFT IS MIL,
+RIGHT IS IDLE)
+
+ACG-07-14
+
+Figure D - 14. Spin Recovery Display.
+
+A “RESET CAS SW” caution displayed on the SRD indicates the DEL
+mode is not available in the spin. You must reset the CAS switches
+manually (no paddle switch) to extinguish the “RESET CAS SW’ caution
+and regain the DEL mode. Be advised this does not reset the CAS
+channels. It only resets the DEL mode.
+
+D - 238 ACG-7
+
+
+Text from ACG-7_Flight_Controls_page_3.jpeg:
+AIRCRAFT GENERAL
+
+= SS
+1. O
+o o\ fio a rere erie
+
+)
+
+COVER
+
+FLIGHT CONTROLS
+INTRODUCTION
+
+This workbook is your guide in studying the F-15E flight control system.
+It familiarizes you with the components, nomenclature and operational
+characteristics of the system and provides you with knowledge needed to
+safely operate the F-15E aircraft.
+
+CONTENTS:
+
+INTRODUCTION 0000. eecceeeseeeesneeceseeesssaeecesaaeecnsaeeeesaeesssaeesensaees A-1
+CRITERION REFERENCED OBJECTIVES (CROs)............eeseeceeeeeeees B-1
+STUDENT PREPARATION REQUIREMENTS . 0.0... eeeeeees C-1
+CREEL on crs somes ame On ames er co a SRE OES MOON SN SR EE NG NN MRD 9 MoM HPL eS oO MO aN aD ORE D-1
+END OF TEXT QUIZ oo... ec eecceeeseeessceceseeeessaeesesaeesensaeesesaeeesaees E-1
+GLOSSARY 00 eee eeeseeeessneeeesseeeessacecesaeecssaeecessaeeessaeesesaeeessaeeseeaeeees F-1
+
+A-1 ACG-7
+
+
+Text from ACG-7_Flight_Controls_page_30.jpeg:
+When the spin is no longer detected, “RECOVER” replaces “SPIN
+RECOVERY,” the throttle bars are slewed to the same height, and the
+stick arrow is removed. Four seconds after “RECOVER” is shown on the
+SRD, all displays return to their pre-spin assigned format.
+
+The SRD is not a selectable format and cannot be tested on the ground.
+
+MALFUNCTION INDICATIONS
+
+Flight control malfunction indications are presented in the cockpit in two
+different ways. Some are displayed on the FCP right MPD and RCP right
+MPCD and cause the FLT CONTR major category caution light and
+MASTER CAUTION light to illuminate. Others are displayed on the
+BIT/DETAIL/AFCS/STATUS page. These trigger the AV BIT, FLT
+CONTR and MASTER CAUTION lights.
+
+Flight Control Caution Light
+
+The amber flight control caution light, labeled FLT CONTR, is one of the
+major category lights on the caution lights panel (Figure D-15). The
+purpose of the flight control caution light is to prompt you to check the
+MPD/MPCD for a specific caution from that category, or if it illuminates
+in conjunction with the AV BIT light, to check the BIT/DETAIL/AFCS/
+STATUS page for other flight control anomalies.
+
+®
+
+& BIT (f- cDl AUTO Vv RNG & \ OFF
+ro _} “ Vil hey a CL)
+a Slee NP ye al =
+
+Ee 6
+————— LJ v = y ; A v L
+sd MASTER Org He "te OE C)
+{CSS (ELT. CONTR CAUTION — oN = al =
+————— — a \vfa 5)
+FCP =I Ih ay yes WA
+= |F  casrou | —
+1s
+F TONCNONONON cnt!
+® ® ®
+
+FCP MPD/MPCD
+
+a ee ee eee | | |
+
+Moor © CONTR
+RCP
+
+ACG-07-15
+
+ACG-7 D - 24
+
+
+Text from ACG-7_Flight_Controls_page_31.jpeg:
+MPD/MPCD Cautions
+
+The following display cautions will trigger a MASTER CAUTION light
+and FLT CONTR major category caution light:
+
+PITCH RATIO CAS YAW CAS ROLL
+ROLL RATIO LAT STK LMT HI AOA DGRD
+CAS PITCH RUDR LMTR AUTO PLT
+
+The following tables give the indication, malfunction and cause (Table D-1
+and D-2).
+
+Malfunction
+
+PITCH Pitch ratio is not being
+RATIO computed normally.
+
+ROLL Roll ratio is not being
+RATIO computed normally.
+
+Loss of UTL A/PC2 A
+
+PRCA problem
+
+Pitch ratio switch in EMERG
+
+Pitch ratio versus airspeed is incorrect
+below 20,000 ft
+
+Loss of UTL A/PC2 A
+
+PRCA problem
+
+Gear handle being down and full roll
+authority not available
+
+Gear handle being up and full roll
+authority still available
+
+Roll authority greater than 2/3 of
+maximum above Mach 1.5 (may also
+indicate mechanical ARI has not been
+commanded OFF)
+
+Roll ratio switch in EMERG
+
+Spin condition is present without full
+roll authority being available
+
+CAS PITCH | Pitch CAS is not Dual pitch channel failure
+
+engaged. Pitch handling Pitch CAS switch OFF
+
+qualities are degraded Note
+
+and, if auto TF is Call up the BIT/DETAIL/AFCS/STATUS page
+
+engaged, a flyup is and check for the CASI SERVOLOOP legend.
+
+commanded. A fault in the CAS - HM interconnect can cause
+pitch CAS to fail and not reset. The pitch CAS
+may reset if the pitch ratio is placed to
+emergency.
+
+CAS ROLL Roll CAS is not engaged.
+Roll response may be
+degraded. Additionally,
+if the pitch or yaw CAS
+disengage, roll CAS also
+disengages.
+
+Table D - 1.
+
+ACG-7
+
+
+Text from ACG-7_Flight_Controls_page_32.jpeg:
+CAS YAW Yaw CAS is not engaged.
+Lateral/ directional
+stability is degraded.
+CAS may be degraded
+above 30 units AOA.
+
+LAT STK Stick authority may be ¢ Spin recovery circuitry is inop
+LMT computed incorrectly for | Roll limit has failed (static or pitot
+certain flight regimes. pressure invalid)
+¢ Left or right rudder CAS servo is inop
+
+RUDR Rudder limiter is not
+
+LMTR engaged if above Mach
+1.5 or the rudder limiter
+is engaged if below Mach
+1.5.
+
+HI AOA CAS may be degraded
+DGRD above 30 units AOA.
+
+AUTO PLT AUTO PLT malfunction The reason for autopilot or TF problems
+or disengagement due to | will be displayed on the
+exceeding autopilot BIT/DETAIL/AFCS/STATUS page (see
+limits. AUTO PLT next section, Figure D-18).
+display caution will reset
+with FCP Master caution
+
+light.
+
+Table D - 2.
+
+ACG-7 D - 26
+
+
+Text from ACG-7_Flight_Controls_page_33.jpeg:
+AV BIT Caution Light
+
+The AV BIT caution light (Figure D-16) illuminates if an AFCS
+malfunction occurs, as displayed on the BIT/DETAIL/AFCS/STATUS page
+(Figure D-18). It will also trigger the FLT CONTR and MASTER
+CAUTION lights. Pressing either cockpit MASTER CAUTION light will
+reset the AV BIT and FLT CONTR light.
+
+FLT CONTR
+
+to
+
+Figure D - 16. AV BIT Caution.
+
+ACG-07-16
+
+D-27 ACG-7
+
+
+Text from ACG-7_Flight_Controls_page_34.jpeg:
+To determine why the AV BIT/FLT CONTR lights illuminated, bring up
+the BIT menu on an MPD/MPCD. “AFCS*” will be displayed (Figure
+D-17). Select DETAIL (PB #17) from the BIT menu, and then select AFCS
+(PB #14) from the detail page.
+
+6, COWCONCOMLORC OW
+BIT (7 AUTO MAINT DETAIL SFDR = DETAIL
+
+Perl BUILT-IN TEST = BUILT-IN TEST
+[ } UFC Tews |
+
+EMD WY
+[ } AIM DCL =]
+() RDR Arcs" rot |)
+a LANT BIT2 a
+[ } exes M willl
+
+TCN AAI
+
+YK or oi4 AUC yy
+8 once < &
+® BRT LI]! | CONT ®
+
+BIT MENU BIT DETAIL SUBMENU
+
+ACG-07-17
+
+Figure D - 17. BIT Menus.
+
+Figure D-18 is the default page for an AFCS anomaly while airborne.
+Figure D-19 is the default page for an AFCS anomaly on the ground. The
+status page (Figure D-18) lists autopilot/TF failure causes at the top and
+AFCS functional failures at the bottom. All possible functional failures
+are shown for illustrative purposes. Push button #138 will cycle between
+the status page (operator information) and the faults page (maintenance
+information).
+
+ACG-7 D - 28
+
+
+Text from ACG-7_Flight_Controls_page_35.jpeg:
+|
+
+AOA FAIL
+
+CASI SERVOLOOP
+R/C/P STICK
+SPIN RECOVERY
+
+PCAS FIRST FAIL
+YCAS FIRST FAIL
+
+DETAIL
+
+BUILT-IN TEST
+AUTOPILOT/TF STATUS
+
+AUTOPILOT CAUTION:
+TF FLYUP:
+UNARMED WARNING:
+NO ATF WARNING:
+
+FAULTS
+
+FUNCTIONAL FAILURES
+
+NON HYDRAULIC BIT
+CAS RUDDER PEDAL
+ROLL LIMIT
+
+CAS ARI
+
+ONE RUDDER CAS
+RCAS FIRST FAIL
+
+RUN MBIT
+CABLE CONTINUITY FCC
+ACCEL SENS
+ENGA CONTR
+R/C/P SFS
+
+DETAIL
+
+BUILT-IN TEST
+
+A2 A12 A17
+
+LRU ISOLATION
+CARD SEAT
+RATE SENS
+
+F/C/P SFS
+PRESS SEN
+
+: 042 043 129 311 313 314 316
+340 354 673 674 675 679 680
+681 683 684 686 688 689
+
+: 674 675 798 801 859
+
+: 674 675 798 801 859
+
+STATUS
+
+Figure D - 19. BIT Detail AFCS Faults Page.
+
+D - 29
+
+ACG-07-18
+
+ACG-07-19
+
+ACG-7
+
+
+Text from ACG-7_Flight_Controls_page_36.jpeg:
+AV BIT Functional Failure Summaries
+
+The following are AFCS functional failures that can be displayed on the
+BIT/DETAIL/AFCS/STATUS page. They give an enhanced status of the
+flight control system. They are also covered in the in-flight checklist.
+(Refer to TO 1F-15E-1, Chapter 3, AFCS Functional Status Summary.)
+
+Indication
+
+PCAS FIRST FAIL
+
+RCAS FIRST FAIL
+
+YCAS FIRST FAIL
+
+CASI SERVOLOOP
+
+SPIN RECOVERY
+
+ACG-7
+
+Indicates one channel of the pitch CAS has
+failed. The system remains functional with a
+single failure, but attempt a reset to clear the
+fault. If reset fails with CFT stores and wing
+tanks, slow to 450 KCAS or less.
+
+Same as pitch CAS except in the roll axis.
+Not necessary to slow down.
+
+Same as pitch CAS except in the yaw axis.
+Not necessary to slow down.
+
+The link between the pitch CAS and the
+hydromechanical system has failed (pitch and
+roll CAS will also fail). You would have to
+select pitch ratio EMERG when straight and
+level below 300 KCAS, and then reset the
+pitch CAS.
+
+Indicates full mechanical roll authority may
+
+be incorrectly selected and the spin recovery
+
+aid may not be available. Do not exceed one-
+half lateral stick input or 30 units AOA.
+
+In conjunction with yaw CAS failure,
+indicates full mechanical authority will not be
+selected in a spin and DEL mode may not be
+available. Attempt to reset yaw CAS.
+
+
+Text from ACG-7_Flight_Controls_page_37.jpeg:
+R/C/P STICK
+
+CAS RUDDER PEDAL
+
+ONE RUDDER CAS
+
+CAS ARI
+
+ROLL LIMIT
+
+AOA FAIL
+
+May appear in conjunction with pitch and roll
+CAS failure. Indicates RCP stick force sensor
+has failed. Pitch CAS and roll will fail but
+should reset. RCP stick inputs result in
+reduced performance and RCP G capability is
+limited to 3.5 Gs maximum.
+
+May appear in conjunction with yaw CAS
+failure. Indicates rudder pedal position
+sensor has failed. Larger pedal inputs are
+required to overcome CAS for equivalent
+response. Normal mechanical plus
+dampening is available. If yaw CAS does not
+reset, limit AOA to below 30 units.
+
+May appear in conjunction with the lateral
+stick limit caution. Indicates rudder servo
+has failed. CAS gain is doubled to the
+remaining rudder; total rudder power is
+reduced. Limit flight to below Mach 1.0 and
+less than % lateral stick inputs.
+
+Indicates CAS ARI has failed or has been
+disengaged due to related failures. Above 30
+units pilot must use rudder to make
+coordinated flight control inputs. May appear
+with other fails (i.e., AOA FAIL, ROLL
+LIMIT). Mechanical ARI is still available.
+
+Cross check standby airspeed with HUD
+airspeed. If significant disagreement, limit
+lateral stick inputs to one-half. Lateral roll
+authority and pitch ratio may be incorrect.
+Limit AOA to 30 units. At airspeeds above
+550 KCAS/Mach 1.0, also limit lateral stick
+inputs to one-half.
+
+May appear in conjunction with lateral stick
+limit caution. Indicates AOA source
+disagreement. Limit stick inputs to one-half
+and maintain AOA below 30 units.
+
+D-31 ACG-7
+
+
+Text from ACG-7_Flight_Controls_page_38.jpeg:
+NON HYDRAULIC BIT During AFCS BIT, an incompatible state of
+hydraulic pressure switch or thermal switches
+found in PRCA. Because of this incompatible
+state, some BITs were not accomplished.
+Aircrew should perform another AFCS BIT to
+clear this functional failure comment.
+
+MALFUNCTION ACTIONS
+General
+
+If you detect or suspect a flight control malfunction while airborne, there
+are a few general rules to follow. First, terminate your maneuvering,
+climb to a safe altitude and slow down. Check the cockpit for warnings,
+cautions and advisory messages on the BIT/Detail page. If the CAS is off,
+attempt to reset. If the CAS is on, do not turn it off. It may be the only
+reason you are still in control. Refer to the checklist procedure and/or the
+AFCS functional status summary pages to determine actions. In most
+situations, a controllability check is a good idea to preclude surprises in
+the landing pattern. Know the system; know and use the checklist.
+
+Pitch Ratio Failure
+
+A pitch ratio malfunction may be detected by the appropriate caution
+indications or by abnormal pitch response (too much or too little
+oscillation). You can check the pitch ratio indicator for readings that are
+obviously incorrect or fluctuating.
+
+As with any malfunction or emergency, refer to the checklist. EMERG
+should only be tried if pitch CAS is still on line or the airspeed is below
+300 KCAS. Once below 300 knots, look at the pitch ratio indicator. If it
+reads below .3 or if oscillations are making control difficult, you can
+improve handling by selecting EMERG on the pitch ratio switch. This will
+also deactivate the HM ARI and lock the automatic pitch trim at
+midrange. As long as CAS is on line, control should be adequate for flight.
+Consider a controllability check prior to landing from a straight-in
+approach. If the pitch ratio fails during takeoff with the pitch CAS off,
+abort the takeoff if conditions permit.
+
+ACG-7 D - 32
+
+
+Text from ACG-7_Flight_Controls_page_39.jpeg:
+Roll Ratio Failure
+
+A roll ratio problem may be detected by the appropriate caution
+indications or by abnormal roll response. Evaluate handling qualities at
+approach speed with roll ratio in both AUTO and EMERG. EMERG cuts
+out the HM ARI but gives a moderate roll response. It may reduce the
+ability to level a heavy wing. With roll CAS off and roll ratio in EMERG,
+do not exceed 18 units AOA with large lateral asymmetry.
+
+Pitch CAS Failure with AFT CG
+
+If pitch CAS failure occurs with CG near the aft limit, handling qualities
+will be significantly degraded at low altitudes. Short, quick stick inputs
+will be required to preclude a PIO. You will have to slow the aircraft
+without using the speed brake (the speed brake may cause an
+uncontrollable pitch down). Evaluate handling qualities at slow speed.
+You may have to jettison external stores in order to maintain adequate
+aircraft control.
+
+Lateral Stick Limit Caution
+
+Reduce AOA below 30 units, limit lateral stick inputs to one-half, and
+check the BIT/DETAIL/AFCS/STATUS display. Several combination
+failures with LAT STK LMT caution are possible. Refer to the AFCS
+functional status summary.
+
+NOTE
+
+LAT STK LIMIT and YAW CAS cautions may be displayed after a
+
+single engine shutdown. This is normal—attempt a YAW CAS reset.
+
+Trim
+
+If the trim runs away in any direction, the aircraft is still completely
+controllable. Unless other flight control malfunctions are evident, leave
+the pitch and roll ratios in AUTO. Slow below 250 knots and if the
+condition cannot be controlled with normal trim controls, push the take off
+trim button. Pulling the AFCS ESS AC circuit breaker (upper-pitch trim,
+lower yaw and roll trim) removes power from the trim actuators. So,
+while holding the trim neutral, pull the appropriate circuit breakers.
+
+D - 33 ACG-7
+
+
+Text from ACG-7_Flight_Controls_page_4.jpeg:
+CRITERION REFERENCED OBJECTIVES (CROs)
+
+1. Identify the functions of the main components of the flight control
+system.
+
+2. Identify the functions and operational characteristics of the cockpit
+controls and indicators of the flight control system.
+
+3. Identify the control surface positions and cockpit indicator readings
+during the flight control ground checks.
+
+4. Identify indications of flight control system malfunctions and
+determine corrective actions.
+
+REFERENCES
+
+TO 1F-15E-1 Section I FLIGHT CONTROL SYSTEM
+
+AUTOMATIC FLIGHT CONTROL
+SYSTEM
+
+WARNING/CAUTION/ADVISORY
+LIGHTS (CAUTION LIGHTS)
+
+BIT SYSTEM (AFCS PREFLIGHT
+INITIATED BIT)
+
+FRONT COCKPIT CONTROLS
+
+REAR COCKPIT CONTROLS
+
+Section II BEFORE TAXIING (FCP)
+Flight Control Checks
+AFCS Preflight BIT
+
+Section III TAKEOFF
+Pitch Ratio Failure
+
+IN FLIGHT
+
+Flight Controls System Malfunction
+RUDR LMTR Caution
+
+LAT STK LMT Caution
+
+AFCS Functional Status Summary
+
+LANDING
+Controllability Check
+
+Section VI FLIGHT CHARACTERISTICS
+
+ACG-7 B-1
+
+
+Text from ACG-7_Flight_Controls_page_40.jpeg:
+Hydraulic Failure (UTL A/PC2 A)
+
+Loss of both the UTL A and PC2 A circuits has the same effect as placing
+the pitch and roll ratio switches to EMERG. The ratios lock at midrange,
+automatic pitch trim is lost and the HM ARI is inop.
+
+Rudder System Malfunctions (Deflected Rudder Malfunctions)
+
+If a rudder control cable is broken or jammed, flight control inputs, which
+cause rudder movement, will probably result in irreversible deflection of
+one or both rudders. Failure of a rudder actuator may cause that rudder
+to go hardover in one direction. These conditions can be confirmed
+visually; the aircraft should be controllable as long as the CAS is engaged.
+Do not turn the CAS off. Avoid unnecessary G loading since aircraft
+control will be reduced as AOA increases. Consider using asymmetrical
+thrust.
+
+Rudder Limit Caution
+
+Above Mach 1.5, limit rudder inputs to 1/3 to avoid excessive slide slip
+conditions. Below Mach 1.5, rudder pedal travel should be checked to
+verify if the travel is limited or unlimited. If limited, directional control
+during landing may be degraded because both rudder and nosewheel
+steering inputs will be limited. Pulling the right air inlet control circuit
+breaker in the rear cockpit may restore rudder pedal travel for landing
+(cuts power to the rudder limiter). However, the right inlet will move to
+the full up and locked position. If normal rudder travel cannot be
+regained, consider an approach end arrestment.
+
+CAS Failure
+
+Without the CAS, control is still provided by the HM system in a given
+axis; however, no stability augmentation or refined handling modifications
+are provided. As long as the HM system is operating normally, loss of the
+CAS causes only slight degradation of aircraft control. It will probably
+feel sensitive at high speed and sloppy at slow speed. If the CAS fails,
+attempt to reset. If the CAS keeps failing, leave it off to preclude a
+surprise disengagement during landing or other critical phase of flight. If
+yaw CAS fails and will not reset, maintain AOA below 30 units.
+
+ACG-7 D - 34
+
+
+Text from ACG-7_Flight_Controls_page_41.jpeg:
+Combined Failures
+
+Combined failures of both the CAS and HM systems can result in severely
+degraded aircraft control. For example, with loss of UTL A/PC2 A and
+simultaneous loss of the CAS, pitch and roll ratios drive to EMERG,
+automatic pitch trim and ARI are inop, and there is no CAS to “take up
+the slack.” With CFTs installed, a 3 G nose up transient may occur. You
+will have to concentrate hard on just flying the aircraft. With pitch CAS
+inoperative and pitch ratio in EMERG, the maximum attainable AOA at
+touchdown speed is only 21 units, so the procedure is to fly a flat 18 unit
+approach. There is a good discussion of combination failures in Section VI
+of the Dash-1.
+
+Controllability Check
+
+A controllability check is a good idea for an indicated or suspected flight
+control problem. Refer to the checklist/flight manual.
+
+Anti-Skid Caution
+
+Although not part of the flight control system, the anti-skid will affect the
+operation of the hydromechanical ARI as already mentioned. Realize that
+if the anti-skid fails and the switch is left in NORM, the ARI may not
+disengage upon landing.
+
+D- 35 ACG-7
+
+
+Text from ACG-7_Flight_Controls_page_42.jpeg:
+SURVIVABILITY
+
+While there are some flight control malfunctions that significantly affect
+handling quality, the system is highly redundant and very survivable in a
+combat environment.
+
+Electrical Loss
+
+If all electrical power is lost, control is maintained through the mechanical
+system to operate ailerons, stabs and rudders (Figure D-20). Basic control
+is still there, but degraded with pitch and roll ratios in emergency and
+CAS’s off line.
+
+Mechanical Loss
+
+If any or all mechanical controls are jammed, limited control can still be
+maintained by the CAS. The stabilators will function for pitch and roll
+and both rudders are still available (Figure D-20). The only things you do
+not have are ailerons.
+
+ELECTRICAL POWER LOST
+[2 Ls : = ==
+Een bay > | —
+| o Po Cs] 1 x Q
+MECHANICAL CONTROL LOST PC SYSTEMS LOST
+
+ACG-07-20
+
+Figure D - 20. Control Survivability.
+
+ACG-7 D - 36
+
+
+Text from ACG-7_Flight_Controls_page_43.jpeg:
+Loss of Both PC Hydraulic Systems
+
+If both primary flight control hydraulic systems (PC1 and PC2) are lost,
+the utility hydraulic system supplies power to all primary flight controls
+(Figure D-20).
+
+Mixed Hydraulic Losses
+
+When either PC hydraulic system plus the utility hydraulic system are
+lost (not a common occurrence), control is maintained with one aileron,
+one rudder, and stabilators for pitch and roll (Figure D-20). Also, note
+that one flap is failed on the “dead wing” in this case.
+
+FLIGHT CONTROL GROUND CHECKS
+
+The aircrew must advise the ground crew prior to conducting flight control
+checks. The hydromechanical system is checked first to ensure proper
+deflection of the control surfaces, including the pitch trim compensator.
+The surfaces should deflect in the same manner as in the CAS ON check
+(Table D-3) with the major exception being only 15° (HM) of rudder
+deflection versus 30° (HM+CAS). Notice that the stabilators will deflect
+differentially when the stick is put left or right of neutral.
+
+D - 37 ACG-7
+
+
+Text from ACG-7_Flight_Controls_page_44.jpeg:
+After the basic hydromechanical system is checked, turn the CAS on.
+Place the pitch ratio switch to emergency (check gauge 0.3 to 0.5). After
+returning the flight controls to the take off position (T/O trim) and pitch
+ratio to AUTO, verify flight control movement with the CAS on (Table
+D-3).
+
+Verify no BIT codes or failures on the BIT/DETAIL/AFCS/STATUS and
+FAULTS pages. Finally, trim the stabilator, ailerons and rudders out of
+neutral to verify trim function and apply T/O trim to move the flight
+controls to the take off position. (T/O trim light, voice warnings, and
+departure warning tone will come on with button pressed and stick and
+controls in T/O position.) Verify T/O trim position with the ground crew.
+Now accomplish AFCS preflight BIT.
+
+STICK POSITION (CAS ON)
+
+FORWARD | FORWARD AFT
+FLIGHT LEFT RIGHT RIGHT
+CONTROL
+SURFACES
+
+LEFT Neutral Up 20° Up 20° Down 20° Down 20°
+AILERON
+
+RIGHT Neutral | Down 20° Down 20° Up 20° Up 20°
+AILERON
+LEFT Full Down Up 11° Full Up 15° Down 24°
+STABILATOR Down 28° (Visible)
+(LD EDGE) 28°
+
+RIGHT Full Up 15° Full Down
+STABILATOR (Visible) 28°
+(LD EDGE)
+
+RUDDERS Left 30° Right 30° Left 30° Right 30°
+
+Table D - 3. Control Surface Position vs. Stick Position (CAS-ON).
+
+ACG-7 D - 38
+
+
+Text from ACG-7_Flight_Controls_page_45.jpeg:
+AFCS BIT
+
+To start the AFCS BIT, press and hold the BIT button on the CAS panel,
+and then press and release the AFCS BIT push button on the MPD/MPCD
+BIT display. “AFCS IN TEST” will appear on the MPD/MPCD BIT
+display when the AFCS BIT begins. Release the BIT button on the CAS
+panel once the AFCS BIT is initiated. The AFCS BIT runs automatically
+after initiation. The AFCS BIT will not run unless the holding brake is
+ON and the aircraft senses weight on the wheels. The AFCS BIT option is
+not available while airborne. The complete BIT takes approximately
+
+1 minute and 40 seconds.
+WARNING
+
+AFCS BIT will cycle the controls and
+the control surfaces. Flight and
+ground crew must stay clear of the
+flight control system while AFCS BIT
+is IN TEST.
+
+Upon completion of the AFCS BIT, reset CAS and check BIT/DETAIL/
+AFCS/STATUS and FAULTS pages for any BIT malfunctions. Checking
+the FAULTS and STATUS pages should always be done since “AFCS*”
+may not always be displayed on the BIT pages to alert the aircrew of
+AFCS BIT problems.
+
+NOTE
+
+The preflight flight control checks are covered in detail in the lecture.
+
+D - 39 ACG-7
+
+
+Text from ACG-7_Flight_Controls_page_46.jpeg:
+QUESTIONS
+
+1. The CAS system works on a basis.
+a. fail operate/fail-safe
+b. fail-safe
+c.  fail-safe/fail operate
+d. _ fail operate
+2: The major functions of the CAS are and
+3. The CAS control switches should be engaged
+a. from left to right.
+b. from right to left.
+c. in any order.
+d. within 1 second of each other.
+4. The AOA warning tone beeps to indicate angle-of-attack above
+units when the gear is down.
+a. 30
+b. 22
+ce 14.5
+d. 12
+5. When a flight control caution is displayed on the MPD/MPCD
+the and also illuminate.
+6. If the CAS YAW caution appears, it will cause the caution
+
+to also appear.
+
+ACG-7 D - 40
+
+
+Text from ACG-7_Flight_Controls_page_47.jpeg:
+If the ROLL RATIO caution, FLT CONTR caution and MASTER
+CAUTION appear, the most probable action is to a the roll
+ratio switch to EMERG. This causes
+
+If the hydromechanical flight controls are jammed, control can
+still be maintained by the CAS. The stabilators will still
+function for pitch. Roll control will be provided by the
+
+The only primary flight control surfaces that you do not have
+are
+
+stabilators, ailerons
+ailerons, rudders
+stabilators, rudders
+rudders, flaps
+
+Boop
+
+D-41 ACG-7
+
+
+Text from ACG-7_Flight_Controls_page_48.jpeg:
+ACG-7
+
+ANSWERS
+a
+
+stability augmentation, refinement of control inputs from the
+HM system.
+
+a
+
+a
+
+FLT CONTR caution light, MASTER CAUTION light
+CAS ROLL
+
+reduced roll response and the HM ARI to be cut out
+
+a
+
+
+Text from ACG-7_Flight_Controls_page_49.jpeg:
+END OF TEXT QUIZ
+
+The ailerons are operated by the
+
+a. HMsystem only.
+
+b. CAS only.
+
+c. HMsystem and CAS.
+
+d. __ triplex, fly-by-wire system.
+
+The is/are operated by the HM system and the CAS to
+provide roll control.
+
+a. ailerons
+
+b.  stabilators
+
+c. speedbrake
+
+d. flaps
+
+Placing the roll ratio switch to EMERG
+
+a. drives the roll ratio to full.
+b.  disengages the HM ARI.
+c.  disengages the CSBPC.
+
+d.
+
+disengages the roll CAS.
+
+Rapid CAS reset while airborne is accomplished by depressing the
+
+switch.
+a. trim
+b. autopilot
+c. paddle
+d. BIT
+
+If the pitch CAS disengages, it will also disengage the CAS,
+which reset.
+
+yaw, should
+roll, should not
+yaw, should not
+roll, should
+
+pe op
+
+E-1 ACG-7
+
+
+Text from ACG-7_Flight_Controls_page_5.jpeg:
+STUDENT PREPARATION REQUIREMENTS
+
+BEFORE CLASS
+
+1. Study the information contained in this workbook and complete the
+End of Text Quiz.
+
+2. Read TO 1F-15E-1, Sections I, I, III and VI on the flight control
+system.
+
+C-1 ACG-7
+
+
+Text from ACG-7_Flight_Controls_page_50.jpeg:
+6. During the flight control ground checks when the stick is moved from
+full forward and full left to full forward and full right, the surfaces
+should move as follows:
+
+a. right stabilator leading edge moves into view, rudders move
+right and the ailerons do not move.
+
+b. left aileron moves down and right aileron moves up, rudders
+move left and the left stabilator leading edge moves into view.
+
+c.  stabilator trailing edge up (left further up than right), rudders
+left, left aileron up and right aileron down.
+
+d. _ stabilator trailing edge moves to full up, rudders move right
+and ailerons do not move.
+
+ACG-7 E-2
+
+
+Text from ACG-7_Flight_Controls_page_51.jpeg:
+AFCS
+
+AOA
+
+ARI
+
+CAS
+
+CASI
+
+CSBPC
+
+DEL
+
+FCC
+
+HM
+
+PIO
+
+PRCA
+
+PTC
+
+SRD
+
+TF
+
+GLOSSARY
+Automatic flight control system
+Angle of attack
+Aileron rudder interconnect
+Control augmentation system
+Control augmentation system interconnect
+Control stick boost/pitch compensator
+Direct electric link
+Flight control computer
+Hydromechanical system
+Pilot induced oscillation
+Pitch and roll channel assembly
+Pitch trim compensator
+Spin recovery display
+
+Terrain following
+
+F-1 ACG-7
+
+
+Text from ACG-7_Flight_Controls_page_6.jpeg:
+(This Page Intentionally Blank)
+
+ACG-7 C-2
+
+
+Text from ACG-7_Flight_Controls_page_7.jpeg:
+TEXT
+
+FLIGHT CONTROL SURFACES
+
+The F-15E flight control system is designed to provide excellent handling
+characteristics and flight path control throughout the aircraft’s extensive
+flight envelope. It incorporates both a hydromechanical system (HM) and
+an automatic flight control system (AFCS). These two systems were made
+to work together in harmony to give manual and automatic control of the
+airplane. The two also provide redundancy in that the aircraft can be
+safely flown using the AFCS alone following HM jams. Likewise, the
+airplane can easily be flown with just the hydromechanical system
+operating.
+
+The primary flight control surfaces consist of conventional ailerons, twin
+rudders and stabilators, which move collectively for pitch and
+differentially for roll (Figure D-1). Stabilators and rudders are operated
+by both the hydromechanical and automatic systems; however, the
+ailerons work only through the HM system. Spring cartridges are
+incorporated, providing artificial “feel” to the aircrew.
+
+STABILATORS
+
+ACG-07-01
+
+Figure D - 1. Primary Flight Controls.
+
+D-1 ACG-7
+
+
+Text from ACG-7_Flight_Controls_page_8.jpeg:
+HYDROMECHANICAL SYSTEM
+
+The hydromechanical system uses mechanical linkages (torque tubes,
+cables, bell cranks) to transmit stick and rudder pedal inputs to the
+control surface actuators (Figure D-2).
+
+AUTOMATIC FLIGHT
+CONTROL SYSTEM
+Pt
+
+cs AUTOPILOT
+IN 2)
+
+N e\
+
+\= FLIGHT
+OAS CONTROL
+i ACTUATORS
+
+\ HYDROMECHANICAL
+SYSTEM
+
+CSBPC
+
+ACG-07-02
+
+Figure D - 2. Hydromechanical System.
+
+The mechanical inputs are applied to a servocylinder that controls the
+flow of hydraulic fluid to the actuator, which moves the surface (Figure
+D-3).
+
+SURFACE HYDRAULIC HM SYSTEM CAS HM SYSTEM
+POWER (PRI/ ALT) AUTHORITY AUTHORITY  |(EMERGENCY)
+
+PC1 B/UTL A (LEFT)
+AILERONS +20° NONE +10°
+
+PC2 B/UTL B (RIGHT)
+
+PC1 B/UTL NON-RLS +15° +10° PITCH +7%° PITCH
+PC2 A (LEFT) -25° PITCH -12%° PITCH
+
+STABILATORS
+
+PC2 B/UTL NON-RLS
+PC1 A (RIGHT) 411° DIFF) +6° ROLL +5° ROLL +3° ROLL
+
+PC1 B/ (EFI) +15° PEDAL +15° PEDAL +15° PEDAL
+RUDDERS +30°
+
+PC2 B/UTL NON-RLS #90 ARI) £15° ROLL RATE 0° STICK
+
+(RIGHT) (CAS ARI)
+
+ACG-07-03
+
+Figure D - 3. Flight Control Summary.
+
+ACG-7 D-2
+
+
+Text from ACG-7_Flight_Controls_page_9.jpeg:
+Control Stick Boost Pitch Compensator (CSBPC)
+
+Hydraulic power from the Utility A circuit, backed up by PC2 A, provides
+the force to adjust the ratios, trim inputs and interconnects between the
+different controls. This “power steering” is collectively called the control
+stick boost/pitch compensator (CSBPC). There is no single box labeled
+“CSBPC”; rather, it is a combination of two separate assemblies: the pitch
+and roll channel assembly (PRCA) and the aileron-rudder interconnect
+(ARD.
+
+Pitch and Roll Channel Assembly
+
+The PRCA is made up of a pitch ratio changer, a pitch trim compensator
+and a roll ratio changer. They provide the same pitch/roll response for a
+given stick deflection, regardless of airspeed, plus an automatic pitch trim
+feature.
+
+Pitch Ratio Changer
+
+The pitch ratio changer uses pitot-static inputs of altitude and airspeed to
+determine an appropriate ratio between longitudinal stick movement and
+stabilator displacement. The intent is to produce a consistent pitch
+response (constant G for a given stick position) throughout the flight
+envelope (two Gs per inch of stick movement). Each G requires
+approximately 4.25 pounds of stick-force.
+
+The pitch ratio is displayed to the pilot as a decimal fraction between one
+and zero. For example, at low speeds (<250 KCAS) the ratio should read
+near 1.0, indicating maximum stabilator authority. As speed increases
+the ratio decreases. At about Mach 0.9 at low altitude, where the aircraft
+is much more pitch sensitive, the ratio should read near zero. As speed is
+increased above Mach 1.0, the ratio starts to climb providing more
+stabilator authority. When hydraulic power is lost (UTL A/PC2 A
+failures), the pitch ratio reverts to a fixed midrange value and locks. This
+is displayed on the pitch ratio indicator by the needle indicating 0.3 to 0.5.
+This setting is also selected by placing the pitch ratio switch to EMERG.
+
+D-3 ACG-7
+
+

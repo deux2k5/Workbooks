@@ -4,7 +4,7 @@ repo_url: https://github.com/deux2k5/Workbooks
 repo_name: deux2k5/Workbooks
 theme:
   name: material
-  logo: assets/images/logo/391Logo.png
+  logo: /Workbooks/assets/images/logo/391Logo.png
   palette:
     - scheme: default
       primary: custom

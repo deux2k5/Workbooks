@@ -2,7 +2,7 @@ site_name: F-15E Student Workbooks
 site_url: https://deux2k5.github.io/Workbooks/
 theme:
   name: material
-  logo: assets/images/logo/391Logo.png
+  logo: Workbooks/assets/images/logo/391Logo.png
   palette:
     - scheme: default
       primary: custom

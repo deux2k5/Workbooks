@@ -1,5 +1,7 @@
 site_name: F-15E Student Workbooks
 site_url: https://deux2k5.github.io/Workbooks/
+repo_url: https://github.com/deux2k5/Workbooks
+repo_name: deux2k5/Workbooks
 theme:
   name: material
   logo: assets/images/logo/391Logo.png

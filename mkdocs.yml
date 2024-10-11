@@ -1,7 +1,7 @@
 site_name: F-15E Student Workbooks
 theme:
   name: material
-  logo: image/391logo.png
+  logo: assets/images/logo/391Logo.png
   palette:
     - scheme: default
       primary: custom

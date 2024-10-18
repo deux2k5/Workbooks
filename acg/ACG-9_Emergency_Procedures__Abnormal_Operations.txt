@@ -1,0 +1,1145 @@
+Text from ACG-9_Emergency_Procedures__Abnormal_Operations_page_1.jpeg:
+SUPPORTS COURSES
+FIS5EBQ
+
+FISETX
+
+FISESOC
+
+ACADEMIC STUDENT WORKBOOK
+F-15E
+
+AIRCRAFT GENERAL
+ACG-9
+EMERGENCY PROCEDURES &
+ABNORMAL OPERATIONS
+
+NOVEMBER 1998
+
+(SUITE 3 OFP)
+
+AIR COMBAT COMMAND
+
+
+Text from ACG-9_Emergency_Procedures__Abnormal_Operations_page_10.jpeg:
+Abnormal Engine Start
+
+For this discussion, abnormal engine starts (-220 engines) include:
+e = engine fails to start,
+
+e = engine fails to accelerate normally,
+
+e hot starts, and
+
+e auto acceleration.
+
+Engine light off normally occurs within about five or six seconds after rpm
+reaches 26%-30%. If no light off occurs within 30 seconds (from throttle
+movement from off), shut the throttle off. If you wish to try another start,
+allow the engine to windmill for 10 seconds to dry out any fuel that was
+sent to the engine during the initial starting process. Then bring the
+throttle back to idle when you are ready to try again. If you elect not to
+try another start then leave the throttle in OFF, position the engine
+master switch to OFF, and shut the JFS off.
+
+If, during the engine start sequence (after light off) both rpm and FTIT
+stop increasing, abandon the start and shut off the throttle, master
+switch, and JFS switch. Complete the shutdown procedure.
+
+If it appears that you are going to get a hot start (i.e., FTIT is going to
+exceed 680° C), shut the throttle off. If 680° C was exceeded, allow the
+engine to windmill to help cooling (this may require restarting the JFS
+and/or reengaging the JFS to the engine). Then turn off the master
+switch and the JFS. Once again, you are through for the day with this
+aircraft. If, however, 680° C was not exceeded (you recognized the
+impending hot start and took appropriate action), you can try another
+start. Shut the throttle off and let the JFS windmill the engine until the
+FTIT is below 200° C (remember, that is the lowest you can read on the
+EMD, so once you see 200° C wait 10 more seconds before you attempt
+another start). Change the air source knob over to the engine you are
+going to start (to shut off bleed air from the other engine) and bring the
+throttle back over to IDLE. Once the engine is running, remember to
+switch the air source knob back to the BOTH position. If you do not select
+BOTH on the air source knob, ECS air is cut off from one engine. Cool air
+to the avionics and cockpit may be affected. ECS/DISP FLO LO lights will
+illuminate if the airflow is insufficient to cool the avionics. The crew chief
+will notice the loss of air flow from one engine during the ECS check
+following second engine start.
+
+ACG-9 D-4
+
+
+Text from ACG-9_Emergency_Procedures__Abnormal_Operations_page_11.jpeg:
+If auto acceleration occurs during the start (i.e., the motor keeps
+accelerating on its own above idle rpm with the throttle in idle), shut the
+engine down immediately—throttle, fire light, master switch, JFS switch.
+The engine nozzle may be closed down and the added thrust may cause
+the aircraft to jump the chocks. On a crowded ramp, this can get real
+exciting!
+
+AMAD or Engine Fire During Start
+
+The immediate concern here is to get the fire put out as quickly as
+possible. Although the steps are slightly different (AMAD FIRE =
+button/bottle/throttle; ENGINE FIRE = button/throttle/bottle) the intent
+is to shut off the source of fuel. When you discharge the fire extinguisher
+for the AMAD fire, you automatically shut down the JFS. For an engine
+fire, push the fire light button to shut off the source of engine fuel at the
+airframe and then shut down the throttle, discharge the extinguisher and
+lastly, shut off the master switch and JFS switch. If you have either of
+these fires, depending on severity, you may want to emergency ground
+egress.
+
+GROUND OPERATIONS
+ECS Caution
+
+An ECS problem on start may be indicated by a DISPL FLO LO caution
+light. A quick, simple fix may be to just start the second engine and check
+for absence of both the DISPL FLO LO caution and the MPD/MPCD ECS
+caution. If there is a delay starting the second engine, advancing the right
+engine to 73% (definitely below 78%) may solve the problem. Ensure that
+AUTO is selected on the temperature control switch and that BOTH is
+selected on the air source knob. If the ECS caution remains on for one
+minute after both engines are running, we can cycle the air source knob
+(L, R, BOTH) while the crew chief checks the air flow at each position. Set
+the rpm of the operating side at 77% rpm and cycle the nonoperating side
+idle to 78% rpm, while simultaneously cycling the air source knob (L, R,
+BOTH). If, after 10 minutes, the ECS caution remains on, abort the
+mission. Do not taxi out of the chocks with an ECS problem.
+
+D-5 ACG-9
+
+
+Text from ACG-9_Emergency_Procedures__Abnormal_Operations_page_12.jpeg:
+If the ECS caution comes on while taxiing, attempt the previously
+described procedure. If it does not extinguish, shut down an engine to
+induce automatic avionics shutdown. If automatic avionics shutdown does
+not occur, manually turn off as much equipment as possible and shut
+down the aircraft as soon as practical (including arming/quick check
+area—vice taxiing back to parking). If shutting down in quick check area,
+ensure wheels are chocked as you will lose braking capability.
+
+Loss of Brakes
+
+It is important to remember that very little deceleration will be sensed at
+speeds above 100 knots, regardless of antiskid system status. At high
+speed, if loss of brakes is determined, consider the option of a cable
+engagement and lower the hook early and avoid the rush. In addition to
+lowering the hook, attempt to reduce your speed by releasing the brakes,
+turning the antiskid to PULSER, and reapplying the brakes. Ifa cable is
+not practical/available, release the brakes, turn the antiskid switch to
+PULSER, and reapply the brakes. The pulsating braking action reduces
+the probability of blown tires from locked wheels but also prevents
+bringing the aircraft to a complete stop. Therefore, once slowed to taxi
+speed, turn the antiskid switch to OFF. If the antiskid was not the source
+of the problem and braking is not restored, or if stopping distance is
+critical, release the brakes and pull the emergency brake/steering handle.
+Depress the paddle switch to ensure crossover to JFS accumulator
+pressure. Smoothly and steadily reapply the brakes, keeping in mind that
+the emergency system bypasses the antiskid/pulser system and increases
+the possibility of blown tires. If you are taxiing the aircraft on a congested
+ramp and lose braking, the immediate problem is to stop the aircraft. Pull
+the emergency brake/steer handle! Remember, whenever you change the
+brake system, (antiskid switch or emer brake/steer handle) release pedal
+pressure before accomplishing the changeover.
+
+If the aircraft is going to depart the prepared surface, shut down the
+engines to limit the damage to the engines.
+
+ACG-9 D-6
+
+
+Text from ACG-9_Emergency_Procedures__Abnormal_Operations_page_13.jpeg:
+TAKEOFF
+Abort
+
+The abort decision is influenced by many variables which are often
+relevant in any takeoff situation. These factors include (but are not
+limited to) runway remaining, arresting gear availability, weather,
+aircraft weight and speed, and nature of the emergency. They should be
+considered before ever stepping to the aircraft. A catastrophic engine
+failure at nosewheel rotation in a 70,000 pound aircraft, on a wet runway
+with ceiling and visibility at 300 feet and one mile, is not the time to be
+agonizing over whether to continue the takeoff or stay on the ground.
+
+Once you decide to abort, chop the throttles to IDLE and apply the brakes.
+If stopping distance is critical, begin maximum antiskid braking. Use as
+much pedal force as possible (not just enough to get antiskid cycling). If
+aborting with a blown main tire, select PULSER. Pulser prevents
+continuous loss of brake pressure due to skid sensing on the blown tire
+and allows braking on the good tire. If both mains are blown, be ready to
+counter any skid with timely nose gear steering inputs in the direction of
+the skid. Maneuvering mode (nose gear steering button depressed) may
+be needed for adequate control. In either case, do not jeopardize your
+ability to maintain directional control. Anticipate a barrier engagement;
+lower the hook early and engage as close to center as possible without
+brakes applied.
+
+WARNING
+
+Fuel draining overboard after engine
+shutdown can contact a hot wheel and
+cause a fire. Engine shutdown before
+arrival of firefighting equipment should
+be avoided where hot brakes exist.
+
+D-7 ACG-9
+
+
+Text from ACG-9_Emergency_Procedures__Abnormal_Operations_page_14.jpeg:
+Tire Failure During Takeoff
+
+A blown tire during the takeoff roll is very difficult to recognize from the
+cockpit. Your only indication may be a call from the tower or a trailing
+wingman. If you get airborne, do not retract the gear or flaps. Keep the
+airspeed under 250 knots, if practical, to prevent automatic flap
+retraction. The interval between takeoff and landing should be mostly
+routine; i.e., burn down fuel to land as soon as practical. Have a chase or
+the tower check over the aircraft, just in case. While the runway is being
+cleared of any debris, begin burning down/dumping fuel to a reasonable
+landing weight. Review the landing with blown tires procedure in the
+checklist. With the landing gear handle down, neither the internal nor
+external fuel tanks pressurize. In this condition the internal tanks
+transfer normally but the external tanks do not transfer until the FUEL
+LOW light illuminates. External fuel does not dump normally with the
+gear handle down. There is a procedure (in Chapter 3 of the Dash 1 and
+the Dash 1 checklist) for transferring/dumping external fuel with the
+landing gear down. If the situation is warranted, you could use this
+procedure to dump/burn external fuel and achieve desired landing weight
+faster. Maneuver conservatively once PULSER is selected since the ARI
+is disengaged with PULSER selected and gear down.
+
+External Stores Jettison
+
+External stores may be jettisoned by either the selective or emergency
+jettison systems. Selective jettison is provided with the selective jettison
+knob in conjunction with the MPD/MPCD display. COMBAT, A/A, and
+A/G selective jettison mechanization are covered in detail in later lessons
+or you can refer to TO 1F-15E-1, Section I, Stores Jettison System, for
+additional information.
+
+Although selective jettison is not available until the gear handle is up,
+emergency jettison is possible; i.e., the button is hot, whenever electrical
+power is on the aircraft. When pressed, this sequentially jettisons all
+carted pylons on stations 2, 5, and 8, as well as all CFT stores (air-to-air
+or air-to-ground). Regardless of the master arm switch position, all
+arming solenoids are automatically deenergized before jettison and all
+stores are jettisoned unarmed. When airborne there is a possibility of
+missile/store collision with the aircraft. If possible, use selective jettison
+when airborne (either COMBAT JETTISON or A/G SELECTIVE
+JETTISON) to jettison CFT A/G stores first, then wing station stores/
+pylons. Ground jettison carries a high probability of collision between
+stores/pylons and the landing gear. Therefore, do not use emergency
+jettison on the ground, or with both CFT and pylon stores, except as a last
+resort or in an extreme emergency.
+
+ACG-9 D-8
+
+
+Text from ACG-9_Emergency_Procedures__Abnormal_Operations_page_15.jpeg:
+Engine Fire on Takeoff
+
+Engine fire indications are the illumination of the fire warning light and
+the voice warning system; i.e., “WARNING, ENGINE FIRE, RIGHT.” If
+the decision is made to abort the takeoff, handle the abort. Once the
+aircraft is under control, push the illuminated fire warning light. Ifthe
+light remains on, then shut down the engine and discharge the
+extinguisher. Based on the condition of the fire, coordinate with the
+emergency crew prior to shutdown, then egress.
+
+If the takeoff is continued, climb to a safe altitude (2000' AGL) and handle
+as an engine fire in flight.
+
+IN FLIGHT
+Engine Fire In Flight
+
+Reduce the power to IDLE on the affected engine. If the light remains on,
+push the fire warning light. This will shut down the engine by closing the
+airframe mounted fuel shutoff valve. Move the throttle to OFF and
+discharge the extinguisher. If the light goes out, check the fire warning
+system to confirm that the system is still operational. If the extinguisher
+is discharged, do not restart the engine unless absolutely necessary. If the
+fire persists, ejection is recommended.
+
+Engine Fails to Respond to Throttle Commands
+
+Landing with an engine that is stuck above IDLE may produce
+unacceptably high airspeeds for approach and excessive landing rollout
+distances. If the excessive thrust is not controllable, engine shutdown
+may be required to properly control landing speeds and landing distances.
+Attempt to configure for landing prior to engine shutdown. Restarting an
+engine that has had a stuck throttle, and required the use of the fire
+button to shut it down, will probably result in a hot start. The use of high
+G turns and the speedbrake should be sufficient to control airspeed in
+order to configure for landing.
+
+D-9 ACG-9
+
+
+Text from ACG-9_Emergency_Procedures__Abnormal_Operations_page_16.jpeg:
+If the throttle will not shut down the engine, depressing the fire button
+should shut off the fuel flow and shut down the engine. You may
+experience pops, fireballs, and FTIT overtemp as residual fuel passes
+through the engine fuel control.
+
+Be prepared to transition to single engine operation as you shut down the
+engine. The loss of the hydraulics on the affected side will cause the CAS
+to fall off. Reset them. If you accelerate to 300-350 knots, the hydraulic
+pumps may be operational again due to windmill rpm. The CAS will fall
+off as you decelerate. Reset them. If you shut down the engine on final,
+the loss of the CAS may impact handling qualities in the landing zone.
+Shutting down the engine prior to glide slope intercept is sufficient to
+stabilize the aircraft before you approach the runway.
+
+Single Engine Stall/Stagnations
+
+Engine stalls normally produce an audible pop, bang, or thud, but may
+occur without audible warning. For severe stalls at MIL or above, rpm
+rollback, increased FTIT and nozzle opening may be noted. Stalls are
+usually self-clearing, but reducing the throttle to MIL for AB stalls and
+IDLE for non-AB stalls will aid in recovery of the engine. If the stall does
+not clear, the engine must be shut down and restarted.
+
+Stagnations are characterized by rising FTIT and decreasing rpm (throttle
+not moved). FTIT overtemp will damage the engine. Without audible
+stall warnings and without accompanying fire plume due to the
+stagnations, the first indication of a stagnation may be the generators
+dropping off the line.
+
+For a single engine stall/stagnation, reduce the throttle to MIL/IDLE and
+confirm the engine heat is OFF. If the rpm continues to decrease below
+IDLE and the engine does not respond to throttle commands, shut down
+the engine and perform a restart. If the FTIT exceeded 1000° C, leave the
+engine at IDLE.
+
+ACG-9 D-10
+
+
+Text from ACG-9_Emergency_Procedures__Abnormal_Operations_page_17.jpeg:
+Double Engine Stall/Stagnation/Failure
+
+Double engine flameout can be caused by failure of all boost pumps, empty
+feed tanks, or mechanical failure of both engines. If both engines fail,
+lower the nose to maintain 350 knots. It is critical to keep at least one
+engine at a rpm that will provide hydraulics for the flight controls and
+emergency generator. At 350 knots the engine will windmill at 12%. If
+both engines stagnate, leave one engine stagnated while restarting the
+other engine. The stagnated engine will provide the necessary hydraulics.
+Once the first engine indicates a restart, shut down and restart the second
+one to minimize the damage due to the FTIT overtemp.
+
+Restarts
+
+Spooldown airstarts are the preferred method to restart the engines in
+that a spooldown airstart is faster than using the JFS. After shutting
+down the engine, move the throttle to midrange as the rpm decreases
+through 30-50% and the FTIT is below 800° C. If the rpm is allowed to
+drop below 12%, engine fuel flow/ignition may not be available. Airspeeds
+below 250 knots (primary mode) and 275 knots (secondary mode) may
+produce hot starts. If the rpm drops below 12%, 450 knots may be
+required to regain 12%. If accelerating to 450 knots is not feasible, JFS
+restart should be utilized.
+
+JFS restarts are very similar to ground starts. Adhere to the rpm limits
+for starting the JFS and for engaging the JFS to the engine. Restart
+envelope for using the JFS is below 20,000 feet and below 450 knots.
+Airspeed for a JFS airstart can be as slow as 200 knots if dive angle and
+altitude are critical. Restarts below 200 knots are not recommended due
+to possible engine hot start.
+
+Extreme Cockpit Temperatures
+
+If cockpit temperatures cannot be maintained in AUTO, switch to
+MANUAL and adjust the cabin temperature control knob. If the
+temperature is still unacceptable, pull the emergency vent handle (below
+FL 180). This allows ram air to enter the cockpit as a function of handle
+extension. If temperature is hot at low altitude, consider climbing to
+cooler air and/or decelerating. Optimum ram air cooling is obtained at
+400 knots and 15,000 feet.
+
+D-11 ACG-9
+
+
+Text from ACG-9_Emergency_Procedures__Abnormal_Operations_page_18.jpeg:
+Smoke And Fumes
+
+Smoke or fumes from the engine or residual oil in the ECS ducts can enter
+the cockpit via the air conditioning system. This blue grey smoke has a
+pungent odor and may sting the eyes. It may be noticed during run-up or
+takeoff roll. An electrical malfunction, on the other hand, or overheated
+cockpit equipment, may generate white or grey smoke, but should not
+cause an open cockpit fire since these avionics use little electrical current.
+Additionally, there are no fuel or hydraulic lines near the cockpit, so the
+possibility of a cockpit fire is remote. All unidentified odors should be
+considered toxic. Select 100% and EMERGENCY on the oxygen
+regulators. Positive pressure prevents smoke and fumes from entering
+even a leaky mask. Do not use the bailout bottle since it will vent into the
+aircraft system unless the oxygen supply hose is disconnected. This would
+allow smoke and fumes to enter the mask. If required, turn and pull the
+emergency vent handle (below FL 180). If electrical smoke is confirmed,
+turn off all your nonessential avionics and head for home. Consider
+jettisoning the canopy if visibility becomes a problem, but realize this may
+cause an eruption of flames. If none of these actions suffice, switch the
+emergency generator to MAN and confirm emergency boost pump
+operation (BST SYS MAL off and EMER BST ON illuminated). Turn off
+both main generators. If the fire persists, place the emergency generator
+in ISOLATE. This limits the generator to powering the emergency boost
+pump, the engine monitor indicator, tail hook, and slipway door. If, after
+reducing electrical load to this point, the fire becomes intolerable, eject. If
+a fire is the reason for ejection, the WSO should make sure the command
+selector valve is rotated to the AFT-INITIATE position. This will ensure
+that the pilot is ejected even if incapacitated due to wind rush fanning the
+fire.
+
+Fuel Transfer Failures
+
+The aircrew may be alerted to fuel transfer problems by one or more of the
+following:
+
+e premature BINGO caution (fuel transfer problem with external tanks
+and/or CFTs),
+
+e FUEL LOW warning with fuel remaining in tanks other than the
+feed tanks,
+
+e abnormal fuel quantity gauge indications during fuel checks,
+e XFER pump caution, and
+
+e heavy wing (external wing tank transfer problem—this clue will likely
+be masked by the AFCS).
+
+ACG-9 D-12
+
+
+Text from ACG-9_Emergency_Procedures__Abnormal_Operations_page_19.jpeg:
+The exact sequence of aircrew actions may be influenced by the
+seriousness of the resulting fuel state. If fuel available is critical, get the
+aircraft pointed toward a suitable landing field and declare minimum or
+emergency fuel, as the situation dictates. Both the Inflight Guide and the
+Dash 1 checklist provide guidance for recovery utilizing a minimum fuel
+profile. Use the fuel gauge to determine where the nontransferring fuel is
+located.
+
+Considering fuel available versus that required and possible fuel
+imbalances may lead the aircrew to select stop transfer on the CFT's or
+external tanks to prevent exacerbating a lateral imbalance. Large lateral
+imbalances (one full/one empty external wing tank) dictate an 18 unit
+AOA final. Other fuel imbalances (forward CG with Tank 1 transfer
+failure/aft CG with external tank transfer failure) may require careful
+maneuvering/controllability checks/18 units AOA finals considering the
+external stores load or if AFCS problems occur in conjunction with
+trapped fuel. In such circumstances, jettison of external tanks/stores
+should be considered.
+
+Restoring transfer of trapped fuel is the usual alternative. Cycle fuel
+transfer switches—physically move them. Remember the landing gear
+handle down depressurizes the external tanks (prevents transfer) as does
+an open slipway switch. The slipway switch in the open position also
+interrupts transfer of Tank 1 fuel, CFT fuel, and external tank fuel.
+
+Do not depend on trapped fuel gravity transferring to the feed tanks.
+Gravity transfer may not commence until very low fuel states (600-800
+pounds total) in the feed tanks. And remember, gravity transfer only
+transfers fuel at 3500 pph, or less.
+
+If fuel is your overwhelming consideration, trapped CFT fuel can be
+transferred by the CFT emergency transfer switch with both generators
+off. Select MANUAL on the emergency generator switch and confirm the
+emergency boost pump is on (EMER BST) and operating off the
+emergency generator (no BST SYST MAL) before turning off the main
+generators (and the left/right main boost pumps).
+
+Although the fuel system is user friendly, there is no substitute for
+
+discipline and comprehensive fuel checks for early identification/resolution
+of fuel transfer problems.
+
+D-13 ACG-9
+
+
+Text from ACG-9_Emergency_Procedures__Abnormal_Operations_page_2.jpeg:
+ADMINISTRATIVE INFORMATION
+
+This student workbook is designed to provide information on the F-15E,
+its systems, and capabilities. It is not a sole source document, but is to be
+used in conjunction with other standard Air Force publications and
+technical manuals. If you find any differences between the material
+contained herein and other governing regulations, adhere to the
+regulations and notify the OPDR.
+
+Changes to this workbook are indicated with a heavy black line in the left
+margin.
+
+Forward recommendations for revision or change to 4 TS, SJAFB, NC,
+275381.
+
+Supersedes: ACG-9, July, 1998
+
+OPDR: 4 TS
+
+Index of Changes
+
+Effective Date Pages Affected
+
+
+
+Text from ACG-9_Emergency_Procedures__Abnormal_Operations_page_20.jpeg:
+In-Flight Canopy Loss
+
+The most immediate concern is injury to the rear seater. Rapidly
+reduce airspeed below 200 knots and descend. The back seater should
+lower the seat full down, grasp the lower instrument panel and lean
+forward, while trying to retain his helmet/mask. If necessary, select
+COLD MIC to reduce noise interference with the pilot’s radio. Land
+as soon as practical.
+
+Double Generator Failure
+
+First indications of a double generator failure are the loss of all cockpit
+displays with the landing gear light and landing gear warning tone on.
+The front cockpit MPCD will display an EADI after a few seconds.
+
+The landing gear light/tone comes on as a result of ADC failure. As
+long as the emergency generator and emergency boost pump are
+operating, the aircraft can be safely recovered. INS will continue to
+function and can be used for navigation purposes. The UFC is still
+useable and allows for data entry of steer point coordinates. Steering
+information is presented on the ADI.
+
+Hydraulic Failures
+
+Loss of a single hydraulic system is not considered a critical item due
+to redundancy in system design. Refer to the hydraulic flow diagram
+for systems affected with the loss of a single/dual system. Loss of UTL
+A or total utility failure requires emergency gear lowering and an
+approach-end arrestment is recommended. Loss of UTL A plus PC2A
+loss also requires a controllability check. With multiple checklists to
+accomplish, time must be managed to ensure all steps are performed.
+Be careful not to mix the checklists. For example, for UTL A and
+approach-end arrestment, do not pull emergency brake/steer handle
+after the nosewheel is on the ground. Take the cable with feet off the
+brakes, control the rollback with power and then use the emergency
+brake/steer to stop forward motion. If you were to pull emergency
+brake/steer after the nosewheel is on the ground, the airspeed is still
+well above 100 knots and the tires would probably blow.
+
+ACG-9 D-14
+
+
+Text from ACG-9_Emergency_Procedures__Abnormal_Operations_page_21.jpeg:
+LANDING
+Landing Gear Emergency Extension
+
+Pulling the emergency landing gear handle bypasses the normal electrical
+and hydraulic controls and ports JFS accumulator pressure to open the
+gear doors and unlock the gear. The gear, aided by air loads, then free-fall
+to down and locked. If there is UTL A pressure, resetting the handle (with
+the normal gear handle down) will restore hydraulic pressure to the
+extend side of the gear actuator and close the landing gear doors.
+Resetting the handle also allows UTL B to recharge the JFS
+
+accumulators.
+
+Pulling the handle does not blow the gear down. If all gear will not extend
+with the normal and emergency handle, the remaining gear can be
+retracted with no adverse effects on the hydraulic system (UTL A
+available).
+
+During a UTLA or total UTL failure, the emergency system will allow for
+gear lowering. The gear doors will remain open without UTL A to close
+them.
+
+Controllability Check
+
+If the aircraft has been structurally damaged, or if there is a reason to
+suspect poor handling characteristics during the recovery/landing, perform
+a controllability check. Climb to a safe altitude and reduce weight to
+minimum practical. Once en route home, slow down and configure for
+landing. When the gear is down, leave it down; do not configure so far out
+that you do not have enough fuel to recover. If you suspect wing damage,
+do not lower the flaps. Slow to an AOA/speed that allows acceptable
+handling characteristics, but no less than on-speed (20-22 units). If the
+aircraft is recoverable, maintain landing configuration and fly a
+straight-in no slower than the previously established AOA. Delay
+reducing power until well into the flare. Power changes require
+corresponding control changes and should be minimized in an aircraft
+with questionable handling qualities.
+
+D-15 ACG-9
+
+
+Text from ACG-9_Emergency_Procedures__Abnormal_Operations_page_22.jpeg:
+Landing With Abnormal Gear Configuration
+
+Prior to landing, consider fuel state, type of gear emergency, arresting
+gear limitations, availability of backup gear, runway condition and length,
+crosswinds, and other weather factors. If the conditions are not favorable,
+eject. If conditions favor landing, refer to the specific gear configurations
+listed in the checklist. Empty drop tanks make good skid pads, so retain
+them. Depressurize them by opening the slipway, or, if the fuel low light
+is on, by turning the air source knob to OFF. Consider jettisoning
+armament. Lower flaps and fly an 18 unit AOA flat approach to runway
+centerline. Fuel becomes a critical factor if weather complications or other
+factors force you to divert to a suitable alternate in an already configured
+aircraft. If a go-around (following a missed cable) is not possible, place the
+antiskid switch to PULSER to restore braking on an extended main. This
+braking, along with nose gear steering, may help in maintaining
+directional control.
+
+Approach-End Arrestment
+
+Anticipate a missed engagement and have a backup plan. Reduce your
+landing weight, lower the tail hook and lock the inertia reels. Touch down
+on centerline 800-1200 feet prior to the cable to allow enough time to
+lower the nosewheel before engagement. Once the nosewheel is on the
+ground, neutralize the control stick to prevent the cable from damaging a
+deflected stabilator.
+
+WARNING
+
+Above 35,000 pounds, an arrestment with
+the nosewheel in the air may result in
+nose gear failure and extensive aircraft
+damage.
+
+ACG-9 D-16
+
+
+Text from ACG-9_Emergency_Procedures__Abnormal_Operations_page_23.jpeg:
+Check throttles at IDLE and brakes off prior to engagement. (Once on the
+ground consider moving your hand from the throttles to prevent pushing
+the power up during the engagement). Dash 1 maximum engagement
+speeds are predicated on idle thrust. Control rollback with power and
+wait for ground crew instructions. Do not jam on the brakes if the aircraft
+is rolling backwards, since you can tip it on its tails—use power to stop
+any rollback. Have a missed cable plan for going around or remaining on
+the ground.
+
+Departure-End Arrestment
+
+Lower the hook at least 2000 feet prior to the cable if it appears there is
+not enough runway available to safely stop the aircraft. Reduce speed as
+much as possible before engagement, but do not brake or turn during the
+arrestment. Stopping short of the cable and having to raise the hook is
+much better than rolling over the cable with the hook up and then
+departing the prepared surface. Control rollback with power.
+
+Blown Tires
+
+The antiskid system releases brake pressure due to skid sensing on a
+blown tire. For effective braking action with a blown tire, select PULSER
+(refer to the blown tires considerations in the ABORT discussion). If
+airborne with a blown tire, remember that the ARI is disconnected with
+gear down and PULSER selected, so maneuver conservatively. An
+approach-end arrestment is recommended to avoid possible
+braking/directional control problems. Fly final on-speed (20-22 units).
+When circumstances dictate a heavyweight landing, delay reducing power
+until well into the flare to prevent an excessive sink rate. If the nose tire
+is blown, the engines may be damaged by rubber ingestion. Therefore, it
+is doubly important that the engines are at IDLE at nosewheel
+touchdown.
+
+If the cable is missed/not available, (or if the tire is blown after landing)
+use aileron to help maintain a wings level attitude and relieve some of the
+load on a blown main tire. Use the pulser system to slow the aircraft from
+landing speed to taxi speed. Brake pressure relief appears to increase in
+intensity as speed decreases even though the pulser cycle rate is constant.
+Stop straight ahead if possible (antiskid switch - OFF) and shut down
+when fire equipment is available. If stopping distance is a problem, lower
+the hook for a midfield or departure-end arrestment.
+
+D-17 ACG-9
+
+
+Text from ACG-9_Emergency_Procedures__Abnormal_Operations_page_24.jpeg:
+Dive Recovery
+
+If altitude loss is not a factor, any amount of aft stick, airspeed and G
+loading that does not overstress the aircraft can be used to pull out of a
+dive. However, if you need to minimize the amount of altitude loss during
+a dive recovery, then it becomes necessary to control airspeed and power.
+
+As airspeed increases above corner velocity, the amount of room (turn
+radius) required to complete the turn also increases. For instance, at 500
+KCAS (idle power) using 6 Gs, it takes 4700 feet to recover to level flight
+from a 60° nose low condition. However, the same recovery only takes
+about half that amount, 3000 feet at 350 KCAS (idle power) and 6 Gs. It
+makes sense that if you want to minimize altitude loss, make the pullout
+at corner velocity, adding or reducing power as required. Corner velocity
+depends on aircraft weight. In our training configuration, it is about 350
+KCAS at sea level.
+
+G loading is also a variable in the turning performance equation. Fora
+given airspeed, as G is increased, turning radius is decreased. So altitude
+loss can also be minimized by pulling more Gs, up to a point. Do not use
+full aft stick and 12 Gs to recover from a dive unless the ground is coming
+up real quick. You will bend the aircraft. To recover from a 60° dive at
+500 knots using 10.3 Gs at IDLE power requires 2900 feet. Recovery from
+a 60° dive at 350 knots, AB and full aft stick requires 1900 feet. Also, be
+aware of your gross weight. Heavier aircraft feel and fly differently and
+you may not have as much G available.
+
+Another consideration to minimize altitude loss during the dive recovery is
+awareness of your lift vector. Any amount of bank reduces the vertical
+component of lift available and thus requires more turning room to
+complete the recovery. Roll wings level for your pullout to minimize
+altitude loss.
+
+One of the least obvious (but most important) factors during a dive
+recovery is being able to recognize the need for one. In most cases, your
+impending dive recovery will probably be accompanied by some spatial
+disorientation. (Why else would you be concerned with a dive recovery?)
+Be aware that you must quickly recognize your situation and attitude, and
+act promptly to prevent excessive altitude loss.
+
+ACG-9 D-18
+
+
+Text from ACG-9_Emergency_Procedures__Abnormal_Operations_page_25.jpeg:
+One last point—if everything else fails, know and adhere to your minimum
+bailout altitudes! If you are already at low altitude and slow, it may be
+necessary to add power (afterburner) to provide maximum G. In
+summary, to minimize altitude loss during a dive recovery,
+
+e know your attitude and altitude;
+
+e control airspeed and power. Corner velocity provides the quickest,
+tightest pullout (about 350 knots, CFTs and training stores);
+
+e control G loading;
+e consider gross weight;
+e control your lift vector for a wings level pullout;
+
+e be aware that spatial disorientation may slow your reflexes and add
+to your altitude loss; and
+
+e know and adhere to bailout altitudes.
+
+D-19 ACG-9
+
+
+Text from ACG-9_Emergency_Procedures__Abnormal_Operations_page_26.jpeg:
+(This Page Intentionally Blank)
+
+ACG-9 D - 20
+
+
+Text from ACG-9_Emergency_Procedures__Abnormal_Operations_page_27.jpeg:
+END OF TEXT QUIZ
+
+When encountering any emergency/abnormal situation what is your
+number one priority?
+
+Boop
+
+Land as soon as possible.
+
+Maintain aircraft control.
+
+Talk to ATC agencies.
+
+Analyze the situation and take the appropriate action.
+
+After shutting an engine down on the ground due to an ECS caution,
+what step must be taken to activate automatic avionics shutdown?
+
+a.
+
+Increase rpm on the other engine.
+
+Turn and pull the emergency vent handle.
+
+No additional step required to activate automatic avionics
+shutdown.
+
+Turn off the air source knob.
+
+If your brakes fail while taxiing in a congested area, how do you stop
+your aircraft?
+
+no op
+
+Turn the antiskid switch off.
+
+Place the antiskid switch to PULSER and pump the brakes.
+Depress the paddle switch.
+
+Pull the emergency brake/steering handle and press the brake
+pedals, while holding the paddle switch depressed.
+
+What should you do after a successful high speed abort?
+
+ao op
+
+Taxi to parking.
+
+Taxi clear of the runway, shut down, and await a tow.
+Keep engines running and wait for the fire department.
+Perform an emergency ground egress.
+
+E-1 ACG-9
+
+
+Text from ACG-9_Emergency_Procedures__Abnormal_Operations_page_28.jpeg:
+5. Upon notification of a fuel transfer problem (voice warning-
+WARNING, TRANSFER PUMP, and display caution - XFER PUMP),
+your first action should be:
+
+a. Cycle the in-flight refueling switch.
+
+b. Determine whether a CFT or internal wing transfer pump
+
+transfer has failed.
+
+Turn the ECS off to depressurize the fuel system.
+
+d. Determine if the warning is caused by a Tank 1 transfer
+problem.
+
+°
+
+6. What should you do if, after turning off all nonessential avionics,
+electrical smoke persists?
+
+a. Disconnect the oxygen supply hose and activate the bailout
+bottle.
+Adjust the oxygen regulator to NORMAL/NORMAL.
+
+c. Turn both main generators off after emergency boost pump
+operation is confirmed (by selecting EMER GEN - MANUAL).
+
+d. Cycle the left generator.
+
+7. What action should you take to provide effective braking action when
+landing with a blown main tire?
+
+Turn the antiskid switch off at main wheel spin up.
+
+Select PULSER before landing.
+
+Ensure antiskid system in NORM.
+
+Pull the emergency brake/steering handle prior to touchdown.
+
+ae oe
+
+8. Which of the following actions is most important during a dive
+recovery if altitude loss is a consideration?
+
+a. Select afterburner, unless at low altitude.
+
+b. Use bank angle above wings level to increase coefficient of lift.
+c. Control airspeed, power, G and lift vector.
+
+ACG-9 E-2
+
+
+Text from ACG-9_Emergency_Procedures__Abnormal_Operations_page_29.jpeg:
+10.
+
+For an approach-end arrestment, touchdown on centerline at least
+feet prior to the cable to allow enough time to lower the
+nosewheel before engagement.
+
+a. 100
+b. 800
+c. 1500
+d. 2000
+
+If you lose the canopy in flight, why must you rapidly slow below 200
+knots?
+
+a. So that disturbed airflow over the cockpit does not stall the
+vertical tails.
+
+b. To enable intercockpit communication and reduce wind effects
+
+on the WSO.
+
+To reduce wind noise and allow air-to-ground communications.
+
+d. To allow you to fly heads up and maintain visual separation for
+your landing.
+
+a
+
+E-3 ACG-9
+
+
+Text from ACG-9_Emergency_Procedures__Abnormal_Operations_page_3.jpeg:
+AIRCRAFT GENERAL
+
+COVER
+
+EMERGENCY PROCEDURES & ABNORMAL OPERATIONS
+
+INTRODUCTION
+
+This workbook is designed to review emergency procedures and abnormal
+situations (generally in a flight mission chronological order). It provides
+knowledge needed to safely operate the F-15E aircraft.
+
+CONTENTS:
+
+Ie EDO USGI exe ce ase ees ese sesame ses se aoe: ces seam Ses ee an cee: ator se ese ao so A-1
+CRITERION REFERENCED OBJECTIVES (CROs)..........0.eeeeseeeeeeeees B-1
+STUDENT PREPARATION REQUIREMENTS . 0.00... eeeeeeeeeeeeeee C-1
+TERT wr sees sas ces cas wa one sane ws wats we sus eas ates as ee ant eas eS amt ae Ua nt OS aa ale Ma 8 D-1
+END OF TEXT QUIZ... eecccessneecesneeeessaeecssaeeceesaeesesaeessseeeeeaees E-1
+CS OIBIS AY cess ans sane anus aesn ssn news canis ave aise Sue MOR mS EMG NSS Mate MG GS ENG Mens ER A F-1
+
+A-1 ACG-9
+
+
+Text from ACG-9_Emergency_Procedures__Abnormal_Operations_page_30.jpeg:
+(This Page Intentionally Blank)
+
+ACG-9 E-4
+
+
+Text from ACG-9_Emergency_Procedures__Abnormal_Operations_page_31.jpeg:
+GLOSSARY
+
+A/G Air-to-ground
+
+A/A Air-to-air
+
+AFCS Automatic flight control system
+AGL Above ground level
+
+AMAD Airframe mounted accessory drive
+AOA Angle of attack
+
+ARI Aileron rudder interconnect
+
+C Celsius
+
+CFT Conformal fuel tank
+
+CG Center of gravity; ground speed
+ECS Environmental control system
+EMD Engine monitor display
+
+FL Flight level
+
+FTIT Fan inlet turbine temperature
+JFS Jet fuel starter
+
+KCAS Calibrated airspeed in knots
+
+L Left
+
+MPCD Multipurpose color display
+MPD Multipurpose display
+MSOGS Molecular sieve oxygen generating system
+
+pph Pounds per hour
+
+F-1 ACG-9
+
+
+Text from ACG-9_Emergency_Procedures__Abnormal_Operations_page_32.jpeg:
+rpm
+SOF
+
+WSO
+
+ACG-9
+
+Right
+Revolutions per minute
+Supervisor of flying
+
+Weapons system officer
+
+
+Text from ACG-9_Emergency_Procedures__Abnormal_Operations_page_33.jpeg:
+(This Page Intentionally Blank)
+
+F-3 ACG-9
+
+
+Text from ACG-9_Emergency_Procedures__Abnormal_Operations_page_34.jpeg:
+BACK PAGE
+COVER SHEET
+
+
+Text from ACG-9_Emergency_Procedures__Abnormal_Operations_page_4.jpeg:
+CRITERION REFERENCED OBJECTIVES (CROs)
+
+1. Given a scenario of abnormal cockpit indications, determine what
+malfunction exists and, with the aid of an F-15E-1 checklist, perform
+the required actions.
+
+NOTE
+This CRO will be tested in the simulator.
+
+2. Given a malfunction or abnormal situation and external conditions,
+select the best course of action.
+
+3. Identify the logic behind recommended corrective actions for selected
+malfunctions/abnormal conditions.
+
+REFERENCES
+
+TO 1F-15E-1 Section I Nose Gear Steering System,
+
+Brake System, Stores
+Jettison, Arresting Hook
+
+System
+Section HI All
+Section VII Landing, Hydroplaning
+
+TO 1F-15E-1CL-1
+
+ACG-9 B-1
+
+
+Text from ACG-9_Emergency_Procedures__Abnormal_Operations_page_5.jpeg:
+STUDENT PREPARATION REQUIREMENTS
+
+BEFORE CLASS
+
+1. Study the information contained in this workbook and complete the
+End of Text Quiz.
+
+2. Read references in Sections I, III, and VII of TO 1F-15E-1.
+
+3. Become familiar with the EMERGENCY PROCEDURES AND
+ABNORMAL OPERATIONS section of TO 1F-15E-1CL-1.
+
+4. Bring TO 1F-15E-1, TO 1F-15E-1CL-1, and 4th Wing Inflight Guide
+to class.
+
+C-1 ACG-9
+
+
+Text from ACG-9_Emergency_Procedures__Abnormal_Operations_page_6.jpeg:
+(This Page Intentionally Blank)
+
+ACG-9 C-2
+
+
+Text from ACG-9_Emergency_Procedures__Abnormal_Operations_page_7.jpeg:
+TEXT
+BASIC RULES AND PHILOSOPHY
+
+This presentation of emergencies and abnormal operations parallels the
+chronological sequence of a flight. The text includes discussions of
+malfunctions with emphasis on the logic behind recommended corrective
+actions. Sound judgement, common sense, and a full understanding of the
+applicable system(s) are essential to deal effectively with emergency/
+abnormal conditions. Multiple emergencies, weather, or other factors may
+require modification of the procedures.
+
+Under any set of circumstances, you must prioritize what you do to handle
+the situation. The first priority is always to fly the aircraft—this is true
+whether you are airborne or on the ground—#1, MAINTAIN AIRCRAFT
+CONTROL. Although it may seem obvious, experience has shown that
+some aircrews do not always do this. They jump immediately into their
+checklists and become engrossed with analyzing various aircraft
+subsystems, while talking with the SOF/center/wingman/etc. Do not
+become a passenger—F LY the aircraft from the moment you strap it on
+until you get it back to the chocks and return it to the crew chief.
+
+Your next priority is to analyze the abnormal indications, figure out what
+is wrong, and then correct the problem, or come up with a plan to cope
+with the situation—#2, ANALYZE THE SITUATION AND TAKE THE
+PROPER ACTION. This does not mean running a complete functional
+check flight on the entire aircraft; but it does mean you have to know the
+aircraft systems and understand how to handle a degraded aircraft. It
+also means you need to use the checklist to verify that you have
+accomplished the appropriate procedure(s).
+
+Your third priority is to get the aircraft back on Terra Firma—hopefully in
+a controlled manner—#3, LAND AS SOON AS PRACTICAL. This should
+be done expeditiously, but it does not mean putting the aircraft on the
+next piece of concrete you can find (unless you have no other choice).
+Modern aircraft just do not come apart around you! There is time for you
+to set up a controlled approach for a safe landing. Do not be in such a
+hurry to get back on the ground that you rush yourself and get behind the
+power curve; i.e., continue to fly the aircraft. However, if you find yourself
+with your hands full of aircraft, deteriorating weather, etc., etc., do not
+box yourself into a square corner—maintain a safe ejection altitude and do
+not hesitate to eject if the need arises.
+
+D-1 ACG-9
+
+
+Text from ACG-9_Emergency_Procedures__Abnormal_Operations_page_8.jpeg:
+So, the three basic rules to follow in any emergency situation are:
+@ maintain aircraft control,
+
+e analyze the situation and take the proper action, and
+
+e land as soon as practical.
+
+Some other priorities you may want to consider in addition to the three
+basics are: talking, who is running the show, and backup plans.
+
+It is amazing how many people want to talk to you as soon as you declare
+an emergency (your flight lead/wingman, center, the SOF, the ranger,
+tower, ad nauseam). Resist the temptation to talk to these people and
+concentrate on the three basic rules (or at least the first two, initially).
+When you have that squared away, then talk. However, do not forget the
+person in the other cockpit—he/she can be a big help, so keep each other
+informed. Once you have the situation well in hand, inform the rest of the
+free world what you are going to do.
+
+And that is the next point—use everyone else to help you, but it is your
+show, so you run it. Do not let somebody on the ground put you behind
+the eight ball. Have a plan, let everyone know what it is, and then use
+those outside agencies to help you.
+
+One last point—the best laid plans of mice and men, etc. Have a backup
+plan just in case your original plan does not work. If you do not have one
+and need it when everything goes wrong, you may not have time to call an
+audible.
+
+In summary, when you find yourself in an emergency situation follow the
+
+basic rules, talk when you are ready, run the situation, and have a backup
+plan.
+
+ACG-9 D-2
+
+
+Text from ACG-9_Emergency_Procedures__Abnormal_Operations_page_9.jpeg:
+STARTING
+JFS Fails to Start
+
+If the JFS ready light does not come on in 10 seconds and there are no
+other indications that the JFS is running, have the crew chief check the
+JFS system. After the crew chief is clear, wait 30 seconds and attempt
+another JFS start.
+
+If the JFS ready light does not come on, but the JFS sounds normal and
+the intercom and AMAD fire light work, then the JFS ready light is
+inoperative. The light should be replaced before taxiing. Start the right
+engine, shut down the JFS, and have the crew chief replace the bulb.
+
+JFS Fails to Engage
+
+The throttles must be in the off position and the master switches must be
+on to engage the JFS to the engine. If both of these conditions are met,
+cycle the master switch and raise/release the fingerlift again. If that does
+not work, do not attempt another start.
+
+JFS Engagement/Disengagement is Abnormal
+
+Once the JFS is engaged, any abnormality requires an immediate JFS
+shutdown. Shut the throttle off, turn the master switches off, and
+shutdown the JFS. Abnormalities could include no JFS whine increase,
+no engine rotation, rpm hangup, or JFS disengagement. If the JFS fails to
+decelerate/disengage after either engine start, shut down the JFS and
+engine, and abort the aircraft.
+
+If the JFS shuts down after starting the first engine, that is abnormal. Do
+
+not shut down the first engine, restart the JFS, start the second engine
+and then the first engine. Abort the aircraft.
+
+D-3 ACG-9
+
+

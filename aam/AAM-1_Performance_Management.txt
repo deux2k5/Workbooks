@@ -1,0 +1,1795 @@
+Text from AAM-1_Performance_Management_page_1.jpeg:
+SUPPORTS COURSES
+FIS5EBQ
+
+FISETX
+
+FISESOC
+
+ACADEMIC STUDENT WORKBOOK
+F-15E
+
+AERIAL ATTACK MANEUVERING
+AAM-1
+PERFORMANCE MANAGEMENT
+
+JANUARY 1999
+
+(OFP N/A)
+
+AIR COMBAT COMMAND
+
+
+Text from AAM-1_Performance_Management_page_10.jpeg:
+Drag
+
+Drag is the force that resists the movement of an object through the air
+mass. Since it must be overcome by thrust, it is generally given a vector
+value in the opposite direction of thrust. Total drag on the aircraft comes
+from three basic sources (Figure D-3).
+
+Subsonic Drag
+
+Induced Drag
+
+Induced drag is that portion of total drag that comes from the production
+of lift. When propelling an airfoil through the air, a split in the air mass
+occurs. Because of the shape of the airfoil, the air moving across the top of
+the airfoil must travel a farther distance and therefore must move faster
+than the air moving across the bottom. This creates a low pressure on top
+of the wing and higher pressure underneath it (lift). Naturally, the high
+pressure air tries to flow into the area of low pressure wherever it can,
+and this occurs at the wing tips and at the trailing edge. This
+phenomenon generates a net downwash in the free air stream behind the
+wing. There is a physical resistance to the generation of this downwash
+that must be overcome and the resistance is called induced drag. Induced
+drag is greater at high angles of attack and/or low airspeeds.
+
+WAVE DRAG
+
+AAM-01-03
+
+Figure D - 3. Total Drag.
+
+AAM-1 D-4
+
+
+Text from AAM-1_Performance_Management_page_11.jpeg:
+Parasite Drag
+
+Parasite drag is that portion of total drag that is caused by disturbing the
+air mass with the profile of the aircraft and everything that is hung on it.
+Parasite drag is divided into several subcategories as depicted in Figure
+D-8, but does not require detailed study here.
+
+Wave Drag
+
+Wave drag is almost a negligible factor at lower airspeeds, but becomes
+such a factor at transonic speeds that it cannot be ignored. It does, in fact,
+have a significant influence on the design of the aircraft. At any speed, an
+aircraft moving through the air mass creates pressure disturbances that
+move away from the aircraft at the speed of sound. This creates an
+invisible “bow wave” in front of the aircraft. If this bow wave is made
+visible in a wind tunnel with the use of smoke, the air actually begins to
+separate well ahead of the approaching aircraft. When entering the
+transonic range, portions of the aircraft are supersonic, and the pressure
+disturbances at these points cannot be propagated forward because they
+run into sonic velocities traveling in the opposite direction. In this case,
+the disturbances are propagated perpendicular to the direction of the sonic
+flow (sort of “stacked up” right at the point of disturbance).
+
+This instantaneous compression/decompression of air molecules causes an
+energy loss that must continuously be made up by the engines. This
+energy loss represents a type of drag known as wave drag. The point at
+which wave drag becomes a factor is called the drag divergence Mach, and
+is illustrated in Figure D-4 where the coefficient of lift (C,,) is being held
+constant as airspeed is increased. Note that only a slight increase in
+airspeed causes a dramatic rise in wave drag. Also note from the figure
+that once supersonic flight is reached, wave drag effect decreases
+dramatically.
+
+
+Text from AAM-1_Performance_Management_page_12.jpeg:
+For an aircraft to operate routinely in the transonic region, such as in this
+case, the drag divergence Mach is delayed as much as possible by
+sweeping the wing. Since a certain amount of lift is lost by sweeping the
+wing (Figure D-4), the F-15E wing is a compromise—being swept at
+approximately 45°. In the F-15E, expect significant wave drag at about
+0.95 Mach.
+
+Although the aircraft has been designed to minimize the effects of drag,
+the aircrew can still change the amount of drag by varying:
+
+e air density (the denser the air around the aircraft, the more drag it
+creates),
+
+e true airspeed (the faster the aircraft goes, the more air is
+compressed),
+
+e lift coefficient (the more lift is generated, the more induced drag is
+created), and
+
+e aircraft configuration (the more stores hung on the aircraft, the
+more parasite drag is created).
+
+DRAG DIVERGENCE MACH
+
+STRAIGHT
+WING
+AIRCRAFT ~~,
+
+SWEPT
+WING
+AIRCRAFT
+
+AAM-01-04
+
+Figure D - 4. Drag Divergence Mach.
+
+AAM-1 D-6
+
+
+Text from AAM-1_Performance_Management_page_13.jpeg:
+Coefficient of Drag—Minimum Drag
+
+The coefficient of drag (C,) (Figure D-5), increases significantly as AOA
+increases.
+
+DRAG
+
+MIN DRAG
+RANGE
+~_—_—_
+
+AOA AAM-01-05
+
+Figure D - 5. C, Curve.
+
+Minimum drag in the F-15E is achieved at 8-10 units AOA. This AOA
+also produces the best acceleration. At slower airspeeds, this equals
+approximately %4 - %G. In the 400-500 KCAS region, 8-10 units AOA is
+approximately 1 G. Above 500 KCAS, 8-10 units AOA actually occurs at
+2-3 G! As a rule of thumb for fast acceleration, for airspeeds below 400
+KCAS, you should feel light in the seat (4% G) and for airspeeds above 400
+KCAS, you should be at about 1 G.
+
+
+Text from AAM-1_Performance_Management_page_14.jpeg:
+Optimum Turn
+
+For those times when something less than a maximum turn is acceptable
+in order to preserve airspeed, the optimum turn is available. The
+optimum turn is the best trade-off between turn performance and airspeed
+control.
+
+Optimum turn in the F-15E is achieved at 16-22 units AOA. This AOA
+gives the maximum turn rate for a particular airspeed without depleting
+energy.
+
+Thrust
+
+Thrust is provided by the engines and is the force that propels the aircraft
+forward. The net thrust of a aircraft engine depends on the amount of air
+and how fast the air is accelerated through the engine. In other words:
+
+T =M (V2- V1)
+
+Where: _ T = thrust; M = air mass; V2 = exit velocity;
+Vi = intake velocity
+
+The engine has been designed to maximize these variables through
+state-of-the-art technology; but the aircrew still has the capability to
+control the mass of air being processed by varying air density (air at sea
+level is twice as dense as air at 22,000 feet), true airspeed (the faster the
+aircraft goes, the more air is forced into the engine) and throttle setting
+(the faster the engine turns, the more air it processes).
+
+AAM-1 D-8
+
+
+Text from AAM-1_Performance_Management_page_15.jpeg:
+QUESTIONS
+
+Label the four aerodynamic forces acting on an aircraft in flight.
+
+<< a ae ad a 1 =P. >
+
+\/ AAM-01-06
+
+Figure D - 6.
+
+The three factors affecting thrust that can be controlled by the
+aircrew are ; , and
+
+The four factors affecting drag that can be controlled by the aircrew
+are ; ; , and
+
+The three factors affecting lift that can be controlled by the aircrew
+are ; , and .
+
+Lift acts perpendicular to the relative wind.
+
+a. True
+b. False
+
+Weight always opposes lift.
+
+a. True
+b. False
+
+AAM-1
+
+
+Text from AAM-1_Performance_Management_page_16.jpeg:
+ANSWERS
+
+1. The four aerodynamic forces acting on an aircraft in flight are:
+
+LIFT
+
+cS
+
+DRAG
+
+WEIGHT
+
+AAM-01-07
+
+Figure D - 7.
+
+2. air density (altitude), true airspeed and throttle setting.
+
+3. air density (altitude), true airspeed, lift coefficient (angle of attack)
+and aircraft configuration.
+
+4. air density, true airspeed and lift coefficient (angle of attack).
+5. a
+
+6. b
+
+AAM-1 D-10
+
+
+Text from AAM-1_Performance_Management_page_17.jpeg:
+Stability
+
+To better envision the forces and moments acting upon an aircraft, the
+reference shows three mutually perpendicular reference axes all
+intersecting at the center of gravity. These axes are shown in Figure D-8
+below.
+
+LONGITUDINAL
+AXIS
+
+VERTICAL
+AXIS r
+
+Z AAM-01-08
+
+Figure D - 8.
+
+The aerodynamic forces just studied are all focused along the longitudinal
+axis, so take an independent look at that axis.
+
+
+Text from AAM-1_Performance_Management_page_18.jpeg:
+Generally, the longitudinal axis is extended through the fuselage
+reference line (FRL) as shown in Figure D-9. For purposes of simplicity,
+suppose that thrust and drag act through the longitudinal axis and
+balance each other in static flight conditions.
+
+LIFT
+
+WEIGHT
+
+AAM-01-09
+
+Figure D - 9. Force Axes.
+
+In Figure D-9, note the aerodynamic center (AC). This is the point on the
+aircraft where all changes in lift occur. Its position remains relatively
+constant, regardless of the angle-of-attack. The other significant point in
+Figure D-9 is the center of gravity (CG), which is the point about which all
+changes of weight occur. To further simplify this discussion, locate the AC
+and CG along the fuselage reference line (FRL). Note that the AC is
+located aft of the CG. The significance of this will become clear in the
+discussion of longitudinal stability.
+
+AAM-1 D-12
+
+
+Text from AAM-1_Performance_Management_page_19.jpeg:
+Longitudinal Stability refers to the behavior of the aircraft in pitch. If the
+aircraft is trimmed for level flight, and then is disturbed in pitch and
+tends to return to the trimmed angle-of-attack, it is said to be statically
+stable in pitch. Without computerized flight controls, it is important to
+have the aircraft stable in pitch so that the pilot is not constantly fighting
+to maintain control. Longitudinal stability is primarily dependent upon
+the relative location of the aerodynamic center and the center of gravity.
+The symmetrical airfoil section shown in Figure D-10 shows two possible
+locations of CG and AC.
+
+<a eh
+
+STABLE UNSTABLE
+UPGUST UPGUST
+
+(A) (B)
+
+AAM-01-10
+
+Figure D - 10. CG and AC Location.
+
+If the wing in Figure D-10 (A) experiences an upgust, the lift vector is
+increased due to the change in angle-of-attack. The increase in lift causes
+the wing to rotate nose down around the CG, thereby reducing the
+angle-of-attack and restoring the value of lift to its original condition.
+This wing has positive longitudinal stability. If the wing in Figure D-10
+(B) experiences an upgust, the lift vector is again increased, but the wing
+rotates nose up around the CG, thereby increasing the angle-of-attack
+even more causing the nose to pitch up further. This is an unstable
+condition. Note from the illustration that the CG must be ahead of the AC
+to have positive longitudinal stability. In fact, the further ahead the CG
+is, the more stable the aircraft is. Conversely, the closer together the CG
+and AC, the more sensitive the aircraft is in pitch (less stable/more
+maneuverable).
+
+
+Text from AAM-1_Performance_Management_page_2.jpeg:
+ADMINISTRATIVE INFORMATION
+
+This student workbook is designed to provide information on the F-15E,
+its systems and capabilities. It is not a sole source document, but is to be
+used in conjunction with other standard Air Force publications and
+technical manuals. If you find any differences between the material
+contained herein and other governing regulations, adhere to the
+regulations and notify the OPDR.
+
+Changes to this workbook are indicated with a heavy black line in the left
+margin.
+
+Forward recommendations for revision or change to 4 TS, SJAFB, NC
+275381.
+
+Supersedes: AAM-1, March, 1998
+
+OPDR: 4 TS
+
+Index of Changes
+
+Effective Date Pages Affected
+
+_ -
+
+
+Text from AAM-1_Performance_Management_page_20.jpeg:
+Although the wing in Figure D-10 (A) has positive longitudinal stability, it
+is not in equilibrium—that is, the forces are not balanced. A lifting force
+aft of the CG pitches the wing (and consequently the aircraft) nose down.
+To counter this obviously undesirable characteristic, an offsetting and
+equal nose up force must be created. This may be done through use of a
+canard or a horizontal tail. In the case of the F-15E, a horizontal
+stabilator has been utilized. In order for the stabilator to provide a nose
+up moment, it must be made to create downward or negative lift (Figure
+D-11).
+
+LIFT
+(WING)
+
+DRAG THRUST
+e = Pr a 5
+AC
+
+LIFT WEIGHT
+
+(TAIL)
+
+AAM-01-11
+
+Figure D - 11. Longitudinal Stability.
+
+AAM-1 D-14
+
+
+Text from AAM-1_Performance_Management_page_21.jpeg:
+Again, the relative locations of AC and CG determine the longitudinal
+stability of the aircraft. The CG, however, is constantly on the move as a
+result of ordnance being expended/jettisoned and/or fuel being consumed
+or dumped. That movement, as illustrated in Figure D-12, directly affects
+handling characteristics of the aircraft.
+
+AAM-01-12
+
+Figure D - 12. CG Movement.
+
+The burn off of fuel in the F-15E does not affect CG as much as in some
+aircraft. The CG is slightly forward when full (slightly more stable) and
+moves slightly aft as internal fuel is burned (slightly less stable).
+However, CFT's and any stores loaded aft of the CG have a greater
+destabilizing effect on the aircraft in pitch. This destabilizing effect is
+most critical at higher angles-of-attack with centerline stores on board
+because turbulent air created by the stores tends to wash out stabilator
+authority. Change in pitch sensitivity is not normally noticeable by the
+aircrew due to effects of the pitch trim compensator; however, in the event
+of loss of CAS, these changes are definitely noticeable. Hung
+air-to-ground stores on the aft CFT stations may put the CG behind the
+aft limit. The CAS masks adverse effects, but with failed pitch CAS, the
+pilot may have to jettison wing stores to regain satisfactory longitudinal
+stability.
+
+
+Text from AAM-1_Performance_Management_page_22.jpeg:
+Supersonic flight moves the AC aft approximately 25% of the mean
+aerodynamic chord from its subsonic position (Figure D-13).
+
+WEIGHT
+
+AAM-01-13
+
+Figure D - 13. AC Shift.
+
+This has the same effect as moving the CG forward in that it decreases
+the authority of the stabilator and makes the aircraft more stable. In this
+condition, the stick can actually be pulled completely aft without fear of an
+aircraft over G. In some aircraft, there is a significant “transonic dig in,”
+which occurs when the AC shifts forward as the aircraft decelerates from
+supersonic to subsonic and the aircraft is under more than one positive G.
+This phenomenon and “Mach tuck,” which occurs when crossing Mach 1.0
+accelerating, are both unnoticeable in the F-15E because the flight control
+system (FCS) completely masks them. However, if the FCS is not working
+properly, both are there to be reckoned with. Transonic dig can cause an
+over G with the pitch CAS OFF and pitch ratio EMERG.
+
+Lateral Stability refers to the behavior of the aircraft in roll, and is
+primarily dependent on the geometry of the wing. The F-15E is designed
+to exhibit only slightly positive lateral stability characteristics in order to
+produce rapid roll rates when desired. The CAS eliminates most of the
+adverse characteristics of near neutral stability in roll, yet allows
+exceptional control capability. During routine operations, the only
+changes experienced in lateral stability are due to external stores hung
+under the aircraft. Symmetrical external stores have a tendency to
+increase lateral stability because they represent extra surface area that
+must be moved against the airstream during a roll. They also require a
+greater force in overcoming inertia to start a roll. Exceptions are
+LANTIRN pods and the centerline tank which reduce lateral stability.
+
+AAM-1 D-16
+
+
+Text from AAM-1_Performance_Management_page_23.jpeg:
+Directional Stability refers to the behavior of the aircraft in yaw, and is
+primarily influenced by the surface of the vertical tails. The F-15E
+exhibits positive directional characteristics in yaw, with or without CAS
+being operational. Once again, during routine operations, the only thing
+that changes directional stability is external stores. Generally speaking,
+external stores have a destabilizing effect on directional
+stability—especially those which are hung forward of the center of gravity
+(i.e., LANTIRN pods). When the aircraft is yawed, either due to gust
+factor or rudder input, the increased surface area of the external stores
+catches more of the relative wind and aggravates the yawing motion.
+
+Stability, then, affects capability to control the aerodynamic forces acting
+
+on the aircraft in flight and, subsequently, the ability to move the aircraft.
+
+The F-15E, while designed to exhibit positive stability characteristics in
+all three axes, is not so stable that it cannot produce rapid roll and
+G-onset rates. This is an important factor when maneuvering in the
+air-to-air environment.
+
+AAM-1
+
+
+Text from AAM-1_Performance_Management_page_24.jpeg:
+QUESTIONS
+
+1. External stores generally tend to roll, and
+the aircraft in pitch and yaw.
+
+destabilize/stabilize
+stabilize/destabilize
+destabilize/destabilize
+stabilize/stabilize
+
+po op
+
+2. Longitudinal stability is dependent upon the relationship between
+
+wing chord and lift vector.
+
+true airspeed and C,.
+
+aerodynamic center and center of gravity.
+pilot and WSO.
+
+po op
+
+AAM-1 D-18
+
+
+Text from AAM-1_Performance_Management_page_25.jpeg:
+ANSWERS
+
+AAM-1
+
+
+Text from AAM-1_Performance_Management_page_26.jpeg:
+TURN PERFORMANCE
+Definitions
+
+Instantaneous Corner Velocity
+
+The minimum velocity at which maximum G can be obtained is defined as
+instantaneous corner velocity. Below this speed, buffet or stall are
+encountered; above this speed, the structural limit is encountered first.
+
+Sustained Corner Velocity
+
+Sustained corner velocity is the speed at which a maximum, sustained
+rate of turn can be achieved for a given power setting. It is a function of
+thrust, since it occurs where G is at maximum attainable without an
+accompanying loss of speed and/or altitude.
+
+Sustained Turn
+
+Sustained turn refers to the sustained rate and radius of a turn for a given
+power setting, without an accompanying loss of speed and/or altitude.
+
+Structural Limits
+
+Structural limits refers to the maximum airspeed or G beyond which
+structural damage occurs. Maximum G determines the upper limits of an
+aircraft's envelope. Total dynamic air pressure, or max Q, defines the
+right hand boundary to the envelope.
+
+Limits to Turn Performance
+
+Although there may be many variables which determine the outcome of a
+particular air-to-air engagement such as surprise, aircrew proficiency,
+type of weapons, etc.; the turn performance of the aircraft involved may
+play a major role in the outcome of a turning engagement. The F-15E,
+although designed for the deep interdiction role, boasts exceptionally fine
+turning performance. The turning ability of any aircraft, however, is
+limited by several factors.
+
+AAM-1 D - 20
+
+
+Text from AAM-1_Performance_Management_page_27.jpeg:
+Amount of Lift Obtainable
+
+Generally speaking, the more lift that is generated on a particular
+airframe, the better it turns. As noted earlier in this workbook, the
+amount of lift generated with a given wing area is directly controllable by
+the pilot. Therefore, by varying density altitude, true airspeed and
+angle-of-attack (C,,), the pilot is varying the turn performance of his
+aircraft. In Figure D-14 below, a C,max curve is plotted against airspeed
+and G to give a good depiction of how lift affects turn performance. Flight
+in the area left/above the C,max curve is not possible because boundary
+layer separation occurs, lift is reduced, and this automatically results in a
+decreased load factor.
+
+LOAD FACTOR (G)
+o
+
+MACH NUMBER —————>
+
+AAM-01-14
+
+Figure D - 14. C,max versus Airspeed/G.
+
+Note that density altitude is not included as a variable on the chart. This
+means that the chart is only good for the particular altitude at which it
+was figured.
+
+
+Text from AAM-1_Performance_Management_page_28.jpeg:
+Amount of G Permissible
+
+This limit to turn performance is the maximum G the aircraft is designed
+to withstand. It may also be a lesser limit imposed by higher
+headquarters or wing/squadron authorities to help the aircraft last longer.
+In the latter case, the pilot does not receive a caution through the OWS
+that the aircraft is approaching this limit. The G limit may also be plotted
+on the same type graph that is used for lift obtainable (see Figure D-15).
+Notice that a maximum of 9 Gs is not allowable at higher airspeeds due to
+rapidly increasing pressure loads at the higher Mach numbers. OWS
+figures this decreasing G limit value for the pilot and continues to give
+accurate warnings of an impending or actual over G.
+
+NOTE
+
+Data varies according to specific altitude, gross weight and stores
+
+configuration.
+
+De Ree anne Seen aan ee See See See ee
+8 bese ee bee lee ee bee eee ele ee bees Neue eee ete eee deel eee eee
+=
+o
+| eee eee eee eee ee enone See ee ee nee ee ee eee ee ee ee
+ke
+Cl presen pee tee se eee pe eee etree pee eg ee peepee Eee pee eee ee pees peceee
+LL
+Q 4 l-----i-----4-----40-----t---- 2d eek deb ed eee
+_
+
+MACH NUMBER ————=>
+
+AAM-01-15
+
+Figure D- 15. G Limit.
+
+AAM-1 D - 22
+
+
+Text from AAM-1_Performance_Management_page_29.jpeg:
+Amount of Thrust Available
+
+This limit to turn performance may affect you in one of several ways.
+First, it determines the amount of G sustainable at current flight
+conditions. Producing G means producing lift, and producing lift means
+producing induced drag that must, in turn, be overcome with thrust.
+Since the amount of thrust available in the F-15E, although significant, is
+still finite, the aircraft can only pull a finite amount of G before losing
+airspeed. Secondly, thrust available determines maximum speed, given
+current flight conditions. This limit can also be depicted on the same type
+of graph used to plot G allowable and C,max limits to turn performance
+(Figure D-16). Note that in some conditions our maximum speed may
+actually be an aircraft limit rather than a thrust limit, in which case max
+speed would remain fixed as depicted on the graph and excess thrust could
+only be used to climb or turn. Although airspeed limit (allowable and/or
+attainable) is influenced by stores, it is disregarded for this example.
+
+NOTE: At Low | ALTITUDES THIS MAY
+
+LOAD FACTOR (G)
+
+MACH NUMBER —————>
+
+AAM-01-16
+
+Figure D - 16. Thrust Limit.
+
+
+Text from AAM-1_Performance_Management_page_3.jpeg:
+AERIAL ATTACK MANEUVERING
+
+l "i
+AS I O
+= |
+=: a — @ i \ a O
+f = Ss y
+7 K . x oo 0 Aa i}
+_ HS [> Is d
+
+a
+
+|
+
+——
+
+= =
+Z
+
+COVER
+
+PERFORMANCE MANAGEMENT
+INTRODUCTION
+This workbook is your guide in studying the basic aerial attack concepts
+
+and those factors affecting aircraft performance. It provides knowledge
+needed to effectively operate the F-15E aircraft in a combat environment.
+
+CONTENTS:
+
+INTRODUCTION 0.00... eeecceeeeseecesneecesneeecesaeesessaeeseseeeseeaeeseeeeeens A-1
+CRITERION REFERENCED OBJECTIVES (CROs)........... cece B-1
+STUDENT PREPARATION REQUIREMENTS ...00.. ee eeeeeees C-1
+TEXT oo eecscecceeesseeeccessseeeceesssseeesessssaeeeceessaeeecceesaeeeseessaeeesenegaas D-1
+END OF PET QUIZ: cers ans canis saws seen ous sans axis cone uate sass aus ais ease aes canis aes ance ae E-1
+GLOSSARY 00 eeeceeeeneecesseeecnsaeecessaeecesaeeeessaeesesaeesesaeesessaeesesaaeeensas F-1
+
+
+Text from AAM-1_Performance_Management_page_30.jpeg:
+If the three limits to turn performance are all plotted on the same graph
+(Figure D-17), the depicted flight “envelope” represents the performance to
+be expected from the aircraft in a given set of flight conditions. Ifa
+number of these charts are used with different sets of flight conditions, a
+better understanding occurs of how the aircraft’s turning performance is
+improved or degraded. Also, there is a basis for comparing two different
+aircraft in otherwise identical flight conditions.
+
+10
+
+LOAD FACTOR (G)
+a
+
+MACH NUMBER [&———>>
+
+AAM-01-17
+
+Figure D - 17. Performance Envelope.
+
+Turn Performance Measurements
+
+While the performance envelope in Figure D-17 gives some good cockpit
+indicators of what to expect from the aircraft, it does little to show how
+well the aircraft is actually turning. Turn performance can be measured
+in two different ways. First, the rate at which the aircraft is turning—that
+is, how quickly the aircraft is getting around the circle. Secondly, the
+radius of the circle the aircraft is turning. Let us examine each of these
+measurements separately.
+
+AAM-1 D - 24
+
+
+Text from AAM-1_Performance_Management_page_31.jpeg:
+Turn Rate
+
+Turn rate is measured in degrees per second-the higher the turn rate, the
+better the turn. It can be derived from the following formula:
+
+Gr xgxK
+oOo = ——
+V
+where:
+@ = turn rate (deg/sec)
+Gr =radialG
+g = gravity constant (32.2 ft/sec’)
+K = conversion constant for radians to degrees
+(57.3 deg/rad)
+
+V_ =aircraft velocity (ft/sec)
+
+Since the formula contains two constants and only two variables, throw
+out the constants and say that:
+
+Turn rate is solely dependent on true airspeed and radial G. Nothing else
+enters into the equation. The important relationship to glean from this
+formula is that if airspeed is held constant and radial G is increased, turn
+rate is increased (better turn). Conversely, if radial G is held constant and
+airspeed is increased, turn rate is decreased (worse turn).
+
+
+Text from AAM-1_Performance_Management_page_32.jpeg:
+Turn Radius
+
+Turn radius is measured in feet—the smaller the radius the better the
+turn. It can be derived from the following formula:
+
+Vr
+R = ———
+g xX Gr
+
+where:
+R_- = turn radius (feet)
+V_ =aircraft velocity (ft/sec)
+g = gravity constant (32.2 ft/sec’)
+Gr =radialG
+
+Once again throw out the constant and say that:
+
+Ve
+R= ——
+Gr
+
+Understand that the two variables that determine turn rate (true airspeed
+and radial G) are also the same two variables that determine turn
+radius—and in the same manner. Holding airspeed constant and
+increasing radial G results in a smaller turn radius (better turn) and a
+higher turn rate (also better turn), whereas holding radial G constant and
+increasing airspeed results in a larger turn radius (worse turn) and lower
+turn rate (also worse turn).
+
+What was just learned, in addition to the two variables that determine
+turn rate/radius, is that any two aircraft have exactly the same turn
+performance if they are at the same airspeed and radial G. At 350 knots
+and 2 Gs, a Boeing 747 and an F-15E have exactly the same turn rate and
+radius. Likewise, at 60 knots and 2 Gs a Piper Cub and an F-15E have
+the same turn rate/radius. Unfortunately, at 60 knots, the F-15E is not
+capable of pulling 1 G, much less 2 Gs. But the Piper Cub can easily pull
+2 Gs at 60 knots, and therein lies the difference in turn
+performance—amount of G available at a given airspeed.
+
+AAM-1 D - 26
+
+
+Text from AAM-1_Performance_Management_page_33.jpeg:
+Radial G and the “Egg”
+
+Given the fact that lift and weight do not always directly oppose each
+other, how do these forces interact if the aircraft is in other than straight
+and level flight?
+
+If an aircraft is banked and G is not increased, the aircraft cannot
+maintain level flight. Figure D-18 shows why this occurs. Note that
+weight and lift vectors have remained constant, but because lift always
+acts in the plane of symmetry, and weight always acts toward the center
+of earth, the lift vector has been effectively divided into vertical and
+horizontal components. The portion of the lift vector opposing weight is
+now less than the weight component, so the aircraft descends.
+
+WINGS LEVEL 60° BAN INVERTED
+
+L=1 W=1 L=1 W=1 L=1 W=1
+
+0.87
+
+7
+Pe
+
+o
+-
+2
+°
+-
+eo
+-
+o
+-
+-*
+°
+
+AAM-01-18
+
+Figure D - 18. Radial G.
+
+The horizontal portion of the lift vector is an unbalanced force and causes
+the aircraft to move in that direction. The aircraft continues to accelerate
+toward this “centripetal force” until it is matched by a balancing
+“centrifugal force” and equilibrium is re-established. The acceleration
+toward the center of rotation is known as radial acceleration or radial G.
+
+Note also in the figure above, that when the aircraft is totally inverted
+and still maintaining one positive G, the lift and weight vectors are in
+consonance and are added together.
+
+AAM-1
+
+
+Text from AAM-1_Performance_Management_page_34.jpeg:
+Therefore, depending on the placement of lift vector, gravity may be
+helping or hurting turn performance. In Figure D-19, the G felt on your
+body and read on the cockpit G meter is labeled Gr or total G and is the
+value of the lift vector in the plane of symmetry. The value of radial G
+(Gr) is the measure of turn performance and is a summation of the values
+of total G and weight (W).
+
+PLANE OF TURN
+
+AAM-01-19
+
+Figure D- 19. Radial G.
+
+Anytime lift vector is pointed above the horizon, gravity is reducing radial
+G/turning performance; anytime the lift vector is pointed below the
+horizon, gravity is increasing radial G/turning performance (Figure D-19).
+This is true regardless of whether the aircraft is turning in the horizontal
+or in the pure vertical.
+
+AAM-1 D - 28
+
+
+Text from AAM-1_Performance_Management_page_35.jpeg:
+To demonstrate this, Figure D-20 shows an aircraft performing a constant
+airspeed, constant 4-G loop. Notice that instead of being a perfect circle,
+the effect of radial G produces an egg-shaped maneuver. In actual flight,
+the aircraft would tend to decelerate during the climb (thrust minus
+gravity) and accelerate during the dive (thrust plus gravity) which would
+accentuate the egg-shape of the maneuver even more. Try to visualize
+this egg-shape in three-dimensional form. This “tactical egg” is referred to
+throughout the air-to-air phase of academic and flight instruction.
+
+OC Gr = 4.7
+
+AAM-01-20
+
+Figure D - 20. Effects of Radial G on Constant Airspeed.
+
+Most new fighter aircrews who have trouble in the air-to-air phase do so
+because they do not understand the concept of radial G and how it affects
+turning performance. Being born and raised in a flat, three-dimensional
+world often makes maneuvering in the vertical or oblique a difficult and
+foreign concept. However, a total understanding of radial G is essential to
+successful aerial combat.
+
+
+Text from AAM-1_Performance_Management_page_36.jpeg:
+QUESTIONS
+
+1. Inthe figures below, label the lift/weight relationship.
+
+WINGS LEVEL 60° BANK INVERTED
+L=1 W=1 L=1 W=1 L=1 W=1
+
+AAM-01-21
+
+Figure D - 21.
+
+2. Turning the aircraft with the lift vector below the horizon
+the turn radius.
+
+a. does not affect
+b. increases
+c. decreases
+
+3. The three limits turn performance are
+
+lift limit, gross weight limit and drag limit.
+thrust limit, gross weight limit and G limit.
+thrust limit, drag limit and lift limit.
+
+lift limit, G limit and thrust limit.
+
+pe op
+
+AAM-1 D - 30
+
+
+Text from AAM-1_Performance_Management_page_37.jpeg:
+When the turn performance limits are plotted against true airspeed
+(or Mach number) and G, the resulting flight envelope is good at only
+one altitude and configuration.
+
+a. True
+b. false
+
+The two measurements of turn performance are
+and
+
+Rate of turn is dependent upon
+
+altitude and gross weight.
+
+true airspeed and radial G.
+thrust available and altitude.
+gross weight and true airspeed.
+
+pe op
+
+Maintaining a constant radial G while decreasing true airspeed has
+what kind of effect on turn rate?
+
+a. It increases turn rate.
+
+b. It decreases turn rate.
+
+c. The effect depends on altitude.
+
+d. The effect depends on gross weight.
+
+Turn radius is dependent upon and
+
+Any two aircraft with the same true airspeed and radial G have
+turn radii.
+
+a. equal
+b. different
+
+AAM-1
+
+
+Text from AAM-1_Performance_Management_page_38.jpeg:
+ANSWERS
+
+WINGS LEVEL 60° BANK INVERTED
+L=1 W=1 L=1 W=1 L=1 W=1
+R eS 7
+1 Pot
+T fo os7
+W "
+=
+V V
+in
+4
+V
+
+AAM-01-22
+
+Figure D - 22.
+
+d
+
+a
+
+turn rate, turn radius
+b
+
+a
+
+true airspeed, radial G
+
+a
+
+
+Text from AAM-1_Performance_Management_page_39.jpeg:
+PERFORMANCE MANAGEMENT
+
+Now that there are means to measure the effectiveness of the turn, as well
+as the limits of performance, some numbers are rearranged on a graph. In
+Figure D-23, turn rate is plotted along the vertical axis instead of G, and a
+plot of turn radii is superimposed.
+
+20
+et
+2 e/a Ae
+aaa ee/ ee ASeeeee
+af Ae
+
+ee ee
+
+TURN RATE
+
+MACH NUMBER ————>
+
+AAM-01-23
+
+Figure D - 23. Turn Measurements.
+
+
+Text from AAM-1_Performance_Management_page_4.jpeg:
+CRITERION REFERENCED OBJECTIVES (CROs)
+
+1. Identify the aerodynamic forces acting on an aircraft in flight and
+indicate how they may be used most effectively in a maneuvering
+environment.
+
+2. Identify the limitations and measurements of turn performance.
+
+3. Identify the terms corner velocity and sustained corner velocity.
+
+4. Given flight parameters and an energy maneuverability chart,
+
+determine aircraft performance capabilities.
+
+REFERENCES
+
+TO 1F-15E-1 Section V Airspeed Limitations, Prohibited
+Maneuvers, CG Limitations,
+Acceleration Limitations, External
+Stores Limitations
+
+Section VI Handling Qualities, Stalls, Flight
+
+With Asymmetric Loads,
+Departures, Autorolls, Slow Speed
+Flight
+
+AFTTP 3-3 Chapter 4 Aircraft Handling Characteristics
+
+AAM-1 B-1
+
+
+Text from AAM-1_Performance_Management_page_40.jpeg:
+In Figure D-24, the flight envelope is superimposed over the turn
+measurements graph to give a very useful performance management tool
+(the C, curve has been replotted to reflect turn rate instead of G). Now it
+is possible to see how effective a turn the aircraft is capable of at any point
+throughout the flight envelope. Again, this chart is only applicable at a
+given altitude, gross weight and stores configuration.
+
+20
+18
+16
+14
+12
+
+10
+
+TURN RATE
+
+MACH NUMBER ————;>
+
+AAM-01-24
+
+Figure D - 24. Performance Management Chart.
+
+AAM-1 D - 34
+
+
+Text from AAM-1_Performance_Management_page_41.jpeg:
+The point at which the highest turn rate occurs with the smallest turn
+radius (best turn) is in the upper left corner of the chart where the max
+allowable G can be obtained with the least amount of airspeed (see
+Figure D-25). Due to its position on the chart, the airspeed that produces
+the best turn is called “corner velocity.”
+
+HIGHEST TURN RATE
+LOWEST TURN RADIUS
+
+TURN RATE
+
+MAC
+
+H NUMBER ————>>
+
+AAM-01-25
+
+Figure D - 25. Corner Velocity.
+
+What this means is that if the aircraft is at corner velocity, with the
+configuration and altitude given in the chart, the pilot can pull full aft stick
+without fear of an aircraft over G. Note that if airspeed is greater than
+corner velocity, G must remain constant, which results in a degraded turn
+performance. Conversely, if airspeed is decreased below corner velocity,
+maximum G can no longer be obtained and turn performance is again
+degraded. The plot for corner velocity assumes full AB and a horizontal
+turn.
+
+Another way to state this relationship is-when airspeed is increased past
+corner velocity, G must be increased to maintain the same turn rate and
+radius. Since there is no more G available, turn radius increases and turn
+rate decreases. When airspeed is decreased below corner velocity there is
+less G available so turn radius increases, but not as rapidly, and turn rate
+decreases more dramatically. There is a tactical time and place to use both
+principles.
+
+
+Text from AAM-1_Performance_Management_page_42.jpeg:
+In most instances, you could expect to lose airspeed when performing this
+type of turn, which means quickly moving to another point on the
+chart-either to less G while maintaining C,max or to an accelerated stall.
+Therefore, usually consider a corner velocity turn as being an
+instantaneous turn, in that it is only available for an instant of time
+before starting to decrease turn rate and/or increase turn radius.
+However, a compromise occurs from corner velocity toward a sustainable
+maneuvering condition at less G, while maintaining a C, that does not
+approach a stall.
+
+To maintain the best possible turn for an indefinite period of time, move
+down and right on the chart, increasing airspeed, until finding the
+maximum amount of G sustainable with full A/B and a level/horizontal
+turn. Figure D-26 shows that sustained corner velocity occurs at the
+lowest speed at which the maximum sustainable G can be achieved—not to
+exceed the aircraft G limit. How to compute this point is covered later in
+this workbook. Note that unless corner velocity and sustained corner
+velocity are coincident (this happens sometimes at low altitudes and low
+drag indexes), sustained corner velocity usually results in a lesser turn
+rate and greater turn radius. The advantage, however, is that it is
+possible to continue turning at sustained parameters to gain the
+advantage to kill the bandit.
+
+BEST SUSTAINABLE
+TURN/RATE RADIUS
+
+TURN RATE
+
+MACH NUMBER —————>
+
+AAM-01-26
+
+Figure D - 26. Sustained Corner Velocity.
+
+AAM-1 D - 36
+
+
+Text from AAM-1_Performance_Management_page_43.jpeg:
+Earlier in this workbook, we learned that it is possible to optimize radial
+G by aligning the aircraft’s lift and weight vectors. The absolute tightest
+turn made at any given altitude and configuration is available when
+purely inverted (top of the egg) at corner velocity. This becomes even
+more advantageous when considering that during the turn the thrust
+vector is in consonance with gravity allowing the turn to be sustained
+longer. In the same vein, the worst corner velocity turn made is a vertical
+pull at the bottom of the egg. Not only is the lift vector directly opposed by
+gravity, but as the turn is continued, the thrust vector is opposed by
+gravity causing an inability to sustain the turn for even a short period of
+time. Therefore, the best compromise between a corner velocity turn and
+a sustained turn is made by slicing diagonally through the egg in an
+oblique loop (see Figure D-27). The tactical situation dictates when God’s
+G is used to an advantage, and when gravity is desired against or neutral
+to the aircraft.
+
+AAM-01-27
+
+Figure D - 27. Maneuvering in the Tactical Egg.
+
+
+Text from AAM-1_Performance_Management_page_44.jpeg:
+It is not always practical or logical to fly around at corner velocity, and the
+time may arise when the best rate and radius of turn in a gun/missile
+break is needed and the aircraft is not at corner velocity—what then? If
+above corner velocity, immediately begin the turn at max G (careful, an
+over G can easily occur here) and get back down to corner velocity as
+quickly as possible. This can be done by selecting idle thrust and
+extending the speedbrake while maintaining max G (up to about 500
+KCAS). Just before reaching corner velocity, retract the speedbrake and
+select full A/B. With a little practice, these actions can be timed so that
+full A/B is reached just as corner velocity is reached.
+
+If in the high speed arena where the speedbrake is not effective, the best
+way to reach corner velocity is to slow with AOA/G and power modulation.
+There are two cautions: (1) the speedbrake is designed to retract
+automatically above 25 units AOA and, if the switch is left OUT, extend
+again when the AOA drops below 25 units; (2) the speedbrake extension
+telegraphs exactly what the pilot is doing to the adversary.
+
+AAM-1 D - 38
+
+
+Text from AAM-1_Performance_Management_page_45.jpeg:
+On the other hand, the aircraft may be below corner velocity when the
+quickest, tightest turn is needed. In this case, immediately select full A/B
+and turn at C,;max. Use some finesse in this regime because C,;max can
+be exceeded and turn performance degraded. Airspeed may or may not be
+maintained during the turn, but there probably is no choice in the matter.
+Continue turning at C,;max (use approximately 30 units AOA) until the
+tactical situation allows the turn to be relaxed. At that point, leave the
+throttles in full A/B and unload the aircraft to minimum drag (Cymin)
+AOA. In the F-15E, minimum Cymax approximated at 8-10 units AOA as
+indicated in Figure D-28, or just slightly less than 1 G (a light-in-the-seat
+feeling, but not a negative G feeling). If supersonic, 8-10 units AOA occurs
+with between 1 and 2 Gs on the aircraft until back in the subsonic range.
+At times when the quickest, tightest turn is not required, the best trade-
+off between turn performance and airspeed control is the optimum turn,
+and it is always performed at 16-22 units AOA in the F-15E (a light buffet
+on the wings).
+
+AOA
+
+AAM-01-28
+
+Figure D - 28. Min Drag/Optimum Turn AOA.
+
+
+Text from AAM-1_Performance_Management_page_46.jpeg:
+QUESTIONS
+
+1. The minimum airspeed at which maximum G can be obtained is
+called
+
+po op
+
+stall speed.
+
+best C,;, over Cp speed.
+optimum velocity.
+corner velocity.
+
+2. The very best sustainable turn rate and radius for a given altitude
+and configuration occurs (at)
+
+po op
+
+20 minutes after T.O.
+optimum turn airspeed.
+sustained corner velocity.
+16-22 units AOA.
+
+3. You are flying at corner velocity and wish to turn at your best
+rate/radius, but also to sustain the turn for at least 360°. Your best
+
+bet is to
+a. perform a level turn maintaining 30 units AOA.
+b. perform a loop while maintaining 30 units AOA.
+c. roll to 185° of bank and perform an oblique loop while
+maintaining approximately 30 units AOA.
+d. the F-15E has so much power it does not matter.
+AAM-1 D - 40
+
+
+Text from AAM-1_Performance_Management_page_47.jpeg:
+You are flying at an airspeed below corner velocity and detect an
+enemy aircraft at your 6 o'clock closing to weapons parameters. You
+should
+
+a. unload to 8-10 units AOA while selecting full A/B.
+
+b. — select full A/B and turn at approximately 30 units AOA until
+
+you have a chance to accelerate.
+
+select full A/B and pull straight up.
+
+d. _ select idle and speedbrake and hope he blows by you so fast he
+will not have time to take a shot.
+
+gS
+
+A turn that provides the best trade-off between turn performance and
+
+airspeed control is called and is performed at
+units AOA.
+
+AAM-1
+
+
+Text from AAM-1_Performance_Management_page_48.jpeg:
+1. d
+2. ¢
+3. Cc
+4. b
+
+5. optimum turn, 16-22
+
+AAM-1
+
+ANSWERS
+
+
+Text from AAM-1_Performance_Management_page_49.jpeg:
+ENERGY MANEUVERABILITY
+Introduction
+
+Victory in aerial combat usually goes to the aviator who flies and fights
+smart. Top aviators throughout history have been able to emphasize their
+relative strengths while exploiting the enemy’s relative weaknesses.
+Although strengths and weaknesses may lie in any number of areas such
+as training, tactics, weapons, etc., it is a basic premise that an aircraft's
+maneuverability is the foundation upon which these other areas are built.
+The development of the all-aspect missile is, in fact, an attempt to
+neutralize the differences in dissimilar aircraft maneuverability.
+
+However, it is a gross misconception to think that the turning dogfight has
+gone the way of the biplane. Every conflict, since the invention of the
+aircraft, in which enemy aircraft have engaged, has resulted in some sort
+of close-in turning engagement. The key to winning those engagements
+was, and is, energy management.
+
+Traditionally, aviators have recognized the importance of energy by
+attempting to always enter a fight with more altitude and airspeed than
+their opponents. They noted that, when equally proficient crews in
+identical aircraft begin to hassle, the one who enters the fight from a
+higher altitude and/or airspeed usually wins. Thus, early studies of
+energy were largely the result of trial and error in engagements. Slowly,
+a number of specific data points were gathered as a means of comparing
+aircraft performance. Among these were maximum airspeed and G, stall
+airspeed, combat/service ceilings, and, most notably, wing loading and
+thrust-to-weight ratio.
+
+Wing Loading
+
+Wing loading is obtained by dividing the aircraft weight by the surface
+area of the wing LOAD- wis. . The assumption is that this allows a
+comparison as to how much lift the aircraft generates for turn
+performance, i.e., the lower the wing loading, the better the turn
+performance. It is good for only one instant of time since no allowance can
+be made for airspeed lost during the turn. Also, while it provides an
+approximate comparison, it assumes that C, of the wings being compared
+is identical or very similar, and that thrust for sustaining the turn is
+identical or very similar. While the first assumption can be taken with a
+grain of salt when comparing like generations of fighter aircraft, the
+second assumption is usually grossly inaccurate. Wing loading then is not
+able to stand by itself as a means of comparison.
+
+
+Text from AAM-1_Performance_Management_page_5.jpeg:
+STUDENT PREPARATION REQUIREMENTS
+BEFORE CLASS
+
+Study the information contained in this workbook and complete the End of
+Text Quiz.
+
+
+Text from AAM-1_Performance_Management_page_50.jpeg:
+Thrust-to-Weight Ratio
+
+The thrust-to-weight ratio was used as a means to overcome the
+deficiencies inherent in using wing loading as a single means of comparing
+dissimilar aircraft. It was simply the aircraft's maximum thrust divided
+by its gross weight and expressed as a ratio. It allowed a snapshot look at
+how much thrust an aircraft could produce for acceleration or climb
+performance. When used with a wing loading comparison, one could get
+an approximate feel for which may be the more maneuverable aircraft.
+However, even when combined, these methods of comparison did not
+provide the aviator with the knowledge of what part of the performance
+envelope to utilize to take best advantage of the aircraft’s capabilities, nor
+did it tell him what the results of performing in a specific regime would be
+over a period of time.
+
+Specific Power (P,)
+
+The theory of specific power was proven with the proliferation of high
+performance fighters in the late 1950s. It can be derived for a given
+aircraft by the formula Ps; = (V/g) (dV/dt) + dH/dt.
+
+Because power controls true airspeed and energy (which equates to the
+capability to climb, increase turn rate, decrease turn radius and
+accelerate/decelerate), it is the key to management of energy
+maneuverability. It is one of the better ways, but certainly not an
+absolute best way, to measure an aircraft's ability to change its total
+energy state versus that of another aircraft under the same set of
+circumstances.
+
+V dV dH
+s= Tt
+G dt dt
+where:
+Vv = aircraft velocity (TAS in ft/sec)
+g = gravity constant (32 ft/sec’)
+dV/dt = aircraft acceleration (ft/sec’)
+dH/dt = aircraft rate of climb/descent (ft/sec)
+
+A positive value for Ps indicates that the aircrew can either climb,
+accelerate, increase G or any combination of the three and not sacrifice
+one of the other variables.
+
+AAM-1 D - 44
+
+
+Text from AAM-1_Performance_Management_page_51.jpeg:
+A negative value for P, indicates that the aircraft cannot sustain its
+current flight parameters. The aircrew must descend, decelerate, reduce
+G, increase thrust or a combination of the four by some amount.
+
+A zero value for Ps; indicates that the aircraft is in a flight condition where
+all variables are balanced and no change in energy state is required to
+sustain flight parameters. However, to climb, accelerate or increase G,
+one or more of the other remaining flight parameters must be sacrificed.
+
+Energy Maneuverability (EM) Diagram
+
+Using a computer, a multitude of values for Ps; can be figured for the flight
+conditions listed on any given performance management chart.
+Connecting equal values of Ps yields constant P, contour lines as shown in
+Figure D-29. When this is done, the graph is called an “Energy
+Maneuverability Diagram.” Note that load factor lines have also been
+added. EM diagrams represent performance capability of an aircraft for a
+given set of conditions (altitude, gross weight, configuration and power
+setting).
+
+TURN RATE
+
+MACH NUMBER —————>
+
+AAM-01-29
+
+Figure D - 29. Energy Maneuverability Diagram.
+
+
+Text from AAM-1_Performance_Management_page_52.jpeg:
+In addition to corner velocity, which is still evident as the peak of the
+performance envelope (A), a number of other interesting points or regions
+in the performance envelope now become evident.
+
+Sustainable Envelope
+
+The sustained envelope which was discussed earlier is now very evident
+since it is outlined by the P, = 0 contour line. Note that sustained corner
+velocity is the point where the zero Ps contour first intersects the max G
+line (B). At higher altitudes/heavier gross weights, the zero Ps curve does
+not reach the G limit line. In that case, sustained corner velocity would be
+found at the point where the Ps; = 0 curve peaks out.
+
+Best Energy Rate at Max G
+
+At some point along the max G line, find a contour line which is tangent to
+the max G line (interpolate if necessary). Although this occurs at a higher
+Mach and lower turn rate than corner velocity, it produces the best energy
+rate for maneuvers at maximum G. In other words, it is possible to climb
+while turning at max G, if at the Mach indicated at point (C), and
+continue to fly the Mach indicated at the same given point for succeeding
+charts for different altitudes.
+
+Comparing Ps
+
+The EM diagram, like other methods of aircraft comparison, does have its
+faults. Each diagram is applicable to only one altitude, configuration,
+weight and power setting, and the diagram is only capable of considering
+horizontal turns. In spite of that, comparing energy maneuverability
+diagrams for aircraft in comparable combat configurations provides the
+most usable and realistic method of aircraft comparison there is today.
+Chart comparison should be used as a tool in training to fight against
+dissimilar aircraft. “Knowing the nums,” of course, is not a panacea. The
+old adage that Ps never killed anybody is undoubtedly true. However, the
+aviator who arms himself with a comprehensive knowledge of the concepts
+of energy maneuverability, becomes thoroughly proficient in the
+performance of his aircraft, and knows something about the performance
+of the adversary, has a much greater likelihood of finding himself in a
+position to deliver ordnance rather than receive it!
+
+AAM-1 D - 46
+
+
+Text from AAM-1_Performance_Management_page_53.jpeg:
+END OF TEXT QUIZ
+
+The basic aerodynamic forces acting on an aircraft in flight are
+
+air density, velocity, lift and wing area.
+drag, lift, thrust and weight.
+
+wave drag, lift, weight and thrust.
+Mach, drag, thrust and lift.
+
+ao op
+
+The two pilot controllable factors that are common to the production
+of thrust, drag and lift are
+
+air density and throttle setting.
+air density and true airspeed.
+true airspeed and lift coefficient.
+lift coefficient and air density.
+
+po op
+
+While purely inverted with 5 Gs indicated on the cockpit G meter,
+the aircraft would actually be turning with a radial G of
+
+a. 4.0.
+b. 5.0.
+c. 5.87.
+d. 6.0.
+
+During supersonic flight, the aerodynamic center shifts ;
+and the aircraft becomes stable.
+
+a aft, more
+
+b. aft, less
+
+c forward, less
+d. forward, more
+
+
+Text from AAM-1_Performance_Management_page_54.jpeg:
+5. Turn performance is measured by
+
+radial G and true airspeed.
+radial G and turn rate.
+radial G and turn radius.
+turn rate and turn radius.
+
+po op
+
+6. Maintaining a level 60° bank turn while increasing airspeed will
+result in turn radius being
+
+a. increased.
+b. decreased.
+c. faster.
+
+d. unaffected.
+
+7. Corner velocity is defined as the
+
+a. speed at which the highest turn rate can be achieved.
+b. speed at which the smallest turn radius can be achieved.
+c. speed at which maximum G can be sustained.
+d. minimum speed at which maximum G can be obtained.
+8. An optimum turn in the F-15E is performed at units
+AOA.
+a. 8-10
+b. 10-15
+c. 16-22
+d. 30
+
+AAM-1 E-2
+
+
+Text from AAM-1_Performance_Management_page_55.jpeg:
+KCAS
+
+0 200 400 600 800 1000
+32 ALT = 5000
+fs WT = 55,630
+§
+g wy
+cS)
+24 x
+RJ
+oO A
+Lu
+”n
+C)
+Lu
+OQ 16 : 8G
+Lu
+< 3 oo
+z -5
+s q
+ke 8 5
+BS 46,000 F1
+aG
+~10 [3G] | 32,000 FT
+2G
+0
+0.0 0.4 0.6 1.2 1.6
+
+MACH NUMBER
+
+AAM-01-30
+
+Figure F - 1.
+
+Using the EM diagram shown above, corner velocity is
+
+a. 4650 knots.
+b. 480 knots.
+c. 530 knots.
+d. 590 knots.
+
+
+Text from AAM-1_Performance_Management_page_56.jpeg:
+0 200 400 600 800 1000
+32 ALT = 5000
+& WT = 55,630
+y &é
+24 s&
+RJ
+oO &
+Lu
+no
+)
+G 16
+ag 20 8S
+E 15 x
+s 10 ek
+zm -5
+w~ h
+= 5 AB 7G
+ee 46,000 F
+-10| [8G] 32,000 FT
+2G
+0
+0.0 0.4 0.6 1.2 1.6
+
+MACH NUMBER
+
+AAM-01-30
+
+Figure F - 2.
+
+Using the EM diagram shown above, what is the maximum
+sustainable G?
+
+a. 4.0
+b. 5.0
+c. 6.1
+d. 7.0
+
+
+Text from AAM-1_Performance_Management_page_57.jpeg:
+AC
+AOA
+
+CAS
+
+CG
+C,
+EM
+
+FRL
+
+GLOSSARY
+
+Aerodynamic center
+
+Angle of attack
+
+Control augmentation system
+Coefficient of drag
+
+Center of gravity
+
+Coefficient of lift
+
+Energy maneuverability
+Fuselage reference line
+
+Radial G
+
+AAM-1
+
+
+Text from AAM-1_Performance_Management_page_6.jpeg:
+AAM-1
+
+(This Page Intentionally Blank)
+
+
+Text from AAM-1_Performance_Management_page_7.jpeg:
+TEXT
+
+BASIC AERODYNAMICS
+
+Tremendous technological advances have been made and will continue to
+be made to take the utmost advantage of the aerodynamic forces that
+affect our aircraft in flight. The aerodynamic forces themselves, however,
+have not changed since the Wright brothers’ first flight at Kitty Hawk,
+NC. Figure D-1 depicts the four aerodynamic forces that continually act
+on an aircraft in flight.
+
+LIFT
+
+WEIGHT
+
+AAM-01-01
+
+Figure D - 1. Aerodynamic Forces.
+
+Knowing what factors affect these forces and which of the factors we can
+control is absolutely essential to the fighter aircrew.
+
+Bear in mind that the following discussion is only a review of basic
+aerodynamics and is intended for use by some who may not have a
+thorough understanding of aerodynamic principles. It does contain some
+oversimplifications in places, and should not be used to satisfy research
+requirements for your Ph.D. in Aerodynamics.
+
+AAM-1
+
+
+Text from AAM-1_Performance_Management_page_8.jpeg:
+Lift
+
+Lift is the component of the aerodynamic force that is perpendicular to the
+relative wind.
+
+Lift = 2 air density X velocity squared X coefficient of lift X wing
+surface area (L = 2 rv’C;s).
+
+Since wing surface area cannot be controlled (S = 608.0 ft? for the F-15E),
+consider the other lift force variables, in which the pilot does have some
+control:
+
+e Air density (p “Rho”) - The pilot can increase air density by flying at
+lower altitudes. Air at sea level is twice as dense as air at 22,000
+feet.
+
+e True airspeed (V) - Faster flight generates more lift.
+
+¢ Coefficient of lift - The pilot can control lift by varying the angle of
+attack (a). (The amount of a generated at a given airspeed is
+determined by the G capability - see section on WEIGHT.)
+
+Wing design and shape also impact coefficient of lift. Wing shape includes
+camber, planform, aspect ratio and Reynolds number. This discussion is
+limited to camber and planform.
+
+e Camber - A measure of the curvature of an airfoil. (Flaps are the
+only means of changing F-15E wing camber, but the pilot would not
+normally use flaps in a maneuvering environment.)
+
+e Planform - A top or bottom view of a wing/fuselage shape.
+Summary:
+Lift can be controlled by controlling:
+p (air density) - via flight altitude
+
+V (airspeed) - with the throttles
+C,, (coefficient of lift) - using the stick (AOA)
+
+e F-15E design contributes to the coefficient of lift through
+characteristics of its own unique wing design.
+
+AAM-1 D-2
+
+
+Text from AAM-1_Performance_Management_page_9.jpeg:
+Figure D-2 shows a C,, curve typical of a swept wing fighter as compared
+to that of a straight wing aircraft. Note that the maximum C,, generated
+by the straight wing is significantly greater than that of the swept wing.
+The straight wing curve, however, drops off abruptly when a certain
+angle-of-attack (AOA) is reached, indicating that the aircraft is no longer
+effectively producing lift and is stalled. The swept wing curve does not
+reach the value of lift that a straight wing does, but the swept wing is
+capable of reaching much higher angles-of-attack and does not drop off
+abruptly even after reaching an angle-of-attack which results in a
+decrease in the amount of lift produced. Maintaining approximately
+
+30 units AOA (moderate to heavy buffet without wing rock) always keeps
+you close to C,MAx.
+
+STRAIGHT WING
+
+AOA
+
+AAM-01-02
+
+Figure D - 2. C, Curve Comparison.
+
+Weight
+
+Weight is the force of gravity and always acts toward the center of the
+earth regardless of the aircraft's attitude. It does not directly oppose any
+other single aerodynamic force unless one of the other aerodynamic force
+vectors is positioned directly opposite the center of the earth. In straight
+and level flight, lift is directly opposed by weight, but in vertical flight,
+thrust or drag (depending on whether the aircraft is going up or down) is
+opposed by weight.
+
+AAM-1
+
+

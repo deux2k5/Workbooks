@@ -1,0 +1,1709 @@
+Text from ACG-3_Fuel_System_page_1.jpeg:
+SUPPORTS COURSES
+FIS5EBQ
+
+FISETX
+
+FISESOC
+
+ACADEMIC STUDENT WORKBOOK
+F-15E
+
+AIRCRAFT GENERAL
+ACG-3
+FUEL SYSTEM
+
+NOVEMBER 1998
+
+(SUITE 3 OFP)
+
+AIR COMBAT COMMAND
+
+
+Text from ACG-3_Fuel_System_page_10.jpeg:
+External Tanks
+
+These tanks are part of the first level of a three-stage transfer/feed system
+(Figure D-2). They use engine bleed air pressure, not pumps, to force fuel
+into any internal tank that will accept it. The tanks are interchangeable
+and can be carried on wing and centerline stations. They are each
+mounted on a pylon that is attached to the aircraft hardpoints. They are
+the only tanks that do not have fire suppressant foam or self-sealing
+capability. External tanks can be jettisoned regardless of their content
+quantity. Because of this capability, the external tanks are called “drop
+tanks.”
+
+Conformal Fuel Tanks
+
+The conformal fuel tanks (CFTs) are also part of the first level transfer
+system. They transfer fuel by means of transfer pumps (two per tank) to
+any internal tank that has room for it. CFTs are divided into three
+compartments to ensure the CG moves forward as the fuel is transferred
+and are bolted on the outside of each engine nacelle (cannot be jettisoned).
+They contain explosion suppressant foam slabs for survivability.
+
+EXTERNAL
+TANK FIREWALL
+
+ENGINE FEEDLINES
+RIGHT
+FEED TANK
+(TANK 2)
+
+TANK 1 } TANK
+
+TANK 1
+AUX TANK
+
+EXTERNAL _
+
+TANK
+
+ACG-03-02
+
+Figure D - 2. Fuel System Components.
+
+ACG-3 D-4
+
+
+Text from ACG-3_Fuel_System_page_11.jpeg:
+Transfer Tanks
+
+The transfer tanks are the second level in the transfer/feed hierarchy.
+They are composed of tank 1 and the right and left internal wing tanks
+(Figure D-2). A single pump in each tank is used to transfer fuel to either
+feed tank that has room for it. These tanks contain fire/explosion
+suppressing foam to enhance survivability.
+
+Transfer Pumps
+
+The CFTs, internal wing tanks and tank 1 all contain transfer pumps to
+move fuel (Figure D-3). The internal tank pumps normally operate
+anytime main generator power is available (or on ground power with an
+engine master switch on). The CFT pumps use the same power source
+logic, but can be turned on or off with a cockpit fuel control switch on the
+fuel control panel. Transfer pumps provide fuel flow to power hydraulic
+ejector pumps that ensure that all fuel in the tank 1 auxiliary tank and
+the CFT forward compartments is transferred. The internal wing and
+tank 1 transfer pumps require main generator power (or ground power).
+They will not operate from emergency generator power. The CFT transfer
+pumps can be selectively operated from emergency generator power
+during special circumstances (covered later).
+
+RIGHT FEED TANK
+
+RIGHT INTERNAL WING
+TANK
+
+EXTERNAL EXTERNAL
+
+LEFT INTERNAL
+
+WING TANK ——> '
+
+TO ENGINES
+
+LEFT FEED TANK @ TRANSFER PUMPS
+
+ACG-03-03
+
+Figure D - 3. Transfer Pumps.
+
+D-5 ACG-3
+
+
+Text from ACG-3_Fuel_System_page_12.jpeg:
+Fuel Lines
+
+There are two sets of lines running from the internal transfer tanks to the
+feed tanks (Figure D-4). In case of transfer pump failure(s), fuel
+eventually gravity transfers through the lower line, but not until the fuel
+being transferred by the operative fuel transfer pumps and the external
+tank/CFT fuel has all been transferred to the feed tanks.
+
+WING TANK FEED
+NORMAL LINE (TRANSFER) NORMAL LINE TANK
+
+TANK 1
+(TRANSFER)
+
+GRAVITY LINE RIGHT FEED LEFT FEED GRAVITY LINE
+
+Figure D - 4. Fuel Lines.
+
+Feed Tanks
+
+The feed tanks are at the third level of the transfer/feed system (Figure
+D-4). The feed tanks provide fuel directly to the engines. Tanks 2 & 3,
+normally called the right and left feed tanks, respectively, supply fuel
+under pressure to their respective engine. The left feed tank is really
+composed of two interconnecting tanks (8A & 3B) but it is most commonly
+referred to as a single tank. The JFS gets its fuel from tank 3B. Both
+feed tanks are internally baffled so you can sustain negative Gs or
+inverted flight for a limited time (7 seconds maximum). The tanks contain
+a protective lining that gives them a self-sealing capability if punctured by
+a bullet or other small projectile. They also contain fire/explosion
+suppressant foam.
+
+ACG-3 D-6
+
+
+Text from ACG-3_Fuel_System_page_13.jpeg:
+Boost Pumps
+
+Each feed tank has a boost pump to supply boosted fuel to the engines
+(Figure D-5). Without fuel being boosted (pressurized), it may vaporize
+and the engines will flameout. The left feed tank also contains the
+emergency boost pump, which comes on if the left and/or right main boost
+pump malfunctions, a main generator fails or both transformer rectifiers
+fail. With any of the above three situations, a system of interconnect and
+crossfeed valves open between the left and right feed tanks ensuring both
+engines are supplied boosted fuel by the remaining operating boost
+pump(s), and the emergency generator will come on and power the
+emergency boost pump.
+
+' TANK 4 . RIGHT FEED TANK
+YY, RIGHT INTERNAL WING
+LC TANK
+
+EXTERNAL @ > EXTERNAL
+:
+
+LEFT INTERNAL
+WING TANK ————_>
+
+TO ENGINES
+
+LEFT FEED TANK @ BOOST PUMPS
+
+LEFT FEED TANK RIGHT FEED TANK
+
+TO RIGHT
+ENGINE
+
+CROSSFEED
+VALVE
+
+TO LEFT
+ENGINE
+
+INTERCONNECT
+VALVES ACG-03-05
+
+Figure D - 5. Boost Pumps (Top and Side Views).
+
+D-7 ACG-3
+
+
+Text from ACG-3_Fuel_System_page_14.jpeg:
+Heat Exchangers
+
+There is a radiator-like device in the fuel line between each feed tank and
+its respective engine called a heat exchanger. These exchangers routinely
+circulate cool fuel around lines containing hot AMAD oil, integrated drive
+generator (IDG) oil and hydraulic (PC and utility) fluid (Figure D-6).
+Some of the heat is transferred to the fuel, thereby cooling the fluids while
+heating the fuel to a more optimum combustion temperature. If the fuel
+leaving the exchanger is too hot, a recirculation valve opens and routes a
+portion of the fuel back to the internal wing tank for cooling. If the valve
+on one side is open, the other valve opens to preclude a possible imbalance
+of fuel between the left and right internal wing tanks.
+
+TO PC2 TO AMAD
+SYS
+
+FROM RIGHT TO RIGHT
+FEED TANK ENGINE
+RETURN TO
+Jo Mure TO IDG RIGHT WING
+
+ACG-03-06
+
+Figure D - 6. Right Heat Exchanger.
+
+ACG-3 D-8
+
+
+Text from ACG-3_Fuel_System_page_15.jpeg:
+SYSTEM OPERATIONS
+
+The fuel system’s primary job is to keep fuel flowing to the engines. It
+does this in a three-stage transfer/feed hierarchy (Figure D-7). The
+external tanks and CFTs transfer their fuel to any internal tank(s) that
+will take it, followed by the internal wing tanks and tank 1 transferring
+the fuel to the feed tanks. Fuel is boosted from the feed tanks to the
+engines. This design attempts to ensure that the feed tanks are
+continuously full (even with fuel transfer malfunctions), unless engine
+demand is higher than the fuel transfer rate.
+
+EXTERNALS &
+CFTs
+
+TANK 1 &
+INTERNAL WINGS
+
+FEED TANKS
+
+ACG-03-07
+
+Figure D - 7. Three Stage System.
+
+Transfer System
+External Tanks
+
+External tanks are normally transferred first, assuming the fuel control
+switches are positioned appropriately. The fuel is moved exclusively by
+engine bleed air pressure, so transfer pump or electrical system failure is
+not a factor. The external wing tanks receive a slightly higher pressure
+(25 psi) than the centerline tank (15 psi) so they should normally transfer
+first. (The aircrew can choose to transfer the centerline tank first through
+cockpit fuel control switches). Monitor the appropriate tank(s) as transfer
+occurs to detect any transfer malfunction early, before it becomes a
+
+D-9 ACG-3
+
+
+Text from ACG-3_Fuel_System_page_16.jpeg:
+significant problem. Be aware, however, that it is not uncommon for the
+external wing tanks to transfer at different rates, and even for one to
+empty significantly before the other one.
+
+Conformal Fuel Tanks
+
+The CFTs transfer together, normally after the externals go dry or
+whenever the internal transfer tanks are not being kept full by the
+externals. If this happens, the CFTs can “kick in” and augment the
+externals. There are two transfer pumps in each CFT, one in the aft
+compartment sump and one in the center compartment sump, which
+transfer the fuel in a manner to automatically maintain the proper center
+of gravity. The center and aft compartment sumps are connected by a
+float-controlled interconnect valve, which isolates the two sumps until the
+aft compartment is almost empty or the aft transfer pump fails. The
+center pump runs an ejector or “sucker” pump, which empties the forward
+compartment into the center compartment. If both CFT transfer pumps
+are inoperative, fuel from that CFT cannot be transferred.
+
+NOTE
+
+On aircraft 90-0233 and up, after TCTO 6J14-5-11-521, the ejector pump is
+moved to the aft compartment (vice the forward compartment) to aid in
+
+fuel transfer from the aft compartment. The forward compartment gravity
+transfers to the center compartment.
+
+Internal Wing Tanks and Tank 1
+
+The internal transfer tanks are normally the last to deplete. Each tank
+has one electric transfer pump. Tank 1 also has an ejector pump that
+empties its aux tank. After tank 1 transfers its first 200 pounds, tank 1
+and each internal wing tank normally transfer fuel at the same rate
+pound for pound. Should tank 1 fail to feed, anticipate a forward shift in
+aircraft CG as the internal wing tanks empty. This forward CG condition
+will increase aircraft departure susceptibility until tank 1 gravity feeds;
+which will not happen until the internal wing tanks are empty. Restrict
+AOA to below 30 units anytime tank 1 fuel is greater than 750 pounds
+more than either internal wing tank.
+
+ACG-3 D-10
+
+
+Text from ACG-3_Fuel_System_page_17.jpeg:
+Engine Feed System
+Each feed tank provides fuel under boost pump provided pressure to its
+respective engine (Figure D-8). After fuel leaves the feed tank, it passes
+
+through a heat exchanger. This interaction keeps the fluids cool while
+warming the fuel, which enhances combustion.
+
+TRANSFER FROM
+INTERNAL WING
+TANKS
+
+:
+TO LEFT ENGINE
+RIGHT ——
+ERIE FEED TANK (3)
+CROSSFEED
+VALVE
+FEED
+
+LEFT EED TANK R
+
+TO BOOST PUMP MAIN INTERCONNECT N
+LEFT BoosT VALVES B
+ENGINE J PUMP PUMP
+
+Figure D - 8. Feed System.
+
+RIGHT ENGINE
+FEED TANK (2)
+
+TRANSFER
+1_ FROM
+TANK 1
+
+HEAT
+EXCHANGERS
+
+The feed system is capable of boosting fuel to both engines unless all three
+boost pumps fail. If only one boost pump is working, sufficient pressurized
+fuel still goes to both engines but the aircraft operating envelope is
+restricted to less than 30,000 feet altitude and nonafterburner operations.
+If you experience total boost pump failure, the engines are suction fed and
+the probability of one or both engines flaming out is high.
+
+In a single engine situation, the fuel in the feed tank for the inoperative
+engine does not feed to the operative engine. In fact, the tank remains full
+until the level in the other feed tank reaches FUEL LOW caution
+activation. Then the interconnect and crossfeed valves between the feed
+tanks open allowing the inoperative engine’s feed tank fuel to be used for
+
+the operating engine.
+
+D-11 ACG-3
+
+
+Text from ACG-3_Fuel_System_page_18.jpeg:
+Pressurization and Vent System
+
+Engine bleed air is routed to all tanks (except the CFTs) to provide
+positive tank pressure to prevent vaporization/boil-off at altitude (the
+CFTs use their own ram air system to do the same thing). Additionally,
+the bleed air pressure is used to transfer fuel from the external
+wing/centerline tanks. Tank pressurization is a function of the physical
+position of the landing gear handle. Normally, pressure is applied with
+the handle up and removed with it down.
+
+The internal tanks are vented through right and left wing tip vents. The
+CFTs have their own vents and the external tanks are vented through
+their respective pylon. The system provides for proper pressure relief
+during climbs and vacuum relief during descents.
+
+INDICATORS
+
+Fuel Quantity Indicators
+
+All fuel quantity indications are combined into a gauge in each cockpit
+(Figure D-9). The front cockpit gauge is located just above the JFS
+
+handle. The rear cockpit gauge is located on the instrument panel next to
+the clock. It is a repeater gauge that displays only internal and total fuel.
+
+ACG-3 D-12
+
+
+Text from ACG-3_Fuel_System_page_19.jpeg:
+OTAL LBS
+RIGHT
+
+tas (3|2Iolo
+0)
+
+TANK |
+INTL WING EXT WING
+FEED EXT CIR
+
+BIT” \conr
+
+FRONT COCKPIT FUEL QUANTITY INDICATOR
+
+a
+LBsx1000 12°
+
+14
+
+18400
+
+TOTAL
+
+REAR COCKPIT FUEL QUANTITY INDICATOR
+
+ACG-03-09
+
+Figure D - 9. Fuel Quantity Indicators.
+
+D-18 ACG-3
+
+
+Text from ACG-3_Fuel_System_page_2.jpeg:
+ADMINISTRATIVE INFORMATION
+
+This student workbook is designed to provide information on the F-15E, its
+systems and capabilities. It is not a sole source document, but is to be used in
+conjunction with other standard Air Force publications and technical
+manuals. If you find any differences between the material contained herein
+and other governing regulations, adhere to the regulations and notify the
+OPDR.
+
+Changes to this workbook are indicated with a heavy black line in the left
+margin.
+
+Forward recommendations for revision or change to 4 TS, SJAFB, NC 27531.
+
+Supersedes: ACG-3, July 1998
+
+OPDR: 4 TS
+
+Index of Changes
+
+Effective Date Pages Affected
+
+
+
+Text from ACG-3_Fuel_System_page_20.jpeg:
+On the FCP gauge the top scale and pointer indicate total internal fuel (in
+thousands of pounds). The digital counter immediately below this shows
+total fuel onboard. The two counters labeled LEFT and RIGHT indicate
+fuel quantity for the tanks selected on the rotary fuel quantity selector
+knob below. When set to EXT CTR or TANK 1, the left counter displays
+fuel quantity for that tank and the right counter zeros out. When you
+select the BIT position, the pointer and TOTAL LBS counter drive to 6000
+and the LEFT and RIGHT counters drive to 600 as a test of the gauge.
+The knob must be held in the BIT position.
+
+The FCP fuel quantity indicator also contains the bingo knob and the
+bingo index or bug. Together with the BINGO caution indication on the
+MPD/MPCD and the voice warning, they serve as a fuel quantity warning
+system. Using the bingo knob you can set the bug to any total internal
+fuel reminder that you want-bingo, joker, etc. It can also be set above
+6000 before initiating the BIT so that the MPD/MPCD caution and voice
+warning activation will be tested, as the fuel needle drives below the bug
+position. Again, the bingo warning is referenced to total internal fuel.
+
+Both the FCP and RCP fuel gauges will operate off emergency generator
+
+power if main generator power is unavailable. Each gauge has an OFF
+flag, which is displayed when electrical power to the gauge is not provided.
+
+ACG-3 D-14
+
+
+Text from ACG-3_Fuel_System_page_21.jpeg:
+CONTROLS
+Fuel Control Panel
+
+Aside from associated fuel related switches like the engine master
+switches, fire push lights and throttles, the ones used to control fuel
+system operation are located on the fuel control panel (Figure D-10). The
+panel is in the front cockpit just forward and outboard of the throttle
+
+quadrant.
+
+WING CTR CONF TANK
+STOP TRANS
+
+“© © wow ©) noe“ ©) W
+
+STOP REFUEL
+
+DUMP
+
+SLIPWAY
+ORIDE
+
+®
+
+NORM
+CONF TANK | EXT TRANS
+EMERG TRANS |_ CONF TANK
+
+WING/CTR CLOSE
+
+ACG-03-10
+
+FRONT COCKPIT
+
+Figure D - 10. Fuel Control Panel.
+
+D-15 ACG-3
+
+
+Text from ACG-3_Fuel_System_page_22.jpeg:
+External/Conformal Fuel Tank Control Switches
+
+These three 3-position switches labeled WING, CTR and CONF TANK
+control the transfer of fuel to (refueling) and from (transfer) the CFTs and
+external tanks during normal fuel transfer and refueling operations
+(Figure D-10). The NORM or center position of each switch allows both
+transfer and refueling of the associated tank(s). The STOP REFUEL
+position prevents the associated tank(s) from being refueled on the ground
+or airborne. You must have electrical power for the switches to function.
+STOP TRANS stops fuel from transferring from the respective tank(s)
+unless the FUEL LOW caution is displayed. The STOP TRANS position
+for the conformal tanks turns off the CFT transfer pumps. When this
+happens, the valves are automatically opened (regardless of the switch
+position) for as long as the fuel low condition exists. Once the feed tanks
+are filled above the fuel low sensors, the tanks for which STOP TRANS is
+selected will cease transferring until the FUEL LOW reoccurs.
+
+During start and before takeoff ground operations, the CFT control switch
+should be positioned to STOP TRANS to prevent the CFTs from venting
+fuel on start and to allow the tank 1 fuel to transfer. During the before
+takeoff check, the pilot checks tank 1 quantity to ensure tank 1 is
+transferring and then positions the CFT control switch to NORM.
+
+ACG-3 D-16
+
+
+Text from ACG-3_Fuel_System_page_23.jpeg:
+External Transfer Switch
+
+This two-position switch (Figure D-11) labeled EXT TRANS selects the
+priority of either the external tanks or the CFTs to transfer first. If you
+choose WING/CTR, the external tanks transfer first, followed by the
+CFTs. This is the normal setting if both EXT & CFT tanks are installed.
+Placing the switch to CONF TANK allows the CFTs to transfer before the
+externals. It is important that the switch position reflects the actual
+configuration of the aircraft. If the selected priority tanks (WING/CTR or
+CONF TANK) are not installed on the aircraft, the internal fuel will
+deplete approximately 1100 pounds; then the nonpriority tanks will fill
+the internal tanks. The internal fuel will then deplete 1100 pounds and
+the “cyclic” transfer will repeat. If fuel demand is too high for the priority
+tank(s), the nonpriority tank(s) will “kick-in” in this cyclic manner in an
+attempt to keep the internal tanks full. The fuel quantity sensor, which
+provides for this “cyclic” transfer, is located in tank 1. If the tank 1
+transfer pump fails, the nonselected system will not transfer until after
+the FUEL LOW when tank 1 begins gravity feeding the feed tanks.
+
+CTR CONF TANK
+STOP TRANS
+
+NORM NORM © qd )
+
+©
+
+STOP REFUEL
+
+SLIPWAY
+
+NORM
+
+CONF TANK EXT TRANS
+EMERG TRANS | CONF TANK
+
+WING/CTR
+
+ACG-03-11
+
+FUEL CONTROL PANEL
+
+Figure D - 11. Fuel Control Switches.
+
+D-17 ACG-3
+
+
+Text from ACG-3_Fuel_System_page_24.jpeg:
+Ground Transfer
+
+Fuel transfer during ground operations is the same as airborne transfer,
+with one exception. The external tanks do not transfer (because the fuel
+system is not pressurized with the gear handle down). Checklist
+procedures call for STOP TRANS to be selected during engine
+start/ground operations to prevent CFT fuel venting. The pilot should use
+this opportunity to ensure that tank 1 fuel is transferring by noting the
+decrease in tank 1 fuel (it is not being replenished by either external or
+CFT fuel). Engine start and ground operations normally require about
+1500 lbs (from tank 1 and internal wing tanks). Tank 1 fuel quantity
+should drop about 600 Ibs (from 4000 lbs to about 3400 lbs) and should be
+within 500 lbs of the fuel quantity in each internal wing.
+
+Dump Switch
+
+This two-position switch is in the NORM position when dumping is not in
+progress. When DUMP is selected, it is electrically held to allow for
+automatic dumping operations. The fuel dump system allows you to
+automatically dump fuel to either the quantity set with the bingo bug or
+approximately 2750 lbs (feed tank fuel), whichever is greater. The BINGO
+FUEL caution, by design, causes the dump switch to physically return to
+the NORM position. Be aware that there are known instances of this not
+happening. The aircrew should confirm that the switch is in the NORM
+position and visually confirm that dumping has stopped. Of course,
+manually selecting NORM also terminates dumping. Fuel dump rate is
+approximately 910 PPM (pounds per minute). The uneven dump rates of
+the internal tanks (left internal wing 260 PPM, tank 1 260 PPM, right
+internal wing 390 PPM) creates an internal wing lateral fuel imbalance of
+130 PPM (1100 pounds maximum). The asymmetry will remain until all
+the internal wing fuel is depleted (dumped or transferred) or the tanks are
+refilled.
+
+Slipway Switch
+
+The slipway switch (Figure D-11) controls air refueling functions. It is
+discussed later in the air refueling section.
+
+Conformal Tank Emergency Transfer Switch
+
+The conformal tank emergency transfer switch is discussed later in the
+malfunction section.
+
+ACG-3 D-18
+
+
+Text from ACG-3_Fuel_System_page_25.jpeg:
+Fuel Shutoff Valves
+
+A fuel shutoff valve is located in each fuel line, aft of the heat exchanger
+and forward of the engine main fuel control (Figure D-12). It is normally
+open but can be electrically closed (in 2-3 seconds) by turning the
+appropriate engine master switch off or by pushing the associated fire
+push light in the front cockpit. It provides an alternate fuel shutoff
+capability to the main fuel control (throttles) and is also further upstream
+in the system. This is important to consider in case of a fuel leak.
+
+ENGINE 5
+FUEL
+MAIN
+FU EL BURN THRU. BURN THRU
+CONTROL = =s
+
+ENGINE
+
+Fuel Shutoff Valve.
+
+ACG-03-12
+
+Figure D - 12.
+
+ACG-3
+
+
+Text from ACG-3_Fuel_System_page_26.jpeg:
+QUESTIONS
+
+1. List the capacity of the following fuel tanks (JP-8):
+
+Left feed tank ___lbs
+Right feed tank ___lbs
+Tank 1 ___lbs
+Internal wing tank ____lbs each
+External wing tank ____lbs each
+CFT ____lbs each
+
+2. List the major components of the fuel system.
+a.
+
+b.
+
+3. Describe the normal airborne fuel transfer sequence.
+
+4. The airframe mounted fuel shutoff valves are normally open; they
+can be closed by using the or
+
+ACG-3 D - 20
+
+
+Text from ACG-3_Fuel_System_page_27.jpeg:
+List the fuel tanks that make up each of the 3 stages of the
+transfer/feed system:
+
+a. First level - external transfer
+
+b. Second level - internal transfer
+
+c. Third level - engine feed
+
+Placing the conformal fuel tank control switch to STOP TRANS
+causes ; however, if the FUEL LOW indication
+comes on, fuel transfer from the CFTs as long as the
+fuel low condition exists.
+
+D-21 ACG-3
+
+
+Text from ACG-3_Fuel_System_page_28.jpeg:
+ANSWERS
+
+1. Left feed tank 1250 lbs
+Right feed tank 1550 lbs
+Tank 1 4050 lbs
+Internal wing tank 3300 lbs each
+External wing tank 4100 lbs each
+CFT 4900 lbs each
+
+2. a. External fuel tanks
+b. Conformal fuel tanks
+c. Internal transfer tanks
+d. Feed tanks
+e. Transfer pumps
+f. Boost pumps
+g. Heat exchangers
+h. Fuel shutoff valves
+I. Fuel lines
+j. Pressurization and vent system
+
+3. External fuel tanks followed by CFTs; then simultaneously from each
+internal wing tank and tank 1; then both feed tanks to their
+respective engine.
+
+4. Engine fire push lights, engine master switches
+
+5. a. First level - external transfer
+External tanks (Wing, center)
+Conformal fuel tanks (Left, right)
+
+b. Second level - internal transfer
+Internal wing tanks (Left, right)
+Tank 1
+
+c. Third level - engine feed
+Left feed tank
+Right feed tank
+
+6. CFT fuel transfer to stop; resumes
+
+ACG-3 D - 22
+
+
+Text from ACG-3_Fuel_System_page_29.jpeg:
+Ground Refueling
+
+Ground refueling is accomplished through the single point receptacle
+under the left engine intake. No electrical power is required for the
+operation. The external tanks can be refueled separately, if required.
+Procedures exist for refueling with the engines running (“hot refueling”).
+
+Air Refueling
+
+Fuel can be taken onboard from a KC-135 or KC-10 through the air
+refueling receptacle which is beneath the slipway door. This assembly is
+located on top of the left engine inlet just aft of the rear cockpit area. It
+consists of the door, the receptacle, area lighting (slipway and flood) and a
+pressure switch. The cockpit controls and indicators consist of a READY
+light, the slipway switch, an emergency air refueling switch (Figure D-13)
+and an air refueling release button on each stick grip (Figure D-14).
+
+D - 238 ACG-3
+
+
+Text from ACG-3_Fuel_System_page_3.jpeg:
+AIRCRAFT GENERAL
+
+COVER
+
+FUEL SYSTEM
+INTRODUCTION
+
+This workbook is your guide in studying the F-15E Fuel System. It
+familiarizes you with the components, nomenclature and operating
+characteristics of the fuel system and provides knowledge needed to safely
+operate the aircraft.
+
+CONTENTS:
+
+INTRODUCTION 0.000. eeecceeeseeeeseeceseeesesaeecessaeeessaeesessaeesesneeeeneas A-1
+CRITERION REFERENCED OBJECTIVES (CROs).........0..eeeeeeeeeees B-1
+STUDENT PREPARATION REQUIREMENTS ...00.. eee eeeeee C-1
+TEXT oe cecccccceessseeeceessseeecceessaeeeccesssseeeseessaeeeceeesaeeeseeesaeeesensaaeees D-1
+END QE TEXT QUIG sess cscs cess sows sues susan seins see ose ones sass suivs seve sere ans wee snows ses su E-1
+GLOSSARY. eeeccceesceeceseeeesseeecesacecesaeeessaeesesaeecesaeesessaeesesaeesenaees F-1
+
+A-1 ACG-3
+
+
+Text from ACG-3_Fuel_System_page_30.jpeg:
+WING CTR CONF TANK
+STOP TRANS
+
+NI, NORM NORM SL
+
+STOP REFUEL
+
+DUMP
+SLIPWAY
+
+NORM
+CONF TANK EXT TRANS
+EMERG TRANS | CONF TANK
+
+EMER A/R SWITCH ACG-03-13
+
+Figure D - 13. Air Refueling Components.
+
+ACG-3 D - 24
+
+
+Text from ACG-3_Fuel_System_page_31.jpeg:
+AIR REFUELING
+RELEASE (ARR)
+
+FRONT COCKPIT REAR COCKPIT
+
+ACG-03-14
+
+Figure D - 14. Air Refueling Release/Disconnect (ARR) Switch.
+
+The 3-position slipway switch is the primary air refueling control. Its
+positions and related functions are:
+
+OPEN
+
+Moving the switch to this position turns off the transfer pumps
+in the CFTs and in tank 1, hydraulically opens the door, and if
+the door opens, depressurizes the external tanks (if the fuel low
+caution is not on) and turns on the exterior refueling lights. The
+READY light also comes on indicating the system is ready to
+accept the tanker's refueling boom.
+
+When the boom contacts the receptacle, the locking mechanism
+engages, the READY light goes out and fuel is transferred at a
+maximum rate of about 3000 lbs/minute. For CG control a float
+switch located in tank 1 prevents the external tanks from being
+filled until tank 1 contains at least 1560 lbs. The CFTs will
+start refilling, regardless of tank 1 fuel quantity.
+
+D-25 ACG-3
+
+
+Text from ACG-3_Fuel_System_page_32.jpeg:
+CLOSE
+
+ORIDE
+
+ACG-3
+
+The boom remains engaged until either the boom limits are
+exceeded (at which time it automatically disconnects) or the
+crew or boomer manually initiate a disconnect. The crew can
+initiate manual disconnect by depressing the air refueling
+release button on either stick grip. At this time the system
+automatically recycles (takes about 3-5 seconds) and the READY
+light again comes on.
+
+Going to this position turns on the transfer pumps in the CFTs
+(CFT transfer switch in NORM) and in tank 1, closes the
+slipway door, repressurizes the external tanks, reestablishes
+fuel sequencing and turns off exterior refueling lights and the
+READY light.
+
+This position is similar to OPEN but may allow refueling when
+certain malfunctions exist. The two differences are that the
+automatic disconnect and tanker initiated manual disconnect is
+lost (the F-15E crew must initiate all disconnects) and the float
+switch in tank 1 is bypassed. To prevent an undesirable CG
+condition select STOP REFUEL for the external tanks until
+tank 1 fuel quantity is above 1560 lbs. ORIDE should not be
+used during normal peacetime operations unless refueling is
+critical due to a low fuel state.
+
+
+Text from ACG-3_Fuel_System_page_33.jpeg:
+Emergency Air Refueling
+
+If you have to air refuel and the slipway door does not open normally (for
+example, utility hydraulic failure), there is a backup. With the slipway
+switch in OPEN, place the emergency air refueling switch to OPEN. This
+fires a pyrotechnic device, blowing the slipway door open. The slipway
+lights and the READY light illuminate; however, the READY light will not
+go out nor will the boom lock in place. “Pressure” refueling must be
+accomplished. The door cannot be closed, but the external tanks can be
+pressurized and tank 1 and CFT transfer pumps are made available by
+putting the normal slipway switch to CLOSE.
+
+Fuel Dumping
+
+All fuel but that in the feed tanks can be dumped overboard through a
+dump mast located on the trailing edge of the right wing tip. Placing the
+dump switch to DUMP opens the valve and allows the transfer pumps and
+engine bleed air to force the fuel out at a rate of about 910 lbs/minute.
+Dumping will stop when (1) the dump switch is returned to NORM; (2)
+only fuel in the feed tanks remains, even with the switch still in DUMP;
+(3) the pointer on the fuel quantity indicator reaches the bingo bug, which
+returns the solenoid-held dump switch to NORM. One thing to keep in
+mind—you can dump fuel on the ground just like in the air. All you need is
+electrical power and the switch in DUMP. This is not a guarded switch, so
+avoid inadvertent selection of the DUMP position.
+
+NOTE
+
+The right internal wing tank’s 20 gpm faster dumping rate produces an
+internal wing tank imbalance (left wing heavy condition) of
+approximately 130 lbs per minute of dumping to a maximum of about
+
+1100 pounds (when the right internal wing tank is empty). The fuel
+imbalance will decrease as fuel in the left internal wing tank is depleted
+from below 1100 pounds to empty.
+
+D-27 ACG-3
+
+
+Text from ACG-3_Fuel_System_page_34.jpeg:
+MALFUNCTIONS
+Uncommanded Fuel Venting/Fuel Leak
+
+These two malfunctions have no special warning or caution indicators,
+and can be quite insidious. The fuel quantity being much lower than
+planned at a certain mission point or excessive fuel flow may be the only
+indication until FUEL LOW appears. In the case of venting, you or a
+wingman should notice the spray, in most conditions. The greatest danger
+comes from not being able to reach a recovery base; and in the case of a
+leak, possible in-flight fire/explosion. Refer to the checklist for the
+appropriate procedures.
+
+Cautions and Warnings
+
+There are eight different caution indications that apply to the fuel system.
+When the conditions for activation are met, one or more of the following
+occurs: a yellow caution light illuminates on the FCP (and, in some cases,
+RCP) caution panel; a caution message appears on the appropriate
+MPD/MPCD; a voice warning message is sent to both cockpits. When any
+of these occur, the master caution lights in the front and rear cockpits also
+illuminate.
+
+The fuel cautions are: BINGO FUEL, FUEL LOW, FUEL HOT, EMER
+BST ON, BST SYS MAL, L BST PUMP, R BST PUMP and XFER PUMP.
+Conditions relating to the BINGO caution have been described previously.
+The caution indications that occur for a certain malfunction and the
+specific condition that activates each of the cautions will be presented in
+the next section. Refer to the checklist in all cases.
+
+ACG-3 D - 28
+
+
+Text from ACG-3_Fuel_System_page_35.jpeg:
+Fuel Low
+
+Fuel low indications warn you of a low fuel level in one or both engine feed
+tanks. The system is completely independent of the fuel quantity
+indicating system and responds to sensors in each feed tank (Figure D-15).
+The FUEL LOW caution light (both cockpits) and a voice warning which
+says “WARNING, FUEL LOW” are activated when you have about 1600
+lbs total feed tank fuel remaining. The sensors are exposed with less than
+1000 lbs in the right feed tank or 600 lbs in the left feed tank. If transfer
+falls behind engine consumption, the system can activate with fuel
+remaining in other tanks; and in some high transfer situations, fuel spray
+may wet the sensors inhibiting the cautions. When FUEL LOW comes on,
+fuel will transfer from the external tanks and CFTs, even with STOP
+TRANS selected on the fuel control panel. FUEL LOW overrides the
+landing gear handle and external tanks fuel will be transferred with the
+landing gear handle down. FUEL LOW also overrides the slipway switch
+for external tank pressurization/fuel transfer. It will not, however, turn
+on the tank 1 transfer pump or the CFT transfer pumps if the slipway
+switch is in OPEN or ORIDE.
+
+FUEL
+LOW
+LEVEL
+
+1000 LBS IN 600 LBS IN
+RIGHT TANK OR LEFT TANK
+
+ACG-03-15
+
+Figure D - 15. Fuel Low Conditions.
+
+Fuel Hot
+
+A FUEL HOT caution on the MPD/MPCD indicates that the temperature
+of the engine feed fuel is too high and recirculation to the wings has failed
+to reduce the temperature to prevent vaporization. Advancing the
+throttles to a higher power setting (but not afterburner) to get higher fuel
+flow should help extinguish the FUEL HOT caution. If this caution
+remains on more than 5 minutes on the ground, abort the mission.
+
+D - 29 ACG-3
+
+
+Text from ACG-3_Fuel_System_page_36.jpeg:
+Transfer Malfunctions
+
+External Tanks
+
+If electrical power is lost, fuel still transfers since no electrical pumps are
+involved. However, if engine bleed air is shut off, the fuel remaining in
+the external tanks is trapped. The ram air fuel pressurization backup
+capability provides only about 2-5 psi pressurization. This is insufficient
+for external tank pressurization/fuel transfer, as the normal engine bleed
+air for fuel pressurization provides about 25 psi for external wing tank
+fuel transfer and 15 psi for external centerline tank fuel transfer.
+
+If other tanks begin to transfer before the externals show empty in their
+proper sequence, or if the wing externals indicate significant imbalance, a
+transfer problem is possible. No cautions appear and any fuel that does
+not transfer is trapped. Normally, landing with one full and one empty
+external wing tank presents no significant problems. If CG, flight control
+malfunctions, or other factors warrant, the tank(s) may be jettisoned.
+
+Internal Transfer Tanks and/or CFTs
+
+A “Warning, Transfer Pump” voice warning and a “XFER Pump”
+MPD/MPCD caution come on if an internal wing or CFT transfer pump
+fails. However, the fuel quantity gauge readings are the primary means
+of detecting transfer problems. By monitoring the tanks that are
+transferring, you have the best chance of catching a malfunction early. In
+each case refer to the appropriate section of the checklist for the
+procedures. There is no caution/warning for a tank 1 transfer pump
+failure. If the aircrew does not monitor the tank 1 fuel quantity, they will
+be unaware of a tank 1 transfer pump failure until a premature “FUEL
+LOW” alerts them that there is a fuel transfer problem.
+
+Emergency Transfer
+
+Each transfer tank has backup capability that varies among the types of
+tank.
+
+ACG-3 D - 30
+
+
+Text from ACG-3_Fuel_System_page_37.jpeg:
+Emergency Fuel Transfer/Dump (External Tanks), Gear Down
+
+While this is not a malfunction, doing it probably comes from being
+involved in an emergency situation. As previously stated, with the gear
+handle down, bleed air pressure is removed from the external tanks and
+external fuel cannot be transferred/dumped normally. If you must
+transfer/dump external tank fuel, pulling the emergency gear handle to
+keep the gear down then raising the normal landing gear handle
+pressurizes the external tanks, but the landing gear remains extended.
+
+CFTs
+
+If a CFT pump fails, the voice warning (““WARNING, TRANSFER PUMP”)
+and XFER PUMP MPD/MPCD caution indicate a pump malfunction.
+Cycling the CFT transfer switch to STOP TRANS confirms a CFT problem
+if the caution goes out. If the caution remains on, the failure involves an
+internal wing transfer pump. Reference the fuel gauge to determine the
+specific problem. As each CFT has two pumps, losing one decreases the
+transfer rate, while losing both traps any fuel remaining in the tank
+(Figure D-16).
+REFUELING
+
+CONTROL 7
+VALVE LEFT CONFORMAL FUEL TANK (CFT)
+
+CENTER
+COMPARTMENT
+
+FORWARD
+COMPARTMENT
+
+AFT
+COMPARTMENT
+
+FORWARD TRANSFER REFUELING
+COMPARTMENT INTERCONNECT CONTROL
+EJECTOR PUMP VALVE VALVE
+
+ACG-03-16
+
+Figure D - 16. Conformal Fuel Tank.
+
+NOTE
+
+On aircraft 90-233 and up, after TCTO 6J14-5-11-521, the ejector pump
+is moved to the aft compartment.
+
+D-31 ACG-3
+
+
+Text from ACG-3_Fuel_System_page_38.jpeg:
+Emergency Transfer—CFT
+
+This three-position switch (Figure D-17), labeled CONF TANK EMERG
+TRANS, is only functional in the absence of main generator power. It is
+normally positioned in the center (NORM) position. With both generators
+off and/or failed, the CFT transfer pumps are unpowered. Moving this
+switch to the L or R position powers the left or right CFT center transfer
+pump (emergency generator power). The L/R positions also turn off all
+aircraft pitot heaters to limit the drain on the emergency generator. The
+emergency CFT transfer procedure involves depleting the internal fuel to
+about 1000 pounds below full, then filling the internal tanks alternately
+from the left and right CFTs. If the gear is down the fuel may simply
+transfer between the two CFTs rather than to the internal tanks.
+
+WING CTR CONF TANK
+STOP TRANS
+
+STOP REFUEL
+
+DUMP
+= SLIPWAY
+(HA) ORIDE
+~~
+
+CONF TANK EXT TRANS
+EMERG TRANS § CONF TANK
+
+O03! 0
+WING/CTR CLOSE
+
+ACG-03-17
+
+Figure D - 17. Conformal Tank Emergency Transfer Switch.
+
+Internal Wing Tanks
+
+If an internal wing tank pump fails, the voice warning, “WARNING,
+TRANSFER PUMP,” and XFER PUMP MPD/MPCD caution indicate a
+pump malfunction. Cycling the CFT transfer switch to STOP TRANS
+confirms an internal wing tank transfer pump failure if the caution
+remains on. Reference the fuel gauge to further identify the problem.
+Substantially more fuel in one internal wing tank than the other, or more
+in either wing than tank 1 confirms an internal wing pump failure. In
+either case, fuel will eventually gravity transfer. However, a significant
+lateral imbalance (up to 3300 pounds) can occur before this happens.
+
+ACG-3 D - 32
+
+
+Text from ACG-3_Fuel_System_page_39.jpeg:
+Internal Transfer Tanks
+
+With internal transfer pump failure (tank 1 or internal wing), fuel gravity
+transfers from that tank at a reduced rate, and only after the other
+transfer tanks are empty. It flows through the gravity transfer lines
+depending upon the fuel level difference in the tanks (Figure D-18). You
+can help the gravity transfer of fuel from tank 1 (should the need arise) by
+maintaining a 3° to 7° nose-up pitch attitude, allowing the fuel to run
+downhill. Any loss of internal transfer pump(s) reduces the transfer rate;
+and, although it should be sufficient for normal cruise, it may be
+insufficient to keep up with high engine demand. With no transfer pumps
+operating (for example, double main generator failure), fuel will gravity
+transfer at a maximum rate of 3500 PPH per engine.
+
+NORMAL TRANSFER SYSTEM GRAVITY TRANSFER SYSTEM
+
+TRANSFER / FEED
+
+TRANSFER ae
+PUMP é
+
+TO
+
+BOOST LEFT WING
+PUMP TANK PUMP TANK
+
+TRANSFER
+PUMP ACG-03-18
+
+Figure D - 18. Gravity Transfer.
+
+D - 33 ACG-3
+
+
+Text from ACG-3_Fuel_System_page_4.jpeg:
+CRITERION REFERENCED OBJECTIVES (CROs)
+
+1. Identify the capacity of each fuel tank.
+2. Identify normal fuel system operation.
+3. Identify the operating limitations of major fuel system components.
+
+4. Given cockpit fuel indicator depictions, interpret fuel quantities that
+indicate normal readings or fuel transfer problems.
+
+5. Given caution indications, identify fuel system malfunctions.
+
+6. Identify fuel system abnormal/emergency operations and corrective
+
+actions.
+REFERENCES
+TO 1F-15E-1 Section I Aircraft Fuel System
+Section IT Normal Procedures
+Section III Fuel System Emergencies
+Section V Operating Limitations
+
+a. Alternate Fuel
+b. Systems Restrictions -
+External Fuel Transfer
+
+c. Negative G Flight
+
+d. Prohibited Maneuvers,
+General
+
+e. Center of Gravity
+Limitations
+
+ACG-3 B-1
+
+
+Text from ACG-3_Fuel_System_page_40.jpeg:
+Tank 1
+
+A transfer pump failure in tank 1 is probable if the difference between the
+higher tank 1 quantity and the internal wing tank quantities exceeds 750
+pounds (550 +200). Again, no cautions appear. However, the aircraft is
+now restricted to 30 units AOA. The fuel is still usable as it will
+eventually gravity transfer, but only after the internal wing tanks are
+empty.
+
+Lateral Tank Imbalances
+
+The maximum imbalance between the CFTs is expected to be no more
+than 500 lbs. If a sustained imbalance of 1000 lbs or more exists for more
+than 5 minutes, it is a discrepancy, requiring a 781 writeup.
+
+If a sustained imbalance between the left and right internal wing tanks of
+200 lbs or more exists for more than five minutes, it is a discrepancy. Ifa
+fuel asymmetry between left and right readings for the total of both
+internal wing tanks and CFTs is over 600 lbs, then the aircraft is
+restricted to 30 units AOA.
+
+ACG-3 D - 34
+
+
+Text from ACG-3_Fuel_System_page_41.jpeg:
+Boost Pump Malfunctions
+
+Single Boost Pump Failure
+
+Indications of this malfunction are a L BST PUMP or R BST PUMP and
+an EMER BST ON caution displayed on an MPD/MPCD in both cockpits.
+Also the EMER BST ON caution panel light illuminates (FCP only)
+(Figure D-19). The reason for these indications is that one of the main
+boost pumps (left or right) has failed or is putting out insufficient
+pressure. The EMER BST ON means that the emergency boost pump has
+come on and is being powered by the emergency generator. You still have
+two boost pumps providing pressurized fuel to the engines. Refer to the
+checklist for the procedure, but, in short, do not use afterburner and land
+as soon as practical.
+
+EME
+
+ACG-03-19
+
+OR L BST PMP
+
+Figure D - 19. Single Boost Pump Failure (Right Boost Pump).
+
+D- 35 ACG-3
+
+
+Text from ACG-3_Fuel_System_page_42.jpeg:
+Double Boost Pump Failure
+
+If the L BST PUMP and R BST PUMP cautions appear together, or if
+either appears with the BST SYS MAL caution (no EMER BST ON), you
+have a double boost pump failure (Figure D-20). In the first case the
+EMER BST ON will also be displayed, indicating the emergency boost
+pump is working. In the second instance, BST SYS MAL without the
+EMER BST ON indicates that the emergency boost pump has failed or is
+not providing sufficient pressure. Now only one pump (either a main
+boost pump or the emergency boost pump) is boosting fuel to the engines.
+However, this should be enough to keep the engines running at all
+nonafterburner power settings below 30,000 feet. Refer to the checklist
+for the procedure.
+
+EMER BST ON
+
+L BST PMP R_BST PMP EMER BST ON
+
+ACG-03-20
+
+Figure D - 20. Double Boost Failure (Left and Right).
+
+ACG-3 D - 36
+
+
+Text from ACG-3_Fuel_System_page_43.jpeg:
+Total Boost Pump Failure
+
+In this situation you should see the L BST PUMP, R BST PUMP and BST
+SYS MAL cautions displayed (Figure D-21). The engines are “sucking”
+fuel from the feed tanks and it is probable that one or both will flame out.
+Descend to minimum practical altitude using maximum practical power
+(nonafterburner) on at least one engine. Refer to the checklist for the
+procedures.
+
+BST SYS MAL
+
+M
+LBSTPMP __RBSTPMP_ BST SYS MAL
+Ta
+
+ACG-03-21
+
+Figure D - 21. Total Boost Pump Failure.
+
+D - 37 ACG-3
+
+
+Text from ACG-3_Fuel_System_page_44.jpeg:
+QUESTIONS
+
+1. Describe emergency/backup transfer operations for external tanks,
+CFTs and internal tanks.
+
+2. List the possible caution indications for double boost pump failure.
+
+3. List the actions that normally occur when the slipway switch is
+placed to OPEN.
+
+4. Fuel dumping will stop when:
+
+a.
+
+ACG-3 D - 38
+
+
+Text from ACG-3_Fuel_System_page_45.jpeg:
+ANSWERS
+
+External tanks loss of electrical power—no problem
+
+loss of bleed air—no transfer, fuel trapped
+
+CFT lose one transfer pump-transfer at a reduced
+rate
+lose both pumps-—fuel trapped
+Internal lose transfer pump-gravity transfer
+MPD/MPCD CAUTION LIGHT MASTER
+(FCP Only) CAUTION
+a. LBST PMP EMER BST ON ON
+R BST PMP
+EMER BST ON
+b. LBST PMP BST SYS MAL ON
+BST SYS MAL
+c. RBST PMP BST SYS MAL ON
+BST SYS MAL
+
+Turns off tank 1 and CFT transfer pumps, opens slipway door, and if
+the door opens, depressurizes the external tanks, and turns on the
+AAR exterior lights and the READY light.
+
+a.
+b.
+c.
+
+dump switch placed to NORM
+
+only feed tank fuel remains
+
+internal fuel indication pointer decreases to bingo bug position
+(which returns the dump switch to the NORM position).
+
+D- 39 ACG-3
+
+
+Text from ACG-3_Fuel_System_page_46.jpeg:
+(This Page Intentionally Blank)
+
+ACG-3 D - 40
+
+
+Text from ACG-3_Fuel_System_page_47.jpeg:
+END OF TEXT QUIZ
+
+Normal external drop tank and internal fuel tank pressurization is
+
+provided by ; CFTs are pressurized by
+
+a. ram air, engine bleed air
+
+b. ram air, JFS accumulator pressure
+
+c. engine bleed air, ram air
+
+d. engine bleed air, JFS accumulator pressure
+
+The FUEL LOW warning is normally activated at what total feed
+tank fuel quantity?
+
+a. 1200 +200
+b. 1600 +200
+c. 1800 +200
+d. 2000 +200
+
+When the internal fuel quantity pointer reaches the value to which
+the BINGO bug is set, which of the following will occur?
+
+a. BINGO FUEL appears on the MPD/MPCD along with the
+MASTER CAUTIONS and voice warning.
+. Fuel dumping (if in progress) continues.
+c. System overrides a STOP TRANS selection and external tanks
+transfer.
+d. Gravity transfer begins.
+
+With the F-15E filled with full (JP-8) internal fuel and full CFTs, the
+fuel quantity gages should read internal and total.
+
+17,400, 23,300
+13,550, 17,400
+17,400, 17,400
+13,550, 23,300
+
+pe op
+
+E-1 ACG-3
+
+
+Text from ACG-3_Fuel_System_page_48.jpeg:
+5. You observe the following cautions:
+
+L BST PMP and EMER BST ON on an MPD/MPCD, EMER BST ON
+on the FCP caution lights panel, MASTER CAUTION.
+
+This indicates:
+
+single boost pump failure.
+double boost pump failure.
+total boost pump failure.
+emergency generator failure.
+
+ae op
+
+6. After the external tanks go dry during normal fuel system operation,
+
+the transfer(s) next.
+
+a. CFTs
+
+b. right internal wing tank
+c. left internal wing tank
+d. tank1
+
+7. Fuel transfer malfunctions can best be detected by
+
+a. the fuel quantity gauge.
+b. the voice warning.
+c. caution indications.
+d. CG problems.
+8. All fuel except can be dumped overboard.
+a. feed tank fuel
+b. internal fuel
+c. external tank fuel
+d. 2000 lbs
+
+ACG-3 E-2
+
+
+Text from ACG-3_Fuel_System_page_49.jpeg:
+10.
+
+11.
+
+Conformal fuel tanks can transfer fuel to
+
+a. _ the feed tanks.
+
+b. tank 1.
+
+c. the internal wing tanks.
+All of the above.
+
+What could occur if the engines do not get boosted fuel?
+
+Engine flameout
+Uncommanded fuel leak
+Engine explosion
+Uncommanded fuel venting
+
+ao op
+
+Determine the correct situation from the fuel gauge readings (Figure
+F-1).
+
+The external tanks are full.
+
+The right feed tank has an invalid reading.
+
+The right internal wing has 1100 lbs more than the left.
+Tank 1 total fuel is 3100 lbs.
+
+po op
+
+FUEL QTY
+
+TOTAL LBS
+
+(0/0
+
+LBS
+0)
+
+TANK |
+INTL WING ‘\. WING
+FEED EXT CTR
++
+
+/ \ CONF
+BIT TANK
+
+ACG-3-22
+
+Figure F - 1.
+
+E-3 ACG-3
+
+
+Text from ACG-3_Fuel_System_page_5.jpeg:
+STUDENT PREPARATION REQUIREMENTS
+BEFORE CLASS
+
+1. Study the information in this workbook and complete the End of
+Text Quiz.
+
+2. Read the referenced material in TO 1F-15E-1.
+
+C-1 ACG-3
+
+
+Text from ACG-3_Fuel_System_page_50.jpeg:
+12. Determine the correct situation from the fuel gauge readings (Figure
+
+F-2).
+
+a. Each CFT has about 2300 lbs remaining.
+
+b. Some fuel remains in one or more external tank(s).
+c. The BINGO caution should be displayed.
+
+d. The readings indicate a gauge problem.
+
+FUEL QTY
+
+OTAL LBS
+
+0 LBS
+®
+
+TANK |
+INTL WING ‘\. WING
+FEED
+& +
+BIT CONF
+
+ACG-03-23
+
+Figure F - 2.
+
+ACG-3 E-4
+
+
+Text from ACG-3_Fuel_System_page_51.jpeg:
+AOA
+
+ARR
+
+BAL
+
+BST
+
+CFT
+
+CG
+
+ECS
+
+IDG
+
+GLOSSARY
+Air-to-air refueling
+Angle of attack
+Air refueling release (disconnect)
+Basic aircraft limit
+Boost (pump, system)
+Conformal fuel tank
+Center of gravity
+Environmental control system
+Integrated drive generator
+
+Transfer (tank, pump)
+
+ACG-3
+
+
+Text from ACG-3_Fuel_System_page_52.jpeg:
+(This Page Intentionally Blank)
+
+ACG-3 F-2
+
+
+Text from ACG-3_Fuel_System_page_6.jpeg:
+(This Page Intentionally Blank)
+
+ACG-3 C-2
+
+
+Text from ACG-3_Fuel_System_page_7.jpeg:
+TEXT
+
+CAPABILITIES & LIMITATIONS
+Capabilities
+
+The tanks and lines have been designed to be damage resistant, being
+either self-sealing and/or containing polyether-based foam for
+fire/explosion protection. This new type of foam does not break down over
+time and contaminate the fuel (as with previously used types of foam).
+
+Fuel lines are routed inside the tanks where possible, and when routed
+outside the tanks, are self-sealing. The fuselage fuel tanks are
+surrounded (sides and bottom) with explosion suppression polyether foam.
+
+With a maximum fuel load the F-15E has the advantages of extended
+range, increased combat mission flexibility and sustained afterburner
+operations. This fuel load would typically give the aircraft a combat
+radius of 450 nm in an air-to-ground profile carrying a mix of bombs and
+missiles. On a cross country with maximum fuel load, the aircraft is
+capable of 2000 plus mile legs (depending on in-flight winds and fuel
+reserve requirements).
+
+Limitations
+
+The engines can use fuel at a tremendous rate. At low altitude in full AB,
+total fuel flow can exceed 150,000 lbs per hour. Maximum transfer rate,
+at best, is only 117,000 lbs per hour. The potential to empty the engine
+feed tanks and flameout with fuel still onboard exists!
+
+When fuel system malfunctions occur, restrictions to the aircraft operating
+
+envelope apply. Specific restrictions are discussed in the malfunctions
+section of this workbook.
+
+D-1 ACG-3
+
+
+Text from ACG-3_Fuel_System_page_8.jpeg:
+CAPACITIES
+
+The F-15E can have quite a variety of fuel loads depending on what tanks
+are installed and what the mission requirements are. To be able to
+interpret the fuel gauge and determine if the fuel system is operating
+properly, you need to know the capacity of each type of tank.
+
+The following is a list of fuel tank quantities using 6.7 lb/gal of JP-8 as the
+standard (at 65° Fahrenheit).
+
+Tank 1 about 4050 lbs
+Right feed (Tank 2) about 1550 lbs
+Left feed (Tank 3) about 1250 lbs
+Internal wings about 3300 lbs each
+CFT about 4900 lbs each
+Externals about 4100 lbs each
+
+A little addition shows that with conformal fuel tanks (CFTs) and three
+external tanks loaded there is about 35,550 lbs of fuel available. That is
+about nine T-38s full. Here are some examples of fuel loads you might
+see:
+
+Full internal only about 13,550 lbs
+Full internal plus CFTs about 23,300 lbs
+Full internal, CFTs and
+
+external centerline tank about 27,350 lbs
+
+You have the capability to go a long way without refueling. The aircraft
+feels and handles differently throughout the course of the mission because
+of changing fuel quantities that affect aircraft gross weight and center of
+gravity (CG).
+
+ACG-3 D-2
+
+
+Text from ACG-3_Fuel_System_page_9.jpeg:
+DESCRIPTION AND COMPONENTS
+
+The F-15E can carry about as much fuel as it weighs. Fuel is located
+internally in feed tanks and transfer tanks. Additional fuel is carried in
+external wing/centerline tanks and conformal fuel tanks (CFTs) (Figure
+D-1). All tanks may be refueled on the ground or in the air. All fuel
+except that in the feed tanks may be dumped overboard. The primary fuel
+is JP-8, but some other fuel types may be used if required. Fuel flow and
+performance may vary slightly with other types of fuel.
+
+ACG-03-01
+
+Figure D- 1. F-15E Fuel System.
+
+D-3 ACG-3
+
+

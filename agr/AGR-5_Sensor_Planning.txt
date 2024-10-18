@@ -1,0 +1,792 @@
+Text from AGR-5_Sensor_Planning_page_1.jpeg:
+SUPPORTS COURSES
+FIS5EBQ
+
+FISETX
+
+FISESOC
+
+ACADEMIC STUDENT WORKBOOK
+F-15E
+
+AIR-TO-GROUND RADAR
+AGR-5
+SENSOR PLANNING
+APRIL 1999
+
+(OFP N/A)
+
+AIR COMBAT COMMAND
+
+
+Text from AGR-5_Sensor_Planning_page_10.jpeg:
+Select offsets close enough to course line for a minimum of 0.5° graze
+angle. Clutter environments, such as wooded hills, provide unique
+problems. A very simple problem commonly overlooked when planning
+radar offsets is the presence of 50-foot trees around the desired offset or
+aim point. This additional obstacle boosts the altitude required to map
+the intended point so an alternate point may be required. The following
+diagram demonstrates the linear relationship used to compute the
+altitude required for line of sight (LOS) to a point (Figure D-2).
+
+HOW HIGH DOES THE AIRCRAFT HAVE TO BE (Y') TO HAVE LOS TO THE TARGET?
+
+Y'IY = X'/X OR Y'/200 = 10/4 OR Y' = 200 x (10/4) = 500 FT
+
+AGR-05-02
+
+Figure D - 2. Line of Sight Calculation.
+
+AGR-5 D-4
+
+
+Text from AGR-5_Sensor_Planning_page_11.jpeg:
+Practical Problem
+
+Several methods are available for determining the proper squint angle
+and graze angle. Figure D-3 demonstrates the first technique for aim
+point planning.
+
+By marking the left and right 30° and 50° scribes on a plotter (Figure D-3)
+and sliding it along your course line (referencing the 90°/270° scribe), you
+can determine the point on the course line with acceptable squint angle.
+Move the plotter along the course line so the desired offset is positioned
+within the marks. Make a mark through the hole in the plotter on the
+course line. Measure the distance to the current steer point; this is the
+distance from the turn point to start mapping (17.5 nm in Figure D-8).
+During tactical maneuvers, you may be right or left of the planned course
+or on a slightly different heading. Therefore, plan your offset/aim point
+for flexibility.
+
+D-5 AGR-5
+
+
+Text from AGR-5_Sensor_Planning_page_12.jpeg:
+Ae
+
+Lh ea
+
+AGR-05-03
+
+3. Aim Point Planning.
+
+Figure D
+
+D-6
+
+AGR-5
+
+
+Text from AGR-5_Sensor_Planning_page_13.jpeg:
+Plan an additional 30 seconds lead time for a MN PVU. Annotate this
+point on your chart (Figure D-4).
+
+Figure D - 4. PVU Planning, Before EGI.
+
+D-7 AGR-5
+
+
+Text from AGR-5_Sensor_Planning_page_14.jpeg:
+To minimize A/G radar time, another option is “Interleaved” PVU (IPVU)
+time at PB #16 on the A/G radar. However, the IPVU option has several
+disadvantages. It occurs even if MAP FREEZE is selected, and disables
+the A/A radar without doing a “sanity” check (it will accept any value).
+Also, the IPVU option will not work effectively if velocity errors are
+unusually large (over 5 to 6 knots). Also, the aircrew has no way of
+checking this information. (IPVU is a MN PVU, but for consistency, we
+define PVU as a MN PVU not using the interleaved option.)
+
+AGR-5 D-8
+
+
+Text from AGR-5_Sensor_Planning_page_15.jpeg:
+An additional template is used for determining squint angle and distance
+to go to the next point (Figure D-5). The template is designed for a
+1:250,000 scale map (the upper right position is for a 1:50,000 map). Use
+of this template is shown in Figure D-6.
+
+AGR-05-05
+
+Figure D - 5. Squint Angle Planning Template.
+
+D-9 AGR-5
+
+
+Text from AGR-5_Sensor_Planning_page_16.jpeg:
+mL \CROALAN &
+
+AGR-05-06
+
+Figure D - 6. Squint Angle Planning Template and RDR Display Window
+Size for 1:250,000 and 1:50,000 Maps.
+
+AGR-5 D-10
+
+
+Text from AGR-5_Sensor_Planning_page_17.jpeg:
+Figure D-7 provides a guideline for the maximum distance to plan an
+offset/aim point for a planned graze angle during a low level ingress.
+Ensure line of sight between you and the aim point.
+
+DISTANCE FROM AIM POINT IN NAUTICAL MILES
+60 70 80 90 100 11.0 120 130 14.0 15.0
+
+100
+200
+300
+400
+500
+
+600
+
+ALTITUDE 70H
+ABOVE AREA
+TOBE MAPPED 800
+
+900
+1000
+1100
+1200
+1300
+1400
+1500
+
+=
+=
+uo
+=
+=
+
+O/N/OlalAl]w]olivs
+
+OloO!/N|@/a}/ AR] w]wliv
+
+Ol@a|N/a/al/alARlwlrm| iv
+
+©
+
+=
+o
+
+=
+=
+
+OlaM/@/N/@O/Ol/alaAlAlwW/wl/H) a] a
+
+=
+Nd
+
+=/S/ol/ol/olN|Ni/oloals/alaAlwlo]o
+SlOlOl/@MININ[@OlalalaAlwlw]r]a
+
+=
+wo
+=/|—
+
+—
+©
+
+AGR-05-07
+
+Figure D - 7. Graze Angle Table.
+
+D-11 AGR-5
+
+
+Text from AGR-5_Sensor_Planning_page_18.jpeg:
+Now that the offset is selected and the mapping point is determined, it is
+important to accurately predict how the offset will appear on the display.
+Patch maps are generated relative to the line of sight to the point and
+presented in the cockpit as if they were straight ahead. Interpreting the
+correct aim point is often confusing. Patch map predictions should be
+drawn depicting the proper orientation of the scene at the proposed squint
+angles. Planning materials need to include a map that depicts forest
+shapes and well-defined tree lines. European AFCENT 1:250,000 depict
+forestation well, but this is a serious planning limitation in the CONUS
+unless imagery is available for mission planning. If using AFMSS
+imagery for planning, make sure you apply the right scale. An imagery
+print out with .5x scale selected has the same scale as a 1:50,000 map (as
+seen in Figure D-8). So you can use the templates described in Figure D-6
+for radar footprint predictions. The NAV shops in your squadrons might
+also have some overlays that you can use for AFMSS printout predictions.
+
+Another consideration during A/G radar mission planning is selecting the
+appropriate size display window. If the mission navigator is updated
+regularly and system drift is small, a 1.3 display window may be
+acceptable. If the mission navigator has drifted significantly, a 3.3 display
+window is probably required. Always work big-to-small to a .67 map for
+best designation detail.
+
+AGR-5 D-12
+
+
+Text from AGR-5_Sensor_Planning_page_19.jpeg:
+AGR-05-08
+
+Figure D - 8. AFMSS 3 Magnification Printout Compared to 1:50,000
+
+D-18 AGR-5
+
+
+Text from AGR-5_Sensor_Planning_page_2.jpeg:
+ADMINISTRATIVE INFORMATION
+
+This student workbook is designed to provide information on the F-15E, its
+systems and capabilities. It is not a sole source document, but is to be used in
+conjunction with other standard Air Force publications and technical
+manuals. If you find any differences between the material contained herein
+and other governing regulations, adhere to the regulations and notify the
+OPDR.
+
+Changes to this workbook are indicated with a heavy black line in the left
+margin.
+
+Forward recommendations for revision or change to 4 TS, SJAFB, NC 27531.
+
+Supersedes: AGR-5, November, 1998
+
+OPDR: 4 TS
+
+Effective Date Pages Affected
+
+
+
+Text from AGR-5_Sensor_Planning_page_20.jpeg:
+The display window template in Figure D-6 is useful for making radar
+predictions. The template for the 1:250,000 scale is primarily for area
+orientation when selecting aim points. The easiest way to use the display
+window template for offset orientation is to place the template on the map
+so the line of sight reference on the template runs from the aircraft
+position during mapping (on the course line) to the feature being mapped,
+as in Figure D-9.
+
+AGR-05-09
+
+Figure D - 9. Display Window Template (1).
+
+AGR-5 D-14
+
+
+Text from AGR-5_Sensor_Planning_page_21.jpeg:
+The most useful display window template is 1:50,000 scale. Sufficient
+map detail is available to sketch an accurate prediction of desired aim
+point with the proper angular relation (Figure D-10). A photocopy with
+the display window over the offset, as in Figure D-10, provides accurate
+detail; however, a pencil sketch on a lineup card may suffice.
+
+AGR-05-10
+
+Figure D - 10. LOS to Start Map Point.
+
+D-15 AGR-5
+
+
+Text from AGR-5_Sensor_Planning_page_22.jpeg:
+Another radar planning aid is the aim point graphic (Figure D-11),
+available through Intelligence. The graphic itself contains WGS-84
+coordinates, a satellite photo, a 1:250,000 scale map of the point, a
+1:50,000 scale map on the reverse side and a short description of the
+actual aim point. The photograph dimensions are unknown so the
+templates discussed earlier are useless except on the 1:250,000/1:50,000
+maps.
+
+AIM POINT GRAPHIC UNCLASSIFIED | WSS GEODETICS
+37-19.832N
+
+116-47.035W
+ELEV FT (MSL)
+
+WAC-SH-PLOT
+363-19-07
+
+POINT DESCRIPTION DSC
+NE CORNER OF STRUCTURES
+
+(BDD)
+REF CHART/SCALE HOR ACC
+S/200 ATC FT 90% 0117
+
+1:200,000 VERACC
+FT 90% MSL
+
+PHOTO DATE APG PUB DATE
+_| JUL 88 20 JAN 89
+
+SOIHdVYDOAD LYVHO
+
+NOS-61-Ze
+
+O1d-HS-OWM
+
+UNCLASSIFIED
+
+SAC FORM 444 MAR 87
+
+AGR-05-11
+
+Figure D - 11. Aim Point Graphic.
+
+AGR-5 D-16
+
+
+Text from AGR-5_Sensor_Planning_page_23.jpeg:
+A/G Radar Pacing
+
+In addition to planning when and where to begin A/G radar duties, it is
+important to address radar time-sharing. The radar is used primarily in
+the A/A mode. If the A/A radar setup is RWSI, 80 mile range, 120°
+azimuth scan and six-bar elevation scan, allow 20 to 25 seconds to get
+adequate area coverage. At 40 miles the radar will be searching an area
+80 miles wide and 16,000 feet high. This time allows two complete frames
+and should detect potential threats. In 25 seconds you will travel about
+
+4 miles, so sanitize the area prior to A/G radar operations. Now examine
+the time required to complete the update process:
+
+| A Oe 20 sec
+2 & patch MAPS... eeeeeeeeeseessssessesstssssssesseteeees 10 sec
+FOS, Tipe, GST UG ec sce see see see see eee eee eee see 10 sec
+Switch actuation ...........cceececeeeeceeecceeccescceeeceueees 03 sec
+Total A/G time ..............ccceeeeeeeeeesssesssessesseseeeeeees 43 sec
+
+At 480 knots the aircraft has traveled roughly 6 nm during this period of
+updating the MN. If the previous 10 minutes of the low level was
+dedicated to A/A search, the odds are the entire tactical situation has not
+changed significantly in the last 43 seconds. This is not to say, however,
+that an update should be performed on every leg of the low level or that
+the WSO should spend 5 minutes watching the RBM display sweep back
+and forth. As a minimum, at least one update should be accomplished just
+prior to the IP.
+
+However, it is important to keep in mind that a bandit traveling at a
+comparable speed could have flown 6 nm for a total of 12 nm closure
+during this time. If your last search was on a 40 nm scope, the bandit
+could be at 28 miles, perhaps close to fox 1 range (for the bandit) before
+you have even resumed your radar search. That is why it is important to
+plan mapping opportunities to reduce A/G radar time to a minimum.
+Using IPVU also reduces A/G radar time by 10-15 seconds, with very little
+reduction in accuracy.
+
+If using EGI as PPKS, subtract 20 seconds or 3 miles from above times
+and distances, which enhances your own tactical situation.
+
+D-17 AGR-5
+
+
+Text from AGR-5_Sensor_Planning_page_24.jpeg:
+QUESTIONS
+
+1. What is the optimum range of squint angles for HRM patch mapping?
+
+a. 0-8°
+
+b. 10-30°
+c.  30-50°
+d. 60-90°
+
+2. With good planning what is the minimum grazing angle at which
+useful HRM patch maps can be obtained?
+
+a.  0.5°
+b. 2°
+c. 10°
+d. 30°
+
+3. Ifan INS PVU is performed early in a mission, a MN PVU/IPVU is
+not recommended prior to making an HRM patch, before
+incorporation of EGI.
+
+a. True
+b. False
+
+AGR-5 D-18
+
+
+Text from AGR-5_Sensor_Planning_page_25.jpeg:
+ANSWERS
+
+D-19 AGR-5
+
+
+Text from AGR-5_Sensor_Planning_page_26.jpeg:
+STICK MAPS
+
+Now that all mission planning is complete, it is time to gather all the bits
+and pieces and get organized. The basic stick map is an ideal method to
+organize the information into a useful form. Pilots and WSOs normally
+have different areas of interest when constructing stick maps. For
+example, pilots are probably more concerned with basic navigation,
+turnpoint descriptions, MSAs, ATC requirements, master mode selection
+and the attack itself. WSOs normally annotate radar update points, radar
+predictions, TGT IR update points and air-to-air search duties, as well as
+navigation data and the attack. There is nothing wrong with both crew
+members having identical stick maps, but we each have our own
+techniques for depicting the desired information. Figure D-12 shows an
+example of a stick map. The primary purpose of the stick map is to help
+develop a sense of pacing and to remind the crew to perform assigned
+tasks during the mission (radar updates, targeting pod updates, air-to-air
+search, PACS selection, master mode selection, master arm on, attack
+parameters, etc.). These tasks are relatively easy to remember when
+flying local sorties on familiar low levels to familiar ranges. However,
+confusion increases when flying from an unfamiliar base with peculiar
+ATC procedures, marginal weather, darkness, a first-look low level and
+tactical targets on an unfamiliar range. Throw in a couple of display
+problems and a few marginal systems and the workload increases beyond
+belief.
+
+AGR-5 D - 20
+
+
+Text from AGR-5_Sensor_Planning_page_27.jpeg:
+RD INTXN
+5 5.1
+
+MAST ARM
+C) 357
+SS 4A
+7A Lf
+SUBSTATION
+
+RAA 9500' MSL
+
+10.
+
+AGR-05-18
+
+D-21 AGR-5
+
+
+Text from AGR-5_Sensor_Planning_page_28.jpeg:
+Figure D-13 is an example of a route book that may be used ° fly with.
+
+A
+08:27:13 / \
+
+12,000 LBS / ance \
+j 139
+
+#2 SYSTEMS 00:24:56
+
+CHAN 12 MAIN
+
+IFF OFF ——___________»
+
+A
+/ \
+
+PUSH UP — 540 // 108’.
+
+15 AGL 403420
+
+03 AGL
+_ |
+
+AGR-05-19
+
+Figure D - 18. Low Level Route Plan.
+
+AGR-5 D - 22
+
+
+Text from AGR-5_Sensor_Planning_page_29.jpeg:
+A radar prediction example of what is expected for all SA, SAN and SAT
+rides is shown in Figure D-14.
+
+ROAD BEND
+6.1 BY DRY LAKE
+
+MAP
+27-23 DME
+[500' AGL] N LAT: [34—-56.993]
+[6500 MSL] W LON: [113-23.538]
+[3.5° GRAZE] ALT: [4750 MSL]
+8.1 BUILDING
+AIM POINT = i
+MAP 20-14 DME
+1
+3
+er"NS
+[1500' AGL] N LAT: [33-48.730]
+[3700 MSL] W LON: [113-33.518]
+[1° GRAZE] ALT: [1860 MSL]
+9.1 BUILDING X-SHAPED
+AIM POINT
+IN SP#8 START
+MAP 36-33
+FROM SP#9
+30° —50°R
+[500' AGL] N LAT: [33-37.677]
+[1700 MSL] W LON: [113-48.084]
+[1.1° GRAZE] ALT: [1220 MSL]
+
+AGR-05-20
+
+Figure D - 14. Sample Maps.
+
+D - 238 AGR-5
+
+
+Text from AGR-5_Sensor_Planning_page_3.jpeg:
+AIR-TO-GROUND RADAR
+
+COVER
+
+SENSOR PLANNING
+INTRODUCTION
+This workbook is designed to provide a starting reference for sensor
+
+planning. It addresses major planning considerations required for
+effective mission execution.
+
+CONTENTS:
+
+INTRODUCTION 0000. eeccceesceeceseeeessaeecesaeeeensaeesesnaeesesaeesenaaees A-1
+CRITERION REFERENCED OBJECTIVES (CROs)............. eee B-1
+STUDENT PREPARATION REQUIREMENTS ....00. eee C-1
+TEXT occ ecccccceesesteeeceessaeeeceesssseeeceessseeeccessaeeeceeesaseeseesaeeeseneeaes D-1
+END OF TEXT QUIZ oo. cessneeceeneeeessneesesaeesesneeseseeeenaees E-1
+GLOSSARY. cece cessneeesesceeessaeecesaceeessaeeessaseecssaeecesaeesesaeesesaeeens F-1
+
+A-1 AGR-5
+
+
+Text from AGR-5_Sensor_Planning_page_30.jpeg:
+CONCLUSION
+
+Using the techniques mentioned should help organize mission planning
+tasks and effectively employ both crew members. There are times when
+the situation dictates a deviation from the plan, but the most important
+points to remember are that both crew members know the plan and
+adhere to it as much as possible. Thorough and accurate mission planning
+is the key to effective crew coordination and successful employment of the
+F-15E.
+
+AGR-5 D - 24
+
+
+Text from AGR-5_Sensor_Planning_page_31.jpeg:
+(This Page Intentionally Blank)
+
+D-25 AGR-5
+
+
+Text from AGR-5_Sensor_Planning_page_32.jpeg:
+END OF TEXT QUIZ
+
+Experience indicates that maps taken between 30° and 50° provide
+the best accuracy and a safe margin from the radar gimbal limits.
+
+a. True
+b. False
+
+The primary purpose of the stick map is to
+
+a. provide the crew with a prediction of IR sensor affective ranges
+for the LANTIRN targeting pod.
+
+b. provide AMRAAM with a route of flight for autonomous force
+protection and employment.
+
+c. give the pilot something to do while the WSO programs the
+DTM.
+
+d. help develop a sense of pacing and to remind the crew to
+perform assigned tasks.
+
+E-1 AGR-5
+
+
+Text from AGR-5_Sensor_Planning_page_33.jpeg:
+(This Page Intentionally Blank)
+
+AGR-5 E-2
+
+
+Text from AGR-5_Sensor_Planning_page_34.jpeg:
+GLOSSARY
+
+AFMSS Air Force Mission Support System
+
+EGI
+
+FOV
+
+HRM
+
+INS
+
+IPVU
+
+LOS
+
+PVC
+
+PVU
+
+RBM
+
+Embedded global positioning/inertial navigation system
+Field of view
+
+High resolution map
+
+Inertial navigation system
+
+Interlaced precision velocity update
+
+Line of sight
+
+Position velocity consistency
+
+Precision velocity update
+
+Real beam map
+
+AGR-5
+
+
+Text from AGR-5_Sensor_Planning_page_35.jpeg:
+(This Page Intentionally Blank)
+
+AGR-5 F-2
+
+
+Text from AGR-5_Sensor_Planning_page_4.jpeg:
+CRITERION REFERENCED OBJECTIVES (CROs)
+
+1. Identify the optimum parameters for effective employment of the A/G
+radar.
+
+2. Identify appropriate squint and graze angle requirements by
+working a sample problem.
+
+3. Demonstrate how to use the A/G radar mission planning template.
+
+4. Demonstrate how to use a stick map for low level and sensor
+planning.
+
+NOTE
+
+These CROs will be evaluated on Surface Attack (SA) missions.
+
+REFERENCES:
+
+TO IF-15E-34-1-1 A/G Radar Employment
+
+AGR-5 B-1
+
+
+Text from AGR-5_Sensor_Planning_page_5.jpeg:
+STUDENT PREPARATION REQUIREMENTS
+BEFORE CLASS
+1. Study this workbook.
+
+2. Review the section on A/G radar employment in TO 1F-15E-34-1-1.
+
+C-1 AGR-5
+
+
+Text from AGR-5_Sensor_Planning_page_6.jpeg:
+(This Page Intentionally Blank)
+
+AGR-5 C-2
+
+
+Text from AGR-5_Sensor_Planning_page_7.jpeg:
+TEXT
+INTRODUCTION
+
+This lesson is designed to be a practical application of what you learned in
+AGR-2 (APG-70 A/G Introduction). It is important to have a thorough
+understanding of mission planning considerations to employ the F-15E
+sensors properly.
+
+HIGH RESOLUTION MAP (HRM) PLANNING
+
+The synthetic aperture process requires very constrained parameters.
+The accuracy of radar maps improves as the angle off the nose (squint
+angle) gets larger (to the 60° radar gimbal limit). Maps taken between
+30° and 50° provide reasonable accuracy and a gimble margin. The
+accuracy and quality of the patch map are also determined by velocity
+errors. MN precision velocity updates (PVU) are recommended prior to
+patch maps even if an INS PVU was performed.
+
+PVU Planning After TO 1F-15E-737 [Embedded Global Positioning
+Inertial Navigation System (EGI)]
+
+Best available velocity is based on the present position keeping source
+(PPKS). In EGI PPKS, the best available velocity is the position velocity
+consistency (PVC) filter velocity. This velocity is used by the radar for the
+construction of high resolution maps. The requirement for a MN PVU
+before constructing a patch map is not necessary if using EGI as the
+PPKS.
+
+D-1 AGR-5
+
+
+Text from AGR-5_Sensor_Planning_page_8.jpeg:
+The importance of having accurate velocities for HRM mapping is
+illustrated in Figure D-1. On a 0.67 nm map made at 10 nm range, 540
+kts and 20° squint, a 0.5 ft/sec velocity error results in a 100-foot
+positional error. When the velocity error is increased to 1.0 ft/sec, the
+positional error increases to 200 feet. You should also note in Figure D-1
+that velocity errors are lessened considerably as the squint angles near
+the aircraft limit of 60° off the nose. Additionally, you can see why the
+aircraft prohibits mapping within 8° of the nose, where even small velocity
+errors translate into very large positional errors. Velocity errors of 0.3
+knots induce unacceptable position errors and result in display array
+shading, which may obscure the desired aim point.
+
+ASSUMPTIONS: 540 KTS, 10 NM RANGE, 0.67 NM MAP
+00
+
+SSSBEIC:
+
+0.5 FT/SEC VEL ERROR
+
+FANEECEEEEE
+PER] NT ET YT
+Pt Pe
+Pf | | | etl | Pr
+COC EE
+
+0 10 20 30 40 50 60
+SQUINT ANGLE (DEGREE)
+
+ERROR (FEET)
+
+AGR-05-01
+
+Figure D - 1. HRM Designation Error.
+
+AGR-5 D-2
+
+
+Text from AGR-5_Sensor_Planning_page_9.jpeg:
+Map quality is further reduced by low graze angles. At a 500 feet AGL
+ingress altitude, the offset/target must be within 2.5 nm, which is actually
+too close to map. Experience shows that good quality maps can be made
+with graze angles slightly less than 0.5°, which allows mapping out to
+
+10 nm from as low as 500 feet AGL. As the graze angle decreases,
+selection of aim points and offsets becomes increasingly important. At
+minimum graze angles, it is important to select aim points that are
+vertically developed (such as buildings, small peaks, etc.), distinctively
+shaped, and preferably associated with radar no-show areas such as
+roads, rivers and runways.
+
+These radar constraints dictate a limited window for tactical employment.
+The 1:60 rule could prove to be very costly if you fly at 1500 feet AGL,
+
+15 nm from the target area in a “here I am” maneuver after spending the
+past 40 minutes at 200 feet trying to remain undetected. As a general
+guideline for planning, aim points and offset points should be within
+
+10 nm of course, 30° to 50° off the nose, not obscured by intervening
+terrain, and have particular physical characteristics as described earlier.
+RBM offset points, such as small peaks, can be on the nose and are
+relatively accurate.
+
+D-3 AGR-5
+
+

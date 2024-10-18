@@ -1,0 +1,1554 @@
+Text from OPS-1_Task_Management-Crew_Coordination_page_1.jpeg:
+SUPPORTS COURSES
+FIS5EBQ
+FISETX
+
+ACADEMIC STUDENT WORKBOOK
+F-15E
+
+OPERATIONS
+OPS-1
+TASK MANAGEMENT/CREW
+COORDINATION
+
+NOVEMBER 1998
+
+(OFP N/A)
+
+AIR COMBAT COMMAND
+
+
+Text from OPS-1_Task_Management-Crew_Coordination_page_10.jpeg:
+Formation
+
+The pilot maintains aircraft position/control and visual lookout (route and
+tactical formations).
+
+The WSO maintains visual lookout, operates/monitors radar, changes
+UFC data, operates the navigation systems, and monitors the formation
+position. (At low altitude—300 ft and below—the WSO is primary for
+formation.)
+
+Instruments
+
+The pilot confirms that an EADI and other appropriate instruments are
+displayed prior to entering IFR conditions or beginning instrument flight.
+Then, the pilot flies the appropriate route, fix-to-fix, holding pattern, or
+approach.
+
+The WSO monitors and advises on critical positions/attitudes and/or
+altitudes. The WSO monitors the present position, heading, altitude, and
+can “bug” GCA assigned headings using CMD HDG on the HSI and set
+the desired course. The WSO also changes radio frequencies, navigation
+aids, and HSI steer modes unless briefed otherwise.
+
+Air-to-Air Employment
+
+The WSO is normally the primary air-to-air radar operator until the sort.
+The crew may want to change this based on crew experience, proficiency,
+and the anticipated specifics of the mission (especially with Suite 3). The
+assigned primary radar operator takes command of the radar, conducts
+search and sort, and locks on to the target. Normally, whoever has control
+of the radar also talks on the radio.
+
+If the pilot is not the primary radar operator, he flies the aircraft as
+required or directed. If the pilot is running the radar, he advises the WSO
+of their actions.
+
+Both the pilot and WSO should ensure the EID criteria are met using
+AAI/EID/NCTR as applicable. The WSO ensures the weapons
+employment checklist is completed and monitors weapons status on the
+PACS.
+
+OPS-1 D-4
+
+
+Text from OPS-1_Task_Management-Crew_Coordination_page_11.jpeg:
+As a general rule, no later than 10 nm (or at a briefed/predetermined
+time), the pilot takes command of the radar (to ensure auto acquisition
+capabilities at the merge), flies to the weapons employment position, and
+employs the weapons. With the transfer of the radar to the pilot, the
+WSO takes over the visual lookout responsibilities. The pilot owns the
+radios at radar handoff and should inform the wingman/lead of any
+changes due to target maneuvering.
+
+Air-to-Surface Employment
+
+Low Level
+
+The pilot flies the low level using all available means to maintain
+situational awareness on the route of flight and terrain clearance (i.e.,
+visual references, HUD, TSD, TEWS, TFR, and/or NAV FLIR
+presentations). When directed by the WSO, the pilot flies a mapping leg
+to attain the desired squint angle for A/G radar employment.
+
+The WSO generally performs all of the head-in-the-cockpit functions. The
+WSO operates the radar, monitors TEWS and the TF scope, and backs up
+HUD steering with TSD/HSI. The WSO also monitors INS/MN accuracy
+with A/G radar, performs updates as required, and is responsible for route
+timing. The WSO will direct a mapping leg if required.
+
+FLIR Operations
+
+With the LANTIRN NAV pod, the pilot turns on the NAV FLIR and
+advises the WSO when he is using snap look or look-into-turn. The pilot
+also confirms manual/auto TFR, advises the WSO of any changes to
+clearance planes/TF modes, and confirms that the aircraft is within TFR
+limits after a dive or climb when auto is reengaged.
+
+The WSO monitors the HUD display and TFR scope (E-scope), and
+changes the LAWS when requested by the pilot or dictated by mission
+requirements.
+
+With the LANTIRN targeting IR pod, the WSO turns on, boresights, and
+operates the targeting IR pod in all normal circumstances. The WSO cues
+it with the A/A radar, A/G radar, or TSD, updates, lases as appropriate,
+and deselects the laser. The pilot confirms that the laser has been
+deselected by referencing the HUD and confirming verbally.
+
+OPS-1
+
+
+Text from OPS-1_Task_Management-Crew_Coordination_page_12.jpeg:
+IP to Target
+
+The pilot should remain in the A/A master mode until the target area is
+clear of all air threats, and then go to A/G master mode. For timing, the
+pilot can reference the command velocity wiper in the HUD or the ETA on
+the DATA 2 page for timing to the IP or target.
+
+Once in the A/G master mode, the pilot follows attack steering while
+monitoring the target area and TEWS for possible A/G or A/A threats.
+
+The pilot is responsible for turning on the master arm IAW the tactical
+situation or local area range restrictions. The pilot executes the planned
+delivery and egresses the area (or enters range pattern). The WSO selects
+PACS, and confirms the program selected and that weapons are ready.
+The WSO prepares for target acquisition using TSD, A/G radar, and
+targeting IR.
+
+The WSO designates the target using the best means available (TGT
+POD, HRM, RBM, NAV, etc.). The WSO confirms that A/G master mode
+is selected, good steering is available, and master arm is on and RDY
+lights are present; and then monitors the delivery parameters.
+
+Threat Reactions
+
+The crew must clearly distribute threat reaction tasks to effectively
+employ the F-15E in a high threat environment. Many aircrews divide
+this objective into an offensive and defensive partnership, giving the pilot
+primary responsibility for the offensive portion, since the pilot “owns” the
+visual arena. The pilot is alternately responsible for defense.
+
+In this case, the WSO’s primary responsibility is defense, since so much of
+his time is spent “checking six.” The WSO also provides backup for
+offense.
+
+The use and coordination of the countermeasures (CMD) chaff/flares must
+
+also be coordinated to ensure they are being employed when needed and
+that both aircrew members are not dispensing them at the same time.
+
+OPS-1 D-6
+
+
+Text from OPS-1_Task_Management-Crew_Coordination_page_13.jpeg:
+Crew Coordination During Emergency Procedures
+
+Good crew coordination during any aircraft emergency is imperative. It
+can be the difference between the successful recovery of a crippled aircraft
+or a Class A mishap with two fatalities. As always, good crew
+coordination starts with a thorough crew brief. Crew coordination briefing
+guides are available in the flying squadron flight briefing guides, but may
+need to be tailored to accommodate aircrew experience and personal
+techniques. The three basic steps to any emergency procedure still apply:
+
+1. Maintain aircraft control
+2. Analyze the situation and take the proper action
+3. Land as soon as practicable
+
+At a minimum, you need to cover your plans of action for:
+
+AMAD/engine fire during start
+Engine fire on takeoff
+
+Blown tire on takeoff
+
+Aborted takeoff
+Ejection/command selector valve
+Brake failure
+
+Ground egress
+
+Bird strikes/structural damage
+Barrier engagement
+
+It is the responsibility of BOTH aircrew members to ensure the safe
+operation and successful recovery of their aircraft. The following
+information outlines general aircrew considerations.
+
+Pilot
+
+The pilot-in-command must always maintain aircraft control during any
+abnormal situation. There are currently no “boldface” procedures
+associated with the F-15E because there are very few emergencies that
+require immediate action. The pilot and the WSO must quickly “analyze
+the situation and then take the appropriate actions. The WSO refers to
+the checklist and backs the pilot up in assessing the problem. Once the
+problem has been correctly assessed, the appropriate checklist actions
+should be accomplished with the WSO backing up actions taken by the
+pilot (i.e., effective crew coordination). In time critical emergencies, such
+as a high speed abort, the pilot is responsible for accomplishing the first
+few steps of the emergency procedure. The pilot must also keep the WSO
+advised of the steps already taken to control the situation and then the
+WSO will follow up with the appropriate checklist.
+
+D-7 OPS-1
+
+
+Text from OPS-1_Task_Management-Crew_Coordination_page_14.jpeg:
+WSO
+
+The task of the WSO during an abnormal situation is to refer to the
+checklist to ensure the appropriate steps are being taken. The WSO reads
+all appropriate checklists (both emergency and normal checklists) when
+time and conditions permit. In short, the WSO feeds the pilot the
+information needed to safely recover the aircraft. In some instances, the
+WSO may accomplish some of the checklist items like lowering the hook or
+pulling the emergency brake/steer handle after coordinating with the
+pilot. In many cases, the WSO is also the one who informs others of the
+situation.
+
+Responsibilities of Both
+
+It is the responsibility of both the pilot and WSO to maintain situational
+awareness (SA). In addition to aircraft status, crew members must know
+the distance to and status of their primary landing base. They must know
+when, where, and how to jettison ordnance/stores from their aircraft. And
+most importantly, they must know when to “jettison” the aircraft. Though
+the pilot-in-command is ultimately responsible for this decision, as a crew
+they must discuss and agree to the decision to eject, unless there is not
+enough time for crew coordination.
+
+OPS-1 D-8
+
+
+Text from OPS-1_Task_Management-Crew_Coordination_page_15.jpeg:
+QUESTIONS
+
+It is the duty of either crew member to advise and acknowledge the
+other when changing NAV aids or INS steering.
+
+a. True
+b. False
+
+Since the INS control switch is in the FCP, the pilot has
+responsibility for all INS operations.
+
+a. True
+b. False
+
+The pilot’s primary responsibility is
+
+operating the A/A radar.
+programming the MC/DTM.
+maintaining aircraft control.
+verifying UFC information.
+
+ae oe
+
+OPS-1
+
+
+Text from OPS-1_Task_Management-Crew_Coordination_page_16.jpeg:
+ANSWERS
+
+l. a
+2 b
+3. Cc
+
+OPS-1 D-10
+
+
+Text from OPS-1_Task_Management-Crew_Coordination_page_17.jpeg:
+DISPLAY PROGRAMMING AND SETUP
+
+The final setup in each cockpit still depends on crew preference. A great
+deal of coordination is necessary to effectively program and set up F-15E
+displays. Here are possible display alignments for each cockpit.
+
+Pilot
+LMPD MPCD RMPD
+A/A RDR TSD TEWS/HSI
+A/G RDR ARMT TGT IR
+TF RDR HSI BIT/ADI
+
+(An ADI is not programmed because it always comes up on the FCP
+MPCD with first activation of the FCP castle switch.) LMPD/RMPD could
+be considered mission critical displays.
+
+WSO
+LMPCD LMPD RMPD RMPCD
+TF RDR HUD A/ARDR TEWS
+TSD TGT IR A/GRDR_ HSI
+ARMT BIT TGT IR ADI
+
+The WSO should have engine instruments displayed for takeoff selected
+via menu. LMPD/RMPD could be considered mission critical displays.
+
+Master Modes
+
+Since desired presentations can be programmed to automatically come up
+when A/A, A/G, or NAV master mode is selected (INST master mode is a
+preset standard and cannot be programmed), the following is a possible
+master mode alignment that may be used subject to unit/crew preference.
+
+Pilot
+M/M LMPD MPCD RMPD
+A/G A/GRDR ARMT
+NAV A/ARDR  TSD
+
+D-11 OPS-1
+
+
+Text from OPS-1_Task_Management-Crew_Coordination_page_18.jpeg:
+WSO
+
+You may prefer not to program a master mode, since the pilot controls
+master mode changes which could cause RCP displays to change without
+warning. If you do program, here are suggested alignments:
+
+M/M LMPCD LMPD RMPD RMPCD
+
+A/A ARMT A/A RDR
+
+A/G ARMT A/GRDR WIND MODEL
+NAV HSI A/A RDR
+
+Most WSOs do not use M/M programming. However, there is one
+
+exception: the PACS is sometimes tied to the A/A and A/G master modes.
+
+INST Master Mode
+Pilot
+LMPD MPCD RMPD
+A/A RDR ADI HSI
+WSO
+LMPCD LMPD RMPD RMPCD
+HSI As selected As selected ADI
+
+OPS-1 D-12
+
+
+Text from OPS-1_Task_Management-Crew_Coordination_page_19.jpeg:
+QUESTIONS
+
+It is recommended that both the pilot and the WSO program an ADI
+and a HSI.
+
+a. True
+
+b. False
+
+It is recommended that the pilot and the WSO program their displays
+for each programmable master mode.
+
+a. True
+
+b. False
+
+It is recommended that the WSO program a HUD on one of the
+MPDs.
+
+a. True
+b. False
+
+OPS-1
+
+
+Text from OPS-1_Task_Management-Crew_Coordination_page_2.jpeg:
+ADMINISTRATIVE INFORMATION
+
+This student workbook is designed to provide information on the F-15E,
+its systems, and capabilities. It is not a sole source document, but is to be
+used in conjunction with other standard Air Force publications and
+technical manuals. If you find any differences between the material
+contained herein and other governing regulations, adhere to the
+regulations and notify the OPDR.
+
+Changes to this workbook are indicated with a heavy black line in the left
+margin.
+
+Forward recommendations for revision or change to 4 TS, SJAFB, NC,
+275381.
+
+Supersedes: OPS-1, July 1998
+
+OPDR: 4TS
+
+Index of Changes
+
+Effective Date Pages Affected
+
+
+
+Text from OPS-1_Task_Management-Crew_Coordination_page_20.jpeg:
+ANSWERS
+
+l. b
+2. b
+3. a
+
+OPS-1 D-14
+
+
+Text from OPS-1_Task_Management-Crew_Coordination_page_21.jpeg:
+SITUATIONAL AWARENESS (SA)
+
+If one has all of these qualities and can perform all of these tasks, that
+individual has SA.
+
+e Building a 3D picture in your mind of the entire situation.
+
+e Assimilation of information from multiple sources (visual, auditory,
+kinesthetic, balance).
+
+e Knowing spatial position and geometric relationships of yourself and
+the things in the environment around you.
+
+e = Periodically updating the current situation (this is normally done
+through communication).
+
+e Prioritizing information and actions (what to attend to at the
+cognitive level and what to do at the subconscious level).
+
+e Making quality and timely decisions.
+
+e Projecting the current situation into the future (anticipating,
+predicting, and basing actions on upcoming events).
+
+SA usually falls into the four categories listed below:
+
+Both crew members have total SA - best.
+
+One crew member has good SA - good.
+
+Neither has SA - bad.
+
+Neither has SA but one thinks he does - worse.
+
+The key to keeping SA on the positive side of the scale is effective crew
+coordination. Effective crew coordination starts with intercockpit
+communication which must be clear, concise, and necessary. Unnecessary
+chitchat in the cockpit is a distraction to the task at hand, and is a key
+contribution to the loss of SA.
+
+What Is A Loss Of SA?
+
+A loss of SA occurs when cockpit distractions and/or responsibilities cause
+a breakdown in the prioritization of information, resulting in a temporary
+failure to properly assess available information and initiate required
+aircrew actions. This can lead to disaster.
+
+A breakdown of SA normally occurs in at least one of four areas:
+distraction, inattention, channelized attention, or complacency.
+Awareness describes one’s ability to acquire and maintain situational
+awareness. It demands attention and implies a grasp of the overall
+situation, an ability to stay on top of things, or an ability to control the
+situation. In the air-to-air arena of fighter aviation, this may mean
+keeping track of different groups of bandits at different locations in front
+
+D-15
+
+OPS-1
+
+
+Text from OPS-1_Task_Management-Crew_Coordination_page_22.jpeg:
+of and behind you. One must listen to auditory inputs from intercockpit,
+interflight from the wingman, AWACS, and different warning tones from
+the radars of the bandits locking onto your aircraft, or warning messages
+from the voice warning system in the aircraft. Fighter pilots must be able
+to compartmentalize to a certain degree, to prioritize tasks, to use
+judgment and to decide which perceptual input to deal with right now,
+whether visual, auditory, balance, or kinesthetic. Humans can do but one
+thing at a time consciously, but can shift very rapidly between inputs or
+use habitual behavior to the point where they can accomplish several
+tasks apparently at once. Pilots must always remain oriented with the
+environment around them, so if the perception of imbalance or vertigo
+occurs, the cross-checking of the instruments becomes the main priority.
+Inattention to the instruments at this point or channelized attention on
+some other task during this critical phase of flight has killed many an
+aviator. The records of the National Transportation Safety Board show
+that each year roughly 80 percent of aircraft accidents are caused by pilot
+error.
+
+How Do I Recognize It?
+
+Staying focused on the task at hand, staying ahead of the aircraft, and
+being mentally prepared to fly is the only way to maintain situational
+awareness in a changing environment. Occasionally a distracter such as
+an aircraft malfunction occurs and your attention and awareness is not
+focused on the task at hand. A visual distraction could be a light bulb
+burned out, an auditory distraction could be from somebody else in the
+aircraft or on the radio, a kinesthetic distraction may be a nose gear
+shimmy. All of these alone are no big deal, but they could cause you to
+channelize your attention on that distraction. Webster defines
+complacency as smug self-satisfaction. To allow ourselves to become smug
+and overconfident in our abilities is to invite disaster. Performing
+repetitious tasks successfully can lead to complacency. This may give one
+the false sense that the job is simplistic or consists of menial tasks without
+inherent dangers. Aircrew kill themselves quite often because they forget
+the task at hand while thinking about something else. That may or may
+not be due to complacency but is certainly due to the failure to consciously
+monitor the present task cognitively. When one is flying an aircraft at
+500 feet and 500 knots, how can they not stay focused or be thinking of
+something else? One must pay attention to the appropriate task, at the
+correct time, and at the needed level of consciousness to maintain total
+situational awareness.
+
+OPS-1 D-16
+
+
+Text from OPS-1_Task_Management-Crew_Coordination_page_23.jpeg:
+Symptoms
+
+Aircrew need to know their own limitations and how much they can
+depend on the attentive capabilities of others. Personalities differ in each
+person regarding directions, strength, and scope of attention. It is
+important for the individual and those involved in their selection,
+training, and employment to measure and recognize these differences.
+The most important is a person’s attentiveness to tasks. Some people can
+attend to more information than others. Normally, information from only
+one sense at a time reaches the level of consciousness, with the other
+inputs being censored at the midbrain level. Again, humans can do but
+one thing at a time consciously but can shift very rapidly between inputs
+or use habitual behavior to the point that they can accomplish several
+tasks apparently at once. This is why we say the way to get more SA is to
+practice the event often. Repetition of any stimulus reduces the threshold
+for attending and thus allows a response to the repeated signal quicker at
+the subconscious level.
+
+Some pilots could not describe what they do with the throttles and stick
+during most maneuvers. Once one learns a task or a job, much of it is
+performed by habit that is not necessarily subject to conscious control or
+memory. A familiar process is initiated consciously but continued and
+completed by habit, using a different portion of the brain. This frees up
+the conscious or cognitive portion of the brain so that one’s attention can
+be directed to another task as the previous task is completed by habitual
+behavior. Habitual behavior depends upon identical repetition of
+circumstances and fails when the situation is not identical. Even if the
+ground is level and regular, aircrew can fly into it simply because they did
+not know they were losing altitude during a turn. Entering a turn at low
+altitude requires that pilots attend exclusively to ground clearance tasks
+so they can judge whether they are converging with the ground along the
+intended flight path.
+
+Attention is our ability to do more than one task at the same time. We
+regard the human as a limited-capacity channel who can only transmit a
+small amount of information per second. Whenever this small amount is
+exceeded, people make errors. An aircrew member who must process
+information that exceeds their individual channel capacity will make
+mistakes. There are not many possibilities for increasing the channel
+capacity of aircrew, although extensive training may sometimes give the
+impression that this happened.
+
+OPS-1
+
+
+Text from OPS-1_Task_Management-Crew_Coordination_page_24.jpeg:
+The most important portion of situational awareness is to attend to things
+at a conscious level and then rapidly shift to a subconscious level, so that
+another task may be accomplished at the conscious level. One can only
+pay attention to one task or process at a time while they are using
+habitual attention on the other tasks. Most pilots can hold the aircraft
+attitude, altitude, and airspeed constant with rapid shifting while they
+actively listen or talk on the radios. If there is a demand for attention to
+the aircraft attitude, then the attention for the radio communication will
+be broken. When rapid shifting is required, one is susceptible to fatigue
+which normally leads to channelized attention, task misprioritization, or
+inattention to the required tasks at hand causing a loss of SA.
+
+How To Get More SA
+
+SA skills can be increased easily. By increasing knowledge of tactics and
+weapons capabilities, one can stay on top of the tactical situation easier.
+The SA skills can be developed and improved by increased flight time in a
+realistic multibogey, high threat environment. This is definitely due to
+building habit patterns and behaviors so that more tasks can be
+accomplished at the subconscious level. When actual training cannot be
+done, simulation is the next best thing and networked simulation, as a
+supplement to flight time, enables practice scenarios that, for practical
+reasons, cannot be done in the air short of war.
+
+If we cannot increase a person’s SA skills, perhaps we can teach the key
+indicators to lost or poor SA. The following are the key indicators.
+
+e Reduced frequency and degraded quality of communication
+(inside/outside of the aircraft).
+
+e Reduced maneuvering of aircraft or difficulty in aircraft control.
+
+Begins to react defensively rather than offensively.
+
+Channelized attention—becomes fixated on some activity (slow
+
+cross-check).
+
+No reaction to wingman or GCI communication.
+
+Poor premerge kill ratio.
+
+Failure to maintain awareness of mission objectives.
+
+Violations.
+
+Omitting checklist items.
+
+OPS-1 D-18
+
+
+Text from OPS-1_Task_Management-Crew_Coordination_page_25.jpeg:
+Solutions
+
+Some solutions for situational awareness are nothing more than common
+sense items. Perhaps above all, if you get into a corner, recognize it,
+admit it, and handle it.
+
+Be prepared to fly.
+
+Plan the mission thoroughly.
+Brief thoroughly.
+
+Outline clear delineation of duties.
+If you have a problem, admit it.
+
+e Handle the problem.
+
+Treat it as an emergency.
+Climb to cope if at low level.
+Set new priorities.
+
+Tell someone.
+
+Pass control of the aircraft, or engage autopilot, if appropriate.
+RTB/abort.
+
+The bottom line is work on more inattention; yes, pay less attention.
+Sounds strange doesn’t it? To increase your SA, one must try to increase
+their habitual behaviors and to accomplish more tasks at the subconscious
+level. Train like you are going to fight and when the time comes, you will
+react instinctively, out of habit.
+
+OPS-1
+
+
+Text from OPS-1_Task_Management-Crew_Coordination_page_26.jpeg:
+EJECTION SYSTEMS AND THE DECISION TO EJECT
+Seat Capabilities
+
+The F-15E is equipped with the ACES II ejection seat. This seat has true
+zero-zero capabilities for virtually all boarding weights. The seat system
+allows for selection of various single and dual sequenced ejections, based
+on the position of the command selector valve and which seat initiated the
+ejection. The ejection seats are equipped with a primary and secondary
+ejection system along with a canopy breaker system (Figure D-1). These
+systems are isolated and independent of each other. Both the primary
+and secondary ejection systems are initiated when the ejection control
+handles in either cockpit are raised. When the ejection control handles
+are raised there is a built-in time delay that will allow the primary system
+to operate without having the secondary system interfere with its
+operation. If the primary system does not operate within .4 seconds, the
+secondary system will fire, jettisoning the canopy and firing the seat
+catapults. If both systems fail to jettison the canopy the secondary system
+will fire the seat catapults, resulting in through-the-canopy ejection. The
+secondary system will fire the seats regardless of canopy position.
+
+The seat restraint system holds the crew member in the seat during the
+ejection sequence. Prior to man-seat separation the restraint release
+system fires, releasing the lap belts, inertial reel straps, and the seat pan
+release. The survival kit seat straps should be positioned so they are snug
+but not so tight as to restrict movement.
+
+CAUTION
+
+If the survival kit seat straps are left
+loose there is the possibility that
+during man-seat separation injury or
+entanglement may occur.
+
+OPS-1 D - 20
+
+
+Text from OPS-1_Task_Management-Crew_Coordination_page_27.jpeg:
+CANOPY BREAKER
+
+PARACHUTE RISER-
+SHOULDER HARNESS
+RELEASE FITTINGS
+
+STRIKER PLATE
+
+EMERGENCY
+
+OXYGEN HOSE KIT RETAINING
+
+STRAP FITTINGS
+
+SHOULDER HARNESS
+LOCK/UNLOCK HANDLE
+
+BATTERY WINDOW
+
+EJECTION CONTROLS
+SAFETY LEVER
+
+LAP BELT FITTINGS
+EJECTION
+CONTROL HANDLE
+LAP BELT RETAINING PIN
+EMERGENCY MANUAL CHUTE
+RADIO BEACON
+SELECTOR SWITCH
+
+EJECTION CONTROL HANDLE
+
+OPS-01-01
+
+Figure D - 1. Seat Diagram 1.
+
+OPS-1
+
+
+Text from OPS-1_Task_Management-Crew_Coordination_page_28.jpeg:
+The emergency manual chute handle located on the right side of the
+ejection seat is locked in position while the seat is still in the aircraft and
+cannot be used for emergency ground egress (Figure D-2). Once the seat
+has left the aircraft, pulling this handle deploys the recovery chute and
+releases the harness restraints.
+
+We ®
+=. ai RECOVERY
+AS)
+
+PARACHUTE
+a
+
+PITOT SENSING wets Z| QUICK DISCONNECT
+COUPLING
+EMERGENCY OXYGEN
+BOTTLE
+
+INSTALLED SEAT SEAT PAD _ L EMERGENCY OXYGEN
+SAFETY PINS ; INDICATOR
+
+EJECTION
+CONTROL EMERGENCY OXYGEN
+HANDLE $+ S555 GREEN RING
+SURVIVAL KIT LAP BELT RETAINING PIN
+AUTO/MANUAL iS
+DEPLOYMENT — SHOULDER HARNESS
+SELECTOR I IX LOCK/UNLOCK HANDLE
+MAA EJECTION CONTROLS
+SAFETY LEVER
+TREO DEPLOYMENT
+FWD AUTOMATIC RADIO BEACON SANDLE CONTROL
+AFT MANUAL
+pans PPA EJECTION CONTROL
+INITIATOR
+OPS-01-02
+
+Figure D - 2. Seat Diagram 2.
+
+OPS-1 D - 22
+
+
+Text from OPS-1_Task_Management-Crew_Coordination_page_29.jpeg:
+Ejection Modes
+
+The ejection seat modes are both airspeed and altitude dependent. During
+an ejection, the seat operates in one of three modes also described in
+TO 1F-15E-1.
+
+Mode 1
+
+Mode 1 is the slow speed mode (Figure D-3). With the aircraft below
+15,000 ft MSL and 250 knots or less (Figure D-5, page D-26) there is a 0.2
+second delay between the ejection and the time the main parachute
+drogue is deployed. At 0.45 seconds, man-seat separation and parachute
+inflation begins. At 1.8 seconds there will be full inflation of the RCP
+parachute. The front seat will have full parachute inflation 0.4 seconds
+after the RCP due to the delay in a dual sequenced ejection.
+
+@ FULL INFLATION
+T = 1.80
+
+© MAN-SEAT RELEASE
+
+22
+ACTUATED A. Pe
+
+T=0.45
+
+© PARACHUTE FIRED
+T =0.20
+
+CATAPULT INITIATION
+T=0.0 SEC
+
+OPS-01-03
+
+Figure D - 3. Mode 1 Operation.
+
+OPS-1
+
+
+Text from OPS-1_Task_Management-Crew_Coordination_page_3.jpeg:
+OPERATIONS
+
+1 O
+
+o\p rere tere
+
+==
+
+COVER
+
+TASK MANAGEMENT/CREW COORDINATION
+
+INTRODUCTION
+
+This workbook is your guide to studying F-15E crew responsibilities and
+duties. It also includes a review of situational awareness, and suggestions
+for avoiding/handling it.
+
+CONTENTS:
+
+INTRODUCTION 0.00... eeecceeeeseecesneecesneeecesaeesessaeeseseeeseeaeeseeeeeens A-1
+CRITERION REFERENCED OBJECTIVE (CRO)...........eeeeeeeeeees B-1
+STUDENT PREPARATION REQUIREMENTS ...00.. ee eeeeeees C-1
+TEXT oo eecscecceeesseeeccessseeeceesssseeesessssaeeeceessaeeecceesaeeeseessaeeesenegaas D-1
+END OF PET QUIZ: cers ans canis saws seen ous sans axis cone uate sass aus ais ease aes canis aes ance ae E-1
+GLOSSARY 00 eeeceeeeneecesseeecnsaeecessaeecesaeeeessaeesesaeesesaeesessaeesesaaeeensas F-1
+
+OPS-1
+
+
+Text from OPS-1_Task_Management-Crew_Coordination_page_30.jpeg:
+Mode 2
+
+Mode 2 is entered when you eject in the region bounded in Figure D-5,
+page D-26 by airspeed and altitude. It can be considered your high
+airspeed, low altitude ejection mode. In this mode, the seat will fire and
+deploy the seat mounted drogue (Figure D-4). The seat mounted drogue is
+used to stabilize and slow the seat down, decreasing the possibility of
+flailing injuries. This mode will be maintained until the seat decelerates
+into the Mode 1 region, at which time the seat drogue chute is released
+and the main parachute is deployed. There is a slight increase in the time
+it takes to get a fully inflated parachute over a Mode 1 ejection.
+
+NOTE
+
+When comparing the times contained in Figure D-4, the back seat would
+
+add approximately 0.3 seconds for canopy separation and the front seat
+should add an additional 0.4 seconds for a dual sequenced ejection.
+
+OPS-1 D - 24
+
+
+Text from OPS-1_Task_Management-Crew_Coordination_page_31.jpeg:
+fe] FULL INFLATION
+T = 2.90
+
+© DROGUE SEVERED
+T= 1.32
+© PARACHUTE FIRED
+
+T=1.17 ISB
+
+DROGUE INFLATED
+T=0.41
+
+DROGUE FIRED
+
+T=0.17 fe Re _
+
+CATAPULT INITIATION
+T=0.0 SEC
+
+OPS-01-04
+
+Figure D - 4. Mode 2 Operation.
+
+OPS-1
+
+
+Text from OPS-1_Task_Management-Crew_Coordination_page_32.jpeg:
+Mode 3
+
+Mode 3 is the high altitude mode of the ACES II ejection seat
+
+(Figure D-5). During a high altitude ejection the possibility exists that
+you may fall face down in the seat depending on altitude when the seat
+drogue chute deploys until entering the Mode 1 region of operation. When
+you enter Mode 1 your seat functions, deploying the parachute and
+initiating man-seat separation.
+
+16
+
+=
+Le)
+
+PRESSURE ALTITUDE (1000 FT)
+©
+
+% 100 200 300 400 500 600
+AIRSPEED (KNOTS)
+NOTE
+
+e TIMES INDICATED ARE AFTER CATAPULT FIRING. TO DETERMINE TOTAL TIME, A TIME FACTOR FOR
+THE PERIOD BETWEEN EJECTION HANDLE INITIATION AND CATAPULT FIRING MUST BE ADDED TO THE
+FIGURES SHOWN. THIS TIME INTERVAL REPRESENTS ESSENTIALLY THE TIME IT TAKES TO REMOVE
+THE CANOPY AFTER THE EJECTION HANDLE IS PULLED, AND IS APPROXIMATELY 0.3 SECONDS AT
+ZERO AIRSPEED AND BECOMES SLIGHTLY LESS AS AIRSPEED INCREASES. THERE IS AN ADDITIONAL
+DELAY OF 0.4 SECONDS BETWEEN REAR AND FRONT SEAT FIRING FOR DUAL EJECTIONS.
+
+e IN MODE 3, WHICH IS DESIGNED FOR HIGH ALTITUDE CONDITIONS, THE DROGUE IS DEPLOYED AS IN
+MODE 2, BUT MAN-SEAT SEPARATION AND DEPLOYMENT OF THE PARACHUTE ARE DELAYED UNTIL
+
+THE PROPER ALTITUDE IS ENCOUNTERED.
+OPS-01-05
+
+Figure D - 5. Operating Envelopes 1, 2, and 3.
+
+OPS-1 D - 26
+
+
+Text from OPS-1_Task_Management-Crew_Coordination_page_33.jpeg:
+NOTE
+This may be the one time you try to beat the seat. If you pull the
+
+emergency manual chute handle it releases the seat drogue chute and
+initiates main parachute deployment and man-seat separation.
+
+WARNING
+
+Pulling the emergency manual chute in
+the upper airspeed regions of a Mode 2
+or Mode 8 ejection may result in
+flailing injuries.
+
+Making the Decision
+
+The ejection decision has to be made in a timely manner to avoid an
+out-of-the-envelope ejection. There have been several ejections in the
+Strike Eagle. Most have been successful with the crew initiating the
+ejection within the envelope. However, there is a least one case where a
+very experienced crew failed to initiate an ejection within the envelope
+from an aircraft that was in a spin, resulting in two fatalities.
+
+The rules still apply; use 2000 ft AGL for controlled and 6000 ft AGL for
+uncontrolled ejection. Once the decision has been made to eject, both crew
+members should initiate the ejection sequence by pulling their own control
+handles.
+
+OPS-1
+
+
+Text from OPS-1_Task_Management-Crew_Coordination_page_34.jpeg:
+Examples, Charts, and Graphs
+There are several areas that each aircrew should examine. One area is
+the traffic pattern and approaches and the others are air-to-ground range
+
+events.
+
+Precision/Nonprecision final: wings level/160 TAS/1000 ft sink rate
+
+single seat ejection altitude, 2 seconds reaction 40' AGL
+dual sequenced ejection, no reaction time 20' AGL
+dual sequenced ejection, 2 seconds reaction 50' AGL
+
+10 LAHD: 10° dive/wings level/500 TAS
+
+dual sequenced ejection, no reaction time 500' AGL
+dual sequenced ejection, 2 seconds reaction 950' AGL
+
+20 LALD: 20° dive/wings level/500 TAS
+
+dual sequenced ejection, no reaction time 650' AGL
+dual sequenced ejection, 2 seconds reaction 1350' AGL
+
+30 HADB: 30° dive/wings level/500 TAS
+
+dual sequenced ejection, no reaction time 950' AGL
+dual sequenced ejection, 2 seconds reaction 1800' AGL
+NOTE
+
+Figures D-6 and D-7 do not consider secondary mode for altitude required
+
+for safe ejection, only primary shown. Additional altitude will be required
+if the primary system fails.
+
+OPS-1 D - 28
+
+
+Text from OPS-1_Task_Management-Crew_Coordination_page_35.jpeg:
+200
+
+100
+
+REQUIRED HEIGHT ABOVE TERRAIN - FEET
+
+SINGLE AND DUAL EJECTION
+
+WARNING
+
+THIS FIGURE DOES NOT PROVIDE ANY SAFETY FACTOR
+FOR EQUIPMENT MALFUNCTION. THE MINIMUM EJECTION
+ALTITUDES SHALL NOT BE USED AS A BASIS FOR DELAYING
+EJECTION WHEN MORE THAN 2000 FEET AGL.
+
+| NOTE
+
+BELOW 5000 MSL
+
+SPEED 160 KTAS 0° PITCH,
+WINGS LEVEL, TERRAIN
+
+SUCCESSFUL EJECTIONS
+BELOW EACH LINE ARE
+
+2
+
+3
+
+4
+
+5
+
+AIRCRAFT SINK RATE - 1000 FEET/MINUTE
+
+NOTE
+DOES NOT CONSIDER SECONDARY MODE FOR ALTITUDE REQUIRED FOR
+SAFE EJECTION, ONLY PRIMARY SHOWN. ADDITIONAL ALTITUDE WILL BE
+REQUIRED IF PRIMARY SYSTEM FAILS.
+
+OPS-01-06
+
+Figure D - 6. Minimum Ejection Altitude Versus Sink Rate.
+
+OPS-1
+
+
+Text from OPS-1_Task_Management-Crew_Coordination_page_36.jpeg:
+SINGLE EJECTION DUAL EJECTION
+MINIMUM EJECTION MINIMUM EJECTION
+FLIGHT CONDITIONS ALT (FEET) ALT (FEET)
+
+ZERO SPEED, ZERO ALTITUDE (CANOPY MUST
+BE CLOSED AND LOCKED OR COMPLETELY
+SEPARATED)
+
+600 KNOTS, 0° PITCH, 0° BANK
+
+150 KNOTS, 0° PITCH, 0° BANK
+10,000 FPM SINK RATE 240 360
+
+FOR THIS CASE, IMPACT OCCURS AT THE INSTANT OF SEAT/AIRCRAFT SEPARATION. IN ALL
+OTHER CASES, CONDITIONS ARE AT SYSTEM INITIATION.
+
+ee FOR THESE CASES, RECOVERY PERFORMANCE IS BASED ON THE MOST CRITICAL (FRONT
+SEAT) ROLL/SEAT TRAJECTORY COMBINATION.
+
+Table D - 1. Minimum Ejection Altitude for Selected Flight Conditions.
+
+OPS-1 D - 30
+
+
+Text from OPS-1_Task_Management-Crew_Coordination_page_37.jpeg:
+REQUIRED HEIGHT ABOVE TERRAIN - FEET
+
+THE SOLID CURVES INDICATE MINIMUM
+TERRAIN CLEARANCE WITH NO PILOT
+REACTION TIME. THE DASHED CURVES
+INDICATE MINIMUM TERRAIN CLEARANCE
+WITH 2 SECONDS PILOT REACTION TIME.
+DATA BASED ON AIRCRAFT WINGS LEVEL
+FOR SEA LEVEL TERRAIN.
+
+THE FIGURE DOES NOT PROVIDE ANY SAFETY FACTOR FOR EQUIPMENT MALFUNCTION.
+THE ABOVE MINIMUM EJECTION ALTITUDES SHALL NOT BE USED AS THE BASIS FOR
+DELAYING EJECTION WHEN MORE THAN 2000 FEET AGL.
+
+NOTE
+
+DOES NOT CONSIDER SECONDARY MODE FOR ALTITUDE REQUIRED FOR
+SAFE EJECTION, ONLY PRIMARY SHOWN. ADDITIONAL ALTITUDE WILL BE
+
+REQUIRED IF PRIMARY SYSTEM FAILS.
+OPS-01-07
+
+Figure D - 7. Dual Ejection.
+
+D-31 OPS-1
+
+
+Text from OPS-1_Task_Management-Crew_Coordination_page_38.jpeg:
+(This Page Intentionally Blank)
+
+OPS-1 D - 32
+
+
+Text from OPS-1_Task_Management-Crew_Coordination_page_39.jpeg:
+END OF TEXT QUIZ
+
+The pilot advises the WSO that he is taking command of the HUD whenever he
+intends to
+
+a. fire the laser.
+
+b. take command for radar lock-on.
+c. take command for any reason.
+d. select the A/G master mode.
+Only the pilot can
+
+a. program the VTRS.
+
+b. install the MC/DTM.
+
+c. perform auto BIT check.
+
+d. change UFC data.
+
+Which crew member is primarily responsible for initiation of “critical action
+procedures?”
+
+a. Pilot
+b. WSO
+c. Both
+
+E-1 OPS-1
+
+
+Text from OPS-1_Task_Management-Crew_Coordination_page_4.jpeg:
+CRITERION REFERENCED OBJECTIVE (CRO)
+
+1. Identify the duties of each crew member during normal and
+emergency operations.
+
+REFERENCES
+
+TO 1F-15E-1 Section II FCP Interior Check
+RCP Interior Check
+Before Taxiing (FCP)
+Before Taxiing (RCP)
+INS Procedures
+
+Section III Introduction
+
+Section IV Crew Duties
+
+OPS-1 B-1
+
+
+Text from OPS-1_Task_Management-Crew_Coordination_page_40.jpeg:
+(This Page Intentionally Blank)
+
+OPS-1 E-2
+
+
+Text from OPS-1_Task_Management-Crew_Coordination_page_41.jpeg:
+A/A
+
+A/G
+
+ADI
+AGL
+AMAD
+ARMT
+ATIS
+BIT
+CC
+CMD
+DTM
+EADI
+EID
+ETA
+FCP
+FLIR
+GCA
+GCI
+HADB
+HDG
+
+HRM
+
+GLOSSARY
+Air-to-air
+Air-to-ground
+Air-to-air interrogator
+Attitude director indicator
+Above ground level
+Airframe mounted accessory drive
+Armament
+Air traffic information service
+Built-in test
+Central computer
+Countermeasures dispenser; command
+Data transfer module
+Electronic attitude director indicator
+Enhanced identification
+Estimated time of arrival
+Front cockpit
+Forward looking infrared
+Ground control approach
+Ground controlled intercept
+High altitude dive bomb
+Heading
+
+High resolution map
+F-1
+
+OPS-1
+
+
+Text from OPS-1_Task_Management-Crew_Coordination_page_42.jpeg:
+HSI
+HUD
+IFF
+IFR
+INS
+INST
+IP
+
+IR
+
+L
+LAHD
+LALD
+
+LANT
+
+LANTIRN
+LAWS
+
+MC
+
+M/M
+
+MCR
+
+MN
+MPCD
+MPD
+MRM
+
+MSL
+
+OPS-1
+
+Horizontal situation indicator
+Head-up display
+Identification friend or foe
+Instrument flight conditions
+Inertial navigation system
+Instrument
+
+Identification point
+
+Infrared
+
+Left
+
+Low altitude high drag
+
+Low altitude low drag
+
+LANTIRN; low altitude navigation and targeting infrared for
+night
+
+Low altitude navigation and targeting infrared for night
+Low altitude warning system
+
+Mission cartridge
+
+Master mode
+
+Multiple Command Regulation
+
+Mission navigator
+
+Multipurpose color display
+
+Multipurpose display
+
+Medium range missile
+
+Mean sea level
+
+
+Text from OPS-1_Task_Management-Crew_Coordination_page_43.jpeg:
+NAV
+
+NCTR
+
+PACS
+
+PP
+
+RALT
+
+RBM
+
+RCP
+
+RDR
+
+RTB
+
+SA
+
+SCP
+
+SIF
+
+SRM
+
+TEWS
+
+TF
+
+TFR
+
+TGT
+
+TSD
+
+UFC
+
+VTRS
+
+WSO
+
+Navigation
+
+Noncooperative target recognition
+Programmable armament control set
+Present position
+
+Right
+
+Radar altimeter
+
+Real beam map
+
+Rear cockpit
+
+Radar
+
+Return to base
+
+Situational awareness
+
+Sensor control panel
+
+Selective identification feature
+Short range missile
+
+Tactical electronic warfare system
+Terrain following
+
+Terrain following radar
+
+Target
+
+Tactical situation display
+
+Upfront control
+
+Video tape recorder system
+
+Weapon System officer
+
+F-3 OPS-1
+
+
+Text from OPS-1_Task_Management-Crew_Coordination_page_44.jpeg:
+BACK PAGE
+COVER SHEET
+
+
+Text from OPS-1_Task_Management-Crew_Coordination_page_5.jpeg:
+STUDENT PREPARATION REQUIREMENTS
+BEFORE CLASS
+
+1. Study the information in this workbook and complete the End of Text
+Quiz.
+
+2. Read references in Sections II, III, and IV of TO 1F-15E-1.
+
+C-1 OPS-1
+
+
+Text from OPS-1_Task_Management-Crew_Coordination_page_6.jpeg:
+(This Page Intentionally Blank)
+
+OPS-1 C-2
+
+
+Text from OPS-1_Task_Management-Crew_Coordination_page_7.jpeg:
+TEXT
+GENERAL RESPONSIBILITIES
+
+The F-15E crew coordination requirements are unique and require a mind
+set different from any other two-place fighter to fully realize the F-15E’s
+state-of-the-art capabilities. Due to its unique cockpit avionics, either
+cockpit offers the capability to control most of the aircraft avionics or
+sensors thus creating the possibility for confusion in the cockpit during
+mission performance. It is therefore imperative to inform the other crew
+member when action in one cockpit affects the other cockpit; for example,
+when taking command of a display or changing a HSI steer mode. A more
+critical example is when the WSO changes the SCP on the TFR without
+informing the pilot. This affects the safe operation of the aircraft, not just
+the use of a display.
+
+In broad terms, the pilot is responsible for aircrew briefings, aircraft
+preflight, aircraft control, weapons deliveries, assigning specific mission
+duties, aircraft recovery, aircraft postflight, and aircrew debriefings.
+
+The WSO is responsible for applicable specific mission briefings, weapons
+preflight, the input and check of mission data on the UFC, specific duties
+as assigned during the aircrew briefing, monitoring aircraft status and
+mission progression, target designations, aircraft systems management,
+and changing radios and navigation aids, unless briefed otherwise.
+Further guidance can be found in MCR 55-115 and local directives.
+
+CREW COORDINATION
+
+Certain systems lend themselves logically to a primary user by virtue of
+their function and/or location. Others are not so clear cut and in many
+cases full operation can be accomplished from either cockpit. This
+discussion identifies the more critical areas and suggests controller/
+operator and backup duties.
+
+These duties are not restrictive and should be modified as experience is
+gained in the F-15E. Also bear in mind that suggested duties are subject
+to modification depending on crew member experience level in certain
+missions, unit standardization, and the environment.
+
+OPS-1
+
+
+Text from OPS-1_Task_Management-Crew_Coordination_page_8.jpeg:
+Pilot Duties
+
+The pilot’s primary duty as aircraft commander is to maintain aircraft
+control, make critical decisions, and take the appropriate actions to ensure
+mission success and aircraft safety. The pilot is responsible for effectively
+flying the aircraft to the correct position as required by the particular
+mission or tasking. Another pilot responsibility that may be different
+from other crew aircraft is navigation to and from the target/mission area.
+
+WSO Duties
+
+The WSO’s primary duty is weapon systems management and operation,
+and to act as a “safety observer” to ensure mission success and aircraft
+safety. The WSO backs up all basic responsibilities for navigation and is
+in charge of operating the INS and inserting/changing data on the UFC to
+include the radios, sequence points, navigation aids, and IFF/SIF codes.
+
+Duties of Both
+Checklist
+
+The pilot and WSO are responsible for checklist completion for the aircraft
+during all phases of ground operations or flight. The “challenge and
+response” technique is an excellent way to ensure all required checklist
+items are completed during normal or emergency operations. The WSO
+should initiate the appropriate checklist, confirm the action with the pilot,
+and then ensure the action is completed correctly.
+
+Advisement
+
+Communication of actions or intended actions between cockpits is an
+absolute necessity for effective employment of the F-15E. Many tasks
+in both cockpits are very time critical and taking command of a display or
+changing a master mode at the wrong time can greater affect the outcome
+of a mission and cause confusion in both cockpits. Excellent examples of
+this are when the pilot takes command of the radar just as the WSO is
+trying to designate the target or changes of set clearance planes during
+TFR operations without advising the WSO. In either case, the actions
+may cause distractions and detract from what the aircrew is trying to
+accomplish. Effective communication will solve this problem if both
+aircrew advise each other of any deviation from briefed duties and
+acknowledge any actions or deviations.
+
+OPS-1 D-2
+
+
+Text from OPS-1_Task_Management-Crew_Coordination_page_9.jpeg:
+Monitoring Other Crew Member
+
+The requirement to monitor the other crew member to assure completion
+of mission tasks, properly manage fuel, and visual lookout/threat reactions
+as briefed remain the same as in other two-place fighters.
+
+Duties in Specific Situations
+
+Ground Operations
+
+Pilot
+
+Install MC/DTM
+
+Turn on required equipment
+
+Accomplish the flight control check/BIT
+
+Program FCP displays and master modes
+
+Program air-to-air radar and MRM/SRM search parameters
+Perform BIT checks (i.e., radar, auto, LANT/RALT)
+
+Check ATIS
+
+Enable VTRS
+
+Set Bingo Fuel
+
+Set departure information on HSI
+
+WSO
+
+Read MC/DTM load and verify/change on UFC
+Verify/program UFC submenus
+
+LAW
+
+IFF
+
+AAI/EID
+
+Radios/HAVE QUICK
+
+ETAs
+
+CC clock time
+
+PACS
+
+Monitor INS alignment, enter PP if required
+Monitor EGI alignment, select as PPKS if desired
+Program RCP displays and master modes
+Confirm/program A/G and A/A radar
+
+Perform and monitor BIT checks
+
+Check TSD/route points/swing check
+
+Program VTRS
+
+Program wind model
+
+D-3 OPS-1
+
+

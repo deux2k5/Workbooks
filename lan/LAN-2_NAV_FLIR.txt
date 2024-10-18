@@ -1,0 +1,1380 @@
+Text from LAN-2_NAV_FLIR_page_1.jpeg:
+SUPPORTS COURSES
+FIS5EBQ
+
+FISETX
+
+FISESOC
+
+ACADEMIC STUDENT WORKBOOK
+F-15E
+
+LANTIRN
+LAN-2
+NAV FLIR
+
+APRIL 2000
+
+(SUITE 3 OFP)
+
+AIR COMBAT COMMAND
+
+
+Text from LAN-2_NAV_FLIR_page_10.jpeg:
+Target Acquisition Weather Software
+Dare County Range
+
+recy 1“) Je] [| [7] [=| [=| [>|
+
+SOLAR EL / AZ 4937.2] 136 9 44.2| 153.4 47.7 196.2 f 41.2| 215.6 ff 32.9
+LUNAR EL / AZ 157.6 f 35.7 | 174.1 ff 35.2| 191.2 31.4 221.2 16.2| 232.9 6.3
+LUNAR ILL % rj EE 6 BBE
+
+10| 12000ff 1000|12000§ 1000] 12000f{ 1000] 12000f 1000] 12000f{ 1000| 12000
+
+SENSOR HEIGHT (ft) 1000|12000]1
+
+rs fafa | waa fel
+
+NFOV (NM) 19. 19.6 9} 12.2| 19.5 9} 13.8| 17.9 [19.5] 17.8 ff 24.4| 17.9 ff 26.1
+4 46 46 46
+
+3 [4
+fekmirenamisewiy | _ ee Coed
+
+| |
+GBU-15 (TV)
+NFOV (NM) F 6.5 | 19.9 21.7 : 7.7 | 24.2 8 | 29.3 § 83
+LOCK-ON (NM) : E 22] 8 8.8 : ; 2.2 | 10.9 § 2.2 | 13.8 § 22
+4 km transmissivity 512| .749
+
+| |
+
+| | re ee ee ee
+4 78 | 72| 78 | e2| 78 [108| 78 [145] 78
+WFOV (NM) 5.3 | 4.6 ; . 8.1 : 8. i :
+
+LOCK-ON (NM) 5.7 | 5.6 1
+WFOV DELTA-T (DEG C) 3.1 | 11.5
+4 km transmissivity
+
+16
+00
+
+Dla
+
+Y1ATS
+@Olol] >
+
+>
+an
+
+Aa
+ey
+
+2
+esi fs; [=| _|
+FOS Ee
+
+LASER TARGETING POD
+
+NFOV (NM) 19.7| 19.7 9.19.9] 20
+WFOV (NM) " 14.2| 4.6 9.7] 49
+LASER RANGE (NM) 5 4 3.6 ‘ 3.6 | 7.4
+4 km transmissivity
+
+||
+
+7.4
+aura) | CT | CT
+67 | 208] 7 | ae} 11| 29 J11| 4
+2
+
+LOCK-ON (NM) 2 15.6 § 2.2 | 13.7 ill 1.1] 2.9 1.1] 3.9 1.1) 41
+4 km transmissivity
+
+GBU-15 (IR)
+NFOV (NM) 8 9149| 78 J 11 | 93 [38] 98 f24] 98 f21| 98
+LOCK-ON (NM) 13.3| 3.7 Jiz6| 7 Jo4| 82 P38] a4 f -1 | 34 F -1 | 34
+
+WFOV (NM)
+
+4 km transmissivity
+NFOV= NARROW FIELD OF VIEW WFOV= WIDE FIELD OF VIEW
+-1=LOCK ON RANGE WILL BE AT DISTANCE <= SENSOR HEIGHT
+BACKGROUND USED ARE FOR DARE COUNTY = SWAMPY WITH VEGETATION AND WATER
+
+POSITIVE DELTA-T INDICATES THE TARGET IS HOTTER THAN THE BACKGROUND
+***FOR TARGET SPECIFIC RANGES OR OFF-RANGE TARGETS, CALL X-4089/4087
+
+=
+=
+nN
+
+ad a|N|o
+a
+
+4.5
+2.4
+fs
+i:
+Ey
+i
+2
+
+Table D - 1. Electro-Optics Planning Flimsy—Day Flying.
+
+LAN-2 D-4
+
+
+Text from LAN-2_NAV_FLIR_page_11.jpeg:
+The minimum resolvable temperature (MRT) AT(k) (Figure D-2) is a
+graphic representation of the AT for a given target against one or more
+backgrounds throughout the day. Average values from this graph are
+used to fill-in the Target Detection Data blocks on the EO planning flimsy.
+Example: Determine the largest AT for a ZIL truck (TGT 1) on a wet road
+(Soil 2) between 1900Z - 2300Z. ANS: +12° AT.
+
+Notice also that the temperature difference (AT) of the truck and the
+background soil equals 0° at 1900Z and 0100Z for Soil (1), and from 01380Z
+- 0230Z for Soil (2). These are times when the NAV FLIR detection ranges
+would be severely limited.
+
+MINIMUM RESOLVABLE TEMPERATURE AT (KELVIN)
+
+MRT AT (K) SOIL(1) (DRY)
+30.0 WFOV SOIL(2) - - - - (WET)
+
+1500 1800 2100 0000 0300 0600 0900
+
+TIME (2)
+TARGET IS AN UNEXERCISED TRUCK LAN-02-02
+
+Figure D - 2. ATs for Unexercised Truck.
+
+
+Text from LAN-2_NAV_FLIR_page_12.jpeg:
+QUESTIONS
+
+1. TDA formats and the type of information contained on them is
+standardized for all bases.
+
+a. True
+b. False
+
+2. AAT of or more is considered high thermal contrast.
+
+aon f
+Nowe OL
+
+LAN-2 D-6
+
+
+Text from LAN-2_NAV_FLIR_page_13.jpeg:
+ANSWERS
+
+LAN-2
+
+
+Text from LAN-2_NAV_FLIR_page_14.jpeg:
+NAV FLIR CONTROLS AND FUNCTIONS
+
+The LANTIRN system is made up of two pods: the AN/AAQ-13 navigation
+pod and the AN/AAQ-14 targeting pod. The navigation pod, located below
+the right intake, contains the NAV FLIR (upper section) and the terrain
+following (TF) radar (lower section, Figure D-3). The targeting pod,
+located below the left intake, contains the targeting IR and laser
+designator. The remainder of this lesson is about the upper section of the
+AN/AAQ-13 navigation pod (NAV FLIR).
+
+AN/AAQ-13
+NAVIGATION POD
+
+LAN-02-03
+
+Figure D - 3. LANTIRN Pods.
+
+LAN-2 D-8
+
+
+Text from LAN-2_NAV_FLIR_page_15.jpeg:
+AN/AAQ-13 Navigation Pod
+
+The NAV FLIR, also known as the FINS (forward imaging navigation set),
+is housed in the pylon section of the pod, above the TFR (Figure D-4). The
+forward section assembly is made up of the optical and electronic
+equipment needed to detect the terrain along the flight path as an
+infrared image. It subsequently transforms the image into a video signal
+for the HUD. The upper section also contains the pod power supply and a
+center section containing a maintenance panel and environmental control
+unit (ECU) controller. The lower section contains the TFR system and the
+ECU, which supplies all cooling for the NAV pod.
+
+DIGITAL SCAN FORWARD-
+
+POWER SHPRCT  sENiER CONVERTER LOOKING
+SECTION INFRARED
+SENSOR |
+
+ENVIRONMENTAL
+CONTROL
+
+CONTROL
+COMPUTER
+
+TERRAIN-
+FOLLOWING RADAR
+
+PYLON
+
+LENGTH 73 IN LENGTH 78 IN
+
+HEIGHT 9 IN DIAMETER 12 IN
+
+TOTAL WEIGHT 520LBS DRAG INDEX 6.6
+
+LAN-02-04
+
+Figure D - 4. AN/AAQ-13 Navigation Pod.
+
+
+Text from LAN-2_NAV_FLIR_page_16.jpeg:
+Purpose of NAV FLIR
+
+In support of TF operations, the NAV FLIR provides the aircrew with a
+limited type of night vision. A FLIR video of real world terrain in front of
+the aircraft enhances situational awareness and low altitude maneuvering
+capabilities. The system is passive and enemy defenses cannot detect its
+use.
+
+The NAV FLIR generates a 21° by 28° (HUD size) black and white image
+of terrain ahead of the aircraft. The HUD size contains 480 lines of video;
+however, the NAV FLIR produces only 360 lines of video. Therefore, one
+line of video is artificially produced for each line of NAV FLIR video in
+order to fill the HUD display. It is presented to the pilot in the HUD asa
+1:1 correspondence with the real world. This means the IR images should
+be exactly superimposed over the real scene. Objects appear in the same
+relative size and position as they do in the HUD with the NAV FLIR off,
+allowing terrain avoidance, target acquisition and visual weapons
+delivery. When the NAV FLIR scene (IR image) is not exactly
+superimposed over the real scene, an electrical boresight correction
+(discussed later) will be used to correct the condition. Even though the
+scene is 1:1, there is no true depth perception. The image presented to the
+crew is a TV-like picture requiring the use of TFR to fly low level.
+
+LAN-2 D-10
+
+
+Text from LAN-2_NAV_FLIR_page_17.jpeg:
+NAV FLIR Functional Description
+
+The Risley snap look assembly contains two prisms controlled by
+servomotors, which enable the crew to check terrain features. An afocal
+lens then receives the IR image and relays it to the scanner assembly.
+The IR image is then read by the scanner assembly and routed and turned
+by the IR imager to the focus wedge. The received IR image is then
+focused on the detector/cooler assembly, which is kept at -186°C to
+increase the detector’s sensitivity. It is comprised of a vertical array of
+180 photoconductive diodes that produce a small electrical signal when
+struck by IR energy. This analog data is passed through the digital scan
+converter, which amplifies and converts the information into a digital
+representation of the IR scene, which is then converted to composite IR
+video for display on the HUD (Figure D-5).
+
+DIGITAL SCAN
+CONVERTER (DSC)
+
+SCAN
+POSITION
+SENSOR
+
+SIGNAL
+CONDITIONER |—>
+MULTIPLEXOR
+
+SCANNING
+MIRROR
+
+SCAN AND
+INTERLACE
+
+AFOCAL LENS
+VISIBLE LIGHT ASSEMBLY
+
+* ENERGY
+
+Tegan LOOK
+ASSEMBLY
+
+REFORMATTER
+
+(RISLEY PRISMS) \[e= HUD
+GERMANIUM ISIMAGER i
+ELEMENTS rocus| DETECTOR
+WEDGE COOLER
+ASSEMBLY
+
+LAN-02-05
+
+Figure D - 5. NAV FLIR Diagram.
+
+
+Text from LAN-2_NAV_FLIR_page_18.jpeg:
+NAV FLIR Operations
+
+Applying Power
+
+The pod is controlled via the sensor control panel (Figure D-6). Placing
+the NAV FLIR to STBY powers up the FLIR and initiates the required
+5 to 8 minute cool-down period, but may take less than 5 minutes or as
+long as 14 minutes, depending on the conditions.
+
+TF RDR RDR ALT RADAR
+ON OVERRIDE STBY
+
+OFF ON \
+UI ne
+STBY ON ni \
+EMERG
+OFF OFF O
+
+STORE ALI aN
+
+a JTIDS
+Kee NORM
+
+SIL
+
+HOLD
+
+LAN-02-06
+
+Figure D - 6. Sensor Control Panel.
+
+If either the NAV FLIR or the TF RDR switch is out of OFF, power is
+supplied to the NAV pod. To shut the pod down, both switches must be
+OFF. Power should be removed from the pod prior to shutting down an
+engine, cycling a generator or doing anything else that could cause a
+power interruption or pressure surge, as this will trip circuit breakers
+and/or blow seals in the pod itself, requiring maintenance action. Also,
+whenever power is removed from the pod, allow 1 minute in OFF prior to
+turning the system back on to avoid tripping the breakers.
+
+LAN-2 D-12
+
+
+Text from LAN-2_NAV_FLIR_page_19.jpeg:
+On the UFC Menu 1 (Figure D-7) the legend N-F N/R appears after
+turn-on, prior to warm up to the left of PB #7. After the cool-down period,
+standby (STBY) replaces not ready. NORM then appears after ON is
+
+selected.
+(® @) Ke) ®)
+(4 (tAu OFF STR 12C}K_] (Js {Lau OFF STR teclH)
+7 — — 5
+qo OFF RIP OFFILT qos OFF RIP OFFIL{)
+— — —=
+AFF OFF AA! OFFIEM) 4{FF OFF AR! OFFIL(
+k — . >
+(TF OFF N-F OFFIL( (TF NTR
+— — — —
+J) ACS aFF u2 OFF LC) J) OCT oF ue OFF LC)
+Cnn +6] (oa a+ ©
+vo RRM? | cr wo © en RAL also
+
+B
+3
+E
+6
+
+— SS
+c
+9
+
+®
+
+DATA
+
+Bee
+
+Eelfedo |
+
+EMIS
+LMT
+
+NAV FLIR AND TF RADAR OFF
+
+IMARK|
+
+|
+
+[-]
+
+B
+o
+Hie
+
+SHF
+
+AIP
+
+®
+
+eicichl
+
+NAV FLIR AND TF RDR IN STANDBY
+BUT HAVE NOT FINISHED COOL DOWN
+
+PRESS TO SELECT
+NAV FLIR SUBMENU
+Ke) @) (® @)
+4 (tau OFF STR 12C|H() j4 (cau saa B
+k k .
+(J4ITCN OFF RIP OFFI KL | (Ja(ToN 112Xx RIP 1)
+— — — se
+4(lFF OFF RAL OFF] \4(TFF STBY AAI 1- lec
+k 7 7
+(TE STBY N-F STBYJL( (TF STBS
+— — — "
+J OAC OFF u2 OFF JL | J) Cs(ee2e es veee. 100%] LF |
+6) m7 sjI-L-O © Akan rE
+ara os | co © ° vex, Tlelelaaks
+
+[i=]
+
+SHF
+
+IGIGE
+
+Bec
+
+DATA
+
+IMENU}
+
+o|
+
+EMIS
+LMT
+
+NAV FLIR AND TF RADAR "COOLED-
+DOWN" AND READY TO OPERATE
+
+FF]
+
+R1
+=<
+IMARK|
+J
+
+SHF
+
+a
+]
+Hie
+
+Se
+
+AIP
+
+CIEE |
+
+EMIS
+LMT
+
+TF RADAR IN STANDBY AND NAV FLIR
+SWITCH IN "ON"
+
+Figure D - 7. UFC Menu 1.
+
+D-18
+
+LAN-02-07
+
+
+Text from LAN-2_NAV_FLIR_page_2.jpeg:
+ADMINISTRATIVE INFORMATION
+
+This student workbook is designed to provide information on the F-15E,
+its systems and capabilities. It is not a sole source document, but is to be
+used in conjunction with other standard Air Force publications and
+technical manuals. If you find any differences between the material
+contained herein and other governing regulations, adhere to the
+regulations and notify the OPDR.
+
+Changes to this workbook are indicated with a heavy black line in the left
+margin.
+
+Forward recommendations for revision or change to 4 TS, SJAFB, NC,
+275381.
+
+Supersedes: LAN-2, October, 1999
+
+OPDR: 4 TS, SJAFB, NC
+
+Index of Changes
+
+Effective Date Pages Affected
+
+
+
+Text from LAN-2_NAV_FLIR_page_20.jpeg:
+Pressing PB #7 calls up the NAV FLIR submenu with “NORM” indicated
+at PB #10 and “BRST” indicated at PB #9 (Figure D-8). An asterisk
+indicates which mode is selected.
+
+On this submenu, you will be able to tune the NAV FLIR video by
+selecting PB #2 gray scale and/or PB #3 - MANUAL/AUTO GAIN/LEVEL.
+You may also select either white hot or black hot polarity with PB #4,
+select AUTO-LOOK-INTO-TURN at PB #7 or select the boresight
+submenu at PB #9 (discussed later in lesson).
+
+(® ®)
+JA IN-F NORMX] EL
+kc
+4 {GRAY SCALE BRST|-{ |
+~ \SIRUTO-GAINILEVEL (
+— —]
+A B-HOT LOOK-IN-TURN| EL
+=— ————
+“V1) Ueebied UeeBiBBox] Ll
+[e+ it 15 fo]
+® Sj \ QU rl ee @®
+R1@OR3 \l \U R2@O R4
+Ss ©) maRK||||||_\ M A l/P
+BRT . 5 : c SHF
+" = = = — —S
+N @® |/a/p |l|||| cur 9 LIIIIDATAI I IMENU| @ (fas
+a & W) UVX& & D)
+
+LAN-02-08
+
+Figure D - 8. NAV FLIR Submenu.
+
+LAN-2
+
+
+Text from LAN-2_NAV_FLIR_page_21.jpeg:
+HUD Controls
+
+HUD Brightness: The HUD is turned on, and symbology brightness is
+controlled by the BRT knob (Figure D-9). Turning the knob clockwise
+increases the symbology intensity. The video imagery is not affected.
+
+Day, Auto, Night Switch: Depending on ambient light conditions, select
+DAY, AUTO or NIGHT on the HUD Control Panel. DAY applies
+maximum intensity control range to all brightness controls. AUTO
+enables the HUD to maintain consistent symbol brightness for adequate
+illumination at night. NIGHT reduces video and symbology brightness
+approximately 98% lower than the “DAY” intensity.
+
+Video Brightness (VID BRT): This knob permits one-step adjustment of
+the HUD at night. The knob adjusts the intensity of both the video
+imagery and the symbology.
+
+Video Contrast (VID CONT): This knob must be turned on to view the IR
+video imagery and to adjust the shades of gray on the HUD.
+
+CONTRAST
+HUD BRIGHTNESS CONTROL
+CONTROL VIDEO
+
+DAY/AUTO/NIGHT BRIGHTNESS
+
+NORM
+REJ 1 AUTO
+REJ 2 NIGHT
+
+Figure D - 9.
+
+
+Text from LAN-2_NAV_FLIR_page_22.jpeg:
+Gray Scale
+
+The GRAY SCALE option is selected by pressing PB #2 on the NAV FLIR
+submenu. For a reference, a full range of grays are displayed across the
+bottom of the HUD (Figure D-10).
+
+-— o —+
+
+NAV 12B
+N 15.8
+
+Shoo a7 8 00:01:55 E
+
+LAN-02-10
+
+Figure D - 10. Gray Scale.
+
+Auto, NAV FLIR Tuning - After selecting GRAY SCALE and the
+AUTO-GAIN/LEVEL on the UFC (PB #2 and #8 respectively), adjust the
+HUD BRT knob to the desired symbology brightness. Then adjust the
+VID BRT knob to blacken the darkest shade of gray. Next adjust the VID
+CONT knob to see up to 11 shades of gray at the desired HUD intensity.
+Exit the submenu by selecting DATA or MENU on the UFC keys to avoid
+canceling the adjustments.
+
+Manual, NAV FLIR Tuning - After selecting MAN-GAIN/LEVEL and
+GRAY SCALE on the NAV FLIR submenu, you will have up to 13 shades
+of gray displayed. Manually set the LEVEL and GAIN knobs on the
+sensor control panel at 12 o'clock. Adjust the LEVEL knob so that the
+brightness of the center block of the gray scale matches the desired
+average brightness of the IR scene. Adjust the GAIN knob to saturate
+man-made objects, and then reduce the GAIN slightly. Deselect GRAY
+SCALE after tuning is complete.
+
+NOTE
+
+During day operations, you will only see a maximum of 6 to 7 shades
+
+of gray due to color blending in high light conditions.
+
+LAN-2 D-16
+
+
+Text from LAN-2_NAV_FLIR_page_23.jpeg:
+White Hot and Black Hot
+
+W-HOT or B-HOT are alternately selected by cycling PB #4 on the NAV
+FLIR submenu (Figure D-11, left). White hot is the video display in which
+hot areas appear as light green and cold areas appear as black. Black hot
+is a reversed polarity display, showing hot areas as black, cold areas as
+green. The choice of using black hot or white hot is the pilot’s personal
+preference.
+
+Mechanical Boresight
+
+During NAV FLIR preflight checks, the mechanical boresight values
+should be verified. This is accomplished by selecting boresight (BRST), PB
+#9, on the NAV FLIR submenu (Figure D-11, left). This can be done
+during the cool-down period. The boresight submenu (Figure D-11, right)
+displays the yaw, pitch and roll mechanical boresight values (in
+milliradians, mils). These values are unique to each aircraft because of
+manufacturing tolerance errors of the pod/aircraft hard point mounting
+pads, and are stored in the CC. If the displayed values do not match the
+781 values, correct values can be input using the UFC scratchpad and PBs
+#2, #3 and #4.
+
+PRESS TO RESELECT
+PRESS TO SELECT NORMAL MODE
+PRESS TO SELECT BORESIGHT
+BLACK HOT OR MODE
+WHITE HOT, MECHANICAL BORESIGHT MODE
+| NORMAL MODE BORESIGHT SELECTED
+SELECTED IN MILS
+
+i)
+
+N-F NORM N-F BRST
+
+>
+SISA -1t BRSTX
+4
+
+S (A(GRAY SCALE BRsT JL(™ 3) 7 3
+fe > 4
+a MAN-GRINILEVEL 7 WO Fircys
+
+ma im ROLL -15 ELEC
+
+>
+| |B-HOT LOGK-IN-TURN
+4
+
+Ueebi25 Ueesigsox
+
+TK (4(weesies _ Ueeeieaox
+|e —fecan 15 L O] © Aecan =
+gor 06? 4OBHOR0®
+
+BRT (s]
+os
+
+ry
+
+2, HII J BOO
+
+NAV FLIR SUBMENU BORESIGHT SUBMENU
+
+LAN-02-11
+
+Figure D - 11. Sensor Control Panel.
+
+D-17 LAN-2
+
+
+Text from LAN-2_NAV_FLIR_page_24.jpeg:
+Electrical Boresight
+
+If the NAV FLIR image (azimuth and elevation) is not coincident with the
+real world through the HUD, the pilot can electrically slew the FLIR
+sensor to the correct boresight using the TDC. Use an object that is in the
+approximate center of the HUD display, and visible to the naked eye and
+to the NAV FLIR. The object should be a minimum of 2 miles from the
+aircraft to increase the accuracy of the boresight and reduce any paralax
+errors. First, select the BRST mode (PB #9) on the NAV FLIR submenu,
+and then select ELEC (PB #7). N-F BRST appears in the HUD to indicate
+the mode. Second, select NAV Master Mode. Third, take command of the
+HUD and slew the NAV FLIR seeker in AZ and EL with the TDC (Figure
+D-12) to superimpose the IR image on the real world as closely as possible.
+To avoid canceling inputs, select DATA or MENU on the UFC to exit the
+boresight mode. In flight, if the line of sight gets out of tolerance more
+than 13 mils, the caution N-F LOS appears in the HUD when the NAV
+FLIR image is showing. When this occurs, the NAV FLIR cannot be relied
+on for precise navigation.
+
+WARNING
+
+The aircrew cannot trust NAV
+POD imaging for precise
+navigation when N-F LOS is
+displayed.
+
+SLEW NAV FLIR
+SEEKER WITH TDC
+
+TAKE COMMAND OF
+HUD WITH CASTLE SWITCH
+
+FCP STICK FCP THROTTLES
+
+LAN-02-12
+
+Figure D - 12. Electrical Boresight.
+
+LAN-2 D-18
+
+
+Text from LAN-2_NAV_FLIR_page_25.jpeg:
+In Flight Features
+
+Look-Into-Turn
+
+Look-into-turn (LIT) has two methods of operation; manual is commanded
+by the coolie switch on the right throttle and automatic is selected through
+the UFC. Once activated, LIT provides a 6°, horizon stabilized,
+look-into-turn on the HUD. Manual LIT is activated by pushing down and
+holding the coolie switch in the FCP and exceeding 5° bank (Figure D-138).
+LIT is commanded until the switch is released, or bank angle decreases to
+less than 3°.
+
+PUSH DOWN AND
+HOLD TO ENABLE
+MANUAL LOOK-INTO-TURN
+
+FCP THROTTLES
+
+LAN-02-13
+
+Figure D - 13. Manual Look-Into-Turn.
+
+
+Text from LAN-2_NAV_FLIR_page_26.jpeg:
+Automatic LIT is activated by selecting LOOK-IN-TURN (PB #7) on the
+NAV FLIR submenu (Figure D-14), and is then activated when the bank
+angle is equal to or greater than 33°. LIT is deactivated when the bank
+angle decreases to less than 20°, or look-in-turn is deselected on the UFC
+
+submenu.
+
+(®
+
+= |N-F
+
+NORM
+
+BRST
+
+S 4(GRAY SCALE
+—
+4 (MAN-GRINILEVEL
+
+« > |
+
+— allure TO ARM
+— |B-HOT LOOK-IN-TURN 6° AUTOMATIC
+LOOK-INTO-
+| (226125 U2281886%| Li (ERS
+—kcan 5
+(>) ——Fy 1S 1a O)
+IGREC A N B GREC
+mietine C/M l 1 2 Wt 3 cm en See
+SQ (PQ (Qa (Aa
+Ss maRK'||||| MW : 2 1/P ©) ©
+> = — (—_— 1 Ss
+, BRT ; * 2 5 SHF
+©.500co:&
+N @ |}A/P |i) CLR 0 DATA|||||IMENU]| GB)
+= )
+LAN-02-14
+
+Figure D - 14. Automatic Look-Into-Turn.
+
+LAN-2
+
+
+Text from LAN-2_NAV_FLIR_page_27.jpeg:
+Snap Look Feature
+
+Snap look permits the pilot to check the terrain in front of the aircraft in
+any of four directions: left, right, up or down. To command the function,
+push down and hold the coolie switch, and simultaneously move the castle
+switch in the direction desired. This moves the POD video 25° left or
+right, or 9° up or down (Figure D-15). Snap look is deactivated when
+either the coolie or castle switch is released.
+
+PUSH DOWN AND HOLD
+TO ENABLE SNAP LOOK
+
+MOVE IN DESIRED
+DIRECTION OF
+SNAP LOOK
+
+LAN-02-15
+
+
+Text from LAN-2_NAV_FLIR_page_28.jpeg:
+While operating in manual or automatic look-into-turn with 6°
+
+look-into-turn commanded, an additional 19° of horizontal look angle, for a
+
+total of 25°, is available with snap look (Figure D-16).
+
+LOOK-INTO-TURN
+
+LOOK-INTO-
+NORMAL TURN PLUS
+SCENE SNAP LOOK
+
+HORIZON LINE
+
+TOTAL 25°
+
+Figure D - 16. Look-Into-Turn, Plus Snap Look.
+
+LAN-2 D - 22
+
+LAN-02-16
+
+
+Text from LAN-2_NAV_FLIR_page_29.jpeg:
+Ghost Velocity Vector
+
+Since the NAV FLIR field of view shifts with the use of LIT, a ghost
+velocity vector is displayed on the LIT IR video to indicate aircraft flight
+path in relation to the NAV FLIR scene, which has been shifted by 6°.
+The normal velocity vector remains centered in the HUD (Figure D-17)
+and indicates the aircraft flight path in relation to the real world.
+
+GHOST VV
+INDICATES
+FLIGHT PATH
+IN RELATION
+TO SCENE
+
+NORMAL
+
+VELOCITY
+VECTOR
+INDICATES
+ACTUAL FLIGHT
+PATH AND DOES
+NOT SHIFT
+
+LAN-02-17
+
+Figure D - 17. HUD Ghost and Normal VVs.
+
+
+Text from LAN-2_NAV_FLIR_page_3.jpeg:
+LANTIRN
+
+= o O
+oO coo
+= o{fi_ti_i_ty , 4 =, i
+
+= ees
+=
+
+COVER
+
+NAV FLIR
+
+INTRODUCTION
+
+This workbook explains the theory and operation of the navigation
+forward looking infrared (NAV FLIR) system. It illustrates and explains
+F-15E NAV FLIR controls, functions and operations. Finally, it discusses
+NAV FLIR limitations, capabilities and employment considerations.
+
+CONTENTS:
+
+I JIC SUG oe cre em secs res an cea toe see cc ape ees erase sence cs ana ses se an oe A-1
+CRITERION REFERENCED OBJECTIVES (CROs)................00 B-1
+STUDENT PREPARATION REQUIREMENTS ....00.. eee C-1
+DUET wr sees sais ces cars wes one sane ees vats wees sates wane es amt cn eat tat es Sat ee eat we SS aa D-1
+END OF TEXT QUIZ ou. eecccceesneceeeneeeeesaeesesaeesensaeesesaeeeeeas E-1
+(SLOSS AIRY cere casa sae sass ants cass ans sents aes auch See ews Manis aia SER SAG aS Ms Hee asa Sa F-1
+
+A-1 LAN-2
+
+
+Text from LAN-2_NAV_FLIR_page_30.jpeg:
+QUESTIONS
+
+1. The NAV FLIR system requires a period before
+operation.
+a. 1-2 minute cool-down
+b. 2-5 minute cool-down
+c. 5-8 minute cool-down
+d. 10-12 minute cool-down
+
+2: While operating in activated automatic LIT, how many additional
+degrees of horizontal look angle are commanded with snap look?
+
+a. 6°
+b. 9°
+c. 19°
+d. 25°
+
+3. The snap look function is controlled by
+
+a. PB #7 on the NAV FLIR submenu.
+b. PB #10 on the NAV FLIR submenu.
+. the coolie switch and castle switch on either the left or right
+
+hand controller in the rear cockpit.
+d. the coolie switch on the right throttle and the castle switch
+on the stick in the front cockpit.
+
+LAN-2 D - 24
+
+
+Text from LAN-2_NAV_FLIR_page_31.jpeg:
+ANSWERS
+
+LAN-2
+
+
+Text from LAN-2_NAV_FLIR_page_32.jpeg:
+NAV FLIR CAPABILITIES AND LIMITATIONS
+Physical Limitations
+
+The NAV FLIR has certain physical and operational limitations. These
+include:
+
+NAV FLIR field of regard 78° (H) X 39° (W)
+HUD field of view 21° (H) X 28° (W)
+Center of NAV FLIR XT = 0° Az and -4.5° El from a line
+
+parallel to the aircraft water line.
+IR wavelength 8-12 microns
+Minimum detectable Delta T Better than 0.15° C
+Blind Spot
+
+Because the NAV pod is mounted under the right side of the fuselage, left
+LIT and snap look have a blind area in some aircraft attitudes. This blind
+spot is caused by the fuselage (and ordnance if loaded) entering the FLIR
+field of view as the aircraft is rolled left.
+
+Synchronization
+
+If the NAV FLIR video does not coincide with the real world, there is no
+aircrew notification of this error until it exceeds 13 mils, resulting in the
+NF LOS caution. Periodically crosscheck NAV FLIR imagery against
+terrain seen visually or indicated by the TF/air-to-ground radar. If in
+doubt of the synchronization, climb to a safe altitude before investigating.
+If necessary, electrically boresight the system using a distant point that is
+visible both to the eye and the NAV FLIR.
+
+LAN-2 D - 26
+
+
+Text from LAN-2_NAV_FLIR_page_33.jpeg:
+Bland Video
+There are several possible reasons for bland video.
+e Rain, snow or clouds scattering or washing out the IR energy.
+
+e The detector cooler assembly malfunctioning, heating the detector
+and thus degrading the video.
+
+e The nose of the aircraft pointed above the horizon into a cloudless
+sky.
+
+e A poorly adjusted HUD/NAV FLIR video.
+
+The horizon virtually disappears in wings level flight with a distant, flat
+horizon. Banking 2-5° and rolling out can restore the horizon
+momentarily.
+
+Target/NAV Points
+
+NAV FLIR night employment experience shows that certain turn
+points/targets are better than others for navigational purposes.
+Generally, points suitable for day visual navigation are also suitable for
+night using the NAV FLIR. Good NAV FLIR navigation features include
+portions of small and distinct lakes, land-water contrast, mountain peaks
+and industrial complexes. Features that do not make good IR navigation
+points include indistinct or similar peaks, bridges, road/railroad
+intersections, river bends in forested areas and lines of communication
+
+(LOC).
+Lakes
+
+Small lakes (less than 1 nm across) have a high Delta T on calm nights,
+but are not observable until close (1 to 2 nm range at 200 feet AGL). They
+make good turn points if LOS is not obstructed. Medium lakes (1 to 3 nm
+across) show good thermal contrast, and are seen from 1 to 3 nm range at
+200 feet AGL. The best turn points are small distinct parts of a lake or
+tips of land. Large lakes can be seen at even greater distances.
+
+
+Text from LAN-2_NAV_FLIR_page_34.jpeg:
+Land Water Contrast
+
+Prominent points of land make excellent navigation points. These include
+peninsulas on large bodies of water, islands in large lakes and points on
+coastlines. Acquisition ranges from 1 to 4 nm at 200 feet AGL.
+
+Peaks
+Isolated peaks show a high thermal contrast against the cold sky
+background. On the average, isolated peaks without towers are visually
+
+identified at 5 nm, some as far as 12 nm at 200 feet AGL.
+
+Industrial Complexes
+
+Industrial complexes make excellent navigation points and targets. The
+burners, smokestacks, generators and other objects with high thermal
+activity are particularly easy to identify. These targets are identified at
+8 nm ranges. The average is 5 nm at 200 feet AGL.
+
+Lines Of Communication (LOC)
+
+LOCs such as bridges, road intersections, road/railroad intersections and
+railroad junctions do not make good IR navigation points. LOCs are
+significantly affected by atmospheric conditions. Attack axis is critical in
+identifying LOCs. Flying parallel to the LOC provides the best
+opportunity to identify the LOC, though this is not a good tactical choice.
+Optimizing line-of-sight and attack axis leads to average acquisition
+ranges, at 200 feet AGL, of only 1 nm.
+
+IR Rules of Thumb
+
+Maximum FLIR acquisition ranges occur in dry, clear air. Dirty, moist air
+means degraded or minimum pickup ranges. High absolute humidity (i.e.,
+high dew point) absorbs IR radiation, reducing the effectiveness of the
+FLIR.
+
+Falling precipitation (rain, drizzle, snow or dense fog) reduces the Delta T
+significantly. Falling rain appears as large, hot, out-of-focus spots or
+vertical lines in the video. Over water flying can also degrade the IR
+imagery (i.e., a moisture band can extend up to 500 feet).
+
+LAN-2 D - 28
+
+
+Text from LAN-2_NAV_FLIR_page_35.jpeg:
+Falling snow appears as a gradual blanding of the video, until no image
+remains. Snow on the ground tends to reduce background clutter, and
+highlights structures and trees.
+
+Wet ground reduces thermal clutter, but also reduces thermal contrast,
+resulting in bland video. Lakes make excellent turnpoints except in
+swampy areas where the water and land are almost the same
+temperature. Dry ground increases thermal clutter, but normally
+provides better contrast between objects and background.
+
+Clear skies increase the Delta T, increase the potential of thermal clutter
+and provide sharper diurnal crossovers. Diurnal crossovers occur near
+sunrise and sunset and occur more slowly under overcast skies. Overcast
+skies reduce the Delta T, but make it easier to see self-heated targets.
+Strong winds reduce Delta T.
+
+Massive vertical objects are easy to see, because they are heated
+differently than the background. Small or thin objects, such as power
+lines or guide wires, are difficult to see.
+
+Attacking with the sun at your back is still better than attacking into the
+sun. Shortly after sunset, attacking from the southwest (in the northern
+hemisphere) normally gives the best NAV FLIR video.
+
+
+Text from LAN-2_NAV_FLIR_page_36.jpeg:
+QUESTIONS
+
+1. The Delta T (or thermal contrast) of an object in relation to its
+background is normally enhanced by which pair of factors?
+
+a. Wet ground and no wind
+b. Wet ground and dry air
+C, Dry ground and clear skies
+d. Dry ground and strong winds
+Ds Overcast skies tend to both thermal contrast, and make
+iteasier tosee__ targets.
+a. increase, moving
+b. decrease, reflective
+c. increase, small
+d. decrease, self-heated
+
+3. What is the effect of falling precipitation on the thermal scene?
+
+Reduces Delta T
+
+Increases Delta T
+
+Increases IR effectiveness
+Increases IR detection ranges
+
+pe op
+
+LAN-2 D - 30
+
+
+Text from LAN-2_NAV_FLIR_page_37.jpeg:
+ANSWERS
+
+LAN-2
+
+
+Text from LAN-2_NAV_FLIR_page_38.jpeg:
+(This Page Intentionally Blank)
+
+LAN-2 D - 32
+
+
+Text from LAN-2_NAV_FLIR_page_39.jpeg:
+END OF LESSON QUIZ
+
+oo, 99
+
+On a TDA output document or electro-optics planning flimsy, a “+
+polarity indicator means
+
+a. the target is warmer than its background.
+b. the target is cooler than its background.
+c. the polarity was changing while the output was being compiled.
+
+Atmospheric transmissivity of is considered poor.
+a.  .65
+b. 45
+ce. .35
+d. .25
+
+Automatic LIT is activated when the bank angle is equal to or
+greater than
+
+a. 20°.
+b. 33°.
+c. 38°.
+d. 45°.
+
+To make an adjustment to the NAV FLIR boresight, select BRST and
+ELEC on the submenu, take command of the HUD, and slew the
+seeker with the
+
+a. castle switch.
+b. — coolie switch.
+c. auto acq.
+
+d. TDC.
+
+
+Text from LAN-2_NAV_FLIR_page_4.jpeg:
+CRITERION REFERENCED OBJECTIVES (CROs)
+
+1. Given a sample tactical decision aid report, interpret any item and its
+impact on IR operation.
+
+2. Identify the function of NAV FLIR components and controls.
+
+3. Identify NAV FLIR capabilities and limitations.
+
+REFERENCES
+TO 1F-15E-34-1-1 Section I Navigation Pod AN/AAQ-13
+TO 1-1M-34 Section ITI AN/AAQ-13 Navigation Pod
+
+LAN-2 B-1
+
+
+Text from LAN-2_NAV_FLIR_page_40.jpeg:
+5. Maximum FLIR pickup ranges occur
+
+at night.
+
+through haze and smoke.
+
+in dry, clear air.
+
+in cool air with high relative humidity.
+
+po op
+
+6. The ghost velocity vector is displayed during
+
+snap look-up, and down.
+LIT and snap look.
+
+LIT only.
+
+snap look only.
+
+po op
+
+LAN-2 E-2
+
+
+Text from LAN-2_NAV_FLIR_page_41.jpeg:
+AGC
+
+ECU
+
+EO
+
+FINS
+
+LIT
+
+LOC
+
+MRT
+
+NAV FLIR
+
+STBY
+
+TDA
+
+TF SC
+
+TF
+
+TFR
+
+GLOSSARY
+Automatic gain control
+Environmental control unit
+Electro-optical
+Forward imaging navigation set
+Look-into-turn
+Lines of communication
+Minimum resolvable temperature
+Navigation forward looking infrared
+Standby
+Tactical decision aid
+Terrain following set clearance
+Terrain following
+
+Terrain following radar
+
+LAN-2
+
+
+Text from LAN-2_NAV_FLIR_page_5.jpeg:
+STUDENT PREPARATION REQUIREMENTS
+
+BEFORE CLASS
+
+1.
+
+2.
+
+Read the applicable sections of TO 1F-15E-34-1-1.
+
+Study the information contained in this workbook and complete the
+quiz.
+
+
+Text from LAN-2_NAV_FLIR_page_6.jpeg:
+(This Page Intentionally Blank)
+
+LAN-2 C-2
+
+
+Text from LAN-2_NAV_FLIR_page_7.jpeg:
+TEXT
+INTRODUCTION
+
+This lesson on the forward-looking infrared (FLIR) introduces the
+navigation pod (AN/AAQ-13). It also addresses the tactical decision aid
+(TDA) and pod operation and employment. Your ability to successfully
+accomplish your mission will be enhanced by understanding how the NAV
+FLIR and terrain following radar (TFR) can help get you to the target on
+time. Together, these systems allow more consistent around-the-clock
+navigational performance.
+
+A reminder-—when using the NAV FLIR you are looking at a two
+dimensional picture of the world, not the world itself. It is a replication, a
+duplicate, a man-made image of the world, as though looking at a black
+and white TV screen, but not the actual world. So, you must use caution
+and correct procedures should you determine that the display does not
+exactly mirror the real world. Be ready to quickly and correctly react to
+an indication of system failure.
+
+
+Text from LAN-2_NAV_FLIR_page_8.jpeg:
+TACTICAL DECISION AID
+
+Astute assessment of atmospherics is required for accurate predictions of
+acquisition ranges and IR imagery. To support the different IR sensors in
+the field, the Air Weather Service designed the tactical decision aid (TDA).
+The TDA is a computer program that forecasts the expected thermal
+contrast (Delta T), atmospheric transmission, and acquisition range of
+targets and turn points. The product can be modified to suit local
+commanders. Detection ranges are shown for the NAV and targeting
+pods. The WFOV column is for the NAV FLIR and the TGT IR in wide
+field of view. The NFOV column is for the TGT IR in narrow field of view.
+A worksheet is prepared from forecasts, listing the above mentioned items
+and additional comments that may be applicable to IR systems
+employment, Figure D-1. The worksheet information is then used to
+complete an electro-optics planning flimsy, Table D-1, page D-4.
+
+DATE/TIME: 18/2200Z — 19/0100Z
+
+ATMOSPHERIC LASER DETECTION (NM) LOCK ON
+VR/TGT/RANGE AT TRANSMISSIVITY — (NM) WFOV NFOV (NM)
+
+Prormawonss fw] or [ew | 20s [me
+[enorme fe | [few fas oe | |
+Decree [oof [foe fae we
+a
+Pearse
+pes
+eae
+
+LAN-02-01
+
+Figure D - 1. Typical TDA.
+
+LAN-2 D-2
+
+
+Text from LAN-2_NAV_FLIR_page_9.jpeg:
+A more qualitative description of IR conditions may be used in conjunction
+with or to replace the current weather flimsy. For example:
+
+Thermal Contrast Category (AT):
+LOW = less than 2°C.
+
+MEDIUM = 2°C to less than 5°C.
+HIGH = 5°C and higher.
+
+Polarity:
++ means target warmer than background.
+
+- means target colder than background.
+
+Atmospheric Transmissivity:
+
+POOR .25 or less
+FAIR .26 - .45
+GOOD 46 - .64
+
+VERY GOOD _ .65 or more
+
+Each base's weather station can produce TDA formats that satisfy specific
+requirements of the commanders and weapon systems they support
+pursuant to Air Weather Service directives. An example of such a product
+is shown in Table D-1, next page.
+
+

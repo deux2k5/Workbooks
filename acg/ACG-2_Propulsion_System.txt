@@ -1,0 +1,2775 @@
+Text from ACG-2_Propulsion_System_page_1.jpeg:
+SUPPORTS COURSES
+FIS5EBQ
+
+FISETX
+
+FISESOC
+
+ACADEMIC STUDENT WORKBOOK
+F-15E
+
+AIRCRAFT GENERAL
+ACG-2
+PROPULSION SYSTEM
+
+AUGUST 1999
+(SUITE 3 OFP)
+
+AIR COMBAT COMMAND
+
+
+Text from ACG-2_Propulsion_System_page_10.jpeg:
+A cockpit readout of N2 speed (rpm%) is provided in the tachometer
+
+portion of the engine monitor display (Figure D-3). Fan turbine inlet
+
+temperature is sensed between N:1 and Nz.
+
+7, 3
+4 \co
+a |cn
+=—s
+NO
+OO
+z
+
+P
+0
+OIL PSI
+
+yey’ SS;
+1c
+(3
+
+100
+
+°o 2 @|°}O 8°o
+as e010 80
+ome Te Q
+m¢,c—||oo
+
+[ol
+Foo EL
+
+ACG-02-03
+
+FCP
+
+Figure D - 3. Engine Monitor Display FCP.
+
+ACG-2
+
+
+Text from ACG-2_Propulsion_System_page_11.jpeg:
+Afterburner Section
+
+After passing through the turbines, high velocity exhaust gas enters the
+afterburner section where it is mixed with the flow of bypass air. When
+afterburner is selected on the throttle, fuel is sprayed into the forward
+portion of the section through a series of spray rings and is ignited. Since
+the air entering the afterburner section is already compressed and at high
+velocity, the fuel/air ignition creates a ram jet and provides a significant
+increase in thrust. Five segments of afterburner are available depending
+on throttle position. Afterburner ignition is provided by two more igniters
+per engine which receive their power from the same engine-mounted
+generator that powers the igniters for the combustion section.
+Afterburner ignition, however, is not continuous. It is provided for 1-1/2
+seconds after the throttle is advanced into the AB range.
+
+A light-off detector (LOD) in the AB section tells the system if a light-off
+occurs. Once lit, the afterburner combustion is self-sustaining. However,
+if a light does not occur (or is not detected), a series of events
+automatically takes place without the aircrew having to recycle the
+throttle. First, the system automatically terminates AB, resets to MIL
+and checks to see if the LOD is functioning properly. If the LOD checks
+good, three more relight attempts occur automatically. If the LOD checks
+bad, one more relight attempt is made using tail pipe pressure to verify
+AB light-off. If a relight occurs, you will notice it only as a hesitation in
+obtaining an AB light. If the automatic relight attempts are unsuccessful,
+the system resets itself to MIL (throttle in AB); this may take up to 12
+seconds. Cycle the throttle out of AB and back to AB if another series of
+relight attempts is desired.
+
+D-5 ACG-2
+
+
+Text from ACG-2_Propulsion_System_page_12.jpeg:
+Variable Nozzles
+
+The final engine section is the convergent-divergent nozzle system, which
+is continuously variable between minimum and maximum opening. The
+nozzles control the velocity of the exhaust gases, and therefore control the
+back pressure in the engine, which in turn controls the N: turbine speed.
+The nozzle actuators are operated by a mechanical cable that is driven by
+a pneumatic motor. A cockpit gauge readout is provided on the engine
+monitor display in percent open (i.e., 100% is fully open, while 0% is fully
+closed) (Figure D-4). Another source of nozzle position is on the
+MPD/MPCD, which uses digital electronic engine control (DEEC) supplied
+information. The nozzles are positioned as a function of throttle setting,
+but receive an additional input from the position of the gear handle. With
+the gear handle down (whether or not weight is on wheels), the nozzles
+open to approximately 80% at idle to minimize thrust during ground taxi
+operations. The nozzles close progressively as power is advanced and are
+at the closed position (5-10%) at MIL power. When the AB is in use, the
+nozzles progressively open to 50-75%. With the gear handle up, the
+nozzles are near minimum area at all times except at MIL or above. At
+MIL, the nozzle indicators will show the nozzles slightly open (5-10%) and
+as the throttle is advanced to the afterburner range, the nozzles schedule
+further open to compensate for increasing afterburner fuel flow.
+
+rc
+
+ENGINE R
+
+RPM %
+
+TEMP °C
+
+FF
+PPH
+
+3) \u0
+Lo
+ru
+
+Lo
+ru
+A
+Lo
+c
+
+£9
+a)
+£3
+a)
+La
+Lo
+£3
+£3
+
+7
+1S
+SS
+
+or.
+oe
+
+C3
+
+ACG-02-04
+
+Figure D - 4. Engine Monitor Display.
+
+ACG-2 D-6
+
+
+Text from ACG-2_Propulsion_System_page_13.jpeg:
+F100-PW-229 Engine
+
+Newer F-15E aircraft, starting with tail number 90-233, are equipped
+with the F100-PW-229 engines. It is the same basic engine as the -220
+but has greater thrust and a lower cruise fuel flow. It produces 17,800
+pounds of thrust in MIL and 29,000 pounds in MAX AB. The -229 has
+eleven stages of afterburner as opposed to five in the -220. This provides
+more power and smoother AB operation. Additional information on the
+new engine will be provided at your operational unit if the aircraft there
+are equipped with the -229.
+
+D-7 ACG-2
+
+
+Text from ACG-2_Propulsion_System_page_14.jpeg:
+QUESTIONS
+
+1. The RCVV/CIVVs are designed to inside the engine?
+a. regulate Nez turbine speed
+b. minimize airflow disruption
+c. compress more air
+
+2. The difference between engine and afterburner ignition is that
+
+a 2
+
+they receive their power from different sources.
+
+engine ignition has more igniter plugs than afterburner ignition.
+engine ignition is provided before fuel is available, while
+afterburner ignition is provided after fuel is available.
+
+engine ignition is continuous while afterburner ignition is timed
+for 1-1/2 seconds.
+
+3. The variable nozzles control exit velocity of the exhaust gasses and
+
+a. anozzle position readout is provided in the cockpit in % closed.
+
+b. are operated hydraulically.
+
+c. operate only as a function of throttle position.
+
+d. control N: turbine speed by regulating engine back pressure.
+4. Engine bypass air provides additional and
+
+ACG-2
+
+
+
+Text from ACG-2_Propulsion_System_page_15.jpeg:
+ANSWERS
+
+thrust/cooling
+
+D-9 ACG-2
+
+
+Text from ACG-2_Propulsion_System_page_16.jpeg:
+ENGINE ASSOCIATED SYSTEMS
+Engine Control System
+Throttles
+
+Throttles are provided in both front and rear cockpits (Figure D-5).
+
+ACG-02-05
+
+Figure D - 5. Throttles.
+
+The engines may be operated from IDLE through MAX AB from either
+cockpit; however, the engines can only be started and shut down with the
+FCP throttles. A throttle friction lever controls the friction for both sets of
+throttles and is incorporated in the base of the FCP throttle quadrant.
+
+ACG-2 D-10
+
+
+Text from ACG-2_Propulsion_System_page_17.jpeg:
+A set of dual-function fingerlifts are incorporated forward of the FCP
+throttle grips. Lifting the appropriate fingerlift and releasing it couples
+the jet fuel starter (JFS) to that engine for starting. Moving the throttle
+forward (no fingerlift here) from CUTOFF to IDLE then opens the
+mechanical fuel shutoff valve in the main fuel control (MFC) and
+energizes the ignition circuit. The fingerlift will now lock the throttle out
+of the CUTOFF range to prevent inadvertent engine shutdown. The
+fingerlifts must be lifted to move the throttles below IDLE and must then
+be released to move the throttles to OFF (two steps).
+
+Movement from IDLE to OFF closes the main fuel shutoff valve, stopping
+fuel flow to the engine.
+
+In addition to the mike button and speed brake switches, which are
+contained on both sets of throttles, the FCP throttles contain a number of
+other switches engineered to provide control of weapon systems features
+with hands on throttles and stick (HOTAS). Operation of these switches,
+as well as operation of the rudder trim switches (located on both throttle
+quadrants) and the flap control switch (located on the FCP quadrant), are
+covered in later lessons.
+
+Digital Electronic Engine Control (DEEC)
+
+The DEECs (one per engine) are computers powered by a dedicated
+engine-mounted alternator. The DEEC controls all operating parameters
+for its engine from IDLE through MAX AB. It receives inputs from
+throttle and landing gear handle positions. It also receives inputs from
+numerous sensors located throughout the engine to schedule fuel flow,
+afterburner operation and program positioning of the CIVV, RCVV,
+nozzles and engine heat bleed air valves. The DEEC is programmed with
+engine operating schedules and limitations and compares its program
+with actual engine performance. It adjusts the engine trim to attain peak
+engine performance at all times. The DEKC overrides the aircrew’s
+throttle commands if it determines the commands adversely affect engine
+operation. The DEEC inhibits throttle selections as required to maintain
+peak engine performance. This is evident in a high altitude, low airspeed
+situation when the throttles are moved into afterburner range and
+afterburner operation is degraded or inhibited. In addition, it contains a
+built-in logic circuit to help recover the engine if it should encounter an
+engine stall and/or stagnation.
+
+D-11 ACG-2
+
+
+Text from ACG-2_Propulsion_System_page_18.jpeg:
+If the DEEC detects a fault that will not allow it to safely control the
+engine, it will close the CIVV, close the nozzles to less than 5%, turn on
+the engine control caution and transfer control of the remaining engine
+variables to the main fuel control. AB operation is automatically
+inhibited. Maximum thrust available with the engine in secondary mode
+is only 70-80% of normal MIL power (about 85% rpm). Gradually, all -220
+engines will be fitted with new MFCs, which will provide 80-100% of
+normal MIL thrust in the secondary mode. Caution should be used when
+operating in the secondary mode because the engine may overtemp at
+high throttle settings if the nozzle is too far open. Monitor fan turbine
+inlet temperature (FTIT) closely when advancing the throttle to ensure
+that normal operating limits are not exceeded.
+
+Main Fuel Control (MFC)
+
+A main fuel control is mounted on each engine and carries out the
+hydromechanical functions commanded by its associated DEEC. It
+provides a secondary mode that is capable of scheduling engine operations
+and fuel flow if its DEEC is not operating. Contained within each MFC is
+a mechanical fuel shutoff valve. These valves are mechanically connected
+to the throttles and provide the aircrew with the primary means of
+terminating fuel flow to the engines. Since the MFC is located on the
+engine, closing the throttle results in immediate engine shutdown, but
+fuel remains in the line between the airframe-mounted fuel shutoff valve
+and MFC. A small amount of fuel remaining in the line between the MFC
+and engine at engine shutdown is purged overboard through ports in the
+belly of the aircraft. Prior to shutdown, coordinate with the ground crew
+about catching the vented fuel in a container. The -229 engine does not
+purge the fuel overboard. Instead, it is cooled and recycled back to the
+fuel tanks.
+
+ACG-2 D-12
+
+
+Text from ACG-2_Propulsion_System_page_19.jpeg:
+Engine Monitoring System
+
+The F100-PW-220 engine incorporates an engine diagnostic unit (EDU)
+that works in conjunction with the DEEC to record abnormal engine
+operating statistics and flag them for maintenance repair. Readouts for
+this system are found on the Avionics Status Panel on the left side of the
+nose wheel well. Aircrew are not directly involved with this system, but
+should know of its existence. Maintenance personnel use a data collection
+unit (DCU) to retrieve information from the EDU and to read engine
+faults. Engine fault flags should be checked before and after every flight.
+Engine operating data and malfunctions can also be written to the data
+transfer module (DTM) for postflight analysis.
+
+D-18 ACG-2
+
+
+Text from ACG-2_Propulsion_System_page_2.jpeg:
+ADMINISTRATIVE INFORMATION
+
+This student workbook is designed to provide information on the F-15E,
+its systems and capabilities. It is not a sole source document, but is to be
+used in conjunction with other standard Air Force publications and
+technical manuals. If you find any differences between the material
+contained herein and other governing regulations, adhere to the
+regulations and notify the OPDR.
+
+Changes to this workbook are indicated with a heavy black line in the left
+margin.
+
+Forward recommendations for revision or change to 4 TS, SJAFB, NC
+275381.
+
+Supersedes: ACG-2, October, 1998
+OPDR: 4 TS
+
+Index of Changes
+
+Effective Date Pages Affected
+
+
+
+Text from ACG-2_Propulsion_System_page_20.jpeg:
+QUESTIONS
+
+1. During normal operation, the DEEC
+
+a. controls CIVV and nozzle position only in the IDLE through
+MIL power range.
+
+b. controls all engine variables in the IDLE through MAX AB
+range and continuously trims the engine.
+
+c. carries out the hydromechanical functions commanded by the
+main fuel control.
+
+d. __ will be of no help if an engine stall and/or stagnation is
+encountered.
+
+2. The MFC contains a(n) controlled fuel shutoff valve which is
+controlled by the . Closing the valve terminates fuel flow
+the engine.
+
+a. _ electrically, engine master switch, inside
+
+b. electrically, fire pushbutton, forward of
+
+c. mechanically, throttle, forward of
+
+d. mechanically, throttle, inside
+
+3. Which of the following statements is true regarding the throttles?
+
+a.
+
+©
+
+ACG-2
+
+The FCP fingerlifts couple the JFS to the engine during engine
+start and lock the throttles out of CUTOFF after they are
+running.
+
+A throttle friction lever is incorporated in the base of each
+throttle quadrant.
+
+AB is only selectable from the FCP.
+
+Engines may be shut down from either cockpit.
+
+
+Text from ACG-2_Propulsion_System_page_21.jpeg:
+ANSWERS
+
+D-15 ACG-2
+
+
+Text from ACG-2_Propulsion_System_page_22.jpeg:
+Engine Controls and Indicators
+
+Engine Control Switches
+
+Control of the DEECs is provided through two engine control switches
+located on the FCP engine control panel. These are two-position electrical
+switches with the positions labeled ON and OFF (Figure D-6).
+
+zmo
+ozm
+RPAZOQ
+
+O
+
+= AMADYSAW —
+
+AMARPFE ozm WD
+
+L
+E
+N
+G
+M
+A
+Ss
+iu
+E
+R
+
+FCP
+
+ACG-02-06
+Figure D - 6. Engine Control Switches.
+
+ON Enables the DEEC to provide normal engine control.
+
+OFF Engine control is transferred to the MFC (secondary mode),
+CIVVs are fully closed, nozzle is closed (5%), engine thrust is
+80-100% of MIL thrust and afterburner is inhibited.
+
+If a DEEC malfunctions and switches to secondary mode, it will remain in
+
+this mode until the failure clears and the appropriate engine control
+switch is cycled from ON to OFF and back to ON.
+
+ACG-2 D-16
+
+
+
+Text from ACG-2_Propulsion_System_page_23.jpeg:
+Engine Master Switches
+
+The engine master switches are located on the FCP engine control panel
+(Figure D-7) and are covered with green switch guards to prevent
+inadvertent actuation.
+
+DAAZOO
+
+R
+J
+; G
+A
+R M
+T A
+E S
+R T
+E
+a R
+
+ACG-02-07
+
+Figure D - 7. Engine Master Switches.
+
+The switches are two position (ON/OFF) electrical switches. They are
+armed anytime there is a source of electrical power on the aircraft.
+
+ON Opens the airframe-mounted fuel shutoff valve, powers fuel
+transfer pumps and enables JFS/engine coupling.
+
+OFF Closes the airframe-mounted fuel shutoff valve, turns off fuel
+transfer pumps and decouples JFS from the engine.
+
+Airframe-Mounted Fuel Shutoff Valve
+There are two airframe-mounted fuel shutoff valves that are opened and
+
+closed by using either the engine master switches or the engine fire push
+buttons.
+
+D-17 ACG-2
+
+
+Text from ACG-2_Propulsion_System_page_24.jpeg:
+Fuel is boosted out of each of the fuselage fuel tanks, through these
+shutoff valves, to the engines. The valves are physically located outside of
+the engine bays to provide the capability to stop the flow of fuel to the hot
+section of an engine in case of fire. Therefore, closing a shutoff valve does
+not cause the engine to stop immediately since the fuel in the line between
+the valve and the engine must be consumed first.
+
+Vmax Switch
+
+A Vmax switch is located under the FCP left canopy sill (Figure D-8). The
+function of this switch is to provide a 4% increase in thrust and a 4%
+increase in fuel flow at airspeeds in the top end of the envelope. When the
+switch is engaged, with airspeed above Mach 1.1 and full AB selected, the
+DEEC commands a 22°C increase in FTIT and a 2% increase in rpm. The
+purpose of the switch is to provide an extra dash capability in an actual
+combat emergency. Use of the Vmax switch is prohibited under any other
+circumstance.
+
+<xbPSsc
+
+FCP
+
+ACG-02-08
+
+ACG-2 D-18
+
+
+Text from ACG-2_Propulsion_System_page_25.jpeg:
+The switch is guarded and safety wired to the OFF position. Any use of
+this switch requires an aircraft write-up and an engine borescope
+inspection prior to the next flight due to possible overtemp damage in the
+hot section. The Dash 1 contains other operating limits that should be
+noted.
+
+Engine Monitor Display (EMD)
+
+The EMD is a liquid crystal display and is located on the FCP lower main
+instrument panel. It displays all data necessary to monitor engine
+performance (Figure D-9).
+
+ENGINE R
+
+RPM %
+
+TEMP °C
+
+ACG-02-09
+
+Figure D - 9. Engine Monitor Display.
+
+D-19 ACG-2
+
+
+Text from ACG-2_Propulsion_System_page_26.jpeg:
+During engine start, the EMD is blank until the first engine reaches
+approximately 15-17% rpm. At that time, the emergency generator comes
+on line and enables the EMD to display rpm and FTIT only. At
+approximately 56-58% rpm, the main generator comes on line and enables
+the EMD to display all engine data. If, during normal operations, both
+main generators are lost, power for the EMD reverts to the emergency
+generator again and only rpm and FTIT display on the EMD. The EMD
+displays engine data in the following format:
+
+RPM
+
+TEMP
+
+FUEL FLOW
+
+NOZZLE
+
+OIL
+
+Displays compressor/N2 rpm from 0 to 110% in 1%
+increments.
+
+Displays fan turbine inlet temperature (FTIT or Ni
+temp) in degrees Centigrade from 200° to 1400° in
+10° increments.
+
+Displays main engine fuel flow in pounds per hour
+(pph) from 0 to 99,900 in 100 pound increments.
+
+Displays exhaust nozzle position in percent open
+from 0 to 100% in 10% increments.
+
+Displays oil pressure in psi from 0 to 100 psi in 5
+psi increments.
+
+If any engine data exceeds the display range of the EMD, that data
+display goes blank until it returns to within display parameters.
+
+ACG-2
+
+
+Text from ACG-2_Propulsion_System_page_27.jpeg:
+Engine data may also be displayed on an MPD/MPCD by pressing PB #18
+from the menu. This is the only way engine data can be monitored from
+the rear cockpit. Data displayed on the MPD/MPCD will not necessarily
+agree exactly with data displayed on the EMD. The MPD/MPCD display
+will be a little more accurate because the display increments are smaller.
+If any engine data exceeds the display range of the MPD/MPCD, it does
+not go blank as the EMD does, but continues to display the maximum or
+minimum display parameter. If the FTIT exceeds 1000° or the oil
+pressure is less than 8 psi (Figure D-10), the MPD displays the faulty
+parameter boxed and increased in intensity. This change does not appear
+for high oil pressure. Ifa color display has been selected, the parameter is
+displayed in yellow and boxed. If any data signal is invalid or no signal is
+being received, the word OFF is displayed. Cruise data will be covered in
+
+IFIGUGIGIGT
+
+©
+
+ENGINE L
+
+RPM% 93
+TEMP C 920
+FF/PPH 9800
+NOZ POS% 17
+OIL PSI 75
+
+IE
+
+CRUISE DATA
+RANGE NM
+TIME HRS:MIN
+COMMAND ALT KFT
+COMMAND MACH
+
+=
+:
+
+END
+FUEL 800 NM
+
+1200 B
+TIC Lf
+
+Seeee
+
+Figure D - 10. MPD Engine Display with Limits Exceeded.
+
+ACG-02-10
+
+D-21 ACG-2
+
+
+Text from ACG-2_Propulsion_System_page_28.jpeg:
+QUESTIONS
+
+1. Which of the following is true regarding the Vmax switch?
+
+a.
+
+It may be used during single engine operations if required to
+sustain flight.
+
+It is of little use if airspeed is already above 350 KCAS.
+
+It may be used in actual combat if required to chase down an
+enemy aircraft.
+
+Its use is prohibited except in an actual combat emergency where
+extra dash capability is required.
+
+2. Before the main generator comes on line, during engine start, the
+
+EMD will display
+
+a. rpm, FTIT and fuel flow.
+
+b. rpm, FTIT and oil pressure.
+
+c. rpmandFTIT.
+
+d. rpm, FTIT, oil pressure, nozzles and fuel flow.
+
+ACG-2
+
+
+Text from ACG-2_Propulsion_System_page_29.jpeg:
+ANSWERS
+
+D - 238 ACG-2
+
+
+Text from ACG-2_Propulsion_System_page_3.jpeg:
+AIRCRAFT GENERAL
+
+COVER
+
+PROPULSION SYSTEM
+
+INTRODUCTION
+
+This workbook is your guide in studying the F-15E propulsion system. It
+discusses the components, nomenclature and operational characteristics of
+the propulsion system.
+
+CONTENTS:
+
+INTRODUCTION 00. eeeceessneeceeneeeesseeecesaeecseeeesssaeeesesaeesesaeesesaeeens A-1
+CRITERION REFERENCED OBJECTIVES (CROSs)............eeeeeeeeeeeeeeee B-1
+STUDENT PREPARATION REQUIREMENTS ...00.. eee eeeeeeeeeeeees C-1
+TEXT ec eeeccecccessteeeceeesseeeeceessaeeeceesssseeceeessseeeceessaeeesesesaaeeeseeeaeeesene D-1
+END OF PET QUA: cess ces sone sass svn sens anus canis save onen ous sas dois eave sasa sae ants amis cee ass E-1
+GLOSSARY. eeecceesseeeesnceeessaeeceseeecnseeeesaeecesaeeseseaeecesaeesssaeesesaeeens F-1
+
+A-1 ACG-2
+
+
+Text from ACG-2_Propulsion_System_page_30.jpeg:
+Engine Oil System
+
+The F100-PW-220 engine utilizes a fully self-contained oil system. Its
+only function is to lubricate and cool the engine bearings. The main pump
+element is gravity fed. System pressure is unregulated and varies greatly
+with the speed of the engine. For the first minute after engine start, it is
+acceptable to see oil pressure readings from 0-100 psi at idle. After that,
+however, oil pressure must stabilize between 15-80 psi. Oil pressure
+fluctuations of +10 psi are acceptable if the average is within limits. In
+addition, the pressure difference between readings at IDLE and MIL
+power on a given engine must be at least 15 psi, indicating sufficient oil
+volume.
+
+Secondary Power System
+
+Jet Fuel Starter (JFS)
+
+The JFS is a small jet engine used to start the aircraft engines (Figure
+D-11). It provides the only means to start the engines on the ground and,
+once operating, engages one engine at a time through the start sequence.
+Its controls are in the FCP only. It may also be used in flight to perform a
+JFS assisted restart (Dash 1, Section IIT). Fuel is provided by the main
+aircraft fuel system.
+
+JFS
+ACCUMULATORS
+
+ACG-02-11
+
+Figure D - 11. Secondary Power System.
+
+ACG-2 D - 24
+
+
+Text from ACG-2_Propulsion_System_page_31.jpeg:
+JFS ignition and electrical power are provided by a JFS mounted
+generator. Starting power for the JFS is provided by a hydraulic motor
+driven by hydraulic pressure accumulators. These are charged
+automatically by the utility system or manually by a hand pump (Figure
+D-12).
+
+ACCUMULATORS
+
+JFS ACCUMULATOR
+HAND PUMP
+
+GAUGES
+
+UPPER
+ACCUMULATOR
+
+ACCUMULATOR PISTON
+)ewmmm POSITION INDICATOR
+
+LOWER () 40 20 30___40 50 60 70 80 g0___100
+
+ACCUMULATOR
+
+ACG-02-12
+
+Figure D - 12. JFS Accumulator Servicing.
+
+The JFS fuel circuit is energized by the JFS starter switch on the right
+console. It has ON and OFF positions and normally is left ON since the
+JFS automatically shuts down when the second engine reaches
+approximately 40% to 50% rpm. It may be shut down at any time by
+placing the switch OFF. With the switch ON, pulling the JFS handle
+straight out discharges one JFS accumulator. Rotating the handle 45°
+counterclockwise and pulling discharges both accumulators, or the
+remaining accumulator, if one has already been discharged. The handle is
+spring loaded to return to normal. Illumination of the READY light
+indicates the JFS is ready to be engaged.
+
+D-25 ACG-2
+
+
+Text from ACG-2_Propulsion_System_page_32.jpeg:
+Raising either throttle fingerlift engages the JFS to that engine. After the
+second engine starts, the READY light goes out as the JFS automatically
+shuts down (Figure D-13).
+
+-men Ame
+ADMADSAMV
+
+ea ax|
+
+ozm
+DAZOQ
+
+EMERG GEN
+c M
+FF
+
+fo
+Or ISOLATE
+
+_
+
+a,
+
+ap
+fh
+Pod
+Ls)
+<
+
+°o 8
+
+oa Od
+
+io] 2
+a \ |
+
+WL AMADLSAW —!
+
+AmMAg>r=Ee O2M
+mMAor= ozm WD
+
+fe)
+a
+an
+
+ACG-02-13
+
+Figure D - 13. JFS Controls.
+
+Central Gear Box (CGB)
+
+The CGB provides the mechanical connection between the hydraulic motor
+and the JFS during the JFS start. It then provides gearing and clutching
+functions necessary to transmit power from JFS to the left and right
+AMADs for engine start, and then to decouple the JFS from the AMADs
+once the engines come up to speed. Its function is completely automatic
+and cannot be controlled from the cockpit.
+
+ACG-2 D - 26
+
+
+Text from ACG-2_Propulsion_System_page_33.jpeg:
+Airframe Mounted Accessory Drives (AMADs)
+
+The left and right AMAD gear boxes are directly connected to their
+respective engines (Figure D-14). The CGB utilizes this direct connection
+to transmit power from the JFS to the engine during start and, after
+engine start, the direct connection allows the engine to power the AMAD
+accessories. The accessories associated with each AMAD include a utility
+hydraulic pump, a power control hydraulic pump and a main electrical
+generator. The specific functions of these accessories will be covered in
+later lessons, and it will suffice to say here that all aircraft hydraulic and
+electrical functions can be supported from one AMAD if the other engine
+or its associated gear box should fail.
+
+JFS
+ACCUMULATORS
+
+CENTRAL
+GEAR BOX
+(CGB)
+
+DECOUPLER DECOUPLER
+
+LEFT JET FUEL RIGHT
+
+STARTER
+ENGINE
+(JES) ENGINE
+
+ACG-02-14
+
+Figure D - 14. Secondary Power System.
+
+D-27 ACG-2
+
+
+Text from ACG-2_Propulsion_System_page_34.jpeg:
+QUESTIONS
+
+1. The secondary power system consists of
+
+Be op
+
+two hydraulic accumulators, the JFS and two AMADs.
+the JFS, the CGB and two AMADs.
+
+the generators, hydraulic pumps and the JFS.
+
+two JFS accumulators, a hydraulic motor and the JFS.
+
+2. Identify the correct sequence for starting the JFS.
+
+Pull the JFS control handle, rotate the handle 45°
+counterclockwise and place the JFS starter switch to ON.
+Depress the JFS ready light, pull the JFS control handle and
+place the JFS starter switch to ON.
+
+Place the JFS starter switch to ON, pull and release the JFS
+control handle, and wait for the JFS ready light to come on.
+Place the JFS starter switch to ON, rotate and pull the JFS
+control handle, and wait for the JFS LOW caution to go out.
+
+3. Each AMAD is directly connected to its respective engine and
+provides power to
+
+a.
+b.
+
+eo
+
+ACG-2
+
+the central gear box.
+
+a main electrical generator, a utility hydraulic pump and a power
+control hydraulic pump.
+
+charge the JFS accumulators.
+
+start the JFS.
+
+
+Text from ACG-2_Propulsion_System_page_35.jpeg:
+ANSWERS
+
+D - 29 ACG-2
+
+
+Text from ACG-2_Propulsion_System_page_36.jpeg:
+Fire Warning and Extinguishing System
+
+Pneumatically Operated Circuitry
+
+The F-15E incorporates pneumatically operated fire detection circuitry
+that utilizes helium gas. When heated to a predetermined temperature,
+this gas expands enough to trip the fire warning system. Each fire
+detection loop consists of two sensor elements, which are continuously
+compared and averaged against each other to eliminate false fire lights
+caused by a faulty element. Two separate fire detection loops are provided
+for each engine bay and one each for the AMAD and JFS portions of the
+AMAD/JFS compartment.
+
+Fire Extinguisher Bottle
+
+A single fire extinguisher bottle, located in the aft fuselage area between
+the engines, normally provides a one-shot, one-compartment capability of
+extinguishing a fire. However, if more than one FIRE PUSH button is
+pressed, the agent is released to all areas selected. The halon gas in the
+fire bottle is nontoxic, noncorrosive and will not damage aircraft
+components.
+
+ACG-2 D - 30
+
+
+Text from ACG-2_Propulsion_System_page_37.jpeg:
+Fire Lights
+
+Three push button-type fire lights are located on the FCP main
+instrument panel, and two engine fire repeater lights are located in the
+RCP (Figure D-15). These lights come on steady when the temperature in
+the appropriate bay exceeds the limits of the fire detection circuit.
+
+©)
+
+ENG FIRE | [ ENGFIRE || CANOPY FLT MASTER DISPLAY
+CAUT LGEN RGEN || emisumT || FUEL LOW || NUCLEAR ||UNOSED || CHAFF FLARE |] OXYGEN
+
+DISCHARGE
+
+OFF
+
+TEST "A
+AMAD
+
+(FUE |
+aH &
+Fu
+Led
+
++
+
+(|
+
+[2 \()
+Maa
+
+L R
+BURN THRU BURN THRU
+
+FRONT COCKPIT REAR COCKPIT
+
+ACG-02-15
+Figure D - 15. Fire Warning Lights.
+
+A spring loaded metal guard protects the FCP fire push buttons from
+inadvertent actuation. Raising the clip and depressing the AMAD FIRE
+PUSH light arms the fire extinguisher bottle for release into the
+AMAD/JFS compartment. In addition, if the JFS is running, a signal is
+sent to a relay, which closes the fuel valve for the JFS as soon as the
+discharge switch is activated.
+
+Depressing either engine fire light simultaneously arms the fire
+extinguisher bottle for release, and closes the airframe-mounted fuel
+shutoff valve and the bleed air valves. The engine decelerates but may
+continue running below idle rpm for up to 120 seconds until the fuel
+downstream of the airframe-mounted fuel shutoff valve is consumed.
+
+D-31 ACG-2
+
+
+Text from ACG-2_Propulsion_System_page_38.jpeg:
+Depressing any of the FCP fire lights reveals approximately one eighth
+inch of yellow and black stripes around the inside lip of the light housing
+to show activation. Depressing the fire light a second time disarms the
+extinguisher and restores the system to normal operation and appearance.
+
+Electrical power is required to operate the fire warning/extinguishing
+system. If only the JFS is operating then only the AMAD system is
+operative. Once the emergency generator is on line, the engine fire lights
+are operative.
+
+Afterburner Burn-Through Lights
+
+The front cockpit has left and right BURN THRU warning lights to
+indicate a single point burn-through or overtemperature condition in the
+afterburner section. The system is independent of the AMAD/engine fire
+detection system and fire suppression is not provided. The sensing
+elements are located in the center keel area (to protect against engine to
+engine burn-through) and in the left and right empennage boom areas (to
+protect stabilator components). One main generator must be operational
+before the FCP BURN THRU lights and voice warning are operational.
+
+ACG-2 D - 32
+
+
+Text from ACG-2_Propulsion_System_page_39.jpeg:
+Discharge/Test Switch
+
+The discharge/test switch (Figure D-16) is a three-position electrical
+switch that is spring loaded to the OFF position. The discharge switch
+requires the same electrical power as the fire push buttons.
+
+OFF
+
+TEST
+
+DISCHARGE
+
+AMAD
+
+LFUIRE |
+[ lie_|
+
+L ENGINE R
+
++
+
+[> IZ
+[> J
+
+(a
+[> |i
+
+L R
+BURN THRU BURN THRU
+
+ACG-02-16
+
+Figure D - 16. Discharge Test Switch.
+
+Provides normal fire warning.
+
+Checks all fire detection circuitry, lights and voice
+warning. The FCP fire lights are divided into four
+sections with an individual light bulb in each section. The
+top two bulbs of the AMAD light are associated with the
+AMAD fire sensor loop and the bottom two bulbs with the
+JFS fire sensor loop.
+
+D - 33 ACG-2
+
+
+Text from ACG-2_Propulsion_System_page_4.jpeg:
+1. Identify the function and operational characteristics of the six major
+components of the F100-PW-220 engine.
+
+2. Identify the function and the operational characteristics of the DEEC
+and the main fuel control.
+
+3. Identify the function of engine controls and indicators.
+
+4. Identify the operating limits for the engine and engine-associated
+systems.
+
+5. Identify the function and operational characteristics of the variable
+ramps and the air inlet controllers.
+
+6. Identify the basic operational characteristics of the engine oil system.
+
+7. Identify the operational characteristics of the engine secondary
+power system.
+
+8. Identify the operational characteristics of the fire warning/
+extinguisher system.
+
+9. Identify the indications and actions of a normal engine start.
+
+10. Given cockpit indications, identify engine-related malfunctions and
+the initial action required.
+
+REFERENCES
+
+TO 1F-15E-1 Section I Engines, Fire Warning/Extinguishing
+
+CRITERION REFERENCED OBJECTIVES (CROs)
+
+System, Secondary Power System,
+Warning/Caution/Advisory Lights,
+Voice Warning System
+
+Section IT Starting Engines
+
+Section III Starting Emergencies, Engine
+Failure/Fire on T/O, Engine-related
+In-flight Emergencies, Single Engine
+Landing
+
+Section V Engine Limitations, AB Operating
+Envelope, JFS Limitations
+
+ACG-2 B-1
+
+
+Text from ACG-2_Propulsion_System_page_40.jpeg:
+The top bulbs of the engine fire lights are associated with
+the forward (A) transponder loop and the bottom lights
+are associated with the aft (B) transponder loop. Both
+loops run the entire length of the engine bay for
+redundancy.
+
+Failure of any of the pairs of lights to illuminate during
+test indicates failure of the corresponding sensor loop.
+(The aft cockpit engine fire lights contain only two bulbs.
+If either of the sensor loops fail on an engine, the
+associated fire light (RCP) will not illuminate during the
+test.)
+
+DISCHARGE Switch is lever-locked and spring-loaded to the OFF
+position. Momentary contact immediately discharges the
+fire bottle into the selected compartment. If the AMAD
+circuit is selected and JFS is running, fuel flow to the JFS
+is terminated.
+
+Fire Voice Warning
+
+The F-15E incorporates a voice warning system that warns of
+engine/AMAD fire. This feature is activated by the same circuitry as the
+fire lights. The voice warning is repeated twice and not given again,
+unless the condition reoccurs after being corrected. For an engine/AMAD
+fire, the voice states “WARNING, ENGINE FIRE RIGHT,” “WARNING,
+ENGINE FIRE LEFT” or “WARNING, AMAD FIRE.”
+
+Separate from the fire detection circuitry is an engine overtemp voice
+warning that is activated whenever either engine FTIT exceeds 1000°. In
+this case, the voice warning and an abnormal indication on the EMD or
+MPD/MPCD engine display may be your only indications that this
+problem exists. The warning voice states “WARNING OVERTEMP
+LEFT” or “WARNING OVERTEMP RIGHT.”
+
+For a single-point burn-through or overtemperature condition in the
+afterburner section the voice warning states “AB BURN THRU LEFT” or
+“AB BURN THRU RIGHT,” pauses and then repeats the warning again.
+
+ACG-2 D - 34
+
+
+Text from ACG-2_Propulsion_System_page_41.jpeg:
+Cautions and Warnings
+
+An ENGINE caution light is located on both front and rear cockpit caution
+light panels (Figure D-17). The ENGINE caution is a major category light
+and comes on as a result of a detailed caution on your MPD/MPCD. The
+MASTER CAUTION illuminates in conjunction with all engine cautions to
+attract the aircrew’s attention.
+
+@
+(PROGRAM) (CN
+(oar CR
+ENEREST ON) (BSTSYS WAL]
+("NUCLEAR [“FUELLOW
+Cicn— CRN
+
+(LENGINE_] (FLT CONTR }
+
+HYD ("Aver
+(DSPCFLOLO | (~ OXYGEN _}
+(("SPARE__]((_SPARE__]
+(("SPARE___]({__SPARE__]
+
+FRONT COCKPIT
+
+REAR COCKPIT
+
+ENG FIRE ]| ENGFIRE || CANOPY
+RIGHT |]UNLOCKED |] LOW ALT ©
+
+S)
+
+MSTR
+CAUT
+
+ACG-02-17
+
+Figure D - 17. Engine Caution Light.
+
+The engine major category light will NOT go out until the problem that
+caused the light to come on is corrected. There are several fuel, bleed air
+and engine related problems that cause the ENGINE caution light to come
+on, but they will be covered in other lessons. Below are a few engine
+related cautions that trip the ENGINE caution light.
+
+L/R INLET The appropriate air inlet controller has failed.
+
+L/R ENG CONTR The appropriate DEEC has failed.
+
+L/R OIL PRES7S Low oil pressure on the appropriate engine.
+
+FIRE SENSOR The continuously averaging fire detection system has
+detected a faulty fire sensing element.
+
+INLET ICE Ice buildup has been detected by a probe in the left
+intake.
+
+D- 35 ACG-2
+
+
+Text from ACG-2_Propulsion_System_page_42.jpeg:
+QUESTIONS
+1. Testing the AMAD fire detection circuit is first possible
+
+before the JFS is running.
+
+after the first main generator comes on line.
+after the emergency generator comes on line.
+as soon as the JFS comes up to speed.
+
+pe op
+
+2. Testing the engine fire detection circuit is first possible
+
+after the first main generator comes on the line.
+after the emergency generator comes on the line.
+as soon as the JFS comes up to speed.
+
+before the JFS is running.
+
+pe op
+
+3. When the AMAD fire light is depressed with the JFS running, the
+
+a. light goes out.
+
+b. fire bottle is discharged into the AMAD/JFS compartment and fuel
+flow to the JFS is terminated.
+
+c. fire bottle is armed for discharge into the AMAD/JFS compartment
+and fuel flow to the JFS is terminated.
+
+d. fire bottle is armed for discharge into the AMAD/JFS compartment
+and a signal is sent to terminate fuel flow to the JFS when the
+discharge switch is activated.
+
+4. When an engine fire light is depressed and the discharge switch
+activated,
+
+a. the fire bottle is discharged into the appropriate engine
+compartment, but the engine continues to run unless the throttle
+is placed in CUTOFF.
+
+b. fuel flow is terminated forward of the engine bay, bleed air valves
+are closed and the fire bottle is discharged into the appropriate
+engine bay.
+
+c. fuel flow is terminated at the MFC, bleed air valves are opened and
+the fire bottle is discharged into the appropriate engine bay.
+
+ACG-2 D - 36
+
+
+Text from ACG-2_Propulsion_System_page_43.jpeg:
+ANSWERS
+
+D - 37 ACG-2
+
+
+Text from ACG-2_Propulsion_System_page_44.jpeg:
+Air Induction System
+
+The function of the air induction system is to provide air at optimum
+subsonic flow to the face of the engine.
+
+Ramps
+
+A series of four variable ramps and a bypass door (Figure D-18) perform
+this function throughout a wide range of aircraft speeds and
+angles-of-attack. The ramps are referred to as the No. 1 ramp, No. 2
+ramp, No. 3 ramp and the diffuser ramp. All ramps and the bypass door
+are electrically controlled and hydraulically actuated, with the left ramp
+operating off the Utility A circuit and the right ramp operating off the
+Utility B circuit.
+
+FIRST RAMP
+LOW ANGLE OF ATTACK ACTUATOR
+DIFFUSER RAMP
+ACTUATOR
+RAMP 2 RAMP 3 CTUATO
+/ BYPASS DOOR
+
+DIFFUSER
+RAMP PIVOT RAMP
+
+ACG-02-18
+
+Figure D - 18. F-15E Inlets.
+
+The leading edge of the air intake pivots at its lower attachment point and
+constitutes the No. 1 ramp. It provides a variable capture area to
+optimize air flow into the intake throughout the aircraft flight envelope.
+When the aircraft is on the ground with the engines shut down, the No. 1
+ramp is in the full up position. When the generator comes on the line
+(approximately 56-58% rpm during engine start) the ramp moves abruptly
+to the full down position and tends to stay closed to full down during
+ground operations and normal cruise airspeeds. As airspeed is increased,
+
+ACG-2 D - 38
+
+
+Text from ACG-2_Propulsion_System_page_45.jpeg:
+the No. 1 ramp begins to program up, but regardless of speed it moves
+slightly up and down as slight variations in angle-of-attack occur.
+
+The No. 2 and No. 3 ramps are located on the inside, upper surface of the
+air intake, and are visible on preflight. The No. 2 ramp is hinged to the
+No. 1 ramp, and the No. 3 ramp is hinged to No. 2 in such a manner that
+all three ramps move in unison whenever No. 1 ramp is repositioned.
+
+There are hundreds of tiny holes on the inside of the No. 1 ramp and on
+the face of the No. 2 and 3 ramps. These holes bleed off boundary layer
+air and reduce skin friction drag. Bleed off air from the No. 1 ramp spills
+through a port located on the outside of the air intake, and bleed off air
+from the No. 2 and 3 ramps spill through two ports on top of the intake.
+
+The diffuser ramp, the last of the series, is located deeper within the
+intake aft of the No. 3 ramp and is not visible during a normal preflight.
+Although it is hinged to the No. 3 ramp, it remains flush until the aircraft
+reaches .5 Mach. At that time, the ramp begins to program down into the
+airstream to prevent a shock wave from forming in the intake. The ramp
+reaches the full down position at 1.5 Mach.
+
+A bypass door located in the upper surface of the intake works in direct
+correlation with the diffuser ramp. As the diffuser ramp begins to
+program down, the bypass door begins to program open to provide a
+spillway for air diverted by the diffuser ramp. This air, as well as the
+boundary layer air bled off of ramps 1, 2 and 3, is diverted directly into the
+outside airstream and has nothing to do with the engine bypass air used
+for production of thrust.
+
+Air Inlet Controller (AIC)
+
+An AIC is provided for each side of the aircraft to program movement of
+the ramps based upon inputs from three probes located in front of the air
+intakes. The specific functions of these three sensors are to measure
+angle-of-attack, temperature and airspeed. The inputs from the three
+probes are sensed by the AIC and an output stimulus is provided to the
+first ramp and the diffuser ramp hydraulic actuators. A fourth AIC
+sensing device is a pitot probe located inside the air intake duct. Its
+function is to measure inlet duct pressure. The signal from this probe is
+fed to the AIC for the movement and control of the bypass door. The AIC
+receives feedback signals from the ramps and bypass door indicating their
+actual position. Any difference between actual position and the position
+that has been programmed is immediately corrected by the AIC.
+
+D - 39 ACG-2
+
+
+Text from ACG-2_Propulsion_System_page_46.jpeg:
+Inlet Ramp Switches
+
+Inlet ramp switches for each inlet are located on the miscellaneous control
+panel in the front cockpit (Figure D-19). These are two position, lever lock
+electrical switches with positions labeled AUTO and EMERG.
+
+AUTO With the switch in the AUTO position, the AIC
+automatically controls the air inlet system. This is the
+normal position.
+
+EMERG With the ramp switch in the emergency position, electrical
+power is removed from the ramps and the bypass door
+actuators. The variable ramps are hydraulically locked up
+and the bypass door is closed. If hydraulic pressure fails,
+normal airloads force the ramps and bypass door to the
+emergency position.
+
+PULSER
+
+INLET RAMP
+
+EMERG
+
+<a
+© cer
+
+[e)
+[e)
+{e)
+
+si
+c)
+
+o\?
+20/0
+
+808
+
+al
+
+FCP
+
+ACG-02-19
+
+Figure D - 19. Inlet Ramp Switches.
+
+ACG-2 D - 40
+
+
+Text from ACG-2_Propulsion_System_page_47.jpeg:
+QUESTIONS
+The AICs receive inputs that measure: airspeed,
+
+fuel flow, angle-of-attack and FTIT.
+
+angle-of-attack, FTIT and inlet duct pressure.
+
+throttle position, angle-of-attack and inlet duct pressure.
+angle-of-attack, total air temperature and inlet duct pressure.
+
+pe op
+
+Placing one of the ramp switches to the EMERG position moves the
+
+associated ramp to the position and the bypass door :
+a. full down, closed
+
+b. up and locked, open
+
+c. up and locked, closed
+
+d. full down, open
+
+D-41 ACG-2
+
+
+Text from ACG-2_Propulsion_System_page_48.jpeg:
+ANSWERS
+
+ACG-2 D - 42
+
+
+Text from ACG-2_Propulsion_System_page_49.jpeg:
+OPERATING LIMITATIONS
+
+Engine limitations are shown in Table D-1.
+
+GROUND
+CONDITION FTITC RPM% OIL PSI REMARKS |
+Start | Note 5
+
+has | | |
+Military/AB ss} a 30-80 Notes 2, 5, 6, 8 and 9
+
+Transient 970 30-80 Notes 2, 5, 8 and 10
+
+Fluctuation +10 +1 +10 Notes 2, 3, 4 and 6
+FLIGHT
+
+CONDITION FTITC RPM% OIL PSI REMARKS
+
+Airstart
+
+a
+Military/AB 2a 30-80 Notes 1, 2 and 7
+
+Transient 30-80 Notes 2 and 11
+
+Table D - 1. PW-220 Engine Limitations.
+
+1. Use of the Vmax switch is prohibited.
+
+2. FTIT and rpm limitations include fluctuations.
+
+3. In phase fluctuation of more than one instrument, or short term cyclic
+fluctuations accompanied by thrust surges, indicate engine control
+
+problems.
+
+4. Nozzle fluctuations are limited to +2% at military power and above.
+Fluctuations are not permitted below military power.
+
+5. Any oil pressure from 0 to 100 (pegged) psi is acceptable during start
+
+and initial operation for a period not exceeding 1 minute after
+reaching idle.
+
+D - 43 ACG-2
+
+
+Text from ACG-2_Propulsion_System_page_5.jpeg:
+STUDENT PREPARATION REQUIREMENTS
+BEFORE CLASS
+
+1. Study the information contained in this workbook and complete the
+quiz.
+
+2. Read references in Sections I, I, III and V of TO 1F-15E-1.
+
+C-1 ACG-2
+
+
+Text from ACG-2_Propulsion_System_page_50.jpeg:
+6. Oil pressure fluctuations of +10 psi are acceptable if the average is
+within limits.
+
+7. At less than 0 G, oil pressure may drop as low as 0 psi.
+
+8. For engine operation at military or above, oil pressure must increase
+15 psi minimum above idle oil pressure.
+
+9. Engine nozzle position is limited to 30% open or less at military
+power.
+
+10. Maximum temperature limited to 30 seconds.
+
+11. Maximum temperature limited to 10 seconds.
+
+ACG-2 D - 44
+
+
+Text from ACG-2_Propulsion_System_page_51.jpeg:
+Airspeed and Afterburner Operating Envelope
+
+The airspeed and afterburner operating envelope is shown in Figure D-20.
+
+70
+60
+AIRSPEED
+LIMIT
+fy 50
+Lu
+LL
+8 40
+=
+Lu 30 ES
+Q CFT AIRSPEED LIMIT I?
+=) S23
+FE Uys
+F 20 25
+mel
+< tas
+8
+10 ys
+P > ‘Oo ‘8 70 72 “9
+0 100 200 300 400 500 600 700 800 900 1000
+VELOCITY - KNOTS (CAS)
+ACG-02-20
+Figure D - 20. PW-220 Engine AB Operating Envelope.
+NOTE:
+Region 1: DEEC limits initiation of AB to segments 1-4.
+Segment 5 is blocked.
+Region 2: DEEC limits AB to segment 1 or blocks segment
+sequencing.
+
+D- 45 ACG-2
+
+
+Text from ACG-2_Propulsion_System_page_52.jpeg:
+Jet Fuel Starter (JFS)
+
+Start-to-ready-light time: 10 seconds maximum (15 seconds
+if temp below 0°F).
+Starter engagement time: 90 seconds maximum (150 seconds
+
+if hot start occurs).
+
+Time between starter engagements: 10 seconds minimum from time the
+first engine is at IDLE (20 seconds
+if the first engagement time
+exceeds 90 seconds).
+
+NORMAL ENGINE START
+Before Start
+
+Before starting engines verify proper switch settings. The engine master
+switches, engine control switches and JFS switch should be ON. The
+ramp switches should be in AUTO. Also, ensure both throttles are in the
+OFF position. Clear the intake area and signal the crew chief that you are
+about to start the JFS. This signal is a pulling motion, just as if you were
+pulling the JFS handle. The crew chief should clear the area around the
+JFS exhaust and give you a thumbs-up signal when all is clear.
+
+You cannot monitor the JFS during its start cycle, but you can hear it. As
+you gain experience, you should be able to detect abnormal performance.
+The EMD is available to monitor the rpm and FTIT after the emergency
+generator comes on line at approximately 15-17%. The rest of the engine
+indications are inoperative until a main generator comes on at about
+56-58%.
+
+JFS Start
+
+JFS handle-pull and release. You hear the JFS start and wind up to idle
+speed (ready light comes on within 10 seconds). The intercom works and
+the AMAD fire detect circuit is operational. Test the circuit by
+momentarily placing the discharge/test switch in the TEST position. The
+AMAD light illuminates and voice warning is activated.
+
+ACG-2 D - 46
+
+
+Text from ACG-2_Propulsion_System_page_53.jpeg:
+Engine Start
+
+The right engine is normally started first to check the right utility pump
+pressure. Before starting the engine, notify the crew chief on the
+intercom. Once the crew chief gives you the all-clear, raise and release the
+right throttle fingerlift. This engages the JFS to the right engine. JFS
+engagement is indicated by an audible decrease in JFS whine followed
+immediately by an increase in pitch before engagement.
+
+Engine rotation is apparent within approximately 5 seconds. The engine
+fire detect circuit is operational when RPM and FTIT indications appear
+on the EMD. Test the circuit by momentarily placing the discharge/test
+switch in the TEST position. All three fire lights illuminate and the voice
+warning activates.
+
+When rpm reaches 20%, place the throttle to IDLE. The JFS continues to
+accelerate the engine until light-off occurs or a steady state windmill
+(23-30%) is achieved. Light-off normally occurs 10 seconds after throttle
+advancement, but it can take up to 30 seconds. A normal start is
+indicated by rpm acceleration occurring before initial FTIT movement.
+The JFS helps accelerate the engine through approximately 40-50% and
+then it automatically decouples. At approximately 56-58%, the right main
+generator comes on line, the right ramp moves to the down position, full
+engine data is presented on the EMD, and the MASTER CAUTION and
+caution light panel illuminate. The engine continues to accelerate to idle
+(approximately 60-70% rpm). The EMER BST ON caution comes on when
+the first generator comes on line. This indicates that both the emergency
+generator and the emergency boost pump are operating properly. Thirty
+seconds after the main generator comes online, the BST SYS MAL caution
+comes on as the emergency generator cuts off. This indicates that the
+emergency fuel boost pump is powered by an abnormal source. Ensure
+that the activation of these caution lights occurs in the correct order and
+at the correct time.
+
+The procedures for starting the left engine are the same as the right, only
+you can monitor the engine instruments throughout the start.
+
+D - 47 ACG-2
+
+
+Text from ACG-2_Propulsion_System_page_54.jpeg:
+After Start
+
+Confirm JFS shutdown with the crew chief. The JFS automatically
+decouples when the second engine reaches approximately 40-50%. Ensure
+that it shuts down with the JFS switch in the ON position. The crew chief
+also confirms good ECS airflow on both engines. Check that the ECS
+caution light is out in the cockpit. Check that the JFS LOW caution goes
+out before you clear the crew chief off.
+
+CAUTION
+
+To prevent possible failure of the CGB
+shear section, the ENG CONTR switch
+position should not be changed during a
+start. The switch may be positioned to
+the desired setting 90 seconds after
+advancing the throttle to IDLE.
+
+The last engine check accomplished is before brake release, commonly
+called the 80% check. Holding the brakes, advance the throttles to 80%
+RPM and look for the following indications: 80% RPM, 600°C FTIT, 4000
+lbs fuel flow, 20% open nozzles and 40 psi oil pressure (the 8-6-4-2-4 rule
+of thumb). These are not hard and fast numbers, but you should see
+approximately these indications. The key factor is for both engines to look
+the same. After brake release at MIL power, quickly check for at least a
+15 psi increase in oil pressure above idle and that the nozzles are below
+30% open. Checking that the nozzles are below 30% ensures that the
+start bleed air bands are correctly closed.
+
+ACG-2 D - 48
+
+
+Text from ACG-2_Propulsion_System_page_55.jpeg:
+MALFUNCTIONS
+
+Starting Emergencies
+
+JFS Ready Light Does Not Come On
+
+If you do not have a JFS ready light within 10 seconds, but the JFS
+sounds normal and the AMAD fire light tests normally, then the JFS light
+may be inoperative and the start continued. However, the JFS ready light
+is necessary to monitor JFS operation while airborne, so have the light
+bulb replaced. (The takeoff trim light may be used as a temporary
+replacement.)
+
+If the problem is not the light, cycle the JFS switch and ensure that it is in
+the ON position. Also, have the crew chief check for any apparent
+abnormalities. If everything appears normal, wait 30 seconds and try
+another JFS start using the second accumulator.
+
+JFS Fails to Engage or Abnormal Engagement/Disengagement
+
+The first indication that the JFS has failed to engage is no decrease in
+JFS whine after the fingerlift has been raised. The most likely causes are
+the throttles not full off, dirty switch contacts, master switches not on, an
+electrical malfunction or low CGB servicing. Ensure the throttles are full
+OFF, cycle the engine master and raise the fingerlift again. If still no
+engagement, turn the master switches off and do not attempt another
+start.
+
+Once the JFS has engaged (JFS whine decrease) any abnormal sound or
+other indication requires immediate JFS shutdown. Shut the throttle off,
+turn off the engine master switch and the JFS switch, and give the
+aircraft back to maintenance.
+
+Abnormal Engine Start
+
+Anytime the engine fails to light-off within 30 seconds after advancing the
+throttle to IDLE, you should place the throttle to OFF and allow the JFS
+to windmill the engine for 10 seconds to eliminate any fuel that has
+accumulated in the engine during the start attempt. Another start may
+be attempted.
+
+D - 49 ACG-2
+
+
+Text from ACG-2_Propulsion_System_page_56.jpeg:
+If a light-off is obtained, but the engine does not accelerate normally to
+IDLE, abort the start by placing the throttle to OFF, the engine master
+switch OFF, and the JFS switch OFF, and complete engine shutdown
+procedures.
+
+If a light-off is obtained and the engine continues to accelerate above
+IDLE, it may be due to a malfunctioning MFC or Nz sensor, or the throttle
+may not be connected to the MFC. In any case, every attempt should be
+made to cut off fuel to the engine as quickly as possible. Place the throttle
+to OFF, press the engine fire light, turn the engine master switch to OFF,
+turn the JFS switch off and abort.
+
+When making a normal start, the DEEC directs the MFC to supply lean
+fuel flow until 30 seconds after the main generator comes on-line. If the
+engine's start schedule is too rich or the engines starting stall margin is
+too low, a hot start can occur. You may be able to detect an impending hot
+start and shut the engine down before the FTIT starting limit of 680°C is
+exceeded. The following are indications that the engine will probably
+overtemp if the start is continued:
+
+RPM acceleration simultaneous with or after initial FTIT movement
+FTIT above 500°C with rpm below 40%
+
+FTIT rising rapidly through 580°C
+
+RPM stops increasing then decreases while FTIT is stable or increases
+
+In any of these cases, you should place the throttle to OFF and allow the
+JFS to windmill the engine until it cools. If the JFS has already
+disengaged, allow the engine to wind down below 30% before reengaging
+or you will probably shear a starter shaft.
+
+If FTIT did not exceed 680°C, you may attempt another start after
+windmilling the engine below 200°C for 10 seconds. Positioning the air
+source knob to the engine being started increases the quantity of air being
+bled from that engine, thereby increasing its stall margin and should
+result in a cooler start. Return the air source knob to BOTH upon
+reaching idle.
+
+ACG-2 D- 50
+
+
+Text from ACG-2_Propulsion_System_page_57.jpeg:
+If FTIT does exceed 680°C, windmill the engine as much as practicable,
+place the master switch to OFF, shut down the JFS and abort the
+airplane.
+
+Engine Fire During Start (with Fire Light On and/or Voice Warning)
+
+An engine fire is indicated by an illuminated engine fire light and/or a
+voice warning of engine fire. In this case, press the fire warning light to
+close the bleed air and airframe-mounted fuel shutoff valves. Place the
+throttle(s) to OFF, discharge the fire extinguisher, place the engine
+master switches to OFF, shut down the JFS and exit the aircraft.
+
+AMAD Fire During Start
+
+AMAD/JFS fires are indicated by illumination of the AMAD fire light,
+activation of the voice warning system, or ground crew notification. Push
+the AMAD fire light, discharge the fire extinguisher, place the throttles
+OFF, place the engine master switches OFF, turn the JFS switch OFF
+and exit the aircraft. Additional ground fire extinguishers may be
+required if the fire does not go out immediately.
+
+Takeoff Emergencies
+
+Engine Failure on Takeoff
+
+Abnormal noises, airframe or throttle vibrations and a noticeable loss of
+thrust generally accompany an engine failure. Depending on type of
+failure, it may or may not be preceded by caution/warning displays.
+Amount of thrust remaining definitely affects your decision to abort or
+takeoff.
+
+If takeoff is continued, use a reduced pitch attitude in the climb. If AB use
+on the good engine is necessary, use only enough to maintain safe flight.
+
+Afterburner Failure
+
+When making a max power takeoff, the nozzle position and fuel flow
+should be closely monitored to ensure full AB is achieved. Throttles
+should be advanced smoothly and continuously to full power without
+pausing at MIL or attempting to track AB segmenting. Proper sequencing
+through the five segments can be felt as the nozzles progressively step
+open. The initial nozzle movement is not as important as how it continues
+to open after reaching midrange.
+
+D-51 ACG-2
+
+
+Text from ACG-2_Propulsion_System_page_58.jpeg:
+If the sequencing slows, stops or reverses when reaching 30-50% open, it
+indicates the AB is not lighting properly and the nozzle is closing to
+control fan speed. Abnormal nozzle opening may be accompanied by
+illumination of the MASTER CAUTION, ENGINE lights and the ENG
+CONT caution. The DEEC automatically sequences the system and
+makes up to three attempts to relight the AB. If the ENG CONT caution
+is on, you may try recycling the ENG CONTR switch and ensure that it is
+in the ON position. If the DEEC is unsuccessful in obtaining a light-off
+within 12 seconds, recycle the throttle to MIL or below before attempting
+further relights.
+
+Engine Fire on Takeoff
+
+Indication is activation of the fire warning light and/or voice warning.
+
+If you decide to abort, push the fire warning light. If the light does not go
+out, place the throttle to OFF and discharge the fire extinguisher.
+
+If you decide to continue the takeoff, do not retard the throttle until
+reaching a safe altitude. Once safely airborne, the throttle should be
+retarded to IDLE and treated as a fire in flight.
+
+In-Flight Emergencies
+
+Inlet Caution On
+
+L INLET or R INLET cautions come on in conjunction with the MASTER
+CAUTION and ENGINE lights. This indicates failure of an AIC, improper
+position of the ramp, or a diffuser ramp that did not function at the
+appropriate Mach. Failure of an AIC may affect the DEEC and some
+features in the flight control system. You also see this caution in
+conjunction with certain utility hydraulic malfunctions, which you will
+learn about in later lessons.
+
+Check to ensure that the appropriate inlet switch(es) is/are in the AUTO
+position. If the indication occurs with the switch in the AUTO position,
+place the appropriate switch to EMERG and reduce speed to subsonic, but
+do not retard throttle to below MIL at speeds above Mach 1.0. Limit
+maneuvering to +4.0 to -1.0 G at airspeeds between .95 and .99 Mach.
+You do not have an inlet caution indication with the inlet switch(es) in the
+EMERG position unless the ramps fail to move to the full up and locked
+position, with the diffuser ramp locked up and bypass door closed.
+
+ACG-2 D - 52
+
+
+Text from ACG-2_Propulsion_System_page_59.jpeg:
+Illumination of the ROLL RATIO and possible RUDR LMTR cautions
+along with a failure of the engine RPM to decrease as the throttle is
+moved to idle is a probable indication of an AIC malfunction. If this
+occurs, reduce airspeed to below Mach 1 and turn the engine control
+switch off.
+
+Oil System Malfunction
+
+Illumination of the MASTER CAUTION and ENGINE lights accompanied
+by an OIL PRESS LOW caution only occurs with low oil pressure. Other
+oil system malfunctions, such as excessive fluctuations or high oil pressure
+will only be noted by reference to the EMD or the engine display on an
+MPD/MPCD.
+
+If such indications occur, place the bad engine in IDLE to see if pressure
+can be maintained above 8 or below 100 psi. If not, shut the engine down
+(conditions permitting) and make a single engine landing as soon as
+practicable.
+
+Engine Control Malfunction
+
+Illumination of the MASTER CAUTION and ENGINE lights along with
+an L/R ENG CONTR caution displayed on the MPD/MPCD indicate that
+the DEEC has lost one or more of the signals required for it to operate
+properly and/or it has switched to secondary mode (MFC scheduling
+engine variables). If the L/R ENG CONTR caution is on and the
+accompanying nozzle indication is less than 5%, assume that the engine is
+operating in the secondary mode. Afterburner operation is inhibited and
+80-100% of normal military thrust is available.
+
+If supersonic, retard throttle to MIL and slow to subsonic. When subsonic,
+set throttle to match actual engine operating parameters set by the MFC
+(this will be between 80-85% rpm), and cycle the engine control switch ON
+to OFF to ON. With the ENG CONTR switch ON and the ENG CONTR
+light on, the engine may still be operating in the primary control mode.
+This condition may provide improved operation over the secondary mode.
+However, if engine operation is unsatisfactory, place the engine control
+switch OFF and land as soon as practical. Gear down idle thrust will be
+greater than normal. After landing, shut down the engine to reduce taxi
+speed (if required).
+
+D - 53 ACG-2
+
+
+Text from ACG-2_Propulsion_System_page_6.jpeg:
+(This Page Intentionally Blank)
+
+ACG-2 C-2
+
+
+Text from ACG-2_Propulsion_System_page_60.jpeg:
+Engine Fails to Respond to Throttle Commands
+
+If an engine is stuck at MIL or above, placing the appropriate engine
+control switch off will provide 80-100% MIL thrust. If the engine is stuck
+above idle, approach speeds and landing rollouts may be excessive due to
+the extra thrust. Shutdown of the nonresponsive engine may be required.
+If the throttle does not shut down the engine, try the appropriate engine
+fire light. The engine may overtemp if the fire light is used to shut down
+the engine. Be prepared for flight control transients as the engine winds
+down to 0 rpm.
+
+Nozzle Failure
+
+The cockpit nozzle indicator indicates nozzle control unit commands, not
+actual nozzle position. It is possible for the nozzle to fail open or closed
+and still have normal cockpit indications. Engine stall when selecting
+afterburner may be an indication of a nozzle failed closed. Gear down idle
+thrust will be greater than normal with the nozzle failed closed. A loss of
+thrust and lower than normal FTIT and rpm at MIL may be an indication
+of a nozzle failed open or missing. If the nozzle is failed closed, leave
+engine control switch on and do not exceed MIL power. If the nozzle is
+failed open or missing, leave the engine control switch on and place the
+affected throttle to idle. The throttle should remain at idle unless
+required to maintain flight. An auto-transfer to secondary mode may
+occur and FTIT may exceed limits with the throttle at MIL. Engine
+operation above 850° C FTIT may cause engine failure when operating in
+secondary mode with a nozzle failed open or missing. If required to
+maintain flight, maximum thrust can be achieved by advancing the
+throttle to MIL power in secondary mode.
+
+AMAD Failure
+
+AMAD failure is indicated by simultaneous loss of the entire PC system,
+the utility pump and the generator on the same side. This is accompanied
+by illumination of the MASTER CAUTION, HYD and generator lights,
+with the appropriate cautions displayed on the MPD/MPCD.
+
+The operating AMAD is sufficient to operate all system requirements;
+however, you should reduce electrical requirements as much as possible to
+reduce the load on the good generator. In addition, the appropriate
+throttle should be placed in IDLE to limit any further damage, and you
+should discontinue your mission and land as soon as practicable.
+
+ACG-2 D- 54
+
+
+Text from ACG-2_Propulsion_System_page_61.jpeg:
+Double AMAD Failure
+
+Kyject!
+
+AMAD Fire In Flight
+
+Indications of an AMAD fire are illumination of the AMAD fire light and
+activation of the voice warning. It may also be accompanied by electrical
+problems or abnormal electrical indications.
+
+Most probable cause of an in-flight AMAD fire is a generator malfunction.
+If you are already experiencing problems with one of the generators,
+simply turning that generator OFF may eliminate the AMAD fire. If not,
+push the AMAD fire light, discharge the fire bottle and land as soon as
+conditions permit. If the fire persists, switch the emergency generator to
+MANUAL and turn one generator OFF at a time and try to locate the
+generator causing the fire. As with an engine fire, always test the circuit
+if the fire light goes out to ensure that the circuit is still working and has
+not simply been burned through.
+
+Engine Stall/Stagnation
+
+Most stalls are associated with afterburner use. They are normally
+accompanied by an audible pop, bang or thud, but may occur without
+audible warning. This may be your only indication that a stall has
+occurred since most stalls are self-clearing or cleared by DEEC logic.
+
+More severe stalls/stagnations are indicated by rapidly increasing FTIT,
+decreasing rpm, opening nozzles and lack of throttle response. If your
+attention is focused outside the cockpit, and no audible indication is noted,
+your first indication may be a MASTER CAUTION, ENGINE light, along
+with GEN OUT and EMER BST ON caution displays.
+
+D-55 ACG-2
+
+
+Text from ACG-2_Propulsion_System_page_62.jpeg:
+The throttle should be rapidly chopped to MIL if in AB and then to IDLE
+if the stall does not clear. If you were not operating in AB when the stall
+occurred, chop the throttle to IDLE right away. Check the engine heat
+switch off. If FTIT cannot be controlled, shut down the engine and
+perform an airstart. If FTIT has not exceeded 1000°C, normal engine
+operation limits apply. If FTIT exceeded 1000°C, the engine may be
+restarted to provide redundant hydraulic and electrical power, but you
+should terminate the mission, leave the throttle in IDLE (unless needed
+for safe flight) and return to base. Stalls may also be caused when the
+ENG HEAT switch is on. The mission may be continued with the switch
+OFF, if conditions permit. However, if subsequent stalls occur, follow
+normal stall procedures and land as soon as practical.
+
+Restart
+
+In the F-15E, fuel and ignition are continuously available when the
+throttles are at IDLE or above. Restarts are generally required only
+because an engine has been shut down for some reason. If an engine must
+be shut down, a spooldown restart (rpm 30-50%) results in the fastest
+restart. If rpm is allowed to unwind to 12% or below, high airspeeds (up
+to 450 KCAS) may be required to accelerate the engine, or a JFS air start
+may be required. If the rpm drops below 12%, the DEEC may transfer to
+the secondary control mode and the ENG CONTR caution may come on.
+Once rpm increases above 12%, the DEEC will resume primary control
+and the caution will go out if the engine control switch was left on.
+
+Indications of a normal airstart are similar to a ground start, except that
+you may notice FTIT decrease after it increases several times before the
+engine reaches IDLE rpm. In addition, it may take 2 minutes to achieve a
+successful start above 35,000 feet and at slow airspeeds. An unsuccessful
+restart is indicated by a steady decrease in rpm or FTIT increasing
+through 800°C with rpm hung or decreasing. Consider a secondary mode
+(SEC) start (ENG CONTR switch OFF). Start procedures for a primary or
+secondary start are the same; however, a higher airspeed is required for
+secondary starts. Restart time for a secondary start ranges from 30
+seconds at sea level to 60 seconds above 30,000 feet.
+
+ACG-2 D - 56
+
+
+Text from ACG-2_Propulsion_System_page_63.jpeg:
+Double Engine Stall/Stagnation/Failure
+
+If altitude permits, immediately lower the nose to maintain/achieve 350
+knots. Check FTIT and rpm to determine whether the engines are flamed
+out or stagnated. If they are flamed out, rpm and FTIT decrease equally.
+If they are stagnated, rpm decreases while FTIT increases. If the
+flameouts are caused by fuel starvation, they may restart. If the engines
+are stagnated, they must be shut down and restarted. Check engine heat
+switch off. Shut down the right engine first unless FTIT exceeds 1000°C.
+If 1000°C is exceeded, shut down the engine with the lower FTIT. Your
+most immediate concern is to maintain enough airspeed to keep the
+engines windmilling fast enough to produce hydraulic pressure to the
+flight controls. A single engine at about 18%, or both engines at 12%, will
+power the flight controls and emergency generator. This requires an
+airspeed of approximately 350 KCAS, which can be maintained with a
+10° dive. At much slower speeds, a momentary steep dive may be
+required to rapidly attain 350 KCAS. Once steady state rpm is
+established, excessive airspeed/dive angle reduces time available for
+restart.
+
+You can expect the engine left in stagnation to be extensively damaged
+and may not restart if temperatures are above 1000°C. Therefore, do not
+shut down the second engine until a restart is indicated on the first
+engine. If imminent loss of control is indicated by loss of the emergency
+generator and/or PC system dropping to 0-EJECT.
+
+D-57 ACG-2
+
+
+Text from ACG-2_Propulsion_System_page_64.jpeg:
+JFS Assisted Restart
+
+The JFS may be used to assist an airstart attempt when other attempts
+have failed or are considered impractical. This procedure takes more time
+than a normal restart attempt; therefore, consideration should be given to
+the safe ejection envelope prior to starting the procedure. In addition, the
+jettison of anything on the centerline may be required because it disrupts
+airflow to the JFS at most altitudes and airspeeds, and severely restricts
+the envelope in which the JFS can be started successfully (Figure D-21).
+
+ALTITUDE - 1000 FEET
+
+PROBABLE HOT STAR
+
+LEGEND
+[_] CLEAN CENTERLINE ONLY
+
+i CLEAN CENTERLINE OR
+CENTERLINE PYLON INSTALLED
+(WITH OR WITHOUT STORES)
+
+DUE TO POSSIBLE MAIN ENGINE
+* HOT START, JFS ASSISTED ENGINE
+START NOT RECOMMENDED 0 100 *200 300 400 500
+
+BELOW 200 KNOTS AIRSPEED - KCAS
+
+ACG-02-21
+
+Figure D - 21. JFS Assisted Restart Envelope.
+
+Maintain one engine at 18% or above (even in stagnation) throughout the
+procedure to power flight controls and the emergency generator. Start the
+JFS just as in the ground start procedure. If either engine is to be shut
+down with the JFS running, release the fingerlift before reaching the
+CUTOFF position, and use care not to engage the JFS to an engine
+rotating above 30% rpm since this will probably shear the starter shaft.
+When starting the engine, place the throttle to MID RANGE rather than
+to IDLE to allow a smooth and continuous acceleration to a useful power
+setting.
+
+ACG-2 D - 58
+
+
+Text from ACG-2_Propulsion_System_page_65.jpeg:
+Engine Fire In Flight
+
+Engine fire is normally indicated by illumination of a fire warning light,
+activation of the voice warning, muffled thumps, vibrations and/or erratic
+engine data readings. Due to the location of the fire sensor loops, fire in
+the aft portion of the AB or nozzles may not be detected by the engine fire
+warning system. In this case, you may get the L(R) BURN THRU light
+and voice warning, which should extinguish in 30 seconds after placing
+the throttle to IDLE.
+
+Reducing the throttle to IDLE often causes the fire to go out within a few
+seconds. If the fire light goes out, test the fire circuit to ensure it is still
+working and, if so, leave the throttle in IDLE and land as soon as
+conditions permit.
+
+If the initial throttle reduction is not effective, push the fire warning light
+to cut off fuel flow outside the engine bay, place the throttle to OFF to
+shut off fuel flow at the engine, and then discharge the fire bottle. Once
+again, any time the fire light goes out, test the warning system and
+continue to monitor other fire indications while attempting to get the
+aircraft on the ground as soon as practicable.
+
+Afterburner Burn-Through
+
+If the left or right afterburner burn-through lights come on/the voice
+warning is heard, retard the throttles to MIL or below.
+
+Single Engine Operation
+
+The aircraft has excellent single engine handling characteristics. Best
+single engine cruise is approximated by climbing at 250 KCAS until rate
+of climb stops. Accelerate to 0.6 Mach in MIL and then cruise climb as
+fuel weight decreases. Refer to single engine landing.
+
+D-59 ACG-2
+
+
+Text from ACG-2_Propulsion_System_page_66.jpeg:
+Landing Emergencies
+
+Single Engine Operation
+
+System redundancy allows the aircraft to operate normally on a single
+engine, and sufficient power is available for flight. However, to avoid
+relying totally on one system for electrics and hydraulics, consider leaving
+the bad engine at IDLE if it is feasible and safe. Some yawing moment is
+evident during single engine operation, which becomes more pronounced
+at higher power settings. Therefore, avoid situations that would require
+high thrust settings on the operating engine.
+
+When you study hydraulics, you will learn about the operation of the
+hydraulic switchover valves that provide system redundancy for flight
+control operation. For now, if operating with a windmilling engine,
+monitor hydraulic pressure and avoid flying at an airspeed that produces
+fluctuations between 800-2000 psi. It is in this range that the hydraulic
+switchover valves operate. If allowed to fluctuate back and forth, it may
+produce repeated flight control transients, reduced control sensitivity,
+momentary split flaps and CAS disengagements.
+
+ACG-2 D - 60
+
+
+Text from ACG-2_Propulsion_System_page_67.jpeg:
+QUESTIONS
+
+Analyze the following malfunctions:
+
+1.
+
+Indication: While starting the right engine, it stabilizes momentarily
+at 23% rpm and then FTIT begins to increase followed by increasing
+
+rpm.
+
+a. Analysis:
+b. Effects:
+ec. Action:
+
+Indication: After initiating full AB, a muffled thump is heard and you
+
+notice the following:
+
+L
+63% and decreasing
+980° and increasing
+80% and increasing
+
+a. Analysis:
+b. Effects:
+ec. Action:
+
+Engine
+RPM
+FTIT
+
+Nozzle
+
+R
+96% and stable
+910° and stable
+95% and stable
+
+ACG-2
+
+
+Text from ACG-2_Propulsion_System_page_68.jpeg:
+3. Indication: Assume both throttles are at MIL and the right engine
+control caution is on.
+
+ENGINE
+
+RPM %
+
+ENGINE L TEMP °C
+
+FF
+PPH
+
+RPM% 93
+TEMP C 920
+FF/PPH 9800
+NOZ POS% 15
+OIL PSI 75
+
+CRUISE DATA
+RANGE NM 900
+TIME HRS:MIN 2:14
+COMMAND ALT KFT 30
+COMMAND MACH 0.75
+
+OIL PSI
+
+END
+FUEL
+
+oo
+
+ACG-02-22
+
+Figure D - 22.
+
+a. Analysis:
+b. Effects:
+ec. Action:
+
+ACG-2 D - 62
+
+
+Text from ACG-2_Propulsion_System_page_69.jpeg:
+4.
+
+Indication:
+
+DISCHARGE
+
+TEST
+
+AMAD
+
++
+
+(2 |
+i
+(+)
+
+ENGINE
+RPM %
+TEMP °C
+FF
+PPH
+NOZ
+POS
+
+%
+
+OIL PSI
+
+R
+
+L ENGINE R
+i
+
+CE) eile =
+SB amcor!” |
+
+R
+BURN THRU
+
+"WARNING, ENGINE FIRE, RIGHT!"
+
+"WARNING, ENGINE FIRE, RIGHT!"
+
+Figure D - 23.
+a. Analysis:
+b. Effects:
+Action:
+If light goes out:
+If light does not go out:
+D - 68
+
+ACG-02-23
+
+ACG-2
+
+
+Text from ACG-2_Propulsion_System_page_7.jpeg:
+TEXT
+INTRODUCTION
+
+The F-15E (prior to tail number 90-0233) is powered by two Pratt and
+Whitney F100-PW-220 turbofan engines. This lesson will mostly cover the
+F100-PW-220 engine (sometimes called PW-220 or just -220). Kach
+engine produces 14,500 pounds of thrust in MIL and 24,000 pounds of
+thrust in MAX AB. The -220 features a variety of improvements over
+previous engines. The most significant improvements are a digital
+electronic engine control, increased engine core life, improved afterburner
+and an engine monitoring system.
+
+BYPASS DUCT
+TURBOFAN ENGINE
+
+COMPRESSOR TURBINE
+AL
+
+TURBOJET ENGINE
+
+ACG-02-01
+
+Figure D - 1. Turbofan versus Turbojet.
+THE TURBOFAN ENGINE
+
+The turbofan engine draws more air than it requires for ignition. The air
+is split between the engine core and a bypass duct at the front of the
+engine (Figure D-1). Bypass air helps cool the engine core and provides
+high-performance AB operation and extra thrust. Turbofan engines have
+two independently rotating turbines allowing each turbine compressor
+section to rotate at its optimum speed and provide high pressure output.
+
+D-1 ACG-2
+
+
+Text from ACG-2_Propulsion_System_page_70.jpeg:
+1. Analysis:
+
+Effects:
+
+Action:
+
+2. Analysis:
+
+Effects:
+
+Action:
+
+ACG-2
+
+ANSWERS
+Abnormal engine start
+
+Probable hot start if allowed to continue because FTIT
+started increasing before rpm.
+
+Throttle - OFF
+
+Allow the JFS to windmill the engine until it cools to
+below 200°C, wait 10 seconds, place the air source knob
+to the right engine, then go throttle idle to attempt
+another start.
+
+Left engine stall/stagnation
+
+Left engine has already exceeded operating limits and
+will probably exceed 1000°C. Expect voice warning to
+activate and possible engine damage due to overtemp.
+
+Chop throttle to MIL. If stall clears, place throttle in
+IDLE, terminate your mission and return to base.
+
+If stall does not clear:
+Chop throttle to IDLE. If stall still does not clear, shut
+
+the engine down and perform an airstart and leave the
+throttle in IDLE.
+
+
+Text from ACG-2_Propulsion_System_page_71.jpeg:
+3. Analysis:
+
+Effects:
+
+Action:
+
+4. Indication:
+
+Analysis:
+
+Effects:
+
+Action:
+
+Right engine control malfunction—probable secondary
+operation.
+
+Right engine has switched to secondary mode and MFC is
+scheduling engine variables. MIL thrust will be 80-100%
+of normal MIL thrust, and use of AB is prevented.
+
+Set throttle to 80-85% and cycle engine control switch
+from ON to OFF to ON. If DEEC returns to normal
+operation, continue. If DEEC does not reset, leave the
+switch on. If the DEEC resets but engine operation is
+unsatisfactory, place the engine control switch to OFF.
+Land as soon as practical if normal DEEC operation is
+not attainable.
+
+Right engine fire
+
+Loss of right engine. If fire cannot be controlled, ejection
+and loss of aircraft are inevitable.
+
+Throttle-IDLE
+
+If light goes out: Test warning circuit. If it tests good,
+leave throttle in IDLE and land at the nearest suitable
+airfield.
+
+If light does not go out: Fire warning light-PUSH;
+Throttle—OFF; Fire extinguisher-DISCHARGE
+
+If the light now goes out, test the warning circuit,
+terminate your mission, monitor other fire indications
+
+closely and land at the nearest suitable airfield.
+
+If fire persists—Kject.
+
+D - 65 ACG-2
+
+
+Text from ACG-2_Propulsion_System_page_72.jpeg:
+(This Page Intentionally Blank)
+
+ACG-2 D - 66
+
+
+Text from ACG-2_Propulsion_System_page_73.jpeg:
+END OF TEXT QUIZ
+
+The F100-PW-220 engine is referred to as being “twin spooled”
+because of the independent function of the Ni turbine powering the
+
+ao op
+
+and the N2 turbine powering the
+
+bypass air, fan
+compressor, bypass air
+compressor, fan
+
+fan, compressor
+
+Cockpit indications that a DEEC has switched to secondary mode
+and that the MFC is controlling engine variables are:
+
+a.
+
+b.
+
+MASTER CAUTION and ENGINE lights, L/R DEEC FAIL
+caution, and rpm 80%-85%.
+MASTER CAUTION and ENGINE lights, L/R INLET caution,
+and nozzle 100%.
+MASTER CAUTION and ENGINE lights, L/R ENG CONTR
+caution, nozzle 100%, and rpm 80%-85%.
+
+MASTER CAUTION and ENGINE lights, L/R ENG CONTR
+caution, nozzle less than 5%, and 80-100% thrust when MIL is
+selected.
+
+The rpm portion of the engine monitor display (EMD) displays:
+
+ao oP
+
+Ne rpm.
+Ni rpm.
+twin-spool rpm.
+fan rpm.
+
+Maximum FTIT for engine start on the ground is
+
+ao oP
+
+500°C.
+680°C.
+800°C.
+980°C.
+
+E-1 ACG-2
+
+
+Text from ACG-2_Propulsion_System_page_74.jpeg:
+5. With the inlet ramp switches in the AUTO position, the ramps will
+
+a. receive anti-ice heating anytime the gear handle is in the UP
+position.
+
+b. be positioned by signals provided by the air inlet controller
+(AIC).
+
+c. be positioned full up during ground operations.
+
+d. be positioned as a function of angle-of-attack.
+
+6. Which of the following is true of the engine oil system?
+
+a. Ojilis supplied to the main pump element via engine rotation.
+
+b. Return of engine oil to the pump reservoir is unaffected by
+flight conditions.
+
+c. Oilis supplied to the main pump element via an oil boost pump.
+
+d. Each engine has a self-contained oil system.
+
+7. | Which of the following is true of the JFS?
+
+It cannot start both engines simultaneously.
+
+It supplies full power to the aircraft electrical system.
+
+It always supplies power directly to the right and left AMADs.
+It shuts down when the first engine reaches approximately 50%
+rpm.
+
+pe op
+
+8. The engine fire lights are operable
+
+anytime at least emergency generator power is available.
+anytime the JFS is running.
+
+only when main generator or ground power is available.
+anytime battery power is available.
+
+ao oP
+
+ACG-2 E-2
+
+
+Text from ACG-2_Propulsion_System_page_75.jpeg:
+10.
+
+After the second engine has been started during a normal engine
+start procedure, the JFS starter switch
+
+should be placed in the OFF position.
+
+should be left in the ON position.
+
+automatically trips to the OFF position.
+
+should be placed in the OFF position to shut down the JFS, and
+then to the ON position so the JFS will be ready for immediate
+start in an emergency.
+
+Boop
+
+You are attempting a JFS assisted restart after a stagnation. What
+is the maximum windmilling rpm allowed to engage the JFS without
+risk of shearing the CGB shaft?
+
+ae op
+Iw)
+So
+
+E-3 ACG-2
+
+
+Text from ACG-2_Propulsion_System_page_76.jpeg:
+(This Page Intentionally Blank)
+
+ACG-2 E-4
+
+
+Text from ACG-2_Propulsion_System_page_77.jpeg:
+AB
+AIC
+AMAD
+CGB
+CIVV
+DCU
+DEEC
+DTM
+EDU
+EMD
+FTIT
+HOTAS
+JFS
+LOD
+MFC
+pph
+
+RCVV
+
+GLOSSARY
+Afterburner
+Air inlet controller
+Airframe mounted accessory drive
+Central gear box
+Compressor inlet variable vanes
+Data collection unit
+Digital electronic engine control
+Data transfer module
+Engine diagnostic unit
+Engine monitor display
+Fan turbine inlet temperature
+Hands on throttles and stick
+Jet fuel starter
+Light-off detector
+Main fuel control
+Pounds per hour
+
+Rear compressor variable vanes
+
+F-1 ACG-2
+
+
+Text from ACG-2_Propulsion_System_page_78.jpeg:
+(This Page Intentionally Blank)
+
+ACG-2 F-2
+
+
+Text from ACG-2_Propulsion_System_page_8.jpeg:
+Turbojet (non-bypass) engines provide considerably less thrust increase in
+AB over MIL and lower pressure output power than turbofan engines.
+However, improved performance comes at the expense of slower response
+to throttle increases, especially at high altitude. Also, the turbofan is
+more susceptible to compressor stall and engine stagnation than
+non-turbofan engines.
+
+MAJOR COMPONENTS
+
+The F100-PW-220 engines have six major sections or modular
+components. They are the fan, compressor, combustion chamber,
+turbines, afterburner and the variable nozzles (Figure D-2).
+
+TURBINE VARIABLE
+FAN COMPRESSOR N N 4 AFTERBURNER NOZZLES
+
+CIVV
+
+BYPASS DUCT
+
+COMBUSTION
+CHAMBER
+ACG-02-02
+
+Figure D - 2. F100-PW-220 Engine.
+
+Fan Section
+
+The first major component of the engine is the fan section (low pressure
+compressor). The three stage fan draws in a large quantity of air and
+begins to compress it. The compressor inlet variable vanes (CIVV) are in
+front of the three stage fan and are variable in pitch to minimize airflow
+turbulence within the engine. Once the air is past the fan section, the
+flow dividers split the airflow and direct most of it (60%) through the main
+compressor section and into the combustion chamber. The remaining air
+(40%) flows around (bypasses) the engine and is routed into the
+afterburner section.
+
+ACG-2 D-2
+
+
+Text from ACG-2_Propulsion_System_page_9.jpeg:
+Compressor Section
+
+The second major engine section is the compressor (rear or high pressure
+compressor). It consists of ten stages of stators and rotors that further
+compress the air coming into the engine prior to entering the combustion
+section. The first three stages of the compressor have variable vanes
+called the rear compressor variable vanes (RCVV) (Figure D-2). They help
+prevent turbulent air entering the section from stalling the compressor.
+
+Combustion Section
+
+The third section is the combustion section, consisting of a continuous
+combuster mounted circularly around the engine. Compressed air is fed
+into this section and mixed with the proper amount of fuel in the
+combustion section where it is ignited. Ignition is provided by two igniter
+plugs per engine. The igniter plugs are powered by their own small
+engine mounted generator and operate continuously when the throttles
+are out of the CUTOFF position (i.e., continuous ignition). High velocity
+exhaust gas is then vectored rearward through the turbine section.
+
+Turbine Section
+
+The turbine is the component providing the power to keep the engine
+operating. The PW-220 has two independent, two-stage turbines. One of
+these is connected to the fan while the other is connected to the
+compressor (“twin-spooled”). They are numbered Ni and Nz2 respectively.
+Note in Figure D-2 that although the Ni turbine powers the front-most
+part of the engine, and is therefore numbered first, it is actually located
+aft of the N2 turbine. The speed of the Ni turbine, and therefore the speed
+of the fan, is controlled by back pressure in the engine. The aircrew has
+no direct control over the Ni turbine, and no cockpit indications are
+provided to indicate its rotation speed. What the aircrew controls through
+the throttle is the rotation speed of the Nz turbine and, consequently, the
+compressor.
+
+D-3 ACG-2
+
+

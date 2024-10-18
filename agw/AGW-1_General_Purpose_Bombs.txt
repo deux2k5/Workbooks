@@ -1,0 +1,1626 @@
+Text from AGW-1_General_Purpose_Bombs_page_1.jpeg:
+SUPPORTS COURSES
+FIS5EBQ
+FISETX
+
+ACADEMIC STUDENT WORKBOOK
+F-15E
+
+AIR-TO-GROUND WEAPONS
+AGW-1
+GENERAL PURPOSE BOMBS
+
+DECEMBER 1998
+
+(OFP N/A)
+
+AIR COMBAT COMMAND
+
+
+Text from AGW-1_General_Purpose_Bombs_page_10.jpeg:
+Penetration Bombs
+
+These bombs are designed to penetrate and explode inside a hard target
+such as a concrete bunker. They are built with heavy cases and are
+designed to counter break-up. The explosive charge is approximately
+25 to 30% of the total weight. The BLU-109/B Penetrator bomb is an
+example of a penetrating weapon.
+
+Demolition Bombs
+
+In demolition bombs, the explosive weight equals approximately 65 to 80%
+of the total weight. These bombs have a relatively thin-walled casing to
+maximize blast effect, while penetration and fragmentation effects are
+limited. Demolition bombs are designed for a higher blast effect than a
+GP bomb of comparable weight. The 3000 pound M118 and 15,000 pound
+BLU-82 are examples of this type.
+
+Fragmentation Bombs
+
+As the name implies, these bombs are intended to disperse and project
+high-velocity fragments. The fragments are the principal damage
+mechanism of the weapons, with blast effects being a secondary
+consideration. The charge to total weight ratio varies from 10 to 20%.
+There are no bombs (unitary warheads) in the inventory designed
+specifically for fragmentation, although GP bombs do produce a relatively
+good fragmentation effect when used with a proximity fuze (air burst).
+Cluster bomb unit (CBU) munitions are more commonly used as
+fragmentation weapons.
+
+Explosive Filler
+
+The most common explosive filler is called Tritonal. It is a mix of TNT
+and aluminum in a ratio of 80:20. H6 is also a commonly used explosive
+filler. Both are less sensitive to electronic sparks than TNT or Tetryl
+booster charges. The US Navy uses PBXN-109 onboard ships, since even
+Tritonal and H6 are too sensitive to be used in the close confines of the
+ship.
+
+AGW-1 D-4
+
+
+Text from AGW-1_General_Purpose_Bombs_page_11.jpeg:
+QUESTIONS
+
+Which weapon effect is maximized by a CBU munition?
+
+a. Blast
+
+b. Fragmentation
+c. Cratering
+
+d. Penetration
+
+What fuze setting should be used with a GP bomb to maximize blast
+effects?
+
+a. Instantaneous
+
+b. Delayed
+
+c. Depth charge
+
+d. GP bombs are not used for blast effect
+
+A general purpose bomb is approximately ___ percent explosive by
+weight.
+
+a. 0-20
+
+b. 25-30
+
+c. 50
+
+d. 65-80
+
+Three effects of general purpose bombs are
+
+a. incendiary, blast and coriolis.
+b. blast, fragmentation and cratering.
+c. armor penetration, incendiary and confusion.
+
+For a general purpose bomb to produce a crater
+
+some delay must be present in the fuze function.
+
+an extender must be attached to the bomb.
+
+a special bomb must be employed to penetrate the surface.
+an instantaneous fuze function must be present.
+
+pe op
+
+D-5 AGW-1
+
+
+Text from AGW-1_General_Purpose_Bombs_page_12.jpeg:
+ANSWERS
+
+1. b
+2. a
+3. Cc
+4. b
+5. a
+
+AGW-1 D-6
+
+
+Text from AGW-1_General_Purpose_Bombs_page_13.jpeg:
+WEAPON COMPONENTS
+
+GP bombs are cylindrical in shape and are equipped with conical fins or
+retarders for external high speed carriage. They are built for both nose
+and tail fuzes to ensure reliability and to cause the desired bomb effects.
+All GP bombs are similar in construction. The bomb body (Figure D-1)
+contains the high explosive, charging well and suspension lugs. Other
+parts added to make a complete munition are adapter boosters, fin
+assembly, arming wires and fuzes.
+
+BOMB BODY
+NOSE FUZE PLUG [pe LUG SUSPENSION LUG
+
+CHARGING WELL | TAIL FUZE
+
+EXPLOSIVE CHARGE
+
+NOSE FUZE WELL FORWARD CONDUIT TAIL FUZE PLUG
+
+FUZE SEAT LINER
+
+REAR CONDUIT
+AGW-01-01
+
+Figure D - 1. GP Bomb Body Components.
+
+AGW-1
+
+
+Text from AGW-1_General_Purpose_Bombs_page_14.jpeg:
+The suspension lugs are screwed into the top of the bomb and are used for
+carriage. Bombs weighing less than 2000 pounds are equipped with
+
+14 inch suspension lugs. Bombs, like the MK 84, that are in the
+
+2000 pounds class and above are equipped with 30 inch suspension lugs.
+
+Adapter boosters are required when mechanical fuzes are used since the
+mechanical fuze, by itself, is not powerful enough to detonate the main
+charge of the bomb. The boosters are inside the bomb or fuze well and are
+not visible. The explosive used in the booster charge is more sensitive
+than the explosive filler it is used to detonate.
+
+The fin assembly is attached to the bomb to stabilize it in flight and
+ensure proper ballistic trajectory. Look for damage to the assembly
+during preflight.
+
+A charging well is connected to the nose and tail fuze wells and is located
+just aft of the forward suspension lug. It is usually closed with a threaded
+plug that must be removed for installation of an initiator and braided
+steel arming cables or lanyards that are used with some fuzes. The steel
+cables or lanyards are threaded through the conduits inside the bomb and
+extend out of the top of the charging well for attachment to the
+appropriate point for fuze arming.
+
+AGW-1 D-8
+
+
+Text from AGW-1_General_Purpose_Bombs_page_15.jpeg:
+External arming wires (Figure D-2) are installed on bomb type munitions
+to allow the bomb to be released armed or safe. Arming wire routing
+varies depending upon what type of munition is used.
+
+For some GP bombs, one end of the nose fuze arm wire is secured to the
+aft lug, and the tail fuze arm wire is attached to the front lug. These
+wires are then inserted through an arming swivel loop and then through
+the opposite suspension lug. This system allows the arming wires to
+remain with the bomb and not damage the aircraft following release.
+
+TYPICAL NOSE AND TAIL
+ARMING WIRE ROUTING PRK
+ARMING SOLENOID
+
+FORWARD SUSPENSION LUG
+SWIVEL & LINK
+
+/ TAIL ARMING WIRE
+
+AGW-01-02
+
+Figure D - 2. Arming Wires.
+
+Always use the dash 34 checklist to preflight munitions loaded on the
+aircraft. Arming wire configurations vary with the intended mission and
+may be different than those encountered during normal training or
+exercises (see section G-1).
+
+AGW-1
+
+
+Text from AGW-1_General_Purpose_Bombs_page_16.jpeg:
+As an example, once mechanical fuzes are uploaded, the free ends of the
+wires are inserted through the safety devices in the M904 nose fuze and/or
+the ATU-35 for the tail fuze (Figure D-3). The ATU-35 is the spin drive
+assembly that arms the M905 tail fuze inside the bomb.
+
+ARMING WIRE
+UPPER
+RETAINING
+EYELETS
+
+FZU-18/B
+
+ADAPTER
+BOOSTER
+
+SAFETY DEVICE
+ARMING VANE
+
+M904 NOSE FUZE ATU-35 FUZE DRIVE ASSEMBLY
+
+AGW-01-03
+
+Figure D - 3. Arming Wire to Fuze.
+
+The arming wire swivel loops are inserted into the proper arming
+solenoids for cockpit selectable arming. When the weapon separates from
+the aircraft, the selected solenoids (nose or tail, or nose and tail) hold the
+
+swivel loops, pulling the arming wire(s) from the fuze(s), thus allowing
+them to spin arm.
+
+AGW-1 D-10
+
+
+Text from AGW-1_General_Purpose_Bombs_page_17.jpeg:
+SPECIFIC WEAPONS
+
+Weapons presented in this course are a small selection of those unitary
+warhead bombs the F-15E may carry. For more detailed information,
+refer to TO 1F-15E-34-1-1, TO 1-1M-34, or TO 1F-15E-1.
+
+Bomb Nomenclature
+
+Munitions coding is a compilation of designations that serve to identify
+type of weapon or suspension apparatus and its intended function (Figure
+D-4). The munitions model is based on design source and numbered series
+on general purpose weapons and some cluster weapons. Munitions make
+
+use of the following designation symbols.
+CB U -87 A/B
+
+ITEM IDENTIFICATION (CLUSTER BOMB) 4d |
+"U" FOR UNIT
+
+SERIAL NUMBER (87TH CLUSTER BOMB)
+MODEL (1ST VERSION OF CBU-87)
+INSTALLATION (AIRCRAFT INSTALLED, EXPENDED)
+
+AGW-01-04
+
+Identification Designator
+
+AD Certain adapting items LK Ammunition links
+
+AG _Ajr to ground LM Ground-based launchers
+
+BB Explosive items LU Illuminating units
+
+BD Simulated bombs MA _ Miscellaneous armament items
+BL Bombs and mines MD_ Miscellaneous simulated munitions
+BR Bomb racks and shackles MH _ Munitions handling equipment
+BS Stabilizing & retarding device MJ Munitions countermeasures
+CB Cluster bomb ML Miscellaneous munitions
+
+CC Actuator cartridges MT Mounts
+
+CD Clustered munitions, not end item PA External munitions dispensing device
+CN Miscellaneous containers PD Leaflet dispenser
+
+DS Target directing device PG Ammunition
+
+FM  Fuzes PW _ Internal dispenser
+
+FS = Fuze safety-arming device RD Dummy rockets
+
+FZ Fuze-related item RL Rockets
+
+GA Aircraft gun SA = _Gun/bomb/rocket sights
+
+GB = Guided bombs SU ___ Stores suspension and release
+GF Gun related items (dispenser containers)
+
+GP Pod guns TM = Miscellaneous tanks
+
+GU_ Miscellaneous guns TT Test items
+
+KA Munitions clustering hardware WD Warheads
+
+KM Kits WT _ Training warheads
+
+LA Aircraft installed launchers M Army designation for munitions
+
+MK Navy designation for bombs
+Installation Designator
+
+A Aircraft installed, Fixed E Ground item, Moveable, not a Vehicle
+B Aircraft installed, Expendable (Box for Munitions)
+
+Figure D - 4. Munitions Designations.
+
+D-11 AGW-1
+
+
+Text from AGW-1_General_Purpose_Bombs_page_18.jpeg:
+General Purpose Bombs
+
+MK 82 LDGP Bomb
+
+The MK 82 low drag general purpose (LDGP) bomb (Figure D-5) has a
+slender metal body designed to produce minimum drag. The bomb weighs
+531 pounds with 192 pounds of explosive. The bomb produces blast,
+fragmentation and cratering. Its main function is determined by the
+fuze(s) and fuze components with which it was armed. The MK 82 bomb
+is used with proximity, mechanical, or electrical fuzes; however, the
+mechanical fuze is most common. The bomb may use a nose or tail fuze or
+both to increase the functional reliability. If the bomb is tail fuzed only, a
+nose fuze plug must be inserted in the nose cavity to prevent collapse upon
+high speed impact with a hard surface. This aids penetration of hard
+targets and increases the cratering effect. The MK 82 LDGP uses the
+conical fins consisting of an elongated fin cone and four streamlined blades
+assembled perpendicular to the cone. The fin cone accepts the ATU-35 tail
+fuze drive assembly for a mechanical tail fuze.
+
+MB MK-82 MODI
+sS INERT FILLED
+AVG WT 496
+
+Figure D - 5. MK 82 LDGP.
+
+388
+shoe
+8B
+
+i
+
+AGW-01-05
+
+AGW-1 D-12
+
+
+Text from AGW-1_General_Purpose_Bombs_page_19.jpeg:
+MK 82 Air Inflatable Retarder (AIR) HDGP Bomb
+
+The MK 82 AIR is a MK 82 bomb with a BSU-49/B AIR tail assembly
+installed (Figure D-6). The AIR provides a high-speed (200-700 KCAS)
+low altitude delivery capability by use of bomb retardation. This increases
+bomb trail and reduces the danger of the aircraft being hit by fragments.
+The probability of bomb ricochet is reduced by increased impact angles
+while increasing bomb effectiveness against frag/blast sensitive targets.
+
+LOW-DRAG CONFIGURATION
+
+AGW-01-06
+
+Figure D - 6. MK 82 AIR.
+
+The BSU-49 AIR tail assembly consists of a low drag (LD) stabilizer
+canister unit, a ballute (balloon/parachute) retarder, and retarder release
+lanyard assembly. The stabilizer canister acts as a container for the
+ballute and provides aerodynamic stability during carriage and low drag
+delivery. The lanyard assembly is used to initiate the release of the base
+plate and subsequent ballute deployment for a high drag (HD) release.
+Airloads open the baseplate withdrawing the ballute until airflow through
+the inlets inflate it.
+
+The MK 82 AIR can be released in either the HD configuration (ballute
+deploys after release) or in the LD configuration (ballute remains stowed).
+
+D-18 AGW-1
+
+
+Text from AGW-1_General_Purpose_Bombs_page_2.jpeg:
+ADMINISTRATIVE INFORMATION
+
+This student workbook is designed to provide information on the F-15E,
+its systems and capabilities. It is not a sole source document, but is to be
+used in conjunction with other standard Air Force publications and
+technical manuals. If you find any differences between the material
+contained herein and other governing regulations, adhere to the
+regulations and notify the OPDR.
+
+Changes to this workbook are indicated with a heavy black line in the left
+margin.
+
+Forward recommendations for revision or change to 4 TS, SJAFB, NC,
+275381.
+
+Supersedes: AGW-2, July, 1998
+
+OPDR: 4 TS
+
+Index of Changes
+
+Change # Effective Date Pages Affected
+
+
+
+Text from AGW-1_General_Purpose_Bombs_page_20.jpeg:
+The release configuration is determined by arming wire/lanyard routing
+and may be cockpit selectable.
+
+MK 84 LDGP
+
+The MK 84 LD bomb is a GP bomb that weighs 1972 pounds with
+
+945 pounds of explosive. Its fuzing and functioning are the same as the
+MK 82, but it has better penetration and cratering effects because of its
+size. The conical fin assembly is much like that of the MK 82 LDGP.
+
+MK 84 AIR HDGP Bomb
+
+The MK 84 AIR HDGP bomb is a MK 84 GP bomb that is modified by
+attaching a BSU-50/B AIR tail assembly. The BSU-50/B components and
+assembly are similar to the BSU-49/B AIR. The operation of the two
+munitions is identical. The BSU-50/B AIR assembly provides the
+capability to deliver the MK 84 at airspeeds not exceeding 700 KCAS.
+Again, check the external stores limitations in chapter 5 of the Dash 1 to
+verify aircraft limitations that may be more restrictive.
+
+The BSU-50/B retarder is only 12% larger than the BSU-49/B, but the
+MK 84 is four times heavier than the MK 82. This increase in weapon
+mass, coupled with a small increase in ballute size, forces a higher
+delivery airspeed for proper G forces to be sensed by the fuze.
+
+If the BSU-50/B is used with a live unit FMU retard sensing fuze,
+deceleration forces required to initiate fuze arming determine minimum
+release airspeeds. Minimum release airspeeds for HD employment are
+fuze dependent:
+
+e FMU-54/B - 550 KCAS
+e FMU-54A/B~ - 550 KCAS
+e FMU-139A/B - 450 KCAS
+
+These delivery airspeeds are critical to ensure fuze function criteria is met
+and fuzes arm when required.
+
+AGW-1 D-14
+
+
+Text from AGW-1_General_Purpose_Bombs_page_21.jpeg:
+BLU-109/B Penetrator Bomb
+
+This bomb, also referred to as an I-2000, is in the 2000-pound class and
+has enhanced penetration capability against hard targets (Figure D-7).
+Improvements include: no nose fuze well, increased bomb wall strength,
+and a stronger tail fuze assembly. It contains 550 pounds of explosive and
+uses an FMU-143/B internal tail fuze. The FZU-32B/B initiator is
+installed in the charging well of the bomb and provides electrical power by
+an air scoop turbine generator to arm the fuze at release. The bomb aft
+section is compatible with MK 84 tail assemblies, but the BLU-109 is most
+commonly used in the GBU-15, the GBU-24A/B low-level laser guided
+bomb (LLLGB) or the AGM-130C missile.
+
+30" SUSPENSION LUG 30" SUSPENSION LUG
+
+1 IN. CHARGING FUZE
+WELL WELL
+
+AGW-01-07
+
+Figure D - 7. BLU-109/B.
+NOTE
+
+Impact angle and velocity are critical for proper weapon affects.
+
+Demolition and Fragmentation Bombs
+
+Demolition and fragmentation bombs are beyond the scope of this lesson.
+
+D-15 AGW-1
+
+
+Text from AGW-1_General_Purpose_Bombs_page_22.jpeg:
+QUESTIONS
+
+1. Suspension lugs for a 500 lb GP bomb are spaced ____ inches apart.
+
+a. 10
+b. 14
+, 30
+d. 16
+
+2. AMK 82 (AIR) usesa___ tail assembly.
+
+a. conical
+
+b. BSU-50/B
+c. BSU-49/B
+3. The BLU-109/B bomb is equipped with fuzes.
+a. nose
+b. tail
+
+c. nose and tail
+
+AGW-1 D-16
+
+
+Text from AGW-1_General_Purpose_Bombs_page_23.jpeg:
+ANSWERS
+
+D-17 AGW-1
+
+
+Text from AGW-1_General_Purpose_Bombs_page_24.jpeg:
+FUZES
+
+No weapon is of much value unless there is some way of controlling it.
+There must be some manner to store, load and carry munitions in a safe
+condition yet have them detonate at the desired time. A fuze is used to
+accomplish these tasks. Therefore, there are normally two settings
+associated with each fuze.
+
+Fuze Arm Time
+
+Fuze arm time is the time it takes for the fuze to reach an armed condition
+after release. It provides safe clearance to the crew and aircraft by
+preventing a premature detonation. The distance the weapon is from the
+aircraft at fuze arm time is safe separation.
+
+Function Setting
+
+The function setting controls what conditions must be met for a munition
+to function as it is supposed to. It may be set for an air burst, or after the
+weapon has hit or penetrated a target. This will vary depending on the
+desired weapon effect.
+
+Methods of Arming
+
+Vane
+
+The arming vane is a small propeller that is rotated by airflow after
+weapon release as the munition falls. When the vane has rotated the
+required number of times, the fuze is armed. Special gears compensate for
+variations in release airspeeds.
+
+Pin
+
+The arming pin is ejected or withdrawn by spring action when the weapon
+is released. The ejection of the pin releases the arming mechanism and
+allows the fuze to arm.
+
+Inertia
+
+The inertia fuze is armed by an abrupt change in the velocity or
+deceleration of the weapon by deploying fins or ballutes.
+
+AGW-1 D-18
+
+
+Text from AGW-1_General_Purpose_Bombs_page_25.jpeg:
+Electric
+
+An electrical-arming fuze may be armed by a thermal battery, an air
+turbine alternator, or an air scoop generator that is activated at bomb
+release by the extraction of a lanyard.
+
+Methods of Functioning
+
+A fuze functions by one of the following methods:
+
+Impact
+
+Impact fuzes are initiated when they strike a sufficiently dense material.
+These fuzes may function instantaneously or after a delay set for
+microseconds or even days.
+
+Proximity
+
+The proximity fuze is a miniature doppler radar altimeter. The fuze
+transmits radar waves that are reflected back to the fuze by the target.
+When the lag time between transmission and reception reaches a set
+value, the fuze functions. This lag time has been precomputed and
+translated into selectable burst height values in altitude above the target.
+Burst height values vary among different fuzes.
+
+Time
+In a time fuze, the delay is initiated at bomb release and not at the
+
+instant of impact. The time element is obtained by a mechanical or
+electrical device.
+
+Hydrostatic
+
+Hydrostatic fuzes are employed in depth bombs for underwater demolition
+work. They are not addressed in this lesson.
+
+Classification
+
+Fuzes for conventional weapons are classified by their location in the
+munition. Fuzes are located in the nose and/or tail of the weapon. The
+distinction between these locations (Figure D-8) is important because of
+the differences in sensitivity to impact and because of the directional effect
+on fragmentation.
+
+D-19 AGW-1
+
+
+Text from AGW-1_General_Purpose_Bombs_page_26.jpeg:
+Nose
+
+The nose fuze is frequently a fuze that functions on impact. A properly
+adjusted fuze can be sensitive enough to be initiated by impact with the
+softest of material. A nose fuze tends to deflect sidewall fragments away
+from the nose of the bomb. If your target is troops in the open, you want
+maximum frag effect, produced by bombs with nose or proximity fuzes.
+This results in more fragmentation deflection above ground level where
+your target is located. Nose fuzes are also used to open CBU canisters or
+to create an air burst affect.
+
+AGW-01-08
+
+Figure D - 8. Fuze Classification.
+Tail
+
+Tail fuzes can have more than one function (Figure D-8). They can
+function on their own or provide a redundancy to the nose fuze to increase
+overall munition reliability. The tail fuze is normally set to detonate a
+short time after initial impact. When used alone, this allows the bomb to
+penetrate the target prior to detonation. To aid this penetration, the tail
+fuze tends to deflect the fragmentation away from the tail of the bomb.
+The tail fuze is used against harder targets or when cratering is the
+desired effect.
+
+AGW-1 D - 20
+
+
+Text from AGW-1_General_Purpose_Bombs_page_27.jpeg:
+Specific Fuzes
+
+M904 Nose Fuze
+
+The M904 is a mechanical impact nose fuze (Figure D-9) used in
+
+GP bombs. The fuze uses an arming vane to arm. Arming begins when
+the arming wire is withdrawn from the vane, allowing it to spin in the
+airstream. For airspeeds from 150 to 600 knots, the arming time is
+independent of airspeed. This is accomplished by use of a mechanical
+governor and a constant speed arming gear train.
+
+ARMING WIRE
+UPPER
+RETAINING
+
+EYELETS
+
+M904E3
+
+SAFE ARMED
+
+FZU-18/B
+
+WARNING
+WINDOWS
+
+ARMING TIME STOP
+SET-SCREW
+
+ADAPTER BOOSTER
+
+SAFETY DEVICE
+ARMING VANE
+
+AGW-01-09
+
+Figure D - 9. M904 Nose Fuze.
+
+Arming delay times are set on a calibrated dial on the front of the fuze.
+To set a delay time of less than 6 seconds, the stop set screw must be
+removed. The selectable arming delay times for the M904E1 fuze are: 4,
+6, 8, 12 or 20 seconds. Times have a tolerance of +20%. For the M904E2
+or E3, delay times range from 2 to 18 seconds in 2 second increments with
+a tolerance of +10%.
+
+The positive tolerance must be used to determine the minimum release
+altitude to ensure fuze arming prior to impact. For example, for an
+M904E2 fuze, if an arming time of 4 seconds is set, the longest it may take
+the fuze to arm is 4.4 seconds (4.0 +.4). The time of flight for this weapon
+should be at least this value or the fuze may dud. The shortest time it
+
+D-21 AGW-1
+
+
+Text from AGW-1_General_Purpose_Bombs_page_28.jpeg:
+may take to arm is 3.6 seconds; this time must be considered for safe
+escape should the bomb detonate at the end of arming time.
+
+Function delay times are achieved by inserting a delay element behind the
+firing pin. This is accomplished by munitions personnel. The delay times
+are: instantaneous, 0.01, 0.025, 0.05, 0.10 or 0.25 seconds. If you note any
+red in the warning window during preflight do not touch the fuze, contact
+the munition specialist.
+
+M905 Tail Fuze
+
+The M905 tail fuze is a mechanical impact tail fuze commonly used with
+GP bombs. Fuze arming begins when the arming wire is withdrawn from
+the vane tab of the ATU-35 fuze drive assembly (Figure D-10). This
+assembly provides the rotational force required to arm the tail fuze just as
+the vane spin arms the M904 nose fuze.
+
+VANE RESTRAINING PIN
+
+al
+
+ARMING WIRE SAFETY PIN
+
+AGW-01-10
+
+Figure D - 10. ATU Fuze Drive Assembly.
+
+AGW-1 D - 22
+
+
+Text from AGW-1_General_Purpose_Bombs_page_29.jpeg:
+The arming time delays for the M905 fuze are: 4, 6, 8, 12, 16, and 20
+seconds with a tolerance of 20% (Figure D-11). The function delay
+elements are: instantaneous, 0.01, 0.025, 0.50, 0.10 and 0.25 seconds. All
+fuze settings will be set by a munitions specialist since the fuze is inside
+the tail assembly, and will be annotated in the aircraft forms or chalked
+on the side of the bomb for aircrew information.
+
+AGW-01-11
+
+Figure D - 11. M905 Fuze.
+
+AGW-1
+
+
+Text from AGW-1_General_Purpose_Bombs_page_3.jpeg:
+AIR-TO-GROUND WEAPONS
+
+COVER
+
+GENERAL PURPOSE BOMBS
+INTRODUCTION
+
+This workbook is your guide for studying the nomenclature, components
+and characteristics of conventional weapons used by the F-15E.
+
+CONTENTS:
+
+INTRODUCTION 0.000. eeecceeeseecesscecesneeessaeecesaeecnsaeeeessaeeessaeeeesaees A-1
+CRITERION REFERENCED OBJECTIVES (CROs).............eeeeeeeeeeeeees B-1
+STUDENT PREPARATION REQUIREMENTS . 0.0... eeeeeeeeees C-1
+TEXT cece cc ceesneeccessseeeceesseeeecesssaeeeseeesaeeecesssseeeseeesaaeeeseesaeeeeeee D-1
+END OF TEXT QUIZ oo... eeccceeseecesceceseeeessaeesesaeeeeesaeeseseeeenaees E-1
+GLOSSARY. eee ceeseeessneeeesneeecesaceeesaeeensaeecesaeeessaeecesaeesesaeeseeaeeees F-1
+HANDOUT, ccs sass suse sues sens sens sens sss sues sun stirs see outs ones sine suns suns autre sins aes sews ses sun a G-1
+
+A-1 AGW-1
+
+
+Text from AGW-1_General_Purpose_Bombs_page_30.jpeg:
+FMU-54 Tail Fuze
+
+The FMU-54 is a mechanically operated, retardation sensing tail fuze. It
+has two versions, the FMU-54/B (Figure D-12) and the FMU-54A/B
+(Figure D-13). They can be used with the MK 82 AIR and the MK 84 AIR.
+As the fuze is not visible after installation in the bomb, all settings must
+be made before installation.
+
+FMU-54/B:
+
+When the bomb is released, the fuze arming lanyard is
+pulled, initiating the arming time delay (selectable from
+0.75 to 3.50 seconds in 0.25 increments). The fuze must
+sense a force of 3.5 +0.5 G for 0.6 seconds in order to
+function. This is provided by the bomb's retardation device
+functioning. If retardation is lost during the 0.6 seconds
+(retardation device failure), the fuze should not arm. Note:
+BSU-49 failure, however, can result in an armed munition.
+To achieve the required G force for arming, minimum
+delivery airspeed must be greater than 330 KCAS for the
+MK 82 ATR and 550 KCAS for the MK 84 AIR. The fuze
+functions at impact.
+
+FUZE LANYARD
+
+ASSEMBLY
+
+AGW-1
+
+ARMING TIME
+
+WO
+
+ARMING INDICATOR
+(RED-ARMED/GREEN-SAFE)
+
+to. _f A
+
+AGW-01-12
+
+Figure D - 12. FMU-54/B.
+
+
+Text from AGW-1_General_Purpose_Bombs_page_31.jpeg:
+FMU-54A/B: This modified version operates the same as the FMU-54/B,
+except that the arming times are selectable from 2.5 to 6.0
+seconds.
+
+FMU-54A/B TAIL FUZE
+
+AGW-01-13
+
+Figure D - 13. FMU-54A/B.
+
+D-25 AGW-1
+
+
+Text from AGW-1_General_Purpose_Bombs_page_32.jpeg:
+FMU-113/B Proximity Nose Fuze
+
+The FMU-113/B nose fuze (Figure D-14) is a low-altitude, radar proximity
+fuze used in GP bombs. It is 13.75 inches long, 5.6 inches in diameter,
+and weighs 8 pounds. An FZU-2/B booster is required to be installed on
+the fuze prior to installation in the bomb. The fuze has a safe/arm
+indicator that can be viewed after installation in the bomb. The fuze is
+mechanically armed and has ground-selectable arming time settings of 5,
+6, 7, 8, 9, 10 and 18 seconds, as well as a SAFE position. Initiation of the
+fuze is accomplished by a bungee lanyard pulled at release. This action
+allows the nose plug to retract, allowing air to reach the turbine. The fuze
+has no stored arming energy; power for sensor operation is obtained from
+an internal air-turbine-powered alternator. The sensor portion of the fuze
+is designed to provide a 0 to 25-foot (15-foot nominal) HOB. The fuze has
+an impact burst backup feature.
+
+BUNGEE
+LANYARD
+
+FUZE ARM
+TIME WINDOW
+
+ARM INDICATOR PASE
+
+ARMED Y
+GREEN | AIR 4 SA
+TURBINE L \\
+NOSE \S
+PLUG Ss
+a,
+\ d <i FUZE ARM
+RED \ 5 TIME SELECT
+NN RING
+
+ARM INDICATOR SWIVEL
+SAFING PIN WINDOW AND LINK
+AND FLAG
+
+AGW-01-14
+
+Figure D - 14. FMU-113/B.
+
+AGW-1 D - 26
+
+
+Text from AGW-1_General_Purpose_Bombs_page_33.jpeg:
+The flight profile is as shown in Figure D-15.
+
+RELEASE
+(NO ARMING ENERGY AVAILABLE)
+
+MUNITION VELOCITY MUST EXCEED
+250 KNOTS TO OPERATE
+
+TURBINE AND COUNTER IN
+
+<—_——— ARMING ENERGY AVAILABLE
+AT COUNTER EXPIRATION
+
+REVOLUTION
+COUNTER TIME
+(TURBINE DRIVEN)
+
+SAFE AND ARM ROTOR ROTATED IN LINE
+— 200 TO 500 ms DELAY
+ARMED — LOOKING FOR HOB
+ARM TIME Beer | ok
+(MECHANICAL CLOCK)
+
+ALTITUDE
+
+TURBINE IS UNLOCKED AND ARM TIME CLOCK aN
+IS WOUND AND STARTED WHEN LANYARD IS
+
+op
+PULLED AT MUNITION SEPARATION FROM SpeatS
+AIRCRAFT KS
+
+GROUND
+AGW-01-15
+
+Figure D - 15. FMU-113/B Flight Delivery.
+
+D-27 AGW-1
+
+
+Text from AGW-1_General_Purpose_Bombs_page_34.jpeg:
+FMU-143/B Fuze
+
+This impact tail fuze is used with the BLU-109/B warhead in GBU-10 and
+GBU-24A/B laser guided bombs and the AGM-130C missile (Figure D-16).
+It has a nonselectable impact delay of 60 milliseconds and two selectable
+arming time delays of 5.5 and 12.0 seconds. Arming delay is initiated by
+the arming lanyard at bomb release to activate the FZU-32A/B initiator,
+which also provides safe escape. A FZU-32B/B uses an air scoop turbine
+electrical generator to arm the fuze.
+
+The 60 millisecond delay is activated upon impact allowing for target
+
+penetration before bomb detonation. An impact force of at least 160 G for
+6.5 milliseconds is required for detonation.
+
+FMU-143B(D-2)/B
+
+BOMB FUZE
+
+AGW-01-16
+
+Figure D - 16. FMU-143B/B Fuze.
+
+AGW-1 D - 28
+
+
+Text from AGW-1_General_Purpose_Bombs_page_35.jpeg:
+FMU-139A/B Fuze
+
+This impact fuze is designed to be used with the MK 80 series GP bombs.
+Either low drag or high drag functioning is automatically determined by
+bomb characteristics. The fuze can be installed in both the nose and tail
+fuze wells and is electrically initiated at bomb release by an air scoop
+generator (FZU-48/B) in the charging well. For the HD option, the fuze
+must be in the tail well. Arming time tolerance is +5% of the faceplate
+setting. After arming, an additional .08 seconds must elapse before
+impact (for complete safe/arm rotor rotation) or the fuze will not function.
+If the fuze senses retardation (high drag option), it uses the preselected
+HIGH DRAG ARM/DELAY function (Figure D-17). This is set on the
+ground by rotating the appropriate knob on the fuze faceplate. As a safety
+feature, a lock-out button must be depressed to select the 2.0 arming time.
+Low drag settings are set similarly and are used if no retardation is
+sensed after bomb release. Low drag arm time options are 4, 6, 7, 10, 14
+and 20 seconds. High drag arm time options are 2, 2.6, 4 and 5 seconds.
+Function time delay is selected with the high drag setting, even if
+dropping the weapon in the low drag mode. Available options are
+instantaneous, .01, .025 and .06 seconds. The fuze contains several safety
+devices that should preclude functioning if required parameters are not
+met. If at any time a red and black rod is seen protruding from the center
+of the fuze faceplate, it should be considered armed.
+
+LOW DRAG
+
+ARM, TIME HIGH DRAG
+@) ARM/DELAY
+
+2) Zas— 2.6160
+
+4.0/25 —4 y, F-2.6/25
+4.0/INST *» ¢“2.6/10
+5.0/INST 2.6/INST
+
+AGW-01-17
+
+Figure D- 17. FMU-139A/B.
+
+D - 29 AGW-1
+
+
+Text from AGW-1_General_Purpose_Bombs_page_36.jpeg:
+Programmable Armament Control System (PACS)
+
+Refer to AGD-02 CBT and workbook for complete discussion of the PACS
+and jettison options.
+
+WEAPON/FUZE COMBINATIONS
+
+The many different munitions the F-15E can carry accommodate a variety
+of fuzes that can have numerous settings. Each combination of weapon,
+fuze, and setting will produce a predictable effect on a given target. An
+example can be shown with the GP bomb. When fitted with an
+instantaneous nose fuze, frag and blast are maximized. When a GP bomb
+has a delayed tail fuze, cratering is the result. This predictability is used
+when choosing weapons to employ against different targets.
+
+Targeting
+
+Targeting, for the purpose of this discussion, is the matching of munitions
+with the desired effect on a target. Targeting is normally accomplished at
+higher headquarters by the people who have “the big picture.” They use
+the Joint Munitions Effectiveness Manuals (JMEM), which is now on
+computer, as their “Bible” for weapon selection. The JMEM are the
+authoritative source of information needed to select weapons and estimate
+the force requirements to achieve the desired results.
+
+Munitions Selection
+
+The following are examples of munitions matched to targets to maximize
+target destruction.
+
+AGW-1 D - 30
+
+
+Text from AGW-1_General_Purpose_Bombs_page_37.jpeg:
+General Purpose (GP) Bomb/Fuze Combinations
+
+Category
+(Bomb/Fuze)
+
+GP
+Proximity
+
+GP
+
+Instant
+
+GP
+Penetration
+Short Delay (.01)
+
+GP
+Penetration
+Medium Delay (.25)
+
+Fuze
+
+FMU-113/B
+
+Bomb
+
+MK 82
+MK 84
+
+MK 82
+MK 84
+w/Nose Plug
+
+MK 82
+MK 84
+w/Nose Plug
+
+BLU109
+
+Effect
+
+Max Blast
+Max Frag
+
+Good blast
+Good frag
+
+Incendiary
+
+Cratering
+Blast
+
+Armor
+Penetration
+
+Max cratering
+
+Target
+
+Personnel in open
+
+Personnel in light
+armor trucks, SAMS
+
+Surface supplies
+Fuel
+Ammunition
+
+Unimproved roads
+Light buildings
+Armor
+
+Harder targets
+Concrete roads
+Underground fuel
+Large buildings
+
+Runways
+
+Bunkers/Bridges
+
+Table D - 1. GP Bomb/Fuze Combinations.
+
+D-31
+
+AGW-1
+
+
+Text from AGW-1_General_Purpose_Bombs_page_38.jpeg:
+QUESTIONS
+
+1. The M904 is a(n) fuze.
+a. impact
+b. proximity
+Cc. tail
+d. air burst
+
+2. The ATU-35 drive assembly is used in conjunction with the
+
+fuze.
+a. MK 339
+b. M904
+c. FMU-56
+d. M905
+
+AGW-1 D - 32
+
+
+Text from AGW-1_General_Purpose_Bombs_page_39.jpeg:
+ANSWERS
+
+D - 33 AGW-1
+
+
+Text from AGW-1_General_Purpose_Bombs_page_4.jpeg:
+CRITERION REFERENCED OBJECTIVES (CROs)
+
+1. Identify the characteristics of general classes of conventional
+weapons.
+
+2. Identify the general purpose bombs carried on the F-15E by type
+and/or function.
+
+3. Identify the characteristics of different types of fuzes used with
+general purpose bombs.
+
+4. Identify the effects of various fuze/general purpose bomb
+combinations.
+
+AGW-1 B-1
+
+
+Text from AGW-1_General_Purpose_Bombs_page_40.jpeg:
+(This Page Intentionally Blank)
+
+AGW-1 D - 34
+
+
+Text from AGW-1_General_Purpose_Bombs_page_41.jpeg:
+END OF TEXT QUIZ
+
+About how much of a general purpose bomb is explosive?
+
+a. 20%
+
+b. 50%
+
+c. 80%
+
+d. 100%
+
+The blast effect is maximized in a bomb.
+a GP
+
+b. demolition
+
+e fragmentation
+
+d. penetration
+
+What fuze setting ensures weapons safe separation from the aircraft?
+
+Burst height
+
+Fuze function setting
+Safe escape altitude
+Fuze arm time
+
+ao op
+
+Which weapon maximizes frag damage?
+
+MK 82 with an instantaneous fuze setting
+MK 82 with an FMU 1138 fuze
+
+MK 82 with a .010 delay
+
+MK 82 with a .25 delay
+
+ao op
+
+E-1 AGW-1
+
+
+Text from AGW-1_General_Purpose_Bombs_page_42.jpeg:
+(This Page Intentionally Blank)
+
+AGW-1 E-2
+
+
+Text from AGW-1_General_Purpose_Bombs_page_43.jpeg:
+APC
+ATU
+BLU
+BSU
+CBU
+FMU
+FZU
+GBU
+GP
+HD
+HDGP
+HOB
+JMEM
+LD
+LDGP
+LGB
+
+LLLGB
+
+MK
+N/T
+
+SUU
+
+GLOSSARY
+
+Armored personnel carrier
+Anemometer (Vane type unit)
+Bomb live unit
+
+Bomb stabilizer unit
+Cluster bomb unit
+
+Fuze munitions unit
+
+Fuze unit
+
+Guided bomb unit
+
+General purpose
+
+High drag
+
+High drag general purpose
+
+Height of burst
+
+Joint Munitions Effectiveness Manual
+
+Low drag
+
+Low drag general purpose
+Laser guided bomb
+Low-level laser guided bomb
+Air Force design (M-117)
+Navy Design (MK-82)
+Nose/Tail
+
+Stores suspension and release unit
+
+AGW-1
+
+
+Text from AGW-1_General_Purpose_Bombs_page_44.jpeg:
+(This Page Intentionally Blank)
+
+AGW-1 F-2
+
+
+Text from AGW-1_General_Purpose_Bombs_page_45.jpeg:
+HANDOUT
+
+MK 82 AIR (BSU-49 FIN)
+
+HIGH/LOW DRAG, NOSE FUZING
+
+TO NOSE
+ARMING UNIT AIR LANYARD
+
+TO TAIL ARMING UNIT
+
+FIXED HIGH DRAG, NOSE FUZING TES NONE
+—)
+ly
+ARMING TO TAIL LANYARD STOWAGE
+WIRE ARMING UNIT CHANNEL
+
+AGW-01-18
+
+G-1 AGW-1
+
+
+Text from AGW-1_General_Purpose_Bombs_page_46.jpeg:
+MK 84 AIR (BSU-50 FIN)
+
+FIXED LOW DRAG, NOSE/TAIL FUZING
+
+CHARGING WELL ATU-35
+— )
+AIR
+TO NOSE
+ARMING UNIT ARMING UNIT RANIASD
+STOWED
+
+a
+
+HIGH/LOW DRAG, NOSE/TAIL FUZING (OPTION 2)
+
+FZU-48
+ARMING TO CENTER TO TAIL LANYARD
+WIRE ARMING UNIT ARMING UNIT STOWAGE
+
+CHANNEL
+
+FMU-139A/B A
+
+AGW-01-19
+
+AGW-1 G-2
+
+
+Text from AGW-1_General_Purpose_Bombs_page_47.jpeg:
+GP BOMB FUZES AND COMPONENTS
+
+NOSE FUZES
+
+4 FMU-113
+@)
+
+SUSPENSION LUGS
+
+CHARGING WELL
+
+AGW-01-20
+
+Arming wire - Through vane/striker rod
+Retaining clip - Installed
+
+Arm indicators - Green, no red visible
+
+Fuze - Clean, undamaged, settings checked
+
+= fo Bor
+
+G-3 AGW-1
+
+
+Text from AGW-1_General_Purpose_Bombs_page_48.jpeg:
+GP BOMB FUZES AND COMPONENTS
+
+TAIL FUZES
+
+ATU-35 DRIVE
+(USED WITH M905 FUZE)
+
+FMU-54A/B AGW-01-21
+
+Arming wire - Installed
+
+ATU-35 drive safety cotter pin - Removed
+Retaining clip - Installed
+
+Red bands on cord assemblies - Not visible
+Fuze - Clean, undamaged, settings checked
+
+AGW-1 G-4
+
+
+Text from AGW-1_General_Purpose_Bombs_page_49.jpeg:
+GP BOMB FUZES AND COMPONENTS
+
+NOSE OR TAIL FUZES
+
+FZU-48
+(USED WITH FMU-139 FUZE)
+
+FUZE WELL ARMING WIRE
+
+AGW-01-22
+
+1. Lanyard lock - Secures lanyard
+2. Fuze well arming wire - Installed
+3.  Fuzes/initiators - Clean, undamaged, settings checked
+
+G-5 AGW-1
+
+
+Text from AGW-1_General_Purpose_Bombs_page_5.jpeg:
+STUDENT PREPARATION REQUIREMENTS
+BEFORE CLASS
+1. Read TO 1F-15E-1, Section V, External Stores
+2. Read TO 1-1M-34, applicable portions
+
+3. Study the information contained in this workbook and complete the
+End of Text Quiz.
+
+C-1 AGW-1
+
+
+Text from AGW-1_General_Purpose_Bombs_page_50.jpeg:
+MK 82/MK 84 LDGP
+
+@) RETAINING CLIP
+
+STOP SCEW
+
+INSPECTION
+WINDOW
+
+SWIVEL AND LINK
+
+AFT SUSPENSION LUG
+
+TAIL ARMING WIRE (4)
+
+FORWARD SUSPENSION LUG AGW-01-23
+
+~
+
+Bomb - Secure
+
+2. Nose arming wire - Attached to aft bomb lub, through front lug, swivel
+and link attached to fwd arming unit, then to nose fuze with 1.5 to 2.0
+inch excess
+
+Nose fuze safety pin - Removed
+
+Tail fuze arming wire - Attached to fwd bomb lug, through aft lug,
+swivel and link attached to aft arming unit, then to ATU-35 drive with
+1.5 to 2.0 inch excess, retaining clip installed
+
+ATU-35 drive safety cotter pin - Removed
+
+Fuze settings - Match mission requirements
+
+Fuze access cover - Installed
+
+All access doors, panels, and fairings - Secure
+
+= oO
+
+COM DOH
+
+AGW-1 G-6
+
+
+Text from AGW-1_General_Purpose_Bombs_page_51.jpeg:
+GP BOMB TAIL FINS
+
+BSU-49 FIN
+REMAINS INSTALLED FOR LOW DRAG GP BOMB TAIL FINS
+DELIVERY AND IS DISCONNECTED FOR
+HIGH DRAG DELIVERY Ww
+
+BSU-50 FIN AGW-01-24
+
+1. Fin body - Clean, undamaged
+2. Fuze access cover - Installed
+
+BSU-49/50 Only
+
+3. Safety latch pin - Installed
+
+4. Lanyard clip - Installed
+
+5. Release latch safing pins - Removed
+
+6. (Fixed low drag) AIR lanyard swivel loops - Stowed on spring clip
+
+G-7 AGW-1
+
+
+Text from AGW-1_General_Purpose_Bombs_page_6.jpeg:
+(This Page Intentionally Blank)
+
+AGW-1 C-2
+
+
+Text from AGW-1_General_Purpose_Bombs_page_7.jpeg:
+TEXT
+WEAPON CHARACTERISTICS
+
+There are various ways munitions accomplish their purpose. The type of
+target you are assigned dictates which weapon and fuze are to be used for
+the desired effect. Although this decision is normally made at higher
+levels, you should be aware of how munitions accomplish their
+purpose-destroying the target.
+
+Bomb Effects
+
+The destructive effect of a bomb, regardless of its size, is due to the
+detonation of the high-explosive filler. The chemical reaction (explosion) is
+used to achieve one of five basic effects in the target area: blast,
+fragmentation, cratering, armor penetration or incendiary.
+
+Blast
+
+The blast effect is caused by the tremendous overpressures generated by
+high explosive detonation. Complete detonation of high explosives can
+generate pressures up to 700 tons per square inch and temperatures in
+the range of 3000 to 4500°C prior to bomb case fragmentation.
+Approximately half of the total energy generated is used in swelling the
+bomb casing to 1.5 times its normal size prior to fragmenting and then
+imparting velocity to those fragments. The remainder of this energy is
+expended in compression of the air surrounding the bomb and is
+responsible for the blast effect. This effect is most desirable for attacking
+industrial complexes or habitable structures with the intention of blowing
+down walls, collapsing roofs, destroying or damaging machinery, etc.
+Blast is confined to relatively short distances in its effectiveness on
+personnel. The maximum distance at which the blast from a 2000 pound
+general purpose (GP) bomb is considered effective against personnel is 110
+feet. Blast effect of a GP bomb is maximized by using a fuzing system
+that produces an air or surface burst with little or no confinement of the
+overpressures. The explosive train is directed away from the point of
+impact using nose fuzing to ensure maximum blast effect.
+
+D-1 AGW-1
+
+
+Text from AGW-1_General_Purpose_Bombs_page_8.jpeg:
+Fragmentation
+
+The size of bomb fragments depends on the thickness of the case, the case
+material, the explosive, and the ratio of explosive weight to case weight.
+In weapons where fragment size is not predetermined, such as GP bombs,
+the fragments vary widely in size and weight. In weapons where
+fragmentation is the desired effect, casings are designed to produce a
+uniform fragment size calculated to optimize the effectiveness of the
+weapon against particular types of targets. Fragments of a bomb case can
+achieve velocities from 3000 to 11,000 fps depending on the type of bomb,
+(for example, GP bomb fragments have velocities of 5000 to 9000 fps).
+Fragmentation is effective against troops, vehicles, aircraft and other soft
+targets. The fragmentation generated from the detonation of a
+high-explosive bomb has greater effective range than blast, usually up to
+approximately 3000 feet regardless of bomb size. The fragmentation effect
+can be maximized by using a bomb specifically designed for this effect, or
+by using a GP bomb with an air burst functioning fuze.
+
+Cratering
+
+With conventional aircraft-delivered bombs, the cratering effect is
+normally achieved by using a GP bomb with a delayed fuzing system.
+This system allows bomb penetration before the explosion occurs and
+permits the formation of a larger crater as a result. This effect is most
+desirable in interdiction of supply routes and area denial operation. It
+also has application in attacks on multiple-storied buildings. Rather than
+detonating the bomb instantaneously on impact with the roof of a
+building, the delayed fuzing allows the bomb to penetrate and use the
+confinement of the building walls to increase the destructive effect. The
+kill mechanism is usually blast or fragmentation. The explosive train is
+directed towards the point of impact using tail fuzing for cratering and
+penetration.
+
+Armor Penetration
+
+Armor penetration is an effective damage mechanism against tanks,
+assault guns, armored personnel carriers (APCs), and other armored
+targets. Whether accomplished by high kinetic energy penetrators or by
+shaped charges, penetration is accompanied by damage within the target
+by blast fragmentation or incendiary effects. A major problem associated
+with penetration weapons is the lack of damage visible to the follow-on
+attacker. This may result in repeated attacks to produce battlefield
+evidence that a target is no longer a threat.
+
+AGW-1 D-2
+
+
+Text from AGW-1_General_Purpose_Bombs_page_9.jpeg:
+Incendiary
+
+Fire is effective in interrupting operations of enemy personnel and in
+damaging supplies stored in the open. Although a relatively small
+firebomb can provide a spectacular display, it often does less damage than
+indicated.
+
+Conventional incendiaries, which started great fires during World War II,
+had little penetrating capability. Munitions have now been developed
+with full fragmentation and penetrating capabilities coupled with reactive
+incendiary devices. These improved incendiaries are highly effective
+against fuel and other flammable targets.
+
+Bomb Types
+Bombs are generally categorized according to the ratio of explosive weight
+to total weight. Categories include GP, penetration, demolition and
+
+fragmentation.
+
+General Purpose Bombs
+
+GP bombs can be used against a variety of targets. Since the body case is
+approximately 2 inch thick, the casing creates a fragmentation effect at
+the moment of detonation. Also, since the explosive filler constitutes
+approximately 50% of the total weight, considerable damage from the
+blast effect can be gained through the use of proximity fuzes. A general
+purpose bomb can be used for cratering by installing a steel nose closure
+plug and using a tail fuze. This configuration penetrates medium hard
+targets. The bomb was given the designation GP because of its versatility.
+These bombs normally weigh between 250 and 2000 pounds and produce
+relatively good blast and fragmentation. Examples of this type are the
+500 pound MK 82 and 2000 pound MK 84 series bombs.
+
+D-3 AGW-1
+
+

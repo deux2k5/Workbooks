@@ -1,0 +1,1571 @@
+Text from AGD-1_Low_Altitude_Awareness_Training_page_1.jpeg:
+SUPPORTS COURSES
+FIS5EBQ
+
+FISETX
+
+FISESOC
+
+ACADEMIC STUDENT WORKBOOK
+F-15E
+
+AIR-TO-GROUND DELIVERY
+AGD-1
+LOW ALTITUDE AWARENESS
+TRAINING (LAAT)
+
+MARCH 1999
+
+(OFP N/A)
+
+AIR COMBAT COMMAND
+
+
+Text from AGD-1_Low_Altitude_Awareness_Training_page_10.jpeg:
+Mission Critical Tasks
+
+The dynamic and varied nature of missions dictates mission tasks to be
+general in nature, with a “floating” priority (Figure D-3). The four tasks are
+situational awareness, navigation, threat, and the aggregation of command,
+control, and communication.
+
+COMMAND, CONTROL,
+COMMUNICATION
+
+THREAT
+
+FLOATING
+PRIORITY
+
+NAVIGATION
+SITUATIONAL
+AWARENESS
+
+AGD-01-03
+
+Figure D - 3. Mission Critical Tasks.
+
+Situational awareness (SA), for this course, is the task management process
+that controls the sorting and sequencing of mission critical tasks. It is also
+the cognitive link between mission and terrain clearance tasks.
+
+Navigation is a single term for everything from time, distance and heading,
+to visual acquisition of a turn point or target.
+
+Threat is everything from the use of the tactical electronic warning system
+(TEWS) and electronic countermeasures (ECM) to terrain masking and
+reacting to an engagement.
+
+Command, control and communication (C*) includes the “routine” chores from
+flying formation and communication (radios or otherwise) with your flight
+members or air traffic controllers, to getting “bullseye” calls from AWACS or
+instructions from FACs.
+
+AGD-1 D-4
+
+
+Text from AGD-1_Low_Altitude_Awareness_Training_page_11.jpeg:
+Mission tasks encompass such things as simple switch changes to complex
+mental interpretation and calculation. The internal hierarchy is fluid
+depending upon phase and complexity of the mission. It is important for the
+crew to distinguish between critical and noncritical tasks, and imperative
+that a crew never drop a critical task for a noncritical task (Figure D-4).
+
+Legend: TCT = Terrain Clearance Tasks
+MCT = Mission Critical Tasks
+NCT = Noncritical Tasks
+
+NOTE
+
+Any combination of TCT + MCT + NCT greater than 100% creates a task
+overload situation.
+
+TASK
+OVERLOAD
+
+Sas PERCENTAGE
+OFTIME ie vad
+
+0%
+SYSTEM TARGETING TERRAIN TEWS TERRAIN REDUCED
+UPDATE THREAT MASKING VIS (SMOKE & FIRE)
+
+AGD-01-04
+
+Figure D - 4. Task Management and AGL.
+
+D-5 AGD-1
+
+
+Text from AGD-1_Low_Altitude_Awareness_Training_page_12.jpeg:
+How Low Can You Go?
+
+Minimum altitude (MA) is determined by the crew’s finite capability to do
+nothing other than terrain clearance tasks (TCTs); i.e., fly low (Figure D-5).
+The altitude varies with aircraft configuration, crew proficiency, weather,
+terrain, etc. No mission tasks are accomplished.
+
+NON TCT
+
+LOW ALT
+ENVIRON-
+MENT
+
+CRITICAL
+TASKING
+ALTITUDE
+
+MINIMUM
+ALTITUDE
+
+GROUND
+TASKING AGL
+
+MISSION TIME
+AGD-01-05
+
+Figure D - 5. Task Management and AGL.
+
+The lowest altitude at which you can accomplish your mission is known as
+your critical tasking altitude (CTA). In a crew aircraft the prior coordination
+of critical tasks may allow CTA to equal MA. CTA varies with mission
+complexity, systems degradation, environment, proficiency, etc.
+
+When operating above CTA, time is available for noncritical tasks. Once
+terrain clearance tasks fall out of your basic cross-check you are no longer
+
+operating at low altitude. It is this hierarchy which determines “how low you
+
+can go.”
+
+AGD-1 D-6
+
+
+Text from AGD-1_Low_Altitude_Awareness_Training_page_13.jpeg:
+This floating priority of mission tasks never applies to terrain clearance
+tasks. Avoiding the ground is a function of physics; accomplishing the
+mission is a function of interpretation. Figure D-6 is a graphic depiction of
+low altitude task priorities.
+
+LEAST IMPORTANT
+NONCRITICAL TASKS
+
+MISSION CRITICAL TASKS
+
+TERRAIN CLEARANCE
+
+TASKS
+MOST IMPORTANT
+
+AGD-01-06
+
+Figure D - 6. Consolidated Low Altitude Task Priorities.
+
+D-7 AGD-1
+
+
+Text from AGD-1_Low_Altitude_Awareness_Training_page_14.jpeg:
+AGD-1
+
+QUESTIONS
+Which maneuver(s) created the highest percentage of accidents?
+
+Straight and level
+Vertical maneuvers
+Turning and looking
+Unknown
+
+po op
+
+What is the crew’s primary responsibility during low altitude
+training?
+
+a. Terrain clearance tasks
+
+b. Mission tasks
+
+c. Navigating and timing
+
+d. Flying good tactical formation
+
+Which terrain clearance task has the highest priority?
+
+Vector control
+AGL control
+Time control
+Aircraft control
+
+Bo op
+
+What are the four mission tasks?
+
+po op
+
+
+Text from AGD-1_Low_Altitude_Awareness_Training_page_15.jpeg:
+ANSWERS
+
+a
+d
+
+situational awareness, navigation, threat and C®
+
+D-9 AGD-1
+
+
+Text from AGD-1_Low_Altitude_Awareness_Training_page_16.jpeg:
+LOW ALTITUDE PHYSICS
+
+The purpose of this section on low altitude physics is to cover the dynamics of
+maneuvering flight. Understanding these principles will help you to know:
+
+@ = what to look for,
+
+@ = when to look for it,
+
+@ where to find it, and
+
+@ how to use it.
+Straight and Level
+
+Straight and level is the dominant maneuver during low altitude flying. To
+properly establish reasonable mission cross-check time, first determine the
+time to impact (TTD for typical deviations. First, the time to impact is
+directly dependent on the beginning AGL. If you double the beginning AGL
+from 100-200 feet AGL, you double the time to impact. It is just the opposite
+for TAS; double your speed, cut your time in half. Finally, time to impact
+varies approximately inversely with small changes (up to 4°) in the flight
+path angle. Double your flight path angle, cut your time to impact in half. In
+terms of typical AGLs, speeds, and flight path angles, Figure D-7 depicts
+common values. It becomes obvious that the basic variables for straight and
+level are AGL and speed. Straight and level flight allows relatively long
+mission cross-check times of 3-5 seconds at 100-300 feet AGL over flat,
+predictable terrain. However, anymore than 3 seconds at 100 feet AGL is
+unacceptable. Five seconds is acceptable anywhere above 300 feet AGL. If
+the pilot ever looks away from the vector for more than five continuous
+seconds, at or above 300 feet, the deviations become unpredictable. The same
+holds true for 3 seconds at 100 feet. These rules of thumb provide plenty of
+mission cross-check time for critical tasks without allowing an excessive
+deviation to develop.
+
+AGD-1 D-10
+
+
+Text from AGD-1_Low_Altitude_Awareness_Training_page_17.jpeg:
+TIME (IN SECONDS) TO IMPACT
+
+FPA = -1° FPA = -2°
+480KTS  240KTS 480KTS  240KTS
+
+NOTE: DOUBLE AGL, THEN DOUBLE TTI
+DOUBLE YOUR FPA, THEN HALVE YOUR TTI
+DOUBLE AIRSPEED, THEN HALVE YOUR TTI
+
+AGD-01-07
+
+Figure D - 7. Straight and Level Time to Impact Values.
+
+The crew must learn to break up critical and noncritical tasks into 3-5 second
+chunks as opposed to counting on a 5+ second mission cross-check time.
+
+Thus, straight and level is a very stable maneuver which allows ample
+mission cross-check time even at 100 AGL and serves as the basic low
+altitude reference. Because a vast majority of low altitude flying is straight
+and level, it is easy to become very comfortable at a given AGL. The difficult
+part of low altitude flying is the constant time control, and the fact that
+inherent stability of straight and level sets the crew up for a serious timing
+mistake in turns and, to some degree, in vertical maneuvers. Low altitude
+can also lead to disaster in straight and level flight if deviations attributable
+to visual illusions or terrain contour are not detected.
+
+D-11 AGD-1
+
+
+Text from AGD-1_Low_Altitude_Awareness_Training_page_18.jpeg:
+Wings Level Bunt
+
+Since you spend the majority of your time straight and level, pacing is based
+on its dynamics. The real danger is that once you vary G, bank, or dive angle
+all the familiar timing references no longer apply. Straight and level sets you
+up for trouble, since it is where you develop a comfort level. While flying
+straight and level, a common maneuver is a wings level near zero G bunt. It
+is used to increase speed, or lower your vector for a descent, and works nicely
+on the back of some ridgelines. The bunt is significantly different than the
+straight and level situation because you are intentionally accelerating your
+body toward the ground. At 480 knots with zero G you may feel or perceive
+yourself as floating, but you are actually accelerating toward the ground,
+with a forward TAS. The altitude lost is equal to one-half the acceleration
+times the square of the time. This means in three seconds you lose nine
+times the altitude you lost in the first second. Airspeed determines flight
+path angle during the duration of the bunt. The faster you go, the less the
+nose drops. This makes the altitude loss much less obvious from the cockpit
+at high speeds; so be aware of the rapid, yet insidious, descents.
+
+Figure D-8 shows the resulting aircraft positions for zero G bunts at 240 and
+480 knots. In both cases, the bunt is held for the same amount of time, and
+both lose the same altitude, but their forward velocity is different. The result
+is different flight path angles after the same time.
+
+AGD-01-08
+
+Figure D - 8. Wings Level Zero G Bunt, Flight Path Angle.
+
+AGD-1 D-12
+
+
+Text from AGD-1_Low_Altitude_Awareness_Training_page_19.jpeg:
+To provide some specific times for calculating mission cross-check time,
+Figure D-9 shows some typical impact times for the zero G bunts. Again,
+notice that airspeed does not affect time to impact. The wings level bunt
+loses altitude very rapidly, and therefore, should be fully monitored by both
+crew members, if possible.
+
+TIME (IN SECONDS) TO IMPACT
+
+480 KTS
+
+NOTE: AIRSPEED HAS NO EFFECT ON TTI
+
+AGD-01-09
+
+Figure D - 9. Wings Level Bunt Time to Impact (Zero G).
+
+Unlike straight and level, which requires only 30-50 feet to stop a 1° descent
+(about 1.5 seconds prior to impact), the bunts need to be stopped and recovery
+started before 50% of the time to impact is used up. In this case, the crew
+can hold a zero G bunt from 500 feet AGL for only a little over 2.5 seconds
+before a recovery must be started. The caution is one of ensuring the pilot
+controls the duration of the bunt (time control) and limits the maximum dive
+angle achieved to -10° (as a rule of thumb).
+
+D-18 AGD-1
+
+
+Text from AGD-1_Low_Altitude_Awareness_Training_page_2.jpeg:
+ADMINISTRATIVE INFORMATION
+
+This student workbook is designed to provide information on the F-15E,
+its systems, and capabilities. It is not a sole source document, but is to be
+used in conjunction with other standard Air Force publications and
+technical manuals. If you find any differences between the material
+contained herein and other governing regulations, adhere to the
+regulations and notify the OPDR.
+
+Changes to this workbook are indicated with a heavy black line in the left
+margin.
+
+Forward recommendations for revision or change to 4 TS, SJAFB, NC,
+275381.
+
+Supersedes: AGD-1, March, 1998
+
+OPDR: 4TS
+
+Index of Changes
+
+Effective Date Pages Affected
+
+
+
+Text from AGD-1_Low_Altitude_Awareness_Training_page_20.jpeg:
+LOW ALTITUDE MANEUVERS
+Vertical Maneuvers
+
+Vertical maneuvers include three basic types: steady state dives, high-low
+transitions, and low-high-low pop-ups. The tactical applications include long
+steady descents from high altitude, base position roll-ins for weapons
+delivery, slices for low altitude intercepts, and pop-ups for minimum exposure
+weapons delivery. Unlike straight and level, the vertical maneuvers are used
+to intentionally lower the AGL and involve flight path angles from -5° to as
+steep as -90°.
+
+There are three rules to ensure safe vertical maneuvering over a wide range
+of tactical situations. The “dive recovery rules” are used for the steady state
+descents. The “50% rule” is used for the high-low transitions. The “10° rule”
+is used for the low-high-low maneuvers. When properly applied, these rules
+allow the crew to exploit the full maneuvering envelope with the least
+amount of terrain clearance tasking, which allows more concentration on
+mission critical tasking.
+
+AGD-1 D-14
+
+
+Text from AGD-1_Low_Altitude_Awareness_Training_page_21.jpeg:
+Dive Recovery Rules
+
+As a basic rule, to descend a few hundred feet, use a negative flight path
+angle equal to the desired altitude loss in hundreds of feet. For example, to
+lose 400 feet, use a -4° flight path angle and monitor the altimeter and visual
+cues for recovery. This simple relationship works well up to the 5° descent
+where the “dive recovery rule” AGL should be used. Dive recovery rules, used
+for steady state descents, are simply five AGL and flight path angle
+combinations which determine when to start a recovery to level flight to
+ensure ground clearance (Figure D-10). For those that routinely drop bombs,
+some of the numbers are familiar. For those not accustomed to pointing the
+nose of the aircraft at the ground, they seem low. After the pilot gains
+proficiency with the HUD and radar altimeter cross-check required for this
+maneuver, the crew finds that their terrain clearance tasks required for rapid
+descents to low altitude are significantly reduced, freeing more mission
+cross-check time. In practice, a 10° descent is best in terms of balancing
+rapid descents with ease of cross-check.
+
+FLIGHT PATH ANGLE START RECOVERY AGL
+(DEGREES) (FEET)
+
+250
+-10 500
+
+750
+1000
+1500
+
+¢ ASSUMPTIONS:
+- SPEED BETWEEN 450 KTAS AND 560 KTAS
+- ONLY A 1.5 SECOND BUFFER IS INCLUDED
+- MINIMUM ONSET AND PULL OUT IS 4 Gs IN 2 SECONDS
+- LOWEST RECOVERY AGL IS 100 FEET
+
+AGD-01-10
+
+Figure D - 10. Dive Recovery Rules.
+
+D-15 AGD-1
+
+
+Text from AGD-1_Low_Altitude_Awareness_Training_page_22.jpeg:
+50% Rule
+
+For high-low transitions, use the 50% rule to find the maximum safe flight
+path angle for a 90° turning roll-in. The flight path angle is equal to 50% of
+the preroll-in AGL in hundreds of feet (Figure D-11). For example, if the
+crew’s current AGL is 4000 feet, they can safely accomplish a 90° roll-in to a
+maximum of a 20° dive. If their AGL were 2000 feet, 10° would be the
+maximum. This rule can easily be applied to repositioning on a target from a
+pop-up or rolling in on a tactical target from a wheel pattern. Obviously,
+because of the variability associated with roll-in techniques, this rule is not
+as precise as the dive recovery rules. The 50% rule ensures that by the time
+the crew establishes the calculated flight path angle, they are at or above the
+“dive recovery rule” AGL for that flight path angle. If you turn less than 90°,
+you have a bigger buffer. If you turn more than 90°, you may have no buffer
+and may end up below the dive recovery AGL. Note that the 50% rule does
+not take into account safe escape, fuzing, or weaponeering considerations—
+only ground clearance.
+
+20° DIVES”
+
+chon iene irae
+
+AGD-01-11
+
+Figure D- 11. 50% Rule.
+
+AGD-1 D-16
+
+
+Text from AGD-1_Low_Altitude_Awareness_Training_page_23.jpeg:
+10° Rule
+
+The 10° rule applies to the low-high-low maneuvering such as vertical jinks
+over flat terrain. It can be used without any reference to altitude because it
+relies on the control of time and geometry to ensure terrain clearance. It is
+dead reckoning through the vertical. Simply stated, the 10° rule is start
+rollout at or before a dive angle equal to your highest observed climb angle
+minus 10°, and start pullout at or before a time equal to the time spent in the
+climb. For example in Figure D-12, the climb flight path angle is equal to 20°
+and the climb is held for five seconds. The rollout from the inverted pull at
+the top is started at 10° of dive angle (climb angle minus 10), and the nose
+drops an additional 5° during the roll. The descent is held for five seconds
+(equal to the time in the climb), and then the dive pullout is accomplished to
+level flight.
+
+INVERTED
+ROLL INVERTED
+
+PULL
+5 SEC Ny i
+
+PULL TO +20 FPA
+
+AGD-01-12
+
+Figure D - 12. 10° Rule Example.
+
+D-17 AGD-1
+
+
+Text from AGD-1_Low_Altitude_Awareness_Training_page_24.jpeg:
+The 10° rule allows unlimited tactical use of the vertical maneuvering
+envelope of the aircraft while ensuring safe terrain clearance, because the
+descent is 5° less than the climb, making it an altitude gaining maneuver.
+However, there are several factors which define its limits. The first factor is
+the rate of pull-up and pull-down. To preserve the geometry-time
+relationship, the inverted pull-down must always be equal to or faster than
+the pull-up. The second factor is the airspeed during the maneuver.
+Obviously, if you are slower during the descent than the climb, you will have
+more buffer; faster during the descent, less buffer. Third, the rule is based on
+the same assumptions for the pullout as the dive recovery rules. Safe
+recovery is ensured if the pilot executes the pullout the same. Fourth, the
+rule assumes level terrain during the maneuver. If the terrain is
+significantly higher during the pull-down (rising terrain, for example), there
+may not be adequate altitude to recover. As you can see, time control is
+imperative. Simply add extra time to the climb portion of the maneuver to
+give yourselves more buffer, making room for more mission cross-check time.
+
+Turns
+
+The final category of low altitude maneuvering is the turn. The time to
+impact for the level turn is the same as the zero G wings level bunt with an
+added bank angle calculation which magnifies the vertical component.
+However, there is a distinct difference between the 90° bank and the zero G
+wings level bunt. First, it is extremely difficult to perceive that you are
+falling when you have 4, 5, 6, or even 9 positive Gs on your body. Therefore,
+your ability to catch an error by any means other than visual is hampered.
+The second difference, and by far the most significant, is the bank angle
+sensitivity. Even very small bank angle deviations of 5° or 10° dramatically
+reduce time to impact for turns when compared to straight and level times to
+impact at the same AGL. Once 90° is exceeded you are “pulling” toward the
+ground. A 10° overbank is considered as the “typical” deviation. Figure D-13
+lists the time to impact for several turns ranging from 2-6 Gs. The first bank
+angle is that required for a level turn and the second bank angle, in
+parentheses, includes the 10° overbank.
+
+AGD-1 D-18
+
+
+Text from AGD-1_Low_Altitude_Awareness_Training_page_25.jpeg:
+The values in Figure D-13 illustrate the importance of controlling the bank
+angle and G combination. This table also shows the effects of the
+acceleration toward the ground as the bank angle and G increase. With a 10°
+overbank, the time to impact values are essentially the same for any turn of
+3 Gs or more. The bottom line—turning and looking is a death act.
+
+TIME (IN SECONDS) TO IMPACT
+
+6G
+
+100 AGL
+
+300 AGL
+
+500 AGL
+
+NOTE: THE NUMERIC VALUES ARE FOR THE 10° OVERBANK
+IN PARENTHESIS
+
+AGD-01-13
+
+Figure D - 13. Time to Impact, Level Turn with 10° Overbank.
+
+D-19 AGD-1
+
+
+Text from AGD-1_Low_Altitude_Awareness_Training_page_26.jpeg:
+Figure D-14 provides a more useful side-by-side comparison for deviations
+from straight and level flight and level turns by comparing the actual time to
+impact along with the point of recovery. This comparison shows the stability
+of straight and level flight while showing the instability of turning
+maneuvers.
+
+TIME (IN SECONDS) TO IMPACT/TIME TO RECOVER
+
+STRAIGHT AND LEVEL 4G LEVEL TURN
+(-1° DEVIATION) (+10° OVERBANk)
+
+21/19.5 4.5/2.3
+35 / 33.5 5.8/2.9
+
+NOTE: TABLE IS COMPARING TTI FOR DEVIATIONS FROM
+STRAIGHT AND LEVEL VS DEVIATIONS FROM LEVEL
+TURNS AND SHOWS TIME TO LAST CHANCE
+RECOVERY POINT
+
+AGD-01-14
+
+Figure D - 14. Straight and Level Flight Versus Level Turn.
+
+AGD-1 D - 20
+
+
+Text from AGD-1_Low_Altitude_Awareness_Training_page_27.jpeg:
+The mission cross-check times for straight and level have been capped at a
+maximum of five seconds. The values in Figure D-15 represent the desired
+values; any less and the crew is adding protection (but limiting their mission
+time); any added time and they are jeopardizing their safety. With proper
+training in task management, the mission can be accomplished safely within
+these time constraints.
+
+TIME (IN SECONDS) FOR CROSS-CHECKING
+
+STRAIGHT AND LEVEL 4G LEVEL TURN
+PCE DEVIATION ° DEVIATION) | (F10" OVERBANK) 0° OVERBANK)
+
+Figure D - 15. Mission Cross-check Time Comparison.
+
+AGD-01-15
+
+D-21 AGD-1
+
+
+Text from AGD-1_Low_Altitude_Awareness_Training_page_28.jpeg:
+VISUAL PERCEPTION: OPTICAL FLOW
+
+Optical flow is based on the way objects flow below, around, and past the
+crew’s eyes as they fly the aircraft over and around the terrain. From this
+information, their visual perception system interprets their rate and direction
+of motion. Optical flow is also a function of each object’s location relative to
+the aircraft’s velocity vector and the distance to the object. In flight terms
+this means the crew’s flight path angle, speed, AGL, and slant range to each
+object projected over time. Optical flow can be applied to each of the basic
+low altitude maneuvers.
+
+Straight and Level
+
+For straight and level (Figure D-16), objects flow back in a symmetrical
+pattern with those directly under the velocity vector dropping in elevation
+only under the aircraft. Objects to the side move in both elevation and
+azimuth under and away from the aircraft. Objects directly inside the
+velocity vector do not move in either elevation or azimuth; if you wait until
+they get to the aircraft, you hit them. Those that are either dropping or
+flowing outward, you will miss, at least with your eyes.
+
+AGD-01-16
+
+Figure D - 16. Straight and Level Optical Flight.
+
+AGD-1 D - 22
+
+
+Text from AGD-1_Low_Altitude_Awareness_Training_page_29.jpeg:
+Fortunately, optical flow in straight and level is very sensitive to AGL for a
+given speed. As you lower the AGL in straight and level, the optical flow
+increases, and you quickly sense an increase in “speed rush,” telling you that
+you are getting lower. Initially this works well, but the eye is so adaptive, it
+quickly accommodates to any given situation and sets a new relative
+reference for detecting changes. This phenomena is called the “speed rush
+baseline” because it establishes a relative optical flow reference from which
+subsequent perceptual evaluations of AGL and speed are created. It takes
+about 30 seconds to 1 minute to establish a new reference, and therefore as
+the pilot flies, the perceptual tendency is to get lower and lower, or feel safer
+and safer at the same AGL. This could lead to complacency or too much
+mission cross-check time, and eventually striking the ground, because it
+diverts attention from the primary job of terrain clearance tasks. Therefore,
+bring in the absolute reference of a radar altimeter, or suitable substitute, to
+periodically “cage your eyeballs” during the straight and level maneuvers.
+Further, a visual cross-check should concentrate on the area just below the
+HUD velocity vector and look for those objects that are not dropping in
+elevation. This area is highlighted in Figure D-17. If you detect an obstacle
+starting to fill the HUD, pull instinctively; there is no time for detailed
+analysis.
+
+AGD-01-17
+
+Figure D - 17. Where to Look During Straight and Level.
+
+D - 23 AGD-1
+
+
+Text from AGD-1_Low_Altitude_Awareness_Training_page_3.jpeg:
+AIR-TO-GROUND DELIVERY
+
+i)
+SSS es)
+po oe ed
+
+COVER
+
+LOW ALTITUDE AWARENESS TRAINING (LAAT
+
+INTRODUCTION
+
+This workbook is designed to familiarize you with the low altitude
+environment. It provides you with information on the risks associated
+with low altitude, and develops a system of task management to allow you
+to minimize those risks. It helps you develop or refine your judgement
+based on a thorough understanding of low altitude physics, visual
+perceptions and illusions, environmental considerations, and basic rules of
+thumb for use in low altitude flying.
+
+CONTENTS:
+
+INTRODUCTION 0.000. eeecceesseeeesneeceseeeeesaeecesaeeeessaeeessaeeessaeesessaeeens A-1
+CRITERION REFERENCED OBJECTIVES (CROs).............eeeeseeeeeeeeees B-1
+STUDENT PREPARATION REQUIREMENTS . 0.00... eeeeeeeeeeeeeeee C-1
+CEE os ses sans sos cores nos nas ois cua cares canis ans as RSA SNS Onis aU KUNE kK NewS SHES KoRKG MU NaS HSS aUD KR D-1
+END OF TEXT QUIZ ou. ececcccesseeecesneeceesaeecesacesensaeecesaeeseseeeenaees E-1
+(ina) F-1
+
+
+Text from AGD-1_Low_Altitude_Awareness_Training_page_30.jpeg:
+In summary, for straight and level you need to know the following:
+@ What to look for—terrain not moving at the velocity vector.
+@ When to look for it—every 3-5 seconds depending upon AGL.
+@ Where to find it—in the HUD, at or below the velocity vector.
+@ How to use it—climb.
+
+Vertical Maneuvers
+
+For the vertical maneuver analysis, a 20° dive represents a good example and
+is depicted in Figure D-18. When in a dive, everything expands or flows
+outward from the impact point/velocity vector. Unfortunately, the rate of
+movement—the only thing the crew can see—gets slower the steeper the dive.
+Yet the steeper the dive, the faster you are going toward the ground and the
+sooner the pilot needs to pull out. This presents a real problem and makes
+
+accurate visual dive recoveries unreliable. This is what makes vertical
+maneuvering dangerous.
+
+As the climb and dive angles of the vertical maneuver increase, the visual
+capability to warn the crew of the dangers decreases, unlike straight and
+
+level. This explains the 11:1 ratio in fatalities to exposure for the vertical
+maneuvers.
+
+Sara Reval
+oi
+|e)
+f coi — 2 *
+7 oe oy =a e's) rie, a
+“Hi . a es 50) ale of 2
+tae B. © 6. IIIS) .2."(- (O} an
+i we rf Ol LIE (5) ’ "
+2 " [ ° Q A O59 4 et % ; | t ee
+a ae : a CC] B a: © we ie 7
+— eo" | .
+
+AGD-01-18
+
+Figure D - 18. Vertical Maneuver Optical Flow.
+
+AGD-1 D - 24
+
+
+Text from AGD-1_Low_Altitude_Awareness_Training_page_31.jpeg:
+Cues for Detecting Deviations
+
+As already mentioned, optical flow for dive recoveries is insufficient. The
+crew must react based on actual dive angle and present AGL. Both are
+available in the HUD (this assumes radar altimeter is selected or you are
+aware of the area MSL). The crew needs to then apply the dive recovery
+
+rules taught earlier or dive recovery techniques presented in TO 1F-15E-1-1,
+Figures A9-17 through A9-20.
+
+Vertical maneuvering summary:
+@ What to look for—dive angle and AGL altitude.
+@ When to look for it—continuously during steady state dives.
+@ Where to find it—in the HUD.
+@ How to use it—compare flight conditions with established dive
+
+recovery rules or emergency recovery procedures as appropriate
+until intercepting dive recovery rules.
+
+D- 25 AGD-1
+
+
+Text from AGD-1_Low_Altitude_Awareness_Training_page_32.jpeg:
+Turns
+
+Figure D-19 shows optical flow in a turn. Objects well outside of the crew’s
+turn radius flow parallel to the horizon to the outside of their turn. Those
+just outside flow laterally to the outside, but also drop in elevation and pass
+the outside wing. The objects on your ground track move laterally but into
+the canopy structure and simultaneously drop down in elevation to pass
+directly under the aircraft. These objects all pass directly through the HUD
+as explained earlier. The objects inside the turn also move laterally and drop
+in elevation, but they drop faster in elevation and stop the lateral movement
+before reaching the canopy structure and pass off the inside wing.
+
+AGD-01-19
+
+Figure D - 19. Turning Optical Flow.
+
+AGD-1 D - 26
+
+
+Text from AGD-1_Low_Altitude_Awareness_Training_page_33.jpeg:
+Figure D-20 provides a vertical (God’s eye) view of a constant G level turn.
+The velocity vector represents a line (A) tangent to the turn radius. This
+shows where the aircraft ground track would be if you rolled out of the turn.
+
+NOTE: TIMES ARE SECONDS
+"INTO TURN" 4 Gs,
+480 KNOTS
+GROUND SPEED
+
+AGD-01-20
+
+Figure D - 20. Vertical View of a Level Turn.
+
+As seen from the cockpit, this line is represented by the HUD velocity vector.
+The curved line (B) represents the projected ground track for the turn
+assuming the G, bank angle, and airspeed are held constant. By calculating
+the turn rate, a time of arrival can be determined for each point along the
+ground track. The times for a 4 G, 480 knot level turn are plotted and labeled
+in Figure D-20 as tic marks along the ground track. Thus, if an object were
+sticking up at point (C), you would hit it in approximately 2.0 seconds, if you
+did not roll out partially toward the velocity vector or tighten the turn.
+
+D-27 AGD-1
+
+
+Text from AGD-1_Low_Altitude_Awareness_Training_page_34.jpeg:
+By using the velocity vector as a reference and adding in the angle of attack
+for the G and airspeed, the positions of several cockpit references can be
+overlaid on Figure D-20. For example, the line from the pilot’s eye point in
+the cockpit to the canopy bow projected out to the horizon intersects your
+projected ground track at point (D) or about the 3.5 second point in the turn.
+
+In other words, your ground track for the next 3.5 seconds is visible between
+the velocity vector (0 seconds) and the canopy bow (3.5 seconds) at 4 Gs and
+480 knots ground speed.
+
+If the pilot scans from the velocity vector to the canopy bow, he is checking
+the next 3.5 seconds of the ground track (Figure D-21). This is well within
+any of the mission cross-check times for the level turn. The pilot’s eyes are
+pointed in the optimal spot for seeing nose slice and provides easy
+interpretation of the HUD velocity vector for precise control of the level turn.
+If a hard-to-see object “pops up” under the canopy bow but before the velocity
+vector, the pilot should roll out and let it pass to the inside of the turn. The
+top of the HUD combining glass provides a 2.0 second warning.
+
+CANOPY BOW (3.5 SEC)
+
+TOP OF HUD (2.0 SEC)
+
+AGD-01-21
+
+Figure D - 21. Cockpit View of Level Turn.
+
+AGD-1 D - 28
+
+
+Text from AGD-1_Low_Altitude_Awareness_Training_page_35.jpeg:
+Nose slice to the inside of the turn is the most dramatic cue for controlling
+the level turn. The amount of nose slice and therefore the ease with which it
+can be seen is a function of airspeed, altitude and environment. The faster
+you go, the less nose slice you see for a given overbank. The time to impact
+and the time required to stop it are the same, but a slow speed deviation is
+easier to see than a high speed deviation. The closer to the ground the more
+obvious the nose slice is. If there is very little background against which to
+see the nose slice, it is harder to detect. The classic cases are over water,
+haze, weather, or at night. As stated, the nose slice and HUD are the two
+cues to monitor on a 1, 2, or 3 second basis and that implies looking
+essentially right out the front of the aircraft (Figure D-22). When the pilot’s
+cross-check is through the HUD to the canopy bow, he will protect the crew
+from the low contrast, hard-to-see objects, and have their eyes in the best
+spot to see the nose slice and monitor the velocity vector for precision. WSOs
+should monitor this too, using the HUD repeater, particularly when the pilot
+is checking six or is inside the cockpit. The crew can take 1-2 second glances
+into the turn to anticipate rising terrain.
+
+NOTE: 4G, 10° OVERBANK
+(85° OF BANK)
+
+AGD-01-22
+
+Figure D - 22. Nose Slice Due to Overbank.
+
+D - 29 AGD-1
+
+
+Text from AGD-1_Low_Altitude_Awareness_Training_page_36.jpeg:
+The crew now knows:
+@ What to look for—nose slice to the inside of the turn.
+@ When to look for it—every 1, 2, or 3 seconds, depending on AGL.
+
+@ Where to find it—out the front of the aircraft; between the velocity
+vector and the canopy bow.
+
+@ How to use it—reduce the bank angle or roll out to stop the nose
+slice.
+
+RIDGE CROSSINGS
+
+Now that you have heard the basics of low altitude maneuvering, let us move
+on to some tactical applications. Crossing ridge lines in high threat areas can
+be a dangerous maneuver. The aircraft is highlighted to both ground and air
+threats, so minimizing exposure is paramount. The type of crossing you
+execute will depend on your comfort level and knowledge of the terrain.
+Detailed route study is essential, especially when flying a mission over
+terrain you are seeing for the first time. Ridge crossings should be avoided if
+at all possible, but obviously, many situations will force you to cross a ridge.
+Plan for and practice good ridge crossing techniques. The three types of ridge
+crossings that are commonly employed are perpendicular, parallel, and
+saddle.
+
+AGD-1 D - 30
+
+
+Text from AGD-1_Low_Altitude_Awareness_Training_page_37.jpeg:
+Perpendicular
+
+This crossing minimizes enemy radar or visual acquisition but should be done
+only when you know your 6 o’clock is clear (Figure D-23). Accelerate as
+required to maintain tactical airspeed during the pull-up. Pull early enough
+to avoid a large overshoot crossing the ridge, so you crest the ridge at your
+specified minimum low level altitude. To go down the back side, bunt or roll
+and pull, depending on the terrain. A totally inverted pull-down is
+prohibited. The roll and pull technique is most effective when crossing large,
+steep, isolated ridge lines. A bunt or pushover is more appropriate for milder,
+rolling terrain. The advantages of the bunt are straight line navigation, no
+wing flash, and less crew disorientation. Remember the zero-G transient and
+10-second negative-G restrictions. To execute the roll and pull technique,
+unload and roll to approximately 120° of bank, then slice down. At the
+desired nose low position, roll out and resume level flight. Initial attempts at
+this technique should be limited to a 15° nose low attitude. DO NOT bury the
+nose in the new valley. This maneuver may put you belly up to unexpected
+high terrain on the other side of the mountain. Consider wing flash during
+the slice/pull-down; it is highly visible.
+
+AGD-01-23
+
+Figure D - 23. Perpendicular Ridge Crossing.
+
+D-31 AGD-1
+
+
+Text from AGD-1_Low_Altitude_Awareness_Training_page_38.jpeg:
+Parallel
+
+This type of approach is appropriate if your 6 o’clock is or may be threatened
+(Figure D-24). It denies the bandit a blue sky background and provides a
+difficult guns environment. Instead of a straight approach to the ridge, turn
+to arrive at the pull-up point with approximately 45° of crossing angle to the
+ridge. Pull up later than for a perpendicular crossing, and continue to turn in
+the climb to be parallel to the ridge crest just below the top. The maneuver
+at the crest is flown similar to the pull-down during a pop-up attack. Roll
+and pull into the ridge, crossing the crest at or slightly above your specified
+minimum low level altitude. Continue a loaded roll to fly down the backside
+of the ridge, on a heading 90-135° from the ridge line. Roll out and continue
+the low level.
+
+AGD-01-24
+
+Figure D - 24. Parallel Ridge Crossing.
+
+AGD-1 D - 32
+
+
+Text from AGD-1_Low_Altitude_Awareness_Training_page_39.jpeg:
+Saddle
+
+The saddle type ridge crossing is similar to the parallel and should be used if
+the opportunity presents itself (Figure D-25). Turn parallel to the ridge line
+below the crest until you can use a saddle, canyon, or the end of the ridge line
+to cross to the other side. The exact maneuver is dictated by terrain
+characteristics. It may be as simple as a level 90° turn or a check turn right
+or left to fly through an approaching gap in the ridge. A climb may not be
+necessary, allowing you to continue terrain masking or stay below threat
+radar coverage.
+
+ie
+
+AGD-01-25
+
+Figure D - 25. Saddle Ridge Crossing.
+
+D - 33 AGD-1
+
+
+Text from AGD-1_Low_Altitude_Awareness_Training_page_4.jpeg:
+CRITERION REFERENCED OBJECTIVES (CROs)
+
+1. Identify the hazards associated with the low altitude environment to
+include the relationship between various low level maneuvers, their
+percentage of exposure, and the resulting percentage of accidents.
+
+2. Identify the terrain clearance and mission tasks, and their priority in
+low altitude flight.
+
+3. Identify the references and procedures used to control the aircraft in
+low altitude flight.
+
+4. Identify considerations when executing low altitude intercepts.
+
+REFERENCES
+
+AFTTP 3-3, Vol XVII Chapter 7 Low Altitude Operations
+
+AGD-1 B-1
+
+
+Text from AGD-1_Low_Altitude_Awareness_Training_page_40.jpeg:
+LOW ALTITUDE INTERCEPTS
+
+There are some unique problems associated with executing an intercept
+against a low altitude target, especially if he has his speed up. It may not be
+overly difficult to achieve MRM parameters in this situation, but if a VID or
+conversion for a SRM shot is required, the intercept is more difficult. The
+problems with a low, fast flier are generally two-fold; first, getting around the
+corner for a stern VID or SRM shot with enough speed to close, and second, to
+make the corner at low altitude without running into the ground. Both of the
+problems can be solved with the same technique. Use a “ramp” down or
+slicing approach path with 40-50° offset (depending on aspect). Start your
+conversion no later than a 14 aspect angle. Continue downhill at bandit
+airspeed or faster on a pure pursuit curve and slide toward the target’s
+
+6 o'clock. Make your descent gradual enough to avoid a square corner near
+the ground and, at the same time, make your conversion turn gradual enough
+to preserve your airspeed; thus, a large offset and early turn. Do not be ina
+big hurry to give up an altitude advantage. Altitude can be used to reduce
+turn radius, maintain a mach advantage, and provide potential energy for the
+conversion turn. Prior to descending to target altitude, check your weapons
+capabilities. Your best shot may not be “look up.”
+
+The technique just described is used when attacking a bandit from a higher
+altitude, or “high-to-low.” The high-to-low, low-to-low, and low-to-high
+intercept options will be practiced during your training.
+
+High-to-Low
+
+Ground controlled intercept (GCI), AWACS, and the F-15E radar will enable
+detection of low altitude threats. Beyond visual range (BVR) rules of
+engagement (ROE) will simplify employment, but certain situations will
+dictate a conversion into the low altitude regime to employ weapons. Target
+terrain masking, camouflage, and lost radar locks due to gimbal limits, beam
+clutter, or intervening terrain all complicate a kill at low altitude. Strict
+radar discipline and visual search is required to clear the area around the
+bandit and avoid being sandwiched. Get the majority of the conversion turn
+completed early to enable concentration on the target and ground avoidance
+during the last part of the conversion. Some common errors encountered
+during the conversion follow.
+
+AGD-1 D - 34
+
+
+Text from AGD-1_Low_Altitude_Awareness_Training_page_41.jpeg:
+Intercepting a shadow instead of the target.
+
+@ Failing to get a tally.
+
+@ Target fixation.
+
+@ Excessive airspeed going downhill, leading to an overshoot.
+@ Late conversion turn, leading to a cold rollout.
+
+@ Mistaking high speed for closure and pulling power too early,
+resulting in a cold rollout.
+
+@ Insufficient offset, leading to visual blanking of the target under
+your nose while pulling lead to complete the intercept.
+
+@ Attempting to stay nose-on or in-plane once the conversion is
+started. Accept an offset rollout to avoid steep pitch attitudes and
+insufficient ground clearance.
+
+Low-to-Low
+
+Many of the problems encountered in the high-to-low intercept remain in the
+low-to-low situation. Intercept execution is similar to the high-to-low but
+without the use of the vertical. Terrain masking by the bandit is much more
+of a problem, and dead reckoning the bandit’s position may be required.
+Because the terrain is a constant threat, normally the WSO runs the radar
+and intercept. If the WSO needs to check 6 o’clock, the pilot may need to take
+over the radar and intercept. In this case, a climb may be necessary for ease
+of cross-check. Radar employment over flat terrain should be effective, but if
+a ridge line is in the way, climbing may be the best option. Finally, the lower
+you are, the more weapons employment becomes a problem due to line of
+sight, collision course profile, and clutter.
+
+D- 35 AGD-1
+
+
+Text from AGD-1_Low_Altitude_Awareness_Training_page_42.jpeg:
+Low-to-High
+
+Low-to-high conversions require evaluation of both vertical and horizontal
+turning room The optimum maneuver is a chandelle to the bandit’s low
+
+6 o'clock, never leaving his blind zone. If there is not enough vertical turning
+room alone (minimum 5000 feet), gain more lateral and horizontal turning
+room with offset geometry. Obtaining a tally is not generally difficult unless
+there is a large altitude delta or low sun angle. If a large altitude delta
+exists, climb earlier to preserve airspeed during rollout. Although terrain
+avoidance is less of a problem in this scenario, avoid a square corner endgame
+which results in a slow airspeed, nose high attitude at low altitude. In this
+case, accept an overshoot in the bandit’s blind zone while preserving your
+energy. Remember, after flying at very low altitudes, 2000 feet seems like
+plenty of vertical turning room. Do not be fooled by this illusion.
+
+Airspeed Control
+
+Positional advantage requires recognition of airspeed, G-loading, and aspect
+while restricted to single-plane maneuvering. The factor most affecting
+single-plane maneuvering is airspeed. Increased airspeed is required to close
+if the target separates, but once the target executes a defensive turn, the
+attacker must reduce airspeed to prevent a flight path overshoot. Control
+overshoots with lag, as use of the vertical increases the chance for detection
+by enemy air and ground threats. The deeper in lag you go, the faster you
+can fly and still maintain positional advantage. Fly to maintain tally and a
+positional advantage while not highlighting your aircraft to other enemy
+fighters.
+
+Weapons Employment
+
+Because low altitude shrinks aerodynamic envelopes and provides IR and
+radio frequency (RF) clutter, valid weapons parameters are more difficult to
+achieve. These restricted envelopes increase maneuvering and pursuit time
+for the attacker, and often deny an immediate shot once a positional
+advantage is achieved. Once a tally is acquired, it can be lost by bandit
+terrain masking, sun angles, or shadows. An aware bandit may change
+course once he realizes the attacker has lost tally, making dead reckoning of
+the bandit’s new position very difficult.
+
+AGD-1 D - 36
+
+
+Text from AGD-1_Low_Altitude_Awareness_Training_page_43.jpeg:
+Killing a low altitude bandit with a missile requires the attacker to launch a
+missile so it does not strike the ground and the missile seeker acquires the
+target at or prior to launch. The AIM-7 must be launched to maintain radar
+LOS through missile TOF. Ensure you have both visual and aural self-track
+indications prior to an AIM-9 launch to preclude tracking a hot spot on the
+ground.
+
+All missiles attempt to fly a collision course to the target. If the missile is
+launched with the target climbing, the missile climbs toward the predicted
+impact point. If the missile is launched while the target is descending, the
+missile dives toward the predicted impact point and may strike the ground
+en route. When firing either IR or radar missiles, a slight nose up attitude
+reduces ground impact potential. Flying low to ensure a look up blue sky
+shot improves acquisition, but may also result in a missile 1000 feet at
+
+12 o'clock in the dirt if launch altitude is insufficient for the missile to attain
+flying airspeed. Refer to AFTTP 3-1, Volume 17 for specific techniques,
+tactics, and radar employment considerations.
+
+LOW ALTITUDE FLYING CONSIDERATIONS
+
+There are inherent advantages and disadvantages in conducting tactical air
+operations at high or low altitudes. When a crew decides that the situation
+lends itself best to operations in the low altitude environment, they must
+prioritize their workload and develop an internal clock that allows them to fly
+effectively at a very low altitude. Task prioritization and cross-check rhythm
+must be adjusted to fit the terrain, weather, and threat situation.
+Cross-check frequency is usually thought of in terms of straight and level
+flight or a stable 4-5 G level turn; those are not the only—and not the most
+demanding—flight conditions facing fighter crew members.
+
+Rules of Thumb
+
+Very low altitude flying demands that each crew develop and maintain great
+self-discipline and a cross-check rate that ensures aircraft control in all flight
+regimes. Aircrews must not allow other tasks to divert their attention to the
+point that collision with the ground is inevitable. The following rules of
+thumb can be helpful.
+
+D- 37 AGD-1
+
+
+Text from AGD-1_Low_Altitude_Awareness_Training_page_44.jpeg:
+When flying wings level below 1000 feet AGL, cross-check aircraft
+attitude and altitude every 3-5 seconds.
+
+In turning flight below 1000 feet AGL, cross-check aircraft attitude
+and altitude every 1-3 seconds.
+
+The lower you fly, the less margin for error in control of aircraft
+attitude and altitude. This margin is reduced dramatically when
+turning at low altitude.
+
+When attention must be diverted to other tasks (e.g., switch
+changes, copying target information, checking six, etc.) bring the
+aircraft to wings level and place it in a slight climb. If possible, give
+the WSO some of these duties. Attention should not remain
+channelized for more than 3-5 seconds in this case.
+
+Crew Coordination
+
+Smooth in-flight coordination between crew members requires mutual
+knowledge of the operation and interaction of systems. Certain elements of
+crew coordination have become standard and those which have not should be
+discussed in detail by the crew during the mission briefing. As a general
+guide the following crew duties apply.
+
+AGD-1
+
+The pilot’s primary responsibility is aircraft control and ground
+avoidance. Terrain clearance is maintained by using visual
+references and the radar altimeter. After clearing the terrain
+ahead and to either side of the aircraft the pilot can then perform a
+quick cockpit check. Since his primary responsibility is looking
+outside, the pilot should be less concerned with referencing maps or
+other non-HUD data.
+
+The WSO should check six and clear using the briefed visual
+search and air-to-air radar. Terrain clearance tasks and mission
+tasks should be divided, yet shared. The WSO’s primary
+responsibility is mission tasks. The pilot should always tell the
+WSO when his attention will be diverted. The WSO can then
+concentrate on monitoring the aircraft’s attitude.
+
+
+Text from AGD-1_Low_Altitude_Awareness_Training_page_45.jpeg:
+Approaching the turn point, the WSO should inform the pilot of the
+MSA, the direction of turn and the course and time (or distance) for
+the next leg, when asked. If not asked, the WSO should ensure that
+the pilot establishes the desired heading. Further, the WSO should
+back up the pilot by keeping track of time, monitoring the airspeed
+and any other dead reckoning matters.
+
+If the pilot cannot HOTAS it then he should consider having the
+WSO do it.
+
+Cues to Overtasking
+
+Self-observation skills are easy to learn and are required for successful low
+altitude flying—the crew must learn to evaluate themselves. The following
+is a list of general objective cues to overtasking in addition to the specific
+maneuver criteria established in the flying phase.
+
+Poor performance of any basic maneuver
+
+Wasted movements in the cockpit
+
+Missed tasks in a familiar sequence
+
+Missed first attempt at familiar switches
+
+Erratic or indecisive aircraft control (pilot only)
+
+Lack of conscious awareness of managing your task loading
+A feeling of operating “behind the aircraft”
+
+Loss of verbal responses, missed or late radio calls
+
+Loss of aural responses, no response to radio calls or voice warnings
+
+D - 39 AGD-1
+
+
+Text from AGD-1_Low_Altitude_Awareness_Training_page_46.jpeg:
+The most important point is to key on each of these cues as the mission
+progresses. The cumulative sum of these cues compared to some standard for
+a similar set of tasks forms a good measure of overtasking. At times any one
+of the cues is enough to “knock it off.” At other times, they just mean a
+decrease in performance and not an impending problem. Repeated errors or
+consistent poor performance means overtasking that is not being corrected.
+When this occurs, climb.
+
+AGD-1 D - 40
+
+
+Text from AGD-1_Low_Altitude_Awareness_Training_page_47.jpeg:
+QUESTIONS
+
+What is the best descent rate, in degrees, in terms of balancing rapid
+descents with ease of cross-check?
+
+a. 65°
+
+b. 10°
+
+ce. 15°
+
+d. 20°
+
+To descend 400 feet, a FPA works best.
+a. 2.5°
+
+b. 3.0°
+
+c. 4.0°
+
+d. 5.0°
+
+If your altitude is 1000 feet, what should your dive angle be to
+reposition on a target from a pop-up?
+
+ao op
+
+5°
+10°
+15°
+20°
+
+When in a dive everything expands or flows outward from the impact
+point/velocity vector.
+
+a.
+b.
+
+True
+False
+
+D-41 AGD-1
+
+
+Text from AGD-1_Low_Altitude_Awareness_Training_page_48.jpeg:
+5. The bunt or pushover maneuver is most appropriately used when
+crossing steep, isolated ridge lines.
+
+a. True
+b. False
+6. An intercept to stern conversion in the low altitude environment
+
+should be flown more conservatively than high altitude intercepts to
+minimize ground impact potential.
+
+a True
+b. False
+
+AGD-1 D - 42
+
+
+Text from AGD-1_Low_Altitude_Awareness_Training_page_49.jpeg:
+ANSWERS
+
+D - 43 AGD-1
+
+
+Text from AGD-1_Low_Altitude_Awareness_Training_page_5.jpeg:
+STUDENT PREPARATION REQUIREMENTS
+BEFORE CLASS
+
+1. Study the information contained in this workbook and complete the
+End of Text Quiz.
+
+2. Read AFTTP 38-3, Vol XVII, Chapter 7, Low Altitude Operations.
+
+C-1 AGD-1
+
+
+Text from AGD-1_Low_Altitude_Awareness_Training_page_50.jpeg:
+(This Page Intentionally Blank)
+
+AGD-1 D - 44
+
+
+Text from AGD-1_Low_Altitude_Awareness_Training_page_51.jpeg:
+END OF TEXT QUIZ
+
+Terrain clearance tasks have a higher priority than mission tasks.
+a. True
+
+b. False
+
+Using the 10° rule, what is your dive angle when doing a 30°,
+5 second delayed, vertical jink?
+
+a. 15°
+b. 20°
+c. 25°
+
+What is the key to controlling a level turn?
+
+Nose slice to the inside of the turn
+Nose slice to the outside of the turn
+Bank steering bar
+
+LAWS
+
+no op
+
+Which of the following is not a consideration when executing low
+altitude intercepts?
+
+Radar break locks
+
+Ground avoidance
+
+Ensuring ground speed is displayed in the HUD
+Potential missile-ground impact
+
+Ro op
+
+E-1 AGD-1
+
+
+Text from AGD-1_Low_Altitude_Awareness_Training_page_52.jpeg:
+(This Page Intentionally Blank)
+
+AGD-1 E-2
+
+
+Text from AGD-1_Low_Altitude_Awareness_Training_page_53.jpeg:
+AGL
+AIM
+AWACS
+BVR
+
+Cc
+
+CTA
+ECM
+FAC
+FPA
+GCI
+HOTAS
+HUD
+IR
+
+LOS
+
+MCT
+MRM
+MSA
+MSL
+NCT
+
+RF
+
+GLOSSARY
+Above ground level
+Air intercept missile
+Air warning and control system
+Beyond visual range
+Command, control, and communication
+Critical tasking altitude
+Electronic countermeasures
+Forward air controller
+Flight path angle
+Ground controlled intercept
+Hands on throttle and stick
+Head-up display
+Infrared
+Line of sight
+Minimum altitude
+Mission critical tasks
+Medium range missile
+Minimum safe altitude
+Mean sea level
+Noncritical tasks
+
+Radio frequency
+
+AGD-1
+
+
+Text from AGD-1_Low_Altitude_Awareness_Training_page_54.jpeg:
+ROE Rules of engagement
+
+SA Situational awareness
+
+SRM Short range missile
+
+TAS True airspeed
+
+TCT Terrain clearance tasks
+
+TEWS Tactical electronic warfare system
+TOF Time of flight
+
+TTI Time to impact
+
+VFR Visual flight rules
+
+VID Visual identification
+
+WSO Weapon system officer
+
+AGD-1 F-2
+
+
+Text from AGD-1_Low_Altitude_Awareness_Training_page_55.jpeg:
+(This Page Intentionally Blank)
+
+F-3 AGD-1
+
+
+Text from AGD-1_Low_Altitude_Awareness_Training_page_56.jpeg:
+BACK PAGE
+COVER SHEET
+
+
+Text from AGD-1_Low_Altitude_Awareness_Training_page_6.jpeg:
+(This Page Intentionally Blank)
+
+AGD-1 C-2
+
+
+Text from AGD-1_Low_Altitude_Awareness_Training_page_7.jpeg:
+TEXT
+
+This text primarily deals with concerns of the low altitude environment. It
+does not, however, address why low altitude flying is necessary.
+
+RISK ASSESSMENT
+
+To make sense of this approach, first analyze the risks at low altitude. The
+low altitude environment has contributed to a large percentage of accidents.
+Day VFR low altitude flying exposure is approximately 10% of the total flying
+hours, yet 57% of aircrew fatalities occur in the low altitude environment. To
+increase the crew’s low altitude awareness, this text defines the crew’s
+responsibilities and focuses on specific hazards.
+
+As shown in Figure D-1, maneuvering in the vertical and turning at low
+altitude accounted for the largest percentage of accidents. Vertical
+maneuvering claimed 34% of the aircrews in only 3% of the exposure.
+Turning the aircraft while looking somewhere other than out front
+contributed to a majority of the low altitude accidents, 52%, with 5% of the
+exposure. The important thing to understand here is that maneuvering flight
+historically has proven most dangerous. Why that happens and how to avoid
+it is the focus of this discussion. To better understand low altitude dynamics,
+first break down the crew’s tasking.
+
+MANEUVER EXPOSURE ACCIDENTS
+
+AGD-01-01
+
+Figure D - 1. Maneuvers, Exposure, and Accidents.
+
+D-1 AGD-1
+
+
+Text from AGD-1_Low_Altitude_Awareness_Training_page_8.jpeg:
+LOW ALTITUDE TASK MANAGEMENT
+
+The best way to view the aircrew’s primary job is as a time-shared process in
+which they first ensure terrain clearance, and second, take care of the
+mission. All tasks may be classified as either terrain clearance tasks or
+mission tasks.
+
+Terrain Clearance Tasks
+
+To properly manage terrain clearance, the aircrew must control four specific
+tasks (Figure D-2). These prioritized tasks are aircraft control, vector
+control, AGL control, and time control (pacing).
+
+Aircraft control is the process of maintaining the aircraft within its flight
+envelope of angle of attack, airspeed, and G. Aircraft control is the first
+terrain clearance task requirement; without it, controlling vector, AGL, or
+time is impossible. Flying the aircraft has the highest priority and is the
+pilot’s primary concern.
+
+The second task, vector control, is the process of assessing and modifying the
+aircraft vector in elevation and azimuth relative to the terrain.
+
+Third, AGL control is the process of assessing and modifying the aircraft AGL
+in relation to the terrain. Vector and AGL are the two physical variables
+which define the true boundaries of safe, low altitude maneuvering.
+
+However, to accomplish the mission, the aircrew cannot spend all their efforts
+on controlling vector and AGL.
+
+Fourth, time control (i.e., pacing) is the process of mentally controlling the
+frequency and duration of terrain clearance and mission cross-check time. It
+is the key to proper task management. To accomplish the mission, the crew
+must leave the vector and AGL alone for short periods of time. The more
+they can leave the vector and AGL alone, the more time they have for mission
+tasks. Time control is the hardest to learn, train, and control; yet it carries
+the greatest potential for causing ground impact.
+
+AGD-1 D-2
+
+
+Text from AGD-1_Low_Altitude_Awareness_Training_page_9.jpeg:
+LEAST IMPORTANT/
+TIME CONTROL HARDEST TO LEARN
+AGL CONTROL
+
+VECTOR CONTROL
+AIRCRAFT CONTROL
+MOST IMPORTANT
+
+AGD-01-02
+
+Figure D - 2. Terrain Clearance Tasks.
+
+D-3 AGD-1
+
+

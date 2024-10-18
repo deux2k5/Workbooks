@@ -1,0 +1,1589 @@
+Text from AGR-1_Air-to-Ground_Radar_Introduction_page_1.jpeg:
+SUPPORTS COURSES
+FIS5EBQ
+FISETX
+
+ACADEMIC STUDENT WORKBOOK
+F-15E
+
+AIR-TO-GROUND RADAR
+AGR-1
+A/GROUND RADAR INTRODUCTION
+
+JANUARY 1999
+
+(SUITE 3 OFP)
+
+AIR COMBAT COMMAND
+
+
+Text from AGR-1_Air-to-Ground_Radar_Introduction_page_10.jpeg:
+Figure D-2 shows three targets (A, B, and C) with approximate beam
+widths.
+
+Target A is separated from target B by 3000 feet and target B is separated
+from target C by 6000 feet.
+
+80 NM
+
+40 NM
+
+y ' 2.5° BEAM WIDTH
+(EFFECTIVELY 1.25°)
+
+AGR-01-02
+
+Figure D - 2. Azimuth Resolution.
+
+At a range of 80 nm only one target is displayed on the radar scope
+(10,600'). At a range of 40 nm, targets A and B are displayed as one
+target (5,300' wide), but target C is displayed separately. At a range of
+20 nm all three targets are displayed separately (each 2650' wide).
+
+AGR-1 D-4
+
+
+Text from AGR-1_Air-to-Ground_Radar_Introduction_page_11.jpeg:
+Pulse Length Error (PLE)
+
+All radar transmissions have a definite pulse length which induces errors
+in range. PLE is caused by the time difference between the leading and
+trailing edges of the pulse striking an object and returning to the radar
+(Figure D-3). This error is one-half the actual length of the transmitted
+pulse. Thus, for any given pulse, it is always a constant value regardless
+of range. PLE adds length to the far side of a reflecting object or it adds
+length to the near side of a nonreflecting no-show area (e.g., a lake). PLE
+adds error to the entire area of distortion caused by BWE.
+
+ews EDGE OF PULSE
+— J LEADING EDGE OF PULSE
+
+RADAR ANTENNA |
+
+V4 LEADING EDGE OF PULSE
+o—/. ( <—— TRAILING EDGE OF PULSE
+
+RADAR ANTENNA
+
+AGR-01-03
+
+Figure D - 3. Pulse Length Error (RBM).
+
+D-5 AGR-1
+
+
+Text from AGR-1_Air-to-Ground_Radar_Introduction_page_12.jpeg:
+Range resolution is a function of pulse length. For a radar to resolve
+(display separately) two targets in range, their range separation must be
+such that the trailing edge of the pulse will have departed the near target
+before the leading edge of the echo from the far target returns to the near
+target. Thus, two targets must be separated by at least one-half the pulse
+length, regardless of target range from the radar, to be displayed
+separately.
+
+Although pulse length error (for a given pulse length) is constant
+regardless of range from the target, the actual radar pulse length of the
+APG-70 varies as you change radar scope ranges. The range resolution
+cells for the various radar scope ranges of the F-15E are as follows:
+
+Radar Scope Range Range Resolution
+
+(nm) (feet)
+
+4.7 59
+
+10.0 127
+
+20.0 253
+
+40.0 507
+
+80.0 1014
+
+160.0 2028
+
+One additional constraint on resolution is the digital nature of radar
+processing. This constraint applies to both pulsed and doppler radar
+processing. No matter how close a target, how narrow a beam, how short
+a pulse, or how small a display range or map size, with current processing
+capability, the absolute best APG-70 resolution achievable is 8.45 feet (in
+the HRM patch map mode).
+
+AGR-1 D-6
+
+
+Text from AGR-1_Air-to-Ground_Radar_Introduction_page_13.jpeg:
+BWE and PLE combine to make the return larger than the target’s true
+size (Figure D-4). BWE error is reduced as range to the target decreases.
+PLE is constant for a given display range. To minimize the effects of these
+errors (again, only present in the RBM radar mode) use the center leading
+edge of the radar return as the center of the object, and use the smallest
+possible radar display range.
+
+TARGET TARGET PLE
+
+TARGET
+
+AGR-01-04
+
+Figure D - 4. BWE and PLE Combined (RBM).
+
+D-7 AGR-1
+
+
+Text from AGR-1_Air-to-Ground_Radar_Introduction_page_14.jpeg:
+Mechanized Resolution Versus Target Breakout
+
+Although beam width and pulse length determine the azimuth and range
+resolution cells respectively for a pulse radar, a radar (pulse or doppler) is
+frequently unable to display two targets as discrete returns because of
+display limitations. If two point targets are separated by the minimum
+resolution cell size, the radar display will indicate two adjacent targets,
+which will appear as one target to the aircrew. You will have to decrease
+your radar scope range or get closer to the targets before they are
+displayed separately. As a guide, targets separated by two to three times
+the resolution cell size should normally be displayed as discrete targets.
+
+The F-15E radar display is separated into many small picture elements
+called “pixels.” More specifically, the display is subdivided into 480 X 480
+pixels, or a total of 230,400 picture elements, with each element having a
+length and width limitation based on radar range. For example, when
+using the 10 nm radar range each pixel equates to an area of 127 square
+feet. This means that any object the radar “sees” will be displayed as at
+least a 127 X 127 foot return, even if the radar can determine it to be
+smaller. This is referred to as mechanical resolution, and it is present in
+all modes of the APG-70 radar. See the chart below for pixel size based on
+the selected radar display range, or display window size for HRM patch
+maps in the F-15E.
+
+Range Scale Pixel Size
+
+(nm) (feet)
+
+4.7 59
+
+10.0 127
+20.0 253
+40.0 507
+80.0 1014
+160.0 2028
+
+To recap, RBM resolution is limited by BWE (range to target), PLE
+(display range), mechanical resolution/spot size error (display range) and
+digital processing constraints. HRM resolution is limited by PLE as well,
+although the error can be mitigated by selecting a smaller display range.
+HRM resolution is also limited by mechanical resolution and digital
+processing constraints.
+
+AGR-1 D-8
+
+
+Text from AGR-1_Air-to-Ground_Radar_Introduction_page_15.jpeg:
+UNCONTROLLABLE FACTORS
+
+Uncontrollable factors are things you cannot control, but still affect the
+radar display. They are the characteristics of topographic and cultural
+features; size, shape and composition of the objects; the relationship of
+objects to one another; and unusual returns.
+
+Topographic Features
+
+One of the most important ways an air-to-ground radar presents
+information is through contrasts between rough and smooth surfaces.
+Smooth surfaces on the ground appear as blank areas of no return on the
+display; in contrast, rough areas appear as bright returns. A smooth
+surface, such as a calm sea, reflects radar energy away from the receiving
+antenna; a rough surface, such as a rugged mountain, scatters radar
+energy in all directions. Some of this energy is reflected to the radar
+receiver and displayed as bright images of varying intensity on the radar
+display (Figure D-5). The exception is a radar altimeter which radiates
+basically straight down and operates very well over calm seas.
+
+AGR-01-05
+
+Figure D - 5. Rough Terrain.
+
+D-9 AGR-1
+
+
+Text from AGR-1_Air-to-Ground_Radar_Introduction_page_16.jpeg:
+Mountains are excellent reflectors of radar energy. The steeper the
+mountain near side gradient, the greater the energy returned to the radar
+receiver. The near side of the mountain produces a bright return, with a
+shadow (no-show area) behind it. The shadow is caused by the radar
+energy being blocked from reaching the back side of the mountain and the
+area adjacent to the back side of the mountain. Remember, radar waves
+travel in a straight line, line of sight fashion. Rolling or flat terrain
+produces uniform returns and little or no shadows. Understanding bright
+returns on the radar display is important, but understanding terrain
+shadowing, particularly at low altitude, is equally important. Mountain
+shadows lengthen as aircraft altitude decreases and/or when range to the
+mountain increases. Analysis of unique peak and shadow combinations
+helps identify points of interest. Also, shadows can be used to monitor
+terrain clearance and provide a good cross-check when accomplishing
+terrain following radar (TFR) operations. If the aircraft is well above a
+given peak, little or no shadowing appears. If the aircraft is above the
+peak, the shadow converges behind the return (Figure D-6, A). Ifthe
+aircraft is below the peak, the shadow diverges behind the return and
+extends the full length of the scope (Figure D-6, B).
+
+wort T>
+
+i La ee
+
+B pas b
+
+US 3sec Mpe
+240-055
+
+by
+
+| RBM | MAP | 3.3 | FULL Vicmt
+
+- - La —
+240-055
+| vl
+RBM | MAP | 3.3 | FULL | IGMT
+
+am YOUOIO!
+
+AGR-01-06
+
+AGR-1 D-10
+
+
+Text from AGR-1_Air-to-Ground_Radar_Introduction_page_17.jpeg:
+This divergence can be hard to see, so use caution and consider shadows
+running parallel to the edges of the return, or shadows that extend the
+length of the radar display as equally dangerous.
+
+At very low altitudes even a small knoll may cast a long shadow. This
+
+vertical development produces bright returns and deep shadows at low
+level. The key is ensuring you receive ground returns past the obstacle
+before getting too close. If you do not, you may be below the obstacle.
+
+Cultural Features
+
+Cultural features (Figure D-7) generally produce good returns, primarily
+due to their composition and steep vertical development. Large cities
+provide excellent returns, but may be too large for precise navigation
+unless specific sections of the city can be distinguished from others; i.e.,
+industrial complexes and commercial areas. Suburbs and small towns can
+be hard to detect, particularly in mountainous areas. Many small cities
+and towns are often laid out in cardinal headings, so approaching the
+target from one of these directions should help target acquisition. A small
+town that may not show on a 225° heading might show well on a heading
+of 270°. Large military airfields are usually located away from large
+cities, and the aircraft, hangars, etc., give good contrast to the flat
+(no-show) runway and ramp areas.
+
+AGR-01-07
+
+Figure D - 7. Cultural Terrain Features.
+
+D-11 AGR-1
+
+
+Text from AGR-1_Air-to-Ground_Radar_Introduction_page_18.jpeg:
+In RBM, railroads and highways often do not show well, but the built-up
+areas along them may show the trend of their routes. At very low
+altitude, railway and highway embankments can be identified at short
+range over flat terrain if you choose an axis of flight 90° to the
+embankment. Marshaling yards produce good return signals if a number
+of tracks and cars are concentrated in a small area.
+
+Large steel bridges are excellent reflectors at low altitude, particularly
+when seen against a water background and approached at right angles.
+Small bridges are usually lost in the ground clutter. Wharves, piers, and
+breakwaters show well against a water background (no-show) and make
+excellent low level radar navigation checkpoints.
+
+Land/water contrast provides good information for low level radar
+navigation. Islands and shorelines produce brighter returns, and are
+contrasted against the no-show area of the water. Choose this type of
+return when possible, since it is easily identifiable at low level and
+remains recognizable through a large range of tilt and gain settings.
+Although rough seas can cause returns on the display from the choppy
+surface, the returns are weak in comparison to land returns and there is
+little possibility of confusing them.
+
+At low level in mountainous areas, the no-show area of a lake is often
+hidden by mountain shadows. To avoid this problem, choose another axis
+of attack or altitude in preflight planning. En route, reduce the gain and
+look for a bright return on the far shore of the lake, with a no-show area
+on the near side. The no-show areas of rivers and lakes approached at
+right angles appear similar to their depiction on the map. Small rivers
+often disappear in the ground clutter.
+
+AGR-1 D-12
+
+
+Text from AGR-1_Air-to-Ground_Radar_Introduction_page_19.jpeg:
+Target Size
+
+The larger the reflective area scanned by the radar beam, the more energy
+reflected back to the radar system. It is easier to detect a large industrial
+complex on radar than it is to detect an individual building. As seen in
+Figure D-8, any cultural or terrain feature that extends above the surface
+reflects more energy than flat terrain. The amount of energy reflected
+depends upon the width and height of the object (surface area). For
+example, assume targets A and B are of the same material and at the
+same range from the antenna; and target B is twice the size of target A.
+This means object B intercepts and returns twice the amount of radar
+energy as object A.
+
+AGR-01-08
+
+Figure D - 8. Target Size.
+
+D-13 AGR-1
+
+
+Text from AGR-1_Air-to-Ground_Radar_Introduction_page_2.jpeg:
+ADMINISTRATIVE INFORMATION
+
+This student workbook is designed to provide information on the F-15E,
+its systems, and capabilities. It is not a sole source document, but is to be
+used in conjunction with other standard Air Force publications and
+technical manuals. If you find any differences between the material
+contained herein and other governing regulations, adhere to the
+regulations and notify the OPDR.
+
+Changes to this workbook are indicated with a heavy black line in the left
+margin.
+
+Forward recommendations for revision or change to 4 TS, SJAFB, NC,
+275381.
+
+Supersedes: AGR-1, July, 1998
+
+OPDR: 4TS
+
+Index of Changes
+
+Effective Date Pages Affected
+
+
+
+Text from AGR-1_Air-to-Ground_Radar_Introduction_page_20.jpeg:
+Target Shape
+
+Shape plays a role in determining the amount of energy returned. Most
+structures in cultural areas are rectangular or square in shape and
+present good reflecting surfaces. The amount of energy reflected back to
+the antenna varies with the angular reference to the radar beam
+(Figure D-9).
+
+AGR-01-09
+
+Figure D - 9. Same Size - Different Axis.
+
+AGR-1 D-14
+
+
+Text from AGR-1_Air-to-Ground_Radar_Introduction_page_21.jpeg:
+In Figure D-10, building A presents a reflecting surface at a right angle to
+the radar beam; most of the energy (about two-thirds) is directed back
+toward the antenna. Building B reflects most of the energy away from the
+antenna.
+
+AGR-01-10
+
+Figure D - 10. Different Shaped Buildings.
+
+D-15 AGR-1
+
+
+Text from AGR-1_Air-to-Ground_Radar_Introduction_page_22.jpeg:
+In Figure D-11, the building acts as a “corner reflector” and reflects
+maximum energy back to the antenna. The principle involved is similar to
+tossing a rubber ball into a corner. The ball returns in the same path
+from which it was thrown. The ideal reflective shape would be an “L”
+shaped building, with the attack axis going into the interior corner formed
+by the “L.”
+
+AGR-01-11
+
+Figure D - 11. Corner Reflector.
+
+AGR-1 D-16
+
+
+Text from AGR-1_Air-to-Ground_Radar_Introduction_page_23.jpeg:
+Individual cylindrical storage tanks scatter more energy than they reflect.
+As shown in Figure D-12, both concave and convex surfaces scatter radar
+energy. Only about one-third of the energy is returned to the radar.
+
+AGR-01-12
+
+Figure D - 12. Round Building/Surfaces.
+
+D-17 AGR-1
+
+
+Text from AGR-1_Air-to-Ground_Radar_Introduction_page_24.jpeg:
+Long narrow objects that are parallel to the beam intercept comparatively
+small amounts of radar energy. If the object is perpendicular to the beam,
+it intercepts more radar energy (Figure D-13).
+
+AGR-01-13
+
+Figure D - 18. Long/Narrow Shapes.
+
+AGR-1 D-18
+
+
+Text from AGR-1_Air-to-Ground_Radar_Introduction_page_25.jpeg:
+Target Composition
+
+An object’s structural material is an important factor in determining its
+capability for reflecting radar energy. Although size is the primary
+determinant of the amount of radar energy intercepted, surface
+composition governs the amount of energy an object reflects. In general,
+the denser the structural material, the better its reflective qualities.
+Figure D-14 shows comparative densities and, therefore, reflectivity of
+some materials. Less dense materials such as vegetation tend to absorb
+and diffuse radar energy. If you can determine the structural material of
+an object, you can predict its relative brightness on the display.
+
+STEEL | ,
+
+ALUMINUM
+
+ADOBE
+
+EARTH
+
+wooo [If
+
+Figure D - 14. Reflective Potential.
+
+AGR-01-14
+
+D-19 AGR-1
+
+
+Text from AGR-1_Air-to-Ground_Radar_Introduction_page_26.jpeg:
+Target Relationships
+
+Relationships between objects definitely affect radar display
+presentations. Small objects close together tend to increase reflections
+and produce a brighter single return (Figure D-15). If these objects were
+isolated, they might not show on the display, due to their small size, and
+in any event would not produce individual radar returns until a closer
+range was achieved.
+
+AGR-01-15
+
+Figure D - 15. Small Objects Close Together.
+
+Unusual Returns
+
+Sometimes radar returns are observed which appear to be unusual. These
+are caused by weather, climatic conditions, jamming, and cardinal effect.
+
+A few weather conditions (sufficient quantities of moisture droplets or ice
+crystals) reflect radar energy and cause returns to appear on the radar
+display. Fully developed thunderstorms create bright returns and have
+shadows behind them similar to mountain returns.
+
+To positively identify a thunderstorm use the RBM mode and raise the
+
+antenna tilt until the ground returns disappear and weather returns
+remain on the display.
+
+AGR-1 D - 20
+
+
+Text from AGR-1_Air-to-Ground_Radar_Introduction_page_27.jpeg:
+In extremely cold areas, a reverse effect may be encountered where land
+appears as water and water as land. The jagged edges of pack ice along
+frozen shorelines produce good returns. The smooth, level condition of
+inland snow appears as a no-show area. Frozen lakes are affected in the
+same manner, appearing as islands in a no-show area.
+
+Cardinal effect and glitter are related. When the radar beam strikes a
+large number of similarly oriented buildings at or near 90°, a large
+amount of energy is reflected back, giving an unusually large return on
+the radar display. The larger than normal return remains on the display
+as long as the radar beam is scanning at or near right angles to the group
+of reflective surfaces; e.g., drive-in theater screens (this is sometimes
+called the “glitter effect” because of its nonpersistent nature).
+
+Conclusion
+
+Though uncontrollable factors cannot be changed by aviators, their effects
+on radar presentations must be understood. The ability to predict
+reflected energy intensity from objects is an important factor in successful
+mission planning and radar interpretation. Although uncontrollable,
+these factors may be compensated for, to some degree. For example, if
+objects are isolated or made of low density (low reflectivity) material,
+perhaps they should be eliminated from consideration as points of
+interest. In some cases, the axis of attack can be varied to enhance the
+radar returns.
+
+D-21 AGR-1
+
+
+Text from AGR-1_Air-to-Ground_Radar_Introduction_page_28.jpeg:
+QUESTIONS
+
+1. BWE jis applicable in
+
+a. RBM.
+
+b. HRM PPI.
+
+c. HRM patch map.
+d. BCN.
+
+2. Pulse length error and beam width error
+
+are combined to make the return longer in length only.
+cancel each other out.
+
+are both added in azimuth only to make the return larger.
+are added together to increase return total size.
+
+po op
+
+3. Ifyou cannot determine a mountain shadow’s divergence, but it runs
+the length of the scope, you should assume that you are
+the mountain.
+
+a. above
+
+b. below
+
+c. atthe same altitude as
+d. abeam
+
+4. Though size is the primary factor determining how much energy is
+intercepted, one factor that governs the percentage of energy
+reflected is
+
+a. surface composition.
+b. BWE.
+
+c. PLE.
+
+d.
+
+gain and display brightness.
+
+AGR-1 D - 22
+
+
+Text from AGR-1_Air-to-Ground_Radar_Introduction_page_29.jpeg:
+Which of the following aspects of a building serves as the best radar
+energy reflector?
+
+Any side of a square building
+
+The points of a triangular building
+
+The inner corner of an “L” shaped building
+The center of a round building
+
+Boop
+
+D - 23 AGR-1
+
+
+Text from AGR-1_Air-to-Ground_Radar_Introduction_page_3.jpeg:
+AIR-TO-GROUND RADAR
+
+COVER
+
+A/G RADAR INTRODUCTION
+
+INTRODUCTION
+
+This workbook is your guide in studying air-to-ground radar basics for use
+in F-15E radar navigation. It familiarizes you with inherent errors,
+controllable and uncontrollable factors, doppler and synthetic aperture
+radar (SAR) effects on high resolution map (HRM) principles, and radar
+interpretation.
+
+CONTENTS:
+
+INTRODUCTION 0.000. eeecceesseeeesneeceseeeeesaeecesaeeeessaeeessaeeessaeesessaeeens A-1
+CRITERION REFERENCED OBJECTIVES (CROs).............eeeeseeeeeeeeees B-1
+STUDENT PREPARATION REQUIREMENTS . 0.00... eeeeeeeeeeeeeeee C-1
+CEE os ses sans sos cores nos nas ois cua cares canis ans as RSA SNS Onis aU KUNE kK NewS SHES KoRKG MU NaS HSS aUD KR D-1
+END OF TEXT QUIZ ou. ececcccesseeecesneeceesaeecesacesensaeecesaeeseseeeenaees E-1
+(ina) F-1
+
+A-1 AGR-1
+
+
+Text from AGR-1_Air-to-Ground_Radar_Introduction_page_30.jpeg:
+ANSWERS
+
+l. a
+2. d
+3. b
+4. a
+5. Cc
+
+AGR-1 D - 24
+
+
+Text from AGR-1_Air-to-Ground_Radar_Introduction_page_31.jpeg:
+CONTROLLABLE FACTORS
+
+Aircrew controllable factors include range, altitude, antenna tilt, attack
+axis, and receiver gain. These factors and how they are used to best
+display various returns are briefly discussed in the following section.
+Remember, some of these controllable factors can be utilized to maximize
+the positive aspects and/or minimize the negative aspects of some of the
+uncontrollable factors.
+
+Range
+
+Range affects the intensity of reflected radar energy received at the radar
+antenna. The intensity is inversely proportional to the range of the
+aircraft from the reflecting surface.
+
+Altitude
+
+Altitude affects line of sight to the horizon (the amount of world in front of
+you that can be seen) and target reflectivity (influenced by the angle of
+incidence between the radar beam and the target). Increased altitudes
+allow a larger area to be covered by the radar beam, thus making large
+terrain features (mountains, for example) more discernable. Smaller/
+similar terrain features tend to blend in with their surroundings.
+Conversely, decreased altitude produces smaller area coverage by the
+radar beam. At lower altitudes smaller features are more discernable, as
+shown in Figure D-16.
+
+ee =
+AREA COVERED AREA COVERED
+
+AGR-01-16
+
+Figure D - 16. Altitude Effect.
+
+D - 25 AGR-1
+
+
+Text from AGR-1_Air-to-Ground_Radar_Introduction_page_32.jpeg:
+Tilt
+
+The area covered by the beam is also directly affected by the angle of the
+radar relative to the horizon (tilt angle). Elevation control (tilt) changes
+the graze angle of the radar. Assuming altitude remains constant, the
+larger the tilt angle, the less area covered (Figure D-17). At the shallow
+graze angles associated with F-15E missions, the major portion of the
+RBM range scale is illuminated. At steeper graze angles, the pencil beam
+limits illumination in range. For example, at a 20° graze angle, only 10%
+of the range scale will contain video, and the illuminated portion shrinks
+as the graze angle increases. Use elevation control to illuminate the
+desired area. When entering RBM, the radar attempts to position the
+antenna elevation to illuminate the selected range scale. If unable, the
+radar points the antenna to illuminate the far top portion of the video.
+The aircrew can manually position the antenna elevation (in RBM) if the
+automatic adjustment is not optimum.
+
+ANTENNA TILT
+
+ANTENNA TILT
+
+ee)
+AREA COVERED
+
+AREA COVERED
+
+AGR-01-17
+
+Figure D - 17. Graze Angle.
+
+Attack Axis
+
+Attack axis also determines the angle of incidence between the radar
+beam and the reflecting surface. The best returns are obtained when the
+approach heading to the object is perpendicular to its largest reflecting
+surface. However, this is not always possible in combat. Therefore, as the
+attack axis departs from the perpendicular, the return may appear
+smaller than anticipated, or may not be discernable at all.
+
+AGR-1 D - 26
+
+
+Text from AGR-1_Air-to-Ground_Radar_Introduction_page_33.jpeg:
+Gain
+
+Radar gain controls the intensity of the returns through the receiver and
+therefore, the intensity of the returns on the radar display. Gain is
+controlled automatically in HRM. RBM has four aircrew selectable gain
+levels. High gain settings produce maximum land/water contrast.
+Medium settings eliminate weaker signals and are used to differentiate
+man-made features (towns or bright spots) from surrounding terrain. Low
+gain is used when only the stronger returns are desired. Also, low gain is
+normally used to refine aiming once the point has been identified
+(pinpoint targets).
+
+PRINCIPLES OF HIGH RESOLUTION MAP (HRM) RADAR
+Introduction
+
+Throughout this section, the terms synthetic aperture radar (SAR) and
+high resolution map (HRM) radar are used. In simple terms, the F-15E’s
+APG-70 uses SAR principles to produce HRM video on a cockpit display
+(monochromatic only). The radar uses SAR principles to produce video
+with a resolution capability many times that achievable with real beam
+map (RBM) mode. Resolution is the minimum distance two objects may
+be separated and still be discerned as individual objects rather than one
+large object. At 20 nm, HRM provides resolution as good as 17 feet as
+compared to 2650 feet for RBM at 20 nm. Alternately, HRM provides a
+given resolution capability at much greater ranges from an object than
+does RBM. For example, RBM resolution at 10 nm (1300 feet) can be
+achieved at 80 nm by HRM (1016 feet).
+
+Antenna Size
+
+One factor affecting resolution capability is the size of the antenna. The
+larger the antenna, the better the resolution capability. The F-15E radar
+“synthesizes” an antenna that is approximately 1400 feet long. It does so
+by taking many “snapshots” as the aircraft (and antenna) moves across
+the ground, rather than a single “snapshot” by a large antenna. It
+actually simulates a 1400 foot long linear array of small antennas. Each
+of these “snapshots” is taken at a slightly different perspective (range and
+angle) to the objects within the radar’s field of view. So, information is
+gathered by the SAR and stored in computer memory. This information is
+then processed by the central computer (CC) to produce high resolution
+patch maps.
+
+D-27 AGR-1
+
+
+Text from AGR-1_Air-to-Ground_Radar_Introduction_page_34.jpeg:
+As previously stated, the radar’s antenna position relative to an object on
+the ground changes between each “snapshot.” Range is determined by
+measuring the time between transmission of a pulse and reception of the
+object echo (as with any pulsed radar). Azimuth is determined by doppler
+shift (change in frequency and rate of change in frequency). The doppler
+effect is a shift in the frequency of a wave reflected by an object in motion.
+In the case of an A/G radar, doppler shifts are produced by the motion of
+the radar relative to the objects from which the radar’s radio waves are
+reflected. If the distance between the radar and a reflecting object is
+decreasing, the waves are compressed. Their wavelength is shortened and
+their frequency is increased. This is reversed if the distance between the
+radar and the object is increasing. In other words, radiated waves are
+compressed in the direction of motion and spread out in the opposite
+direction. The greater the speed, the greater the effect. The wave is
+unaffected only at right angles to the motion. For example, as a train
+comes toward you, you can hear a change in the sound of the train’s horn.
+This is due to the sound wave being compressed as the train moves toward
+you. The rate of change in the sound also increases as the train gets
+closer and as the angle between you and the relative motion of the train
+approaches 90°. After passing 90°, the sound of the train’s horn wanes.
+This is caused by the sound waves expanding instead of being compressed.
+Like the train’s horn, doppler frequencies change due to range rate
+(relative velocity of the radar) and the angular relationship between the
+radar and the object on the ground.
+
+The highest angular resolution that can be obtained through doppler
+processing occurs when the combination of doppler frequency and angular
+rate of change is optimized. This occurs when the object concerned is 60°
+relative bearing from the aircraft.
+
+The information gathered by SAR and stored by the CC is used to
+precisely determine the relationship of objects. This information is then
+used to construct an extremely accurate scene (the high resolution patch
+map) to be displayed.
+
+AGR-1 D - 28
+
+
+Text from AGR-1_Air-to-Ground_Radar_Introduction_page_35.jpeg:
+Factors Affecting HRM Capability
+Azimuth
+
+The rate of change of doppler shift directly off the aircraft’s nose is small.
+Although HRM is possible within this area, processing time required
+makes it impractical for F-15E application. As a result the APG-70 has a
+blind zone +8° of the velocity vector. In the blind zone, the computer will
+not allow construction of patch maps nor allow HRM PPI video to be
+displayed.
+
+For good radar processing, you should position the target as close as
+possible to the optimum; that is, as far from the nose as you can.
+
+Figure D-18 shows the effects of angular displacement. The greater the
+look angle (also called squint angle), the smaller the resulting map error
+will be.
+
+Velocity
+
+Accurate velocities are crucial in HRM because errors in aircraft velocity
+cause errors in calculating doppler shift. Therefore, to improve HRM
+capability, a feature has been incorporated to update computer velocities
+in the mission navigator (CC subprogram). This capability is achieved
+from using air-to-ground radar velocities and is called precision velocity
+update (PVU). You will learn more about this capability in follow-on
+lessons. Figure D-18 illustrates how critical accurate velocities are.
+Inaccurate velocities can degrade the quality of the HRM as well as induce
+inaccuracies in position. With inaccurate ownship velocities, the relative
+location of HRM-displayed geographic features (and therefore the derived
+coordinates of the features) are incorrectly computed. Additionally, once
+the HRM video is created, the CC’s understanding of where the map
+features are relative to the aircraft, over time, is a function of system drift.
+Accurate aircraft velocity, via a PVU, make the initial computations more
+accurate and decrease the rate of system drift.
+
+D - 29 AGR-1
+
+
+Text from AGR-1_Air-to-Ground_Radar_Introduction_page_36.jpeg:
+1000.
+
+800.
+
+600.
+
+ERROR (FT)
+
+400.
+
+200.
+
+0. 10. 20. 30. 40. 50. 60.
+SQUINT ANGLE (DEG)
+
+-—-—-— 1KT VELOCITY ERROR
+0.5 KT VELOCITY ERROR
+
+AGR-01-18
+
+Figure D - 18. Velocity Errors Degrade Accuracy.
+
+For example, a one knot velocity error in the system is about 1.7 feet of
+drift error each second. If you made a map at 10 nm and then attacked
+the target at 500 KTAS, the target would “drift” about 120 feet by the
+time you got there (70 seconds ETE). Additionally, with a one knot
+velocity error, if you made a map with a 20° squint angle, you would have
+a map position error of about 350 feet (Figure D-18). The cumulative
+effects of a one knot velocity error could be as much as 470 feet. If you did
+a velocity update first that reduced the error to one-half knot, the drift
+error would only be 60 feet and the map position error slightly less than
+200 feet. Your map/attack would be considerably more accurate. In
+actual practice, PVUs provide velocities that are significantly more
+accurate than 1 knot (.1-.2 knots).
+
+AGR-1 D - 30
+
+
+Text from AGR-1_Air-to-Ground_Radar_Introduction_page_37.jpeg:
+Range
+
+The velocity errors discussed previously result in an angular error in
+measurement on the HRM map. The greater the range, the larger the
+error in feet. Therefore, HRM patch map capability and results are
+improved at closer ranges. Azimuth error is, in fact, directly proportional
+to range.
+
+Aircraft Speed
+
+At higher aircraft speeds the angular movement and doppler frequency
+shift are both greater. Remember that large antenna array are created by
+moving the APG-70 antenna through the air. Hypothetically, the faster
+the antenna moves, the larger the synthetic antenna created.
+
+Maneuvering Flight
+
+In measuring doppler shift, the computer processors compensate for
+aircraft movement when maneuvering. Maneuvering simply complicates
+the HRM problem and allows less processing time for the HRM
+construction. Therefore, the best HRM capability and results are achieved
+in nonmaneuvering flight. The F-15E HRM has been designed to
+compensate for up to approximately 4 Gs. (In contrast, RBM is insensitive
+to aircraft maneuvers up to 7 Gs.)
+
+Graze Angle
+
+The optimum graze angle for the best quality HRM video with the APG-70
+radar is between approximately 2° and 10°. At these angles, there is a
+good mix of horizontal and vertical target extent. The terrain shadows
+supply a two-dimensional look to the map. At higher graze angles (above
+20°), the vertical nature of the video is reduced, and the map becomes
+one-dimensional and lacks contrast. With low graze angle mapping, the
+vertical features can dominate the map and mask targets behind them.
+For example, at a 0.5° graze angle (mapping 9.5 nm away at 500 feet
+altitude), an eight foot hill line will cast a 900 foot shadow and a 50 foot
+ridge will cast a 5700 foot shadow.
+
+D-31 AGR-1
+
+
+Text from AGR-1_Air-to-Ground_Radar_Introduction_page_38.jpeg:
+Summary
+
+The following positively affect HRM patch map capability by decreasing
+processing time, improving quality, and improving geographical accuracy.
+
+e PVU provides accurate computer velocities. Use it.
+e Larger azimuth angles (squint angles).
+
+e Shorter range (optimum inside 20 nm).
+
+e = Faster aircraft speed.
+
+e Nonmaneuvering flight.
+
+e Optimum graze angle.
+
+AGR-1 D - 32
+
+
+Text from AGR-1_Air-to-Ground_Radar_Introduction_page_39.jpeg:
+RADAR DISPLAY INTERPRETATION
+Preparation
+
+Navigation by radar is very effective, but only if you have prepared for the
+flight.
+
+Pick the most significant radar features as radar update and sequence
+points.
+
+e Look for those that have easily identifiable shapes as targets/offsets
+and aim points.
+
+e  Land/water contrast and abrupt terrain elevation gradients (hills)
+often produce good checkpoints.
+
+e Try to find significant points for each leg along the route.
+
+e Look for several significant points around the target to aid in going
+from big to small (known as a pointer system).
+
+e Study different scale maps and photos to determine radar reflective
+targets, shadows, etc. Photos are good indicators of how a point will
+look on a HRM patch map.
+
+e Predict size, shape, and appearance of radar returns at various
+
+ranges/altitudes. Pick something that will show up as a small, but
+obvious return for precise navigation.
+
+D - 33 AGR-1
+
+
+Text from AGR-1_Air-to-Ground_Radar_Introduction_page_4.jpeg:
+CRITERION REFERENCED OBJECTIVES (CROs)
+
+Identify the effects of inherent errors, uncontrollable and controllable
+factors on radar ground mapping to include:
+
+a. Inherent errors
+Beam width error
+Pulse length error
+Spot size error
+
+b. Uncontrollable factors
+Topographic features
+Cultural features
+Target size
+Target shape
+Target composition
+Relationship of targets to one another
+Unusual returns
+
+c. Controllable factors
+Range
+Altitude
+Tilt
+Attack axis
+Gain
+
+Identify factors that enhance the quality, accuracy, and processing
+time of HRM patch maps.
+
+Identify necessary planning factors and techniques for radar
+navigation.
+
+REFERENCE:
+
+TO 1F-15E-34-1-1 Section I A/G Radar Precision Velocity
+
+Update (PVU) Mode
+
+AGR-1 B-1
+
+
+Text from AGR-1_Air-to-Ground_Radar_Introduction_page_40.jpeg:
+Prediction
+e Consider run-in heading and altitude.
+
+e Pick specific ranges that place an area of interest at one-half to
+two-thirds of radar scope range when making RBM and HRM PPI
+predictions.
+
+e For the target area, make predictions for both long and short range:
+long to get early determination of target area, and short to break out
+the exact target when it becomes radar significant (the resolution is
+better).
+
+e Use the AFMSS radar prediction feature (if available).
+e Consider land/water contrast, shadows, and snow/ice.
+
+@e Remember that no-show areas such as lakes are usually much more
+likely to match their predicted shape.
+
+e Remember that tidal flow can change shape or location of land/water
+contrast.
+
+e When preparing HRM patch map predictions, use a clear overlay
+showing display window sizes (.67 nm, 1.3 nm, etc.) for the smallest
+scale chart you have. Use the outlines to draw a prediction of what
+the point of interest will look like on various size patch maps.
+
+e Consider graze angle. If an offset/aim point is too far away (or too
+close) to map at your ingress altitude, pick one that is closer (or
+farther away). The map does not have to be taken under perfect
+conditions, just good enough to find and kill the target.
+
+e Be careful to consider terrain between you and the point of interest to
+ensure you will have line of sight. At low altitude, a 200 foot hill will
+appear as a very large mountain, and its shadow may obscure the
+target.
+
+In short, without thorough preparation, the odds of successful radar
+employment are very low!
+
+AGR-1 D - 34
+
+
+Text from AGR-1_Air-to-Ground_Radar_Introduction_page_41.jpeg:
+Interpretation/Technique
+
+The most important factor in evaluating a target’s size, shape, range, and
+bearing is the target’s definition on the display. Target definition can be
+controlled by manipulation of the display brightness, contrast, and gain
+(in RBM). As a rule of thumb, maintain the display brightness and
+display contrast as high as possible and adjust the gain (when possible) to
+get the best picture.
+
+Concentrate on the scope at the predicted times/ranges.
+e Go big to small (use pointer system).
+e Use INS/MN as an aid.
+
+Identify the general area in RBM, position the cursor, select the
+appropriate display window, offset if necessary, and make a HRM patch
+map.
+
+e@ When time permits, start with a larger patch map, identify the
+specific area, then make a smaller patch for accurate resolution and
+cursor positioning. This helps ensure the desired point is within the
+field of view.
+
+Keep aspect in mind when considering different shapes/reflections for
+predictions and also changes in aspect angle as the aircraft moves over the
+ground.
+
+In summary, the target should be in the general vicinity of the displayed
+sequence point if the MN is reasonably accurate. The range should be
+changed to put the target in the top half of the display. Analyze the larger
+returns and use them as pointers for finding the smaller returns.
+Thorough planning is extremely important and radar predictions of each
+sequence point you plan to use should be prepared and studied.
+Remember, speed is also important since whenever you use the A/G radar,
+the A/A radar cannot be used to find air threats. Good planning will
+reduce time in the A/G radar to a minimum.
+
+D-35 AGR-1
+
+
+Text from AGR-1_Air-to-Ground_Radar_Introduction_page_42.jpeg:
+Weather Detection
+
+Weather detection and avoidance is possible in RBM mode although only
+fairly heavy storms and showers normally show. Remember, there is no
+peacetime mission in this command that requires intentional penetration
+of a thunderstorm. The radar will help you avoid the weather when there
+are no other options.
+
+Radar Display Presentation
+
+Severe weather is displayed on the radar display by bright returns with
+indistinct edges or irregular, undefined shapes. Shadowing is quite often
+present. Most aircrews describe weather returns as looking like cotton
+balls.
+
+Operation
+
+Adjust the antenna elevation up as necessary to optimize weather returns
+and remove ground clutter.
+
+Use the antenna elevation scale to determine where you are looking with
+reference to the horizon.
+
+Reduce gain as necessary to determine the center and most severe areas of
+the storm.
+
+Considerations
+
+Range
+
+The area of the radar beam width increases significantly at long range.
+Therefore, it may not be possible to distinguish between cells in close
+proximity to each other at greater detection ranges. However, you should
+be able to break out most large individual cells and squall lines at the
+maximum detection ranges.
+
+AGR-1 D - 36
+
+
+Text from AGR-1_Air-to-Ground_Radar_Introduction_page_43.jpeg:
+Antenna Tilt
+
+In RBM the radar display is stabilized in pitch regardless of AOA or
+attitude. Therefore, to search for weather at your altitude you need to
+move the antenna elevation to put the caret level on the antenna elevation
+scale. You may want to search above or below level to aid in determining
+the tops and bottoms of cells. Tops are much easier to determine because
+when you search below the storm, ground clutter will also be displayed.
+When the top and/or bottom has been determined, some simple math can
+be applied to determine the actual altitude. One degree represents 100
+feet for each mile of range.
+
+ALT (of weather returns) = Your Altitude + (Elev x Range x 100)
+
+Example: You are at 10,000 feet. Tops of the cells are 2° above you at
+20 nm.
+
+Alt
+
+10,000 + (2° x 20 x 100)
+
+10,000 + 4000
+
+14,000 (tops of weather)
+
+Careful manipulation of tilt allows you to determine differences in heights
+of individual cells. The really high ones are probably the more severe
+thunderstorms. In RBM there is a digital readout (upper left corner) of
+the bottom and top of the altitude coverage at the range of the cursor.
+Racing the cursor over the video and adjusting the radar tilt until the
+video disappears will help determine the top/bottom of the storm cell.
+
+Gain
+
+Gain should be controlled manually to allow accurate interpretation of the
+thunderstorm complex. With the gain setting too low only the most severe
+areas of the storm will be displayed. Gain set too high results in a
+noise-saturated, distorted display and the inability to discriminate
+between specific cells or areas of interest. Gain should be constantly
+adjusted to produce the sharpest picture.
+
+Other Techniques
+
+Use the mark function to mark the location/boundaries of the weather
+cells. Now you can return the radar to air-to-air search (no weather
+detection) and avoid the thunderstorms by avoiding the mark points.
+Return to RBM and refresh the mark points as required.
+
+D - 37 AGR-1
+
+
+Text from AGR-1_Air-to-Ground_Radar_Introduction_page_44.jpeg:
+a.
+b.
+
+C.
+
+ao op
+
+QUESTIONS
+gain setting is recommended for land/water contrast.
+
+high
+low
+medium
+
+gain setting is recommended for pinpoint targets.
+high
+
+low
+medium
+
+When trying to locate a specific point on the radar,
+
+use the 160 nm range to get the big picture.
+
+immediately make a .67 patch map.
+
+do not worry as the radar picture always looks just like a photo.
+analyze bigger returns first and use them as pointers to locate
+specific points.
+
+4. Severe weather can be detected with the radar in
+
+Re op
+
+HRM patch map.
+HRM PPI.
+
+RBM.
+
+BCN.
+
+aircraft speed decreases the processing time when making
+
+high resolution patch maps.
+
+a.
+b.
+
+c.
+
+AGR-1
+
+Faster
+Slower
+Varying
+
+
+Text from AGR-1_Air-to-Ground_Radar_Introduction_page_45.jpeg:
+6. A good rule of thumb for establishing graze angle is that 1° at 10 nm
+is
+
+a. 500 feet.
+b. 1000 feet.
+c. 2000 feet.
+
+D - 39 AGR-1
+
+
+Text from AGR-1_Air-to-Ground_Radar_Introduction_page_46.jpeg:
+ANSWERS
+
+l. a
+2. b
+3. d
+4. ¢
+5. a
+6. b
+
+AGR-1 D - 40
+
+
+Text from AGR-1_Air-to-Ground_Radar_Introduction_page_47.jpeg:
+END OF TEXT QUIZ
+
+Targets are displayed on the radar display wider than actual due to
+
+a. MPD malfunctions.
+b. PLE.
+
+c. doppler effects.
+
+d. BWE.
+
+Pulse length error
+
+is constant for a given pulse length.
+increases as target range increases.
+decreases as target range decreases.
+is not applicable to RBM.
+
+po op
+
+Smooth surfaces such as lakes appear as
+
+dim returns.
+
+very bright returns due to their mirror like makeup.
+blank or no show areas.
+
+larger returns than their actual size.
+
+po op
+
+Mountain shadows which converge behind the return indicate you
+are the mountain.
+
+a. above
+
+b. below
+
+c. atthe same altitude as
+d. abeam
+
+Shadows that are divergent and cover the length of the display
+
+indicate you are the mountain.
+a. above
+
+b. below
+
+c. atthe same altitude as
+
+d. abeam
+
+E-1 AGR-1
+
+
+Text from AGR-1_Air-to-Ground_Radar_Introduction_page_48.jpeg:
+6. Ifa desired return is behind a hill, you can detect it by
+
+a. decreasing radar range.
+
+b. increasing gain and display brightness.
+
+c. decreasing gain.
+
+d. choosing another axis of attack if possible.
+
+7 A gain setting is recommended for breaking out towns.
+a. high
+b. medium
+c. low
+
+8. HRM is better able to define target returns by using
+
+a. changing doppler frequencies and rate of changing doppler
+frequencies caused by angular changes and rate of angular
+changes.
+
+b. avery high speed antenna search pattern to increase the
+number of reflections.
+
+c. acomputed map background from the TSD to compare with
+returns.
+
+d. adifferent radar.
+
+9. You are at 20,000 feet MSL and you determine the tops of a
+thunderstorm 40 nm in front of you to be 6° nose up. At what MSL
+altitude are the tops?
+
+a. 32,000 feet
+b. 40,000 feet
+c. 44,000 feet
+d. 46,000 feet
+
+AGR-1 E -2
+
+
+Text from AGR-1_Air-to-Ground_Radar_Introduction_page_49.jpeg:
+10. Errors in aircraft velocities
+
+11.
+
+po op
+
+allow you to make better maps.
+
+will cause errors in calculating doppler shift.
+decrease the time it takes to make a map.
+
+will not cause errors in calculating doppler shift.
+
+Which of the following decreases processing time, improves the
+quality, and improves geographical accuracy of a HRM path map?
+
+a.
+
+b.
+
+Small squint angles, maneuvering flight, and faster aircraft
+speeds
+
+Large squint angles, nonmaneuvering flight, and slower aircraft
+speeds
+
+Large squint angles, nonmaneuvering flight, and faster aircraft
+speeds
+
+Small squint angles, maneuvering flight, and slower aircraft
+speeds
+
+E-3 AGR-1
+
+
+Text from AGR-1_Air-to-Ground_Radar_Introduction_page_5.jpeg:
+STUDENT PREPARATION REQUIREMENTS
+
+BEFORE CLASS
+
+Study the information contained in this workbook and applicable
+handouts. Complete the End of Text Quiz.
+
+C-1 AGR-1
+
+
+Text from AGR-1_Air-to-Ground_Radar_Introduction_page_50.jpeg:
+(This Page Intentionally Blank)
+
+AGR-1 E-4
+
+
+Text from AGR-1_Air-to-Ground_Radar_Introduction_page_51.jpeg:
+A/G
+A/A
+AOA
+BWE
+CC
+ETE
+HRM
+INS
+KTAS
+MN
+nm
+PLE
+PPI
+PVU
+RBM
+RDR
+SAR
+TFR
+
+VHSIC
+
+GLOSSARY
+Air-to-ground
+Air-to-air
+Angle of attack
+Beam width error
+Central computer
+Estimated time en route
+High resolution map
+Inertial navigation system
+Knots true airspeed
+Mission navigator
+Nautical miles
+Pulse length error
+Planned position indicator
+Precision velocity update
+Real beam map
+Radar
+Synthetic aperture radar
+
+Terrain following radar
+
+Very high speed integrated circuit
+
+AGR-1
+
+
+Text from AGR-1_Air-to-Ground_Radar_Introduction_page_52.jpeg:
+BACK PAGE
+COVER SHEET
+
+
+Text from AGR-1_Air-to-Ground_Radar_Introduction_page_6.jpeg:
+(This Page Intentionally Blank)
+
+AGR-1 C-2
+
+
+Text from AGR-1_Air-to-Ground_Radar_Introduction_page_7.jpeg:
+TEXT
+INTRODUCTION
+
+The primary mission of the F-15E is all-weather, day/night deep
+interdiction. To accomplish this mission, the air-to-ground radar
+(APG-70) plays an important role in accurate navigation to the target,
+precise target acquisition, and pinpoint weapons delivery. It is imperative
+that crew members understand basic radar principles and be familiar with
+the F-15E’s radar capabilities.
+
+Effective use of the air-to-ground radar depends largely upon preflight
+planning and operator expertise. It is very important to carefully select
+radar aim points and offsets that are within the radar’s capabilities. Even
+the most experienced operator will be required to study route maps,
+photographs, and radar predictions to consistently identify returns.
+
+The following discussion considers two types of radar processing, including
+pulsed radar [the APG-70 real beam map (RBM) mode], and doppler radar
+[the APG-70 high resolution map (HRM) mode]. The F-15E provides RBM
+video in a planned position indicator (PPI) format. It provides HRM video
+
+in both PPI and patch map formats.
+
+RBM provides a radar mapping mode for low resolution ground mapping
+and weather detection capability. The video, in PPI format only, refreshes
+at approximately one second per sweep and has six selectable range scales
+ranging from 4.7 nm to 160 nm.
+
+The HRM mode provides video exhibiting high range and azimuth
+resolutions. Video refresh rates vary as a function of aircraft orientation
+and map size. Typical construction times range from 2 to 12 seconds
+(nominal tactical employment, about 5 to 6 seconds).
+
+D-1 AGR-1
+
+
+Text from AGR-1_Air-to-Ground_Radar_Introduction_page_8.jpeg:
+INHERENT ERRORS
+
+The picture presented on the air-to-ground radar display is seldom a true
+representation of the actual size or shape of the corresponding objects on
+the ground (particularly in RBM mode). This distortion results from radar
+design factors which produce inherent errors. To more accurately
+interpret the radar presentation, an operator should know and anticipate
+the causes and effects of these errors.
+
+Beam Width Error (BWE)
+
+Beam width error (Figure D-1) is only applicable to the RBM mode of the
+APG-70 and is created by the width of the beam transmitted from the
+radar. The width of the beam used to illuminate the target is based on
+antenna size and is the most serious limitation to azimuth resolution. The
+error results as the radar beam scans through space horizontally. The
+leading edge of the beam strikes an object before the centerline of the
+beam reaches the object. The trailing edge of the beam is still
+illuminating the object after the beam centerline has passed the object.
+Energy received from any portion of the beam, other than the actual
+center of the beam, induces errors in the horizontal dimension. This error
+is always in azimuth and applies equally to both sides of the object. Since
+the area covered by the beam increases as range increases, the beam
+width error also increases. One-half of the total BWE appears on each
+side of the target’s radar return. At longer ranges, an object’s radar
+return appears much larger than the actual object.
+
+AGR-1 D-2
+
+
+Text from AGR-1_Air-to-Ground_Radar_Introduction_page_9.jpeg:
+START PAINTING PAINTING STOP PAINTING
+TGT
+
+1/2 BWE SWEEP 1/2 BWE
+
+1/2 BWE
+
+TRAILING
+EDGE ——_—_>
+
+'¢——_ LEADING
+
+EDGE 1/2 BWE
+
+AGR-01-01
+
+Figure D - 1. Beam Width Error (RBM).
+
+With pulse radars, such as the APG-70 RBM mode, the ability to
+differentiate separate objects in azimuth depends on the size of the beam
+width and aircraft range to the object. To resolve multiple targets, they
+must be separated by at least the beam width (as a function of range).
+The F-15E’s inherent beam width is 2%°.
+
+However, the APG-70 and VHSIC CC employ a pseudo monopulse
+processing technique that effectively sharpens its beam width to 1%4°. As
+a result, the beam width at a given range is halved. In short, the APG-70
+beam width error (azimuth resolution) is essentially half that of a
+conventional radar with the same size antenna. The F-15E’s effective 11%4°
+beam width produces the following:
+
+RANGE FROM TARGET = Beam Width
+10 nm = 1325 feet
+20 nm = 2650 feet
+30 nm = 3975 feet
+40 nm = 5300 feet
+
+D-3 AGR-1
+
+

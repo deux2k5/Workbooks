@@ -1,0 +1,2211 @@
+Text from AVI-8_INS_page_1.jpeg:
+SUPPORTS COURSES
+FIS5EBQ
+
+FISETX
+
+FISESOC
+
+ACADEMIC STUDENT WORKBOOK
+F-15E
+
+AVIONICS
+AVI-8
+INERTIAL NAVIGATION SYSTEM (INS)
+
+JANUARY 1999
+
+(Suite 3 OFP)
+
+AIR COMBAT COMMAND
+
+
+Text from AVI-8_INS_page_10.jpeg:
+Ring Laser Gyro
+
+Each RLG is a strapdown system (it does not move). It is a triangular
+enclosure pictured in Figure D-2.
+
+Within each RLG, two counter rotating laser beams are reflected around
+the triangle using mirrors. When the gyro is at rest, the two beams have
+the same frequency showing no acceleration. When the aircraft turns, one
+beam has a longer path to travel; the other, a shorter. This causes
+changes in the laser light frequencies which are detected by photocells.
+The output of the photocells is used to determine angular rate and
+direction of rotation used for attitude and navigation computations.
+
+AVI-8
+
+DETECTOR
+
+CORNER PRISM
+
+MIRRORS (3)
+
+LASER
+DISCHARGE
+
+AVI-08-02
+
+Figure D - 2. Ring Laser Gyro.
+
+
+Text from AVI-8_INS_page_11.jpeg:
+Inertial Navigation Digital Computer
+
+The digital computer uses RLG outputs, along with inputs from
+mechanical accelerometers, to calculate accelerations in pitch, roll, and
+yaw. It also calculates true heading and magnetic heading vectors. In
+addition, the computer provides BITs, computer mode control, and
+information to other systems.
+
+The INS’ digital computer has a defense mapping agency (DMA) magnetic
+variation look-up table included in its memory. Based on present position,
+the INS can determine magnetic variation for any location on earth. This
+allows it to output magnetic heading without external inputs, other than a
+good starting present position. A Kalman filter is used to provide
+enhanced alignment and performance. This is a software program that
+keeps track of earth movement, the cycle of mechanical error, past FNU
+INS performance, alignment quality, time in the NAV mode, type of
+update, and other factors. How much of a position update the filter
+accepts is based on known earth rotation values and mechanical error
+calculation.
+
+D-5 AVI-8
+
+
+Text from AVI-8_INS_page_12.jpeg:
+INS Mode Knob
+
+The INS mode knob is on the sensor control panel (Figure D-3) located on
+the left FCP console. It is used to select the INS modes listed below.
+
+TF RDR RDR ALT RADAR
+ON © OVERRIDE STBY
+
+OFF. ON xq
+PULL
+STBY ON y
+EMERG
+OFF F °
+
+AVI-08-03
+
+Figure D - 3. Sensor Control Panel.
+
+OFF - removes power from the INS
+
+STORE - initiates a stored heading alignment
+GC - initiates a gyrocompass alignment
+
+NAV .- is the primary navigation mode
+
+AVI-8 D-6
+
+
+Text from AVI-8_INS_page_13.jpeg:
+ALIGNMENT (Before TCTO 1F-15E-737)
+
+There are three modes of alignment: gyrocompass, stored heading, and
+in-flight. All that is required during most missions is turning the INS
+knob to GC shortly after the engines are started and to NAV prior to
+takeoff. Let us look at the process a little closer to understand what the
+system is doing.
+
+Two basic things happen in the time between turning the INS on and
+switching to NAV. For the first 30 seconds of an alignment, the system
+determines attitude/platform stabilization. The remaining time is used to
+determine true north. This whole process is called aligning the INS.
+
+Gyrocompass (GC) Alignment (Before TCTO 1F-15E-737)
+
+A gyrocompass alignment is the most accurate alignment and the one
+most often used. Accuracy specifications call for drift of 0.8 nm per hour
+but flight tests have resulted in a calculated error of 0.37 nm per hour.
+
+GC Alignment - Procedure (INS Mode Switch OFF to GC)
+
+Read the Dash 1, Section II, INS Procedures, INS Alignments, Normal GC
+Alignment for a complete discussion of GC alignment procedures.
+
+In short, turn the INS control knob to the GC position and insert a present
+
+position through the UFC. Stabilization and true north are established by
+the system. After that, select NAV and take off.
+
+D-7 AVI-8
+
+
+Text from AVI-8_INS_page_14.jpeg:
+Alignment Status In The HUD
+
+The status of the INS alignment is displayed above the NAV data block in
+the HUD (Figure D-4). During a normal GC alignment, these are the
+anticipated indications (provided a present position entry is not needed):
+
+GC NO TAXI
+NAV 1A
+
+N 12.0
+OFF
+
+AVI-08-04
+
+Figure D - 4. INS Status During Alignment.
+
+GC NOTAXI Indicates a GC coarse alignment has begun. During
+this phase, the INS is computing its attitude. The
+message lasts for approximately 60 seconds. DO NOT
+MOVE THE AIRCRAFT. If movement is detected, the
+alignment ceases and the INS must be turned off (at
+least 2 seconds) and then restart the alignment.
+
+GC 15.9 An alignment quality number appears on the HUD
+display after the INS calculates a level aircraft
+attitude. This number represents the relative time of
+the alignment where 15.9 = beginning value and
+0.8 = nearly complete.
+
+AVI-8 D-8
+
+
+Text from AVI-8_INS_page_15.jpeg:
+GC
+
+GC
+
+HOLD
+
+OK
+
+The aircraft can be moved without degrading INS
+accuracy after the alignment quality number appears.
+However, when the aircraft is moved or when the
+holding brake is disengaged, the message GC HOLD
+replaces the alignment quality number as a visual cue
+that the alignment has ceased. After the aircraft is
+stopped, you must engage the holding brake in order to
+continue the alignment. This is commonly referred to
+as an interrupted alignment.
+
+As the alignment continues, the quality number counts
+down. Once GC 0.8 is displayed, the alignment is
+nearing completion. Shortly GC OK will appear. This
+indicates that the alignment has reached its specified
+tolerances. The INS mode switch can now be moved to
+NAV. If NAV is selected prior to the GC OK
+indication, INS performance will be degraded. If NAV
+is not selected when GC OK appears in the HUD, the
+INS will continue refining its alignment and Kalman
+filter values.
+
+Interrupted Alignments
+
+By disengaging the holding brake after GC 15.9 is displayed but before GC
+OK is displayed, then reengaging it on different aircraft headings, you
+help the INS electronically determine true north and true vertical more
+accurately. Once GC OK is displayed, no more interrupted aligning is
+possible. This is not to be confused with an extended alignment.
+
+D-9 AVI-8
+
+
+Text from AVI-8_INS_page_16.jpeg:
+Extended Alignments
+
+Whenever GC OK is displayed and the holding brake is engaged, the INS
+is in an “extended alignment.” This will not degrade the INS accuracy; in
+fact, it will improve it by refining values through the Kalman filter
+software program. Therefore, selecting INS NAV should be delayed as
+long as practical on the ground, and the holding brake should be engaged
+every time the aircraft is stopped. Also, INS drift occurs whenever the
+holding brake is disengaged and/or the INS is placed in NAV, which is
+another good reason to delay these actions.
+
+Present Position Required (Before TCTO 1F-15E-737)
+
+If the last aircraft shutdown present position differs from the last
+alignment present position by more than 2 nm, GC PP REQ is displayed
+instead of GC NO TAXI. This shows that the INS needs the current
+latitude and longitude. The information must be entered before the
+alignment will continue. The new present position needs to be accurate.
+If an incorrect latitude is entered, the INS will detect the wrong earth
+rotation rate which will cause PP REQ to be displayed. An incorrect
+longitude cannot be detected. If you enter it incorrectly, simply type in
+the correct coordinates and the INS will continue its alignment, although
+it will backstep in the alignment process somewhat. In the FCP, the PP
+keeping submenu is displayed automatically on the UFC. In the RCP, the
+PP keeping submenu must be selected by pressing PB #4 on the Menu 2
+display. Either crew member can input present position, but it is
+normally done by the WSO. Read the Dash 1, Section II, UFC Procedures,
+Data Entry/Display (Both), Present Position for a complete discussion of
+present position entry procedures. For best results, an accurate present
+position should be entered on every flight, even if PP REQ is not
+displayed.
+
+AVI-8 D-10
+
+
+Text from AVI-8_INS_page_17.jpeg:
+Stored Heading (SH) Alignment (Before TCTO 1F-15E-737)
+
+A valid stored heading alignment is possible only if a GC alignment was
+previously accomplished, the INS control knob was not placed in NAV,
+and the aircraft was not moved since the last INS shutdown. The SH
+alignment has the same accuracy as the previous GC alignment but only
+requires about 40 seconds to complete. True north is electronically stored
+so the INS only needs to stabilize and check its accuracy before it is ready
+for use. If the present position information is not accurate, the
+groundspeed of the previous flight was >3 knots or the error rate of the
+previous flight was >1 nm/hr, the INS automatically performs a GC
+alignment regardless of the INS knob position.
+
+Stored Heading Alignment - Procedure (Before TCTO 1F-15E-737)
+
+Read the Dash 1, Section II, INS Procedures, INS Alignments, SH
+Alignment for a discussion of SH alignment procedures. Place the INS
+knob from OFF to SH. The alignment status is displayed in the HUD.
+The expected sequence is as follows:
+
+SH NO TAXI Like GC NO TAXI, it means do not move the
+aircraft.
+SH 0.8 The system already knows where north is, so only
+
+a check for accuracy and fine corrections are
+necessary. The alignment time number starts at
+0.8.
+
+SH OK Put the INS mode knob in NAV.
+
+In-flight Alignment (IFA)
+
+IFAs are performed in the unlikely case of an in-flight failure of the INS.
+
+It is a GC alignment done en route in an attempt to recover the INS.
+Read the Dash 1, Section III, INS Failure.
+
+D-11 AVL-8
+
+
+Text from AVI-8_INS_page_18.jpeg:
+DATA ENTRY
+
+You must provide the CC with the coordinates of a point before you can
+obtain NAV information. The data is actually stored in the CC and the
+calculations are done there. Let us refer to CC and INS interface as “the
+system.”
+
+NOTE: Elevation is not required for lateral steering information;
+however, it should be entered with each point in the event that an altitude
+update is accomplished at any of the sequence points. In order to cue
+sensors (A/G radar, TGT IR) accurately, elevation is required.
+
+Sequence Points
+
+For navigation, sequence points are
+used to define the route of flight. A
+sequence point is a general term
+given to five types of route points
+that can be entered into the system:
+base, steer points, aim points,
+target points, and offset points.
+Up to three separate routes may be
+entered and selected using A, B and
+C route identifiers. The letters A, B,
+or C are typed after the navigation
+point number when entering/
+requesting information on a different
+route from that currently selected.
+
+The system can store 100 steer
+and/or target points using different
+letter and number syntax to define
+these points. An additional 100 aim
+and/or target offsets can be stored
+using specific letter and number
+syntaxes.
+
+4.A AVI-08-05
+
+Figure D - 5. Sample Route.
+AVI-8 D-12
+
+
+Text from AVI-8_INS_page_19.jpeg:
+Navigation/steering provided in the HUD, ADI, HSI, TSD, A/A radar, A/G
+radar, TEWS, UFC, etc., is based on these entries. Automatic sequencing
+of these points is provided as the route progresses as long as the aircraft
+passes within two nm of the point (with AUTO SEQ selected on the HSI).
+For the following description of points (Figure D-5), assume route A is
+selected.
+
+Base Point
+
+The present position used by the INS during alignment becomes the base
+point. Base is the start and end point for each route (A, B, C). On the
+TSD and A/G radar display, the base looks like a baseball home plate with
+the letter B above it.
+
+NOTE
+
+If a base point is loaded in the MC/DTM, to ensure the INS entered
+present position at alignment is the base point (rather than the MC/DTM
+base point), the MC/DTM must be read prior to entering the PP;
+otherwise, the base point loaded through the MC/DTM is used.
+
+Steer Point
+
+Steer points are route turn points and make up the basic route to be
+flown. They are displayed on the A/G radar and TSD as circles and are
+represented as whole numbers (i.e., 1A).
+
+Aim Point
+
+Aim points are associated with steer points or initial points (maximum of
+seven per steer point). Normally, they are visual, radar, or IR significant
+and help identify the steer point. An aim point is depicted on the TSD and
+A/G radar as a segmented circle with its associated steer point number, a
+decimal, and number 1-7 (i.e., 1.1A). An aim point associated with an
+initial point is shown as a segmented square (i.e., 2.1A).
+
+D-13 AVL8
+
+
+Text from AVI-8_INS_page_2.jpeg:
+ADMINISTRATIVE INFORMATION
+
+This student workbook is designed to provide information on the F-15E,
+its systems, and capabilities. It is not a sole source document, but is to be
+used in conjunction with other standard Air Force publications and
+technical manuals. If you find any differences between the material
+contained herein and other governing regulations, adhere to the
+regulations and notify the OPDR.
+
+Changes to this workbook are indicated with a heavy black line in the left
+margin.
+
+Forward recommendations for revision or change to 4 TS, SJAFB, NC,
+275381.
+
+Supersedes: AVI-8, July, 1998
+
+OPDR: 4TS
+
+Index of Changes
+
+Effective Date Pages Affected
+
+
+
+Text from AVI-8_INS_page_20.jpeg:
+Initial Point
+
+An initial point is the last steer point before a target. It is displayed as a
+solid square and a whole number (i.e., 2A).
+
+Target Point
+
+Targets are the point of attack. They are displayed as triangles with a
+whole number and a decimal point (i.e., 3.A).
+
+Target Offset Point
+
+Offset points are always associated with targets (up to seven per target).
+Just like aim points are used to identify steer points, offset points are used
+to help identify a target. Offset points are displayed as segmented
+triangles with the target’s number, a decimal, and 01-07 (i.e., 4.01A).
+
+Steer points and target points are stored together. Their combined total
+may not exceed 100 points. Aim points and target offset points are stored
+together and their combined total cannot exceed 100. The total system
+maximum is 200 points.
+
+Mark Point
+
+Mark points are reference points which can be entered to “mark” a
+particular location for future use. They can only be created by marking
+your present position (overfly mark) using the UFC keypad MARK button
+or by marking a position using the A/G radar or the TGT IR. Up to 10
+mark points can be stored in the CC. “Marks” above the 10 erase previous
+mark points to make room for new mark points. They are displayed on
+the TSD and A/G radar as » (where X = 1 through 10). Some types of
+A/G weapons deliveries also create mark points. Mark points are called
+up for steering or UFC display by entering M followed by the mark point
+number. The time the mark point was created and its coordinates are
+available on the UFC point data submenu.
+
+AVI-8 D-14
+
+
+Text from AVI-8_INS_page_21.jpeg:
+Bullseye Point
+
+Bullseye points are identified by BEX, where X is 1-10. They are created
+in the CC by MC/DTM, list point, or manual entry. They are displayed
+visually as . Bullseye points are called up on the UFC by entering B (or
+BE) and the number. They are used to determine the aircraft position
+and/or the position of a sensor cue relative to the bullseye point. Bullseye
+information is displayed on the A/G radar, A/A radar, and the TSD.
+
+Avoidance Points
+
+Avoidance points are displayed as a circle on the TSD to delineate areas
+that have been designated “no fly” for whatever reason. The UFC entry is
+“A” and a number (1-15). These points can be entered by MC/DTM, by list
+points, or manually. The radius of the avoidance circle is entered/
+displayed on the UFC point data submenu (.99 to 99.0 nm). The AFMSS
+can be used to load avoidance points in the DTD planning MC/DTM load
+routine.
+
+D-15 AVI-8
+
+
+Text from AVI-8_INS_page_22.jpeg:
+Entry Methods
+
+There are three ways to enter sequence point information into the CC.
+
+Mission Cartridge/Data Transfer Module (MC/DTM)
+
+The easiest method to enter data is viaa MC/DTM. The crew programs
+the specifics of the mission into the MC/DTM through the AFMSS and
+takes it to the jet. After engine start, the MC/DTM is read into the system
+(actually, the CC). Route information is now programmed and it only
+needs to be checked for accuracy.
+
+Standard MC/DTM
+
+The next method of entering data is a standard MC/DTM. This is an
+AFMSS preprogrammed MC/DTM that has selected list points around the
+local area but not a specific route. After engine start, the MC/DTM is
+read. Since there is no programmed route, you must define one.
+
+List Point
+
+Reading the MC/DTM puts a list of geographic points (LAT, LONG, and
+elevation) into the CC. Generally, the flying organization selects points
+that are commonly used as standard list points. Rather than type in the
+coordinates of points, use the list point number to define a route. By
+selecting a steer, target, aim, or offset point and associating it with a list
+point, a route is created using predefined geographic points. There are no
+procedures in the Dash 1 for this process.
+
+AVI-8 D-16
+
+
+Text from AVI-8_INS_page_23.jpeg:
+a{LAuU 12888" STR 19.8
+
+TON 11eX RIP NAY
+
+TIFF 12 3 RITEOFF
+
+(j4TR I9R LIST 37) Lf]
+
+€ 4 nerss st ToT ssa8 )LF Z
+MENU 1 DISPLAY fee eceLce MEA SOO) LL
+
+ SIDIDIO]!
+
+©
+
+(| OTT ELV 465" )]
+
+@ ®
+LJs 33°28 STR 19.A Jk
+S| [im | AL LP UFC POINT DATA SUBMENU
+J 458 THE TeeTTS |b
+7am
+CY Tees. 125 Ueee. 0o¥ LO
+
+DATA 1 DISPLAY
+
+AVI-08-06
+
+Figure D - 6. UFC Point Data Submenu.
+
+1. To match list point data with a sequence point, select the sequence
+point to be defined. (See Figure D-6, UFC point data submenu,
+PB #1.)
+
+2. Type the number of the list point into the scratchpad. (The Aircrew
+Aid contains Wing list points and descriptions.)
+
+3. Enter it by pressing PB #10 on the point data submenu.
+
+The list point number, its coordinates, and elevation appear in the point
+data submenu. The selected list point defines the sequence point
+identified at PB #1. Note that this method does not enter information
+concerning minimum en route altitude (MEA) or time over target (TOT).
+Enter them manually if required/desired.
+
+D-17 AVL8
+
+
+Text from AVI-8_INS_page_24.jpeg:
+Manual Entry
+
+The last method for entering data is to manually enter everything through
+the UFC. Manual entry of latitude and longitude is covered in the Dash 1
+and in the CBT lesson. The coordinates are typed into the scratchpad and
+entered into their appropriate display windows on the UFC point data
+submenu.
+
+After navigation information is entered, it should be checked for accuracy.
+The easiest technique is to step through the TSD to ensure the points
+appear correctly positioned on the map. Once verified, the route is ready
+to fly. Additional methods for verifying route information are addressed
+in a later lesson.
+
+IN FLIGHT
+Taking Off in GC
+
+If you inadvertently takeoff with the INS in GC, do not panic. As long as
+GC OK appeared in the HUD before brake release, there should be little
+
+or no degradation in navigation accuracy. There is no apparent problem
+
+changing the switch from GC to NAV while the aircraft is moving.
+
+Auto Sequencing
+
+If AUTO SEQ is selected (boxed) on the HSI, the system automatically
+sequences the current steer point to the next steer point under most
+conditions. You must pass within two nautical miles of a steer point to get
+the system to auto sequence. However, auto sequencing does not take
+place when a base, a mark point, or a bullseye point is the selected steer
+point. If AUTO SEQ is not selected (unboxed) on the HSI, the system
+must be manually sequenced. Other exceptions are addressed in A/G
+lessons.
+
+Manual Sequencing
+If the system does not automatically sequence to the next steer point,
+
+select it manually. Do this by typing the next steer point number into the
+scratchpad and entering it at PB #10 on Data 1 or Menu 1 of the UFC.
+
+AVI-8 D-18
+
+
+Text from AVI-8_INS_page_25.jpeg:
+Position Updates (Before TCTO 1F-15E-737)
+
+Although the “system” is extremely accurate, a small amount of drift
+exists. You will normally perform position updates to the MN, but the
+INS can be updated, as well.
+
+In Suite 3, with the UFC update select submenu, three update methods
+are available: the HUD, overfly, and altitude updates. From the update
+select menu (Figure D-7), choose the option you intend to use and a
+specific submenu appears (Figure D-8, left). EGI updates will be available
+after TCTO 1F-15E-737.
+
+(® ®)
+YS IMN PP RST OFLY ]
+~ ) 4/995 ALT ROT HUB )
+
+Uced 388
+
+pe CAT
+
+AVI-08-07
+
+UPDATE SELECT SUBMENU
+
+Figure D - 7. Position Update.
+
+D-19 AVI-8
+
+
+Text from AVI-8_INS_page_26.jpeg:
+HUD Updates (Before TCTO 1F-15E-737)
+
+Read the Dash 1, Section II, Update Procedures, HUD Update for the
+HUD update procedures. In short, be in the NAV or INST master mode;
+access the HUD update submenu (Figure D-8, left). Take command of the
+HUD (depress/release and toggle forward with the FCP castle switch and
+select INS or MN at PB #10). Ensure the steer point is selected, then use
+the FCP target designator control (TDC) to slew the line of sight (LOS)
+cue to the ground reference (Figure D-8, right). Push in on the TDC, then
+slew the LOS cue.
+
+@ @ LINE OF SIGHT CUE
+(J[stR 156A mn} EC)
+(jJa|N 2582 UPBT MENU ral
+q (Ja {u e200 SP)
+‘at HUB ENTER|L()
+J Od (be2bies U228.108 Gx LO ie
+sks 1S JK
+
+®
+areOrs a0 ; 2 IC lF4 rae re
+: NAV 16A
+
+=>
+IM w M 5 i N 4.4
+©HHOOL© tothe
+BRT : | ; | 4 S a] - =
+M 10.-— —~110
+N @ |a/ Phil] cr 3 WfraralliiiMenu] @ ||P EMIS / iy \\
+
+HUD UPDATE SUBMENU HUD AVI-08-08
+
+Figure D - 8. HUD Update.
+
+Deltas
+
+The distances (N or S/E or W) from the INS (or MN) PP to the update
+derived position (shown under the LOS cue) is shown on the UFC at
+
+PBs #2 and #8 as feet (or miles measured to the nearest tenth if greater
+than 3000 feet) N/S and E/W. They are referred to as deltas. Accept the
+deltas (and correct the error) by pressing PB #7 (ENTER); reject the deltas
+by exiting the submenu or doing another update.
+
+AVI-8 D - 20
+
+
+Text from AVI-8_INS_page_27.jpeg:
+NOTE
+
+The displayed steer point is inhibited from auto sequencing until the
+aircrew exits the UFC update menu. This applies to all UFC update
+routines.
+
+Overfly Freeze Update (Before TCTO 1F-15E-737)
+
+Read the Dash 1, Section II, Update Procedures, Overfly Freeze Update,
+for update procedures. To perform an overfly freeze, ensure the steer
+point is selected and visually fly over the update point. At the moment
+you pass overhead, press FREEZE. Assess the deltas to ensure they are
+reasonable. To accept the update, press PB #7 (ENTER); to reject, exit the
+display. Overfly updates also update “system altitude” if the radar
+altimeter is operational and an elevation of the displayed steer point is
+present. As in the HUD update, ensure MN or INS is the selected update
+source.
+
+Altitude Update (Before TCTO 1F-15E-737)
+
+Read the Dash 1, Section II, Update Procedures, Altitude Update, for the
+update procedure. The altitude the aircraft computes is known as “system
+altitude” (SYSB - system baro) and can be updated over a specific
+sequence point, or over a surface elevation. Access the altitude update
+submenu, select the method of update, freeze, and accept or reject the
+delta. Although altitude updates do not apply directly to the INS, it is an
+update you will do on every air-to-ground mission. A further discussion of
+system altitude update implications will be provided during the surface
+attack academic block.
+
+Radar/IR Updates
+
+It is also possible to update the INS/MN position using the TGT IR and/or
+the air-to-ground radar. These topics are covered in specific lessons later
+in the course.
+
+D-21 AVL-8
+
+
+Text from AVI-8_INS_page_28.jpeg:
+After Landing Overfly Freeze (Before TCTO 1F-15E-737)
+
+After taxiing back to a known position (parking spot, arming area spot,
+etc.), an overfly update of the INS must be performed to enter the
+mission’s INS data. This is how a history of the INS performance is
+maintained by the central computer. Doing an overfly freeze update after
+landing does not significantly improve INS performance on future flights,
+but it does develop a history for maintenance troubleshooting.
+
+Considerations for INS/MN Updates
+
+1. A position update to the INS updates the MN, as well. A position
+update to the MN does not update the INS.
+
+2. If during the UFC-accessed updates, either crew member leaves the
+UFC update format displayed, the steering will not auto sequence to
+
+the next point.
+
+3. If an update is to be performed to the INS, INS must be selected as
+the PP-keeping source (or INV will likely be displayed for deltas).
+
+AVI-8 D - 22
+
+
+Text from AVI-8_INS_page_29.jpeg:
+INS MALFUNCTIONS
+Excessive Ground Speed/Position Errors
+
+After selecting NAV, you should look at your ground speed and present
+position prior to takeoff. Ground speed errors greater than 6 kts and
+position errors greater than 2 nm are excessive. Lesser values should be
+considered excessive for air-to-ground missions. Attempt another
+alignment by going to off for 5 seconds then back to GC align. Allow the
+INS to remain in GC align as long as possible. Monitor ground speed and
+present position to assess system accuracy for one minute after selecting
+NAV again.
+
+Backup Systems (Before TCTO 1F-15E-737)
+
+Although an INS failure seriously degrades mission capability, backup
+systems easily permit safe recovery of the aircraft. The INS is backed up
+by the attitude heading reference system (AHRS) for attitude and
+magnetic heading information. The mission navigator (MN), a subroutine
+of the central computer, keeps its own constant present position, and is
+used for sensor positioning and weapons release data. In addition to these
+backup systems, an in-flight alignment can be performed; and, if
+maintained for 20 minutes, the INS may reflect original alignment
+accuracy. Realize that an insidious failure could cause a position error
+leading to an off course situation or missed target or TOT. All systems
+must be continually cross-checked against others.
+
+D - 23 AVL8
+
+
+Text from AVI-8_INS_page_3.jpeg:
+AVIONICS
+
+COVER
+
+INERTIAL NAVIGATION SYSTEM (INS
+
+INTRODUCTION
+
+This workbook is designed to familiarize you with the F-15E ring laser
+gyro inertial navigation system. It provides the information necessary to
+use the F-15E INS efficiently and safely. As part of a computer-based
+training (CBT) lesson, this workbook should be read prior to taking the
+CBT instruction.
+
+CONTENTS:
+
+INTRODUCTION 0000. eeecccesnceceeseeceseeeessaeecssaeecessaeeessaesensaeesesaeeens A-1
+CRITERION REFERENCED OBJECTIVES (CROs).............eeeeseeeeeeeeees B-1
+STUDENT PREPARATION REQUIREMENTS . 0.000. eeeeeeeeeee C-1
+CEE os ses sans sos cores nos nas ois cua cares canis ans as RSA SNS Onis aU KUNE kK NewS SHES KoRKG MU NaS HSS aUD KR D-1
+END OF TEXT QUIZ ou. eeecccessneecesseeecesaeesesaeeessaeeesssaeesesanesenaees N/A
+(ina) F-1
+ANNEX ooo eecceccesnceeesseeecnsceeessaeecesaeeesssaeesesaaeeessaeecessaeesssaeesessaeeesseeeeeas G-1
+
+
+Text from AVI-8_INS_page_30.jpeg:
+The INS is extremely reliable, but you must recognize certain
+malfunctions and be alert to the following indications. Normal displays
+are shown in Figure D-9, degraded displays are shown in Figure D-10 and
+Figure D-11.
+
+TON 112X R 14B M
+305 / 15.0
+00:02:20
+
+Ww TCN ILST GT
+YS L_]
+
+NAV 14B
+
+N 12.0
+00:01:48 E
+
+AVI-08-09
+
+Figure D - 9. Normal Displays.
+
+AVI-8 D - 24
+
+
+Text from AVI-8_INS_page_31.jpeg:
+General Indications of INS Failure (Before TCTO 1F-15E-737)
+
+If the INS fails completely, the MASTER CAUTION light illuminates and
+ATTITUDE appears as an MPD/MPCD caution. The AV BIT caution light
+illuminates and INS will be displayed in the BIT display failure window.
+The system should automatically switch over to the air data (A/D) mode
+and use AHRS attitude and heading information along with UFC entered
+winds and magnetic variation to compute present position and steering
+cues in the MN. The ATTITUDE caution only comes on for a major failure
+of the INS (or AHRS). Indications of a partial failure appears in other
+locations. If the built-in test (BIT) function detects a failure in the INS,
+INS appears on the BIT display (MPD/MPCD) in the equipment failure
+window, and the AV BIT light comes on.
+
+5
+STR 14B
+305 /15.0 105 /12.0
+00:02:20 E 00:01:48 E
+
+BEFORE
+TO IF-15E-737
+
+NAV DEGD
+
+NAV 14B
+N 12.0
+00:01:48 E
+
+AFTER EITHER AUTOMATIC OR
+
+MANUAL SWITCHING TO AHRS AVI-08-10
+
+Figure D - 10. INS Failure.
+
+D - 25 AVI-8
+
+
+Text from AVI-8_INS_page_32.jpeg:
+HUD Indications of INS Failure (Before TCTO 1F-15E-737)
+
+If the INS fails completely and the system successfully switches over to
+the AHRS, one indication in the HUD is a blinking (one hertz rate)
+velocity vector. NAV DEGD is displayed in the navigation information
+block. If INS heading and/or velocity information is in error, the velocity
+vector may also blink. If both the AHRS and INS have failed (or the
+attitude/heading reference selected on the ADI is invalid), the heading
+scale indicates OFF and the pitch ladder disappears. All NAV data blocks
+display OFF. Current G will be supplied by the flight control
+accelerometers, but OWS max allowable G will be OFF. The velocity
+vector will disappear as will the bank indices (Figure D-11).
+
+ADI Indications of INS Failure (Before TCTO 1F-15E-737)
+
+The attitude information for the aircraft automatically changes to AHRS
+and the only indication on the ADI is that INS is replaced by AHRS at
+PB #5. If you cycle PB #5 back to INS, the ADI displays a break X across
+the attitude ball and INS OFF appears at PB #5 (attitude source
+indication). Heading information will still come from the AHRS, if it is
+operational. IF both INS and AHRS fail, the ADI displays a break X and
+the heading scale displays OFF, no matter which system is selected.
+
+AVI-8 D - 26
+
+
+Text from AVI-8_INS_page_33.jpeg:
+¢
+24
+A TON 112x
+
+OFF / 15.0
+OFF E
+
+R
+12 c
+D
+
+15 *
+STR4B oy
+OFF / OFF
+OFF E
+
+Ss
+1
+
+GT ILSN AD
+A
+
+BEFORE
+TO IF-15E-737
+
+NAV DEGD
+NAV 14B
+N OFF
+OFF E
+AVI-08-11
+Figure D - 11. INS/AHRS Failure.
+AVI-8
+
+
+Text from AVI-8_INS_page_34.jpeg:
+HSI Indications of INS Failure (Before TCTO 1F-15E-737)
+
+If the INS fails completely with the AHRS operational, and the system
+switches to the A/D mode, all HSI indications will appear to be normal,
+but will be supplied through the air data navigation mode. If only INS
+heading information is bad, HSI heading will be supplied by the AHRS. If
+both INS and AHRS have failed, OFF appears in the NAV data block and
+TCN data block. The NAV pointer disappears. The compass card slaves
+to north and freezes, and the lubber line, heading marker, and captain's
+bars disappear. The TACAN pointer will show relative bearing only, just
+like ADF. TACAN DME will also be available, but OFF will be displayed
+in the bearing block.
+
+In-Flight Alignment (IFA) (Before TCTO 1F-15E-737)
+
+Read the Dash 1, Section II, INS Failure, INS In-Flight Alignment for a
+discussion of in-flight alignment procedures. Although INS failure is
+unlikely, it is possible. If the INS fails while airborne, an in-flight
+alignment may be required. It is extremely critical that you precondition
+the AHRS and mission navigator. The AHRS must have good heading
+and attitude information and the A/D system have a good present position
+before starting the IFA, or alignment time will be increased significantly.
+A full IFA requires 20 minutes and three to five high accuracy position
+updates. Precision velocity updates (PVUs) are accomplished by using the
+A/G radar, and position updates by using the targeting IR, A/G radar,
+HUD, or overfly. It is best to leave the A/G radar in IFA as long as
+possible to supply ground speed and drift angle (PVU) information.
+
+AVI-8 D - 28
+
+
+Text from AVI-8_INS_page_35.jpeg:
+QUESTIONS
+What are the three components of the FNU INS and their functions?
+a.
+b.
+c.
+What are the two methods of aligning on the ground?
+a.
+
+b.
+
+Write a brief description of the FNU INS mode selector knob
+positions.
+
+a. OFF -
+
+b. STORE -
+ce. GC-
+
+d. NAV-
+
+Write a brief description of the alignment status messages that
+appear in the HUD above the NAV data block.
+
+a. GC/SH NO TAXI -
+b. GC PP REQD -
+
+e GC15.9/SH 08 -
+d. GCHOLD-
+
+e. GC/SH OK -
+
+What are the procedures for a GC alignment?
+
+Boop
+
+D - 29 AVL8
+
+
+Text from AVI-8_INS_page_36.jpeg:
+6. What are the procedures for a stored alignment? (including setup)
+
+ao op
+
+AVI-8 D - 30
+
+
+Text from AVI-8_INS_page_37.jpeg:
+oS
+
+Boop
+
+Ro op
+
+ANSWERS
+
+The FNU mount is installed in the aircraft and holds everything
+in place.
+
+The FNU battery provides power during brief power
+interruptions.
+
+The FNU INS contains the inertial navigation digital computer
+and three complete RLGs, plus three analog accelerometers
+
+Gyrocompass alignment
+Stored heading alignment
+
+removes power from the INS
+initiates a stored heading alignment
+initiates a gyrocompass alignment
+is the primary navigation mode
+
+Indicates a GC/SH alignment has begun. During this phase, the
+INS is computing its attitude. The message lasts for
+approximately 60 seconds. DO NOT MOVE THE AIRCRAFT.
+This message displays if the present position is not OK. PP
+must be entered for the NAV alignment to continue.
+
+An alignment quality number represents the relative time of the
+alignment. 15.9 = beginning value; 0.8 = nearly complete.
+
+The aircraft is moved after the alignment quality number
+appeared. If the aircraft is stopped but the parking brake is not
+engaged, the INS will not reenter the alignment mode.
+
+This indicates the alignment is complete and the INS mode
+switch may be moved to NAV.
+
+INS mode knob to GC.
+
+Input new PP if required.
+
+Wait for GC OK.
+
+INS mode knob to NAV before takeoff.
+
+Start with a good GC alignment (aircraft not moved since the
+last INS shutdown).
+
+INS mode knob from OFF to STORE
+
+Wait for SH OK.
+
+INS mode knob to NAV.
+
+D-31 AVI-8
+
+
+Text from AVI-8_INS_page_38.jpeg:
+(This Page Intentionally Blank)
+
+AVI-8 D - 32
+
+
+Text from AVI-8_INS_page_39.jpeg:
+A/A
+A/D
+A/G
+ADF
+ADI
+ADP
+AFCS
+AFMSS
+AHRS
+ALN
+ALT
+AV
+
+BIT
+CBT
+CC
+CEP
+DEGRD
+DMA
+
+DME
+
+EADI
+
+GLOSSARY
+Air-to-air
+Air data
+Air-to-ground
+Automatic direction finding
+Attitude director indicator
+Air data processor
+Automatic flight control system
+Air Force Mission Support System
+Attitude heading reference system
+Align
+Altitude
+Avionics
+Built-in test
+Computer-based training
+Central computer
+Circular error probability
+Degrade
+Defense mapping agency
+Distance measuring equipment
+
+East
+
+Electronic attitude direction indicator
+
+
+Text from AVI-8_INS_page_4.jpeg:
+CRITERION REFERENCED OBJECTIVES (CROs)
+
+1. Perform gyrocompass (GC) and stored heading (SH) alignments,
+enter present position on the UFC PP keeping submenu as required.
+
+2. Identify the operational characteristics of the fighter navigation unit
+(FNU) INS to include gyrocompass and stored heading alignments,
+and UFC point data submenu data entry.
+
+3. Transfer list point data to a sequence point utilizing the UFC point
+data submenu.
+
+4. Select sequence points and steering information for display on the
+HUD, HSI, and ADI.
+
+5. Perform HUD, overfly, and altitude updates.
+6. Identify indications of and corrective actions for FNU INS failure.
+
+7. Identify the steps necessary for a proper FNU INS shutdown.
+
+REFERENCES
+
+TO 1F-15E-1 Section I Upfront Controls, Data 1 Display,
+Menu 1 Display, Menu 2
+Display, Head-Up Display
+(Windows 16, 17, 18, and 19),
+Navigation Displays, Inertial
+Navigation System
+
+Section IT Before Taxiing/Engine Shutdown;
+(INS Procedures)
+
+Section III GROUND OPERATION: INS
+
+Problems; In-flight INS
+Failure
+
+AVI-8 B-1
+
+
+Text from AVI-8_INS_page_40.jpeg:
+EGI
+EHSI
+FCP
+FNU
+fps
+GC
+
+GPS
+
+HRM
+HSI
+HUD
+IBIT
+IFA
+IMA
+INS
+INST
+INV
+IR
+kts
+LANTIRN
+
+LAT
+
+AVI-8
+
+Embedded global positioning inertial navigation system
+Electronic horizontal situation indicator
+Front cockpit
+
+Fighter navigational unit
+
+Feet per second
+
+Gyrocompass
+
+Global positioning system
+
+Horizontal
+
+Hour
+
+High resolution map
+
+Horizontal situation indicator
+
+Head-up display
+
+Initiated built-in test
+
+In-flight alignment
+
+In motion alignment
+
+Inertial navigation system
+
+Instrument
+
+Invalid
+
+Infrared
+
+Knots
+
+Low altitude navigation and targeting infrared for night
+
+Latitude
+
+
+Text from AVI-8_INS_page_41.jpeg:
+LONG
+LOS
+LRU
+MC/DT™.
+MEA
+MN
+MPCD
+
+MPD
+
+NAV
+nm
+OFLY
+OFP
+OWS
+PB
+PBIT
+PP
+PPKS
+PPS
+PVC
+PVU
+
+RCP
+
+Longitude
+
+Line of sight
+
+Line replaceable unit
+
+Mission cartridge data transfer module
+Minimum en route altitude
+Mission navigator
+Multipurpose color display
+Multipurpose display
+
+North
+
+Navigation
+
+Nautical miles
+
+Overfly
+
+Operational flight program
+Overload warning system
+Pushbutton
+
+Power up built-in test
+
+Present position
+
+Present position keeping source
+Precise positioning service
+Precision velocity consistency filter
+Precision velocity update
+
+Rear cockpit
+
+F-3 AVI-8
+
+
+Text from AVI-8_INS_page_42.jpeg:
+RLG
+
+RST
+
+RTC
+
+SH
+
+SPS
+
+SYSB
+
+SYSG
+
+SRU
+
+TACAN
+
+TEWS
+
+TGT
+
+TOD
+
+TODB
+
+TOT
+
+TSD
+
+UFC
+
+Vv
+
+VOR
+
+VORTAC
+
+WwW
+
+WGS
+
+WSO
+AVI-8
+
+Ring laser gyro
+
+Reset
+
+Real time clock
+
+South
+
+Stored heading
+
+Standard positioning service
+System baro altitude
+
+System GPS altitude
+
+Shop replaceable unit
+
+Tactical air navigation
+
+Tactical electronic warfare system
+Target
+
+Time of day
+
+Time of day buffer
+
+Time on target
+
+Tactical situation display
+
+Upfront control
+
+Vertical
+
+VHF omni range
+
+VHF omni range tactical navigaiton
+West
+
+World geodetic system
+
+Weapon system officer
+
+F-4
+
+
+Text from AVI-8_INS_page_43.jpeg:
+ANNEX
+
+Embedded Global Positioning Inertial Navigation System (EGD)
+
+With TCTO 1F-15E-737, a system called the embedded global positioning
+inertial navigation system (EGI) replaces the AHRS. The Suite 3 software
+recognizes the presence of the EGI and will not display or address AHRS
+functions. The EGI provides a more reliable and maintainable source of
+attitude and heading information than the AHRS. The EGI will be your
+primary source of position and velocity information when it is selected as a
+present position keeping source (PPKS), and can provide a full backup for
+INS information in the event of an INS failure. The INS will be your
+primary navigation source under normal circumstances.
+
+The EGI is very easy to use. Power is automatically applied to the system
+when the aircraft is started. It automatically transitions to its align mode
+and then to its NAV mode when it is ready.
+
+Global Positioning System (GPS)
+
+GPS is a space-based positioning and time system. Twenty-one navstar
+satellites are circling the earth in six orbits. They are positioned 10,000
+miles in space and have 12-hour orbits. They are distributed so that at
+least four satellites will be in view anywhere on the earth at any given
+time. The time system includes coordinated universal time (Zulu time)
+available to the user for satellite acquisition.
+
+The GPS network was designed to support a broad segment of users. The
+two levels of service developed are the precise positioning service (PPS)
+and the standard positioning service (SPS). The PPS system is primarily
+for military use and has a higher attainable degree of accuracy than the
+SPS.
+
+The GPS uses world geodetic system 1984 (WGS 84) absolute earth
+coordinates rather than a ground-based transmitter. As a result, GPS isa
+positioning system rather than a navigation system such as TACAN.
+Positioning is provided in three dimensions to include vertical
+information.
+
+G-1 AVI-8
+
+
+Text from AVI-8_INS_page_44.jpeg:
+The GPS navstar satellites broadcast L-band phase modulated radio
+waves. Each satellite transmits its own unique signal enabling the EGI to
+tell individual satellites apart. On-board data processors within the EGI
+measure the signal and solve a position and time problem to determine
+your position.
+
+Weather does not affect the GPS satellite, which was designed to be
+serviceable even in a combat environment. The GPS satellite
+constellation is in place and has been in use for several years. The USAF
+
+intends to integrate GPS in all aircraft in an effort to eventually replace
+TACAN, VOR, and VORTAC systems.
+
+Fighter Navigation Unit (FNU) INS/EGI
+
+The FNU INS is still the primary source of attitude and magnetic heading
+information. It provides a backup source of present positioning
+information. The EGI will provide the primary source for present
+position, velocity, and attitude information. Though the EGI effectively
+eliminates the need for the TACAN, the TACAN is still available for
+navigation. The EGI replaces the AHRS and integrates GPS data into
+existing on-board systems.
+
+Mission Navigator (MN)
+
+The MN is always based on the FNU INS. MN resets will align the MN to
+the current FNU INS position. The aircrew can update the MN without
+updating the FNU INS.
+
+Best available velocity is based on the present position keeping source
+(PPKS). In EGI PPKS, the best available velocity is the position velocity
+consistency (PVC) filter velocity. In MN or INS PPKS, the best velocity is
+based on INS velocity. The radar will use the best available velocity for
+HRM and position keeping.
+
+GPS Almanac
+
+The first time a GPS receiver is operated, it must begin a search for
+satellite signals. A GPS constellation almanac providing position and
+approximate time facilitates this search. Almanac data gives orbit
+parameters for each satellite and may be valid for periods up to 180 days.
+The almanac data is used to predict satellite visibility and range, thereby
+narrowing the GPS receiver search window.
+
+AVI-8 G-2
+
+
+Text from AVI-8_INS_page_45.jpeg:
+Once the first satellite is acquired, a current almanac can be obtained
+from the satellite’s NAV message. It takes up to 12’ minutes to collect
+complete almanac data which can be obtained from any GPS satellite.
+
+The AFMSS adds a GPS data almanac to the CC initialization
+subdirectory. Only stored almanac data is provided by AFMSS on the
+MC/DTM. The MC/DTM is read to the CC and is available to the EGI
+during initialization. Current almanac data changes weekly and is
+written to the MC/DTM on a postflight write. When the postflight
+MC/DTM is installed in AFMSS for debriefing, AFMSS is automatically
+updated.
+
+The EGI stores almanac data if it maintains good battery function. Ifthe
+battery fails, MC/DTM almanac data is required. If that data is not the
+current week’s almanac, the EGI will replace it with almanac data
+acquired from the satellite. Satellite acquisition is fairly rapid but can
+take up to 30 minutes if almanac data is more than a week old. Almanac
+currency directly affects acquisition time.
+
+EGI
+
+The EGI is a navigation platform that combines an inertial sensor
+assembly with a GPS receiver and a Kalman filter.
+
+The EGI inertial sensor assembly is combined with inertial electronics to
+process gyro and accelerometer information for computing north/south/
+east/west; vertical velocities and acceleration; X/Y/Z axis velocities and
+accelerations; and pitch, roll, magnetic heading, and time heading. It
+contains circuits for calculating inertial altitude, latitude, longitude, and
+computer signals for gyro compass and stored heading alignments.
+
+The EGI GPS receiver processes signals from space-based satellites by
+tracking them to accurately measure aircraft position, velocity, and time
+to aid in aircraft positioning. The more accurate data provided by the EGI
+enhances navigation, sensor cueing, target acquisition, and weapons
+delivery.
+
+A Kalman filter is added to accurately model and weigh errors in velocity,
+position, and calibration for enhanced performance.
+
+G-3 AVI-8
+
+
+Text from AVI-8_INS_page_46.jpeg:
+The EGI’s inertial sensor, GPS receiver, and Kalman filter are combined
+to calculate a blended EGI solution for present position, velocity, and
+altitude. Three or more satellites are required for the best EGI blended
+solution.
+
+EGI Alignment
+
+The EGI is automatically powered up when the aircraft generators come
+on-line. There are no published aircrew procedures required for EGI
+alignment.
+
+The EGI alignment modes are as follows:
+
+GC align 4 minutes - requires PP from CC or FNU INS. The PP
+stored in the FNU INS is sent to the EGI when FNU
+INS is placed in GC.
+
+SH align 30 seconds - this requires a full EGI GC alignment
+
+prior to shutting down the EGI from the previous
+flight and the aircraft heading not changed prior to
+next power up
+
+In motion align aircraft is in motion during align. Must be
+(IMA) tracking satellites and may take up to 10 minutes
+
+to complete.
+
+EGI Shutdown
+
+An orderly shutdown is required for optimum performance. The CC issues
+the EGI an off command when the FNU INS is turned off after flight.
+
+This assumes the aircraft exceeded 80 kts, went from weight on wheels to
+weight off wheels, and back to weight on wheels. A FNU INS overfly
+update is then performed prior to shutting off the INS. The EGI stores
+the performance monitor data and initialization data for the next power
+up. This takes about 10 seconds. The EGI then begins a GC alignment.
+Completion of the GC alignment is not required unless a SH alignment is
+desired.
+
+AVI-8 G-4
+
+
+Text from AVI-8_INS_page_47.jpeg:
+EGI Performance Monitor
+
+The EGI performance monitor keeps a history of recent alignments and
+navigation data. This is stored on the basis of completed flights. This
+history requires:
+
+@ airspeed greater than 80 kts
+
+e EGI in NAV mode for 30 minutes
+
+e EGI receives FNU INS overfly update at the end of the flight
+
+e FNU INS turned off
+
+This data is stored in nonvolatile memory if you allow 30 seconds from
+FNU INS shutdown to the time engines are shut down.
+
+EGI GC Alignment
+
+The GC alignment is the most accurate alignment mode. It takes four
+minutes from the time both generators come on-line to complete the
+alignment. The alignment requires a present position (PP) input to the
+EGI from the CC or GPS. The CC initially sends a PP stored in the FNU
+INS at power up and again if a PP is entered into the FNU INS from the
+UFC. If the EGI keys are verified and the GPS is tracking four satellites,
+the EGI will take the PP from the GPS. This will then replace the entered
+PP.
+
+EGI Stored Heading (SH)
+
+The EGI stored heading mode is a fast alignment mode. It takes 30
+seconds to complete and does not require a PP entry. To perform a SH
+alignment, a full EGI GC alignment must have been completed prior to
+last shutdown and the aircraft heading should not have been moved more
+than 1°. Once the EGI has been set up for a SH alignment, it will
+continue to do so on each power up until the aircraft has moved, or a PP is
+entered that is more than 900 feet from current PP.
+
+G-5 AVI-8
+
+
+Text from AVI-8_INS_page_48.jpeg:
+EGI IMA
+
+If the aircraft moves or goes weight off wheels during alignment, the EGI
+will do an IMA. This can take up to 10 minutes and may require
+assistance from the GPS. A heading change during the first few minutes
+of an IMA may speed up the alignment.
+
+“Y” Code
+
+The military precise positioning service (PPS) is accessible with the EGI.
+PPS is enhanced by an encrypted mode referred to as “Y” code. An
+encryption key is installed in the EGI using a KYK-13 at a specialized
+crypto fill port in the EGI LRU.
+
+The CC commands the EGI to use the “Y” code. If the EGI does not track
+a “Y” code for more than a 5 minute period or the EGI is unkeyed, the CC
+will command the EGI to stop using GPS in the blended solution. An
+additional option, NON Y code, will become available and can be selected
+on the detail page. EGI* will be displayed in the BIT fault window along
+with an AV BIT light to alert the crew to this situation.
+
+Boxing NON Y on the detail page will allow the crew to use GPS in the
+blended solution with noncoded signals. If “Y” code again becomes
+available, the GPS will track “Y” code satellites with no aircrew action.
+The NON Y display will be removed from the detail page when this
+happens. If the NON Y display should reappear, reboxing is all that is
+required to use noncoded GPS signals again.
+
+Time of Day (TOD)
+
+Not to be confused with Have Quick TOD, the EGI uses a TOD in Zulu
+time to aid in satellite tracking and aircraft positioning. If the EGI has
+had a battery change, TOD time and date must be entered to decrease
+satellite acquisition time.
+
+TOD date entries are made via the UFC HUD title page at PB #1. The
+
+date is entered as M1-1 through M12-31 for month and day entries. If the
+month is unchanged, M1 through M31 is required to change the day entry.
+
+AVI-8 G-6
+
+
+Text from AVI-8_INS_page_49.jpeg:
+Zulu time entries are made via the UFC Data 1 at PB #8. The Zulu time
+is entered as M000000 through M235959. All six digits must be entered.
+
+Upon power up or CC reset with weight on wheels, the time of day buffer
+(TODB) and real time clocks (RTCs) are initialized to GPS time if GPS
+time is valid. If GPS time is not valid, the TODB is initialized to RTC. If
+GPS time should then become valid before an aircrew time entry, the GPS
+time will initialize the TODB and RTC.
+
+If GPS time should become valid after aircrew entry, GPS time will be
+loaded to the TODB and RTC but will not change the crew-entered CC
+time.
+
+Initializing the TODB and RTC with GPS time sets them to Zulu time.
+Your position from the satellite is based on time of arrival ranging.
+Synchronization between the GPS time and on-board TODB and RTC
+times are essential. A comparison is made from the time a signal is sent
+to when the EGI receives it. This time difference will give the range to the
+tracked satellite. With four satellites, very accurate positioning can be
+determined.
+
+Blended GPS/INS
+
+The EGI is a separate entity from the FNU INS and operates differently
+in its aircraft positioning solution. The EGI combines GPS and inertial
+sensor information to build a blended solution. The EGI blended solution
+uses GPS satellite range measurement and inertial sensor measurement
+to provide an EGI blended horizontal position, velocity, and altitude.
+Position accuracy is 30 feet circular error of probability (CEP) and velocity
+accuracy of 0.34 fps.
+
+The EGI blended solution is always used within the EGI even when GPS
+is unavailable for some reason. If GPS aiding is lost for short periods, the
+Kalman filter for the EGI is adjusted to reduce inertial sensor errors. This
+will be more accurate than a free inertial-only solution. However, if GPS
+aiding is absent for more than 30 minutes, the EGI solution will generally
+contain larger errors than the FNU INS solution. The EGI solution
+cannot be updated in position or velocity to correct errors as you can with
+the FNU INS.
+
+G-7 AVI-8
+
+
+Text from AVI-8_INS_page_5.jpeg:
+STUDENT PREPARATION REQUIREMENTS
+
+BEFORE THE CBTS CLASS
+1. Study the information contained in this workbook.
+
+2. Read references in Sections I, II, and III of TO 1F-15E-1.
+
+C-1 AVI-8
+
+
+Text from AVI-8_INS_page_50.jpeg:
+Present Position Keeping Source (PPKS)
+
+The PPKS options available are EGI, MN, and INS. The air data
+processor (ADP) source is retained as default PPKS but is not selectable.
+The PPKS defaults to INS at start up and must be changed by the aircrew
+(Table G-1). The EGI is the recommended PPKS and should be selected
+as PPKS when the EGI and FNU INS have completed their respective GC
+alignments.
+
+BGI
+M INS
+INS
+
+Table G- 1. PPKS Default Structure.
+
+The system altitude source is coupled to the PPKS selection. SYSG is the
+EGI blended altitude combined with the blended vertical velocity by the
+PVC filter. SYSB is the temperature-corrected baro altitude.
+
+UFC PPKS Submenu Selection
+
+The PPKS submenu is accessed from UFC Menu 2 by selecting PP XXX at
+
+PB #4. PB #4 shows actual PPKS in use prior to going to the submenu
+(Figure G-1).
+
+@
+
+®
+
+@)
+
+a lJVC OFF STR 13.A s|PP-KEGI «* EGI
+
+LJ
+
+ie
+
+(a (6CUS ON UPDIMENU | EL ai§ 2 P46. 123" 38°
+(J4filS 189.78 BE 7] We YB3°45.345" ce"
+
+PP-REGL KEGI* 1234
+
+MVE 18.18" HUD TITLE
+
+e
+‘0
+=
+O
+O
+
+Ol elt
+
+_| (Usa ees use eee) |
+
+T Ololol
+
+MENU 2 PPKS SUBMENU
+AVI-08-12
+
+Figure G - 1.
+
+AVI-8 G-8
+
+
+Text from AVI-8_INS_page_51.jpeg:
+Selection of PPKS is made at PB #10 on the PPKS submenu (Figure G-1).
+The possible selections are EGI, INS, and MN, with INS as the power up
+default. The actual PPKS is displayed at PB #1 on the submenu
+
+(Figure G-1).
+
+When EGI is the PPKS, the keying and GPS aiding status is displayed at
+PB #1. The leading “K” means the EGI is keyed and keys are verified.
+When a trailing asterisk (*) is present, the blended solution is being
+improved with GPS information. The asterisk (*) will not be displayed if
+the EGI is tracking less than four satellites for more than five minutes or
+if the horizontal position error is greater than 120 feet for more than five
+minutes (PB #8, Figure G-1). At PB #8 and #9 (Figure G-1), horizontal
+(H) and vertical (V) position errors are displayed. If the EGI is in an align
+mode or invalid, INV will be displayed rather than the errors. In all other
+PPKS (INS/MN) PB #8 and #9 will be blank.
+
+If the EGI is in NAV mode, the blended estimated spherical position error
+will be displayed at PB #7 on Menu 2 (Figure G-1). If EGI is in align
+mode, ALN will be placed in the PB #7 data block. If the EGI is off or
+invalid, INV will be displayed at PB #7.
+
+EGI Updates
+
+The UFC update menu has been modified to delete TACAN as a position
+update source. EGI replaces TACAN at PB #7 (Figure G-2). MN PP RST
+will reset MN position to FNU INS unless FNU INS is invalid. If this is
+the case, a MN RST cannot be done.
+
+System altitude resets are coupled with the PPKS and are referred to as
+SYSG (EGI) and SYSB (INS/MN). SYS ALT reset at PB #2 will display
+SYSGXXXX or SYSBXXXxX for five seconds if reset occurred. Only the
+system altitude in use will be reset. INV will be displayed for five seconds
+if the reset did not occur.
+
+G-9 AVI-8
+
+
+Text from AVI-8_INS_page_52.jpeg:
+SiN PP RST GFLY
+
+S (_|(65S ALT RST HUD
+
+(|| UebS 288 U348 B88
+
+GOlelojolo 4
+
+UPDATE MENU
+
+AVI-08-13
+
+Figure G - 2.
+
+€ Isr UPDT MENU ) Le F)
+Jer on
+
+TI ItH 58°3 EG! ENTER | Ly
+(|| Uebs 208 U348 B88 an
+
+AVI-08-14
+
+AVI-8 G-10
+
+
+Text from AVI-8_INS_page_53.jpeg:
+EGI Position Updates
+
+The EGI cannot be updated in position or velocity. The EGI does not
+provide data to the FNU INS or MN in a periodic aided fashion.
+
+To update the FNU INS, INS must be selected as the PPKS. The update
+is a Kalman weighed update. When the FNU INS is updated, the MN is
+also updated (Figure G-3).
+
+The MN position can be updated in any PPKS and will accept 100% of the
+update.
+
+The EGI UFC update menu is used to perform a one-shot position update
+from the EGI to the FNU INS or MN.
+
+PB #2 and #8 will display N/S/E/W errors between FNU INS/MN and the
+EGI. PB #4 can be toggled to provide an altitude update. If the field at
+PB #4 is blank, only a position update in latitude and longitude will be
+accomplished. The FNU INS must be the PPKS in order to update the
+INS position.
+
+Velocity Updates
+
+MN and FNU INS PVUs can be performed in any PPKS. The EGI
+velocity, however, is never used to update the FNU INS or MN velocities.
+
+In EGI PPKS, the CC will send a velocity correction to the radar. The
+velocity correction is the difference between EGI velocities and reference
+velocities. The reference velocity source can only be FNU INS or ADP.
+
+PVUs are not required prior to constructing HRM patch maps if in EGI
+PPKS. If MN is the PPKS, it is still recommended to do a PVU before
+making a HRM patch map.
+
+Altitude Updates
+
+SYSG cannot be updated from any source. If in EGI PPKS, altitude
+updates are not allowed. Altitude updates from overfly update or the
+targeting pod will be allowed in any PPKS; however, only SYSB will be
+updated. After takeoff, if SYSB altitude is in error an update is preferable
+to areset. Corruption of SYSB is really the only reason to consider an
+altitude update.
+
+G-11 AVI-8
+
+
+Text from AVI-8_INS_page_54.jpeg:
+Malfunctions
+
+The FNU INS provides primary altitude and/or magnetic heading to the
+EHSI, EADI, and the HUD. The EGI is the backup source for magnetic
+heading to the EHSI, EADI, and HUD if the FNU INS should fail. If the
+FNU INS fails, the EGI will provide altitude source information to the
+EADI and HUD.
+
+If the EGI is the PPKS (i.e., KEGI) with a FNU INS failure, the EGI will
+drive the now flashing velocity vector. If any other PPKS is selected, the
+ADP will drive the velocity vector if airspeed exceeds 80 kts.
+
+The attitude source can be toggled between INS and EGI on the EADI.
+The INS is the default mode. The EGI will be the default in case of FNU
+INS failure. If the EGI is in an align mode or invalid, a break X will
+appear on the EADI and OFF will be displayed in place of EGI at PB #5.
+
+If the EGI keys are unverified after 20 minutes (indicated by EGI* in the
+BIT fault window and KEY IN PROGRESS on the EGI detail page),
+NON Y should be available and selected. Key verification may take an
+additional 15 minutes.
+
+Air Data (A/D) Mode Malfunction
+
+The A/D mode is a backup to the FNU INS navigation mode. If the INS
+should fail, the CC automatically switches to the A/D mode. The CC uses
+true airspeed, wind velocity, and EGI heading to determine position and
+compute steering information. The A/D is not manually selectable. You
+
+may accomplish PVUs to update velocities. The most accurate position
+updates are EGI, HRM, LANTIRN, and OFLY.
+
+AVI-8 G-12
+
+
+Text from AVI-8_INS_page_55.jpeg:
+FNU INS In-flight Alignment (IFA)
+
+Turn the INS knob to OFF then directly to NAV and select IFA on the A/G
+PVU display. The FNU INS enters IFA mode and receives attitude and
+heading from the EGI. Initial position and velocity are PPKS dependent.
+EGI should be the PPKS selection.
+
+In the HUD window you should see IFA 15.9 rather than INS DEGRD,
+and a countdown begins. Limit maneuvering to +45° pitch and +60° of roll
+during the IFA. You should accomplish three to five position updates
+using overfly and LANTIRN as the preferred methods. In 20 minutes you
+should see IFA OK in the HUD. To stop the IFA, deselect IFA anytime
+after IFA 15.9 is displayed.
+
+Built-in Test (BIT)
+
+The EGI, like other avionics systems, has a BIT system to provide
+information pertaining to the EGI operating status. The three BIT
+routines are power up, continuous, and ground initiated.
+
+The EGI power up BIT (PBIT) is automatically initiated at aircraft power
+up. If the system or components fail during the BIT, EGI* will be
+displayed in the BIT fault window and an AV BIT light will be displayed
+(Figure G-4). This is also the indication that nonkeyed NON Y is
+available on the EGI detail page (Figure G-4).
+
+(7 AUTO MAINT DETAIL SFDR \\
+DSPL NO
+pee BUILT-IN TEST Tews BUILT-IN TEST
+
+EGIL A1 AS AT
+
+RDR SFDR 5A SFDR 5B KEY - XXXXXXXXXX BATTERY FAIL
+
+DMS 5B__EGI* 2 HOUR ALERT ELEC BST REQUIRED
+
+MAIN BIT DISPLAY EGI DETAIL BIT DISPLAY
+
+AVI-08-15
+
+Figure G - 4.
+
+G-13 AVI-8
+
+
+Text from AVI-8_INS_page_56.jpeg:
+Pressing EGI on the BIT 2 display initiates the EGI ground initiated BIT
+(IBIT). This BIT can only be accomplished with weight on wheels. If the
+aircraft becomes airborne or weight off wheels is sensed, the IBIT will
+automatically terminate (Figure G-5).
+
+ialalIels
+
+(A AUTO MAINT DETAIL M/4 \
+CAUT
+
+DSBL
+Eat BUILT-IN TEST
+
+RDR SFDR5A SFDR5B
+DMS 5B_EGI*
+
+DMs ___IDLP
+
+Figure G - 5.
+
+If the CC determines there is any EGI failure information, EGI* will be
+displayed in the BIT fault window. This information is available through
+the detail page (Figure G-5).
+
+EGI Detail BIT Data
+
+Detail failures are listed in the upper portion of the display (Figure G-4,
+page G-18).
+
+e 6 KEY status is displayed as UNKEYED, PARITY FAIL, IN
+PROGRESS, INCORRECT, or FAIL.
+
+e 2HOUR ALERT is displayed if key coding is due to expire within two
+hours.
+
+e BATTERY FAIL is displayed for an internal EGI battery failure.
+
+e ELECT BST REQUIRED is displayed when electronic boresight of
+the EGI is required.
+
+e At PB #1NO GPS will cancel out EGI blended solution if boxed.
+
+AVI-8 G-14
+
+
+Text from AVI-8_INS_page_57.jpeg:
+e PB#5 NON Y is available when displayed. When encryption keys
+are lost or Y code is off or not boxed, nonencrypted codes can be
+selected by boxing NON Y if it is displayed.
+
+e PB #6 EGI deselects EGI detail and takes us back to the BIT page.
+
+EGI Maintenance BIT Display
+
+The EGI maintenance BIT page is selected from the main BIT page.
+PB #6 (EGI) will take you to the BIT display (Figure G-6).
+
+BUILT-IN TEST
+
+M
+
+MAINT BIT DISPLAY EGI MAINT BIT DISPLAY
+
+AVI-08-17
+
+Figure G - 6.
+
+EGI electronic boresight (EB) is the only option available. This boresight
+is initiated by pushing PB #1 (ELEC BST). The EB aligns the EGI chassis
+to the FNU INS chassis and eliminates an additional alignment to the
+aircraft body frame. The EB is run automatically at aircraft power up if
+the FNU INS is turned on. If the initiated EB is selected, all previous
+boresight corrections are cleared and a new EB is commanded. This will
+take about four minutes and can be checked by toggling between EGI and
+INS on the EADI. A good EB will show no difference in attitude between
+the two.
+
+G-15 AVI-8
+
+
+Text from AVI-8_INS_page_58.jpeg:
+EGI Memory Audit
+
+Selecting PB #10 on the maintenance audit page displays the EGI
+memory audit (Figure G-7). The OFP version is displayed under
+BUILT-IN TEST. Addresses are entered in multiples of 4; the CC will
+accept no others. Leading zeros do not need to be entered as the address
+window automatically resets to all zeros after entry.
+
+qe
+
+||
+MAINT (/ EG! [MAINT] HEX HOLD \\
+BST
+
+BUILT-IN TEST BUILT-IN TEST
+OFP VERSION: -XXXX
+
+~ OO1AFE28: XXXX XXXX XXXX XXXX XXXX
+XXXX XXXX XXXX XXXX XXXK
+
+OO1AFE32: XXXX XXXX XXXX XXXX XXXXK
+XXXX XXXX XXXX XXXX XXXXK
+
+OO1AFE3C: XXXX XXXX XXXX XXXX XXXXK
+XXXX XXXX XXXKX XXXX XXXK
+
+M
+
+\ EGI INS AUDIT y 5 6 7 8 9
+\“ : Z) —
+
+ie es ee
+
+MAINT BIT DISPLAY EGI MEMORY AUDIT PAGE
+
+F It
+
+A
+0
+B
+
+1
+c
+2
+D
+3
+E
+4
+XO
+
+AVI-08-18
+
+Figure G - 7.
+
+AVI-8 G-16
+
+
+Text from AVI-8_INS_page_59.jpeg:
+(This Page Intentionally Blank)
+
+G-17 AVI-8
+
+
+Text from AVI-8_INS_page_6.jpeg:
+(This Page Intentionally Blank)
+
+AVI-8 C-1
+
+
+Text from AVI-8_INS_page_60.jpeg:
+BACK PAGE
+COVER SHEET
+
+
+Text from AVI-8_INS_page_7.jpeg:
+TEXT
+INTRODUCTION
+
+The F-15E is the first production fighter aircraft to fly with a ring laser
+gyro (RLG) inertial navigation system (INS) as standard equipment. The
+goal of the RLG INS is to utilize the accuracy and reliability experienced
+in commercial RLG INSs, add features to compensate for the dynamic
+fighter environment, and provide the aircrew with an accurate and easy to
+use navigation tool. The result is an INS that the F-15E pilot turns on,
+allows to align for 4 minutes, and virtually forgets until the end of the
+mission. The benefits of an RLG versus an analog INS are shown in the
+comparison chart (Chart D-1) below:
+
+RLG INS Analog INS
+Align Time Full Align (GC) - 4 min Full Align - 9-13 min
+Rapid Align (SH) - 40 sec Rapid Align - 3 min
+Accuracy 0.8 nm/hr CEP” (design) 2 nm/hr CEP*
+Reliability 2000 hrs MTBF** <200 hrs MTBF**
+
+* Circular error probable
+** Mean time between failure
+
+NOTE
+
+Actual RLG CEP: approximately 0.37 nm/hr.
+
+Chart D - 1. Comparison of an RLG INS to an Analog INS.
+
+D-1 AVI-8
+
+
+Text from AVI-8_INS_page_8.jpeg:
+Description
+
+The data in this workbook reflects Suite 3 software changes before
+TCTO 1F-15E-737. After this TCTO, an embedded global positioning
+system (EGI) will replace the current AHRS functions and add to the
+reliability and accuracy of on-board position keeping and navigation
+systems. Information on the EGI is located in Annex H. The F-15E
+fighter navigation unit (FNU) INS will be referred to as the FNU INS or
+INS when appropriate and is a separate system from the EGI. The FNU
+INS is a self-contained, fully automatic RLG system that supplies the
+primary attitude reference for the aircraft, plus provides continuous
+present position (PP) monitoring. It also furnishes the LANTIRN, radar,
+AFCS, and central computer (CC) systems with aircraft attitude, heading,
+velocity, and acceleration information.
+
+Components
+
+The INS consists of three main components. They are the fighter
+navigation unit (FNU) mount, the FNU battery, and the inertial sensor
+assembly.
+
+FNU Mount
+
+The FNU mount is installed and boresighted in the aircraft prior to
+
+delivery. It has no moving parts and is the location for the following
+components.
+
+AVI-8 D-2
+
+
+Text from AVI-8_INS_page_9.jpeg:
+FNU Battery
+
+The battery (Figure D-1) provides power during brief power interruptions.
+On the ground, the battery can sustain a two second interruption. In the
+air, specifications require it to provide seven seconds of power. (If fully
+charged, the battery may last 1-1/2 - 2 minutes.)
+
+Inertial Sensor Assembly (ISA)
+
+The ISA (Figure D-1) contains three complete ring laser gyros (roll, pitch,
+and yaw), three analog accelerometers, and the inertial navigation digital
+
+computer.
+| __
+ae
+RLGs
+INERTIAL NAVIGATION
+DIGITAL COMPUTER
+ISA
+RA
+FNU BATTERY
+FNU MOUNT ——™ “Ss KS
+= eS AVI-08-01
+SL
+
+Figure D - 1. Fighter navigaiton Unit.
+
+D-3 AVI-8
+
+

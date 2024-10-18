@@ -1,0 +1,820 @@
+Text from EW-1_Generic_Electronic_Attack_page_1.jpeg:
+SUPPORTS COURSES
+FIS5EBQ
+FISETX
+
+ACADEMIC STUDENT WORKBOOK
+F-15E
+
+ELECTRONIC WARFARE
+EW-1
+GENERIC ELECTRONIC ATTACK (EA)
+
+JUNE 1999
+
+(OFP N/A)
+
+AIR COMBAT COMMAND
+
+
+Text from EW-1_Generic_Electronic_Attack_page_10.jpeg:
+Peak power versus average power has important implications for the
+burn-through formula. Peak power (Ppk) is the maximum power output
+during transmission time. It is expressed in watts or megawatts.
+Average power (Pav), usually expressed in watts, is the peak power
+distributed over the pulse recurrence time (PRT) (Figure D-3).
+
+With continuous wave radars/jammers, peak power equals the average
+power. They are inherently less sensitive to noise jamming techniques.
+The average power of a pulsed radar is determined by the radar’s PRT.
+This allows a relatively low peak power jammer to overpower a higher
+peak power radar.
+
+PEAK
+
+POWER AVERAGE POWER
+(Ppk) ) (Pav)
+
+EW-1-03
+
+Figure D - 3. Power Distribution.
+
+EW-1 D-4
+
+
+Text from EW-1_Generic_Electronic_Attack_page_11.jpeg:
+Frequency coverage also determines the effectiveness of ajammer. Ata
+given frequency, the power radiated by a noise jammer varies inversely
+with the width of frequency coverage (Figure D-4).
+
+Kb
+
+=
+ae
+=)
+zo
+ac
+ctw
+cs
+
+fe)
+
+a
+
+RADIATED
+POWER OUTPUT
+
+PT TT TT TTT TTT TTT tt TT TT TTT TTT ttt
+
+BANDWIDTH BANDWIDTH
+
+EW-1-04
+
+Figure D - 4. Jamming Power Versus Bandwith.
+
+For a given power output a narrow bandwidth can be jammed at a higher
+power level, or a wider bandwidth can be covered at a lower intensity.
+These concepts are reflected in barrage noise and fixed spot noise
+techniques.
+
+D-5 EW-1
+
+
+Text from EW-1_Generic_Electronic_Attack_page_12.jpeg:
+Barrage Noise
+
+Barrage noise consists of spreading RF energy over a wide band of
+frequencies. The purpose of barrage jamming is to defeat a radar with
+good frequency agility, or many radars operating on slightly different
+frequencies (Figure D-5).
+
+gt BARRAGE gt gt
+
+4 JAMMING
+
+EW-1-05
+
+Figure D - 5. Barrage Noise.
+
+EW-1 D-6
+
+
+Text from EW-1_Generic_Electronic_Attack_page_13.jpeg:
+Fixed Spot Noise
+
+Fixed spot noise is a stationary narrow band of noise. The advantage of
+this technique is that all of the jammer’s power is concentrated on a single
+frequency (Figure D-6). The main limitation is that a tunable radar can
+simply change frequencies and tune away from the noise.
+
+Figure D - 6. Fixed Spot Noise.
+
+D-7 EW-1
+
+
+Text from EW-1_Generic_Electronic_Attack_page_14.jpeg:
+Swept Spot
+
+Swept spot jamming is similar to spot in that the jammer transmits a
+single narrow band of noise. This technique sweeps that spot noise
+repeatedly over a wide frequency bandwidth (Figure D-7). The result is
+that at any instant, a concentrated jamming signal covers one specific
+frequency. The sweeping action ensures that the noise repetitively hits
+any radar operating in the jammed frequency bands. If the sweep rate is
+as fast as the radar processing cycle, the radar perceives the jamming as
+continuous and has to contend with the noise.
+
+Figure D - 7. Swept Spot Jamming.
+
+EW-1 D-8
+
+
+Text from EW-1_Generic_Electronic_Attack_page_15.jpeg:
+Responsive Noise/Sweep Lock-On Jammers
+
+Similar to spot noise, responsive noise selectively transmits the jamming
+signal on the radar’s transmitted frequency. This requires a more
+sophisticated jammer that can read the victim's radar frequency and
+immediately generate a spot noise centered on that frequency. This
+technique uses a narrow bandwidth of jamming energy avoiding a waste
+of power. This technique has the power advantage of a spot noise jammer,
+and can tune quickly enough to jam all but the fastest tuning (frequency
+agile) radars.
+
+The major disadvantage of both swept spot and responsive noise jammers
+is that only a single frequency can be jammed at one time. The use of
+several radars operating on different frequencies generally degrades the
+capability of these jammers.
+
+Blinking Noise
+
+This technique involves alternate activation and deactivation of the noise
+jamming. A typical blink rate would be one off/on cycle per second.
+Blinking is generally used in conjunction with another cooperative
+platform, and is therefore a common formation EA defense.
+
+The alternating noise actuation is intended to cause guidance
+disturbances due to sequential activation of the victim’s tracking and
+home on jam (HOJ) features. The technique is primarily targeted against
+radar guided missiles. The intent is to cause a wide miss distance, or
+guidance to the centroid of multiple jamming sources away from the
+intended targets.
+
+D-9 EW-1
+
+
+Text from EW-1_Generic_Electronic_Attack_page_16.jpeg:
+DECEPTION JAMMING
+
+Deception jamming occurs when the jammer radiates, reradiates, alters,
+absorbs or reflects the radar pulse for the purpose of misleading the
+victim’s radar receiver. There are three basic types of deceptive jamming:
+range, velocity and angle.
+
+The main feature that differentiates deceptive jamming from pure noise
+jamming is the fact that deceptive jammers repeat a replica of the victim’s
+radar signal. The deceptive jammer merely takes the victim’s radar
+transmission, modifies it slightly and then retransmits that signal back to
+the victim. Deception jamming is designed to take advantage of any
+weaknesses in target tracking or impact point calculation to maximize the
+miss distance or prevent automatic tracking.
+
+To be effective, the retransmitted signal must match all victim radar
+characteristics including frequency, pulse recurrence frequency (PRF),
+pulse recurrence interval (PRI), pulse width and scan rate. Because of the
+need to exactly replicate the victim radar, deception jammers are much
+more complex, but they do not require as much power as a noise jammer.
+
+EW-1 D-10
+
+
+Text from EW-1_Generic_Electronic_Attack_page_17.jpeg:
+Range Deception
+
+False Target Generator
+
+A false target generator operates against a pulse radar in search. This
+type of range deception technique relies on the knowledge of the victim’s
+radar. The more the jammer can predict the radar's characteristics, the
+greater the ability to produce false targets to confuse the victim. If PRF
+cannot be predicted and frequency is not known, the jammer is limited to
+repeating the victim’s transmitted pulse with some built-in delay that is
+interpreted by the processor as an additional target return(s). This
+technique causes false targets greater in range than the jammer (Figure
+D-8). If PRF and frequency can be predicted, random false targets can be
+generated by sending pulses ahead of the target echo to be interpreted as
+target returns as well as delaying pulses.
+
+B-SCOPE B-SCOPE
+
+FALSE TARGETS
+
+ACTUAL TARGETS
+
+B-SCOPE
+
+PRF NOT KNOWN PRF KNOWN
+
+PRF KNOWN, SIDELOBES KNOWN
+
+EW-1-08
+
+Figure D - 8. False Targets.
+
+If the jammer can detect the victim’s sidelobe, it transmits a pulse that
+appears as additional targets in azimuth.
+
+D-11 EW-1
+
+
+Text from EW-1_Generic_Electronic_Attack_page_18.jpeg:
+Range Gate Stealer (RGS)
+
+A range gate stealer operates against a pulse radar in track. The jammer
+usually receives a pulse, amplifies it and retransmits it with a slight
+delay. The technique uses amplitude modification to capture the tracking
+range gate and by slowly increasing the time delay, causes the victim to
+work with false range information or to break lock entirely (Figure D-9).
+If the RGS can predict the next pulse, a modern system could run the
+range gate in either direction. This is a major vulnerability of a constant
+PRF radar.
+
+TARGET
+ECHO \ <—— JAMMER PULSE IS STRONGER
+
+THAN TARGET ECHO
+
+DELAY OF JAMMING
+PULSE IS INCREASED
+
+RANGE GATE
+MOVES OFF TARGET
+—_—————>
+
+EW-1-09
+
+Figure D - 9. Range Gate Stealer.
+
+EW-1 D-12
+
+
+Text from EW-1_Generic_Electronic_Attack_page_19.jpeg:
+Angle Deceivers
+
+Modulated Noise
+
+This jammer alters the amplitude of the jamming output at a frequency
+that is related to the scan rate of the tracking radar and creates a phase
+difference. This generates a false tracking error signal. High energy
+appears in the part of the scan pattern that should receive low energy and
+the boresight of the antenna biases toward the false signal (Figure D-10).
+The resulting “angle walk off’ causes a conical scan radar to lose sight of
+the real target.
+
+JAMMER
+OUTPUT
+
+AVATAVAT,
+
+MODULATING SIGNAL ECHOES
+
+RADAR | |
+
+EW-1-10
+
+Figure D - 10. Modulated Jamming (Conical Scan).
+
+Cross Polarization
+
+This EA technique causes false angle track in monopulse tracking
+systems. The jammer returns the radar signal with a change in
+polarization. Since the intensity of the radar energy received in each
+antenna quadrant is dependent on polarization angle, the false change in
+polarization leads to antenna angle tracking errors.
+
+D-18 EW-1
+
+
+Text from EW-1_Generic_Electronic_Attack_page_2.jpeg:
+ADMINISTRATIVE INFORMATION
+
+This student workbook is designed to provide information on the F-15E,
+its systems and capabilities. It is not a sole source document, but is to be
+used in conjunction with other standard Air Force publications and
+technical manuals. If you find any differences between the material
+contained herein and other governing regulations, adhere to the
+regulations and notify the OPDR.
+
+Changes to this workbook are indicated with a heavy black line in the left
+margin.
+
+Forward recommendations for revision or change to 4 TS, SJAFB, NC
+275381.
+
+Supersedes: EA-1, July, 1998
+
+OPDR: 4 TS
+
+Index of Changes
+
+Effective Date Pages Affected
+
+
+
+Text from EW-1_Generic_Electronic_Attack_page_20.jpeg:
+Velocity (Doppler) Deception
+
+Velocity Gate Stealer (VGS)
+
+Velocity gate stealers attempt to move the tracking gate off the target
+return in the same manner a RGS walks the range gate off the target skin
+return. Radar systems using a doppler shift for gating a target may be
+countered by stealing the velocity gate of the locked-on system. Since
+gating the target is in frequency, vice time, a slight frequency shift of the
+returned signal with respect to the received signal is used to “steal” or
+“shift” the tracked signal. This frequency displacement may be applied in
+either an upward or downward direction. By constantly changing the
+frequency on a programmed basis, a velocity gate pull-off may be
+accomplished. Total pull-off periods of 1-10 seconds are typical for use
+against most systems at present. It is quite often preferable to use a
+down-frequency pull-off in preference to an up-frequency one since some
+CW homing missiles use a drop in doppler to arm or detonate the
+warhead.
+
+Doppler Noise Jammers
+
+Doppler noise jammers are essentially deception techniques. To be
+effective, the jamming aircraft requires indepth knowledge of the target
+radar’s operating characteristics. This EA technique has several
+purposes. One is to make detection difficult by producing many doppler
+signals distributed about the actual target doppler. The victim’s radar
+may interpret the extra doppler signals as multiple targets traveling at
+slightly different speeds, and display false targets. Blinking doppler noise,
+like ordinary blinking noise, interferes with missile angle tracking in
+addition to its effect on doppler processing.
+
+If the noise band is narrow enough and distributed correctly (narrow band
+repeater noise - NBRN), velocity bin masking results. NBRN requires
+some knowledge of the victim’s doppler processing. Velocity bins are
+electronic filters that sample the radar return signal according to doppler
+frequency. Target detection takes place by recognizing that one of the
+filters has a signal stronger than the other filters. To cause velocity bin
+masking, the jammer frequency shifts the pulse during amplification.
+When the radar distributes the pulse spectrum in the velocity bins, many
+other doppler returns surround the target doppler. Depending on the
+individual radar design, the target radar automatically adjusts the
+detection thresholds above receiver noise to avoid false detections. Ifthe
+threshold rises enough, it prevents detection of the true target return.
+The result is a “blank scope” (no returns).
+
+EW-1 D-14
+
+
+Text from EW-1_Generic_Electronic_Attack_page_21.jpeg:
+Sidelobe Jamming
+
+A sidelobe jammer introduces noise or deception through the victim’s
+radar sidelobes (Figure D-11). In normal operation, the target radar
+filters out the sidelobe echoes so that they are not displayed. False targets
+in azimuth or noise strobes may result if the victim’s radar system is
+unable to discriminate between energy received through the main beam
+and sidelobes. If the victim radar is able to discriminate, the system
+attempts to gain out the interfering sidelobe energy thereby reducing
+detection effectiveness.
+
+B-SCOPE
+
+NOISE JAMMING
+MAIN BEAM AND SIDELOBES
+
+EW-1-11
+
+Figure D - 11. Sidelobe Jamming.
+
+D-15 EW-1
+
+
+Text from EW-1_Generic_Electronic_Attack_page_22.jpeg:
+Standoff Jamming (SOJ)
+
+Standoff jammers support other assets that may or may not be equipped
+with self-screening jamming capability on board. SOJ can be employed
+using a variety of jamming techniques, including noise, to mask an
+attacking element. Since most radars and radar missiles prefer the strong
+noise signal over the actual target return, the SOJ can be very difficult to
+differentiate, avoid and/or destroy. SOJ platforms can be aircraft, trucks
+or fixed sites.
+
+MECHANICAL COUNTERMEASURES (EXPENDABLES)
+Chaff
+
+The purpose of chaff is to present the victims radar with additional false
+target returns or decoy the victims tracking circuits from the intended
+target. Chaff is composed of strips of fiberglass or aluminum cut to a
+specific fraction of radar wavelength. This makes it a very effective
+reflector of radar energy. The effectiveness of chaff against doppler radars
+depends on several factors. For chaff display in search, winds aloft must
+be sufficiently strong to give the chaff a velocity greater than the system
+filters set to process out ground returns in search. To be effective against
+a doppler radar in track, the chaff must bloom quickly enough to present a
+good radar target while still within the velocity gate established for the
+target. A pulse radar sees the chaff cloud as it blooms behind the
+dispensing aircraft, and usually transfers lock to the chaff. Chaff may
+cause radar missiles to fuze prematurely by triggering the missile
+proximity fuse when the missile flies through/by the chaff cloud.
+
+The chaff cartridge is the most common delivery mechanism. Each
+cartridge dispenses chaff dipoles cut to a specific length to match the
+victim radar’s frequency. The chaff must be delivered in quantities that
+create a radar cross section larger than the dispensing aircraft. When
+delivery is required, a beam aspect provides the best radar cross section
+and additional cartridges serve to increase the density of the chaff, but do
+not enhance self-protection by increasing the cross section. The dispense
+rate must be optimized to give the best chance of survival.
+
+EW-1 D-16
+
+
+Text from EW-1_Generic_Electronic_Attack_page_23.jpeg:
+Decoys
+
+A decoy is an expendable aircraft-like vehicle (powered or glider) launched
+from or towed by a penetrating aircraft to provide deception and
+saturation of a defense network. Decoys usually are made to be
+indistinguishable from the launch aircraft by the addition of corner
+reflectors, which provide a radar return similar in intensity to the
+penetrating aircraft. Decoys can also be equipped with chaff and
+physically small noise jammers to mimic penetrating aircraft EA, or with
+repeater jamming to produce a radar return equal to the target aircraft.
+By duplicating the speed, altitude and course of a penetrating aircraft, a
+deceptive target can be introduced into the enemy’s radar defense system.
+This can serve to draw fire away from the real aircraft and degrade enemy
+defenses.
+
+Flares
+
+Flares are EA devices designed to counter IR frequency receivers that
+depend only on IR energy emitted by a target aircraft. Flares produce a
+second heat source that attempts to draw an IR tracking head off of the
+primary IR source. The desired result is a wide miss or transfer of missile
+lock from the primary target to the flare.
+
+The flare must reach a peak intensity shortly after deployment. Flare rise
+time is the time required to meet this peak. Peak intensity rises faster at
+lower altitudes than at higher flight levels. The flare burn time varies
+with application and is faster at low altitudes. Maneuvering may be
+required to effectively utilize flare characteristics.
+
+Lamps
+
+Lamps is a form of IRCM using a high power quartz lamp to confuse the
+IR missile guidance. The lamp is blinked at a programmed rate to cause
+the missile seeker head to oscillate between the lamp and the actual
+aircraft heat source, resulting in a missile steering error.
+
+Masking
+Masking is an EA technique using certain design features of the aircraft
+to deflect radar returns or diffuse the target IR source. The result of
+
+masking is a reduced radar or IR signature causing a loss of efficiency to
+missile tracking systems.
+
+D-17 EW-1
+
+
+Text from EW-1_Generic_Electronic_Attack_page_24.jpeg:
+QUESTIONS
+
+Noise jammers deny the victims capability to measure
+
+pe op
+
+closure.
+
+polarization shift.
+
+range.
+
+return energy wavelength.
+
+Burn-through occurs when
+
+pe op
+
+the return echo is stronger than the jammer’s noise.
+the radar goes into home on jam.
+
+antenna oscillation matches jammer frequency.
+radar shuts down due to RF saturation.
+
+Which of the following is true of standoff jammers?
+
+a. They can only employ noise techniques.
+
+b. _Itcan be difficult to recognize the jamming source as a standoff
+jammer.
+
+c.  Itis easy to determine the jamming is from a standoff jammer.
+
+A range gate stealer operates against a radar.
+
+Doppler tracking techniques are subject to being defeated by
+
+pe op
+
+range gate stealer.
+velocity gate stealer.
+polarization gate stealer.
+no known doppler jammer.
+
+Cross polarization is designed to produce angle tracking errors in
+
+EW-1
+
+tracking systems.
+
+
+Text from EW-1_Generic_Electronic_Attack_page_25.jpeg:
+Chaff may trigger the
+through the chaff cloud.
+
+a. HOJ mode
+
+b. velocity gate
+
+c. anti-chaff rejection mode
+d. proximity fuse
+
+of a radar missile if the missile flies
+
+EW-1
+
+
+Text from EW-1_Generic_Electronic_Attack_page_26.jpeg:
+ANSWERS
+
+1. ¢
+2. a
+3. b
+4. pulse
+5. b
+
+6. monopulse
+
+7. d
+
+EW-1 D - 20
+
+
+Text from EW-1_Generic_Electronic_Attack_page_27.jpeg:
+END OF TEXT QUIZ
+
+A disadvantage of barrage noise jamming is that
+
+po op
+
+frequency agile radars cannot be jammed.
+
+its power density is inversely proportional to bandwidth.
+it concentrates power on a narrow frequency band.
+
+it jams a number of enemy receivers simultaneously.
+
+The point at which the strength of a radar return exceeds a noise
+jamming signal is known as
+
+Boop
+
+A
+
+signal to noise ratio.
+point gain.
+subclutter visibility.
+burn-through.
+
+jammer transmits noise to the victim's radar that
+
+have amplitudes opposite those of the true target return. The
+resulting “angle walk off’ causes a con scan radar to lose sight of the
+real target.
+
+pe op
+
+modulated noise
+blinking noise
+standoff
+sidelobe
+
+Which of the following is true about chaff?
+
+oF
+
+Chaff is only effective against pulse radars.
+
+Chaff does not affect ground radar sites.
+
+Chaff is no longer a valid EA technique due to the complexity of
+modern radars.
+
+Chaff can cause a radar to break lock.
+
+E-1 EW-1
+
+
+Text from EW-1_Generic_Electronic_Attack_page_28.jpeg:
+(This Page Intentionally Blank)
+
+EW-1 E-2
+
+
+Text from EW-1_Generic_Electronic_Attack_page_29.jpeg:
+CW
+EA
+EP
+ES
+EW
+FM
+HOJ
+IR
+IRCM
+NBRN
+Pav
+Ppk
+PRF
+PRI
+PRT
+RF
+RGS
+SOJ
+
+VGS
+
+GLOSSARY
+Continuous wave
+Electronic attack
+Electronic protection
+Electronic warfare support
+Electronic warfare
+Frequency modulation
+Home on jam
+Infrared
+Infrared countermeasures
+Narrow band repeater noise
+Average power
+Peak power
+Pulse recurrence frequency
+Pulse recurrence interval
+Pulse recurrence time
+Radio frequency
+Range gate stealer
+Standoff jamming
+
+Velocity gate stealer
+
+EW-1
+
+
+Text from EW-1_Generic_Electronic_Attack_page_3.jpeg:
+ELECTRONIC WARFARE
+
+COVER
+
+GENERIC ELECTRONIC ATTACK (EA
+
+INTRODUCTION
+
+This lesson is a basic introduction to the electronic warfare (EW)
+environment. It provides a brief review of radar theory and radar
+systems. General EA, noise and deception jammers, and expendable
+countermeasures are discussed. Be prepared to ask questions.
+
+CONTENTS:
+
+INTRODUCTION sc cee case ans ance cose anus sane aus axis nase aes wane aut ance eau news cents uae risa ou A-1
+CRITERION REFERENCED OBJECTIVES (CROs).........0.eeeeeeeeeees B-1
+STUDENT PREPARATION REQUIREMENTS ...00.. ee eeeeeeeeee C-1
+TEXT oe cecccccceessseeeceessseeecceesseeeceessaeeecesssaaeeecessaeeeseeesaaeeeseesaaaees D-1
+END OF TEXT QUIZ oo... ceeseecesaeeceseeeeesaeesesseeeessaeesseneeeeneas E-1
+GLOSSARY... eee eccccesseeecsseeeesseeecesacecesaeecssaeesessaeeeesaeesessaeesesaeeeenaees F-1
+
+A-1 EW-1
+
+
+Text from EW-1_Generic_Electronic_Attack_page_4.jpeg:
+CRITERION REFERENCED OBJECTIVES (CROs)
+
+1. Identify how the following countermeasures operate:
+
+a. Noise jamming
+
+b. Deception jamming
+
+c. Doppler and other jammers
+
+d. Mechanical (including expendable countermeasures)
+REFERENCE
+
+Radar, ECM and ECCM Fundamentals Handbook 1 Jan 92
+
+EW-1 B-1
+
+
+Text from EW-1_Generic_Electronic_Attack_page_5.jpeg:
+STUDENT PREPARATION REQUIREMENTS
+BEFORE CLASS
+
+Study the information contained in this workbook and complete the End of
+Text Quiz.
+
+C-1 EW-1
+
+
+Text from EW-1_Generic_Electronic_Attack_page_6.jpeg:
+(This Page Intentionally Blank)
+
+EW-1 C-2
+
+
+Text from EW-1_Generic_Electronic_Attack_page_7.jpeg:
+TEXT
+INTRODUCTION
+
+Jamming is the radiation or reradiation of signals in such a way as to
+interfere with the operation of a victim’s radar. Possible jamming
+methods include the transmission of noise (continuous RF energy), the
+transmission of a series of pulses or a combination of both. Whatever
+method is employed, the purpose of jamming is to create confusion and
+deny information, thus degrading an enemy’s offensive and defensive
+capabilities.
+
+Electronic attack (EA) is the employment of electronic devices and
+techniques for the purpose of destroying or degrading the effectiveness of
+an enemy's electronic aids to warfare. EA comes in three primary forms:
+noise jamming, deception jamming and mechanical countermeasures.
+
+D-1 EW-1
+
+
+Text from EW-1_Generic_Electronic_Attack_page_8.jpeg:
+NOISE JAMMING
+
+Noise jamming consists of a frequency emitter that is “tuned” to the
+victim’s radar frequency, similar to tuning an FM radio. Noise jamming
+has the effect of filling radar listening time with RF energy that is of
+greater intensity than the returning radar pulse (Figure D-1). The victim
+radar is therefore unable to detect the returning radar pulse. This denies
+the victim radar the capability to time the returning pulse (range
+capability). Noise jamming can take many different forms.
+
+B-SCOPE
+
+NOISE JAMMING "STROBE"
+
+EW-1-01
+
+Figure D- 1. Noise Jammer.
+
+Two features of noise jamming are essential for noise jamming to be
+effective. First, the jammer must match or be on the frequency of the
+emitter to be jammed. Second, the victim radar must perceive the
+jamming as continuous. If the jammer is unsuccessful in either of these
+requirements, the jamming will be noneffective.
+
+EW-1 D-2
+
+
+Text from EW-1_Generic_Electronic_Attack_page_9.jpeg:
+Power Distribution and Burn-Through
+
+Since jamming signals are one-way transmissions, they often enjoy a
+distinct power advantage over radar reflected energy at longer ranges.
+However, when a jammer approaches the victim radar, its jamming power
+increases by the square of the distance, whereas the echo power increases
+by the fourth power. Assuming the jammer’s available power is less than
+that of the victim radar, at some range the echo’s power is greater than
+the jammer’s. The jammer can no longer mask the radar return, and
+burn-through is achieved (Figure D-2).
+
+BURN-THROUGH
+
+RANGE
+—— POWER IN
+RADAR ECHO
+
+POWER IN
+JAMMER
+
+POWER
+
+| With |
+>
+
+Figure D - 2. Burn-Through.
+
+RANGE
+
+EW-1-02
+
+D-3 EW-1
+
+

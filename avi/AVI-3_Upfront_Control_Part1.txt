@@ -1,0 +1,2422 @@
+Text from AVI-3_Upfront_Control_Part1_page_1.jpeg:
+SUPPORTS COURSES
+FIS5EBQ
+
+FISETX
+
+FISESOC
+
+ACADEMIC STUDENT WORKBOOK
+F-15E
+
+AVIONICS
+AVI-3
+UPFRONT CONTROL (UFC)
+
+JANUARY 1999
+
+(SUITE 3 OFP)
+
+AIR COMBAT COMMAND
+
+
+Text from AVI-3_Upfront_Control_Part1_page_10.jpeg:
+LCD Brightness Control
+
+A brightness control knob (Figure D-3) provides a full range of LCD
+lighting adjustment for night use. Since LCD is a reflective type display,
+backlighting is not required for day operation.
+
+Keyboard
+
+The keyboard (Figure D-3) is arranged in a standard telephone style
+matrix with an egg crate barrier between the keys to minimize
+inadvertent selection. For keys which are labeled with two characters or
+functions, access the top letter or function by first pressing and releasing
+the shift (SHF) key, then the desired key.
+
+Keyboard lighting is controlled by the UFC knob on the interior lights
+control panel on the right console in each cockpit.
+
+CA JEO
+©)
+
+® Grecl Ta N B GREC
+VOL C/M 1 | 2 il 3 le VOL
+) Z)
+
+AVI-03-03
+
+Figure D - 3. UFC Keyboard.
+
+AVI-3 D-4
+
+
+Text from AVI-3_Upfront_Control_Part1_page_11.jpeg:
+Option Push Buttons (PBs)
+
+The ten buttons allow data entry, power control, submenu access and
+function selection. For reference, the buttons are numbered 1 through 10
+counterclockwise, starting from the top left.
+
+Data Entry: Pressing the appropriate button transfers data from the
+scratchpad into the desired system. In some cases, if a system is off or
+deactivated, it is simultaneously turned on/activated by the entry of
+scratchpad data (LAW, TCN, IFF, AAI, ILS).
+
+Power Control: Pressing the appropriate button turns the power on or off
+to various systems. OFF follows the system legend if the system is
+off/deactivated (Figure D-4, Left). System parameters follow the system
+legend if the system is on/activated (Figure D-4, Right).
+
+Submenu Access: With a clear scratchpad, pressing an option push button
+calls up a submenu, where applicable.
+
+Function Control: With a clear scratchpad, pressing an appropriate
+system button selects or deselects a system function. Asterisks, as shown
+in Figure D-4, indicate selection of modes or options.
+
+[FRU OFF STR 198 | TRU leo0a: STR ISA
+TON OFF AIP OFF | © S (TON flex AIP NAY |
+_|(TFF OFF AATTEID OFF ] a (FF leacd  Ae3SIENS |
+(Storr Ue OFF) Uees. eS 228. 1006%
+
+MENU 1 MENU 1
+(SYSTEMS OFF / DEACTIVATED) (SYSTEMS ON / ACTIVATED)
+
+AVI-03-04
+
+Figure D - 4. UFC Button Designations.
+
+D-5 AVI-3
+
+
+Text from AVI-3_Upfront_Control_Part1_page_12.jpeg:
+UHF/Preset Channel Selector Knobs
+
+UHF 1 and 2 are the only radios installed in the aircraft at this time. The
+UHF 1 preset channel selector knob is on the left and the UHF 2 preset
+channel selector knob is on the right (Figure D-5). These UHF channel
+selectors incorporate a spring loaded push position that will be used to
+select two additional communication systems to be added in the future,
+radio 3 (R38) and radio 4 (R4). There is currently no way to select radio 4.
+Pushing in on the radio 2/4 channel selector knob will turn radio 2 on.
+Pushing in on the radio 1/3 channel selector knob will turn radio 1 on. If
+radio 1 is already on, alternate depressions select radio 1 or 3. If the
+legend at PB #5 is “JVC,” push the UHF 1/3 channel selector knob to
+select UHF (vice JTIDS, which will be installed in radio 3).
+
+With power removed from UHF 1 or UHF 2 (OFF), turning the
+appropriate channel select knob powers the corresponding radio on and
+selects the preset channel (vice manual) operating mode. Turning the
+preset channel knob increments the channel (1-20, G).
+
+UHF Volume Controls
+
+As shown in Figure D-5, the volume control for UHF 1 (inner knob) is
+located on the left side of the UFC and is labeled R1 (radio 1). The volume
+control for UHF 2 (inner knob) is located on the right side of the UFC and
+is labeled R2. R3 and R4 volume controls (the larger/outer knobs) are not
+functional at this time.
+
+UHF 1/3 PRESET
+
+UHF 2/4
+
+CHANNEL — —
+
+PRESET
+SELECTOR Uee6.1e5 ueee.1e04
+Se OH oe CHANNEL
+
+SELECTOR
+KNOB
+
+INNER - R1
+OUTER - R3
+
+INNER - R2
+OUTER - R4
+
+AVI-03-05
+
+Figure D - 5. UHF Volume Control Knobs.
+
+AVI-3 D-6
+
+
+Text from AVI-3_Upfront_Control_Part1_page_13.jpeg:
+Emission Limit Button
+
+When pressed, the EMIS LMT button (Figure D-6, top) stops all RF
+transmissions from the aircraft (except for the radar altimeter and terrain
+following radar). A caution/advisory light (Figure D-6, bottom) also
+illuminates in both cockpits to alert the crew that the function has been
+selected. When the button is pushed again, the EMIS LMT light is
+extinguished and all affected systems are returned to their previously
+selected state of operation. Either crew member can select or deselect this
+function on the UFC.
+
+] ENGINE | Hvo | coktr || aver [MASKER
+JEmis LMT MASTER
+LGEN | RGEN BeMisiT NUCLEAR
+
+AVI-03-06
+
+Figure D -6. EMIS LMT Push Button and Lights.
+
+Operation of the UFC
+
+Operation of the UFC requires use of the keyboard, scratchpad and option
+push buttons. Each crew member can access any UFC format without
+affecting the UFC display format in the other cockpit. Each crew member
+can use the UFC independently of the other crew member.
+
+D-7 AVI-3
+
+
+Text from AVI-3_Upfront_Control_Part1_page_14.jpeg:
+Scratchpad
+
+The scratchpad is the 10 character-wide area on the bottom line of the
+UFC display, between UHF 1 and 2 radio preset channel data. As you
+type on the keyboard, the characters appear on the scratchpad. After
+confirming the data displayed in the scratchpad, enter the data by
+pressing the button next to the appropriate system legend on the LCD.
+
+If the scratchpad entry is invalid (more keyboard entries are performed
+than can be displayed in the scratchpad, or the format of entries is
+inappropriate for the system you attempt to interface with) the scratchpad
+flashes. To clear the incorrect data, press the CLR key once to stop the
+flashing, and then press CLR again to clear the last digit. One more press
+clears the entire scratchpad. If the scratchpad is not flashing, the first
+press of the CLR key clears the last character entered; the second press
+clears the entire scratchpad.
+
+Keyboard
+
+The following terms are used throughout this workbook to describe how
+keys and buttons operate.
+
+Action Operating Definitions
+Press Press and release a key or button.
+
+Cycle Press a key or button to “toggle” between two
+options.
+
+Step Press a key or button to move in sequence
+through several options.
+
+Table D - 1.
+
+AVI-3 D-8
+
+
+Text from AVI-3_Upfront_Control_Part1_page_15.jpeg:
+On the UFC keyboard (Figure D-7), the alphanumeric keys allow entry of
+numbers, upper case letters and symbols. For example:
+
+A, B, C for route Alpha, Bravo (or Base Point or
+Bullseye) and Charlie
+
+N, 8, E, W for North, South, East and West
+
+M for mark point selection
+
+Do for decimal point, colon and dash
+(Route and mark point selection will be covered in the INS lesson.)
+
+AVI-03-07
+
+Figure D - 7. UFC Keyboard.
+
+The function keys surrounding the alphanumeric keys are used to provide
+for selection, change and entry of various types of data.
+
+GREC SHF and then GREC activates/deactivates the guard
+receiver on the appropriate UHF radio. Separate
+selections are provided for each UHF radio (left side UHF
+1, right side UHF 2).
+
+C/M key shifts between the preset channel and the manual
+UHF frequency. Separate selections are provided for each
+UHF radio (left side UHF 1, right side UHF 2). An
+asterisk signifies which is currently selected, manual
+frequency or preset channel.
+
+MARK The MARK key inputs and stores the aircraft’s present
+position latitude and longitude and the time of day the
+mark was made. Up to ten mark points can be input and
+stored for future reference.
+
+D-9 AVI-3
+
+
+Text from AVI-3_Upfront_Control_Part1_page_16.jpeg:
+DECIMAL (.) The decimal is used when entering some types of
+navigation points. Decimals can be used, but are not
+required for numerical entries (UHF frequencies, ILS
+frequencies, latitude/longitude coordinates, etc).
+
+A/P The A/P key is used to engage the autopilot.
+
+CLR The CLR key clears the scratchpad or the display
+rows. Successive activation will (in turn) stop the
+scratchpad from flashing, or clear the last character,
+clear the scratchpad, blank the top four rows of the
+LCD, and blank all rows of the LCD.
+
+DATA The DATA key selects the Data 1 display or
+alternately cycles between the two data displays
+(DATA 1/DATA 2).
+
+MENU The MENU key selects the Menu 1 display or
+
+alternately cycles between the two menu displays
+(MENU 1/MENU 2).
+
+SHF To select the upper functions of the alphanumeric
+keys, press SHF before pressing the desired key. The
+system then automatically returns to lower case
+alphanumerics; therefore, pressing the keys SHF, A,
+1, 2, 3, will produce A, 1, 2, 3 not A, A, N, B.
+
+I/P Initiates IFF identification of present position (IFF
+IDENT POSITION).
+FCP/RCP Integration
+
+If both crew members access the same system, the last input from either
+UFC provides the controlling data input; otherwise, all data entries of one
+UFC are independent of the other UFC. Data being keyed into one UFC
+scratchpad is repeated on the other UFC scratchpad if that scratchpad is
+clear. (Repeated data cannot be entered; that is, scratchpad data can only
+be entered from the UFC on which it was keyed). As soon as you start to
+key data, any previous information on the scratchpad keyed from the
+other cockpit clears automatically. You can also clear repeated data from
+your scratchpad with the CLR key.
+
+AVI-3 D-10
+
+
+Text from AVI-3_Upfront_Control_Part1_page_17.jpeg:
+Clearing/Recalling Display Data
+
+To erase the last digit or character of typed scratchpad data, press the
+CLR key. Press the CLR key again to erase the rest of the scratchpad
+entry (Figure D-8).
+
+a(LAu i288s' STR 139A
+
+TON 142X RIP NAV
+
+2ND PRESS a 14ST PRESS
+OF CLR KEY Q UEP eee g OF CLR KEY
+REMOVES "226.2" REMOVES "5"
+(IF SCRATCHPAD
+NOT FLASHING)
+
+AVI-03-08
+
+Figure D - 8. Clearing Scratchpad Data.
+
+@ To clear top 4 rows (for example, to reduce cockpit glare at night):
+e Press CLR key with an empty scratchpad.
+
+@ To clear all 6 rows:
+e Clear the top four rows and then press CLR key again.
+
+@ To recall bottom 2 rows:
+e Press either of bottom two push buttons.
+
+@ To recall top 4 rows when bottom 2 rows are displayed:
+e Press any of the top eight push buttons with blank scratchpad, the
+MENU key or the DATA key.
+
+@ To recall all 6 rows:
+
+e Press any of the top eight push buttons, the MENU key or the DATA
+key.
+
+D-11 AVI-3
+
+
+Text from AVI-3_Upfront_Control_Part1_page_18.jpeg:
+e@ When the top 4 rows are blanked and bottom 2 rows are not, the
+following occurs:
+
+e If any of the top eight buttons is pressed with data in the
+scratchpad, the entry is invalid and the scratchpad flashes.
+
+e Data entry may be made for radios only (bottom 2 buttons).
+e All keyboard keys are active.
+
+e The repeater scratchpad is enabled for display. If repeater data is
+displayed, the CLR key blanks the scratchpad only.
+
+e@ When all 6 rows are blanked, the following occurs:
+
+e The repeater scratchpad is not displayed.
+
+e Data entry is not permitted.
+
+e Only the MARK, A/P, DATA, MENU, I/P keys and EMIS LMT
+button are active. (The radio volume controls and display
+brightness knob work).
+
+UFC Displays
+The display formats which allow crew members to access the various UFC
+controlled systems are referred to as data displays, menus and submenus.
+
+There are some 25 submenus. The two data displays and two menu
+displays can be selected with or without data in the scratchpad.
+
+AVI-3 D-12
+
+
+Text from AVI-3_Upfront_Control_Part1_page_19.jpeg:
+Menus: There are two menus. On power up, the UFC display initializes
+to Menu 1. Pressing the MENU key cycles between Menu 1 and Menu 2
+(Figure D-9). Pressing the MENU key from any other format calls up
+Menu 1.
+
+Submenus: Menus 1 and 2 provide access to submenus that allow
+selection of specific system functions. Submenus can only be selected if
+the scratchpad is blank.
+
+There are submenus for UHF 1, UHF 2, TACAN, IFF, NAV FLIR (N-F),
+AAT, Autopilot (A/P), present position (PP) keeping source, position
+updates (UPDT MENU), and in some instances, submenus for the above
+submenus.
+
+GCUS OFF UPDT MENU
+
+IFF 123C4 RAT3-43e IC ILS 189.78 BE STR
+_——————————— 7 —
+
+TF NORM N-F NORM PP-INS GPS IND
+Ueeb.125 Ue2ed. Waox | Ueeb.t25 eee. 1eo* )L
+
+SOG
+@.FIEIOBE! &
+
+MENU 1
+
+AVI-03-09
+
+Figure D - 9. Menu Displays.
+
+D-13 AVL-3
+
+
+Text from AVI-3_Upfront_Control_Part1_page_2.jpeg:
+ADMINISTRATIVE INFORMATION
+
+This student workbook is designed to provide information on the F-15E,
+its systems and capabilities. It is not a sole source document, but is to be
+used in conjunction with other standard Air Force publications and
+technical manuals. If you find any differences between the material
+contained herein and other governing regulations, adhere to the
+regulations and notify the OPDR.
+
+Changes to this workbook are indicated with a heavy black line in the left
+margin.
+
+Forward recommendations for revision or change to 4 TS, SJAFB, NC,
+275381.
+
+Supersedes: AVI-3, July, 1998
+
+OPDR: 4 TS
+
+Index of Changes
+
+Effective Date Pages Affected
+
+
+
+Text from AVI-3_Upfront_Control_Part1_page_20.jpeg:
+Data Displays: The DATA key cycles between the Data 1 and the Data 2
+displays (Figure D-10). If the DATA key is pressed with any UFC display
+other than DATA 1, it calls up the Data 1 display format. The Data 1
+display is used to select aircraft performance source data and
+navigation/steer point information. The Data 2 display is used to review
+and update navigation information and for plan-ahead purposes. DATA 1
+and DATA 2 will be further addressed in later lessons.
+
+15808 LBS]
+
+ETA 18:88:38
+
+AVI-03-10
+
+Figure D - 10. Data Displays.
+
+AVI-3 D-14
+
+
+Text from AVI-3_Upfront_Control_Part1_page_21.jpeg:
+Figure D-11 depicts which data and menu items have submenu displays,
+some have more than one submenu.
+
+MENU 1
+AUTOPILOT NAV FLIR IFF
+NAV FLIR EID IFF
+BORESIGHT PROGRAM
+MENU 2
+|
+
+UPDATE PP KEEPING
+MENU SOURCE
+
+HUD
+TITLING
+OVERFLY HUD ALTITUDE TACAN EGI
+
+DATA 1 DATA 2 *RADIO
+
+PT DATA NO SUBMENUS | |
+LAT/LONG
+
+PT DATA
+UTM
+
+PT DATA
+
+RNG/BRG KY-58
+PT DATA
+DIR/RNG
+
+UTM * THE UHF SUBMENUS CAN BE ENTERED
+PROGRAM FROM ANY OTHER DISPLAY FORMAT.
+
+Figure D - 11. UFC Data Displays, Menus and Submenus.
+
+AVI-03-11
+
+D-15 AVL-3
+
+
+Text from AVI-3_Upfront_Control_Part1_page_22.jpeg:
+Remember the following if you get “lost” among the UFC display formats
+
+e The UHF submenus can be accessed from any display by pressing
+PB #5 (UHF 1) or #6 (UHF 2) with a clear scratchpad.
+
+e Pressing the MENU key brings up Menu 1 from all formats. If
+Menu 1 is already displayed, pressing the MENU key brings up
+Menu 2.
+
+e Pressing the DATA key brings up Data 1 from all formats. If Data
+1 is already displayed, pressing the DATA key brings up Data 2.
+
+e You can move among the two menus and two data displays with
+data in the scratchpad. You cannot access a submenu unless the
+scratchpad is blank.
+
+Built-In Test (BIT)
+
+The UFC has a BIT system that is implemented in three levels.
+
+e Basic self test Runs each time power is applied to the unit.
+e Initiated BIT Runs in response to the BIT initiate
+
+input (by the aircrew on an MPD/MPCD).
+e Continuous BIT Continuously monitors for internal failures.
+
+BITs will be further addressed in a later lesson.
+
+AVI-3 D-16
+
+
+Text from AVI-3_Upfront_Control_Part1_page_23.jpeg:
+QUESTIONS
+
+What UFC display item indicates a specific system is turned off?
+
+How is an invalid scratchpad entry indicated?
+
+What UFC display symbol indicates that a mode has been selected?
+
+What are the upper case keyboard letters used for?
+
+What is the maximum number of scratchpad characters?
+
+pe op
+=
+(oe)
+
+UHF radios can be controlled from (and other UHF submenus
+selected from)
+
+Data 1 only.
+
+Data 1 or Data 2 only.
+
+Data or Menu formats, but not from submenu formats.
+Any UFC format.
+
+Boop
+
+D-17 AVL-3
+
+
+Text from AVI-3_Upfront_Control_Part1_page_24.jpeg:
+7. The UFC option push buttons (PBs) are numbered 1-10,
+
+clockwise from the upper left.
+
+clockwise from the upper right.
+counterclockwise from the upper left.
+
+top to bottom left side and then right side.
+
+ao op
+
+8. The brightness (BRT) knob on the UFC controls the
+
+keypad brightness.
+
+LCD brightness.
+
+backlighting for the 10 PBs.
+
+backlighting for the UHF volume, channel knobs.
+
+pe op
+
+AVI-3 D-18
+
+
+Text from AVI-3_Upfront_Control_Part1_page_25.jpeg:
+ANSWERS
+
+“OFF” following a system display legend indicates a UFC controlled
+system is turned off.
+
+The scratchpad entry flashes (when keyed in or when the aircrew
+attempts to enter the information with a push button [PB]).
+
+An asterisk indicates a UFC controlled system mode or option has
+been selected/activated, (for example, manual frequency versus preset
+channel for a UHF radio).
+
+A Alpha route/mission data (or IFF/AAI Mode 4A)
+
+B__ Bravo route/mission data (or Base or Bullseye) (or IFF/AAI
+Mode 4B)
+
+C Charlie route/mission data (or AAI correct code)
+
+N_ North (or AAI Normal)
+
+E East
+
+Ss South (or AAI slaved)
+
+W West
+
+M Mark
+
+d
+
+d
+
+c
+
+b
+
+D-19 AVL-3
+
+
+Text from AVI-3_Upfront_Control_Part1_page_26.jpeg:
+UHF RADIOS
+
+The UHF system consists of two separate receivers and transmitters
+(UHF 1 and UHF 2) which operate on manually selected and preset
+frequencies within the 225.000 to 399.975 MHZ frequency range.
+
+Each UHF radio has a guard (243.0) receiver that can be activated
+through the UFC when the radio is operating.
+
+Both UHF radios have provisions for anti-jam communications (HAVE
+QUICK) and secure communications (KY-58). These capabilities will be
+addressed in more detail in a subsequent academic lesson.
+
+The UHF radios are operated by controls located on the:
+
+Remote intercommunication control panel (RICP)—FCP only
+Intercommunication set control panel (ICSCP)—RCP only
+Throttles
+
+Floor buttons—RCP only
+
+UFC
+
+RICP/ICSCP
+
+The UHF controls on the FCP RICP and RCP ICSCP are shown in Figure
+D-12 and Figure D-18, respectively.
+
+AQ CAUTION + Ics
+
+© LAUNCH © WPN
+
+UHF ANT VHF ANT
+UPPER UPPER
+
+® _ ®
+LOWER LOWER
+E
+
+AVI-03-12
+
+AVI-3 D - 20
+
+
+Text from AVI-3_Upfront_Control_Part1_page_27.jpeg:
+The UHF control switches on both the FCP RICP/RCP ICSCP include: the
+microphone switch and tone selector switch (Figure D-13).
+
+CRYPTO
+HOLD
+
+RAD ORIDE
+Q@ NORM
+©
+
+AVI-03-13
+
+Figure D - 13. ICSCP
+
+Microphone switch (not spring loaded to on position).
+
+ON (center) Turns on microphone to other cockpit and ground
+crew, enabling direct communications (“hot mic”).
+
+OFF (aft) Turns off intercom transmit to other cockpit and
+ground crew (“cold mic”). UHF radio
+transmission/reception and normal side tone are
+still available.
+
+RAD ORIDE Reduces the volume of UHF reception to facilitate
+
+intercom communication. (Intercom volume is not
+affected).
+
+TONE The tone selector switch allows the crew member to
+select the UHF radio on which to activate a tone
+used for HAVE QUICK (anti-jam radio)
+programming.
+
+D-21 AVI-3
+
+
+Text from AVI-3_Upfront_Control_Part1_page_28.jpeg:
+The FCP RICP has two additional switches not found on the RCP ICSCP:
+e The VHF antenna selector switch is presently inoperative.
+
+e The UHF antenna selector switch allows the pilot to select the
+upper or lower antenna for the UHF 1 radio. The AUTO position
+causes the UHF 1 radio to automatically select the antenna with
+the best signal. The UHF 2 always transmits and receives on the
+lower antenna.
+
+Throttles
+
+A three-position microphone switch is located on the inboard throttle in
+each cockpit for UHF transmissions (Figure D-14). Pushing the switch
+forward allows you to transmit on UHF 1; pulling the switch aft allows
+you to transmit on UHF 2. The switch is spring loaded to the center
+receive position.
+
+MICROPHONE SWITCH
+
+AVI-03-14
+
+Figure D - 14. Throttle Mic Switch.
+
+AVI-3 D - 22
+
+
+Text from AVI-3_Upfront_Control_Part1_page_29.jpeg:
+Floor Buttons
+
+There are also two foot-operated microphone buttons mounted on the RCP
+floor (Figure D-15). The left switch is for UHF 1/radio 3 and the right
+switch is for UHF 2/radio 4. Remember, radio 3 and radio 4 are not
+currently functional.
+
+MICROPHONE ;
+
+BUTTON MICROPHONE
+
+BUTTON
+
+i
+
+[|
+)F
+
+it
+
+OO|P|@
+Cx Fe) -<(@)
+
+AVI-03-15
+
+Figure D - 15. RCP Floor Buttons.
+
+D - 238 AVI-3
+
+
+Text from AVI-3_Upfront_Control_Part1_page_3.jpeg:
+AVIONICS
+
+Ss SS
+SW. ©
+=. o\ fi a area eri
+
+)
+
+j}—__
+
+—/
+G =
+
+COVER
+
+UPFRONT CONTROL (UFC
+
+INTRODUCTION
+
+This workbook familiarizes you with the components, displays and use of
+the upfront control (UFC). It also provides the necessary preparation for
+the UFC CBT lesson. As part of a computer based training (CBT) lesson,
+this workbook should be read prior to taking the CBT instruction.
+
+CONTENTS:
+
+INTRODUCTION 0000. eeeccessseeceeeecesseeeessaeeeessaeeseseesessaeesesneeeeeas A-1
+CRITERION REFERENCED OBJECTIVES (CROs)............eeeseeeeees B-1
+STUDENT PREPARATION REQUIREMENTS ...00.. ee eeeeeeeee C-1
+CLEA so ses ss ons cores ents ans cea amen cones canis anus coun nnka Sows wns aa Mo NaS MoS GHD KoRNN eS MHS A HU 6 D-1
+END OF TEXT QUIZ... eeececeeneeeesseeecesaeeeensacesesaeeeessaeeseeaeeees N/A
+ARSE ee cee sees erase cece cet cme ses ose an cas cea see ee ane em toe see come ae es se F-1
+
+A-1 AVI-3
+
+
+Text from AVI-3_Upfront_Control_Part1_page_30.jpeg:
+UHF POWER UP
+
+After power is applied to the aircraft (first generator on-line), the UFC
+displays Menu 1. UHF 1 frequency information is located on the left two
+bottom lines of the UFC, UHF 2 is on the right side. “OFF” is displayed at
+PB #5/PB 46 if the respective radio is off. In Figure D-16, left, UHF 1 and
+UHF 2 are turned off. In Figure D-16 (bottom), UHF 1 is turned on and
+set to preset channel 2, as signified by the asterisk on the bottom line of
+the UFC (and the asterisk at PB #1 on the UHF 1 submenu).
+
+beU } CHAN-2 228 888
+
+ABE WB
+Ad -HO- TOD
+(RU-S8 BOTH TX
+
+Ueeb. 12S Ue OFF
+hee 18
+AVI-03-16
+
+Figure D - 16. UHF Control.
+
+AVI-3 D - 24
+
+
+Text from AVI-3_Upfront_Control_Part1_page_31.jpeg:
+There are five ways to apply power to a UHF radio.
+
+The first way is to press PB #5 (PB #6) (with the scratchpad clear) to
+bring up the UHF 1 (UHF 2) submenu (Figure D-16, right). The
+absence of an asterisk (*) adjacent to U1 (U2) on the submenu [and
+“U1 OFF” (“U2 OFF”) next to PB #5 (PB #6) on all UFC formats]
+signifies that the UHF 1 (UHF 2) radio is off. Pressing PB #1 (still
+with a blank scratchpad) applies power to the appropriate UHF radio
+and displays the asterisk symbol showing that the radio is on. The
+last entered manual frequency appears at PB #5 (PB #6) and an
+asterisk appears adjacent to the last selected frequency type (i.e.,
+manual or preset), as shown in Figure D-16, bottom. The same
+procedure is used to turn on UHF 2 using PB #6 on MENU 1 to
+display the UHF 2 submenu. The UHF 1 and UHF 2 submenus are
+identical except for PB #1 (U1 or U2) and UHF 2 submenu does not
+display ADF at PB #2.
+
+A second way to apply power to a UHF radio is to enter a valid
+channel number in the scratchpad and press the appropriate channel
+select knob. The radio comes on and tunes to the selected channel.
+
+A third way to apply power to a UHF radio is to enter a valid manual
+frequency in the scratchpad and press PB #5 (UHF 1) or PB #6 (UHF
+2). The radio comes on and tunes to the selected manual frequency.
+
+A fourth way to apply power to a UHF radio is to turn the
+appropriate channel select knob. This turns the radio on, selects
+channel mode and increments the channel number.
+
+A fifth way to apply power to a UHF radio is to press the appropriate
+channel select knob with an empty scratchpad. The radio comes on
+and tunes to the previously selected preset channel.
+
+The only way to turn a radio off is to select the appropriate UHF
+submenu and press PB #1. This removes power from the radio, the
+asterisk from PB #1 and the selected frequency type. “OFF” appears
+at PB #5/PB #6, as appropriate.
+
+D - 25 AVL-3
+
+
+Text from AVI-3_Upfront_Control_Part1_page_32.jpeg:
+Manual/Preset Frequency Selection
+
+Refer to the left display example in Figure D-17, which depicts preset
+channel 2 selected on UHF 1. To select the manual frequency, 226.125,
+press the left C/M (channel/manual) key. The asterisk moves to the
+manual frequency (Figure D-17, right).
+
+To return to the UHF 1 preset frequency, press the left C/M key again.
+The asterisk moves to the preset channel. The same logic applies to UHF
+2, except the right C/M key is used.
+
+TON T1eX AIP NAY
+
+SJIFF 12304 AeSTESS | L I le hesiEYS:
+
+a
+« =f
+1 i N-F NORM ] 1 i N-F NGRM
+
+MENU 1
+
+AVI-03-17
+
+Figure D - 17. UHF Frequency Selection.
+
+AVI-3 D - 26
+
+
+Text from AVI-3_Upfront_Control_Part1_page_33.jpeg:
+Selecting Guard Receiver
+
+To activate the guard receiver, first press the SHF key and then press the
+appropriate GREC key (Figure D-18). The letter “G” appears next to the
+manual frequency readout (in this case UHF 2) indicating the guard
+receiver is active. To activate the guard receiver on UHF 1, use the same
+procedures, but use the left GREC key. To deactivate the guard receiver,
+press SHF and then the appropriate GREC key. The “G” goes away.
+
+LAW 12882" STR ISA |
+
+{FCN Tex AIP NAY
+JEFF 12304 Ae3TEYS
+(TF NORM N-F NORM
+
+O,oO
+
+IC
+
+Ueeb tes Uees. ex | Le
+
+LAW 12882" STR 9A
+
+TON T1eXx AIP NAY
+
+TIFF We3C4 Ae3TE4S
+
+TF NORM N-F NORM
+
+Ueeb 125 Uees.
+
+MENU 1
+
+"G" INDICATES GUARD
+RECEIVER SELECTED
+AVI-03-18
+
+Figure D - 18. UHF Guard Receiver.
+
+AVI-3
+
+
+Text from AVI-3_Upfront_Control_Part1_page_34.jpeg:
+Selecting Guard to Transmit/Receive
+
+To transmit on guard frequency, select the guard preset on either UHF 1
+or UHF 2 by rotating the appropriate UHF radio preset channel selector
+until the letter “G” appears next to the channel selector (Figure D-19).
+
+With “G” selected for more than one second, the C/M asterisk
+automatically transfers next to the G if not already there.
+
+(Optionally, the guard frequency, 2438.0, can be entered into either UHF
+radio as a manual frequency. See “Entering a Manual Frequency.”)
+
+LAU 1288s" STR 9A
+
+TON Vi RIP NAY
+
+TIFF ie3 ReslEYsS | Ly
+
+(TF NORM N-F NORM
+
+U2ees. 188
+
+|
+
+AVI-03-19
+
+Figure D - 19. Preset Guard.
+
+Selecting guard, as specified above, gives the crew both transmission and
+
+reception capabilities.
+
+AVI-3 D - 28
+
+
+Text from AVI-3_Upfront_Control_Part1_page_35.jpeg:
+Entering a Manual Frequency
+
+To select a specific manual frequency (for example, 314.65 on UHF 1),
+press the desired numeric keys so that the new frequency is displayed in
+the scratchpad and then press PB #5 (Figure D-20). To change the UHF 2
+manual frequency you would press PB #6. The decimal point and trailing
+zeros may, but need not be keyed. Inputting a manual frequency also
+turns the radio on.
+
+TAU T2888" STR ISA | (a Teeea" STR ISA]
+;
+TON Tex RIP NAV Ss So fer T1eXx AIP NAV
+
+TIFF le Ae3TE4S le Ae3/EY4S
+
+TF NORM N-F NGRM | Ly
+
+*Ueeb 125 UeeB.WeaGx | Ly
+
+MENU 1
+
+AVI-03-20
+
+Figure D - 20. UHF Frequency Selection.
+
+The new frequency appears in the manual frequency readout and the
+previous frequency readout (226.125) moves to the scratchpad. This
+makes it easy to return to the previous frequency by pressing PB #5 or #6
+as appropriate. Once you enter a manual frequency at PB #5 or #6, a
+single press of the CLR button clears the scratchpad frequency.
+
+D - 29 AVL-3
+
+
+Text from AVI-3_Upfront_Control_Part1_page_36.jpeg:
+Use of Decimal and Colons
+
+Generally, entries which have a fixed number of digits (fixed field) do not
+require the entry of decimals or colons. An example of a fixed field is the
+UHF radio frequency, which always requires three nondecimal digits. In
+this case, the decimal need not be entered; the UFC automatically
+displays the decimal between the third and the fourth digit when the
+scratchpad entry is identified as a radio frequency (i.e., when PB #5 or
+PB 46 is pressed).
+
+Time may be entered without entering the colon and is assumed to have
+two hour digits (thus, when entering time, leading zeros are required).
+Trailing zeros are automatically added to the field. Examples of how
+entries are made are shown in the following:
+
+FIELD FORMAT UFC ENTRY UFC DISPLAY
+
+Time XX:XX:XX 1 10:00:00
+Time XX:XX:XX 01 01:00:00
+Time XX:XX:XX 01355 01:35:50
+UHF XXX. XXX 2265 226.500
+UHF XXX. XXX 22 220.000
+UHF XXX. XXX 226125 226.125
+
+UHF Submenu
+
+The UHF 1 and UHF 2 submenus are accessed by pressing PB #5 (UHF 1)
+or PB #6 (UHF 2) with an empty scratchpad. These submenus allow:
+
+Turning radios on/off,
+Programming the UHF preset frequencies (channels),
+Selection of the ADF function (UHF 1 only),
+Selection of the HAVE QUICK (anti-jam) and KY-58 (secure voice)
+functions, and
+e Selection of Both Transmit (Both TX).
+Programming a UHF Preset Frequency (Channel)
+
+Select the desired UHF submenu. In our example, PB #6 calls up the
+UHF 2 submenu. Note that the current preset channel (10) appears at PB
+#1 and its frequency (229.000) appears at PB #10. To change this
+frequency to 314.65, enter 31465 in the scratchpad (Figure D-21). Press
+PB #10, and the new frequency (314.65) for preset channel 10 is displayed.
+When initially entering the UHF submenu the current preset frequency is
+displayed next to PB #1. To change the frequency of another channel,
+type the channel number into the scratchpad and enter it at PB #1. The
+
+AVI-3 D - 30
+
+
+Text from AVI-3_Upfront_Control_Part1_page_37.jpeg:
+new channel's manual frequency is displayed next to PB #10 and can be
+changed the same way as mentioned before. Note that the receiving and
+transmitting channel has not been changed. This allows all other preset
+channels to be changed while still monitoring the desired/assigned
+channel, or all channels to be changed while monitoring a manual
+frequency. Preset frequencies can be entered through a data transfer
+module (DTM) or mission cartridge (MC).
+
+LAU 12888" STR 19h
+aT
+TON | tex AIP NAV
+TFF i23C4 Resleds
+= =
+
+PRU CHAN- 18 223.888
+
+Ueeb.teS Uees. 1BBbx ]
+
+UHF 2 SUBMENU
+
+peUC CHAN- 18 314.658)
+
+NB
+
+Ad -HO- TOD]
+
+KY-58 BOTH TX
+Co
+
+Ueeb.teS Uee8. 1BBbx*
+
+hee 18
+
+AVI-03-21
+
+Figure D - 21. UHF Programming.
+
+D-31 AVI-3
+
+
+Text from AVI-3_Upfront_Control_Part1_page_38.jpeg:
+UFC Radio Advisor
+
+When the aircrew transmits on the UHF radio in the manual mode, the U
+next to the manual frequency is replaced by a T on both the forward and
+aft UFCs. When the aircrew transmits on the UHF radio in the channel
+mode, a T is shown prior to the channel number on both UFCs as shown
+
+in Figure D-22.
+
+oF ae FO
+
+AVI-03-22
+
+Figure D - 22. Radio Advisory.
+
+AVI-3
+
+
+Text from AVI-3_Upfront_Control_Part1_page_39.jpeg:
+ADF (Automatic Direction Finding) Function Selection
+
+The function of ADF is to receive a transmitted frequency, and indicate
+the transmitter’s bearing on the HSI (horizontal situation
+indicator—covered in a later lesson). The ADF is available only with UHF
+1 and is selected from the UHF 1 submenu. To accomplish this, select the
+UHF 1 submenu and then press PB #2 (Figure D-23). An asterisk appears
+next to the ADF function, indicating that it has been selected. When ADF
+is selected, the radio (UHF 1) cannot be used to transmit.
+
+Ueeb 125 Uees. 1886
+
+UHF 1 SUBMENUS
+
+AVI-03-23
+
+Figure D - 23. ADF Selection.
+
+D - 33 AVI-3
+
+
+Text from AVI-3_Upfront_Control_Part1_page_4.jpeg:
+CRITERION REFERENCED OBJECTIVES (CROs)
+
+1. Identify the procedures for performing basic UHF radio operations to
+include:
+
+Power up
+
+Select manual frequency
+
+Select guard receiver
+
+Select a preset frequency
+
+Select guard transmitter
+
+Program a preset frequency
+Select ADF
+
+Select transmission on both radios
+
+Pom oa op
+
+2. Identify the procedures for performing basic TACAN operations to
+
+include:
+
+a. Power up
+
+b. Select a TACAN channel
+
+c. Select a TACAN mode
+
+d. Select emissions limit
+
+e. TACAN channel programming
+
+3. Identify the procedures for performing basic ILS operations to
+include:
+
+a. Power up
+b. Select an ILS frequency
+
+4. Identify the procedures for performing basic IFF operations to
+
+include:
+
+a. Select a mode
+
+b. Select codes
+
+c. Select emissions limit
+d. Program an IFF phase
+
+AVI-3 B-1
+
+
+Text from AVI-3_Upfront_Control_Part1_page_40.jpeg:
+Figure D-24 shows the “lollipop” ADF symbol as it is displayed when ADF
+ison. The “lollipop” rotates around the compass to indicate the bearing to
+the transmitted signal.
+
+ADF SYMBOL DISPLAYED
+AT BEARING OF TRANS-
+MITTER (IF ADF IS ON)
+
+/
+TCN 112X an
+
+305% 16.0 ‘isi \y
+00:02:20 |
+
+\
+
+TCN ILST
+
+AVI-03-24
+
+Figure D - 24. HSI (ADF Displayed).
+
+Both TX (Both Transmit)
+
+The capability exists to simultaneously transmit on two separate
+frequencies. By selecting BOTH TX (PB #7) on either the UHF 1 or UHF
+2 submenu, whenever transmission is attempted (with mic switch either
+forward or aft, or RCP foot pedals), both radios transmit. This has certain
+electronic protection (EP) benefits but can also cause embarrassment if
+unknowingly selected. If BOTH TX is selected on either radio, an asterisk
+appears next to PB #7 on both UHF submenus, indicating activation.
+
+This should be checked during preflight ground ops. To deactivate, press
+PB #7 (with a blank scratchpad). The asterisk disappears indicating
+deactivation.
+
+AVI-3 D - 34
+
+
+Text from AVI-3_Upfront_Control_Part1_page_41.jpeg:
+HAVE QUICK
+
+HAVE QUICK is a UHF radio anti-jam (AJ) function which changes
+transmitter frequency many times per second.* HAVE QUICK is
+activated by pressing PB #3 on the appropriate UHF 1 or UHF 2 submenu
+(Figure D-25). Cycling the AJ option button activates/deactivates the
+function for the appropriate radio. When AJ is activated, an asterisk
+appears to the left of AJ on the appropriate submenu and an “A” appears
+left of the preset channel readout on the bottom row of the UFC to
+indicate that UHF 1 and/or UHF 2 is operating in the anti-jam mode.
+
+ANTI-JAM
+SELECTED
+
+=| feu PHAN-e 2ece Bae
+
+Ge
+
+ee RUSS. 125 Ueed. a6
+
+CAF BOTH TX) |,
+
+TO*) L_
+
+JOOOUIOE
+
+SEER
+
+UHF 1 SUBMENU
+
+AJ ACTIVATED FOR UHF 1
+
+Figure D -
+
+RY,
+
+Ca fee CHAN- 18
+
+2c3 B22
+
+NB
+
+OF
+
+TOD
+
+OAR
+
+BOTH TX | Ly
+
+| Ueeds.i2eS Ueed. a6
+
+1B
+
+UHF 2 SUBMENU
+AJ DEACTIVATED FOR UHF 2
+
+25.
+
+AVI-03-25
+
+Both UHF radios can be operated concurrently in the AJ mode; however,
+activation/deactivation can only be accomplished for each radio from its
+
+submenu.
+
+* HAVE QUICK procedures are covered in detail in a later lesson.
+
+AVI-3
+
+
+Text from AVI-3_Upfront_Control_Part1_page_42.jpeg:
+Cipher Function Selection
+
+The KY-58 system is used for ciphering and deciphering UHF secure
+transmissions.* It can be used with only one UHF radio at a time. The
+system is controlled through the KY-58 submenu.
+
+To activate the cipher system, call up the KY-58 submenu from either
+UHF submenu (with the scratchpad empty) by pressing PB #4
+
+(Figure D-26). Then press the OPR or RV button. (An asterisk indicates
+the system is activated and the mode selected.) The letter “C” appears
+adjacent to the preset channel (UHF 1 or 2, as appropriate) when the
+KY-58 function for that radio is activated.
+
+BOOOE
+Seren
+te
+
+EMIS]
+fevje [2
+
+UHF 1 SUBMENU KY-58 SUBMENU
+
+AVI-03-26
+
+Figure D - 26.
+
+* KY-58 procedures are covered in detail in a later lesson.
+
+AVI-3 D - 36
+
+
+Text from AVI-3_Upfront_Control_Part1_page_43.jpeg:
+QUESTIONS
+
+LAU i288e'
+
+STR i9f
+
+a; TON 11eX
+
+—
+(4 TFF ie3C4
+
+RIP NAY
+
+Resle4s
+
+js (FF ORR
+
+N-F NORM
+
+OC U2eeb.ieS Uees 186% | LC)
+
+__| fee 7] )LL
+OHHH}
+
+MENU 1
+
+AVI-03-27
+
+Figure D - 27.
+
+Use Figure D-27 to answer questions 1 through 5.
+
+1.
+
+2.
+
+How do you bring up Menu 2?
+
+How do you deselect the guard receiver for UHF 2?
+What is the UHF 2 manual frequency?
+
+How can you determine that UHF 1 is turned on?
+
+How would you select the UHF 2 preset channel function?
+
+AVI-3
+
+
+Text from AVI-3_Upfront_Control_Part1_page_44.jpeg:
+Use Figure D-28 to answer questions 6 through 8.
+
+KY-SE BOTH TX
+
+*U388 12S Uees. i886
+
+picnes . ©
+
+UHF 1 SUBMENU
+
+AVI-03-28
+
+Figure D - 28.
+
+6. What is the first step in changing UHF 1 preset channel 14 to
+314.90?
+
+7. How would you deselect anti-jam?
+
+8. What is the first step in selecting the UHF cipher (KY-58) system on
+UHF 1?
+
+AVI-3 D - 38
+
+
+Text from AVI-3_Upfront_Control_Part1_page_45.jpeg:
+ANSWERS
+Press the MENU key.
+Press the SHF key and then the right GREC key.
+228.100 (228.1)
+The presence of a frequency next to PB #5 (versus OFF) and an
+asterisk next to either the manual frequency or channel number
+indicates the radio is on. (Also, an asterisk appears next to PB #1 on
+the UHF 1 submenu.)
+Press the right C/M key.
+Press PB #5 to select UHF 1 submenu. Then key 14 into the
+scratchpad and press PB #1. Key 3149 into the scratchpad and press
+PB #10.
+Press the AJ button (PB #8).
+
+Press KY-58 (PB #4) to display the KY-58 submenu.
+
+D - 39 AVI-3
+
+
+Text from AVI-3_Upfront_Control_Part1_page_46.jpeg:
+NAVIGATION EQUIPMENT
+TACAN
+
+The TACAN provides precise air-to-ground bearing and range information
+to a maximum distance of approximately 300 miles (depending upon
+aircraft altitude). It can also be operated in an air-to-air mode with
+aircraft having similar equipment and provides line of sight distance
+between two aircraft operating their TACAN sets 63 channels apart. Up
+to five aircraft can determine their range from a sixth aircraft if their
+TACAN sets are set 63 channels apart from that aircraft. Range is
+limited to four times the distance between the lead aircraft and the
+nearest aircraft. The sixth aircraft will be provided range from one of the
+other aircraft, but cannot readily determine from which aircraft. A/A
+TACAN information is normally limited to DME only; however, some
+aircraft, such as the KC-10, can provide bearing also.
+
+Controls and Indicators
+The main components and displays for the TACAN are the following:
+
+Volume control
+UFC
+
+HSI
+
+TEWS display
+ADI
+
+HUD
+
+AVI-3 D - 40
+
+
+Text from AVI-3_Upfront_Control_Part1_page_47.jpeg:
+The outer volume control knob (Figure D-29) is used to adjust the volume
+level of the TACAN station identification audio tone.
+
+MASTER
+
+B LOW
+A RE NORI
+LD D
+| OFF ENERG |
+
+RICP (FCP)
+
+ICSCP (RCP)
+
+AVI-03-29
+
+Figure D - 29. TACAN/ILS Volume Control.
+
+The UFC provides control of most TACAN functions including selection
+and display of the TACAN channel and mode.
+
+The HSI, ADI and HUD display TACAN steering information. The TEWS
+(Tactical Electronic Warfare System) display also provides TACAN
+steering information. The TEWS will be addressed in a later lesson.
+
+System Operation
+
+The TACAN is controlled by the UFC Menu 1, TACAN submenu and
+TACAN program submenu. Steering modes are selected from the HSI
+display.
+
+Menu 1 (Figure D-30) provides initial access to the TACAN. If “OFF” is
+displayed adjacent to TCN, the TACAN is not turned on. Channel
+selection can be made by entering the channel number via the keyboard
+and pressing the TCN button. If the TACAN is off, entering a channel in
+this manner turns the TACAN on.
+
+D-41 AVI-3
+
+
+Text from AVI-3_Upfront_Control_Part1_page_48.jpeg:
+The TACAN submenu is selected from Menu 1 by pressing the TCN
+button (with the scratchpad empty) (Figure D-30). This submenu provides
+access to all TACAN functions.
+
+The TACAN can also be turned on/off by cycling PB #10 on the TACAN
+submenu. The “OFF/ON” next to TCN indicates TACAN power status.
+
+In Figure D-30, the TACAN is powered and set to channel 112, mode X.
+Depressing PB #1 (with a blank scratchpad) cycles between X and Y
+modes. The TACAN channel is changed on the submenu just as it is on
+Menu 1; type the channel into the scratchpad and enter it by pressing
+TCN (PB #1). The TACAN channel/band can be changed on the submenu
+without power applied to the TACAN.
+
+TON 11eX
+
+PROGRAM
+
+AVI-03-30
+
+Figure D - 30. TACAN Operation.
+
+When EMIS LMT is selected on the keyboard, the TACAN is placed in the
+REC mode (bearing only, no range information). When EMIS LMT is
+deselected, the TACAN returns to the previously selected mode of
+operation.
+
+AVI-3 D - 42
+
+
+Text from AVI-3_Upfront_Control_Part1_page_49.jpeg:
+The TACAN program submenu (Figure D-31) allows information
+(geographic coordinates, magnetic variation and elevation) for twelve
+TACAN stations to be stored in the CC to provide the capability for
+INS/MN position updates from TACAN information. TACAN
+programming procedures are covered in the INS lesson. With GPS
+installation, the capability to update INS/MN present position from a
+TACAN lockon is deleted.
+
+CHANNEL
+MODE
+
+LATITUDE
+
+PROGRAM
+
+LONGITUDE a
+
+N35°28 988" =
+
+PROGRAM W77°SS S8B" PROGRAM
+
+MAGNETIC
+VARIATION
+
+TACAN
+ELEVATION
+
+Ueeb. 125 Ueeb. ia8b% -L)
+
+A N B
+ciM 1 2 3 fiformy Ve
+-o” J J J .
+M } E }
+_
+. : s c
+7 8 9
+are |i cur | 5 [*
+
+TA
+
+TCN SUBMENU TCN PROGRAM SUBMENU
+
+AVI-03-31
+
+Figure D - 31. TACAN Programming.
+
+D - 43 AVI-3
+
+
+Text from AVI-3_Upfront_Control_Part1_page_5.jpeg:
+5. Identify the procedures for performing basic AAI/EID operations to
+
+include:
+
+a. Select a mode
+b. Enter codes
+c. Select an AAI/EID function
+
+6. Identify the procedures for setting the LAWS, GCWS and the Time of
+
+Day.
+
+REFERENCES
+TO 1F-15E-1
+
+Section I
+
+(IFF) System
+
+Section II
+
+Upfront Controls (UFC)
+Intercom System
+
+UHF Communications System
+Identification Friend or Foe
+
+Tactical Air Navigation
+
+(TACAN) System
+Instrument Landing System (ILS)
+Ground Collision Warning System
+(GCWS)
+
+Before Taxiing (Front or Rear Cockpit)
+Before Takeoff
+
+After Landing
+
+Engine Shut Down
+
+UFC Procedures (TACAN Data)
+
+B-2 AVI-3
+
+
+Text from AVI-3_Upfront_Control_Part1_page_50.jpeg:
+ILS
+
+Controls and Indicators
+
+The
+
+main components and displays of the ILS are:
+
+e ILS volume control—located on the RICP and ICSCP (refer back to
+Figure D-29, inner knob). It is used to adjust the volume level of
+the localizer identification signal.
+
+e UFC[]Menu 2 is used to enter the localizer frequency.
+
+e HUD[Provides ILS localizer course and glideslope information
+when the NAV or INST master mode is selected (Figure D-32).
+
+e ADI and HSI display ILS steering information.
+
+COURSE DEVIATION
+INDICATOR (CDI)/
+
+COURSE ARROW
+
+BANK
+COURSE STEERING BAR
+DEVIATION
+
+SCALE
+PITCH
+STEERING BAR
+
+GLIDESLOPE
+
+STOR ILSN DATA
+BLOCK
+
+GLIDESLOPE
+
+DEVIATION MARKER
+
+SCALE BEACON CUE
+
+AVI-03-32
+
+Figure D - 32. HUD with ILS NAV Steering Format (Gear Down).
+
+AVI-3 D - 44
+
+
+Text from AVI-3_Upfront_Control_Part1_page_51.jpeg:
+The ILS receiver is turned on/off by alternately pressing PB #3 on Menu 2
+while the scratchpad is clear. The last selected ILS frequency replaces
+“OFF,” confirming that the ILS is on.
+
+Select an ILS localizer frequency by entering it into the scratchpad and
+then pressing PB #3 (Figure D-33). The decimal and trailing zeros are
+
+optional. A valid scratchpad input with the ILS off will apply power as
+well as input the desired ILS frequency.
+
+If ILS steering is selected on the HSI, ILS information for the selected
+frequency is displayed on the ADI, HSI and the HUD.
+
+Ueeb 125 Uees. 1886
+
+asia a
+EHH €é
+4. no ac
+
+AVI-03-33
+
+Figure D - 33. ILS Frequency Selection.
+
+D- 45 AVI-3
+
+
+Text from AVI-3_Upfront_Control_Part1_page_52.jpeg:
+QUESTIONS
+
+1. Turn the TACAN on by entering a valid TACAN channel into PB #2
+on the UFC Menu 1 or with
+
+a.
+b.
+e,
+
+d.
+
+the TACAN knob on the RICP.
+
+the TACAN knob on the ICSCP.
+
+an empty scratchpad, press the TCN button (PB #10) on the
+TACAN submenu.
+
+the HSI TCN button.
+
+2. Initial access to the TACAN data is through the
+
+po op
+
+UFC Menu 2.
+UFC Data 1.
+UFC Menu 1.
+HSI TCN button.
+
+3. Where can the TACAN steering cues be displayed? (4 displays)
+
+4. What UFC display is required to change the ILS frequency?
+
+AVI-3
+
+
+Text from AVI-3_Upfront_Control_Part1_page_53.jpeg:
+5.
+
+What key(s) and button(s) would you press to go from display A to
+display B in Figure D-34?
+
+OO wVC OFF
+(ej g JPDT WM H
+—
+
+2 1
+
+° EVI CleJ
+Or a R20 OR
+5 aS
+
+fee 128.1
+@® —=
+» SOOOE
+
+Rie ORs — —- me) R20 ORY
+
+DISPLAY B
+
+AVI-03-34
+
+DISPLAY A
+
+Figure D - 34.
+
+AVI-3
+
+
+Text from AVI-3_Upfront_Control_Part1_page_54.jpeg:
+ANSWERS
+
+2. ¢
+
+3. HUD (or HUD repeater), ADI and HSI (and TEWS)
+
+4. Menu 2
+
+5. Press the MENU key to bring up Menu 1; then with the scratchpad
+
+empty, press the TCN button (PB #2) to bring up the TACAN
+submenu (display B).
+
+AVI-3 D - 48
+
+
+Text from AVI-3_Upfront_Control_Part1_page_55.jpeg:
+IFF/AAI SYSTEM
+
+The F-15E IFF/AAT system directly interfaces with the UFC and includes
+the IFF/SIF and air-to-air identification (AAI).
+
+IFF
+
+The identification system provides automatic identification when
+challenged by a surface or airborne interrogator, as well as momentary
+identification of aircraft position upon request. The IFF modes provided
+are:
+
+Mode 1 Mode 3 Mode C
+Mode 2 Mode 4 A/B
+
+Mode 4 is used for highest confidence identification (crypto), and Mode C
+is used for altitude reporting.
+
+Modes 1, 2, 3 and C are selected/deselected from the UFC. Mode 1 and
+Mode 8 codes can be input from the UFC; Mode 2 codes are set from the
+IFF transponder control box located in the aircraft nose (door 3R) and
+cannot be altered in flight. Mode 4 is keyed by maintenance personnel.
+Mode 4 controls are located on the RICP (FCP, left console) and the ICSCP
+(RCP, left console).
+
+D-49 AVL-3
+
+
+Text from AVI-3_Upfront_Control_Part1_page_56.jpeg:
+IFF Controls and Indicators
+
+The RICP (FCP) has four IFF control switches (Figure D-35).
+
+TEWS
+A CAUTION + Ics Oils
+
+@ © LAUNCH © O wen © TACAN (1)
+
+MODE 4 CRYPTO
+SWITCH
+
+MODE 4 REPLY UHF ANT VHF ANT TONE CIPHERTEXT ERC Lisistl
+
+SWITCH UPPER UPPER UHF 1
+MASTER SWITCH
+
+MODE 4 SELECTOR
+SWITCH
+
+REMOTE INTERCOMMUNICATION
+CONTROL PANEL
+
+AVI-03-35
+
+Figure D - 35. IFF Control Switch/Reply Light.
+
+Mode 4 crypto switch is a lever-lock three-position switch.
+
+HOLD ~~ Allows Mode 4 crypto codes to be stored when power is
+subsequently removed from the aircraft (prevents zeroing
+crypto codes on postflight engine shutdown).
+
+NORM _~ Allows normal operation of the crypto codes with power on
+the aircraft.
+
+ZERO Sets the code settings back to zero. Seat ejection also zeros
+the codes.
+
+NOTE
+
+The HOLD command resets each flight based on the landing gear handle
+position. If the HOLD position is used before placing the landing gear handle
+
+down, the HOLD command is ignored and the crypto codes will be lost when
+power is removed at engine shutdown.
+
+AVI-3 D - 50
+
+
+Text from AVI-3_Upfront_Control_Part1_page_57.jpeg:
+Mode 4 selector switch is a lever-lock three-position switch.
+
+B Enables Mode 4/B reply
+A Enables Mode 4/A reply
+OUT Disables all Mode 4 replies
+
+Mode 4 reply switch is a three-position switch.
+
+LIGHT When the Mode 4 system replies to a valid
+interrogation being transmitted above a minimum
+threshold rate, the REPLY light illuminates.
+
+AUDIO REC Allows audio tone when valid interrogations are
+received. The REPLY light illuminates as
+described above.
+
+OFF Disables the Mode 4 AUDIO REC and LIGHT
+functions.
+
+Master switch is also a three-position switch.
+
+LOW IFF system sensitivity and mode reception is
+reduced; however, Mode 4 response to a valid
+interrogation is normal.
+
+NORM System operates at full sensitivity.
+
+EMERG Selects normal sensitivity emergency IFF
+operation. Modes 1, 2, 3 (code 7700), C and 4
+respond to interrogations.
+
+D-51 AVL-3
+
+
+Text from AVI-3_Upfront_Control_Part1_page_58.jpeg:
+The IFF antenna selector switch is located just to the left of the RICP
+(Figure D-386) and is a three-position switch with functions for selecting
+upper or lower IFF antenna. The BOTH position provides automatic
+antenna selection. BOTH is the normal position.
+
+IFF
+ANT SEL
+
+UPPER
+
+AVI-03-36
+
+Figure D - 36. IFF Antenna Select Switch.
+
+AVI-3 D - 52
+
+
+Text from AVI-3_Upfront_Control_Part1_page_59.jpeg:
+The ICSCP in the rear cockpit has one IFF control switch (Figure D-37).
+The Mode 4 crypto switch is a three-position switch operating the same as
+the FCP switch except that it is spring loaded to the NORM position.
+Momentary movement to either HOLD or ZERO accomplishes the same
+result as the FCP switch.
+
+TEWS
+A CAUTION + Ics
+
+@ius
+Ty © LAUNCH © wPN O TACAN
+
+CRYPTO MIC
+HOL
+
+RAD ORIDE SILENCE
+
+OLD
+Q NORM @) ON O
+2 OFF
+
+TONE CIPHER TEXT R
+UHF 1 ONLY
+
+A
+URF 2 NORM
+
+ICSCP
+
+AVI-03-37
+
+Figure D - 37. IFF Control Switches (RCP).
+
+D - 53 AVI-3
+
+
+Text from AVI-3_Upfront_Control_Part1_page_6.jpeg:
+STUDENT PREPARATION REQUIREMENTS
+BEFORE CLASS
+1. Read the reference material.
+
+2. Study the information contained in this workbook and answer the
+questions.
+
+3. Use the note taking outline at the end of this workbook to record
+notes as you go through the CBT lesson.
+
+AVI-3 C-1
+
+
+Text from AVI-3_Upfront_Control_Part1_page_60.jpeg:
+The UFC allows control of the various functions and programming for the
+IFF. IFF access and status information is contained in two submenus
+which are selected from Menu 1. The IFF submenus are used to select
+IFF modes and codes and to program IFF phasing (automatic timing).
+
+Menu 1 provides initial IFF status and access to the IFF submenu. Modes
+are displayed next to IFF anytime a mode is selected (activated) and
+indicates that the IFF is being powered (Figure D-38). If Modes 1 through
+3 and C are not activated (via the UFC), the Mode 4 selector switch is in
+the OUT position and the Mode 4 reply switch is in the OFF position, then
+the UFC IFF legend (PB #8) will be “IFF OFF.”
+
+Hoo
+2 DOOOOL
+"“@ [a =I e-f=Jo
+
+MENU 1
+
+AVI-03-38
+
+Figure D - 38. IFF Operation.
+
+If “IFF STBY” is displayed, then either EMIS LIMIT is selected (with an
+IFF mode selected) or, AUDIO REC or LIGHT is selected and no IFF
+mode is turned on.
+
+AVI-3 D- 54
+
+
+Text from AVI-3_Upfront_Control_Part1_page_61.jpeg:
+Activation or deactivation of modes (1, 2, 3, C) can be accomplished
+through UFC Menu 1. Type the mode you wish to turn on/off in the
+scratchpad and push PB #8. “3C” entry activates both Mode 3 and Mode
+C. Ifthe mode was not displayed (off) prior to pushing PB #8, the mode is
+activated (to the previously set code) and appears next to IFF along with
+the other active modes. If the mode was displayed at PB #3 (on), the mode
+is deactivated and the corresponding number/letter disappears. Mode 4
+can only be activated/deactivated through the FCP RICP Mode 4 selector
+switch.
+
+The codes for Modes 1 and 3 may be changed (and the system turned on, if
+off) directly from Menu 1 by typing in the mode, dash and code on the
+keyboard (e.g., to change Mode 3 to 43821, press 3, SHF, -, 4, 3, 2, 1; verify
+scratchpad entry; and press the IFF button). The entered mode and code
+are displayed next to the IFF button for five seconds. The legend then
+reverts to displaying the activated modes. The Mode 2 IFF code cannot be
+changed from the cockpit. The Mode 4 codes (A or B) can only be selected
+with the Mode 4 selector switch in the front cockpit. Mode 1 code entries
+are limited to 0-7 for the first digit and 0-3 for the second digit; so the
+lowest code is 00 and the highest is 73. Mode 3 code entries are limited to
+0-7 for all digits; so the lowest valid code is 0000 and the highest is 7777.
+
+The IFF submenu is selected by pressing the IFF button with a clear
+scratchpad. The submenu allows access to the various functions (modes,
+codes and programming) of IFF Modes 1, 2, 3 and C (Figure D-39). Mode
+4 information is never displayed on the IFF submenu. Mode 4 control can
+only be accomplished through the FCP RICP on the left console (Mode 4
+selector switch—A, B or OUT).
+
+Figure D - 39. Selecting IFF Submenu.
+
+D-55 AVI-3
+
+
+Text from AVI-3_Upfront_Control_Part1_page_62.jpeg:
+Figure D-40 shows Modes 1, 3 and C selected (adjacent asterisk). Cycling
+a MODE button selects/deselects that mode. You can activate all the
+
+o ®
+Tay Toa STR TSA | LY J (Fa TF Li
+FoR TH RIP RRP JL | fe HE] LY
+TRF Teatt AR TeST-EGS ] LC | frie PROGRAM ] Li)
+TF NORM N-F NORM KO) | (a Peia- 234 ARI SLY KC]
+ueee ies eee 1006* JLT | J RA (meees_ teen ams JL |
+O-€ @ -© © =F a -@|
+® Gre N 2 ]Ihlferec ” ® 4 Geli N 2 MF vo. ®
+eau
+rieors [Cl 2 SIME wee ore rieors IC/M z S SMC) ne ore
+te = = =
+© IE Fy JICI©) © IE ¥ a) a>)
+Whee Ws Mie FoI Ms Wo MITT
+= CJOIGIGIE = EJGIGIEC (-
+‘@) ne Ne Euis ie) = om
+@ LR WM 5 [fara lifvenull @ | itae @la LAL 5 fifoataliimencll @ [lie
+MENU 1 IFF SUBMENU
+AVI-03-39
+
+modes (1, 2, 3 and C), some, or none of the modes.
+
+MODE 1
+SELECTED
+
+MODE 2
+NOT SELECTED
+
+MODE 3
+SELECTED
+
+_- SELECTED
+
+OPTION
+
+IFF SUBMENU
+
+AVI-03-40
+
+Figure D - 40. Selecting/Deselecting IFF Modes.
+
+AVI-3
+
+MODE "CHARLIE"
+
+PROGRAMMING
+(“IF SELECTED)
+
+
+Text from AVI-3_Upfront_Control_Part1_page_63.jpeg:
+To change the code from the IFF submenu (in this case Mode 1, code 01),
+type the new code (0, 1) on the scratchpad and press the MODE button
+(Figure D-41). Remember, when changing codes from Menu 1 enter both
+the mode and code (e.g., 3 - 4821 or 1-01). The Mode 2 code is not
+displayed and it cannot be changed from the cockpit. Mode 2 can only be
+activated or deactivated from the cockpit.
+
+IFF SUBMENU
+
+AVI-03-41
+
+Figure D - 41. Changing IFF Codes.
+
+D-57 AVI-3
+
+
+Text from AVI-3_Upfront_Control_Part1_page_64.jpeg:
+The IFF program submenu is used to program specific IFF modes and
+codes to change as a function of time, which is referred to as “phasing”
+(PH). Up to 18 different phases can be programmed. Only Modes 1, 2, 3
+and C can be phased. Mode 4 must be changed manually on the FCP
+RICP. Once activated, phasing is based on the CC/GPS clock time. As the
+time passes the phase start time, the programmed modes and codes are
+activated or deactivated automatically. Phasing is normally programmed
+by the data transfer module (DTM); however, it can be manually
+programmed or changed in the aircraft.
+
+To enter the IFF phase programming submenu, press the PROGRAM
+button. The asterisk adjacent to PROGRAM indicates that you are in the
+IFF phase programming submenu. If IFF phases have been entered
+either manually or by the DTM, a phase number appears next to PH at
+PB #1. The selected modes, codes and time programmed for phase
+number 1 are shown in Figure D-42, right.
+
+6
+
+IFF SUBMENU IFF PHASE PROGRAMMING SUBMENU
+
+AVI-03-42
+
+Figure D - 42. Selecting IFF Program.
+
+AVI-3 D - 58
+
+
+Text from AVI-3_Upfront_Control_Part1_page_65.jpeg:
+To review information such as modes/codes selected and time for
+activation, enter the appropriate phase number in the scratchpad and
+press PB #1 or cycle PB #1 through the phases (previously programmed
+phases only) in numerical order. If no phases are in the system, PB #1
+will read “PH-0” and the legend will not cycle. If phases have been
+entered, PB #1 will cycle through the existing phases. To program a
+phase:
+
+e Select the phase number. (Scratchpad entry only for initial
+programming; scratchpad or cycling PB #1 for reprogramming a
+phase already in CC memory).
+
+e Ifyou wish a mode to be activated/deactivated for the phase, press
+the desired MODE button, as required.
+
+e Select a code for a mode by typing it on the scratchpad and pressing
+the desired mode button. Note: even if a mode is not chosen for
+activation, its code will change to whatever is shown on the
+programming submenu (as a function of the phase time).
+
+e To enter a phasing time, type the activation time on the keyboard
+and press PB #10.
+
+e To remove the indicated phase from the phases program, type zero
+(0) in the scratchpad and press PB #1 on the IFF programming
+submenu. This clears Modes 1, 2, 3, C and the time from the
+selected phase number (Figure D-43).
+
+e When programming is complete, deselecting the programming
+submenu by pressing PROGRAM (PB #8) returns you to the IFF
+submenu. Or you can return to Menu 1 or Data 1 using the MENU
+or DATA key.
+
+e To activate the phasing function, press PH (PB #1) on the IFF
+submenu (not the IFF programming submenu). The current phase
+number and the start time for that phase appear at PB #1/PB #10,
+respectively. The phase which appears is the one whose start time
+correlates with the current time of day (CC/GPS clock time).
+
+D-59 AVI-3
+
+
+Text from AVI-3_Upfront_Control_Part1_page_66.jpeg:
+e To deactivate the phasing function, press PH (PB #1) on the IFF
+submenu (again, not the IFF programming submenu). The phase
+number and phase time (PB #1/PB #10) are removed (Figure
+D-42, left).
+
+-TFF- TIME OFF
+
+IFF PHASE PROGRAMMING SUBMENU
+
+AVI-03-43
+
+Figure D - 48. Removing Phase from Program.
+
+When EMIS LMT is selected, the IFF is placed in a standby status (if it
+was previously operating). When EMIS LMT is deselected, the IFF
+returns to its previous modes and codes, or if phasing is activated, to the
+appropriate phase.
+
+Once the phasing is activated, the modes can be turned off/on and the
+Mode 1/Mode 3 codes can be changed. The system will immediately
+respond to the new selections. However, when the next phase time is
+reached the settings change to those assigned to the new phase.
+
+AVI-3 D - 60
+
+
+Text from AVI-3_Upfront_Control_Part1_page_67.jpeg:
+AAI
+
+The aircraft’s Air-to-Air Interrogator (AAI) set provides A/A target
+identification capabilities to assist the aircrew in accomplishing a variety
+of tasks. The following discussion addresses AAI and Enhanced
+Identification (EID) in only a basic fashion. A detailed discussion will be
+addressed in a follow-on lesson in the air-to-air radar block of instruction.
+The capabilities can be used to assist in:
+
+e finding aircraft on the air-to-air radar.
+
+e determining on the radar, which friendly aircraft is which.
+
+e determining on the radar if an aircraft is friendly or hostile [based
+on predetermined Rules of Engagement (ROE)/Positive
+Identification (PID) criteria].
+
+The interrogator set transmits challenge signals and receives target IFF
+replies through the L-band antennas mounted on the main radar antenna.
+The system evaluates the replies and generates display symbols
+(diamonds or circles) on the A/A radar display (or the A/G radar display)
+at the correct target range and azimuth position.
+
+The UFC, in conjunction with HOTAS activation, provides the
+mechanisms for controlling/implementing the interrogation. The radar
+(both A/A and A/G) provides us information concerning the progress and
+results of our interrogation. AAI interrogation can be interfaced from
+UFC Menu 1 or from the AAI or EID UFC submenus.
+
+The aircrew can make UFC selections, which determine how the AAI
+interrogation will be implemented. Any combinations of Modes 1, 2, 3 and
+4 can be interrogated with a single HOTAS switch action. Modes 1
+through 3 can be interrogated such that replies to the mode (regardless of
+code) are displayed (normal mode) or such that the interrogated
+transponder must reply with both the correct mode and the correct code
+(correct code mode). Mode 4 AAI always functions in the correct code
+mode, with the code being A, B or both A and B.
+
+D-61 AVI-3
+
+
+Text from AVI-3_Upfront_Control_Part1_page_7.jpeg:
+TEXT
+
+UPFRONT CONTROL COMPONENT DESCRIPTION AND
+FUNCTION
+
+The upfront control (UFC) is the primary interface between the aircrew
+and numerous aircraft avionics. It is powered up on engine start when
+the first main generator comes on-line and remains operating as long as
+either a main generator or the emergency generator (in AUTO or
+MANUAL) is on-line.
+
+Use of the UFC is integral to the operation of the aircraft equipment and
+allows crew members to control the following systems:
+
+UHF radios—including automatic direction finding (ADF), HAVE
+QUICK (anti-jam feature) and KY-58 (secure voice feature)
+functions
+
+Inertial navigation system (INS) (most functions, including
+present position coordinate entry and navigation point
+entry/selection)
+
+TACAN
+
+ILS (instrument landing system)
+
+NAV FLIR (navigation forward looking infrared)
+
+IFF/SIF (identification friend or foe/selective identification
+feature)
+
+AAI (air-to-air interrogator) and EID (enhanced identification)
+A/P (autopilot)
+
+LAWS (low altitude warning system)
+
+GCWS (ground collision warning system)
+
+The above list is not all-inclusive. Other capabilities controlled through
+the UFC will be covered in subsequent academic lessons.
+
+D-1 AVI-3
+
+
+Text from AVI-3_Upfront_Control_Part1_page_8.jpeg:
+The front cockpit UFC is located between the MPDs and above the MPCD,
+so that it is easy to see and operate without looking down into the cockpit
+(Figure D-1, left). The rear cockpit UFC is located on the right subpanel,
+just to the right and forward of the right hand controller (Figure D-1,
+right). Both UFCs are identical and all UFC functions are available to
+either crew member.
+
+AVI-03-01
+
+Figure D - 1. UFC Locations.
+
+AVI-3 D-2
+
+
+Text from AVI-3_Upfront_Control_Part1_page_9.jpeg:
+UFC COMPONENTS
+
+The design and configuration of the UFC (Figure D-2) consists of:
+
+e Six rows of liquid crystal display (LCD). This includes a
+scratchpad area, the bottom row, where the aircrew can view data
+
+entry information
+e LCD brightness control
+Keyboard
+Ten option push buttons (PBs)
+Two UHF preset channel selector knobs
+UHF volume controls
+Emissions limit button.
+
+Liquid Crystal Display
+
+The LCD consists of six 20-character rows (Figure D-2) with five rows
+containing buttons on both sides of the display area. The rows are used to
+display stored data, data entered from the scratchpad and submenu
+options, as well as UHF radio status and frequencies/preset channels.
+
+i
+
+OPTION
+PUSHBUTTON
+
+LRU 128s" STR 19R Jk
+
+6 ROW LCD
+
+RADIO 1/3 PRESET
+
+CHANNEL
+SELECTOR
+
+_| (TF-NORT
+
+KNOB
+
+| Ueeb.ie5
+
+VOLUME CONTROL
+RADIO 1/3
+
+J
+w
+4
+
+—
+
+—)
+LC)
+
+)) Wi? ) (=) —
+
+cLR DATA |f]| MENU
+
+yu ——— VE
+
+LCD
+
+BRIGHNESS CONTROL KEYBOARD
+
+Figure D - 2. UFC Components.
+
+SCRATCHPAD
+AREA
+
+RADIO 2/4 PRESET
+CHANNEL
+SELECTOR
+
+KNOB
+
+VOLUME CONTROL
+
+» RADIO 2/4
+
+EMISSION LIMIT
+PUSHBUTTON
+
+AVI-03-02
+
+AVI-3
+
+

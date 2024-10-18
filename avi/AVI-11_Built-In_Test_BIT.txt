@@ -1,0 +1,1835 @@
+Text from AVI-11_Built-In_Test_BIT_page_1.jpeg:
+SUPPORTS COURSES
+FIS5EBQ
+
+FISETX
+
+FISESOC
+
+ACADEMIC STUDENT WORKBOOK
+F-15E
+
+AVIONICS
+AVI-I1
+BUILT-IN TEST (BIT)
+
+MAY 1999
+
+(SUITE 3 OFP)
+
+AIR COMBAT COMMAND
+
+
+Text from AVI-11_Built-In_Test_BIT_page_10.jpeg:
+The avionics systems with an initiated BIT capability are listed on the
+periphery of the BIT menus. When an adjacent button is pressed, a BIT is
+run on the associated system(s) and components (Figure D-8).
+
+REMOVED IN ARMED MTF
+
+MAINT DETAIL SFDR > MAINT DETAIL SFDR >
+BUILT-IN TEST BUILT-IN TEST
+
+TEWS TEWS
+
+DCL
+
+CMD
+RWR * RWR
+* NAV FLIR* IC. PLIRS TF RDR* NAV FLIR*
+
+(INFLIGHT)
+
+AVI-11-03
+
+Figure D - 3. BIT Menu.
+
+AVI-11 D-4
+
+
+Text from AVI-11_Built-In_Test_BIT_page_11.jpeg:
+Display Format
+
+As shown in Figure D-4, the BIT display format is divided into two
+
+windows.
+
+LINE REPLACEABLE
+UNIT EQUIPMENT
+FAILURES
+
+TCN
+ADF
+
+MAINT DETAIL SFDR \\
+
+BUILT-IN TEST IN-TEST
+
+AAI
+M/4 Alu
+
+WINDOW
+
+AFCS
+
+AVI-11-04
+
+Figure D - 4. BIT Display Format.
+
+AVI-11
+
+
+Text from AVI-11_Built-In_Test_BIT_page_12.jpeg:
+During an initiated BIT, systems or components being tested are displayed
+in the in-test window of the submenu. When a system/component test is
+complete, it is removed from the in-test window. BIT failures are listed in
+the submenu failure window (Figure D-5B), as they occur. When the
+system BIT check is complete, the BIT menu automatically returns with the
+failed systems displayed in the failure window (Figure D-5C). An asterisk
+(Figure D-5C) next to a system failure indicates that more information is
+available in the DETAIL submenu.
+
+DETAIL
+BUILT-IN TEST
+
+MAINT DETAIL SFDR \\
+BUILT-IN TEST
+
+TEWS
+
+AIU 2 IN TEST
+
+LANT
+RALT
+
+ADC
+EXCS
+
+TCN AAI
+COMM — IFF
+
+NG ADF M/4
+Ne
+
+MAINT DETAIL SFDR \\
+BUILT-IN TEST
+
+TEWS
+
+RDR_ AIU 1B*
+
+LANT
+RALT
+
+ADC
+EXcs
+
+TCN AAI
+COMM | IFF
+
+\ “ADF M/4
+\S
+
+(C) BIT MENU
+
+AVI-11-05
+
+Figure D - 5. Failure Window.
+
+AVI-11 D-6
+
+
+Text from AVI-11_Built-In_Test_BIT_page_13.jpeg:
+Systems (and components) that are covered by BIT and not turned on, not
+timed in or not installed are continually displayed in the failure window.
+
+A declutter, “DCL” option is available at PB #14 on both the BIT and BIT2
+pages. Selection of DCL removes the current list from the failure window,
+
+enables a recall “RCL” option at PB #18 to recover the list of failed
+
+equipment and enables a display of the message “FAILURES
+
+DECLUTTERED?” (Figure D-6).
+
+RMR (BEFORE
+TCTO 1F-15E-700)
+DMS (AFTER
+TCTO 1F-15E-700)
+
+MAINT DETAIL M/4
+CAUT \
+DISBL
+
+BIT2 PAGE
+
+Figure D - 6.
+
+Failures that occur after the declutter action are displayed normally.
+
+AVI-11-06
+
+Declutter may be used repeatedly to clear the failure window, if desired.
+Selection of RCL restores the display of all current failures and removes the
+FAILURES DECLUTTERED message and RCL option.
+
+AVI-11
+
+
+Text from AVI-11_Built-In_Test_BIT_page_14.jpeg:
+BIT system fault indications that may appear in the failure window are
+listed below (Table D-1).
+
+LF MPD * EMD * NAV FLIR * ADC
+
+F MPCD * PACS * TGT FLIR * EXCS
+
+RF MPD * AIU 1A * TF RDR * TCN
+
+LA MPD * AIU 1B RWR * LEDU
+
+LA MPCD * AIU 2 * ICS * REDU
+
+RA MPCD * INS * FWD UFC AHRS (1)
+
+RA MPD * RMR * (4) AFT UFC JTIDS [H009 BUS]
+HUD * AFCS * EWW [1553 BUS]
+
+AIM * MPDP * RALT RMR
+
+EGI * (2) DMS * (8) ICSCP
+
+(1) Before TCTO 1F-15E-737
+(2) After TCTO 1F-15E-737
+(3) After TCTO 1F-15E-700
+(4) Before TCTO 1F-15E-700
+
+Table D - 1. Equipment Failures List.
+
+Those items with an asterisk are the components or systems that may have
+additional information displayed on the detail page. The functional status
+of AFCS, target pod, navigation FLIR and terrain following radar is
+provided as supplementary information and may trigger the MASTER
+CAUTION light.
+
+The remaining asterisked fault indications can indicate that shop
+replacement units (SRU) failure data is available on the DETAIL BIT page.
+
+BIT system fault indications associated with 1553 or H009 buses will
+appear as the affected component with an alphanumeric suffix.
+
+AVI-11 D-8
+
+
+Text from AVI-11_Built-In_Test_BIT_page_15.jpeg:
+BIT System Submenus
+
+When a BIT is initiated, the BIT in-test submenu shows the system in test
+(Figure D-7). In this example the avionics interface unit built-in-test was
+successfully entered and is still underway.
+
+STOP DETAIL
+BUILT-IN TEST
+AIU 1A IN TEST
+
+comm {ke
+A eS ADF M/4
+
+BR
+BIT MENU BIT IN-TEST SUBMENU
+
+AVI-11-07
+
+Figure D - 7. BIT.
+
+D-9 AVI-11
+
+
+Text from AVI-11_Built-In_Test_BIT_page_16.jpeg:
+Even if the test on a particular system/component takes only milliseconds,
+the system in test must appear in the in-test window for at least 2 seconds
+for the BIT to be accomplished. If the component in test just flashes, and
+the BIT menu returns or continues to the next component in test, a BIT was
+not accomplished on that system.
+
+Initiating BIT places STOP at PB #19. Selecting STOP (PB #19) on an
+in-test submenu terminates the BIT and returns the display to the BIT
+menu (Figure D-7). Pressing STOP
+
+e does not stop the radar BIT (use auto acq switch/reject)
+
+e does not stop the ICSCP/RICP BIT (voice warning continues to
+completion) or RALT (radar altimeter, only lasts a few seconds)
+
+If a system BIT takes an excessive amount of time to complete, you may
+attempt to terminate the BIT by pressing STOP. If the system in test
+remains in BIT for another 5 seconds after STOP is pressed, ESCAPE
+replaces the STOP legend. Pressing ESCAPE is designed to reset the BIT
+routine in the CC and return the display to the BIT menu. However,
+system lock up may occur when ESCAPE is pressed, and the BIT system as
+well as the component that is hung may be unavailable for the remainder of
+the mission.
+
+AVI-11 D-10
+
+
+Text from AVI-11_Built-In_Test_BIT_page_17.jpeg:
+On the ground, the BIT menu displays all the systems that have an
+initiated BIT capability. An in-flight BIT is not allowed on the
+multipurpose display processor (DSPL), air data computer (ADC),
+exceedence counter (the “G meter” for the OWS) (EXCS), inertial navigation
+system (INS), automatic flight control system (AFCS), and embedded global
+positioning system/inertial navigation system (EGI). An I-BIT causes
+interruption of normal system operation and with these particular systems
+flight safety could be affected (Figure D-8). They are removed from the BIT
+menu.
+
+Some systems are present conditionally. AIM displays at PB #2 on the
+ground with the ASP PACS switch in OFF. PACS replaces AIM at PB #2
+with the switch in ON. SFDR (PB #16) is only displayed when the CC gets
+no response from the Signal Data Recorder (before TCTO 1F-15E-651) or
+Standard Flight Data Recorder (after TCTO 1F-15E-651).
+
+The LANT/RALT selection is removed from the BIT menu in-flight during
+armed manual or auto terrain following radar operations.
+
+REMOVED IN ARMED MTF
+OR AUTO TF
+
+l l |
+MAINT DETAIL SFDR \\
+BUILT-IN TEST
+
+l l
+MAINT DETAIL SFDR \\
+BUILT-IN TEST
+
+TEWS
+
+TEWS
+
+DCL
+
+DCL
+
+AIM CMD EWw
+AFCS* SFDR RWR*
+TFRDR* NAV FLIR*
+
+Ics*
+TGT FLIR*
+
+(INFLIGHT)
+
+AVI-11-08
+
+Figure D - 8. BIT Menu.
+
+D-11 AVI-11
+
+
+Text from AVI-11_Built-In_Test_BIT_page_18.jpeg:
+A table of components tested within each system (on the ground or
+airborne) is shown on Table D-2.
+
+SYSTEM INCLUDED COMPONENTS TEST CONDITION
+DSPL MPDP, MPD/MPCDs, HUD GROUND ONLY
+UFC FCP/RCP UFCs AIR/GND
+
+EMD ATR/GND
+
+GROUND (MX) ONLY
+ATR/GND
+
+AIR/GND
+
+NAV FLIR, TGT FLIR, TF AIR/GND *
+RDR, RADAR ALTIMETER ATR/GND *
+
+GROUND ONLY
+GROUND ONLY
+
+AIR/GND
+VOICE WARNING AND TONES ATR/GND
+AIR/GND
+
+ATR/GND
+AIR/GND
+cmap awe amon
+
+-stunauinane __ AIU1B, AIU2 ATR/GND*
+
+GROUND ONLY
+RMR (Before TCTO ATR/GND
+1F-15E-700)
+DMS (After TCTO ATR/GND
+1F-15E-700
+EGI (After TCTO GROUND ONLY
+1F-15E-737)
+farcss |__| ro on
+TEWS RWR, EWWS, ICS, CMD, IBS ATR/GND
+
+IDLP ATR/GND
+
+* REMOVED AIRBORNE IN ARMED MANUAL TF/AUTO TF
+
+Table D - 2.
+
+AVI-11 D-12
+
+
+Text from AVI-11_Built-In_Test_BIT_page_19.jpeg:
+QUESTIONS
+
+What are the different types of BIT test methods?
+
+An AV BIT light is a cue for the aircrew to check
+
+An in-flight BIT cannot be performed on these systems:
+
+ae oe
+
+DSPL, ADC, EXCS, INS, AFCS, EGI (After TCTO 1F-15E-737)
+TCN, COMM, ADF, AIU, TEWS
+
+DSPL, RDR, RALT, AFCS, INS, LCG
+
+ADC, EXCS, ADF, AAI, M/4
+
+All the avionics systems with initiated BIT capability are listed on
+
+po op
+
+a MAINT page.
+
+the DETAIL submenu.
+the MPD/MPCD menu.
+the BIT/BIT2 menus.
+
+To terminate a BIT in progress (other than RDR, ICSCP/RICP, or
+
+RALT)
+
+a. press EXIT.
+
+b. press STOP and then, if necessary, ESCAPE.
+c. press the PB for the system currently in test.
+d. turn the in-test system off.
+
+How is the BIT menu called up from an MPD ADI display?
+
+D-13 AVI-11
+
+
+Text from AVI-11_Built-In_Test_BIT_page_2.jpeg:
+ADMINISTRATIVE INFORMATION
+
+This student workbook is designed to provide information on the F-15E,
+its systems and capabilities. It is not a sole source document, but is to be
+used in conjunction with other standard Air Force publications and
+technical manuals. If you find any differences between the material
+contained herein and other governing regulations, adhere to the
+regulations and notify the OPDR.
+
+Changes to this workbook are indicated with a heavy black line in the left
+margin.
+
+Forward recommendations for revision or change to 4 TS, SJAFB, NC
+275381.
+
+Supersedes: AVI-11, July, 1998
+
+OPDR: 4 TS
+
+Index of Changes
+
+Effective Date Pages Affected
+
+
+
+Text from AVI-11_Built-In_Test_BIT_page_20.jpeg:
+ANSWERS
+1. Continuous, periodic and initiated BIT methods
+
+2. The system or component BIT status on the BIT menu
+
+3. a
+4. d
+5. b
+
+6. Press MENU on a MPD/MPCD (PB #11) and then press BIT
+(PB #20)
+
+AVI-11 D-14
+
+
+Text from AVI-11_Built-In_Test_BIT_page_21.jpeg:
+IT-IAV
+
+GT-d
+
+UOTpELPg LIC OLAV “6 - G eansty
+
+60-LL-IAV
+
+wand LoL
+AMN4SAVN kde dL «SOl
+UM udss *SOAV
+
+MMA awd wiv
+
+miele]
+
+SMAL
+
+isa NrLing
+NS udss TWV1ad LNIVW
+
+“Ga1sal LON
+
+SI LTVu ‘SL OLAV YO TVNNVW G3WV NI «
+
+dddW
+
+(002-3S/-41 OLOL
+Yad)
+
+swa
+
+An LAV
+
+O4N GMA
+
+NOL
+
+STV]
+
+(002-3S/-4l OLOL
+yO)
+
+WY
+
+SOxa
+odv ‘Ld30X3 SAO8V TV -UIV
+
+udu SOxa sal
+iva MMA ELA NIV
+dddW awa WIV
+vIN WWOO dav
+dal QWo odv
+Sol cniv WW :GNNOYD
+
+“LID OLNV Ue Sutinp peyse} Jou o1e TqSq jo suorz.10d
+pue (LEL-AST-AT OLOL Ye) IDG ‘00 “SOVd ‘NULLNV' ‘SNI ‘SOUV
+
+(6-C ANS1y) NUEUI LI_ e844 UO (0Z# Ud) OLNV 8urteIes Aq syueuodutos
+poeyeloosse pue Sule4sAS JSOUI UO pousojzed oq UBD JIG O.LNV punosid vy
+
+Lid OLNV
+
+NOLLVaddO WALSAS LIA
+
+
+Text from AVI-11_Built-In_Test_BIT_page_22.jpeg:
+An AUTO BIT requires approximately 3.5 to 4.0 minutes (Figure D-10). If
+the radar is not tested (radar off), processing time for the remaining AUTO
+BIT is approximately 1 minute.
+
+START
+AUTO BIT
+
+MPDP (ON THE GROUND ONLY)
+AIU1AAIUIB Bi
+AlU2 Oo
+
+COMM
+
+ADF
+
+AIM
+
+RALT
+
+TCN
+
+EXCS
+
+ADC
+
+IBS
+
+EMD
+
+*RMR/DMS
+
+AAI
+
+RADAR
+
+(ON THE GROUND ONLY)
+(ON THE GROUND ONLY)
+
+(AAI BIT MUST BE COMPLETE) Jj
+IFF (AAI BIT MUST BE COMPLETE)
+MODE 4 (IFF BIT MUST BE COMPLETE)
+RWR (IBS BIT MUST BE COMPLETE)
+EWw [SSS (RwR BIT MUST BE COMPLETE)
+CMD (EWW BIT MUST BE COMPLETE)
+ICS [5 (CMD BIT MUST BE COMPLETE)
+FWD UFC
+AFT UFC
+
+7 oo eet
+
+I
+
+0.5 1.0 2.0 3.0 4.0
+APPROXIMATE TIME (MIN.)
+
+*RMR (BEFORE TCTO 1F-15E-700)
+DMS (AFTER TCTO 1F-15E-700)
+AVI-11-10
+
+Figure D - 10. AUTO BIT Time Line.
+
+To accomplish a full AUTO BIT, all avionics/systems to be checked must be
+turned on and timed in. Any equipment not turned on/timed in will appear
+as failed in the BIT failure window.
+
+AVI-11 D-16
+
+
+Text from AVI-11_Built-In_Test_BIT_page_23.jpeg:
+After starting an AUTO BIT (Figure D-11, left), the following cues indicate
+AUTO BIT operation.
+
+All MPD/MPCDs go blank for a minimum of two seconds and a maximum of
+15 seconds. Then they alternately display gray scales with blank screens,
+ending with gray scales and displaying “MPDP TEST PASSED” or “MPDP
+TEST FAILED,” as appropriate. The total fuel reported to the OWS is also
+displayed. This value should be checked against the fuel gauges. Five
+seconds later, the gray scales disappear, and the test continues.
+
+MAINT DETAIL SFDR \
+BUILT-IN TEST AUTO
+BUILT-IN TEST
+
+TEWS
+
+COMM IN TEST ADC IN TEST
+ADF IN TEST IBS IN TEST
+DCL AIM IN TEST EMD IN TEST
+RALT IN TEST RMR IN TEST
+TCN IN TEST AAI IN TEST
+
+AIM CMD EWw EXCS IN TEST FWD UFC IN TEST
+AFCS* SFDR R
+
+WR*
+TFRDR* NAV FLIR*
+
+Ics*
+TGT FLIR*
+
+BIT MENU AUTO BIT-IN-TEST SUBMENU
+
+AVI-11-11
+
+Figure D - 11. AUTO BIT.
+
+D-17 AVI-11
+
+
+Text from AVI-11_Built-In_Test_BIT_page_24.jpeg:
+Selecting another display option does not interrupt the AUTO BIT.
+Reselecting the BIT display format will display either the BIT menu or the
+in-test submenu depending on AUTO BIT progress.
+
+If an AUTO BIT hangs up at a particular system/component, all
+systems/components downstream from the hang-up can be BIT checked by
+individually selecting an initiated BIT for those items.
+
+When the AUTO BIT is complete, the BIT menu automatically returns with
+any systems/components that failed their BIT displayed in the failure
+window (Figure D-12, right).
+
+DETAIL MAINT DETAIL SFDR ~\
+
+BUILT-IN TEST
+
+AUTO
+BUILT-IN TEST
+TEWS
+
+RMR IN TEST
+AALIN TEST
+FWD UFC IN TEST = DCL
+
+EMD* ADF EMD*
+CMD EWw
+
+SFDR RWR*
+* TFRDR* NAV FLIR*
+
+AIU AFCS
+
+AUTO BIT-IN-TEST SUBMENU BIT MENU
+
+AVI-11-12
+
+Figure D - 12.
+
+An in-flight AUTO BIT is accomplished exactly the same as it is on the
+ground; however, since a BIT causes an interruption in the operation of the
+system being tested, DSPL, EXCS and ADC are not included in an in-flight
+AUTO BIT.
+
+AVI-11 D-18
+
+
+Text from AVI-11_Built-In_Test_BIT_page_25.jpeg:
+Initiated BIT (I-BIT) of Individual Systems
+
+An I-BIT is accomplished by selecting the desired system from the
+periphery of the BIT menu (Figure D-13) and pressing the adjacent button.
+
+MAINT DETAIL SFDR ~\
+BUILT-IN TEST BUILT-IN TEST
+
+TEWS
+
+AFT UFC IN TEST
+
+DCL
+
+AIM CMD EWw
+AFCS* SDRS RWR*
+ICs* TFRDR* NAV FLIR*
+
+I
+TGT FLIR*
+
+START (BIT MENU) IN PROGRESS (BIT IN-TEST SUBMENU)
+
+AVI-11-13
+
+Figure D - 13. Initiated BIT.
+
+Some BIT menu selections contain more then one component. For example:
+DSPL = MPDP, MPD, MPCD and HUD.
+
+COMM = ICSCP/RICP, voice warnings and tones.
+TEWS = IBS, RWR, EWWS, CMD and ICS.
+
+On I-BIT completion, the BIT menu returns and failures are displayed in
+the “failure” window.
+
+D-19 AVI-11
+
+
+Text from AVI-11_Built-In_Test_BIT_page_26.jpeg:
+AIM/PACS I-BIT
+
+AIM I-BIT Operation
+
+When the radar power knob is moved out of OFF, an AIM-120 BIT initiate
+signal is applied to each station (in missile launch sequence) with a missile
+aboard. Each missile is tested individually, requiring about 4 seconds per
+missile.
+
+The crew can initiate the same AIM-120 BIT routine from the BIT display.
+AIM is displayed on the BIT menu adjacent to PB #2 (Figure D-14), unless
+the PACS consent switch is ON, in which case PACS appears at PB #2.
+Pressing AIM (PB #2) initiates the AIM I-BIT for all AIM-120s in sequence.
+
+\
+
+MAINT DETAIL SFDR ~\ STOP DETAIL
+BUILT-IN TEST . BUILT-IN TEST
+TEWS AIM IN TEST
+
+DCL
+
+E'
+* RWR
+ICS * NAV FLIR*
+TGT FLIR*
+
+ADC
+EXCS
+
+TCN AAI
+COMM _IFF
+
+\X_ADF_M/4
+XX
+
+BIT MENU IN-TEST SUBMENU (AIM)
+
+AVI-11-14
+
+Figure D- 14. AIM BIT.
+
+AVI-11 D - 20
+
+
+Text from AVI-11_Built-In_Test_BIT_page_27.jpeg:
+PACS I-BIT
+
+The PACS I-BIT is strictly a maintenance function. PACS only appears as
+an option at PB #2 when the PACS consent switch on the avionics status
+panel is in the ON position. This switch must be electronically held in the
+ON position. Once ground power is removed, the switch automatically
+returns to the OFF (or “AIM”) position.
+
+In the unlikely situation that PACS is displayed by PB #2 after engine
+start, have the ground crew check the PACS consent switch (Figure D-15).
+
+WARNING
+
+You must shut down one engine before the
+crew chief can enter the nose wheelwell.
+
+The PACS I-BIT concludes with firing voltages being sent to all weapons
+stations. Therefore, we stress again, the PACS I-BIT is strictly a
+maintenance function.
+
+BIT MENU (AIM)
+
+PACS CONSENT OFF
+
+BIT MENU (PACS)
+
+PACS
+CONSENT on PACS CONSENT ON
+
+AVI-11-15
+
+Figure D - 15. PACS/AIM Display.
+
+D-21 AVI-11
+
+
+Text from AVI-11_Built-In_Test_BIT_page_28.jpeg:
+Remote Map Reader I-BIT
+
+Prior to TCTO 1F-15E-700, an RMR I-BIT is accomplished by pressing RMR
+(PB #6) on the BIT2 menu (Figure D-16) which calls up the RMR test
+submenu and starts the RMR BIT. The TSD map blanks and several
+seconds later the display automatically adjusts the color, followed by the
+display of the TSD/RMR (Figure D-16). Total time required to run an RMR
+I-BIT is approximately 20-25 seconds. Pressing STOP on the BIT display is
+required to get back to the normal TSD display and to return the BIT
+display to the BIT menu format. This discussion assumes you have the
+TSD up, as well as the BIT display, on the MPD/MPCD.
+
+Prior to starting an RMR I-BIT:
+e Insert RMR cassette
+e Close door
+
+e Call up TSD on an MPD/MPCD
+
+AVI-11 D - 22
+
+
+Text from AVI-11_Built-In_Test_BIT_page_29.jpeg:
+MAINT DETAIL M/4
+CAUT
+DISBL BUILT-IN TEST
+RMR IN TEST
+
+ol
+
+a |
+
+[|
+o8BO
+2
+ty
+. Od
+
+oo
+
+[Hn]
+
+® BRT
+
+TSD DISPLAY FORMAT RMRY/TSD TEST PATTERN
+
+AVI-11-16
+
+Figure D - 16.
+
+D - 23 AVI-11
+
+
+Text from AVI-11_Built-In_Test_BIT_page_3.jpeg:
+AVIONICS
+
+a = Sse OS
+= up te
+
+= ees
+=
+
+COVER
+
+BUILT-IN TEST (BIT
+
+INTRODUCTION
+
+This workbook is designed to familiarize you with the BIT system
+components, function, displays and operation. As part of a computer-
+based training (CBT) lesson, this workbook should be read prior to taking
+the CBT instruction.
+
+CONTENTS:
+
+INTRODUCTION 0.000. eeecceeeseeeeseeceseeesesaeecessaeeessaeesessaeesesneeeeneas A-1
+CRITERION REFERENCED OBJECTIVES (CROs).........0..eeeeeeeeeees B-1
+STUDENT PREPARATION REQUIREMENTS ...00.. eee eeeeee C-1
+TEXT oc eccscccceeesseeeceessseeeeceesseeeccesssaeeeseessseeeceessaeeeseeesaeeesensaaaees D-1
+END OF TEXT QUID cxss snes sass sss sues sens ses sews sive suns suis sees see seve snes sure seins se ous N/A
+GLOSSARY... eeeccccessceeessneeeesseeecesaeecesaeeessaeecesaeeceseesesaeecesaeesensaees F-1
+
+A-1 AVI-11
+
+
+Text from AVI-11_Built-In_Test_BIT_page_30.jpeg:
+AFCS I-BIT
+
+Prior to starting an AFCS I-BIT ensure that:
+
+Weight is on wheels
+
+Landing gear handle is down
+
+Engine RPM is less than 80%
+
+Holding brake is set
+
+Pitch and roll ratio switches are in AUTO
+
+ANTISKID is NORM
+
+The AFCS I-BIT takes approximately 1 minute and 40 seconds to complete.
+To prevent an aborted or failed AFCS BIT, do not operate AFCS
+switches/controls (flaps, speedbrake, etc.), do not rest your hands on the
+stick, or feet on the rudder pedals during the BIT.
+
+AVI-11
+
+
+Text from AVI-11_Built-In_Test_BIT_page_31.jpeg:
+An AFCS I-BIT is accomplished by pressing and holding the BIT (consent)
+button on the CAS panel (FCP), and then pressing and releasing AFCS
+
+(PB #9) on the BIT menu (Figure D-17). The BIT (consent) button interlock
+prevents inadvertent AFCS BIT initiation since the flight controls are
+automatically moved (quite violently) during an AFCS BIT. Once AFCS
+BIT begins “AFCS IN TEST,” (Figure D-17, top right), the CAS panel BIT
+(consent) button can be released.
+
+MAINT DETAIL
+BUILT-IN TEST
+
+DETAIL
+BUILT-IN TEST
+AFCS IN TEST
+
+CAS PANEL
+
+AVI-11-17
+
+Figure D - 17.
+
+D - 25 AVI-11
+
+
+Text from AVI-11_Built-In_Test_BIT_page_32.jpeg:
+The AFCS I-BIT may be terminated at any time by pressing STOP (Figure
+D-18, right, PB #19) on the in-test submenu or depressing the paddle
+switch. If the BIT is stopped, INCOMPLETE is displayed across the bottom
+of the BIT menu (Figure D-18), as an indication that an AFCS BIT has not
+been completed. Reinitiate and complete a successful AFCS BIT to clear
+the INCOMPLETE legend.
+
+MAINT DETAIL SFDR ~\ )
+BUILT-IN TEST
+
+TEWS
+
+CMD Eww
+
+SFDR RWR*
+
+TF RDR* NAV FLIR*
+TGT FLIR*
+
+LANT
+RALT
+
+INCOMPLETE
+
+ADC
+EXCS
+
+TCN AAI
+
+Figure D - 18. BIT Menu.
+
+INS I-BIT
+
+An INS I-BIT will not normally be done prior to flight since it takes
+approximately 15 minutes to complete the test, and a full gyrocompass
+alignment must then be accomplished. If an INS BIT is accomplished,
+maintenance TOs would be required to interpret the information presented.
+
+The discussions on the next 3 pages provide information on what the
+aircrew could see (and in some cases hear) as the I-BIT on various systems
+are being accomplished. You will not normally observe the BIT process in
+such exacting detail. Scan the discussions for general understanding only.
+It is not necessary for you to memorize all these indications.
+
+AVI-11 D - 26
+
+
+Text from AVI-11_Built-In_Test_BIT_page_33.jpeg:
+BIT
+MENU
+
+BUTTON
+#
+
+BIT MENU BIT SUBMENU INDICATION
+SELECTION
+
+DSPL (MPDP) If ON, the MPD/MPCD and HUD will go blank. After 10
+seconds, the test will automatically exit.
+
+DSPL (MPD) Internal test can be observed by simultaneously
+pressing and holding PBs #2 and #5 on the MPD.
+
+DSPL (MPCD) MPDP generated test pattern can be observed
+
+DSPL (HUD) Internal test can be observed by pressing button on
+HUD for test pattern.
+
+UFC (UFC) Various visual cues are displayed on UFCs (FCP or
+RCP) being tested (i.e., 10 prompts). “UFC IN TEST” is
+displayed on BIT submenu.
+
+EMD (EMD) Various visual cues are displayed on EMD (i.e., all
+segments illuminate then go blank, etc.). “EMD IN
+TEST” is displayed on BIT submenu.
+
+AIM or PACS “AIM IN TEST” displayed only on BIT submenu. “PACS
+
+(Ground) IN TEST” displayed only on BIT submenu; when
+successfully completed the BIT menu is automatically
+recalled.
+
+In RDR STBY, the BIT matrix readout is available on
+the RDR display format. In OPR, “RDR IN TEST”
+appears on the BIT menu. A track test may be
+accomplished to exercise radar acquisition and tracking
+functions. A check may be done on velocities, range
+tracking, angle tracking servos, and display interface
+between radar and HUD. AIR/AIR and AIR/GROUND
+track tests are available as well as precision velocity and
+air-to-ground ranging confidence checks
+
+LANT (Nav FLIR) “NAV FLIR IN TEST” appears on the BIT submenu.
+Black and white horizontal stripes are displayed on the
+HUD if timed out and ready.
+
+LANT (TF RDR) “TF RDR IN TEST” appears on BIT submenu. On TF
+display, test pattern appears for 7 seconds. If not ready,
+“NOT READY” will be displayed.
+
+RALT (RALT) “RALT IN TEST” appears on BIT submenu. “TGT FLIR
+(TGT FLIR) IN TEST” appears on BIT submenu. Tgt pod display
+goes through a number of changes and cycles.
+
+ADC (ADC) “ADC IN TEST” appears on the BIT submenu. Baro
+altitude readout goes to 11,500 feet; Mach shows .465;
+v/v shows 500 ft/min; AOA shows 10°. These indications
+appear on the HUD and ADI.
+
+ADC (EXCS) “EXCS IN TEST” appears on the BIT submenu.
+
+Table D - 3. I-BIT Visual Indications.
+
+D-27 AVI-11
+
+
+Text from AVI-11_Built-In_Test_BIT_page_34.jpeg:
+AVI-11
+
+
+Text from AVI-11_Built-In_Test_BIT_page_35.jpeg:
+BUTTON BIT MENU BIT SUBMENU INDICATION
+# SELECTION
+
+TCN (TCN) Set the HSI course to 180°. The bearing pointer
+on the HSI goes to 270° and then to 180°. The
+range goes to0 nm. “TCN IN TEST” appears on
+the BIT submenu.
+
+COMM (ICSCP/RICP) | “COMM IN TEST” appears on the BIT submenu.
+Various voice warnings and tones are heard.
+
+ADF (ADF) “ADF IN TEST” appears in the BIT submenu. The
+ADF bearing pointer (lollipop) goes to 180° and
+back to 0°.
+
+1 7 AAT (AAT) “AAT IN TEST” appears on the BIT submenu.
+Select radar display in standby or operate and
+allow to time out. Set radar to HPRF 120° AZ and
+range to 40 nm. Set AAI code switch to anything
+but off. Radar displays 4 targets, 5 seconds after
+
+M/4 (MODE/4) “MODE 4 IN TEST” appears on the BIT submenu.
+An aural tone will be heard if the BIT is
+successful. MODE 4 will not run if crypto KIR or
+KIR boxes are not on board.
+
+AIU (AIU2) “ATU2 IN TEST” appears on BIT submenu.
+
+“AFCS IN TEST” appears on the BIT submenu.
+“INCOMPLETE” is displayed if STOP is selected
+prior to BIT completion. Flight control surfaces
+move.
+
+15 TEWS (IBS) “TBS IN TEST” appears on the BIT submenu.
+
+TEWS (RWR) “RWR IN TEST” appears on the BIT submenu.
+
+TEWS (EWW) “EWW IN TEST” appears on the BIT submenu.
+TEWS (CMD) “CMD IN TEST” appears on the BIT submenu.
+
+TEWS (ICS) “ICS IN TEST” appears on the BIT submenu.
+
+1 AIU (AIUIA) “ATU1A IN TEST” appears on BIT submenu.
+AIU (AIUI1B) “ATU1B IN TEST” appears on BIT submenu.
+
+Table D - 4. I-BIT Visual Indications (continued).
+
+D - 29 AVI-11
+
+
+Text from AVI-11_Built-In_Test_BIT_page_36.jpeg:
+BIT BUTTON BIT MENU BIT SUBMENU INDICATION
+MENU # SELECTION
+2 1 EGI “EGI IN TEST” appears on the BIT page for the
+
+duration of the IBIT, approximately 90 seconds.
+Only the GPS embedded module (GEM) self-
+test isrun. The EGI stops tracking satellites
+while the GEM self-test is in progress.
+
+RMR (Before TCTO
+1F-15E-700)
+
+DMS (After TCTO 1F-
+15E-700)
+
+“RMR IN TEST” appears on the BIT submenu.
+Select TSD display on another MPCD. The
+RMR test pattern appears about 20 seconds
+after starting BIT. Press STOP to complete
+check.
+
+“DMS IN TEST” appears on the BIT submenu.
+The BIT is complete in approximately 30
+seconds.
+
+7 IDLP
+14 DCL
+13 RCL
+15 INS
+
+“TDLP IN TEST” is displayed on the BIT page.
+CC does not receive a BIT response from pod.
+BIT GO/NO is displayed in the upper right
+corner of the video display.
+
+Removes BIT fault indications from BIT display
+and displays “FAILURES DECLUTTERED.”
+
+Recalls all current failures, removes the
+decluttered message and RCL from the display.
+
+“INS IN TEST” appears on BIT submenu.
+
+AVI-11
+
+16 M/4 CAUT DSBL
+
+Removes the “IFF MODE 4” display caution
+from the cautions display if cautions are
+displayed or if they are decluttered from the
+display.
+
+Table D - 5. I-BIT Visual Indications (Continued).
+
+
+
+Text from AVI-11_Built-In_Test_BIT_page_37.jpeg:
+QUESTIONS
+Pressing STOP (PB #19) during an AUTO BIT will not stop the
+
+a. radar BIT or ICSCP/RICP (voice warnings and tones) or RALT
+BIT.
+. LANT, AIM or TEWS BIT.
+c. ICSCP/RICP, DSPL or AIU BIT.
+d. DSPL, RALT, LANT or ICSCP/RICP BIT.
+
+During flight, UHF 2 and other AIU2 equipment have malfunctioned.
+Using Figure D-19, the first step in starting an in-flight I-BIT on AIU2
+is to push
+
+a. PB#20.
+
+b. PB #11 to bring up the menu.
+ce. PB#8.
+
+d. PB #6 to check the COMM.
+
+|
+MAINT DETAIL SFDR ~\ )
+
+BUILT-IN TEST
+
+TEWS
+
+Eww
+
+*
+
+NAV FLIR*
+
+Figure D - 19.
+
+D-31 AVI-11
+
+
+Text from AVI-11_Built-In_Test_BIT_page_38.jpeg:
+3. BIT failures for selected systems/components will appear on the BIT
+in-test submenu as they occur during the I-BIT and on the BIT menu
+when the selected BIT is complete.
+
+a. True
+b. False
+
+4. AnI-BIT ona selected system is accomplished when the
+
+a. display flashes an in-test system.
+BIT menu goes blank.
+
+c. system or component being tested is displayed for at least 2
+seconds on the system in-test submenu, in-test window.
+
+d. system in-test submenu is displayed for at least 10 seconds.
+
+5. Why is an I-BIT not available on some systems in flight?
+
+Periodic/continuous BITs are used instead of an I-BIT.
+Multiplex line capacity is not available during flight.
+An I-BIT on some systems is not necessary in flight.
+An I-BIT interrupts system operation.
+
+pe op
+
+6. To accomplish an AFCS I-BIT press
+
+AFCS (PB #9) on the BIT menu.
+
+the BIT button on the CAS panel.
+
+c. and hold the BIT button on the CAS panel, and then press and
+release the AFCS (PB #9) on the BIT menu.
+
+d. andrelease the CAS BIT button prior to AFCS (PB #9).
+
+a 2
+
+AVI-11 D - 32
+
+
+Text from AVI-11_Built-In_Test_BIT_page_39.jpeg:
+ANSWERS
+
+D - 33 AVI-11
+
+
+Text from AVI-11_Built-In_Test_BIT_page_4.jpeg:
+CRITERION REFERENCED OBJECTIVES (CROs)
+1. Identify the operating characteristics of the BIT system.
+2. Indicate the function of the BIT system controls.
+
+3. Interpret a BIT display.
+
+REFERENCES
+TO 1F-15E-1 Section I Built-In Test (BIT) System
+
+TO 1F-15E-34-1-1
+
+AVI-11 B-1
+
+
+Text from AVI-11_Built-In_Test_BIT_page_40.jpeg:
+MAINTENANCE BIT
+
+Maintenance BITs are available on the ground and in flight. Any time a
+malfunction is known or suspected, a recording of a MAINT BIT may be
+required prior to shutdown. If CC mux bus failures occur, the aircrew must
+access the MAINT AUDIT page to clear these failures and allow full system
+operation.
+
+AFCS failures may be cleared without accessing the MAINT AUDIT page.
+For the AFCS, MAINT AUDIT provides a visual check for the existence or
+absence of failure codes.
+
+MAINT Submenu
+
+Selection of the MAINT submenu from the BIT menu (Figure D-20, left)
+provides an in-depth maintenance oriented test of the systems shown on the
+periphery of the MAINT submenu (Figure D-20, right). For example,
+selecting PB #1 brings up a display (Figure D-20, bottom) that permits BITs
+to be run on listed system components. To stop a running BIT, select
+STOP, which appears at PB# 19 only while the BIT is running.
+
+Exit the component selection page by pressing the button next to the system
+being checked to return to the maintenance submenu, or the MAINT button
+to return to the BIT menu. Interpretation of some MAINT data pages
+requires the use of a technical order maintenance code table.
+
+AVI-11 D - 34
+
+
+Text from AVI-11_Built-In_Test_BIT_page_41.jpeg:
+MAINT DETAIL SFDR \\
+BUILT-IN TEST
+
+TEWS
+
+DCL
+
+—) AIM CMD Eww ——
+RDR = AFCS* SFDR RWR*
+ICS* TF RDR* NAV FLIR*
+TGT FLIR*
+
+BIT MENU
+
+MAINT
+
+BUILT-IN TEST
+
+HUD
+
+THIS
+DSPL
+
+—_
+
+COMPONENT SELECTION PAGE
+
+Figure D - 20.
+
+AVI-11-20
+
+AVI-11
+
+
+Text from AVI-11_Built-In_Test_BIT_page_42.jpeg:
+AUDIT Page
+
+Pressing PB #10 (AUDIT) on the MAINT submenu (Figure D-21, left)
+provides access to the system AUDIT pages. PB #19 (Figure D-21, right)
+allows cycling through the CC, AFCS, INS, ATU1A, AIU1B, AIU2, MPDP-0,
+MPDP-1 and EGI AUDIT pages to read the memory for these systems.
+Interpretation of specific failure data requires access to maintenance
+technical orders.
+
+BUILT-IN TEST
+
+OFP VERSION - 8.1
+
+E406: 0404 0100 0000 0000 0000
+0000 0000 0000 0000 0000
+
+|
+
+E406: 0404 0100 0000 0000 0000
+0000 0000 0000 0000 0000
+
+=>
+
+ICS* TF RDR* __NAVFLIR*
+TGT FLIR*_ [INS6B”~ MPDPB 6A
+{AIUIB TA"
+LT [RDR5A f
+
+| Lh
+
+ill
+
+E406: 0404 0100 0000 0000 0000
+0000 0000 0000 0000 0000
+
+ADDRESS = E406
+
+7 —_—s) \e 2 —— 7
+(OfOfOwOROI (OOOO)
+
+MAINTENANCE SUBMENU AUDIT PAGE
+
+|
+|
+
+AVI-11-21
+
+Figure D - 21.
+
+Power interruptions result in accumulated mux bus failures in the AFCS
+and CC nonvolatile memory, identified by 5 A/B and 6 A/B suffixes (Figure
+D-21, left). This is caused by the BIT system running continuous and
+periodic BITs on equipment which the system thinks has failed. When this
+occurs, the nonvolatile memory must be cleared.
+
+AFCS mux bus failures can be cleared by holding the paddle switch
+
+depressed, while pressing and releasing the BIT (consent) button on the
+CAS panel. This resets the audit BIT codes to zeros.
+
+AVI-11 D - 36
+
+
+Text from AVI-11_Built-In_Test_BIT_page_43.jpeg:
+Clear CC mux bus failures by selecting the CC AUDIT page (Figure D-22)
+and pressing PB #20 (RESET). This procedure is not a CC RESET and only
+removes failures caused by BIT system operation anomalies. It does not
+remove failures caused by actual component failure. Exit the MAINT page
+
+by pressing PB #18.
+
+|
+
+TGT FLIR*_ | INS6B-~ MPDPB 6Al
+{(AIUIBTA AFCS 5A __AFCS 5B |
+tT |RDR5A |
+
+OF
+or
+
+AIU INS AUDIT
+
+ali
+
+MAINTENANCE SUBMENU
+
+—— FAILURES SCALE =+01
+
+lololiclallcl
+
+LT ft TT Tf
+RESET CC [MAINT] HEX HOLD
+BUILT-IN TEST
+OFP VERSION - 5005 SCALE
+1ACD: 7500 FFFF 2222 3333 4444
+6655 6666 7777 8888 9999
+SHIFT
+
+1AD7: AAAA BBBB CCCC DDDD EEEE
+FFFF 1234567 8ABC DEFO
+
+ENTER
+1AE1: 1A2B 2B3C 3C4D 4D5E 5E6F
+
+6F7A A7B8 B8C9 CODA DAEB
+
+EXT
+
+1ACD: 3 29069E+2
+
+MUX BUS ADDRESS = 1ACD
+
+AUDIT PAGE
+
+AVI-11-22
+
+Figure D - 22.
+
+H009 buses are analogous to the 1553 data bus failures discussed above as
+mux bus failures. Both are caused by communication failures between the
+CC and associated component. The H009 BIT fault appears as a system
+with numbers added, e.g. PACS 214.
+
+D-37 AVI-11
+
+
+Text from AVI-11_Built-In_Test_BIT_page_44.jpeg:
+BIT DETAIL SUBMENU
+
+An asterisk displayed adjacent to a component failure indicates that
+additional information for that system is available in the DETAIL
+submenu. Access the DETAIL submenu by pressing PB #17 on the BIT
+menu (Figure D-23A). Pressing the system button then calls up the
+DETAIL page with the appropriate system information (Figure D-23C).
+Figure D-23C shows ground AFCS failures detail. Figure D-23D shows the
+default detail page airborne. Corrective action for these failures are
+contained in Section III of the Dash 1 and the emergency procedures section
+of the Dash 1 checklist (AFCS Functional Status Summary).
+
+RMR (BEFORE TCTO 1F-15E-700)
+DMS (AFTER TCTO 1F-15E-700)
+
+MAINT DETAIL
+BUILT-IN TEST
+
+AIM
+AFCS*
+ICs*
+
+TGT FLIR*
+
+R*
+* NAV FLIR*
+
+AAI
+IFF
+M4 AIU__AFCS
+
+al (OOTOTOon ail
+
+(A) BIT MENU
+
+—— DETAIL
+BUILT-IN or BUILT-IN TEST
+
+FOC A212 AT AUTOPILOT/TF STATUS
+LRU ISOLATION ahaa
+
+RUN MBIT CARD SEAT AFCS UNARMED WARNING: AFCS
+CABLE CONTINUITY FCC NO ATF WARNING:
+
+ACCEL SENS RATE SENS
+ENGA CONTR F/IC/P SFS
+RIC/P SFS PRESSSENS STATUS H FAULTS
+FUNCTIONAL FAILURES
+
+A: 042 043 129 311 313 314 316 CASI SERVOLOOP NON HYDRAULIC BIT
+340 354 673 674 675 679 680 RICIP STICK CAS RUDDER PEDAL
+681 683 684 686 688 689 SPIN RECOVERY ROLL LIMIT
+
+. AOA FAIL CAS ARI
+SER GIS 788/00), B88 PCAS FIRST FAIL ONE RUDDER CAS
+: 674 675 798 801 859 YCAS FIRST FAIL RCAS FIRST FAIL
+
+(C) AFCS GROUND DETAIL (D) AFCS AIRBORNE DETAIL
+
+AVI-11-23
+
+Figure D - 23.
+
+AVI-11 D - 38
+
+
+Text from AVI-11_Built-In_Test_BIT_page_45.jpeg:
+The DETAIL page provides information as shown in Figure D-24.
+
+DETAIL BIT
+SELECTED
+DETAIL
+AFCS BUILT-IN TEST
+FUNCTIONAL AUTOPILOT/TF STATUS
+UNARMED WARNING:
+NO ATF WARNING:
+FAULTS AFCS SYSTEM
+FUNCTIONAL FAILURES SELECTED
+CASI SERVOLOOP NON HYDRAULIC BIT
+RI/C/P STICK CAS RUDDER PEDAL
+AOAPAL = CASARI FAILED
+netE SAS EQUIPMENT
+
+AVI-11-24
+
+Figure D - 24.
+
+Exit a DETAIL page by pressing the system button to return to the
+DETAIL submenu or the DETAIL button to return to the BIT menu. Ifa
+malfunction is known or suspected maintenance may require some DETAIL
+page data to be recorded prior to shutdown. The DETAIL pages are simply
+a record of system performance. The BITs are not performed from a
+DETAIL selection. Again, the DETAIL pages are mostly maintenance
+oriented.
+
+D - 39 AVI-11
+
+
+Text from AVI-11_Built-In_Test_BIT_page_46.jpeg:
+QUESTIONS
+1. AMAINT BIT
+
+can only be accomplished on the ground.
+
+will not indicate functional failures.
+
+can be accomplished on the display processor in flight.
+
+is stopped by selecting STOP (PB #19) on the maintenance BIT
+in-test display.
+
+pe op
+
+2. An asterisk next to a component listed in the BIT menu failure window
+
+indicates
+
+a. component system is unusable.
+
+b. memory data is available in MAINT submenu.
+
+c. that further information is available in the DETAIL submenu.
+d. the component is part of the display processor.
+
+3. In Figure D-25, which button(s) return you to the BIT menu?
+
+BUILT-IN TEST
+FCC A2 A12 A17
+
+LRU ISOLATION
+
+RUN MBIT CARD SEAT AFCS
+CABLE CONTINUITY FCC
+
+ACCEL SENS RATE SENS
+
+ENGA CONTR FICIP SFS
+
+RICIP SFS PRESS SENS STATUS
+
+© 042 043 129 311 313 314 316
+340 354 673 674 675 679 680
+681 683 684 686 688 689
+
+; 674 675 798 801 859
+
+: 674 675 798 801 859
+
+AVI-11 D - 40
+
+
+Text from AVI-11_Built-In_Test_BIT_page_47.jpeg:
+ANSWERS
+1. d
+2. ©¢
+
+3. press DETAIL (PB #17) to return to the BIT menu. [Pressing PB #9,
+(AFCS) would return the display to the detail submenu].
+
+D-41 AVI-11
+
+
+Text from AVI-11_Built-In_Test_BIT_page_48.jpeg:
+ADC
+
+AFCS
+
+BIT
+
+DSPL
+
+EGI
+
+EXCS
+
+HUD
+
+I-BIT
+
+IBS
+
+INS
+
+MPCD
+
+MPD
+
+PACS
+
+SRU
+
+GLOSSARY
+
+Air data computer
+Automatic flight control system
+Built-in test
+
+Multipurpose display processor
+
+Embedded global positioning system/inertial navigation system
+
+Exceedance counter
+
+Head-up display
+
+Initiated built-in test
+
+Interference blanking system
+Inertial navigation system
+Multipurpose color display
+Multipurpose display
+
+Programmable armament control set
+
+Shop replacement units
+
+AVI-11
+
+
+Text from AVI-11_Built-In_Test_BIT_page_5.jpeg:
+STUDENT PREPARATION REQUIREMENTS
+BEFORE CLASS
+1. Read the reference material, Section B.
+
+2. Study the text of this workbook, Section D.
+
+C-1 AVI-11
+
+
+Text from AVI-11_Built-In_Test_BIT_page_6.jpeg:
+(This Page Intentionally Blank)
+
+AVI-11 C-2
+
+
+Text from AVI-11_Built-In_Test_BIT_page_7.jpeg:
+TEXT
+INTRODUCTION
+Description/Function
+
+The built-in test (BIT) system is a CC resident program that provides the
+aircrew with the status of the avionics system components. For the BIT
+system to operate, the CC and AIU 1 must be operative. Some of the BITs
+are aircrew initiated from an MPD/MPCD BIT display. For these BITs,
+obviously, the MPDP must be operative.
+
+BIT Test Methods
+
+Three different types of BIT testing methods are used.
+
+Continuous BIT
+
+Provides constant monitoring of the avionics system for presence, value and
+logic. This method does not interfere with the normal operation of avionics
+that are being tested.
+
+Periodic BIT
+
+Automatically inserts test signals and replies during operation which do not
+interfere with normal operation of the avionic system.
+
+Initiated BIT
+
+Is “initiated” by the aircrew and causes interruption of normal
+system/component operation during the test.
+
+When equipment is turned on, a BIT or a portion of an initiated BIT
+(40-100%) is automatically accomplished. This turn-on BIT is sometimes
+referred to as an operational BIT.
+
+BIT INDICATORS
+
+BIT, caution and MPD/MPCD indications provide the aircrew with
+continuous status of the avionics equipment.
+
+D-1 AVI-11
+
+
+Text from AVI-11_Built-In_Test_BIT_page_8.jpeg:
+System Cautions
+
+When a system/component fails a BIT, the AV BIT caution light
+illuminates. Ifthe failure logic meets the aircraft caution system logic, a
+MASTER CAUTION light, yellow caution light and MPD/MPCD caution
+legend may also result. The AV BIT light (BIT failure) itself does not
+illuminate the MASTER CAUTION light, but depressing the MASTER
+CAUTION light in either cockpit does extinguish the AV BIT light. The AV
+BIT light is your cue to check the BIT display for information concerning a
+failed BIT.
+
+Equipment Latch Indicators
+
+Failure of an avionics system component to pass a BIT check causes its
+indicator on the avionics status panel in the nose wheel well to latch (Figure
+D-1, left).
+
+An MPD/MPCD or HUD BIT failure causes the BIT ball on the display
+itself to latch (Figure D-1, right). When preflighting the aircraft, check the
+avionics status panel for failure indications and coordinate with
+maintenance personnel, as required.
+
+ONSENT ——” TEST SWITCH "Oo ?
+eu Cok RESET SWITCH antics
+AVIONICS STATUS PANEL MPD/MPCD
+
+AVI-11-01
+
+Figure D - 1. Latch Indicators.
+
+AVI-11 D-2
+
+
+Text from AVI-11_Built-In_Test_BIT_page_9.jpeg:
+The MPD/MPCD and HUD BIT latch indicators can be reset by turning the
+unit OFF and then ON, or running a successful BIT on the component.
+
+BIT DISPLAYS
+BIT Menu
+
+The two BIT menus are accessed from any MPD/MPCD by pressing PB #20
+on display Menu 1. Once the main BIT menu is displayed, BIT menu 2
+(BIT2 legend) may be accessed by pressing PB #12 on the BIT display.
+Subsequently, pressing PB #12 (BIT legend) will return to the main BIT
+page (Figure D-2).
+
+MAINT DETAIL SFDR \\
+BUILT-IN TEST
+
+A/ARDR TEWS
+
+A/GRDR
+
+TEWS
+
+TGTIR
+
+ADC
+EXCS
+
+COMM {FE
+NS ADF M/4
+NX
+
+AVI-11-02
+
+|
+MAINT DETAIL M/4 ~\
+CAUT
+DSBL
+
+RMR (BEFORE
+TCTO 1F-15E-700)
+DMS (AFTER
+TCTO 1F-15E-700)
+
+BIT2 PAGE
+
+Figure D - 2. BIT System/Components.
+
+D-3 AVI-11
+
+

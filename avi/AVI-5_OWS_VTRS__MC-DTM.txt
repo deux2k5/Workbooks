@@ -1,0 +1,2480 @@
+Text from AVI-5_OWS_VTRS__MC-DTM_page_1.jpeg:
+SUPPORTS COURSES
+FISEBQ
+
+FISETX
+
+FI5ESOC
+
+ACADEMIC STUDENT WORKBOOK
+F-15E
+
+AVIONICS
+
+AVI-5
+OVERLOAD WARNING SYSTEM (OWS),
+VIDEO TAPE RECORDER SET (VTRS),.
+HUD TITLING, & MISSION
+CARTRIDGE/DATA TRANSFER MODULE
+(MC/DTM)
+
+FEBRUARY 1999
+
+(SUITE 3 OFP)
+
+AIR COMBAT COMMAND
+
+
+Text from AVI-5_OWS_VTRS__MC-DTM_page_10.jpeg:
+New Total Fuel Weights
+
+At engine start, the CC does not immediately initialize the OWS to the
+new total fuel weight. Rather, it starts at the previously stored shutdown
+fuel weight and adds fuel at a rate of 40 pounds per second until reaching
+the new fuel weight as displayed on the fuel quantity gauge. Depending
+upon the amount of fuel at shutdown, the update process may take up to
+10 minutes. During this time, the OWS indicates that it is operational,
+but the maximum allowable G is not accurate.
+
+NOTE
+
+Whenever fuel quantity changes exceed the 40 pounds per second rate, (e.g.,
+air refueling, high fuel consumption, tank jettison or ground refueling) the
+
+OWS will be unreliable until computations catch up with the actual fuel
+quantity.
+
+AVI-5 D-4
+
+
+Text from AVI-5_OWS_VTRS__MC-DTM_page_11.jpeg:
+The correct fuel weight input to the OWS can be confirmed while
+performing a BIT check of an MPD/MPCD during ground operations
+(Figure D-3). From the main menu, press PB #20, BIT. On the BIT
+
+display, press PB #18, MAINT. Then press PB #1, DSPL/UFC/EMD.
+
+Finally, press PB #5, THIS DSPL.
+
+l
+MAINT DETAIL SFDR
+BUILT-IN TEST
+
+CS
+
+AAI
+COMM IFF
+
+id]
+KY ADF M/4 AIU AFC
+BRT
+
+AVI-05-03
+
+Figure D - 3.
+
+AVI-5
+
+
+Text from AVI-5_OWS_VTRS__MC-DTM_page_12.jpeg:
+The final display will have the total fuel reading at the bottom. The fuel
+quantity displayed must be within 800 pounds of the total fuel reading on
+the fuel quantity gauge. If the fuel input is out of tolerance, then this
+indicates an unreliable OWS. To exit the display, press STOP, followed by
+M (for menu).
+
+AVI-05-04
+
+Figure D - 4.
+
+A “DSPL/UFC/EMD” BIT initiated at PB #1 on the main BIT display
+(Figure D-3) or AUTO BIT also displays the OWS computed fuel just as
+THIS DSPL does, except that all MPD/MPCDs have the gray scale and
+OWS fuel on them. To exit these BITs, press STOP on the FCP MPCD.
+This clears all the displays of the gray scale.
+
+AVI-5 D-6
+
+
+Text from AVI-5_OWS_VTRS__MC-DTM_page_13.jpeg:
+External Load
+
+For the OWS to function properly, the aircraft configuration must be
+confirmed and/or programmed through the PACS display. Failure to
+program the PACS correctly results in an inoperative or unreliable OWS.
+
+To confirm correct PACS programming, access the armament menu from
+any MPD/MPCD menu display by pressing PB #2, ARMT (Figure D-5).
+
+BIT EVENT ENG HUD \\
+
+A/ARDR
+
+A/GRDR
+
+TEWS
+
+TGTIR
+
+AIG A/A = NUC
+LOAD LOAD LOAD
+
+AVI-05-06
+
+Figure D - 5.
+
+D-7 AVI-5
+
+
+Text from AVI-5_OWS_VTRS__MC-DTM_page_14.jpeg:
+There are several options available at this point; but, they are covered in
+later PACS lessons. For now, the easiest technique for your first few
+flights is to first confirm that PB #14 (A/A TRNG) and PB #15 (A/G
+TRNG) are not boxed. If either is boxed, press PB #14/15 to deselect the
+TRNG mode (Figure D-6). You want to confirm/program the actual
+configuration, not a training configuration. Normally, air-to-air missiles
+and external fuel tanks self-identify in PACS.
+
+AIG AIA NUC
+LOAD LOAD LOAD
+
+AVI-05-06
+
+Figure D - 6.
+
+AVI-5 D-8
+
+
+Text from AVI-5_OWS_VTRS__MC-DTM_page_15.jpeg:
+G-IAV 6-d
+
+‘VG UOT}B4S UO popeoy ST WE-WIV Ue
+
+OSB SITY} UL “O[ISSTU G-JTV OATIJAed & YIM poINsyUOS AT[eULIOU ST Ye1OI1e
+oY} ‘SOT}LOS W/V pue UOT}ISUeI] JOY ‘SYUeY [ony [eU1e}xXe pue sdUeUp.10
+)/v Aue se [Jom Se ‘UMOYS 0q [[LM ‘SN4e4S Jo SSeTp1eso.r ‘SeTISSTU [TV
+
+"Lh - @ eInsty
+
+20-S0-IAV
+
+‘(L-q 9anstq) Aetdstp W/V
+oY} Je YOO] SN JO] SALA “PeoT yesosre [enjoe oy} WATJUOD 0} pesn oq AvUT
+
+Aeldsip oy UY “Woryernsyuoo iesoTe oy} AFIIOA 0} ()/V) S# 10 (W/V) G#
+qd sutsseid Aq AeTdstp puno.ss-0}-.11e 10 Ae[dstp 11e-04-11e ayy Ssed0e “yxXON
+
+
+Text from AVI-5_OWS_VTRS__MC-DTM_page_16.jpeg:
+Next, the A/G display (Figure D-8) shows that A/G ordnance and external
+fuel tanks are not loaded. PBs #16 and #20 display wing pylon data. The
+center of the display indicates the aircraft is configured with a captive
+AIM-9 missile.
+
+NOTE
+
+PBs #20-16 correspond to aircraft stations 2 (left pylon), LC (left
+conformal), 5 (center), RC (right conformal) and 8 (right pylon)
+respectively.
+
+la PYLON PYLON ~ )
+
+LOW A/G CMBT|
+400M A/A CMBT
+
+AIA
+
+CBT 1
+CBT 2
+
+AIG A/A ~ NUC OPTIONS
+LOAD LOAD LOAD
+
+AVI-05-08
+
+Figure D - 8.
+NOTE
+
+On the A/G display an AIM-7/AIM-120 loaded but not tuned or BIT
+checked will not be shown since they are not in the firing sequence. The
+
+A/A display will show those missiles regardless of their status.
+
+AVI-5 D-10
+
+
+Text from AVI-5_OWS_VTRS__MC-DTM_page_17.jpeg:
+If the aircraft is configured with external stores which do not self-identify,
+the OWS shuts down (INVARM displayed with weight on wheels, OWOFF
+displayed with weight off wheels on the HUD-—Figure D-9) because store
+weight cannot be computed. Should this occur, the PACS can be used to
+determine which station(s) have stores which did not self-identify.
+
+NAV 14B
+N 2.0
+
+1.1G OWOFF \ 23 i 00:01:48 E
+
+AVI-05-09
+
+Figure D - 9.
+
+D-11 AVI-5
+
+
+Text from AVI-5_OWS_VTRS__MC-DTM_page_18.jpeg:
+Figure D-10 shows a PACS display, which does not recognize the
+centerline tank (top row, PB #18). In this case, you would use the PACS
+programming to "label" the centerline station as a fuel tank so that OWS
+can work for you, which is verified by INVARM being removed from the
+HUD. If unable to clear the INVARM from the OWS, have the crew chief
+visually inspect ASP 72. If ASP 72 is orange, perform ASP 72 reset
+
+procedures.
+WARNING
+
+To prevent injury, do not clear
+maintenance personnel to enter the
+nose wheelwell unless one engine is
+shut down.
+
+PYLON ~
+
+A/G CMBT
+A/A CMBT
+
+OPTIONS
+
+AVI-05-10
+
+Figure D - 10.
+
+Compare aircraft configuration to PACS programming before every
+mission.
+
+AVI-5 D-12
+
+
+Text from AVI-5_OWS_VTRS__MC-DTM_page_19.jpeg:
+OWS Matrix
+
+Overload conditions on the aircraft components are stored in the CC
+memory and displayed on the OWS matrix (Figure D-11, below) as the
+load factor in Gs, percent of overload, and severity code (Figure D-12, next
+page) in the following columns.
+
+Acceleration (ACC) Normal acceleration load factor. A two
+or three digit number, read with a
+decimal before the last digit
+(e.g., 103 = 10.3 G).
+
+Percent of overload (OVL) Overload expressed as a whole
+percentage (e.g., 129 = 129%).
+
+ACC OVL FUS WNG LTL RTL PYL CFT MIT
+
+Cc
+103 1 3 2 3 3 L
+78 105 1 R
+
+103 1
+
+78
+103
+8
+
+-22
+
+OWS DISPLAY
+
+AVI-05-11
+
+Figure D - 11.
+
+D-13 AVL-5
+
+
+Text from AVI-5_OWS_VTRS__MC-DTM_page_2.jpeg:
+ADMINISTRATIVE INFORMATION
+
+This student workbook is designed to provide information on the F-15E,
+its systems and capabilities. It is not a sole source document, but is to be
+used in conjunction with other standard Air Force publications and
+technical manuals. If you find any differences between the material
+contained herein and other governing regulations, adhere to the
+regulations and notify the OPDR.
+
+Changes to this workbook are indicated with a heavy black line in the left
+margin.
+
+Forward recommendations for revision or change to 4 TS, SJAFB, NC,
+275381.
+
+Supersedes: AVI-5, July, 1998
+
+OPDR: 4 TS
+
+Index of Changes
+
+Effective Date Pages Affected
+
+
+
+Text from AVI-5_OWS_VTRS__MC-DTM_page_20.jpeg:
+The following components are displayed using the severity codes listed in
+Figure D-12.
+
+Fuselage (FUS)
+
+Wing (WNG)
+
+Left tail boom (LTL)
+
+Right tail boom (RTL)
+
+Pylons (PYL)
+
+Conformal fuel tanks (CFT)
+
+Mass items (MIT): Mass items are defined as high stress points which
+are not covered by other OWS categories and include missile launchers
+and engine mounting/attachment points.
+
+COLUMN SHOWS
+PERCENT OF LOAD
+
+COLUMN SHOWS
+
+ACCELERATION (G FORCE) COMPONENT
+
+COLUMNS
+ROW SHOWS WORST
+
+OVERLOAD CONDITION
+FOR EACH COLUMN WN
+ACC OVL FUS WNG LTL RTL PYL CFT MIT
+ROW SHOWS LATEST
+
+OVERLOAD CONDITION
+INDIVIDUAL COMPONENT SEVERITY
+DISPLAY OF ACCELERATION, CODE
+OVERLOAD PERCENTAGE *OVL LEVEL
+AND SEVERITY CODE FOR
+EACH OVERLOAD EVENT 85% - 100% 0
+101% - 110% 1
+111% - 120% 2
+121% - 130% 3
+131% - 140% 4
+141% AND ABOVE 5
+AVI-05-12
+
+Figure D - 12.
+
+Referring to Figure D-12:
+
+Row 1 of the OWS matrix display shows worst case overload data from
+each column. The 103 (10.3 G) displayed in the ACC column shows the
+highest G recorded, up to 12 Gs. Negative G forces, up to -4 Gs, are
+displayed. Row 1 also indicates a 129% overload (OVL column). The
+severity code 3 under WNG, row 1, is the highest listed in the WNG
+column.
+
+AVI-5 D-14
+
+
+Text from AVI-5_OWS_VTRS__MC-DTM_page_21.jpeg:
+Row 2 of the display shows latest overload data. In the figure, 7.8 G
+resulted in a 105% overload of the computed maximum allowable G for the
+wing. The severity code is 1 (severity codes listed in Figure D-12).
+
+Rows 3-23 provide data for components. Three rows are assigned to each
+component (i.e., FUS rows 3-5; WNG rows 6-8; etc.). If no recordable
+overloads occur for a component, the rows are blank. If more than three
+overload conditions have occurred for a component, only the three worst
+conditions are displayed. Rows 6-8 indicate at least three overloads have
+occurred on the wings; rows 9-11 indicate only two overloads have been
+recorded for the left tail boom section. A severity code of 0 (WNG)
+indicates that the load factor experienced was recordable but 100% or less
+(>85%). An overload of 100.01 percent will cause the OVL to read 101 and
+a severity code of 1 to be displayed.
+
+Min/Max G is displayed in the lower right corner of the OWS display.
+This readout reflects the lowest and highest G for the current mission.
+Min/Max G are reset to 1 G during INS alignment and/or during OWS
+reset (ASP reset).
+
+D-15 AVL-5
+
+
+Text from AVI-5_OWS_VTRS__MC-DTM_page_22.jpeg:
+Clearing Overloads
+
+If all the recorded overloads are 100% or less, they are cleared
+automatically during INS alignment (when the INS mode knob is placed
+to NAV). Any overload(s) exceeding 100% must be manually cleared,
+which requires a coordinated air/ground crew action (Figure D-13). Either
+aircrew member can select the OWS matrix display, press the CLEAR
+button (CLR boxed), and then ensure that a maintenance person toggles
+the OWS reset switch.
+
+After reset, check that the matrix cleared, CLR is unboxed, and confirm
+with maintenance that the ASP 72 status ball is now black instead of
+orange. An orange ASP status ball on preflight indicates that the OWS
+malfunctioned/failed a BIT or that an over G occurred on the previous
+sortie.
+
+4
+
+4
+3
+(e)
+
+M
+
+MIN = 2.2
+MAX = 10.3
+
+OWS MATRIX
+
+AVIONICS STATUS PANEL (ASP)
+
+AVI-05-13
+
+Figure D - 13.
+
+AVI-5 D-16
+
+
+Text from AVI-5_OWS_VTRS__MC-DTM_page_23.jpeg:
+Important Considerations
+
+The OWS is not programmed to protect individual stores against over G or
+to compute maximum allowable G for prohibited maneuvers (yaws greater
+than 30° per second, spins, etc.).
+
+At low altitudes and high airspeeds, rapid stick movement (full aft stick in
+less than .5 second) can cause high G onset rates. While the OWS works
+as designed, a high onset rate may cause serious structural overload
+before a warning is given.
+
+In the event of an OWS malfunction or other conditions causing
+30 seconds of continuous voice warnings, the OWS shuts down and the
+
+HUD displays only current G.
+
+REMEMBER, ANYTIME THE HUD DISPLAYS ONLY
+CURRENT G, NON-OWS G LIMITS MUST BE OBSERVED.
+
+D-17 AVI-5
+
+
+Text from AVI-5_OWS_VTRS__MC-DTM_page_24.jpeg:
+QUESTIONS
+1. The OWS will shutdown after
+
+60 seconds of tone warnings.
+
+3 iterations of an “OVER G” voice warning.
+a high G onset rate.
+
+30 seconds of continuous voice warning.
+
+pe op
+
+2. The OWS activates a single rate beeping tone when the system
+senses __ of maximum allowable G, or one G less than maximum
+allowable G whichever is more conservative.
+
+a. 80%
+b. 85%
+c. 92%
+d. 100%
+
+3. The OWS system
+
+prevents operation of an overloaded component.
+
+displays the three worst overloads of various components.
+
+is a black box in the nose separate from other aircraft systems.
+does not recognize negative G overloads.
+
+ae op
+
+4. Operation of the OWS can be confirmed by
+
+a. the HUD showing reasonable current G and maximum allowable
+G.
+. running a BIT check on the OWS.
+c. the display of only current G on the HUD.
+d. calling up the OWS matrix on a MPD/MPCD.
+
+AVI-5 D-18
+
+
+Text from AVI-5_OWS_VTRS__MC-DTM_page_25.jpeg:
+Using Figure D-14, which of the following statements is true?
+
+The wing has had a severity code 2 overload.
+The aircraft has had a 12.9 G overload.
+
+The CFTs have had no overload.
+
+The fuselage has had a 10.4 G overload.
+
+ae op
+
+OVL FUS WNG LTL RTL PYL CFT MIT
+
+129 1 3 2 3 3
+1
+
+1
+
+AVI-05-14
+
+Figure D - 14.
+
+D-19 AVI-5
+
+
+Text from AVI-5_OWS_VTRS__MC-DTM_page_26.jpeg:
+ANSWERS
+
+1. d
+2. b
+3. b
+4. a
+5. Cc
+
+AVI-5 D - 20
+
+
+Text from AVI-5_OWS_VTRS__MC-DTM_page_27.jpeg:
+VIDEO TAPE RECORDER SET (VTRS)-3/4 INCH CASSETTE
+Description
+
+The VTRS is an onboard video tape recorder used by the aircrew to record
+selected displays for post flight evaluation. The MPDs/MPCDs and HUD
+displays, along with voice and aural tones, can be recorded automatically
+under preset conditions (programmed recording) or manually
+(nonprogrammed recording). The VTRS is powered as long as one main
+generator is on-line.
+
+Components and Controls
+
+The VTRS uses a special format unlike VHS or BETA. It uses a *4-inch
+cassette with a nominal recording time of 30 minutes. A cassette ready
+for use has the tape wound on the spool without a colored center dot. The
+video tape recorder is located under and aft of the left engine intake and is
+accessed through a door near the centerline. The recorder (Figure D-15)
+has two buttons labeled TAPE UNTHREAD and CASSETTE REMOVE.
+Pressing the CASSETTE REMOVE button opens the cassette
+compartment for inserting and removing the cassette.
+
+Sy
+
+ince
+
+> xs0H RO-518/AXQ
+DOOOOOOOOOOOOXXOOX,
+JOQO00OO00000OXX000OKXC
+ZOQOOOOO0000OOO0Q00000OO00OX.
+ELAPSED TIME V-1000AB-R TEAC VIDEO
+
+TAPE UNTHREAD
+
+OC je
+
+AVI-05-15
+
+D-21 AVI-5
+
+
+Text from AVI-5_OWS_VTRS__MC-DTM_page_28.jpeg:
+The VTRS is operated using the controls listed below and shown in Figure
+D-16.
+
+@ VTRS control panel (FCP)
+
+@ FCP trigger
+
+@ VTRS display
+
+@ FCP/RCP pickle buttons
+
+@ MPD/MPCD record (RCD) push button
+
+RECORD
+ENABLE
+
+RESET _|
+© UNTHREAD
+
+RECORD OPTIONS
+FRONT COCKPIT AFT COCKPIT
+HUD LEFT MPCD
+
+LEFT MPD LEFT MPD
+
+MPCD [2] RIGHT MPD
+
+RIGHT MPD [7] RIGHT MPCD
+
+M
+
+VTRS OPTIONS
+OFF] STBY RUN AUTO D
+
+VTRS SUBMENU
+AVI-05-16
+
+FCP CONTROL STICK GRIP
+
+Figure D - 16.
+
+AVI-5 D - 22
+
+
+Text from AVI-5_OWS_VTRS__MC-DTM_page_29.jpeg:
+VTRS Control Panel
+
+The VTRS control panel, located in the front cockpit on the right console
+(Figure D-17) includes:
+
+@ A 2-position RECORD switch:
+
+ENABLE enables the VTRS to record (threads the video tape) if the
+INS knob is out of OFF.
+
+UNTHREAD unthreads the VTRS video tape if the INS is out of OFF.
+
+RECORD
+
+MIN
+v|| RCD REMAIN a @)
+
+RESET
+
+T ®
+71 [o]syo
+R [3{0) © unmktao @
+
+DOOlo 80 ue
+Soee #80 [lo|}}o_2
+
+ooes
+oeTsl oo Doo + —
+a |
+= i
+
+AVI-05-17
+Figure D - 17.
+
+D - 238 AVI-5
+
+
+Text from AVI-5_OWS_VTRS__MC-DTM_page_3.jpeg:
+AVIONICS
+
+= aa ae
+tc)
+Oo
+? pe
+
+COVER
+
+OVERLOAD WARNING SYSTEM (OWS
+VIDEO TAPE RECORDER SET (VTRS), HUD TITLING
+& MISSION CARTRIDGE/DATA TRANSFER
+MODULE (MC/DTM)
+
+INTRODUCTION
+
+This workbook is designed to provide you with an introduction to the
+components, functions and operations of the overload warning system
+(OWS), the video tape recorder set (VTRS), mission cartridge/data transfer
+module set (MC/DTM) and head-up display (HUD) titling. As part of a
+computer-based training (CBT) lesson, this workbook should be read prior
+to taking the CBT instruction.
+
+CONTENTS:
+
+I EID UGS ee cre see sexes rs ane seas crane sete ee ane Sc aes sees sense eee se aoe coe ae see A-1
+CRITERION REFERENCED OBJECTIVES (CROSs).........0..eeeeeeeeeeeeeee B-1
+STUDENT PREPARATION REQUIREMENTS ...000.. eee eeeeeeeeeeeees C-1
+CERT er ses sas es carws wa sme eas ees sats se cae wa Ses aa ee Mt we Sa eas es amt cs aa we SS a D-1
+END OF TEXT QUIZ oo... ee ceecccesseeensaeeceseeeessaeecesaeeeessaeeseseesensaees N/A
+(SOB AIRY corse case sae sass secs case ans sane aus avis nase aes wants Gaus GE SRE es Manis Uae Sa Su MARS Ms HE F-1
+
+A-1 AVI-5
+
+
+Text from AVI-5_OWS_VTRS__MC-DTM_page_30.jpeg:
+NOTE
+
+The VTRS automatically unthreads when the INS is turned off.
+
+@ Minutes remaining counter:
+e Total counter capacity is 199 minutes and is reset by pressing and
+turning the RESET knob. (Set the counter to the actual video tape
+length, so you can monitor recording time available.)
+
+@ VTRS advisory lights:
+
+e RCD (green) illuminates when recording. (The only "failsafe" cue
+that recording is actually taking place.)
+
+e EOT (white) illuminates when at the end of the tape, or when no
+tape is installed.
+
+AVI-5 D - 24
+
+
+Text from AVI-5_OWS_VTRS__MC-DTM_page_31.jpeg:
+Operation
+
+Nonprogrammed Recording
+
+Nonprogrammed recording (Figure D-18) is accomplished when the VTRS
+record switch is in the ENABLE position (INS control knob must be out of
+the OFF position), and
+
+@ the pilot presses the trigger to the 1st detent to record the HUD.
+
+@ either crew member presses PB #12 (RCD) on an appropriate display.
+
+NOTE
+Pressing the RCD buttons on two compatible displays results in split-
+screen recording.
+
+NOTE
+
+Remember, you are recording (a) particular MPD/MPCDs. If you
+change the display format through the menu or through scrolling, you
+also change the display format being recorded.
+
+RECORD
+ENABLE
+
+G  305/16.0
+00:02:20 E
+
+105 /12.0
+00:01:48 E
+
+A Ten ae ey ye oir us
+L Tit isy\v\
+i}
+
+MPD/MPCD DISPLAY
+
+FCP CONTROL STICK GRIP
+AVI-05-18
+
+Figure D - 18.
+
+D-25 AVI-5
+
+
+Text from AVI-5_OWS_VTRS__MC-DTM_page_32.jpeg:
+Nonprogrammed recording in progress is indicated by the CC clock time
+displayed as shown in Figure D-19, and is available on the following
+displays (all displays with “RCD” option at PB #12):
+
+A/A Radar TSD MC/DTM
+
+A/G Radar TEWS OWS
+
+ADI TGT IR ENG
+
+HSI VID2 HUD
+
+TF VID5 HUD REPEATER
+EVENT VID8 WIND MODEL
+
+CC CLOCK TIME CUE
+
+=
+
+PD/MPCD RECORDING IN PROGRESS
+AVI-05-19
+
+Figure D - 19.
+
+The “RCD” legend and recording cue is not displayed on the PACS, BIT,
+MENU, VTRS and MC/DTM displays. To initiate a nonprogrammed
+recording of these displays, call them up on a MPD/MPCD on which
+recording is already in progress. Stop recording on these displays by
+selecting a display format that does have a “RCD” option at PB #12 (or
+turn the VTRS to unthread).
+
+NOTE
+
+The presence of a CC clock time at PB #12 or on the HUD is not
+100% assurance that the VTRS is recording. Only a green RCD
+
+light on the FCP VTRS control panel is positive verification of
+recording.
+
+AVI-5 D - 26
+
+
+Text from AVI-5_OWS_VTRS__MC-DTM_page_33.jpeg:
+Programmed Recording
+
+If you know in advance which display(s) you wish to record, you may
+program this through the VTRS display. At a minimum, programmed
+recording will then occur via HOTAS when either pickle button is pressed.
+
+When you initially call up the VTRS submenu (Figure D-20), the last
+programmed selections (display and option) are displayed. You may select
+one or two of the eight options available by pressing the button next to the
+option. A boxed priority number appears adjacent to the previously
+selected option.
+
+RECORD OPTIONS
+FRONT COCKPIT AFT COCKPIT
+A/ARDR HUD LEFT MPCD
+
+A/GRDR =| LEFT MPD LEFT MPD
+
+TEWS E MPCD 2] RIGHT MPD
+
+TGTIR E—=| RIGHT MPD RIGHT MPCD
+
+M
+
+VTRS OPTIONS
+[OFF] STBY RUN AUTO D
+
+/
+CONT
+
+MPD MENU 1 DISPLAY VTRS DISPLAY
+
+VTRS DISPLAY SELECT
+AVI-05-20
+
+Figure D - 20.
+
+To deselect (a) record option(s), press the adjacent push button(s); the
+boxed priority number(s) is/are removed. If the number 1 priority record
+option is deselected, the number 2 priority record option is automatically
+reassigned as number 1 priority, and the boxed priority number changes
+accordingly (to 1). If two record options have already been selected, any
+attempt to assign a third record option is ignored by the system.
+
+D - 27 AVL-5
+
+
+Text from AVI-5_OWS_VTRS__MC-DTM_page_34.jpeg:
+For example, if the FCP MPCD and then the RCP left MPD are selected,
+the options appear with boxed priority numbers next to the new choices
+(Figure D-21). Selecting two options results in split screen recording if the
+
+two displays are compatible. (More on compatibility later in this
+workbook.)
+
+RECORD OPTIONS
+FRONT COCKPIT AFT COCKPIT
+HUD LEFT MPCD
+
+LEFT MPD LEFT MPD
+
+MPCD {1 RIGHT MPD
+
+RIGHT MPD RIGHT MPCD
+
+M
+
+VTRS OPTIONS
+
+Ne OFF [STBY] RUN AUTO D
+XS
+
+AVI-05-21
+
+Figure D - 21.
+
+AVI-5 D - 28
+
+
+Text from AVI-5_OWS_VTRS__MC-DTM_page_35.jpeg:
+There are three VTRS options:
+
+OFF
+
+STBY
+
+RUN
+
+NOTE
+
+Disables programmed recording. Nonprogrammed recording is
+still possible.
+
+is selectable (only after record options have been selected) by
+pressing PB #7. If no other action is taken, recording will occur
+at pickle button depression for:
+
+A/G master mode: Weapons consent through weapons release
+plus 10 seconds.
+
+A/A master mode: Missile TOF plus 5 seconds.
+
+initiates immediate recording of the programmed option(s)
+without the need to use the pickle button.
+
+When initiating either programmed or nonprogrammed recording
+with the other in progress, the last one initiated has priority. After
+
+terminating the last recording, the VTRS reverts back to the original
+recording option.
+
+D - 29 AVI-5
+
+
+Text from AVI-5_OWS_VTRS__MC-DTM_page_36.jpeg:
+If STBY or RUN is pressed without a record option selected, a cue is
+displayed as shown in Figure D-22.
+
+RECORD OPTIONS
+FRONT COCKPIT AFT COCKPIT
+HUD LEFT MPCD
+
+LEFT MPD LEFT MPD
+
+MPCD MUSTSELECTA Bight MPD
+RECORD OPTION
+
+RIGHT MPD RIGHT MPCD
+
+M
+
+VTRS OPTIONS
+
+RUN AUTO A
+4)
+
+AVI-05-22
+
+Figure D - 22.
+
+The AUTO function is boxed/unboxed when selected/deselected. It
+functions when STBY or RUN is boxed, and commands automatic
+recording of the HUD only when the following two conditions exist:
+
+@ A/A missile launch commanded by weapons release button (pickle
+button) at weapon release through missile time of flight plus five
+seconds.
+
+@ GUN selected on weapon select switch and a designated radar target is
+less than 10 nm.
+
+Also, the AUTO function will command split-screen recording of the spin
+recovery display (SRD) and the HUD when a spin occurs. Recording
+continues for 30 seconds after RECOVER is displayed. Although the SRD
+is shown on all displays, the VTRS selects the FCP left MPD for recording.
+
+AVI-5 D - 30
+
+
+Text from AVI-5_OWS_VTRS__MC-DTM_page_37.jpeg:
+The AUTO function overrides other programmed or nonprogrammed
+recording. The VTRS automatically switches to record the HUD (or HUD
+and SRD in the event of a spin) until the AUTO conditions no longer exist.
+Then the VTRS reverts to recording the previously
+nonprogrammed/programmed display(s).
+
+When the gun trigger is depressed to the 1st or 2nd detent, the VTRS also
+records the HUD (nonprogrammed recording).
+
+Recording In Progress Cue
+
+Programmed recording in progress (Figure D-23) is indicated when the CC
+clock time with an asterisk above and below is displayed on the right side
+of the MPD/MPCD. The recording in-progress cue is not displayed on the
+PACS, BIT, MENU, VTRS, and MC/DTM displays. (Remember, the
+“RCD” display button option is not available on these same displays).
+
+vV RNG A
+40
+
+INI
+
+[!
+Sf fig)
+Jy
+
+CLOCK TIME
+CUE WITH
+ASTERISKS
+
+TCN ILST
+
+AVI-05-23
+
+Figure D - 23.
+
+D-31 AVI-5
+
+
+Text from AVI-5_OWS_VTRS__MC-DTM_page_38.jpeg:
+Split-Screen Recording
+
+The VTRS has the capability to record split-screen video for the majority
+of display format pairs (either nonprogrammed with the “RCD” push
+button or trigger, or programmed with the STBY or RUN options). For
+split-screen video to occur, the displays must be refreshed at the same
+rate. Some of the display formats are ineligible for split-screen video due
+to incompatible synchronization rates. If any two of the following formats
+are selected, only the first one selected (or the one assigned priority 1, for
+programmed recording) is recorded:
+
+TSD TGT IR
+
+VID2 TF
+VID5 NAV FLIR (on HUD or HUD repeater)
+VID8
+
+Split-screen recording results in 50% horizontal compression with full size
+vertical video.
+
+AVI-5 D - 32
+
+
+Text from AVI-5_OWS_VTRS__MC-DTM_page_39.jpeg:
+Preventing Inadvertent Recording (3/4-Inch Cassette Only)
+
+If the previous crew did not terminate recording before aircraft shutdown,
+recording is enabled when the INS is turned on. The amplified preflight
+checks call for the “Video Tape Record Switch” to be in the “UNTHREAD”
+position (Figure D-24). This will prevent inadvertent recording when the
+INS is turned on.
+
+RECORD
+
+MIN
+v|| RCD REMAIN ne @
+
+RESET
+
+i
+0//3|/0
+Rp O UNTHREAD ©
+
+AVI-05-24
+
+Figure D - 24.
+
+D - 33 AVI-5
+
+
+Text from AVI-5_OWS_VTRS__MC-DTM_page_4.jpeg:
+CRITERION REFERENCED OBJECTIVES (CROs)
+1. Identify the operational characteristics of the OWS.
+
+2. Identify procedures for confirming correct aircraft configuration and
+fuel quantity.
+
+3. Given a computer representation of an MPD/MPCD OWS display
+format and/or HUD, interpret the OWS information displayed.
+
+4. Given a computer representation of the VTRS controls and displays,
+program the VTRS to record selected displays.
+
+5. Identify the operational characteristics of the VTRS modes (STBY
+and AUTO) in air-to-air and air-to-ground master modes.
+
+6. Given a computer representation of the HUD, UFC and MPD/MPCD
+VTRS display formats, title the video tape.
+
+7. Given a computer representation of an MPD/MPCD, read the
+mission cartridge (MC)/data transfer module (DTM), clear the CC
+buffer and write to the MC/DTM.
+
+REFERENCES
+
+TO 1F-15E-1 Section I Overload Warning System (OWS)
+Head-up Display (HUD)
+Video Tape Recorder Set (VTRS)
+Mission Cartridge (MC)/Data
+Transfer Module Set (DTM)
+
+Section II Before Taxiing (Front Cockpit)
+Before Taxiing (Rear Cockpit)
+Engine Shutdown OWS Matrix
+Display (Both) UFC Procedures
+(HUD Titling)
+
+Section V Acceleration Limitations
+External Stores Limitations
+(Introduction, Acceleration
+Limitations, Overload Warning
+System Inoperative, Symmetrical
+and Asymmetrical Maneuvering)
+
+AVI-5 B-1
+
+
+Text from AVI-5_OWS_VTRS__MC-DTM_page_40.jpeg:
+After engine start and after initiating the INS alignment, select ENABLE
+on the VTR switch. If the record light illuminates, either programmed or
+nonprogrammed recording is in progress. Put the switch in the
+UNTHREAD position. To correct the problem, select the VTRS display
+from Menu 1 on the MPD/MPCD. Place the VTR switch to ENABLE. If
+programmed recording is in progress (RUN is selected), select STBY or
+OFF.
+
+If nonprogrammed recording is in progress, there will be an asterisk
+beside the display(s) that is being recorded. Go to that display, select a
+format that normally has the “RCD” option at PB #12 (Radar, ADI, HSI,
+etc). PB #12 will display the CC clock. Select PB #12, “RCD” will be
+displayed and nonprogrammed recording will terminate (Figure D-25).
+
+RECORD OPTIONS
+FRONT COCKPIT AFT COCKPIT
+HUD LEFT MPCD *
+
+LEFT MPD [2] LEFT MPD
+
+MPCD {1 RIGHT MPD
+
+RIGHT MPD RIGHT MPCD
+
+M
+
+VTRS OPTIONS
+[STBY] RUN AUTO DD
+
+AVI-05-25
+
+Figure D - 25.
+
+AVI-5 D - 34
+
+
+Text from AVI-5_OWS_VTRS__MC-DTM_page_41.jpeg:
+Weapon Consent/Release Cue
+
+The weapon consent cue is displayed on the left edge of the recording at
+the time the pickle button is depressed and remains displayed as long as
+the pickle button is held depressed. A weapon release cue is displayed on
+the left edge of the recording at the time of weapon release for a duration
+
+of one second (Figure D-26).
+
+RELEASE CUE
+
+LA 5
+CONSENT CUE
+
+10 L-- -~110
+
+2
+
+7 ‘N
+711Y\\\
+
+7500
+
+TGT 2A
+G12
+
+00:03 TREL
+AUTO AGR
+
+Figure D - 26.
+
+AVI-05-26
+
+AVI-5
+
+
+Text from AVI-5_OWS_VTRS__MC-DTM_page_42.jpeg:
+Voice Communication and Aural Tones
+
+In order to aid correlation of in-flight occurrences with postflight review of
+the video tape recording, voice communications to, from and between the
+crew members are recorded on the audio track of the VTRS. Likewise,
+aural tones, voice warnings, weapon consent and weapon release tones are
+recorded. (The weapon consent/release tones are not heard by the crew
+members in the cockpit.)
+
+VIDEO TAPE RECORDER SET (VTRS)-8MM CASSETTE
+Description
+
+The VTRS is an onboard video tape recorder used by the aircrew to record
+selected displays for post flight evaluation. The MPDs/MPCDs and HUD
+displays, along with voice and aural tones, can be recorded automatically
+under preset conditions (programmed recording) or manually
+(nonprogrammed recording). The VTRS is powered as long as one main
+generator is on-line.
+
+Components and Controls
+
+The 8mm VTRS uses 8mm tape cassettes that allow for up to 5 hours of
+recording. The 8mm VTRS system consists of a video color tape recorder
+and a power panel that are mounted in the rear cockpit on the left console
+forward of the throttles and hand controller (Figure D-27).
+
+Power Panel
+
+The power panel has a three-position (OFF, ON and PLAYBACK) toggle
+switch. The ON position supplies power to the 8mm VTRS system.
+PLAYBACK is not available at this time. ON must be selected in order for
+the system to function. (PLAYBACK will provide power to the recorder
+also.)
+
+AVI-5 D - 36
+
+
+Text from AVI-5_OWS_VTRS__MC-DTM_page_43.jpeg:
+8MM VIDEO TAPE RECORDER
+
+PLAYBACK
+
+©):
+OFF
+
+REAR COCKPIT
+
+AVI-05-27
+
+Figure D - 27. 8mm VTRS.
+
+D - 37 AVI-5
+
+
+Text from AVI-5_OWS_VTRS__MC-DTM_page_44.jpeg:
+Video Color Recorder
+
+The video color recorder also has numerous switches that affect recording
+(Figure D-28). The recorder power switch is a two-position slide switch.
+After the power panel switch is in the ON position, slide the recorder
+power switch to ON to provide power to the recorder.
+
+POWER SWITCH EJECT SWITCH
+AND LIGHT
+
+REW FF PAUSE Es FES
+a rw
+© 6-05
+PAUSE 0 RECO AUDIO SP/LP COUNTER
+
+8] MONITOR RESET
+
+MAIN/L fig
+suBR (al ———| 1:23:45 3) PUSH
+STEREO |[mi LSPLP {™~
+
+AVI-05-28
+
+Figure D - 28. 8mm VTRS Controls.
+
+AVI-5 D - 38
+
+
+Text from AVI-5_OWS_VTRS__MC-DTM_page_45.jpeg:
+The power light illuminates when both power switches are in the ON
+position. The EJECT button provides a means of opening the door for
+inserting/removing the cassette. Both power switches must be in the ON
+position for the EJECT feature to work.
+
+There is a protective cover over the remaining controls on the recorder.
+The cover simply slides back to provide access to the controls.
+
+Starting from the left of the recorder, the first control is the STOP button
+( ). Pressing it-will terminate the function selected. Next is the REW
+(rewind) button ( ). Pressing and holding men will rewind the
+cassette. The next control is the PLAY button ( ©). If PLAYBACK were
+available, pressing the PLAY button wouldallow for viewing of the
+cassette. The FF (fast forward) button ( é) ) is the next control.
+Pressing and holding this button will fast-forward the tape.
+
+The PAUSE button ( ) is the next control. Pressing this button will
+pause the tape. Pressing the button a second time allows for the
+resumption of the previous function. If you press one of the other control
+buttons, that function is selected. There is a PAUSE light to signify when
+the recorder is in the pause mode. There is a 5 minute counter on the
+PAUSE button. With REC and PAUSE selected, both will automatically
+deselect after 5 minutes. The REC (record) switch is the next control.
+Sliding the switch to the right and releasing it selects the record mode for
+the recorder. The REC light comes on when REC is selected and there is
+tape remaining.
+
+Below those controls are several features/options:
+@ The AUDIO MONITOR button is not used.
+
+@ Tape speed is selected with the SP/LP button. Pressing the button
+alternatively selects Slow Play (SP) or Long Play (LP) speed. Based on
+the cassette used, the system will record up to 5 hours with Long Play
+selected or 2.5 hours with Slow Play selected. If time is not factor, the
+Slow Play will give higher quality recording than the Long Play option.
+
+@ The COUNTER RESET button permits resetting the tape counter to
+0:00:00.
+
+D - 39 AVI-5
+
+
+Text from AVI-5_OWS_VTRS__MC-DTM_page_46.jpeg:
+There is also a display window that permits confirmation of features
+selected.
+
+@ MAIN/L, SUB/R and STEREO are not used.
+@ OUT is displayed when PLAY is selected on the video recorder.
+
+e@ IN is displayed when STOP, FF, REW, REC or PAUSE is selected on
+the video recorder.
+
+@ SL/LP indicates which tape speed has been selected.
+
+@ Tape Counter indicates the tape time in hours, minutes and seconds.
+A BATTERY RELEASE switch is located on the side near the EJECT
+button (it is not used). BATTER WARNING INDICATOR (in the display
+window) is also not used. DEW INDICATOR flashes in the display
+
+window when there is moisture inside the recorder. The recorder should
+be allowed to dry out before use.
+
+Video Recorder Setup
+
+After main generator power is available, the ON position on the power
+panel should be selected. The video recorder power switch should then be
+moved to the ON position. Moving the EJECT switch to the right will
+open the door to permit the cassette to be inserted into the recorder.
+Gently push the door to the close position. Sliding the REC switch to the
+right initiates recording. Without record commands from the VTRS
+display and without RCD (PB #12) buttons selected, the recorder records
+the HUD (without symbology) and cockpit audio.
+
+Several options exist for day to day operation of the recorder. Based on
+the length of the tape used and the tape speed selected, there should be
+sufficient tape to select REC prior to takeoff and tape the entire flight.
+During the mission use either programmed or manual (PB #12/trigger)
+recording to tape the desired events. During debrief, this could require a
+bit of searching to locate the desired events.
+
+AVI-5 D - 40
+
+
+Text from AVI-5_OWS_VTRS__MC-DTM_page_47.jpeg:
+Another option is to command either programmed or nonprogrammed
+recording and then select REC just prior to the events to be taped. After
+the event is completed, PAUSE or STOP will cease recording. Pressing
+PAUSE a second time (if PAUSE was used to stop recording) will re-
+initiate recording. If STOP was used, sliding the REC switch to the right
+will initiate recording again. If either or both power switches are used to
+terminate recording, the power switches must be returned to the ON
+position and REC selected again to start recording. Although the recorder
+is capable of recording color images, the equipment in the aircraft will not
+permit color recording.
+
+The cassette must be removed prior to both main generators going off-line.
+Otherwise, an external power unit will be required to eject the cassette.
+
+Operation
+
+Nonprogrammed, programmed and split-screen recording are
+accomplished the same with the 8mm cassette and the 3/4-inch cassette.
+The recording in-progress cue, weapon consent/release cue, and voice
+communication and aural tones are also displayed/heard under the same
+conditions while using the 8mm cassette. (Refer to the Nonprogrammed
+Recording, Programmed Recording, Recording In Progress Cue, Split-
+Screen Recording, Weapon Consent/Release Cue, and Voice
+Communication and Aural Tones sections on pages D-25 through D-36 of
+this workbook.)
+
+Preventing Inadvertent Recording (8mm Only)
+
+Prior to turning the recorder on and initiating recording, check the VTRS
+display to confirm that programmed and/or nonprogrammed recording of
+any displays have not been commanded. If there is an asterisk by a
+display, then that display is being commanded to record. If programmed
+recording has been commanded (RUN is selected), select STBY or OFF.
+
+If there is an asterisk by a display after confirming that STBY or OFF is
+selected, then nonprogrammed recording has been commanded. Go to
+that display, select a display with a format that normally has the “RCD”
+option at PB #12 (radar, ADI, HSI, etc.). PB #12 will display the CC clock.
+Select PB #12, “RCD” will be displayed and nonprogrammed recording
+will terminate.
+
+D-41 AVI-5
+
+
+Text from AVI-5_OWS_VTRS__MC-DTM_page_48.jpeg:
+In order for the recorder to record a display, the REC light must be on and
+either programmed or nonprogrammed recording must be commanded. If
+the REC light is on, both power switches are in the ON position and REC
+has been selected. The video recorder cannot be in the record mode upon
+starting the engines. If it loses power while in the record mode, i.e., the
+engines are shut down, the record mode is deselected.
+
+If the REC light is not illuminated on the recorder, the system is not
+recording. Displays can be in the record mode but will not be recorded
+unless the REC light is on. Bottom line: to record a display, the REC light
+must be on and recording must be commanded by either the VTRS
+display, PB #12 or the trigger/weapons release switch.
+
+HUD TITLING
+
+Description
+
+HUD titling is a method of entering and recording specific mission data to
+identify the video tape for postflight analysis.
+
+AVI-5 D - 42
+
+
+Text from AVI-5_OWS_VTRS__MC-DTM_page_49.jpeg:
+Operation
+
+The HUD titling format is programmed using the data transfer module
+(DTM) or manually using the UFC HUD titling submenu (Figure D-29).
+The HUD titling submenu is accessed through Menu 2 by pressing PB #4
+to bring up the PP keeping source submenu. Then, press PB #7 (HUD
+TITL) to bring up the HUD titling submenu and the title format on the
+HUD.
+
+UVC 1 1A On[PP-s
+
+tN
+GCUS ON UPET MENU Of Ne P46. 1e3°
+TLS 189.98 BE STR CH E 13°45 345"
+
+(PP-INS KEG 1234
+
+MENU 2 DISPLAY PP KEEPING SOURCE
+DISPLAY SUBMENU
+
+MONTH-BAY 3-28
+
+SEAR 98 LOC- 1 8333
+
+MSN 83 LOC-c 8 18e
+
+RIC 86-8 187 UNG BBB4
+
+Uece. Weox
+
+ecb. teS
+
+HUD TITLING
+SUBMENU DISPLAY
+
+AVI-05-29
+
+Figure D - 29.
+
+D-43 AVL-5
+
+
+Text from AVI-5_OWS_VTRS__MC-DTM_page_5.jpeg:
+STUDENT PREPARATION REQUIREMENTS
+BEFORE THE CBT LESSON:
+
+1. Study the information contained in this workbook and complete the
+quiz.
+
+2. Read references in Sections I, II and V of TO 1F-15E-1.
+
+C-1 AVI-5
+
+
+Text from AVI-5_OWS_VTRS__MC-DTM_page_50.jpeg:
+HUD Titling Submenu
+
+The submenu displays the following information to be recorded on the
+video tape:
+
+Button 1: Month - Day 9: Squadron (local use)
+2: Year 8: Pilot/‘WSO numbers (local use)
+3: Mission type 7: Wing
+
+4: A/C (Tail Number)
+
+Changes in the title, if required, are made through the UFC via the
+keyboard and the associated option push button. Leading zeros are not
+required. The day can be changed by typing in one or two digits. The
+month is changed by typing in the month (one or two digits) plus the “-“
+and the day (one or two digits). Mission type changes can be entered as
+one or two digit numbers. Tail number changes require the entire set of
+characters to be typed, for example, 87-0188. The year is entered using
+only the last two digits.
+
+Location 1 and 2 (LOC-1 and LOC-2) are undefined buffers. They are
+used locally for the squadron number and the pilot/WSO numbers (e.g.,
+Pilot-01, WSO-02). Only those items that are different from those
+previously programmed must be entered.
+
+LOC-1 = 0333 (Squadron number)
+LOC-2 = 0102 (Pilot/WSO numbers)
+
+AVI-5 D - 44
+
+
+Text from AVI-5_OWS_VTRS__MC-DTM_page_51.jpeg:
+Recording The Title
+
+There are three ways to record the HUD title (assuming VTRS control
+panel record switch in ENABLE and INS control knob out of off). For the
+pilot, one way is to go half action on the FCP trigger (Figure D-30).
+Releasing the trigger stops recording.
+
+DATE: 03-20-98
+MISSION: 0003
+AIC #: 86-0187
+WING: 0004
+0333
+0102
+
+01:25:15
+
+AVI-05-30
+
+Figure D - 30.
+
+NOTE
+With the HUD title menu selected, a CC clock time flashes in the lower
+
+left corner of the HUD repeater to remind the crew to set the proper CC
+clock time on UFC Data 1.
+
+D-45 AVL-5
+
+
+Text from AVI-5_OWS_VTRS__MC-DTM_page_52.jpeg:
+For either pilot or WSO, a way to title the HUD and verify VTRS
+operation is to select the VTRS display (Figure D-30). Then select FCP
+HUD as the record option. Select RUN to record and OFF or STBY to stop
+recording (Figure D-31).
+
+AVI-05-31
+
+Figure D - 31.
+
+NOTE
+
+Anytime the VTRS is recording any MPD/MPCD and/or HUD, an asterisk
+(or asterisks) appear(s) next to the option(s) being recorded.
+
+AVI-5 D - 46
+
+
+Text from AVI-5_OWS_VTRS__MC-DTM_page_53.jpeg:
+For the WSO, the easiest way to title the HUD is to select the HUD
+repeater (HUD) from the main menu (Figure D-32, left). Press RCD on
+the HUD display to record and again to stop recording (Figure D-32,
+right).
+
+Ne r Al
+be cor
+
+MPD-MENU 1 DISPLAY HUD REPEATER
+
+AVI-05-32
+
+Figure D - 32.
+
+To remove the HUD titling data from the HUD, both crew members must
+be out of the UFC HUD titling submenu. To exit the HUD titling
+submenu, select MENU or DATA.
+
+D-47 AVL-5
+
+
+Text from AVI-5_OWS_VTRS__MC-DTM_page_54.jpeg:
+MISSION CARTRIDGE (MC)/DATA TRANSFER MODULE (DTM)
+Description
+
+Prior to TCTO 1F-15E-700, the DTM provides the means to transfer
+mission data from the AFMSS to the aircraft. It also provides for
+transferring operations data from the aircraft back to the AFMSS and
+maintenance data from the aircraft to the computerized fault reporting
+system (CFRS).
+
+After TCTO 1F-15E-700, the MC will be the primary means of
+transferring mission data from the AFMSS to the aircraft and for
+transferring operations data from the aircraft to the AFMSS. The DTM
+can continue to be used for this function if the MC is not available or
+malfunctioning. If the MC is used, the DTM and MC can be used for
+transferring mission data to the aircraft and back to the AFMSS. The
+DTM will continue to be the means for transferring maintenance data
+from the aircraft to the CFRS.
+
+If the MC is utilized, the DTM can be either an ops or maintenance DTM.
+The computer in the aircraft recognizes the DTM as either ops or
+maintenance from the structure of the information on the DTM. If the
+DTM is loaded via AFMSS, it is loaded with a directory structure that
+identifies it as an ops DTM. Maintenance DTMs are not normally used on
+the AFMSS, therefore a directory structure is not loaded on the DTM. If
+an ops DTM is erased, the directory structure is erased and the computer
+sees it as a maintenance DTM.
+
+The problem in the past has been the classification of the ops DTM. With
+the MC being used as the means to transfer mission data, the
+maintenance DTM can be used to transfer the unclassified maintenance
+data from the aircraft to the CFRS. The CC knows that it is a
+maintenance DTM and will block the transfer of classified data to the
+maintenance DTM, thus allowing the transfer of unclassified data to
+CFRS.
+
+The MC is inserted into the MC receptacle on the right console in the rear
+
+cockpit. The DTM is inserted in the DTM receptacle on the right
+instrument panel in the front cockpit.
+
+AVI-5 D - 48
+
+
+Text from AVI-5_OWS_VTRS__MC-DTM_page_55.jpeg:
+Operation
+
+After engine start, during the before taxi check, power up an MPD/MPCD.
+Call up MENU 2 by pressing PB #11 (Figure D-33, Power On). For the
+MC/DTM display, press PB #19 MC/DTM (Figure D-33, MENU 2).
+
+POWER ON
+
+AVI-05-33
+
+Figure D - 33.
+
+D-49 AVL-5
+
+
+Text from AVI-5_OWS_VTRS__MC-DTM_page_56.jpeg:
+From a MC/DTM display (Figure D-34, READ), press either READ MC
+(PB #1) or READ DTM (PB #2). This transfers mission data from the MC
+or DTM (Figure D-34, READ IN PROGRESS). Transfer messages are:
+
+1)
+2)
+3)
+4)
+5)
+
+6)
+
+IN PROGRESS - data being transferred
+
+PENDING - transfer not yet attempted
+
+NO XFER - no data transferred (shown in red)
+
+PARTIAL XFER - some data is missing (shown in amber)
+NO DATA - there is no data to transfer
+
+BLANK - successful data transferred
+
+When the MC or DTM completes the data transfer, the following changes
+occur to the READ IN PROGRESS display:
+
+1)
+
+2)
+
+3)
+
+4)
+
+AVI-5
+
+READ IN PROGRESS is removed
+
+READ MC, READ DTM, READ STATUS, WRITE, WRITE
+STATUS and CLEAR CC BUF are displayed
+
+The last “PENDING” message is removed
+
+READ STATUS is boxed at PB #8 (Figure D-34, READ
+COMPLETE). Now, any other menu may be selected. READ
+STATUS remains boxed until another PB is selected, i.e. CLEAR
+CC BUF or scrolling off the DTM display.
+
+
+Text from AVI-5_OWS_VTRS__MC-DTM_page_57.jpeg:
+lolol
+
+READ
+DTM
+
+READ
+STATUS
+
+McC /DTM
+
+WRITE
+
+WRITE
+STATUS
+
+Mc /DTM
+MC READ IN PROGRESS.
+
+AIG TNG
+AG CBT
+PACS TNG
+PACS CBT
+cc WPN
+MD
+WIND TBL
+SEQPTS
+LIST PTS
+TACAN
+HUD
+
+HUD PROG
+DISP PGM
+RDR DISP
+COMM 1
+COMM 2
+GPS ALM
+IFF TBL
+
+MG
+
+- NO XFER
+- NO XFER
+
+- PARTIAL XFER
+
+- IN PROGRESS
+- PENDING
+- PENDING
+- PENDING
+- PENDING
+- PENDING
+- PENDING
+
+Mc /DTM
+MC
+
+AIG TNG
+AG CBT
+PACS TNG
+PACS CBT
+cC WPN
+cMD
+WIND TBL
+SEQPTS
+LIST PTS
+TACAN
+HUD
+
+HUD PROG
+DISP PGM
+RDR DISP
+COMM 1
+COMM2
+GPS ALM
+IFF TBL
+
+-NO XFER
+- NO XFER
+
+WRITE
+
+WRITE
+STATUS
+
+- PARTIAL XFER
+
+READ
+DTM
+
+READ
+STATUS
+
+Mc /DTM
+
+WRITE
+
+WRITE
+
+STATUS
+
+READ
+
+McC /DTM
+DTM READ IN PROGRESS
+
+AIG TNG
+AG CBT
+PACS TNG
+PACS CBT
+Cc WPN
+MD
+WIND TBL
+SEQPTS
+LIST PTS
+TACAN
+HUD
+
+HUD PROG
+DISP PGM
+RDR DISP
+COMM 1
+COMM2
+GPS ALM
+IFF TBL
+
+DTM
+
+-NO XFER
+- NO XFER
+
+- PARTIAL XFER
+
+- IN PROGRESS
+- PENDING
+- PENDING
+- PENDING
+- PENDING
+- PENDING
+- PENDING
+
+Mc /DTM
+
+AIG TNG
+ANG CBT
+PACS TNG
+PACS CBT
+cc WPN
+CMD
+WIND TBL
+SEQPTS
+LIST PTS
+TACAN
+HUD
+
+HUD PROG
+DISP PGM
+RDR DISP
+COMM 1
+COMM 2
+GPS ALM
+IFF TBL
+
+DTM
+
+- NO XFER
+- NO XFER
+
+- PARTIAL XFER
+
+WRITE
+
+WRITE
+
+STATUS
+
+READ COMPLETE
+
+Figure D - 34.
+
+D-51
+
+AVI-05-34
+
+AVI-5
+
+
+
+Text from AVI-5_OWS_VTRS__MC-DTM_page_58.jpeg:
+To check the status of the last read data transfer, select PB #3, READ
+STATUS. The six transfer messages indicate the status of the last read
+data transfer (Figure D-35).
+
+MC /DTM
+MC
+
+AIG TNG
+
+AIG CBT
+
+PACS TNG - NO XFER
+
+PACS CBT - NO XFER
+
+CC WPN WRITE
+CMD
+
+WIND TBL
+
+SEQ PTS WRITE
+LIST PTS STATUS
+TACAN - PARTIAL XFER
+
+HUD
+
+HUD PROG
+
+DISP PGM
+
+RDR DISP
+
+COMM 1
+
+COMM 2
+
+GPS ALM
+
+IFF TBL
+
+ies] Ce (en Tea ea
+
+SJ
+Fa
+
+<a>
+
+iS
+
+®
+
+AVI-05-35
+
+Figure D - 35.
+
+AVI-5 D - 52
+
+
+Text from AVI-5_OWS_VTRS__MC-DTM_page_59.jpeg:
+Clear the CC buffer by pressing PB #10 (Figure D-36, DTM) so event data
+for the current flight may be stored. When cleared all previous event data
+is erased.
+
+After clearing the CC buffer, CC BUFFER CLEARED appears in the
+middle of the display and CLEAR CC BUF appears “boxed” for five
+seconds (Figure D-36). Then the display reverts to the MC/DTM display.
+
+MC /DTM MC /DTM
+
+CC BUFFER CLEARED
+
+WRITE
+
+WRITE
+
+STATUS
+
+CLEAR
+CC BUF
+
+CLEARED CC BUFFER
+AVI-05-36
+
+Figure D - 36.
+
+Prior to engine shutdown, complete the MC/DTM WRITE functions if
+desired. This transfers mission data from the CC to the MC/DTM for
+analysis.
+
+To accomplish the MC/DTM WRITE function, from MENU 2 press
+MC/DTM at PB #19, and then WRITE at PB #15. Once WRITE is
+selected, WRITE IN PROGRESS appears until the WRITE function is
+complete (Figure D-37). The following changes occur to the display when
+the write transfer is completed:
+
+1) WRITE IN PROGRESS is removed.
+
+2) READ MC, READ DTM, READ STATUS, WRITE, WRITE
+STATUS and CLEAR CC BUF are displayed.
+
+3) The last pending message is removed.
+
+D - 53 AVI-5
+
+
+Text from AVI-5_OWS_VTRS__MC-DTM_page_6.jpeg:
+(This Page Intentionally Blank)
+
+AVI-5 C-2
+
+
+Text from AVI-5_OWS_VTRS__MC-DTM_page_60.jpeg:
+4) WRITE STATUS will be boxed (Figure D-37, WRITE STATUS
+COMPLETE).
+
+(sm OF
+
+READ DTM Mc
+MC - USE MC
+- USE MC
+-NO DATA = NO DATA
+= NO DATA = NO DATA
+nae - NO DATA -nopata WRITE
+
+-NO DATA -NO DATA
+
+READ CAUTIONS — - NODATA -wopata |_WRITE
+STATUS ENGINE - NO DATA -nopata [STATUS
+BIT
+
+PARTIAL XFER  - PARTIAL XFER
+
+MC /DTM
+WRITE IN PROGRESS
+
+DTM MC
+
+AN AOPS - IN PROGRESS
+NG OPS -NODATA —- PENDING
+HUDDATA -NODATA —_—- PENDING
+NAVDATA -NODATA —_—- PENDING.
+TFWARN — -NODATA —_—- PENDING.
+INS - PENDING
+OWS DATA -NODATA _—- PENDING
+ows DIsP - PENDING
+CAUTIONS -NODATA ——- PENDING
+ENGINE -NODATA ——- PENDING
+- PENDING
+
+CLEAR
+CC BUF
+
+- PENDING
+- PENDING
+- PENDING
+- PENDING
+- PENDING
+- PENDING
+
+:
+=
+oD
+z
+
+el
+
+MC /DTM
+
+- PENDING
+- PENDING
+- PENDING
+- PENDING
+= PENDING
+
+rr (OOOO
+
+WRITE IN PROGRESS
+
+DTM WRITE IN PROGRESS PAGE 1
+DTM MC
+
+OFP ID -INPROGRESS = - PENDING
+ADP LOG - PENDING - PENDING
+TSDTHRT —- PENDING - PENDING
+
+(alee
+
+Biwi
+
+1a
+
+cour @
+DTM WRITE IN PROGRESS - PAGE 2
+AVI-05-37
+
+Figure D - 37.
+
+To ensure that all INS and radar data is transferred, the pilot must cycle
+the INS and radar off and back to GC/NAV/ON. Moving the power
+switches to off ends the data for the flight and allows it to be transferred.
+Switches must be out of off in order for the data to be transferred.
+
+AVI-5 D- 54
+
+
+Text from AVI-5_OWS_VTRS__MC-DTM_page_61.jpeg:
+If the DTM is a maintenance DTM, the CC will display the legend MAINT
+DTM INSTALLED as the DTM status and classified data will not be
+transferred to the maintenance DTM.
+
+/ MC /DTM \
+
+READ DTM MC
+
+MC - INHIBIT
+= INHIBIT
+
+MC /DTM
+DTM WRITE IN PROGRESS
+DIM MC PAGE 1
+
+OFP ID -INPROGRESS = PENDING
+
+= NO DATA -NO DATA
+READ = NO DATA -NO DATA
+
+- NO DATA -nopata WRITE
+DTM
+
+= NO DATA = NO DATA
+READ WRITE
+Al = NO DATA TA
+STATUS - NO DATA “ STATUS
+cai
+
+- PARTIAL XFER -
+
+Clolioions 7
+
+PAGE 2
+
+aril
+
+Ly NS Sas BRA CC BUF D
+oe" OPOTOTOioll «
+
+Figure D - 38. Maintenance DTM Write.
+
+D-55 AVI-5
+
+
+Text from AVI-5_OWS_VTRS__MC-DTM_page_62.jpeg:
+To check the status of the last write data transfer, select PB #14, WRITE
+STATUS (Figure D-39).
+
+ti
+
+READ DTM MC
+
+Mc A/AOPS - USE MC
+AIG OPS - USE MC
+HUD DATA —- NO DATA = NO DATA
+READ NAVDATA = - NODATA = NO DATA
+TF WARN - NO DATA -nopatA WRITE
+DTM INS
+
+OWS DATA = - NODATA = NO DATA
+
+ows DISP
+READ CAUTIONS — - NODATA -novata | WRITE
+STATUS ENGINE -NO DATA -NopaTta [STATUS
+
+cBIT - PARTIAL XFER  - PARTIAL XFER
+
+RDR CBIT
+
+BIT
+
+ROR IBIT
+
+AFCS
+
+GPS ALM
+
+TEWS BIT
+
+ICSLOG
+
+APITF
+
+SN/ETI
+
+EGILOG
+
+RWR LOG
+
+AVI-05-39
+
+Figure D - 39.
+
+AVI-5 D - 56
+
+
+Text from AVI-5_OWS_VTRS__MC-DTM_page_63.jpeg:
+QUESTIONS
+
+Which of the following displays does not provide a RCD cue on the
+MPD/MPCD?
+
+a. PACS
+b. TSD
+ec. HSI
+d. ADI
+
+Which of the following display combinations are incompatible for split
+screen recording?
+
+A/G RADAR and TGT IR
+
+A/G RADAR and TSD
+
+TSD and HUD/HUD REPEATER with NAV FLIR
+ADI and TSD
+
+pe op
+
+In the AUTO mode, if a missile is launched or GUNS is selected with
+a designated radar target inside 10 nm, recording is automatically
+accomplished for
+
+a. the appropriate MPD/MPCD.
+b. the HUD only.
+
+c. bombing events only.
+
+d. the RCP displays only.
+
+The UFC HUD Titling submenu is accessed from the
+
+Data 1 display.
+
+Data 2 display.
+
+Menu 1 display via the autopilot submenu.
+
+Menu 2 display via the present position keeping submenu.
+
+ao op
+
+D-57 AVI-5
+
+
+Text from AVI-5_OWS_VTRS__MC-DTM_page_64.jpeg:
+Nonprogrammed recording of the HUD title is accomplished by
+
+depressing the
+
+5.
+a.
+b.
+t.
+d.
+6.
+
+weapon release button in either cockpit.
+
+FCP trigger to the first detent or RCD button on any
+MPD/MPCD displaying the HUD repeater.
+
+HUD button on the MENU display.
+
+HUD title record button on the HUD title submenu from either
+cockpit.
+
+After selecting the READ option, transfer messages can appear.
+
+Which of the following is not a MC/DTM transfer message?
+
+cao op
+
+AVI-5
+
+IN PROGRESS
+PENDING
+
+NO XFER
+
+FILE NOT FOUND
+PARTIAL XFER
+
+
+Text from AVI-5_OWS_VTRS__MC-DTM_page_65.jpeg:
+ANSWERS
+
+D-59 AVI-5
+
+
+Text from AVI-5_OWS_VTRS__MC-DTM_page_66.jpeg:
+(This Page Intentionally Blank)
+
+AVI-5 D - 60
+
+
+Text from AVI-5_OWS_VTRS__MC-DTM_page_67.jpeg:
+ACC
+
+ASP
+
+BIT
+
+CC
+
+CFRS
+
+CFT
+
+DMS
+
+DTM
+
+FUS
+
+INS
+
+LTL
+
+MC
+
+MIT
+
+OVL
+
+OWS
+
+PACS
+
+PYL
+
+RTL
+
+SRD
+
+TOF
+
+VTRS
+
+GLOSSARY
+
+Acceleration
+
+Avionics status panel
+Built-in test
+
+Central computer
+Computerized fault reporting system
+Conformal fuel tanks
+Digital map system
+
+Data transfer module
+Fuselage
+
+Inertial navigation system
+Left tail boom
+
+Mission cartridge
+
+Mass items
+
+Percent of overload
+
+Overload warning system
+
+Programmable armament control system
+
+Pylons
+
+Right tail boom
+
+Spin recovery display
+Time of flight
+
+Video tape recorder set
+
+AVI-5
+
+
+Text from AVI-5_OWS_VTRS__MC-DTM_page_68.jpeg:
+WNG Wing
+
+(This Page Intentionally Blank)
+
+AVI-5 F-2
+
+
+Text from AVI-5_OWS_VTRS__MC-DTM_page_7.jpeg:
+TEXT
+OVERLOAD WARNING SYSTEM (OWS)
+Description
+
+The OWS gives the crew warnings that the maximum allowable G is being
+approached or has been exceeded. The OWS provides:
+
+@ A900 Hz intercom tone at 85% maximum allowable G (or 1 G below
+maximum allowable, whichever is lower), interrupted at a 4 Hz rate to
+produce a slow/single rate beeping sound.
+
+@ A900 Hz intercom tone at 92% maximum allowable G, interrupted at
+a 10 Hz rate to produce a fast/double rate beeping sound (about twice
+
+the initial rate).
+
+@ A voice warning heard at 100% maximum allowable G (“OVER G,
+OVER G”).
+
+@ A stored record of overloads at or above 85% maximum allowable G.
+
+D-1 AVI-5
+
+
+Text from AVI-5_OWS_VTRS__MC-DTM_page_8.jpeg:
+Operation
+
+The OWS is a central computer (CC) software program and as such, there
+is no OWS black box. The OWS receives and distributes data as shown in
+
+Figure D-1.
+EXCEEDANCE
+ADC / ADP FUEL QTY
+
+Ows
+MPD/MPCD ones Gite
+WARNING)
+AVI-05-01
+Figure D - 1.
+
+@ Inputs are processed by the CC and displayed on the HUD as current
+G and maximum allowable G.
+
+@ Overloads are stored in the CC memory and can be displayed on the
+MPD/MPCD OWS matrix display.
+
+The OWS is available as long as one main generator is on-line to power
+the CC. Any input system failure or malfunction results in the OWS
+shutting down or becoming unreliable. For example, if AIU 2 fails, OWS
+computations will not be made. Other input malfunctions such as ADC
+failure, fuel quantity malfunctions or trapped external fuel will render the
+OWS unreliable. In these cases, comply with the TO 1F-15E-1 non-OWS
+G limits.
+
+There is no OWS Built-In Test (BIT) because the avionics that provide
+
+inputs to the system have their own BIT. OWS operation is verified by
+ensuring that:
+
+AVI-5 D-2
+
+
+Text from AVI-5_OWS_VTRS__MC-DTM_page_9.jpeg:
+Systems that supply information to OWS are functioning properly.
+
+Reasonable current G and allowable G are displayed on the HUD
+(Figure D-2).
+
+The programmable armament control system (PACS) displays the
+actual aircraft configuration.
+
+OWS OPERATIVE
+
+NAV 12A
+N 22.6
+00:03:02 E
+
+MAX ALLOWABLE "G"
+CURRENT "G"
+
+OWS INOPERATIVE
+
+NAV 12A
+0.831 _- N 22.6
+
+2.2G OWOFF - os 00:03:02 E
+
+OWS SHUTDOWN
+
+CURRENT "G"
+
+AVI-05-02
+
+Figure D - 2.
+
+D-3 AVI-5
+
+

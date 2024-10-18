@@ -1,0 +1,1323 @@
+Text from AAM-4_Ground_Controlled_Intercepts_page_1.jpeg:
+SUPPORTS COURSES
+FIS5EBQ
+FISETX
+
+ACADEMIC STUDENT WORKBOOK
+F-15E
+
+AERIAL ATTACK MANEUVERING
+AAM-4
+GROUND CONTROLLED INTERCEPTS
+(GCI)
+FEBRUARY 1999
+
+(OFP N/A)
+
+AIR COMBAT COMMAND
+
+
+Text from AAM-4_Ground_Controlled_Intercepts_page_10.jpeg:
+The advantages of manual radars are that they are mobile and are excellent at the
+merge. Their disadvantages are limited range, limited low level coverage and
+susceptibility to electronic countermeasures.
+
+Automated Radars (SOCC/ROCC)
+
+Automated systems are usually located at major command centers. They receive and
+display radar/communications information in their area of responsibility or sector
+from various sources including manual radar sites and AWACS. Among their
+responsibilities and mission capabilities are high level command and control,
+establishment of a regional combined air picture and the evaluation of command
+threats. They also perform normal air-to-air control.
+
+Automated systems are operating or planned throughout the world. These systems
+include Sector Operating Control Centers (SOCCs) and Region Operating Control
+Centers (ROCC). You may recognize some of these by their call signs:
+
+SOCCs
+
+“Huntress” Griffiss AFB, NY
+
+“Bigfoot” McChord AFB, WA
+
+ROCC
+
+“Top Rock” Located at Elmendorf AFB, AK; “Top
+Rock” is responsible to
+Alaskan/NORAD region
+
+“Oak Grove” or “Cypress” Tyndall AFB, FL
+
+Since automated systems are comprised of a net of manual radar sites within their
+sector or area of responsibility, they provide a “Big Picture” capability for ACC, 11th
+Air Force and NORAD for strategic aerospace defense. The range of automated radar
+is the sum of the manual site locations. Each SOCC controls its own sector and
+collectively the SOCCs cover the entire continental United States and Canada.
+
+AAM-4 D-4
+
+
+Text from AAM-4_Ground_Controlled_Intercepts_page_11.jpeg:
+The computerized automatic tracking system tracks and displays large amounts of
+information; however, its digitized displays are not good for close-in control. These
+digitized displays can be as much as 5 miles off in range.
+
+In addition to standard radios these automated systems are equipped with digital
+information links which receive and combine data from AWACS and land based
+components. Automated radars are also HAVE QUICK capable.
+
+The advantages of automated radars are their long range, their command and control
+services and their resistance to electronic countermeasures. Their disadvantages are
+that they are poor at the merge, have limited low level coverage (radar input
+dependent), are computer dependent and are restricted to fixed locations.
+
+AWACS
+
+The airborne warning and control system (AWACS) is a mobile GCI site located
+inside a specially modified 707-320B designated the E-3. The AWACS provides
+radar coverage while ground sites are relocating or are otherwise out of service. The
+AWACS’s high perch behind the FEBA also provides a more advantageous view of
+the battle.
+
+The AWACS operates at around 30,000 feet MSL behind the FEBA. Depending on
+altitude, the AWACS can see fighter size, low altitude aircraft at more than 200 nm.
+Bomber size targets at altitude can be picked up in excess of 300 nm.
+
+The AWACS has a pulse/pulse doppler radar, which has very little ground
+interference. The AWACS’s electronic countermeasures resistance is enhanced by
+sidelobe suppression. The major disadvantage of the AWACS’s radar display is that
+data presented on the controller’s screen uses large computer generated symbols.
+These large symbols make working fighters inside 10 nm very difficult.
+
+D-5 AAM-4
+
+
+Text from AAM-4_Ground_Controlled_Intercepts_page_12.jpeg:
+The AWACS has a capability for ADF, secure voice, data link, HAVE QUICK and
+HF communications. Although the AWACS has a total of 14 radios, they are shared
+by the entire aircraft so the actual number of radios available for GCI varies. The
+number of frequencies available also varies with the level of HAVE QUICK used by
+the AWACS. HAVE QUICK originally used six of the twenty presets on a HAVE
+QUICK UHF radio and created some delay in changing working frequencies. Later
+versions freed up these frequencies and are much quicker to change. AWACS also
+provides a direct line to the command authorities at the CRC.
+
+The advantages of the AWACS are their long range surveillance, mobility, low
+altitude coverage and electronic countermeasures resistance. Their disadvantages are
+that they are limited at the merge, have limited communications and are
+aircraft/computer dependent.
+
+AAM-4 D-6
+
+
+Text from AAM-4_Ground_Controlled_Intercepts_page_13.jpeg:
+QUESTIONS
+
+What is the stateside role of GCI?
+
+What is the overseas role of GCI?
+
+What is the most forward TACS component?
+
+Where is it located?
+
+What is the major disadvantage of the AWACS’s radar display?
+
+D-7 AAM-4
+
+
+Text from AAM-4_Ground_Controlled_Intercepts_page_14.jpeg:
+ANSWERS
+
+1. | GCT’s stateside role is to detect and identify aircraft infringing upon U.S.
+airspace.
+
+2. | GCI’s overseas role is to assist in the offensive counter air tasks of sweep and
+force protection and in the defensive counter air tasks of force or base
+protection.
+
+3. | The forward most TACS component is the forward air control post (FACP).
+
+4. The FACP is located about 50 miles from the FEBA.
+
+5. | The major disadvantage of the AWACS’s radar display is that its displays use
+large computer generated symbols, which make working fighters inside of 10
+nm very difficult.
+
+AAM-4 D-8
+
+
+Text from AAM-4_Ground_Controlled_Intercepts_page_15.jpeg:
+AIRCREW/WEAPONS DIRECTOR RESPONSIBILITIES
+
+The interface between the WD and aircrew is based on some general assumptions that
+both of you must follow. You must know the wartime authentication process.
+Further, you must know theater and regional airspace control procedures. You must
+also know current tactics and capabilities of the threat. A complete understanding of
+the states of alert, the readiness and warning systems and the appropriate rules of
+engagement/training rules (ROE/TR) prepares you to use the system to its best
+advantage. Finally, you must be familiar with the capabilities and limitations of the
+communications, control facilities and other weapons systems that may be employed
+for accomplishment of the mission.
+
+Commit authority is subject to OPords/OPlans, command authority, ROE, commit
+criteria and force commander direction. The flight leader also has the authority to
+commit for the flight’s defense or when WD saturation dictates. In circumstances
+where the fighter initiates a commit, the flight will inform the WD and provide the
+WD with bearing and range to the target. When a flight informs a WD of a commit,
+the WD will check to ensure the commit is on an appropriate target, and assist as
+necessary. If the situation dictates that the commit be terminated, the WD will
+transmit “SKIP IT” and give appropriate directions. The “SKIP IT” call is directive,
+and the aircrew will disengage unless doing so will jeopardize the flight; in which
+case the aircrew will transmit “UNABLE.” (SKIP IT, UNABLE and other words
+shown in all capital letters are operational brevity codes. These codes are discussed
+later in the text and are listed in Appendix G of this workbook.)
+
+D-9 AAM-4
+
+
+Text from AAM-4_Ground_Controlled_Intercepts_page_16.jpeg:
+Continuum of Control
+
+The continuum of control, Figure D-2, covers five levels: close, tactical, broadcast,
+advisory and autonomous. There is no correlated format of target information to the
+level of control. Situational awareness (SA) determines where the aircrew or WD
+might be along the continuum. Transition between levels may occur rapidly and
+continuously throughout any mission. The continuum allows maximum use of both
+the aircrew’s and WD’s SA while minimizing missed weapons employment
+opportunities due to a fixed control structure.
+
+CLOSE
+CONTROL
+
+TACTICAL
+CONTROL
+
+BROADCAST
+CONTROL
+
+ADVISORY
+CONTROL
+
+AUTONOMOUS
+OPERATIONS
+
+TARGET AND COMMIT INFO
+PROVIDED TO SPECIFIC
+
+FLIGHTS
+
+TARGET INFO
+PROVIDED BUT
+NOT TO
+SPECIFIC
+FLIGHT
+
+RADAR TARGET
+INFO NOT
+AVAILABLE
+
+AND NOT
+PROVIDED
+
+COMMUNI-
+CATIONS
+
+NOT AVAILABLE.
+NO INFO OR
+CONTROL
+PASSED
+
+COMMAND
+VECTORS
+GUIDE AIR-
+CREW TO
+INTERCEPT
+
+AAM-4
+
+AIRCREW RESPONSIBLE FOR TACTICAL POSITIONING
+
+Figure D - 2. Continuum of Control.
+
+AAM-04-02
+
+
+Text from AAM-4_Ground_Controlled_Intercepts_page_17.jpeg:
+Regardless of the level of control the WD and aircrew have standard responsibilities.
+At all levels the WD must:
+
+provide a situation brief (PICTURE) as time permits;
+
+define the commit objective (KILL or ID);
+
+provide threat and potential threat information (numbers, formation,
+altitude, heading, speed);
+
+commit fighters on the highest priority target;
+
+monitor the intercept/engagement and provide vectors and/or bearing and
+range to the target in the event the fighter loses contact on the target; and
+monitor the area of responsibility for new targets, and, when necessary,
+skip the current engagement and recommit fighters to higher priority
+targets.
+
+At all control levels the aircrew must:
+
+position the aircraft and flight as necessary to accomplish the mission;
+acknowledge target information as the situation permits;
+
+notify the WD if contact is lost on a target being attacked;
+
+call previously unreported contacts (BRA report, i.e., bearing, range,
+altitude);
+
+report essential elements of information (EEI);
+
+report mission results;
+
+advise the WD of fighter status; and
+
+comply with WD directions to “SKIP IT” unless doing so will jeopardize
+the flight.
+
+D-11 AAM-4
+
+
+Text from AAM-4_Ground_Controlled_Intercepts_page_18.jpeg:
+Close Control
+
+Close control provides the greatest degree of WD control in the continuum. It can
+vary from simply providing intercept vectors to providing detailed control requiring
+specific altitude, speed and heading of the fighter. The use of this control may be
+dictated by the mission, or initiated by the aircrew. The aircrew requests detailed
+close control by transmitting “GO CLOSE CONTROL,” or, if only vectors are
+required, by transmitting “WECTORS.” The WD transmits “UNABLE” if unable to
+provide this control when requested.
+
+In addition to all of the applicable common tasks, the WD supplies vectors as briefed
+or based on appropriate tactics. Tactics used should be as briefed unless armament,
+environmental conditions, target altitude or ROE dictate the use of another tactic.
+Altitude, speed and direction are given, if necessary, for battle management or other
+command/control reasons. The aircrew completes all of the applicable common
+
+tasks, and then complies with WD directives, or requests “VECTORS.” Close control
+may be entered from another level of the continuum by transmitting “GO CLOSE
+CONTROL.”
+
+Close control dialog between a flight and GCI/AWACS might take this format:
+
+! Fighter call sign.
+
+! Objective (KILL or ID). Once this is acknowledged, it is not repeated
+unless it changes.
+
+! Target position is given in bearing and distance. Bearing is given in three
+digits “ZERO NINE ZERO,” and distance is given in whole numbers
+“TWENTY-TWO.” “ESTIMATE” is used if the information cannot be
+accurately determined. If a “BULLSEYE” or grid system is used, that
+information must also be included.
+
+! Target altitude is given in feet or in the AFTTP 3-1 bands, e.g., LOW,
+MEDIUM, HIGH, (see Appendix G).
+
+! Flight size and formation is given, e.g., “HEAVY, LINE ABREAST.”
+
+! Target heading/maneuver. Heading given in cardinal direction. Tactical
+maneuvers given in clear, concise transmissions: “BANDITS SPLIT,
+FLANKING.”
+
+! Threat type/role if known.
+
+! Other specific observations “SLOW,” “FAST.”
+
+AAM-4 D-12
+
+
+Text from AAM-4_Ground_Controlled_Intercepts_page_19.jpeg:
+Tactical Control
+
+Tactical control dialogue between a flight and the GCI/AWACS might sound like
+
+this:
+
+FIGHTER:
+
+GCI:
+
+FIGHTER:
+
+GCI:
+
+FIGHTER:
+
+GCI:
+
+FIGHTER:
+
+FIGHTER:
+
+GCI:
+
+FIGHTER:
+
+FIGHTER:
+
+“DRAGNET, EAGLE 01,”
+“ROGER, EAGLE 01, WHAT STATE?”
+
+“EAGLE 01 AS FRAGGED” or “EAGLE 01 4
+RADAR, 2 HEAT, GUN, 20 MINUTES.”
+
+“EAGLE 01, DRAGNET, KILL, ZERO NINE
+ZERO, FIFTY, MEDIUM, NORTH.”
+
+“AUTHENTICATE ALPHA BRAVO”
+“AUTHENTICATION CHARLIE”
+
+“EAGLE 01, COMMITTED, ZERO EIGHT
+ZERO, FORTY-FIVE, TWENTY-FIVE
+THOUSAND.” (BRA Report).
+
+“EAGLE 01, BANDIT BANDIT, FOX THREE.”
+
+“EAGLE 01, ADDITIONAL BOGEY, ONE
+TWO ZERO, SIXTY-FIVE, BEAMING.”
+
+“EAGLE 01.”
+
+“EAGLE 01, SPLASH, BOGEY DOPE.”
+
+D- 13 AAM-4
+
+
+Text from AAM-4_Ground_Controlled_Intercepts_page_2.jpeg:
+ADMINISTRATIVE INFORMATION
+This student workbook is designed to provide information on the F-15E, its systems
+and capabilities. It is not a sole source document, but is to be used in conjunction
+with other standard Air Force publications and technical manuals. If you find any
+differences between the material contained herein and other governing regulations,
+adhere to the regulations and notify the OPDR.
+
+Changes to this workbook are indicated with a heavy black line in the left margin.
+
+Forward recommendations for revision or change to 4 TS, SJAFB, NC 27531.
+
+Supersedes: AAM-4, July, 1998
+
+OPDR: 4 TS
+
+Index of Changes
+
+Change # Effective Date Pages Affected
+
+
+
+Text from AAM-4_Ground_Controlled_Intercepts_page_20.jpeg:
+Tactical control enables maximum use of aircrew and WD radar SA to accomplish the
+mission. The WD is not responsible for vectors or intercept geometry. Tactical
+control provides the aircrew with target information and commit objective. This is
+the standard employment level for operational and training missions.
+
+Aircrew procedures: Communicate to support the SA of all players. Keep the WD
+informed of status and intentions. Call sign usage is critical.
+
+WD procedures: Keep aircrews informed on all situations affecting their mission or
+execution. Listen.
+
+Broadcast Control
+
+Broadcast control is a means for WDs to support air operations in a covert, saturated
+or low SA environment. It is informative and not directive in nature. Target
+information is not addressed to a specific aircrew and is passed by referencing a
+designated location or grid system. Upon implementation, aircrews should call when
+committing, using the BULLSEYE or grid system reference, to enhance the
+coordination among fighters on the same frequency.
+
+Broadcast control information is prioritized in the following order:
+
+! Track designation, e.g., BANDIT, BOGEY, GROUP,
+
+! The reference system in use, e.g., BULLSEYE, a geographic reference or a
+grid name,
+
+! The bearing and range from reference to target,
+
+! Target heading,
+
+! The estimated number of targets if applicable or known.
+
+When transmitted, this information might sound like, “BANDIT; BULLSEYE; TWO
+FIVE ZERO, TWENTY; NORTHWEST; HEAVY.”
+
+AAM-4 D-14
+
+
+Text from AAM-4_Ground_Controlled_Intercepts_page_21.jpeg:
+A grid system is another reference system used in some theaters. The information is
+the same as for other types of broadcast control. However, the area designator and
+grid sub-sector replace BULLSEYE information. An example on broadcast control
+using a grid system is shown in Figure D-3.
+
+WACO AREA
+
+AREA DESIGNATOR
+AND SUBSECTOR
+REPLACE "BULLSEYE"
+
+"BANDIT; WACO; FIVE ALPHA; SOUTH"
+
+AAM-04-03
+
+Figure D - 3. Grid Reference.
+
+D-15 AAM-4
+
+
+Text from AAM-4_Ground_Controlled_Intercepts_page_22.jpeg:
+Advisory Control
+
+If the controlling agency loses their radar, shuts down their radar to avoid attack, loses
+effectiveness due to countermeasures, or the fighters are outside radar coverage, the
+WD goes to advisory control. Advisory control is a radio monitoring mode where the
+WD maintains communications with aircrews either directly, through a radio relay or
+through another agency or facility. Advisory control allows command authorities to
+monitor the air battle, manage fighter flow, pass intelligence, direct aircraft and move
+CAPs. The WD indicates that he is operating in the advisory control mode by
+transmitting “MIDNIGHT, MIDNIGHT.” The WD still passes available information
+on threats, friendly forces, command decisions and other information requested by the
+aircrews when able. As in broadcast control, aircrews are responsible for calling
+“CONTACT,” “COMMIT” and “ENGAGED,” to keep the WD and other fighters
+informed.
+
+Autonomous Control
+
+Autonomous control is used any time the aircrew cannot receive information or
+guidance from the controlling agency. This may occur when communications are
+lost, degraded or when the fighters are operating outside of the radio coverage.
+During autonomous control, which is not preplanned, both the aircrew and WD are
+responsible for attempting to reestablish communications and continue making calls
+in the blind until communications are reestablished.
+
+Control Considerations
+
+When the aircrew/flight lead checks in, regardless of the level of control, he contacts
+the GCI net with his call sign and any deviations/aborts that will affect the fragged
+(scheduled) mission. The WD then authenticates (if necessary), and provides a
+working frequency to the aircrew. This is also time to give situation briefs
+(PICTURE) and IFF/SIF checks. The working WD will be on the working frequency.
+The working WD needs to know your armamentByou can respond by giving “as
+FRAGGED,” if your armament load is the same as what was briefed for the mission.
+If your armament is other than what was briefed, you should give the number of each
+type of missile using RADAR and HEAT as appropriate to indicate the type of
+missile. RADAR indicates AIM-120 or AIM-7 and HEAT indicates AIM-9 missiles.
+You do not need to report the number of 20mm rounds on board, if you have enough
+20mm to “COMMIT,” then just state “GUN.”
+
+AAM-4 D - 16
+
+
+Text from AAM-4_Ground_Controlled_Intercepts_page_23.jpeg:
+Finally, give your fuel state in time on station (in minutes). An initial check-in should
+sound like this:
+
+Fit Lead: “DRAGNET, BRUTE 21, 160 AT 60 OFF SEYMOUR
+JOHNSON.”
+GCI: “ROGER BRUTE 21, DRAGNET HAS RADAR
+
+CONTACT. WHAT STATE?”
+
+Fit Lead: “BRUTE 21, LEAD HAS 4 RADAR, 4 HEAT, GUN,
+PLUS 50 MINUTES.”
+
+Return to base (RTB) procedures are the same regardless of the type of control used.
+The type of conflict and theater of operations determine the controlling agency’s
+priorities and the urgency of recovering fighter aircraft. On initial contact with the
+controlling agency, aircrew will give their call sign and recovery base. As conditions
+permit, the WD then provides recovery instructions to include base status, copies
+in-flight reports, assists in minimum risk procedures and accomplishes a hand-off to
+the receiving agency.
+
+D-17 AAM-4
+
+
+Text from AAM-4_Ground_Controlled_Intercepts_page_24.jpeg:
+QUESTIONS
+
+1. | Which type of control provides the greatest degree of control in the continuum?
+
+2. How does tactical control differ from close control?
+
+3. | What type of control uses a designated location, series of locations, or a grid
+system as a means of passing target information?
+
+4. When is advisory control used?
+
+5. | How does the WD inform you that advisory control is in effect?
+
+6. | When do you use autonomous control?
+
+AAM-4 D-18
+
+
+Text from AAM-4_Ground_Controlled_Intercepts_page_25.jpeg:
+ANSWERS
+Close control
+
+In tactical control aircrews are provided with target information and commit
+objectives, but not vectors.
+
+Broadcast control
+Advisory control is a radio monitor mode used when the controlling agency
+loses radar, shuts down radar to avoid attack, loses effectiveness due to
+
+countermeasures or the fighters are outside radar coverage.
+
+The WD informs you that advisory control is in effect by transmitting
+“MIDNIGHT, MIDNIGHT.”
+
+You use autonomous control anytime that you cannot receive information or
+guidance from the controlling agency.
+
+D-19 AAM-4
+
+
+Text from AAM-4_Ground_Controlled_Intercepts_page_26.jpeg:
+OPERATIONAL BREVITY CODE
+
+The operational brevity words in AFTTP 3-1, Volume 1 are the baseline for
+communication procedures. This code is a collection of succinct phrases or
+individual words used to convey a more complex message in the tactical environment.
+It is important that you have a working knowledge of the brevity code that is found in
+AFTTP 3-1. Here are some examples:
+
+BENT Identified system inoperative
+BUZZER Electronic communications jamming
+FADED Previous radar contact is lost
+GADGET Fire control radar
+
+HOLDING HANDS Aircraft are in visual formation
+
+LOW Target altitude below 10,000 feet AGL
+SNAP Request for immediate vector to target
+
+GCI/aircrew communications join these words, e.g., BENT GADGET means
+inoperable radar. A GCI conversation using the brevity codes might sound like this:
+
+GCI: EAGLE 21 WHAT STATE?
+(Translation - What type and how much
+ordnance and fuel do you have left?)
+
+Aircrew: EAGLE 21 IS WINCHESTER, BINGO, AND
+RTB!
+(Translation - I do not have anymore radar
+missiles, heat seeking missiles or bullets. If I
+stay here another five minutes I will run out of
+gas and have to walk out; Iam going home!)
+
+AAM-4 D - 20
+
+
+Text from AAM-4_Ground_Controlled_Intercepts_page_27.jpeg:
+A directive commentary (from WD during close control) or set of standard phrases
+are used with some brevity codes, for example:
+
+Heading is given as “VECTOR XXX” in three digits.
+
+Altitude is “MAINTAIN FLIGHT LEVEL.”
+
+Speed is “MAINTAIN MACH POINT X” in Mach number.
+
+Geometry selection, if given, will be “CUTOFF” (fastest course to target),
+“STERN?” (roll out behind target), or “PURSUIT” (heading to bogey).
+
+! Turn direction: Left or Right.
+
+|
+!
+!
+I
+
+In combat, communication with GCI is critical; it must be clear, concise and to the
+point. By using the brevity code, you say it all.
+
+“EAGLE 01, CONTACT, ZERO NINE ZERO, TWENTY-ONE, 33,000,
+BEAM, WEST.”
+
+D-21 AAM-4
+
+
+Text from AAM-4_Ground_Controlled_Intercepts_page_28.jpeg:
+QUESTIONS
+
+1. | What is the purpose of the operational brevity code?
+
+2. Using the operational brevity code in section G of this workbook, what is the
+translation of “CONTACT GORILLA LOW?”
+
+AAM-4 D - 22
+
+
+Text from AAM-4_Ground_Controlled_Intercepts_page_29.jpeg:
+ANSWERS
+
+The operational brevity code provides succinct phrases or individual words to
+convey a more complex message in a tactical environment.
+
+Radar contact on a large force of indeterminable numbers and formation below
+10,000 feet AGL.
+
+D - 23 AAM-4
+
+
+Text from AAM-4_Ground_Controlled_Intercepts_page_3.jpeg:
+AERIAL ATTACK MANEUVERING
+
+COVER
+
+GROUND CONTROLLED INTERCEPTS (GCI
+
+INTRODUCTION
+
+This workbook is your guide to an understanding of the radar systems available to aid
+
+you in the intercept environment. It covers how GCI and AWACS can provide
+
+various amounts of information, procedures and responsibilities you need to know to
+
+maximize effectiveness.
+
+CONTENTS:
+
+INTRODUCTION |... cee ceececesceeneeceaecnseeesaeesaaecaecseeesaeesaeessaesnseesseeeeaeeenaeens A-1
+CRITERION REFERENCED OBJECTIVES (CRO) ...... eee eeceeeeeeeeereeeneeees B-1
+STUDENT PREPARATION REQUIREMENTS 0.0... cece esseceeeeeeeeeeneeenaeens C-1
+TEXT oo eee cccccceseceesseeeesaeeeesaeesesaecessaecsesaecesasecessaecessescesaeeceseescsseeecseescseeeesaes D-1
+END OP TEXT QUIZ... ieee ceecceeseeenceceaecneeeseneesaaecsaecsseesseeesaaecaeeneenseeenaaees E-1
+GLOSSARY oo. eecceeceeeceescecseeeseeeseeecsaecaecnseessseeesuecuaeceeeseneecsaecaeeeseessaaesaeenaeenees F-1
+HANDOUT 000 eee ececssecnnecnseeesseecaaeceaeenseeesaeesaaecsaecseessaeesaeecuecnseesseeeeaeeenaeens G-1
+
+AAM-4
+
+
+Text from AAM-4_Ground_Controlled_Intercepts_page_30.jpeg:
+AIR-TO-AIR TRAINING RULES
+Brief and Debrief Requirements
+
+For normal day-to-day training, briefings and debriefings will be accomplished
+face-to-face. When face-to-face briefings and debriefings are either not practical or
+possible, telephonic briefings must be conducted. When circumstances prevent
+face-to-face or telephonic briefings, airborne briefings may be conducted.
+MAJCOMs may authorize alternate briefing procedures for unusual circumstances.
+
+Face-to-face and telephonic briefings should cover the items in the air-to-air
+coordination/briefing guide shown in AFI 11-214. The briefing should include, but is
+not limited to: working area, scenario, tactics, training rules, “KNOCK-IT-OFP”
+criteria, alternate missions, rendezvous and emergencies.
+
+Debriefings will critically assess mission execution. Debriefings are also a very good
+place to discuss expanding/changing roles with the WDs to increase their awareness
+of air-to-air operations.
+
+Airspace
+Training will be conducted in designated airspace. Avoiding lateral airspace spillouts
+is a joint WD/aircrew responsibility. Avoiding vertical spillouts is the sole
+
+responsibility of the aircrew. Supersonic flight will only be accomplished in
+designated supersonic areas.
+
+AAM-4 D-24
+
+
+Text from AAM-4_Ground_Controlled_Intercepts_page_31.jpeg:
+Training Responsibilities
+
+The WD is responsible for advising aircrews of any previously unreported aircraft
+within 10 miles that are a potential hazard. This information should include the
+bearing, range, heading and altitude of the aircraft (if available). The WD must also
+advise the aircrew any time that the controlling agency cannot support at least
+broadcast control, in which case the aircrew may elect to continue the attack provided
+he can provide safe separation. The WD is also responsible for making periodic
+“CHECK FUEL” advisories to assist aircrews in fuel awareness. The WD advises the
+aircrew when approaching airspace boundaries and provides other pertinent
+information, such as airspace changes, weather in the working areas, and system
+degrades. Unless prebriefed to the contrary the WD will make the following calls:
+
+! Vectors to position aircraft to set up activity.
+! Advise aircrews of Minimum Safe Altitude (MSA).
+! A range call at 10 nm from any merge.
+
+The aircrew is responsible for acknowledging all WD airspace and safety-related calls
+and staying within the confines of the designated training area.
+
+Training Rules
+
+Training rules (previously called ROE or training ROE) are peacetime rules,
+procedures and standards governing air-to-air training that, when violated, jeopardize
+flight safety. They should not be confused with rules of engagement which are
+specific constraints applicable to operational real-world peacetime, wartime and/or
+contingency mission employment. Training rules are listed in AFI 11-214. Rules of
+engagement are found in OPlans, contingency plans or other operational documents.
+
+Separation of Aircraft
+
+Hard altitudes or altitude blocks will be assigned to provide vertical separation for
+nonvisual setups. A minimum of 1000 feet vertical separation (500 feet vertical
+separation below 5000 feet AGL) between altitude blocks is required.
+
+D-25 AAM-4
+
+
+Text from AAM-4_Ground_Controlled_Intercepts_page_32.jpeg:
+Fighters may not transit or enter the altitude block of any adversary unless the
+adversary is:
+
+!
+!
+
+beyond 10 nm;
+
+within 10 nm, but not a conflict (i.e., collision potential), based on
+situational awareness;
+
+in visual contact; or
+
+fighter verbally confirms the adversary’s altitude and maintains required
+vertical separation. Each participant must use “see and avoid” techniques
+to ensure his flight path is clear. Any attacker losing sight will maneuver
+away from the defender’s last known position. If a defender loses sight
+and SA, he will maneuver predictably.
+
+No friendly aircraft will be maneuvered within minimum range of another friendly
+aircraft. Minimum range is found in MAJCOM or service directives.
+
+Termination criteria listed in AFI 11-214 apply to air-to-air training. MAJCOM
+supplements address specific separation requirements for day and night/weather
+operations. The following are examples of termination criteria:
+
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+
+AAM-4
+
+Drift to area boundary
+
+Strangers become a factor
+
+Minimum altitude/clouds approached
+Maneuvering limits are reached
+
+Engaged aircraft begins air-to-surface delivery
+Attacker becomes defensive at low altitude
+Situational awareness is lost
+
+Radio failure is recognized
+
+Any aircraft rocks its wings
+
+Desired learning objective is achieved
+Stalemate occurs
+
+A dangerous situation is developing
+Minimum/BINGO fuel is reached
+
+Over-G occurs
+
+“Knock-it-off’ or “Terminate” is called
+
+
+Text from AAM-4_Ground_Controlled_Intercepts_page_33.jpeg:
+Terminate Versus Knock-it-off
+
+Terminate and knock-it-off mean the same thing, but they vary in scope. Terminate
+applies to an individual aircraft or flight, but knock-it-off applies to all participants. If
+any flight member, WD or ACMI RTO perceives a flight safety hazard, the call
+“knock-it-off” will be made, at which time all participants will cease maneuvering
+
+and acknowledge with a call sign. If any participant wants an individual aircraft or
+flight to cease maneuvering, clearly identify the aircraft or flight and transmit
+“TERMINATE,” followed by a wing rock if conditions permit. The aircraft/flight
+will stop maneuvering and acknowledge with a radio call and wing rock if conditions
+permit. If any doubt or confusion exists, or safety is jeopardized, use a
+“KNOCK-IT-OFF” call so that all participants will immediately cease maneuvering.
+
+D-27 AAM-4
+
+
+Text from AAM-4_Ground_Controlled_Intercepts_page_34.jpeg:
+QUESTIONS
+
+1. | What is the preferred form of briefing/debriefing?
+
+2. How do training rules differ from ROE?
+
+AAM-4 D - 28
+
+
+Text from AAM-4_Ground_Controlled_Intercepts_page_35.jpeg:
+ANSWERS
+Face-to-face is the preferred form of briefing/debriefing.
+Training rules are peacetime rules, procedures, and standards governing
+air-to-air training that, when violated, jeopardize flight safety; but rules of
+
+engagement are specific constraints applicable to operational real-world
+peacetime, wartime and/or contingency mission employment.
+
+D - 29 AAM-4
+
+
+Text from AAM-4_Ground_Controlled_Intercepts_page_36.jpeg:
+MANEUVERING CATEGORIES
+
+To ensure flight safety, a specific level of maneuvering is used to comply with
+training rules. There are four maneuvering categories listed in AFI 11-214 for use
+during air-to-air training missions. These categories are unlimited, limited, restricted
+and nonmaneuvering.
+
+Unlimited
+
+In the unlimited category there are no restrictions except those of the aircraft flight
+manual operational limits. Unlimited maneuvering requires you to be above 5000 feet
+AGL in day VMC with a discernible horizon.
+
+Limited
+
+During day visual air-to-air operations when descending below 5000’ AGL or
+conducting operations below 5000’ AGL, limited is the maximum maneuvering
+category. Limited maneuvering is to be used at night or if encountering weather not
+meeting cloud clearance or horizon requirement. Limited maneuvering is the same as
+unlimited except for the following constraints:
+
+! A defender may react to an attacker with an extension/separation and/or
+turn not to exceed 180° after the attacker crosses the defender’s 3/9 line.
+
+! Attackers engaging each other may turn 180° maximum in an attempt to
+shoot each other.
+
+! Attackers engaging defenders may turn until the defender terminates the
+engagement, a kill is achieved or the defender turns 180°.
+
+Restricted
+
+Restricted maneuvering allows you to make heading changes of up to 60° either side
+of course.
+
+Nonmaneuvering
+Nonmaneuvering requires that you maintain a constant heading, airspeed and altitude.
+
+Maximum maneuvering during air-to-air training is based on meteorological
+conditions (day/night/weather), altitude and configuration.
+
+AAM-4 D - 30
+
+
+Text from AAM-4_Ground_Controlled_Intercepts_page_37.jpeg:
+QUESTIONS
+
+What are your restrictions when operating in the unlimited maneuvering
+category?
+
+Limited maneuvering applies when you are operating below feet
+AGL or at night or in weather.
+
+Which maneuvering category allows you to make heading changes of up to 60°
+either side of course?
+
+Which maneuvering category requires that you maintain a constant heading,
+airspeed and altitude?
+
+D-31 AAM-4
+
+
+Text from AAM-4_Ground_Controlled_Intercepts_page_38.jpeg:
+ANSWERS
+
+1. There are no restrictions except those of the aircraft flight manual and AFI 11
+series operational limits.
+
+2. 5000
+3. Restricted
+
+4. Nonmaneuvering
+
+AAM-4 D - 32
+
+
+Text from AAM-4_Ground_Controlled_Intercepts_page_39.jpeg:
+END OF TEXT QUIZ
+
+In questions | - 8, match the definition to the term below.
+
+1.  _ BENT a. Previous radar contact lost.
+2. _ KILL b. — Aircrew will complete the intercept.
+3. __ WHAT STATE c. | Request immediate vector to target.
+4.  __ SNAP d. Height of friendly aircraft in thousands of feet.
+5. __ FADED e. Report amounts of fuel/or armament.
+6. —_ ANGELS f. Target altitude is estimated between 10,000
+feet AGL and 25,000 feet MSL.
+7.  __ MEDIUM
+g. Commit on target, cleared to fire.
+8. _ JUDY
+h. | Request for bearing and range to prebriefed
+target.
+1. Direction for pilots to prepare for combat.
+j. Identified system inoperative.
+
+9. The primary disadvantage of the AWACS is that
+
+the aircraft is too big in a tactical situation.
+
+ECM resistance is degraded.
+
+escort requirements take valuable air assets from the air battle.
+it has poor resolution of fighters inside of 10 nm.
+
+ao Tp
+
+E-1 AAM-4
+
+
+Text from AAM-4_Ground_Controlled_Intercepts_page_4.jpeg:
+CRITERION REFERENCED OBJECTIVES (CROs)
+1. Identify GCI/AWACS capabilities and limitations.
+
+2. Identify aircrew/weapons director responsibilities in a GC/AWACS
+environment.
+
+3. Match selected brevity code words with their meanings.
+4. Identify separation and termination criteria for training.
+
+5. Identify the maneuvering categories for air-to-air training.
+
+AAM-4 B-1
+
+
+Text from AAM-4_Ground_Controlled_Intercepts_page_40.jpeg:
+10. The FACP is at the end of the C? chain and, as such,
+
+there is a long delay between commit and clearance to fire.
+
+is your link with the command authorities.
+
+must patch calls through the CRC to reach the battlefield commander.
+has a short range, aerial surveillance radar that will be on the FEBA.
+
+ao TP
+
+11. The TPS 75 radar, in use by some portions of the Tactical Air Control System
+
+(TACS),
+
+a. includes a planar array antenna.
+
+b. is always a fixed, permanent site.
+
+c. is an over the horizon radar used to acquire ballistic missiles.
+d. has an excellent low altitude capability.
+
+12. During tactical control, the WD
+
+has few responsibilities since the fighters take over the tactical control.
+uses command vectors to guide the fighters to the intercept.
+
+provides fighters with target information and commit objectives.
+usually uses a grid reference for getting information to fighters.
+
+ao Tp
+
+13. After hearing the call, “MIDNIGHT, MIDNIGHT,” the flight lead
+
+a. commits his flight on his own authority while making “CONTACT,”
+“COMMIT” and “ENGAGED” calls over the radio.
+
+b. contacts other flight leads on frequency to discuss commit priority, since
+the GCI site is radio out and cannot help.
+
+c. prepares his flight for night operations.
+
+d. transitions to the broadcast control reference point system.
+
+AAM-4 E-2
+
+
+Text from AAM-4_Ground_Controlled_Intercepts_page_41.jpeg:
+14.
+
+15.
+
+16.
+
+lige
+
+During broadcast control,
+
+the WD provides target and commit specific information to flights.
+
+the WD usually makes BOGEY/BANDIT calls with reference to
+BULLSEYE or grid reference.
+
+the WD does not go to tactical or close control unless the fighter demands
+it even if the task load permits.
+
+all radio communications reference BULLSEYE.
+
+Fighters may not transit/enter the altitude/altitude block of any adversary unless
+the adversary is
+
+ao FP
+
+beyond 10 nm.
+
+within 10 nm but not a factor.
+
+in visual contact.
+
+beyond 10 nm, within 10 nm but not a factor or in visual contact.
+
+The category which cannot be used at night is
+
+ao FP
+
+unlimited.
+limited.
+restricted.
+nonmaneuvering.
+
+Which of the following is not a constraint during limited maneuvering?
+
+©
+
+A defender may react to an attacker with an extension/separation and/or
+turn not to exceed 180°.
+
+Attackers engaging each other may turn 180° maximum in an attempt to
+shoot each other.
+
+Heading changes of 90° are not allowed below 1000 feet AGL.
+Attackers engaging defenders may turn until the defender terminates the
+engagement, a kill is achieved or the defender turns 180°.
+
+E-3 AAM-4
+
+
+Text from AAM-4_Ground_Controlled_Intercepts_page_42.jpeg:
+(This Page Intentionally Blank)
+
+AAM-4 E-4
+
+
+Text from AAM-4_Ground_Controlled_Intercepts_page_43.jpeg:
+GLOSSARY
+
+AWACS | Airborne warning and control system
+CRC Control and reporting center
+CRP Control reporting center
+
+DCA Defensive counter air
+
+EEI Essential elements of information
+FACP Forward air control post
+
+FEBA Forward edge of battle area
+
+GCI Ground control intercept
+
+OCA Offensive counter air
+
+ROCC Region operating control centers
+ROE Rules of engagement
+
+RTB Return to base
+
+SA Situational awareness
+
+SOCC Sector operating control centers
+TACS Tactical air control system
+
+TAF Tactical Air Force
+
+TR Training rules
+
+WD Weapons director
+
+AAM-4
+
+
+Text from AAM-4_Ground_Controlled_Intercepts_page_44.jpeg:
+(This Page Intentionally Blank)
+
+AAM-4 F-2
+
+
+Text from AAM-4_Ground_Controlled_Intercepts_page_45.jpeg:
+Appendix G contains a copy of the brevity list found in AFTTP 3-1, Volume 1,
+Attachment 1, dated 21 December 1996, Operational Brevity Words and Terminology.
+
+G-1 AAM-4
+
+
+Text from AAM-4_Ground_Controlled_Intercepts_page_46.jpeg:
+(This Page Intentionally Blank)
+
+AAM-4 G-2
+
+
+Text from AAM-4_Ground_Controlled_Intercepts_page_47.jpeg:
+BACK PAGE
+COVER SHEET
+
+
+Text from AAM-4_Ground_Controlled_Intercepts_page_5.jpeg:
+STUDENT PREPARATION REQUIREMENTS
+BEFORE CLASS
+1. Read AFI 11-214, chapters 2, 3 and paragraphs 5-1 and 5-2 of chapter 5.
+
+2. Study the information contained in this workbook and complete the End of Text
+
+Quiz.
+
+NOTE
+
+Section H contains a list of Operational Brevity words from AFTTP 3-1 anda
+standard communication calls guide.
+
+AAM-4
+
+
+Text from AAM-4_Ground_Controlled_Intercepts_page_6.jpeg:
+(This Page Intentionally Blank)
+
+AAM-4 C-2
+
+
+Text from AAM-4_Ground_Controlled_Intercepts_page_7.jpeg:
+TEXT
+
+This lesson is your guide to the radar systems available to you in the intercept
+environment. It describes GCI and AWACS and the various amounts of information
+they provide, and then discusses AFI 11-214 procedures and responsibilities you and
+the GCI/AWACS weapons director (WD) need to know to achieve maximum
+effectiveness. Next, it discusses the language of GCI, the operational brevity code
+system, which allows you to communicate complex ideas with short code words.
+Lastly, it discusses the separation and termination criteria and maneuvering categories
+used both in practice and real intercepts.
+
+GCI/AWACS CAPABILITIES AND LIMITATIONS
+
+There are several types of ground control intercept (GCI) operations as well as
+airborne warning and control system (AWACS). They range from a single manual
+radar site to sophisticated automated systems. GCI moves with the battle so that you
+always have radar support. As the forward edge of battle area (FEBA) moves, GCI
+units are repositioned in a leapfrog fashion with other GCI units or with AWACS
+support to provide continuous radar coverage. Figure D-1 shows an example of how
+a tactical air control system (TACS), one of the many types of GCI, might operate in a
+wartime environment.
+
+ie
+aa AWACS
+
+CRP
+(CONTROL REPORTING POST) AAM-04-01
+
+Figure D - 1. Tactical Air Control System.
+
+D-1 AAM-4
+
+
+Text from AAM-4_Ground_Controlled_Intercepts_page_8.jpeg:
+GCI operations are the same regardless of whether you are talking to GCI or the
+AWACS. They all employ relatively long-range radars to build the “big picture” of
+the air-to-air operation. GCI/AWACS is normally the aircrew’s link to the command
+authority. Information is passed to and from the command and control authority, and
+is used to direct and control aircraft movement depending on the air order of battle.
+Since the most effective method of employing fighter aircraft is to optimize the
+interface of command and control, our ultimate goal is to make the GCI weapons
+director (WD) a “phantom wingman,” as well as a link with the command and control
+authority.
+
+In many cases, the WD can sort out friendlies from enemies, has direct contact with
+the command authority, and can pass current intelligence and command decisions
+rapidly. As you practice intercepts, the WDs are also improving their skills and
+training. During mission debriefs it is important that you communicate both problems
+and praise in critiquing your intercepts. In this way GCI WDs will get to know when
+you are most vulnerable, when you need more information, what type information you
+need and what tactics and techniques work best to accomplish the mission.
+
+GCI=s Mission
+
+GCI sites are designed to provide radar surveillance and threat warning over a specific
+area. Within this area, GCIs are also tasked to expedite the rendezvous between
+fighters and tankers, as well as provide intercept control and monitoring. Stateside,
+GCl=s air defense role is to detect and identify aircraft infringing upon U.S. airspace.
+This enables the air defense system to intercept and, if required, destroy intruding
+aircraft. Overseas GCI roles include assisting in the offensive counter air (OCA)
+tasks of sweep and force protection, and in the defensive counter air (DCA) tasks of
+force or base protection.
+
+GCI Procedures
+
+AFI 11-214 provides procedures for air-to-air and air-to-surface operations and
+training. It is the single source document for all tactical air forces (TAFs) for those
+procedures and is supplemented by each command. It also lays out the interface
+between the WD and the aircrew. Finally, there is a glossary of terms in the
+appendices that are often used in daily contact with GCI. This glossary is extracted
+from AFTTP 3-1, Vol 1.
+
+AAM-4 D-2
+
+
+Text from AAM-4_Ground_Controlled_Intercepts_page_9.jpeg:
+GCI/AWACS Comparison
+
+Manual Radars
+
+There are many types of manual radar systems deployed throughout the world using
+hardened sites as well as mobile radars. These radars make up the tactical air control
+system (TACS), (see Figure D-1,) which is a mobile command and control system.
+TACS, due to its flexibility, permits tailoring to large or small scale operation in
+varying warfare intensities and is capable of operating close to the forward edge of the
+battle area (FEBA). Presently, most ground components of the TACS use the mobile
+TPS 75 planar array radar.
+
+GCI sites may be permanent or mobile depending upon the site’s main mission.
+Hardened sites are used for defense of our borders, major commands and anywhere
+else that permanence is required. Because of their design, hardened sites are limited
+to their location and static area of coverage. The mobile units are positioned as
+needed for the battle. The most forward TACS component is the forward air control
+post (FACP) which is a mobile unit located about 50 miles from the FEBA. The
+command authorities will be in the control and reporting center (CRC), about 200
+miles from the FEBA.
+
+Manual sites have a practical range of 240 nm. Since radar is line of sight, the
+minimum altitude that targets can be seen is dependent upon the type of intervening
+terrain.
+
+Manual radar has a beam width of about 1.5°, and some sites only track in azimuth
+and range. Azimuth resolution is 3°, and altitude resolution, if available, could be in
+error as much as V2000 feet at 100 nm and V3000 feet at 175 nm. Due to the radar’s
+500-foot range resolution, the radar is very good at discriminating two targets within
+10 nm of each other, and is usually workable to 1 nm. This radar has a built-in delay
+or error, which is the result of the radar antenna’s 6 rpm rotation. Each 360° sweep
+takes 10 seconds which produces a 2 to 3 nm lag in the target’s positioning, when
+called to the fighter.
+
+The FACP is the last link in the command, control and communication (C’) chain.
+However, they do have an extensive UHF/VHF/HF link to the command authority.
+
+D-3 AAM-4
+
+

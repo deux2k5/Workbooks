@@ -1,0 +1,624 @@
+Text from LAN-5_TFR_Controls_and_Displays_page_1.jpeg:
+SUPPORTS COURSES
+FIS5EBQ
+
+FISETX
+
+FISESOC
+
+ACADEMIC STUDENT WORKBOOK
+F-15E
+
+LANTIRN
+LAN-S5
+TFR CONTROLS AND DISPLAYS
+
+JUNE 1999
+
+(SUITE 3 OFP)
+
+AIR COMBAT COMMAND
+
+
+Text from LAN-5_TFR_Controls_and_Displays_page_10.jpeg:
+v-d G-NV'I
+
+‘Joueg Sys] Atostapy/UorneD/sulmIeM GOW ‘p - C eansiy
+
+v0-S0-NV1
+
+oe! N39AXO auv14 ASWHO | Sv ON, | uvaTONN [ wor rans awisina || Na9u N39 7 ola 6 TW AL | 1sao wvs
+YLsSW
+
+[woruonl wav EG | aaa JHOId
+"AV Tasia || WAWININ |] W3o0ud | iw | walevid Lig AV ind GAH SNIONS tw mot |] 2env5. || autrona
+
+“UALS
+STY} JO UOT}ISOd 94} JO sserpreser ‘potqeus skemye ore sdndqj ‘Vy, ojne UT
+LON
+UMS ofqeug dnéjyq “g - G ernst y
+€0-S0-NV1
+HOLIMS AT1EVNA
+dNAld dds
+no | [
+
+aavNa | <I
+
+dn Ald
+
+
+
+Text from LAN-5_TFR_Controls_and_Displays_page_11.jpeg:
+TF Couple Switch
+
+The TF couple switch (Figure D-5), located on the CAS panel, is a
+two-position over-center toggle switch. It is used to select auto TF (ATF)
+by coupling the terrain following climb/dive commands to the automatic
+flight control system (AFCS). Switch positions are:
+
+OFF Automatic terrain following is not activated.
+
+COUPLE Couples the TF system to the autopilot. Basic
+autopilot is automatically engaged.
+
+O
+
+LAN-05-05
+
+Figure D - 5. CAS Panel.
+
+
+Text from LAN-5_TFR_Controls_and_Displays_page_12.jpeg:
+Paddle Switch
+
+Located at the base of each control stick, the paddle switch (Figure D-6) is
+a two-position switch, spring-loaded to off. When airborne, depressing and
+holding the paddle switch returns the system to unarmed manual TF from
+auto or armed manual TF. It also disengages the auto flyup, and
+disengages the steer mode in use, if one is coupled.
+
+LAN-05-06
+
+Figure D - 6. Paddle Switch.
+
+LAN-5 D-6
+
+
+Text from LAN-5_TFR_Controls_and_Displays_page_13.jpeg:
+Upfront Control
+
+TF status is indicated on Menu 1, adjacent to PB #4 (Figure D-7). System
+status/mode selection is displayed to the right of “TF.” It reads OFF with
+the TF radar switch in OFF. After selecting STBY on the TF RDR switch,
+N/R (not ready) is displayed during the 3 minute warm-up period. STBY
+is displayed when the TF has completed warm-up. After the warm-up
+cycle and the TF radar switch is placed to ON, the selected mode of
+operation (NORM, ECCM, WX1, WX2, LPI, VLC) is displayed. When ATF
+is selected, “TF” is also displayed to the right of “A/P” on the UFC.
+
+AUTO TF
+COUPLED
+
+TF MODE
+
+LAN-05-07
+
+Figure D - 7. Upfront Control.
+
+
+Text from LAN-5_TFR_Controls_and_Displays_page_14.jpeg:
+The set clearance (SC) can be selected through the UFC on Menu 1 by
+typing the desired altitude into the scratchpad and pressing PB #4. The
+mode is replaced by the previously selected SC value, which in turn is
+replaced by the new flashing SC value for five seconds. Then, the original
+mode/status returns. If the entry is invalid (e.g., 350 feet), the scratchpad
+flashes.
+
+The other method of selecting set clearance is via the TF display, and is
+discussed in the next section.
+
+TF DISPLAY CONTROLS
+
+The TF display, when selected on the desired MPD/MPCD (Figure D-8),
+contains the primary controls to define desired TF operation (Figure D-8).
+SC, TF frequency, mode of operation, or ride can be selected as follows.
+
+Set Clearance - The SC may be selected by depressing the pushbutton
+adjacent to the desired altitude; e.g., pressing PB #18 selects 400 feet.
+The 100 feet SC does not appear as an option until VLC has been selected.
+(As discussed in the previous section, the SC may also be selected via
+Menu 1 on the UFC.)
+
+Frequency - Eight different TF radar frequencies can be selected. F1 is
+shown in this example. Press PB #8 to increase the frequency and PB #4
+to decrease it. (Rollover does not occur - to move from frequency 8 to
+frequency 1, use PB #4.)
+
+Mode - Six different modes of TF operation are selected by depressing one
+of the buttons at the bottom of the display. A box appears around the
+selected mode (NORM, ECCM, WX1, WX2, LPI and VLC).
+
+Ride - Hard or soft ride is selected by pressing PB #5. (HARD or SOFT
+
+alternates with each depression.) The positive G limit is the same for both
+ride selections, but the negative G limit differs.
+
+LAN-5 D-8
+
+
+Text from LAN-5_TFR_Controls_and_Displays_page_15.jpeg:
+SET
+CLEARANCE
+
+FREQUENCY
+
+RIDE
+
+MODE
+
+|
+
+h
+
++
+
+|
+|
+
+ia
+
+ieee
+
+LAN-05-08
+
+Figure D - 8. TF Display Controls.
+
+LAN-5
+
+
+Text from LAN-5_TFR_Controls_and_Displays_page_16.jpeg:
+TF DISPLAYS
+
+TF information can be found on different displays, but the information
+
+shown is very similar. Since the HUD is the center of your scan pattern, it
+is discussed first (Figure D-9).
+
+RADAR ALTITUDE DATA
+
+SET CLEARANCE
+
+PITCH COMMAND BOX
+
+35 36 01
+
+nn 7 cs
+5r-— —i5
+
+w
+
+R300
+
+-—H-=}—
+
+5L-- --15 NAV 16B
+N 23.4
+
+.800 00:02:41 E
+
+10 L-- ~-410
+
+TF DYNAMIC BANK
+ANGLE LIMIT CARET
+
+LAN-05-09
+
+Figure D - 9. TF Information on HUD.
+
+HUD
+
+In manual TF, a steering box appears. To maintain the SC, keep the
+velocity vector in the box. When ATF is selected, the box changes to a
+
+solid bar to allow monitoring of the aircraft’s vector versus pitch
+commands.
+
+LAN-5 D-10
+
+
+Text from LAN-5_TFR_Controls_and_Displays_page_17.jpeg:
+On the right side of the HUD, the radar altitude (up to 1500 feet) is
+displayed on a “thermometer” type altimeter scale. A vertical bar expands
+from the bottom of the scale, and the top indicates the aircraft’s radar
+altitude. From 0 to 500 feet, each tick mark on the left represents 100
+feet. Between 500 and 1500 feet, the scale is reduced with ticks at 750
+feet, 1000 feet, 1250 feet, and 1500 feet. The caret displayed on the right
+side of the scale denotes the selected set clearance. Radar altitude and
+true or ground airspeeds can be displayed on the HUD and EADI only if
+selected on UFC Data 1 page.
+
+At the bottom of the HUD, two carets are positioned at the left and right
+bank limit, indicating the dynamic bank angle allowed by the TF
+lead-into-turn command logic.
+
+EADI
+
+For TF operations, the EADI uses the pitch steering bar for both manual
+and auto TF (Figure D-10). When flying armed manual or unarmed
+manual TF, the point of the waterline symbol (W) should be maintained
+on the pitch steering bar just as you would on an ILS approach. It also
+displays the “thermometer” altimeter scale on the right side.
+
+1 RADAR
+TF PITCH ALTITUDE
+STEERING ae SCALE
+BAR rT
+
+—
+
+in
+
+—T i} SET
+
+ae eal CLEARANCE
+
+fT] es
+
+rT] es
+
+—=+ RADAR
+=|" | ALTITUDE
+—«~ tS] THERMOMETER
+Sar
+@° vs
+
+LAN-05-10
+
+Figure D - 10. EADI.
+
+D-11 LAN-5
+
+
+Text from LAN-5_TFR_Controls_and_Displays_page_18.jpeg:
+TF Display
+
+The TF display, along with the FLIR, allows you to verify proper TF
+operation and anticipate pull-up commands (Figure D-11). The “E-scope”
+allows you to monitor what terrain the TF radar “sees.”
+
+Pitch command and attitude are displayed on the top left of the scope. A
+bank steering bar, an artificial horizon, and, depending on mode, a
+manual TF steering box or an auto TF pitch steering bar are presented. A
+circle representing the velocity vector is presented for reference to the
+steering bars/box. Digital readouts of radar altitude and ground speed are
+displayed below the 300 feet SC.
+
+READOUTS
+PITCH OF RADAR
+COMMAND ALTIMETER
+AND ATTITUDE AND GROUND
+DISPLAY SPEED
+
+MINIMUM
+
+EN ROUTE
+
+ALTITUDE
+
+eee
+
+Figure D - 11. E-Scope/TF Display.
+
+LAN-05-11
+
+Minimum en route altitude (MEA) is displayed in the center top portion of
+the E-scope display. The information is loaded into the steer point
+submenu either manually or via the DTM. The MEA represents the
+minimum en route altitude for the leg you are currently flying. As you
+pass the steer point it will automatically change to the MEA for the next
+leg of your route.
+
+LAN-5 D-12
+
+
+Text from LAN-5_TFR_Controls_and_Displays_page_19.jpeg:
+A/P
+AFCS
+ATF
+CAS
+DTM
+EADI
+FLIR
+HUD
+ILS
+MEA
+MPCD
+MPD
+NAV
+PB
+RCP
+RDR
+SC
+STBY
+TF
+TFR
+
+UFC
+
+GLOSSARY
+Autopilot
+Automatic flight control system
+Automatic terrain following
+Calibrated airspeed; control augmentation system
+Data transfer module
+Electronic attitude director indicator
+Forward looking infrared
+Head-up display
+Instrument landing system
+Minimum en route altitude
+Multipurpose color display
+Multipurpose display
+Navigation
+Pushbutton
+Rear cockpit
+Radar
+Set clearance
+Standby
+Terrain following
+Terrain following radar
+
+Upfront control
+
+
+Text from LAN-5_TFR_Controls_and_Displays_page_2.jpeg:
+ADMINISTRATIVE INFORMATION
+
+This student workbook is designed to provide information on the F-15E,
+its systems, and capabilities. It is not a sole source document, but is to be
+used in conjunction with other standard Air Force publications and
+technical manuals. If you find any differences between the material
+contained herein and other governing regulations, adhere to the
+regulations and notify the OPDR.
+
+Changes to this workbook are indicated with a heavy black line in the left
+margin.
+
+Forward recommendations for revision or change to 4 TS, SJAFB, NC,
+275381.
+
+Supersedes: LAN-5, July, 1998
+
+OPDR: 4 TS
+
+Index of Changes
+
+Effective Date Pages Affected
+
+
+
+Text from LAN-5_TFR_Controls_and_Displays_page_20.jpeg:
+BACK PAGE
+COVER SHEET
+
+
+Text from LAN-5_TFR_Controls_and_Displays_page_3.jpeg:
+LANTIRN
+
+COVER
+
+TFR CONTROLS AND DISPLAYS
+
+INTRODUCTION
+
+This workbook is your guide in studying the F-15E terrain following radar
+(TFR) controls and displays. It addresses the switches and displays
+associated with TFR operation. As part of a computer-based training
+(CBT) lesson, this workbook should be read prior to taking the CBT
+instruction.
+
+CONTENTS:
+
+INTRODUCTION 0.000. eeecceesseeeesneeceseeeeesaeecesaeeeessaeeessaeeessaeesessaeeens A-1
+CRITERION REFERENCED OBJECTIVES (CROs).............eeeeseeeeeeeeees B-1
+STUDENT PREPARATION REQUIREMENTS . 0.00... eeeeeeeeeeeeeeee C-1
+CEE os ses sans sos cores nos nas ois cua cares canis ans as RSA SNS Onis aU KUNE kK NewS SHES KoRKG MU NaS HSS aUD KR D-1
+END OF TEXT QUIZ ou. ceesncecesseeecesaeesesneecssaeesessaeeensaeesenaees N/A
+(ina) F-1
+
+
+Text from LAN-5_TFR_Controls_and_Displays_page_4.jpeg:
+CRITERION REFERENCED OBJECTIVES (CROs)
+1. Identify the TFR system controls necessary to
+
+change TFR frequency
+
+select ride
+
+select operating mode
+
+select clearance
+
+select unarmed or armed manual, and auto TFR
+
+i el a a
+
+2. Interpret the TFR-generated symbology and readouts on the HUD,
+ADI, TFR display, and the UFC.
+
+REFERENCES
+TO 1F-15E-34-1-1 Section I TF Radar Operation
+TO 1F-15E-1 Section I Instruments
+
+LAN-5 B-1
+
+
+Text from LAN-5_TFR_Controls_and_Displays_page_5.jpeg:
+STUDENT PREPARATION REQUIREMENTS
+
+BEFORE THE CBT CLASS
+
+1.
+
+2.
+
+Study information contained in this workbook and complete the End
+of Text Quiz.
+
+Read the Dash 1 and Dash 34-1-1 references.
+
+
+Text from LAN-5_TFR_Controls_and_Displays_page_6.jpeg:
+(This Page Intentionally Blank)
+
+LAN-5 C-2
+
+
+Text from LAN-5_TFR_Controls_and_Displays_page_7.jpeg:
+TEXT
+
+TF CONTROLS
+
+The controls for the TFR system are located in six different places in the
+front cockpit (Figure D-1):
+
+the TF radar switch on the sensor control panel
+
+the flyup enable switch below the canopy sill on the left side of
+the front cockpit
+
+the TF couple switch on the CAS panel
+
+the paddle switch on the control stick
+
+the upfront control (UFC)
+
+on the selected MPD/MPCD
+
+eo
+
+Go FI Go
+
+The TF radar, TF couple, and flyup enable switches are in the front
+cockpit only. The paddle switch, UFC, and MPD/MPCD controls are
+duplicated in the rear cockpit.
+
+(6) MPD
+
+——
+
+(4) PADDLE SWITCH
+
+0
+
+O
+ira
+ee
+
+ce)
+
+Pet ( i
+° oO
+(3) CAS PANEL 26 a
+0 q 7 ty te
+Cele. 16 —— (5) UFC
+* OOPS fener Ole
+i= e)
+O le ote) (:)
+(2) FLY UP 8 = 6) MPCD
+ENABLE a, : B Ty (6)
+eb 8S 628 eee8
+eee oll] ego
+ex Co [les[Hees
+BH 8@|0 0
+Oo
+on eoO|OO0
+(1) SENSOR aan Bly 6 | Lo;
+CONTROL | fo
+PANEL 5 | Crd]
+
+LAN-05-01
+
+Figure D - 1. Front Cockpit.
+
+D-1 LAN-5
+
+
+Text from LAN-5_TFR_Controls_and_Displays_page_8.jpeg:
+TF Radar Switch
+
+The TF radar switch (Figure D-2), located on the sensor control panel,
+controls power to the terrain following radar in the NAV pod. The switch
+has three positions:
+
+OFF All power to the TF radar is removed.
+
+STBY Allows the system to accomplish the required 3 minute
+warm-up period before actually operating.
+
+ON The TF radar is allowed to transmit when ground
+speed is approximately 70 knots, and weight is off the
+wheels.
+
+[e)
+
+EMERG
+
+RDR ALT RADAR
+OVERRIDE STBY
+N
+ANS PU 4
+
+NAV FLIR
+
+STORE ALIGN [ @ can [@ can Ss)
+OFF. cc x O = ON E
+elu GA N
+\ sTBY S
+NAV
+
+O
+R
+
+PULL JTIDS
+
+ESET
+
+‘Sr
+
+LAN-05-02
+
+Figure D - 2. Sensor Control Panel.
+
+LAN-5 D-2
+
+
+Text from LAN-5_TFR_Controls_and_Displays_page_9.jpeg:
+NOTE
+When on the ground, with ON selected, the TF FAIL should illuminate
+because the system tries to operate, but is unable to transmit.
+
+Flyup Enable Switch
+
+The flyup enable switch (Figure D-3) is a two position toggle switch
+located vertically on the cockpit bulkhead, just outboard of the throttles.
+It is guarded with a red cover.
+
+WARNING
+
+The red cover guard on the flyup enable
+switch can be down with the switch in
+either position. Ensure that the switch is
+in the proper position.
+
+OFF Switch up. In manual TF, the automatic flyup feature is not
+armed. If commanded, the flight controls will not automatically
+accomplish a flyup. In the rear cockpit, there is a green
+“UNARMED/NO ATF” advisory light indicating the switch is off.
+This light is located on the warning/caution/advisory light panel
+above the RCP MPD/MPCDs (Figure D-4).
+
+ON Switch down. This is the normal position. In manual TF, the
+automatic flyup is armed. If commanded, the flight controls
+automatically accomplish the flyup.
+
+

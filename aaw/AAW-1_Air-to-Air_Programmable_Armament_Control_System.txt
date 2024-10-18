@@ -1,0 +1,2043 @@
+Text from AAW-1_Air-to-Air_Programmable_Armament_Control_System_page_1.jpeg:
+SUPPORTS COURSES
+FIS5EBQ
+
+FISETX
+
+FISESOC
+
+ACADEMIC STUDENT WORKBOOK
+F-15E
+
+AIR-TO-AIR WEAPONS
+AAW-1
+A/A PROGRAMMABLE ARMAMENT
+CONTROL SET (PACS)
+
+JUNE 1999
+
+(SUITE 3 OFP)
+
+AIR COMBAT COMMAND
+
+
+Text from AAW-1_Air-to-Air_Programmable_Armament_Control_System_page_10.jpeg:
+PACS DISPLAY
+
+The PACS display is accessible in both cockpits on the MPD/MPCD. It is
+the part of the armament control system that is most used. Through it,
+the aircrew can identify munitions on the stations, program firing/delivery
+options, etc., and then monitor and release. Also, if desired, it is possible
+to set up a training program to simulate all of the above.
+
+Top Level PACS Menu
+ARMT (armament) is one of the choices on MPD/MPCD Menu 1 and is
+
+where to start. By pressing PB #2, the top level PACS menu is called up
+(Figure D-3).
+
+AIG AA NUG
+SS LOAD LOAD LOAD y
+
+AAW-01-03
+
+Figure D - 3. ARMT Menu.
+
+AAW-1 D-4
+
+
+
+Text from AAW-1_Air-to-Air_Programmable_Armament_Control_System_page_11.jpeg:
+The pushbuttons options and functions are as follows.
+
+PB #2
+
+PB #3
+
+PB #4
+
+PB #7
+
+PB #8
+
+PB #9
+
+PB #11
+
+PB #14
+
+PB #15
+
+PB #16
+
+A/A
+
+A/G
+
+CBT JETT
+A/G LOAD
+A/A LOAD
+NUC LOAD
+
+M
+
+A/A TRNG
+
+A/G TRNG
+
+RMNVR
+
+selects the air-to-air weapons format (sometimes
+called A/A monitor page).
+
+selects the air-to-ground weapons format
+(sometimes called A/G monitor page).
+
+selects the combat jettison programming format.
+selects the load format for A/G munitions.
+selects the load format for A/A munitions.
+selects the load format for nuclear weapons.
+returns the display to the MPD/MPCD Menu 1.
+
+The menu button appears on most PACS
+subformats and is a “way out” if you get lost deep
+in a submenu. It takes you back to the ARMT
+(top level PACS) menu where you can start over.
+On the ARMT menu, M selects display Menu 1.
+
+selects the training mode format for air-to-air.
+
+selects the training mode format for
+air-to-ground.
+
+RMNVR XX is an aircrew entered number and
+depicts the aspect angle value (XX) used to
+calculate and display the MRM maneuvering
+range cue on the A/A RDR display. The default
+value is 110, and is displayed as 11. Pressing the
+button increments the value from 0° to 180° in
+10° increments. 180° is displayed as OFF.
+
+D-5 AAW-1
+
+
+Text from AAW-1_Air-to-Air_Programmable_Armament_Control_System_page_12.jpeg:
+MC/DT™
+
+The MC/DTM has the capability of inputting the following A/A data for
+the PACS into the computers.
+
+e Gun rounds
+
+e Gun ammo type
+
+e A/A missile loading/identification
+
+e MRM RMNVR
+
+e CBT jettison programs
+
+e AIM-120 flight member ID options
+A/G stores data for the PACS will be covered in other lessons.
+If the MC/DTM loads properly, all there is to do is check the data
+afterwards. Alternately, the aircrew can manually input PACS
+
+information.
+
+NOTE
+The CC will not accept MC/DTM PACS weapon loading data unless both
+
+the A/A and A/G modes are in the combat configuration (A/A TRNG and
+A/G TRNG unboxed on the ARMT menu).
+
+AAW-1 D-6
+
+
+Text from AAW-1_Air-to-Air_Programmable_Armament_Control_System_page_13.jpeg:
+MPCD Color Coding
+
+If the PACS format is displayed on an MPCD, some data is color coded for
+ease of discrimination. A few examples are listed below.
+
+Amber
+
+A/A station selected for jettison
+A/G station and rack, store, or pylon selected for jettison
+Hung ordnance
+
+Degraded/failed missile
+
+RDY
+ON
+
+A/A or A/G training weapon load format title
+
+CBT 1 or 2 Gettison mode data)
+
+A/A jettison format title
+
+A/G jettison format title
+
+A/A or A/G combat weapon load format title
+
+Almost everything else
+
+D-7 AAW-1
+
+
+Text from AAW-1_Air-to-Air_Programmable_Armament_Control_System_page_14.jpeg:
+WEAPONS CONTROLS
+Besides the PACS display, there are several other weapons controls.
+Master Modes
+
+A/A missiles can be fired in any master mode except A/G. A/G weapons
+can only be delivered in A/G master mode. The trigger (FCP) is hot in all
+master modes, if the gun is electrically and mechanically armed and the
+master arm switch isin ARM. However, the gun will not fire unless both
+the A/A and A/G PACS modes are in CMBT.
+
+Armament Control Panel
+The armament control panel (ACP), located in the front cockpit in the
+
+lower left corner of the instrument panel, contains the selective jettison
+knob/button and the master arm switch (Figure D-4).
+
+ARMAMENT CONTROL
+PANEL
+
+Figure D - 4. Armament Control Panel.
+Selective Jettison Knob/Button
+
+The “knob” or outer part of this control rotates to select either a jettison
+function or an alternate/manual release function. Pressing the “button,”
+or inner part, releases stores depending on the position of the knob. Only
+the OFF, COMBAT, and A/A positions are relevant for A/A weapons.
+These functions are explained later in this lesson.
+
+AAW-1 D-8
+
+
+Text from AAW-1_Air-to-Air_Programmable_Armament_Control_System_page_15.jpeg:
+Master Arm Switch
+
+This lever-lock switch has two positions: SAFE and ARM (pull out, then
+up over detent to select ARM). In SAFE, weapons cannot be employed
+normally. In ARM, with the landing gear handle up or the armament
+safety switch in OVERRIDE, power is provided for weapons employment
+and gun firing. With ARM selected, a gun cross is displayed on the
+HUD/HUD repeater and the RCP master arm green advisory light
+illuminates.
+
+Emergency Jettison Button
+
+The emergency jettison or “panic” button is located in the front cockpit to
+the left of the MPCD (Figure D-5). Pushing it once, with electrical power
+on the aircraft, jettisons all carted stores and pylons, both on the ground
+and in the air. The button must be held in for the duration of the jettison
+sequence. If the button should get stuck in the jettison position, yellow
+appears between the button and the black faceplate. Normally, only black
+is visible around the button. The panic button is “hot” anytime electrical
+power (ground power, emergency generator power, or main generator
+power) is applied to the aircraft, regardless of the landing gear handle
+position and weight on wheels.
+
+AAW-01-05
+
+Figure D- 5. Emergency Jettison Button.
+
+D-9 AAW-1
+
+
+Text from AAW-1_Air-to-Air_Programmable_Armament_Control_System_page_16.jpeg:
+Weapons Select Switch
+
+This switch, located on the right throttle in the front cockpit, has three
+positions: MRM, SRM, and GUN (Figure D-6). The MRM position allows
+firing of either AIM-7 or AIM-120 air-to-air missiles and the SRM position
+allows firing of AIM-9 missiles. The GUN (aft) position selects the A/A
+master mode and gives the pilot command of the air-to-air radar.
+
+WEAPON SELECT SWITCH
+<<  —— >
+
+GUN SRM MRM
+
+FRONT COCKPIT THROTTLES
+
+AAW-01-06
+
+Figure D - 6. Weapons Select Switch.
+
+AAW-1 D-10
+
+
+Text from AAW-1_Air-to-Air_Programmable_Armament_Control_System_page_17.jpeg:
+Weapons Release (Pickle) Button
+
+A pickle button is located on both control stick grips (Figure D-7). When
+pressed, this red button releases A/G weapons if all other logic is satisfied
+and the master arm switch is in ARM. You must be in the A/G master
+mode for the pickle button (both cockpits) to drop bombs. If you are in any
+other master mode the pickle button (FCP only) launches missiles.
+
+PICKLE
+BUTTON
+
+ies \\ RIS
+
+N
+S PY
+
+PICKLE
+BUTTON 44
+
+—
+
+[
+FRONT COCKPIT STICK REAR COCKPIT STICK
+
+AAW-01-07
+
+Figure D - 7. Control Stick Weapons Switches.
+
+Trigger
+
+While both stick grips have a trigger, only the one in the FCP is
+operational (Figure D-7). Squeezing the trigger to the first detent runs
+the VTR; squeezing it to the second detent runs the VTR and if the master
+arm switch is in ARM, fires the gun, regardless of the position of the
+weapon select switch (if both the A/A and A/G PACS are in the CMBT
+mode vice TRNG).
+
+D-11 AAW-1
+
+
+Text from AAW-1_Air-to-Air_Programmable_Armament_Control_System_page_18.jpeg:
+Armament Safety Switch
+
+This two-position toggle switch is located in the FCP on the left console
+outboard of the G-suit connection (Figure D-8). In the SAFE position,
+weapons release (except via the panic button) is inhibited with the gear
+handle down. In OVERRIDE (electrical power required to hold it there),
+the landing gear handle safety circuit is bypassed.
+
+lu
+Q
+iva
+o
+re
+(e) -
+Lu
+) z
+uw
+=}
+<x
+=
+oc
+<x
+ARMAMENT SAFETY
+SWITCH
+
+AAW-01-08
+
+Figure D - 8. Armament Safety Switch.
+
+Nuclear Consent Switch
+
+These switches, one in each cockpit, deal only with nuclear weapon
+operations and will be covered in that lesson.
+
+AAW-1 D-12
+
+
+Text from AAW-1_Air-to-Air_Programmable_Armament_Control_System_page_19.jpeg:
+A/A PACS
+
+The PACS is loaded manually or through the MC/DTM and is used to
+accept digital data and interface signals from associated aircraft
+equipment to perform the following:
+
+e Selection, prelaunch preparation, launch, and jettison of A/A missiles
+
+e OWS interface for proper computation of aircraft “G” loading
+conditions
+
+e CC interface for the display of accurate missile launch envelopes on
+both the HUD and the radar.
+
+For all of the above reasons, it is imperative that the programmed load
+accurately reflects the actual aircraft configuration. To ensure this, the
+PACS is used to do three things: verify, program, and monitor an A/A
+weapons load.
+
+A/A WEAPONS LOAD VERIFICATION
+
+To verify that the PACS recognizes actual A/A configuration, turn on an
+MPD/MPCD after engine start and select Menu 1 (Figure D-9, left), then
+depress PB #2 (ARMT). This will get you to the top level PACS menu
+(Figure D-9, right). This menu allows you to access major weapons
+related options available for A/A training or combat mission operation.
+Next, press PB #8 to display the “A/A COMBAT WEAPON LOAD?” display
+(Figure D-9, bottom). This display reflects what the PACS recognizes as
+currently loaded on the aircraft.
+
+D-13 AAW-1
+
+
+Text from AAW-1_Air-to-Air_Programmable_Armament_Control_System_page_2.jpeg:
+ADMINISTRATIVE INFORMATION
+
+This student workbook is designed to provide information on the F-15E,
+its systems, and capabilities. It is not a sole source document, but is to be
+used in conjunction with other standard Air Force publications and
+technical manuals. If you find any differences between the material
+contained herein and other governing regulations, adhere to the
+regulations and notify the OPDR.
+
+Changes to this workbook are indicated with a heavy black line in the left
+margin.
+
+Forward recommendations for revision or change to 4 TS, SJAFB, NC,
+275381.
+
+Supersedes: AAW-1, July, 1998
+
+OPDR: 4TS
+
+Index of Changes
+
+Effective Date Pages Affected
+
+
+
+Text from AAW-1_Air-to-Air_Programmable_Armament_Control_System_page_20.jpeg:
+AG AIA NUC
+\ LOAD LOAD LOAD A
+Ss. 5 5 —, = y, CI
+[]
+
+7M
+
+A/ACOMBAT
+WEAPON LOAD
+
+AA
+TRNG
+120A 9M 9M 120A
+
+SY. |
+MENU
+
+AIG NUC
+
+LOAD OAD
+
+mc
+
+7
+Li
+
+Oy
+
+"A/A COMBAT WEAPON LOAD" DISPLAY,
+ACTUAL A/A WEAPON LOAD ON BOARD
+
+AAW-01-09
+
+Figure D - 9. A/A Weapons Load Verification.
+
+AAW-1 D-14
+
+
+Text from AAW-1_Air-to-Air_Programmable_Armament_Control_System_page_21.jpeg:
+With A/A missiles loaded, the display will initialize with missiles indicated
+on the appropriate CFT stations or wing pylon stations (Figure D-10)
+according to the following logic:
+
+AIM-120: The AIM-120 exists in three variants: the A, B, and C.
+The CC recognizes all three and will automatically identify the
+correct type of missile and display it at the appropriate station on the
+PACS display. AIM-120B/C missiles have an expanded weapon
+identifier that is displayed directly below the missile type. For
+example, TO7R06 identifies missile tape 07, revision 06 for
+AIM-120C. Once identified, the AIM-120 type cannot be changed on
+the A/A combat weapon load display. This is further emphasized by
+the fact that there are no wire diagrams leading from the
+pushbutton(s) to the loaded AIM-120 station (Figure D-11). On the
+PACS, AIM-120s can appear on CFT stations 3C, 4C, 6C, and 7C,
+and can also be loaded on wing pylon stations 2A, 2B, 8A, and 8B
+(Figure D-10).
+
+AIM-7: The AIM-7 exists in three variants: the F, M, and MH. The
+CC will automatically identify the F and M versions (although some
+early production AIM-7Ms identify as AIM-7Fs). However, if an
+AIM-7MH is loaded, the aircrew must cycle through the appropriate
+station pushbutton, (Figure D-9, PBs #6 and #10) in order to have the
+PACS identify and display the H variant. AIM-7s will only appear on
+CFT stations 3C, 4C, 6C, and 7C.
+
+AIM-9: The AIM-9 exists in three variants: the P, L, and M. If an
+AIM-9P series missile is loaded, the display will initialize with 9P3 at
+the station. The station pushbutton will cycle between 9P3
+(AIM-9P-2/P-3) and 9J (AIM-9P/P-1). If AIM-9L/Ms are loaded, the
+display will initialize with 9L. Pressing the station pushbutton cycles
+between 9L and 9M. AIM-9s will only appear on wing pylon stations
+2 and 8.
+
+M61A1 GUN: The gun rounds remaining count is displayed adjacent
+to PB #1 (Figure D-9). Pressing the appropriate rounds pushbutton
+(PB #1 or #2) will change the rounds remaining by either hundreds or
+tens of rounds. The HUD will repeat the quantity set in the PACS
+when A/A gun mode is selected. Pressing PB #20 cycles between
+PGU-28 and M56 bullet types. This applies to actual or training
+loads.
+
+D-15 AAW-1
+
+
+Text from AAW-1_Air-to-Air_Programmable_Armament_Control_System_page_22.jpeg:
+AIR-TO-AIR
+("C" DENOTES CFT)
+
+STA. 7 OR 7C
+
+STA. 3 OR 3C
+
+2A 2 2B
+(MISSILE) (MISSILE)
+
+OR
+AIM-120
+
+LANTIRN TGT
+POD
+
+STORE
+STATION
+
+6 3
+FWD) | (FWD)
+5
+
+MISSILE
+3c
+FWD)
+4c
+AFT)
+
+(
+(
+
+AIM-7
+OR
+AIM-120
+
+LANTIRN NAV
+POD
+
+INBD
+STORE
+STATION
+
+MISSILE
+
+8A 8B
+(MISSILE) (MISSILE)
+— |
+
+OR
+AIM-120
+
+AAW-01-10
+
+Figure D - 10. External Stores Station Identification.
+
+AAW-1
+
+D-16
+
+
+Text from AAW-1_Air-to-Air_Programmable_Armament_Control_System_page_23.jpeg:
+NOTE
+
+The gun will not fire unless both the A/A and A/G modes are in CMBT.
+
+e Digital or analog airborne instrumentation system (DAIS or AAIS)
+pods: AIS pods can provide certain aircraft/missile data useful in
+debriefing A/A training sorties. These pods are not utilized during
+the FTU course.
+
+e Ifa station(s) is empty, there is still a wire diagram protruding from
+the corresponding pushbutton(s). On the wing these empty stations
+will cycle through an AIM-9P3, 9J, 9L, 9M, and DAIS pod. On the
+CFT these empty stations cycle through AIM-7F, 7M, and 7MH, but
+not through the AIM-120 types (Figure D-11).
+
+9P3, 9J, 9L, 9M
+\ s4q_CAAIS POD
+7MH 7MH
+A/ ACOMBAT
+WEAPON LOAD
+120C om
+TO5RO2
+Sf 120A
+7F, 7M, 7MH
+AIG NUC
+LOAD LOAD
+
+SPIE IA|
+ACTUAL A/A COMBAT WEAPON LOAD ON BOARD
+
+AAW-01-11
+
+Figure D - 11. A/A Combat Weapon Load Status.
+
+D-17 AAW-1
+
+
+Text from AAW-1_Air-to-Air_Programmable_Armament_Control_System_page_24.jpeg:
+A/A TRAINING WEAPONS LOAD PROGRAMMING
+
+Once you have verified that the PACS has correctly identified your actual
+A/A weapons load, you can program a specific load for training purposes
+by using the MC/DTM load you prepared during premission planning, or
+by manually loading it through the PACS. The A/A TRAINING WEAPON
+LOAD page is displayed in one of two ways, either by pressing PB #14
+(A/A TRNG “boxed”) on the top level PACS menu, then pressing PB #8
+(A/A LOAD), or by pressing PB #14 (“boxing” A/A TRNG) while on the A/A
+COMBAT WEAPON LOAD display (Figure D-12). The “A/A TRAINING
+WEAPON LOAD” display will now appear. Pressing the wing pylon
+station pushbuttons will sequence the appropriate station through 9L,
+
+9M, 9P3, 9J, 120A, 120B, 120C, blank, and back to 9L. Pressing the MRM
+station pushbuttons will sequence the appropriate station through 7F,
+
+7M, 7MH, 120A, 120B, 120C, blank, and back to 7F.
+
+WARNING
+
+The A/A TRNG mode should not be used
+to simulate the release of A/A stores when
+live A/A stores are loaded or when A/G
+stores are loaded on the same station(s).
+The A/A TRNG mode is authorized when
+no live A/A stores are loaded and no A/G
+stores are loaded on the same station(s).
+The cold gun safing procedures in section
+II (TO 1F-15E-34-1-1) may be used in lieu
+of removing the rounds from the gun.
+
+AAW-1 D-18
+
+
+Text from AAW-1_Air-to-Air_Programmable_Armament_Control_System_page_25.jpeg:
+a
+
+©
+
+@
+=
+
+7MH 7MH
+A/ ACOMBAT
+WEAPON LOAD
+
+—_
+alia
+
+AA
+TRNG
+
+—A ™M Xo
+MENU.
+
+AG NUC
+
+LOAD LOAD
+
+ag
+Ld
+
+fa>- |
+
+C O
+oP is
+O
+a
+
+| AG AIA NUC
+LOAD LOAD LOAD
+BRT CONT
+® — ®
+
+TOP LEVEL PACS DISPLAY
+
+200 PGU28 \ /
+
+t| TRNG 7M 7M
+A/A TRAINING
+WEAPON LOAD
+
+AIA
+TRNG
+IM 120A
+
+120B OM 9
+To5vo2
+—__~
+™ ™
+MENU
+AG NUC
+\ LOAD LOAD J
+
+1 tt
+MIEIPIPE| -
+A/A TRAINING LOAD DISPLAY,
+A/A TRNG BOXED
+
+ila
+
+AAW-01-12
+
+Figure D - 12. Programming A/A Training Weapon Load.
+
+D-19 AAW-1
+
+
+Text from AAW-1_Air-to-Air_Programmable_Armament_Control_System_page_26.jpeg:
+To monitor the new A/A TRAINING WEAPON LOAD, ensure A/A TRNG
+is boxed (PB #14), press PB #11 (MENU) (Figure D-13A), then press A/A
+(PB #2) (Figure D-13B). Also, the entire training load can be reinitialized
+by pressing PB #14 (RESET) (Figure D-13C).
+
+NOTE
+
+The A/A TRNG mode is automatically deselected when any jettison
+function or manual free-fall or retard (MAN FF/RET) is selected on the
+armament control panel selective jettison knob. Although you can
+
+program CBT JETT options into the training PACS, DO NOT “practice”
+the capability, or any selected stores will be jettisoned if they are carted
+and otherwise jettisonable. Pylons have actually been inadvertently
+jettisoned in this way.
+
+A/A COMBAT WEAPON LOAD MONITORING
+
+To monitor the status of your actual A/A combat weapon load, press
+
+PB #14 (A/A TRNG “unboxed”) (Figure D-14A) or press PB #14 (A/A
+TRNG unboxed) and then PB #8 (A/A load) (Figure D-14B). Figure D-14C
+reflects a possible weapons load seen at F-15E Formal Training Unit
+(FTU).
+
+NOTE
+
+Remember that the PACS self-identifies most, but not all, of the various
+AIM-120, AIM-7 and AIM-9 missile mods. Therefore, it is important to
+know what variants of these missiles are loaded so that the PACS can be
+
+programmed to reflect the correct missile load. Identifying the missile
+load in the combat mode is as previously mentioned in the A/A training
+section, with the exception that “A/A TRNG” at PB #14 should be
+“unboxed!”
+
+AAW-1 D - 20
+
+
+Text from AAW-1_Air-to-Air_Programmable_Armament_Control_System_page_27.jpeg:
+A/ATRAINING
+WEAPON LOAD
+
+A. IL ola LOAD |
+A/A TRNG BOXED
+
+PYLON
+A/G CMBT
+AJA TRNG
+RESET
+
+STBY
+
+120A COOL
+
+AG
+
+CBT 1 C STORE
+CBT 2LR PYLON
+
+Seegel
+
+C. A/A TRAINING STATUS DISPLAY
+
+] x
+
+AIG
+LOAD
+
+ile)
+
+Ofolwio
+
+CONT
+
+}O
+
+@ 212
+
+AIA NUC
+LOAD LOAD
+
+AAW-01-13
+
+Figure D - 18. Monitoring A/A Weapon Load.
+
+AAW-1
+
+
+Text from AAW-1_Air-to-Air_Programmable_Armament_Control_System_page_28.jpeg:
+A/ATRAINING
+WEAPON LOAD
+
+120A
+
+NAT]
+120B
+TOS5RO2
+7M Ko
+MENU
+AIG NUC
+LOAD LOAD
+
+ieee
+
+A. A/A TRAINING LOAD DISPLAY,
+A/A TRNG BOXED ~.
+
+AG AIA NUC
+LOAD LOAD LOAD
+
+LOS
+
+|
+
+A/A COMBAT
+WEAPON LOAD
+
+aa
+
+am
+=
+
+HOOT!
+
+cm
+Ta
+
+|
+
+C. a Ir ali WEAPON lm [=e
+
+AAW-01-14
+
+Figure D - 14.
+
+AAW-1 D - 22
+
+
+Text from AAW-1_Air-to-Air_Programmable_Armament_Control_System_page_29.jpeg:
+A/A WEAPONS CONTROL OPTIONS
+
+Pressing PB #2 on the top level PACS menu selects the A/A (combat or
+training) weapons status display (Figure D-15). MRM/SRM priority is
+based on which is selected on the weapon select switch. The MRM/SRM
+legends simply indicate that those missiles are aboard. Blank stations
+would denote no missile loaded.
+
+HOUT
+
+ileiEeys
+
+MRM MRM
+120A 120A
+
+MRM
+7M
+
+AG AIA NUC
+LOAD LOAD LOAD
+
+See
+
+EEL
+
+1. TOP LEVEL PACS MENU 2. A/A COMBAT WEAPONS DATA DISPLAY
+(MRM NOT SELECTED)
+
+AAW-01-15
+
+Figure D - 15. A/A Combat Weapons Status.
+
+Gun Rate: Pressing PB #1 alternately selects HIGH or LOW gun rate.
+The programmed rounds count, along with the round type (P for PGU-28
+and M for M-56), appear below the gun rate cue.
+
+HIGH Selects a firing rate of 6000 shots per minute
+(SPM). The gun is initialized in the high rate.
+
+LOW Selects a firing rate of 4000 SPM.
+
+D - 23 AAW-1
+
+
+Text from AAW-1_Air-to-Air_Programmable_Armament_Control_System_page_3.jpeg:
+AIR-TO-AIR WEAPONS
+
+COVER
+
+A/A PROGRAMMABLE ARMAMENT CONTROL SET (PACS
+
+INTRODUCTION
+
+This workbook is your guide in studying F-15E A/A PACS displays,
+controls, and system operation. As part of a computer-based training
+(CBT) lesson, this workbook should be read prior to taking the CBT
+instruction.
+
+CONTENTS:
+
+INTRODUCTION 0.000. eeecceesseeeesneeceseeeeesaeecesaeeeessaeeessaeeessaeesessaeeens A-1
+CRITERION REFERENCED OBJECTIVES (CROs).............eeeeseeeeeeeeees B-1
+STUDENT PREPARATION REQUIREMENTS . 0.00... eeeeeeeeeeeeeeee C-1
+CEE os ses sans sos cores nos nas ois cua cares canis ans as RSA SNS Onis aU KUNE kK NewS SHES KoRKG MU NaS HSS aUD KR D-1
+END OF TEXT QUIZ ou. ceesncecesseeecesaeesesneecssaeesessaeeensaeesenaees N/A
+(ina) F-1
+
+A-1 AAW-1
+
+
+Text from AAW-1_Air-to-Air_Programmable_Armament_Control_System_page_30.jpeg:
+AIM-9L/M Legends
+
+The THLD, SCAN, and COOL options (PBs #2, #8, and #13, respectively)
+are boxed when selected (Figure D-16). The THLD and SCAN options
+appear only when an AIM-9L/M is aboard and SRM is selected. The
+substitution of STBY for an SRM legend on the priority station is another
+indicator that SRM has been selected on the throttle and identifies the
+priority AIM-9 for launch. A FAIL ID legend indicates a missile loaded
+but the PACS cannot determine if the missile is an AIM-9/DAIS or
+AIM-120. The missile is deleted from the launch sequence.
+
+The COOL option appears with an AIM-9L or M aboard regardless of
+weapon selection on the throttle. When the master arm switch is in ARM
+(gear handle up), COOL is automatically selected and boxed. A boxed
+RDY legend appears above the missile in launch priority (replacing STBY)
+(Figure D-16) when the master arm switch is in ARM and the weapon
+select switch is in SRM. An AIM-9L/M can also be manually cooled at any
+time by selecting the cool option at PB #18.
+
+Should a missile be launched (or jettisoned), the station legend goes blank.
+HUNG is displayed whenever a missile fails to launch/jettison.
+
+The PACS automatically selects the next missile in the firing sequence.
+The aircrew can select a different station (including a different type AIM-9
+if there is a mixed load of AIM-9Ms, -9Ls, and/or -9Ps by using the missile
+reject switch. Missile reject is accomplished by moving the FCP boat
+switch aft or RCP castle switch right.
+
+AAW-1 D - 24
+
+
+Text from AAW-1_Air-to-Air_Programmable_Armament_Control_System_page_31.jpeg:
+Q
+E*|
+
+AIM-9L/M AUDIO
+THRESHOLD
+OPTION
+
+A/G CMBT
+
+CG)
+10
+
+|
+
+AIM-9 STATUS
+SRM STATIONS
+
+al
+(a)
+
+AIM-9L/M SCAN
+OPTION
+
+AIM-9L/M
+COOL OPTION
+
+o
+
+I
+
+CBT 1 C STORE
+CBT 2LR PYLON
+
+ans ||C)
+LO
+
+DISPLAY
+TAT
+LEGEND = us
+
+y AIM-9 ABOARD
+y STATION NOT IN PRIORITY
+
+y AIM-9 ABOARD
+
+y SRM SELECTED ON THROTTLE
+
+y MASTER ARM SWITCH IN SAFE
+
+y STATION IN PRIORITY
+
+y A/G MASTER MODE NOT SELECTED
+
+y AIM-9 ABOARD
+y SRM SELECTED ON THROTTLE WITH
+MASTER ARM SWITCH IN SAFE OR
+MRM OR GUN SELECTED ON THROTTLE
+1 3 4 2 WITH MASTER ARM SWITCH IN ARM
+9M 9M 9M QM y STATION IN PRIORITY
+
+y AIM-9 ABOARD
+y SRM SELECTED ON THROTTLE
+y MASTER ARM SWITCH IN ARM
+
+y STATION IN PRIORITY
+SRM LAUNCH SEQUENCE y A/G MASTER MODE NOT SELECTED
+
+y BOTH AIM-9/DAIS AND AIM-120
+ABOARD SIGNAL PRESENT
+
+y AIM-9 ABOARD AFTER LAUNCH
+OR JETTISON COMMAND APPLIED
+
+y NO AIM-9 ON THAT STATION
+
+AAW-01-16
+
+Figure D - 16. AIM-9 Air-to-Air Display.
+
+D - 25 AAW-1
+
+
+Text from AAW-1_Air-to-Air_Programmable_Armament_Control_System_page_32.jpeg:
+AIM-7/AIM-120 Legends
+
+STBY replaces the AIM-7F/M/MH MRM legend once the missile has
+tuned. For the AIM-120, STBY indicates AIM-120 BIT complete. DGRD
+denotes AIM-120 BIT complete, but the missile is degraded. The PACS
+automatically places the degraded missile(s) last in launch priority. If an
+AIM-120 fails the BIT, the FAIL-120A legend appears and the missile is
+locked out of the launch sequence. If an AIM-7 fails to tune or detunes, it
+is locked out of the launch sequence. FAIL ID indicates both an AIM-9
+and AIM-120 missile identification signal present on the same station.
+The missile is deleted from the firing sequence. HUNG is displayed
+whenever a missile fails to launch/jettison.
+
+A boxed RDY legend replaces STBY above the AIM-7 or AIM-120 missile
+in launch priority when master arm is selected and the weapons select
+switch is in MRM (Figures D-17 and D-18).
+
+The aircraft CC determines the displayed target size based on an aircrew
+manual input or an automatic selection. This is done at PB #2. The
+automatic selection is based on target sizes corresponding to tables as
+defined in TO 1F-15E-34-1-1-1. Target size is sent to AIM-120Bs and Cs
+when the expanded ident is greater than Tape 5 Revision 2 and up for the
+AIM-120B and Tape 7 Revision 6 and up for AIM-120C. Earlier
+AIM-120Bs or Cs and AIM-120As do get the target size algorithm. The
+target size selection influences the AIM-120 fuze timing and is also sent to
+the AIM-7MH for fuzing calculations.
+
+AAW-1 D - 26
+
+
+Text from AAW-1_Air-to-Air_Programmable_Armament_Control_System_page_33.jpeg:
+With MRM selected on the weapons select switch and MRMs loaded on
+the aircraft, SAUT XXX is displayed at PB #2. This option allows the pilot
+to choose the target size estimate to be provided. With SAUT selected, the
+radar will automatically select a target size and report back whether it is
+SML, MED, LRG, or HOH, and display it under SAUT at PB #2 based on
+information it sees from the target return. More discussion is available in
+TO 1F-15E-34-1-1-1. The default setting at PB #2 is SAUT MED.
+
+If PB #2 is toggled, the target size is manually set by the aircrew to either
+SMED, SSML, SLRG, or HOH, which will appear in the place of SAUT.
+The last setting for PB #2 will remain in the CC until changed either
+manually on the display or through entering from the MC/DTM.
+
+A similar selection but for radar cross section instead of target size is
+available at PB #8. RAUT is the automatic selection, and RMED, RSML,
+and RLRG are manual selections. For more information on the details of
+the available settings refer to TO 1F-15E-34-1-1-1.
+
+PB #4 can be used to enter a flight number ID on the PACS when an
+AIM-120 is on board and MRM is selected on the throttle weapon switch.
+This selection is designed to prevent missile-to-missile mutual
+interference between AIM-120s launched by aircraft in the same flight.
+The option initializes at 1/1, or 1 aircraft of a 1-ship flight. Pressing
+
+PB #4 cycles between 1/1, 1/2, 2/2, 1/4, 2/4, 3/4, 4/4, etc., to select your
+flight position in a 2-ship or 4-ship flight. These settings can also be
+entered via the MC/DTM.
+
+With the weapon select switch in MRM (AIM-120s loaded), TRNG mode
+not selected, and the master arm switch in SAFE, SEL BIT is displayed at
+PB #5 allowing a BIT of individual AIM-120 missiles.
+
+With the master arm switch on, MODS is displayed at PB #5 in place of
+the SEL BIT. Refer to TO 1F-15E-34-1-1-1 for additional information.
+
+D-27 AAW-1
+
+
+Text from AAW-1_Air-to-Air_Programmable_Armament_Control_System_page_34.jpeg:
+PBs #6-10 are blank.
+
+With AIM-120s loaded on the aircraft and CMBT PACS selected, the
+telemetry (TM PWR) option is displayed (initialized unboxed) next to
+
+PB #15. Pressing PB #15 selects the option and sends telemetry power to
+all loaded AIM-120s (Figure D-17). The telemetry option is only
+functional with instrumented AIM-120s or CATM-120s.
+
+PB #12 will display A/G on all of the air-to-air PACS pages. Selecting this
+button will switch the PACS to the air-to-ground monitor page.
+
+PB #18 will display COOL and will be boxed if the master arm is on and
+AIM-9L or Ms are loaded on the aircraft, no matter what position the
+throttle weapons select switch is in.
+
+Figure D-17 depicts the AIM-120 launch sequence and Figure D-18
+depicts the AIM-7 launch sequence. Normally, the AIM-120s on stations 2
+and 8 are launched from the wings first in order of left outboard (2A),
+right outboard (8B), left inboard (2B), and right inboard (8A), followed by
+those loaded on the CFT stations in the order of left aft (4C), right aft
+(6C), left forward (8C), and right forward (7C). AIM-7s on the CFT
+stations, however, are launched in the order of left forward (8C), right
+forward (7C), left aft (4C), and right aft (6C) (if AIM-7s are the same type).
+The PACS will initialize a mixed AIM-7/AIM-120 load with AIM-120s in
+priority. The launch sequence for a mixed load of MRMs is AIM-120,
+AIM-7MH, AIM-7M, and AIM-7F, regardless of which station the missiles
+are loaded on. With a mixed load of MRMs, missile reject cycles from
+AIM-120, to AIM-7MH, AIM-7M, AIM-7F, and back to AIM-120.
+
+AAW-1 D - 28
+
+
+Text from AAW-1_Air-to-Air_Programmable_Armament_Control_System_page_35.jpeg:
+AIM-120
+TELEMETRY
+POWER
+
+TARGET
+SIZE
+
+STBY | STBY DGRD
+RCS SIZE RAUT 1208 1208 120A
+
+STBY STBY
+7F 7F
+
+FLIGHT
+MEMBER ID
+
+REFER TO
+TO 1F-15E-34-1-1-1
+
+CBT 1 C STORE
+CBT 2LR PYLON
+
+DISPLAY
+
+LEGEND STATUS
+
+y AIM-120 ABOARD
+y AIM-120 BIT NOT COMPLETE
+
+y AIM-120 ABOARD
+y AIM-120 BIT COMPLETE
+y MISSILE NOT IN PRIORITY
+
+LEGEND COLOR
+
+RDY
+
+y AIM-120 ABOARD
+
+y AIM-120 4-SECOND BIT COMPLETE
+
+y MRM SELECTED ON THROTTLE WITH
+MASTER ARM SWITCH INSAFE OR
+SRM SELECTED ON THROTTLE WITH
+MASTER ARM SWITCH IN ARM
+
+y A/G NOT SELECTED
+
+y MISSILE SELECTED BY PACS IN PRIORITY
+
+DGRD
+
+HUNG
+
+y AIM-120 ABOARD
+
+y AIM-120 BIT COMPLETE
+
+y MRM SELECTED ON THROTTLE
+
+y A/G NOT SELECTED
+
+y MASTER ARM SWITCH IN ARM
+
+y MISSILE SELECTED BY PACS IN PRIORITY
+
+FAIL
+
+A/A WING VECTORS
+
+y AIM-120 ABOARD
+
+y AIM-120 BIT COMPLETE
+
+y MRM SELECTED ON THROTTLE
+
+y A/G NOT SELECTED
+
+y MASTER ARM SWITCH IN ARM
+
+y MISSILE SELECTED BY PACS IN PRIORITY
+y MISSILE DEGRADED
+
+ALL OTHER LEGENDS
+
+y AIM-120 ABOARD AFTER TIMER
+RESET OR JETTISON COMMAND APPLIED
+TO SELECTED MISSILE STATION
+
+3 4 y MISSILE FAILS BIT
+120A 120A
+jy BOTH AIM-9/DAIS AND AIM-120
+ABOARD SIGNAL PRESENT
+y AIM-120 OR DIAS ABOARD BUT NO
+1 3 4 2 AIM-120 OR DAIS IDENT
+120A 120A 120A 120A
+
+y AIM-120 ABOARD
+y BIT COMPLETE, DEGRADED
+
+1 2
+120A 120A
+
+AIM-120 MISSILE LAUNCH SEQUENCE
+
+y NO AIM-120 ABOARD OR NO 120 IDENT
+
+AAW-01-17
+
+Figure D - 17. AIM-120 Air-to-Air Display.
+
+D - 29 AAW-1
+
+
+Text from AAW-1_Air-to-Air_Programmable_Armament_Control_System_page_36.jpeg:
+GUN RATE CONTROL,
+ROUNDS REMAINING
+AND BULLET TYPE
+
+l
+
+iG)
+
+‘AIM-7
+
+3 4
+AIM-7 AIM-7
+AIM-7 LAUNCH SEQUENCE
+
+AIM-7 STATUS
+MRM STATIONS
+
+COMBAT JETTISON
+PROGRAM
+
+STATUS
+
+y AIM-7 ABOARD
+y AIM-7 NOT TUNED
+
+y AIM-7 ABOARD
+y AIM-7 TUNED
+y MISSILE NOT IN PRIORITY
+
+y AIM-7 ABOARD
+y AIM-7 TUNED
+y MRM SELECTED ON THROTTLE WITH
+
+MASTER ARM SWITCH IN SAFE
+
+y SRM SELECTED ON THROTTLE WITH
+
+MASTER SWITCH IN ARM
+
+y A/G NOT SELECTED
+y MISSILE SELECTED BY PACS IN PRIORITY
+
+y AIM-7 ABOARD
+
+y AIM-7 TUNED
+
+y MRM SELECTED ON THROTTLE
+
+y A/G NOT SELECTED
+
+y MASTER ARM SWITCH IN ARM
+
+y MISSILE SELECTED BY PACS IN PRIORITY
+
+y AIM-7 ABOARD AFTER LAUNCH
+
+OR JETTISON COMMAND APPLIED TO
+
+SELECTED MISSILE STATION
+
+y NO AIM-7 ABOARD
+
+AAW-01-18
+
+Figure D - 18. AIM-7 Air-to-Air Display.
+
+AAW-1
+
+
+Text from AAW-1_Air-to-Air_Programmable_Armament_Control_System_page_37.jpeg:
+A/A Missile Stores Limitations
+
+There are numerous limitations associated with carriage, employment and
+jettison of the AIM-120, AIM-7, or AIM-9. External stores limitations
+charts contained in TO 1F-15E-1, chapter 5 covers these limitations in
+detail. Figure D-19 shows an example of an external stores limitations
+chart. The line numbers indicated refer only to an air-to-air configured
+aircraft. Refer to the appropriate section of chapter 5 for your aircraft
+configuration.
+
+ACCELERATION-G
+
+MAXIMUM KCAS OR IMN
+OR WHICHEVER IS LESS CARRIAGE EMPLOYMENT | JETTISON
+
+LINE NUMBER
+
+CARRIAGE | EMPLOYMENT | JETTISON | SYM | UNSYM
+
+AIM-7F / M 660 660 600 BAL | BAL
+CATM-7F-3 1.4 1.4 0.95
+
+(ASIMS)
+CATM-7F
+CATM-7M
+
+AIM-9P/L/M
+
+AIM-120A
+AIM-120B
+AIM-120A
+
+(TM)
+AIM-120B
+(TM)
+AIM-120A
+(AAVI)
+AIM-120B
+(AAVI)
+CATM-120A
+CATM-120B
+
+AIM-120C
+(BLOCK 3)
+AIM-120C
+
+(TM)
+(BLOCK 3)
+CATM-120C
+
+AAW-01-19
+
+Figure D - 19. External Stores Limitations.
+
+D-31 AAW-1
+
+
+Text from AAW-1_Air-to-Air_Programmable_Armament_Control_System_page_38.jpeg:
+A/A JETTISON PROCEDURES
+
+There are three ways to jettison A/A weapons from the F-15E: emergency
+jettison, combat jettison, and selective jettison. The following discusses
+each in greater detail.
+
+Emergency Jettison
+
+The emergency jettison button (Figure D-20) can be used to jettison the
+contents of all carted CFT stations (including any AIM-7s/AIM-120s) and
+all pylons (including any AIM-9s/AIM-120s loaded) on stations 2 and 8.
+The button is “hot” anytime the aircraft is on internal or external power,
+and must be held in for approximately 1 second to complete a full load,
+unarmed, jettison sequence.
+
+WARNING
+
+Aircrews should exercise extreme caution
+to prevent an inadvertent ground-level
+jettison of all aircraft stores. Although
+the emergency jettison button is
+spring-loaded to the normal position (only
+black seen on the inside lip of the button
+guard), it can stick in the jettison/
+depressed position. This will be indicated
+by observing yellow inside the switch
+guard below the black.
+
+AAW-1 D - 32
+
+
+Text from AAW-1_Air-to-Air_Programmable_Armament_Control_System_page_39.jpeg:
+SELECT JETTISON
+
+KNOB/BUTTON
+
+Ww
+oF
+a:
+Vi yo
+OF
+MASTER 7
+ARM =
+wes
+Pd ac
+y, 5 <<
+
+ARMAMENT SAFETY SWITCH
+EMERGENCY JETTISON BUTTON ARMAMENT CONTROL PANEL AAW-01-20
+
+Figure D - 20. Jettison Controls.
+
+D - 33 AAW-1
+
+
+Text from AAW-1_Air-to-Air_Programmable_Armament_Control_System_page_4.jpeg:
+CRITERION REFERENCED OBJECTIVES (CROs)
+
+1. Interpret an A/A PACS display.
+
+2. Identify the operational logic of A/A PACS display.
+
+3. Identify the logic/procedures for A/A weapon load programming,
+
+jettison, and release.
+
+REFERENCES
+
+TO 1F-15E-34-1-1 Section I Programmable Armament
+Control Set (PACS), Air-to-Air
+Section Stores Jettison System,
+
+Air-to-Air & Combat Jettison
+
+Section III Jettison Procedures & CC
+Failure
+
+AAW-1 B-1
+
+
+Text from AAW-1_Air-to-Air_Programmable_Armament_Control_System_page_40.jpeg:
+Programming Combat Jettison
+
+Combat jettison gives you the capability to jettison preprogrammed
+aircraft stores in a combat situation. Programming is accomplished in
+accordance with the procedures in Figure D-21. This mode is “hot”
+whenever the landing gear handle is up or the armament safety switch is
+in override. From Figure D-21, note that CFT (or fuselage) loaded MRMs
+cannot be jettisoned using CBT JETT. Pylon mounted AIM-9s/AIM-120s
+can be jettisoned only by jettisoning the pylon. Reference warning below,
+cycling the combat jettison knob off and back to COMBAT will not reset
+the program to CBT 1.
+
+WARNINGS
+
+Each selection of the CBT JETT display
+reinitializes the two-push sequence and
+resets the first push of the selective
+jettison button to the CBT 1 program,
+even if the CBT 1 programmed racks,
+stores, or pylons have already been
+jettisoned.
+
+The combat jettison program is displayed
+in TRNG and is reprogrammable for the
+TRNG mode display. However, when
+CBT JETT is performed, the system exits
+TRNG mode and jettisons actual stores
+and pylons loaded and programmed in the
+CMBT mode.
+
+AAW-1 D - 34
+
+
+Text from AAW-1_Air-to-Air_Programmable_Armament_Control_System_page_41.jpeg:
+TOP LEVEL PACS TOP LEVEL PACS
+
+ARMAMENT CONTROL PANEL
+
+(20) (16)
+
+(LJ II ILC jf (c)
+
+Va PYLON FUEL
+
+BIT
+
+(15)
+
+RACK
+
+STORE,
+
+PYLON
+
+~p [CBT 1 C STORE
+CBT 2 LR PYLON (11)
+
+enter J) A
+OPO °c e
+
+CBT JETT
+DISPLAY
+
+BRT }
+
+PROGRAM:
+
+RoONM
+
+oa
+
+8.
+
+9.
+
+. PB 2 (ARMT) - SELECT.
+
+. PB 4 (CBT JETT) DISPLAY - SELECT.
+
+. SELECT JETT KNOB - OFF OR COMBAT.
+. PB 6 (CBT 1 PROGRAM) - PRESS.
+
+a.[] IS BOXED AND 2 IS UNBOXED.
+
+. SELECT STATIONS FOR CBT 1 PROGRAM.
+
+a. STORE ON SELECTED STATION IS BOXED.
+
+. SELECT RACK, STORE OR PYLON FOR CBT
+
+1 PROGRAM.
+a. SELECTED SUSPENSION IS BOXED.
+
+NOTE
+
+THE STORE LEGEND IS AUTOMATICALLY
+BOXED WHEN CBT JETT DISPLAY IS
+SELECTED.
+
+. TO ENTER CBT 1 PROGRAM,
+
+PB 10 (ENTER) - PRESS.
+
+a. BOX IS REMOVED FROMI[1]AND EXISTING PROGRAM
+ADJACENT TO CBT 1 IS REPLACED
+WITH NEW PROGRAM.
+
+PB 7 (CBT 2 PROGRAM) - PRESS.
+
+a. [2] IS BOXED, 1 IS UNBOXED.
+
+REPEAT STEPS 5 THRU 7 FOR CBT 2 PROGRAM.
+
+COMBAT JETTISON:
+
+10. SELECT JETT KNOB - COMBAT (CBT 1 AND CBT 2 BOXED).
+11. JETT BUTTON - PUSH (1ST JETT).
+12. JETT BUTTON - PUSH (2ND JETT).
+
+AAW-01-21
+
+Figure D - 21. Programming Combat Jettison.
+
+D-35
+
+AAW-1
+
+
+Text from AAW-1_Air-to-Air_Programmable_Armament_Control_System_page_42.jpeg:
+A/A Selective Jettison
+
+The A/A selective jettison feature allows you to “selectively” jettison A/A
+stores based on selections from a PACS MPD/MPCD with the selective
+jettison button. This is accomplished in accordance with the procedures in
+Figure D-22. This mode is “hot” with either the landing gear handle up or
+armament safety switch in override.
+
+7M
+
+li
+
+MPD/MPCD
+
+. SELECT JETT KNOB - AVA.
+a. A/A JETTISON CUE APPEARS ON PACS DISPLAY.
+b. MRM STATUS CAN BE DISPLAYED AS: MRM,
+STBY, RDY, HUNG, OR FAIL.
+c. WHEN NO WEAPON IS ON A STATION, THE
+INVENTORY AND LINE SEGMENT IS OMITTED.
+d. PYLON IS DISPLAYED IF A PYLON IS LOADED
+AT STATION 2 AND/OR 8.
+2. SELECT WEAPON TO BE JETTISONED.
+a. SELECTED MRM OR PYLON IS BOXED.
+SELECT BUTTONS ARE MUTUALLY EXCLUSIVE
+(ONLY ONE CAN BE SELECTED AT A TIME).
+b. IF AN AIM-9 OR AIM-120 IS HUNG, THE PYLON OF
+THE LAST HUNG AIM-9, AIM-120, 1760 FAIL OR FAIL
+ID IS AUTOMATICALLY BOXED WHEN A/A
+JETTISON IS SELECTED.
+SELECT JETT BUTTON - PRESS.
+a. MRM STATUS, LINE SEGMENT, AND MRM OR PYLON
+IS REMOVED.
+b. HUNG STATUS APPEARS IF JETTISON IS NOT
+SUCCESSFUL.
+REPEAT STEPS 2 AND 3 FOR EACH WEAPON.
+SELECT JETT KNOB - AS DESIRED.
+
+SELECT
+JETTISON
+KNOB/
+
+BUTTON
+
+~
+
+&
+
+a
+
+NOTE
+
+ARMAMENT CONTROL PANEL THE ONLY WAY TO JETTISON A HUNG
+SRM IS TO JETTISON THE PYLON.
+
+AAW-01-22
+
+Figure D - 22. A/A Selective Jettison.
+
+AAW-1 D - 36
+
+
+Text from AAW-1_Air-to-Air_Programmable_Armament_Control_System_page_43.jpeg:
+System Failures
+
+CC Failure
+
+CC failure results in the loss of the PACS display format and many PACS
+capabilities. However, with a CC failure the PACS defaults to an A/A
+mode with the following operable functions/capabilities:
+
+Master arm
+
+FCP weapons release (pickle) button
+
+AIM-120 no capability, missile will hang
+AIM-7 no weapons parameters or shoot cue
+AIM-9 boresight or uncaged, self-tracking shot
+
+M61A1 GUN fires normally, but you cannot select firing rate or set
+rounds count
+
+Air-to-air and air-to-ground selective jettison (but no CBT JETT)
+
+Emergency jettison
+
+WARNING
+
+Selecting MAN FF or RET puts the PACS
+in the A/G mode and pressing the FCP or
+RCP pickle button will release A/G stores
+only.
+
+Corrective Action
+
+Attempt to reset the CC in accordance with Dash 1 checklist procedures.
+If this does not fix the problem, adjust the mission to compensate or abort.
+
+D-37 AAW-1
+
+
+Text from AAW-1_Air-to-Air_Programmable_Armament_Control_System_page_44.jpeg:
+PACS Failure
+
+In addition to the degraded PACS capability with CC failure, the PACS
+can also fail on its own. PACS processor failure is indicated by the
+following:
+
+e = Little ordnance related data available on the HUD and none on the
+A/A radar. (CC relies on PACS processor for weapons data.)
+
+@e Unable to get ARMT (PACS) display on any MPD/MPCD.
+e AIM-120s, AIM-7s, and AIM-9s cannot be launched.
+
+e M61A1 GUN operates normally, but the rounds count and firing rate
+cannot be set or monitored.
+
+e Jettison - only the emergency jettison option is available to jettison
+ordnance.
+
+Corrective Action
+
+Cycling the PACS switch on the ground power panel to OFF and back to
+AUTO may fix the problem. If not, adjust the mission to compensate or
+abort.
+
+Master Arm Switch Failure
+
+If the HUD gun cross remains visible after selecting master arm SAFE,
+the weapons release button and trigger circuits are armed.
+
+Corrective Action
+
+Select GUN on the weapon select switch. This inhibits MRM/SRM launch
+and inhibits an A/G weapons release program. However, the gun fire
+circuit remains hot, so the trigger must be avoided. When the landing
+gear handle is placed down, the gun cross should be removed.
+
+The WSO may deactivate the gun trigger and master arm logic by pulling
+
+circuit breakers J3 (trigger) and/or K3 (master arm) on the right aft circuit
+breaker panel.
+
+AAW-1 D - 38
+
+
+Text from AAW-1_Air-to-Air_Programmable_Armament_Control_System_page_45.jpeg:
+A/A
+A/G
+AAIS
+ACP
+AIM
+AIS
+ARMT
+BIT
+CATM
+CBT
+CC
+CFT
+CMBT
+DAIS
+DGRD
+DTM
+FCP
+FF
+HOH
+HUD
+
+JETT
+
+GLOSSARY
+Air-to-air
+Air-to-ground
+Analog airborne instrumentation system
+Armament control panel
+Air intercept missile
+Airborne instrumentation system
+Armament
+Built-in test
+Captive air training missile
+Combat
+Central computer
+Conformal fuel tank
+Combat
+Digital airborne instrumentation system
+Degraded
+Data transfer module
+Front cockpit
+Free fall
+Home on helicopter
+Head-up display
+
+Jettison
+
+AAW-1
+
+
+Text from AAW-1_Air-to-Air_Programmable_Armament_Control_System_page_46.jpeg:
+LRG
+
+MAN
+
+MC
+
+MED
+
+MPCD
+
+MPD
+
+MPDP
+
+MRM
+
+OWS
+
+PACS
+
+PB
+
+PGU
+
+RCP
+
+RDY
+
+RET
+
+SML
+
+SPM
+
+SRM
+
+STBY
+
+THLD
+
+TM PWR
+
+AAW-1
+
+Launcher adapter unit
+Large
+
+Manual
+
+Mission cartridge
+
+Medium
+
+Multipurpose color display
+Multipurpose display
+Multipurpose display processor
+Medium range missile
+Overload warning system
+Programmable armament control set
+Push button
+
+Projectile gun unit
+
+Rear cockpit
+
+Ready
+
+Retard
+
+Small
+
+Shots per minute
+
+Short range missile
+Standby
+
+Threshold
+
+Telemetry power
+
+
+Text from AAW-1_Air-to-Air_Programmable_Armament_Control_System_page_47.jpeg:
+TRNG Training
+VTR Video tape recorder
+
+WSO Weapon systems officer
+
+F-3 AAW-1
+
+
+Text from AAW-1_Air-to-Air_Programmable_Armament_Control_System_page_48.jpeg:
+BACK PAGE
+COVER SHEET
+
+
+Text from AAW-1_Air-to-Air_Programmable_Armament_Control_System_page_5.jpeg:
+STUDENT PREPARATION REQUIREMENTS
+BEFORE THE CBT CLASS
+1. Read the text of this workbook, Section D.
+2. Review TO 1F-15E-34-1-1 applicable references.
+
+NOTE
+
+Bring -34 checklist to the CBT session.
+
+C-1 AAW-1
+
+
+Text from AAW-1_Air-to-Air_Programmable_Armament_Control_System_page_6.jpeg:
+(This Page Intentionally Blank)
+
+AAW-1 C-2
+
+
+Text from AAW-1_Air-to-Air_Programmable_Armament_Control_System_page_7.jpeg:
+TEXT
+INTRODUCTION
+
+The programmable armament control system (PACS) provides the
+capability for load, release programming, arming, monitoring,
+releasing/firing and jettison of air-to-surface and air-to-air munitions. The
+system is made up of computers and processors (CC, MPDP, PACS),
+wiring, displays, controls, and carriage stations. It is software
+programmable which allows for easy updating and has an extensive
+built-in test (BIT) feature which isolates faults down to the specific
+module for simplified, rapid repair. This lesson addresses the cockpit
+components: the PACS display and the armament controls. Information
+presented is primarily about air-to-air. Air-to-ground and nuclear
+operations are covered in separate lessons.
+
+To understand the PACS display, it is necessary to know the designations
+for the munitions carriage locations. As on all aircraft, the F-15E
+weapons stations are numbered left to right (Figure D-1). There is also a
+detailed side view of the left CFT weapon stations (Figure D-2).
+
+D-1 AAW-1
+
+
+Text from AAW-1_Air-to-Air_Programmable_Armament_Control_System_page_8.jpeg:
+AIR-TO-GROUND
+
+NAVIGATION
+POD
+
+v
+
+OUTBD
+STORE
+STATION
+
+LEFT CFT
+
+INBD
+STORE
+STATION
+
+2A
+(MISSILE)
+
+OR
+AIM-120
+
+2B
+(MISSILE)
+
+AAW-1
+
+MISSILE
+
+3c
+
+LANTIRN TGT
+POD
+
+AIR-TO-AIR
+("C" DENOTES CFT)
+
+STA. 7 OR 7C
+
+STA. 8
+
+STA. 6 OR 6C
+
+RIGHT
+
+LANTIRN NAV
+
+POD STORE
+
+STATION
+
+CFT
+
+OUTBD
+STORE
+
+v v
+
+AIM-7
+OR
+AIM-120
+
+Figure D - 1. Loadable Stations.
+
+D-2
+
+8A
+(MISSILE)
+
+OR
+AIM-120
+
+8B
+(MISSILE)
+
+AAW-01-01
+
+
+Text from AAW-1_Air-to-Air_Programmable_Armament_Control_System_page_9.jpeg:
+OUTBOARD
+WEAPON ROW
+
+1) {}
+I STATION 6 (OF) | — 5 (OC)
+STATION 3 (IF) STALION 2(I)
+
+{+1} -
+
+INBOARD |
+WEAPON ROW
+
+J TATION 4 (OA)
+STATION 1 (IA)
+
+AAW-01-02
+
+Figure D - 2. Left CFT Stations.
+
+Here are a few generalizations of what can go where. Wing stations 2 and
+8 can carry wing tanks, air-to-ground or air-to-air munitions or a
+combination of each. When referencing air-to-air missiles on stations 2 or
+8, A and B are used to depict the location. A is the left rail on the station
+and B is the right rail on that station. Station 5 is authorized to carry
+only air-to-surface munitions, AN/ALQ-14 (data link pod), and fuel tanks.
+CFT missile stations are for medium range missiles; if missiles are loaded
+on a CFT, the six tangential stations on that CFT cannot be used for A/G
+munitions. CFT stations designated “LC” and “RC” on the PACS display
+refer to all the CFT stations capable of carrying A/G munitions. When a
+CFT is loaded with any A/G munitions, missile carriage on that CFT is
+precluded. Refer to TO 1F-15E-1, Chapter 5 for current limitations on
+carriage and combinations of weapons loads on the aircraft.
+
+D-3 AAW-1
+
+

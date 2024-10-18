@@ -1,0 +1,1765 @@
+Text from ACG-6_Hydraulic_Systems_page_1.jpeg:
+SUPPORTS COURSES
+FIS5EBQ
+
+FISETX
+
+FISESOC
+
+ACADEMIC STUDENT WORKBOOK
+F-15E
+
+AIRCRAFT GENERAL
+ACG-6
+HYDRAULIC SYSTEMS
+
+AUGUST 1999
+
+(SUITE 3 OFP)
+
+AIR COMBAT COMMAND
+
+
+Text from ACG-6_Hydraulic_Systems_page_10.jpeg:
+Power Sources
+
+The system uses four interchangeable hydraulic pump assemblies driven
+by the left and right AMADs. One pump is provided for each of the PC
+systems and two pumps are provided for the utility system. Figure D-4
+shows that the left AMAD drives the PC1 and left utility pumps. The
+right AMAD drives the PC2 and right utility pumps.
+
+The PC1 and PC2 pumps pressurize their own separate reservoirs.
+Pressure from the left and right utility pumps are combined to pressurize
+one common utility reservoir.
+
+The PC1/2 and left utility pumps operate at a pressure of 3000 +250 psi;
+the right utility pump operates at 2775 +225 psi. The slightly lower
+pressure for the right pump reduces resonation between the pumps during
+dual pump operation. Crew members use the difference in pressure to
+help verify the operation of both pumps through a single gauge.
+
+PC1 RESERVOIR UTL RESERVOIR PC2 RESERVOIR
+
+A NON-RLS B
+CIRCUIT | | CIRCUIT | | CIRCUIT
+
+Figure D - 4. F-15E Hydraulic System.
+
+ACG-06-04
+
+Notice in Figure D-4 that each PC system is further divided into two
+separate circuits (A and B), and that the utility system is divided into
+three separate circuits (A, B and non-RLS). In all of the circuits except
+UTL non-RLS, the reservoir level sensing (RLS) system functions to
+isolate circuit leaks.
+
+ACG-6 D-4
+
+
+Text from ACG-6_Hydraulic_Systems_page_11.jpeg:
+FLIGHT CONTROL HYDRAULICS
+
+Figure D-5 shows that it is the B circuits of the PC1 and PC2 systems that
+are primarily responsible for powering the left and right flight controls,
+respectively. The A circuit of each system crosses over to share the
+operating load of the opposite stabilator through a dual system actuator.
+If one PC system is totally lost, the opposite PC system continues to
+provide stabilator control.
+
+PC UTILITY PC 2
+L AMAD L&R AMAD PUMPS R AMAD PUMP
+
+1
+PUMP
+
+RIGHT
+i STABILATOR
+RIGHT
+RUDDER
+
+ACG-06-05
+
+Figure D - 5. Flight Control Hydraulics.
+
+Figure D-5 also shows how the utility system provides backup for both PC
+systems. UTL A backs up the left wing (aileron and flap), while UTL B
+performs the same backup function for the right wing. UTL non-RLS
+provides a backup for the tail (stabilator and rudders), but does not power
+ailerons and flaps. Note that UTL A also powers a function known as the
+control stick boost/pitch compensator (CSBPC)—an important part of the
+flight control “feel” system. You will learn more about the CSBPC in the
+course on flight controls, but for now, suffice it to say it is important
+enough to require a backup source of power in case the UTL A circuit is
+lost. That backup source of power is PC2 A.
+
+D-5 ACG-6
+
+
+Text from ACG-6_Hydraulic_Systems_page_12.jpeg:
+Reservoir Level Sensing
+
+Figure D-6 depicts how the RLS system functions when a leak occurs.
+When the fluid level of a reservoir begins to drop, circuit A is shut off in an
+attempt to isolate the leak. If the leak is in circuit A, no further action
+occurs. If the leak is in circuit B, the reservoir level continues to fall,
+causing RLS to restore circuit A and shut off circuit B. The hydraulic fluid
+level stabilizes and the leak is successfully isolated.
+
+The non-RLS circuit of the utility system, however, has no RLS protection.
+If this circuit were to develop a leak, RLS would respond as described,
+first shutting off circuit A, then restoring A and shutting off B. Since this
+leak cannot be isolated, if the flight is continued, the fluid level will
+continue to drop until the reservoir is depleted and complete utility failure
+occurs. (Cockpit indications of this failure are UTL A followed by UTL B,
+followed by L PUMP and R PUMP caution.)
+
+CIRCUIT CIRCUIT
+
+LEAK OCCURS LEAK ISOLATED
+e FLUID LEVEL FALLS ¢ ROD TRIPS CIRCUIT "B"
+¢ PISTON ISOLATES ¢ CIRCUIT A RESTORED
+BUT "A" BY TRIP BY ROCKER ARM
+¢ PRESSURE SENSOR
+e PRESSURE SENSOR PROVIDES CIRCUIT "B"
+PROVIDES CIRCUIT "A" CAUTION ON DISPLAYS
+
+CAUTION ON DISPLAYS
+
+e FLUID CONTINUES
+FALL (LEAK NOT IN Te CIRCUIT) ACG-06-06
+
+Figure D - 6. Reservoir Level Sensing.
+
+ACG-6 D-6
+
+
+Text from ACG-6_Hydraulic_Systems_page_13.jpeg:
+Return Pressure Sensing (RPS) Switchover Valves
+
+The F-15E incorporates a number of RPS switchover valves, which are an
+important part of the hydraulic system because they enable one system or
+circuit to serve as backup for another. RPS switchover valves, depicted in
+Figure D-5, monitor the hydraulic pressure in the primary circuits. As
+long as that pressure is within limits, everything functions normally.
+
+If the pressure drops in a primary circuit, the RPS switchover valve
+detects it and initiates the sequence for switching over to the backup
+system. This loss of pressure could be due to a leak or loss of a pump. To
+avoid loss of the backup, the RPS tests the line downstream of its location
+to see if pressure can be maintained. This is done by initially allowing
+only a low volume flow of fluid from the backup circuit. If the line
+downstream is not damaged or leaking, the return pressure remains
+within limits and the valve completes the switchover to a full volume flow
+of the backup system. If pressure cannot be maintained, the valve does
+not allow a full switchover, but retains a low volume flow. This means the
+backup system will also leak, but at a reduced rate, and the backup
+system RLS will kick in and shut down the affected circuit.
+
+D-7 ACG-6
+
+
+Text from ACG-6_Hydraulic_Systems_page_14.jpeg:
+HYDRAULIC INDICATORS
+Cockpit Pressure Indicators
+
+Three hydraulic pressure indicators are located in the upper right corner
+of the main instrument panel in the front cockpit (Figure D-7). These
+indicators display UTIL, PC1 and PC2 hydraulic system pressure. Notice
+that although the utility system has two pumps, there is only one pressure
+indicator. A main generator is required to power the indicators.
+
+ACG-06-07
+
+Figure D - 7. Hydraulic Pressure Indicators.
+
+ACG-6 D-8
+
+
+Text from ACG-6_Hydraulic_Systems_page_15.jpeg:
+You will recall that the normal pressure readings are:
+
+PC1 (pump) 3000 +250 psi
+PC2 (pump) 3000 +250 psi
+Utility (eft pump) 3000 +250 psi
+Utility (right pump) 2775 +225 psi
+
+The Dash 1 contains guidance on abnormal readings. However, keep the
+following numbers in mind:
+
+Normal (no system demand) 2750-3250 psi
+Normal PC (with rapid control movement) 2000-2750 psi
+Requires an aircraft write-up 3250-3400 psi
+
+Maximum 3400 psi
+
+D-9 ACG-6
+
+
+Text from ACG-6_Hydraulic_Systems_page_16.jpeg:
+QUESTIONS
+
+1. On Figure D-8, label each of the components of the hydraulic system.
+
+ACG-06-08
+
+Figure D - 8.
+
+2. What is the function of each of the following?
+
+a. Hydraulic pressure indicators:
+
+b. HYD caution light:
+
+c. MPD/MPCD caution displays:
+
+3. What is the function of the reservoir level sensing (RLS) system?
+
+ACG-6 D-10
+
+
+Text from ACG-6_Hydraulic_Systems_page_17.jpeg:
+NOTE: Refer to Figure D-5 to answer the following questions. (In case of
+a hydraulic system malfunction, refer to the checklist, which includes a
+similar diagram.)
+
+4. You have just lost PC1 B. What is the backup source of hydraulic
+fluid for the left side flight controls?
+
+5. Ifyou completely lose both PC systems, how will your flight controls
+be powered?
+
+6. Inan unusual circumstance, you lose PC1 B and UTL A. How are
+your flight controls powered? Have you lost any subsystems?
+
+7. On another mission, you lose PC2 A and UTL A. What subsystems
+have you lost?
+
+8. List the normal operating pressures for each of these hydraulic
+
+systems:
+
+a. PC1/PC2 Bs psi
+
+b. Utility L PUMP Bs psi
+ce. Utility R PUMP + psi
+
+D-11 ACG-6
+
+
+Text from ACG-6_Hydraulic_Systems_page_18.jpeg:
+ANSWERS
+
+ACG-06-09
+
+Figure D - 9.
+
+a. Hydraulic pressure indicators - Display pressure in the
+respective PC1, PC2 and/or utility hydraulic systems.
+
+b. HYD caution light - Comes on when any hydraulic malfunction
+is detected in order to direct your attention to hydraulic
+indicators and the MPD/MPCD.
+
+c. MPD/MPCD caution displays - Indicate the specific system that
+has malfunctioned.
+
+Reservoir level sensing (RLS) - Protects the hydraulic system by
+isolating leaks. It works on the principle that a leak developed in the
+circuit will cause the reservoir level to drop.
+
+UTL A would power the left aileron and flap while the UTL non-RLS
+would power the left rudder and the PC1 B side of the dual actuator
+for the left stabilator. PC2 A would continue to power its half of the
+left stabilator.
+
+UTL A and UTLB would power the left and right ailerons and flaps
+respectively, and UTL non-RLS would power both the left and right
+stabilators and rudders. Although only one-half of the stabilator dual
+actuators would be powered, this is sufficient to provide complete
+control throughout the flight envelope.
+
+ACG-6 D-12
+
+
+Text from ACG-6_Hydraulic_Systems_page_19.jpeg:
+UTL non-RLS would power the left rudder and half of the left
+stabilator dual actuator, while PC2 A would continue to power its
+half of the left stabilator dual actuator. However, both primary and
+backup systems to the left wing have been lost and you should not
+lower the flaps. Any attempt to do so would result in a split flap
+configuration. Note that an identical situation would apply to the
+right side if, instead, you lost the UTL B circuit in combination with
+the PC2 B circuit.
+
+You have lost one-half of the left dual stab actuator, and you have
+completely lost the CSBPC function. Although losing half of a dual
+stab actuator does not present a problem, losing the CSBPC function
+degrades aircraft handling characteristics. This is, therefore, one of
+the most serious hydraulic malfunctions.
+
+PC1/PC2 3000 +250 psi
+Utility L PUMP 3000 +250 psi
+Utility R PUMP 2775 +225 psi
+
+D-13 ACG-6
+
+
+Text from ACG-6_Hydraulic_Systems_page_2.jpeg:
+ADMINISTRATIVE INFORMATION
+
+This student workbook is designed to provide information on the F-15E,
+its systems, and capabilities. It is not a sole source document, but is to be
+used in conjunction with other standard Air Force publications and
+technical manuals. If you find any differences between the material
+contained herein and other governing regulations, adhere to the
+regulations and notify the OPDR.
+
+Changes to this workbook are indicated with a heavy black line in the left
+margin.
+
+Forward recommendations for revision or change to 4 TS, SJAFB, NC,
+275381.
+
+Supersedes: ACG-6, December, 1998
+
+OPDR: 4 TS
+
+Index of Changes
+
+Effective Date Pages Affected
+
+
+
+Text from ACG-6_Hydraulic_Systems_page_20.jpeg:
+UTILITY SUBSYSTEMS
+
+In addition to providing a backup source of power for the two PC systems,
+the utility hydraulic system is responsible for powering all other hydraulic
+systems in the aircraft (Figure D-10). The UTL A circuit powers the
+majority of these hydraulic subsystems and the UTL B circuit provides
+power to recharge the JFS accumulators, allowing UTL B to back up the
+landing gear, brakes and nosewheel steering through the JFS
+accumulators. JFS accumulators are also used to start the JFS.
+
+PUMP
+
+=| HOOKRETRACT_| x
+[EMERGEN _],
+—— Ep
+O d
+=n sTeerne [11
+|
+
+[I CONTROL VALVE
+D>] CHECK VALVE
+
+RIGHT INLET
+
+J
+
+a SLIPWAY
+|} | SPEED BRAKE
+RADAR ANTENNA
+
+JSC CANOPY
+
+>| CANOPY ACCUM
+
+[| |= IL & R PRIM Hx DR
+(-220 ENGINES ONLY)
+
+ACG-06-10
+
+Figure D - 10. Utility Hydraulic System.
+
+Landing Gear
+
+The landing gear is one of the major subsystems powered by utility
+hydraulics. It is electrically controlled by a switch in the front cockpit and
+hydraulically operated through the UTL A circuit. An electronic
+weight-on-wheels switch, located on each landing gear strut, prevents the
+gear from being retracted on the ground.
+
+The landing gear handle, once raised, moves into a detent to prevent
+
+inadvertent lowering under G-loading. To lower the gear, the handle
+must be moved to the right (out of the detent) and down.
+
+ACG-6 D-14
+
+
+Text from ACG-6_Hydraulic_Systems_page_21.jpeg:
+Three green lights in each cockpit provide down-and-locked indications for
+each of the gear. A red light in the gear handle and a red UNSAFE light
+in the RCP provide an indication anytime the gear is not in the position
+called for by the gear handle. However, the red light is not independent of
+the three green lights in the gear down position. The green and red
+operate from the same indicator switch on each gear overcenter locking
+bar. The red light will go out when the third green comes on. You should
+not get three green and a red light nor less than three green with no red
+light unless a bulb is out. The bottom line is that a lack of a red light is
+not an indication of safe gear down. During the retract cycle, this light
+does not go out until all gear doors are up and locked.
+
+A redundant gear down sensor tells the main gear doors to close after the
+gear is overcenter locked. Closed main gear doors are an indication of
+main gear safe using the normal gear system.
+In addition to the position indicators, another guard against gear up
+landings is provided in the form of a landing gear warning tone. If all
+gear are not down and locked, the tone is activated 10 seconds after the
+gear handle is placed down. The volume of the tone is not adjustable. It
+also comes on in the landing regime with
+
+° altitude less than 10,000 feet MSL,
+
+e airspeed less than 200 KCAS,
+
+° greater than 250 fpm descent rate and
+
+e —_ gear handle is not down.
+These four parameters must be met to activate the tone. Correcting one
+
+silences the tone. Since the tone requires inputs from the air data
+computer (ADC), the tone defaults to the ON position if the ADC fails.
+
+D-15 ACG-6
+
+
+Text from ACG-6_Hydraulic_Systems_page_22.jpeg:
+There is, however, a tone silence button mounted next to the gear handle
+which allows the pilot an override feature. A landing gear control circuit
+breaker is available to the pilot on the lower portion of the FCP main
+instrument panel, next to the air conditioning vent. Ifthe circuit breaker
+pops, the warning tone is inoperative; however, the position indicators still
+operate normally and the red light will illuminate in the handle even if
+the gear is up and locked.
+
+Pulling one of the emergency landing gear handles located on the left
+main instrument panel in each cockpit will lower the landing gear in an
+emergency (Figure D-11). Pulling the handle interrupts normal hydraulic
+and electrical power to the gear and the JFS accumulator pressure
+provides emergency hydraulic pressure to unlock the gear and gear doors.
+The gear will gravity fall to the down position; yawing the aircraft can
+assist in this process to ensure the overcenter downlock is engaged to hold
+the gear in the locked position. Even if the gear are all unlocked, they
+may not fully extend due to a hydraulic lock. Emergency gear extension
+also operates a bypass valve to release all hydraulic pressure and allow
+full gravity extension. The gear doors will remain open when using the
+emergency system.
+
+The emergency landing gear handle can be reset from the front cockpit
+only, by rotating the handle 45° clockwise before pushing in. After
+resetting, and with UTL A available, the doors will shut.
+
+ACG-06-11
+
+Figure D - 11. Emergency Landing Gear Handle.
+
+ACG-6 D-16
+
+
+Text from ACG-6_Hydraulic_Systems_page_23.jpeg:
+Flaps
+
+The F-15E incorporates two-position (up or down) trailing edge flaps with
+30° of travel. A switch in the front cockpit electrically controls these flaps
+and they are hydraulically operated. The switch is formed in the shape of
+a small flap and is located on the outboard side of the FCP throttle
+quadrant. Each cockpit contains two flap indicator lights (Figure D-12).
+The upper light is yellow (amber) and indicates that the flaps are in
+transit. The lower light is green, indicating that the flaps are full down.
+Both lights extinguished indicate that the flaps are full up.
+
+ACG-06-12
+
+Figure D - 12. Flap Indicators.
+
+A flap blowup switch protects the flaps from structural damage if they are
+inadvertently left down. The blowup switch automatically retracts the
+flaps at 250 knots and allows them to extend automatically at no less than
+230 knots, provided the flap switch remains down.
+
+D-17 ACG-6
+
+
+Text from ACG-6_Hydraulic_Systems_page_24.jpeg:
+Wheel Brakes
+
+UTL A hydraulically powers the wheel brakes and rudder pedal toe
+pressure operates them. The braking force applied at the main wheels is
+directly proportional to the amount of pedal displacement.
+
+A two-position electrical toggle switch on the right side of the FCP lower
+main instrument panel activates the holding brake (Figure D-13). When
+switched to the ON position, the switch activates a valve to apply a full
+3000 psi of hydraulic pressure to the brakes. DO NOT PLACE THE
+HOLDING BRAKE TO ON WHILE MOVING. The switch is electrically
+held in the ON position and trips off automatically whenever the throttle
+is advanced above idle, weight is off the gear, or electrical power is
+interrupted. A malfunction in the electrical system can release the brakes
+without turning the switch off when advancing the throttles. Should this
+occur, the brakes might be on when landing with the throttles at idle. The
+proper procedure is to turn the holding brake off rather than depend on
+the throttles.
+
+: BRAKE HOLD
+eee ON
+
+ACG-06-13
+
+Figure D - 18. Holding Brake Switch.
+
+ACG-6 D-18
+
+
+Text from ACG-6_Hydraulic_Systems_page_25.jpeg:
+The wheel brakes incorporate an antiskid feature which is capable of
+detecting an impending skid and regulates brake pressure to maintain a
+controlled (rolling) skid. Antiskid is selectable through a three-position
+electrical toggle switch located on the FCP MISC panel, forward of the
+throttles (Figure D-14).
+
+ANTI SKID
+
+ACG-06-14
+
+Figure D - 14. Antiskid Switch.
+
+The NORM (forward) position of the antiskid switch selects antiskid
+protection when the gear handle is down. This position enables a
+touchdown protection circuit which disables brakes until both main
+wheels spin up to 50 knots or, if above 50 knots at touchdown (such as
+after a bounce), 5 seconds after touchdown. This feature prevents blown
+tires if brakes are inadvertently applied during touchdown. The spin up
+(50 knots) signal is also used to disable the aileron rudder interconnect
+(ARID) and provide better crosswind control during the landing roll.
+
+Failure of the antiskid function causes a caution display on the
+MPD/MPCD and illumination of the MASTER CAUTION light with the
+gear handle down. If this occurs, the PULSER position should be selected
+to ensure ARI disconnect.
+
+D-19 ACG-6
+
+
+Text from ACG-6_Hydraulic_Systems_page_26.jpeg:
+A malfunction of certain relays or a left main gear down indicator switch
+can cause the antiskid warning to illuminate in flight with the gear
+handle up and may also show an unsafe left main gear with the gear
+down.
+
+The PULSER (middle) position of the antiskid switch causes repeated
+interruption of applied brake pressure, and should be used at high speeds
+(above 30 knots) if the antiskid has malfunctioned. PULSER was
+designed to reduce tire wear and the probability of tire blowout from
+locked wheels. However, a blown tire is the likely outcome of braking
+with PULSER and all F-15E bases have reported blown tires as a result of
+using PULSER. An approach-end cable engagement should be considered.
+
+Another difference is that the aircraft cannot be completely stopped in the
+PULSER mode. To stop the aircraft, select the OFF (aft) position when
+the aircraft is slowed to normal taxi speed (greater than 30 knots).
+Selecting OFF provides manual brakes (i.e., no antiskid protection).
+
+ACG-6 D - 20
+
+
+Text from ACG-6_Hydraulic_Systems_page_27.jpeg:
+Emergency Brakes
+
+An emergency brake/steering handle is located in each cockpit in the lower
+center of the main instrument panel (Figure D-15). When pulled, the JFS
+accumulator pressure provides emergency hydraulic pressure to the
+brakes. With UTL B operational, emergency hydraulic fluid is
+continuously replenished and the accumulators stay charged. However,
+even with UTL B inoperative, sufficient reserve fluid is normally available
+to bring the aircraft to a stop but the brakes should not be continuously
+pumped, as fluid is lost to return lines as the brakes are released.
+
+EMERG BK
+“| ADJ
+
+ACG-06-15
+
+Figure D - 15. Emergency Brake/Steering Handle.
+
+Antiskid and PULSER brakes are not available with the emergency brake
+handle pulled. If UTL A is operational, resetting the handle restores
+normal brakes, and therefore, antiskid/PULSER operation.
+
+CAUTION
+
+Pulling the emergency brake handle
+above 70 knots increases the possibility of
+blown tires.
+
+Do not pull the handle above 70 knots unless immediately required for
+braking or directional control.
+
+D-21 ACG-6
+
+
+Text from ACG-6_Hydraulic_Systems_page_28.jpeg:
+Nose Gear Steering
+
+Nose gear steering is manually selected with rudder pedal displacement
+and hydraulically operated by the UTL A circuit. It is engaged and
+operational anytime weight is on the nose gear. Full time nose gear
+steering provides between 15-30° of turning authority. For a 45°
+maneuvering range of turning authority, depress and hold the nosewheel
+steering button on the FCP stick grip.
+
+To select the nose gear steering disconnect feature, depress and hold the
+paddle switch on either stick grip. With the disengage feature selected,
+the nosewheel becomes free swiveling (360°) and directional control must
+be maintained by using differential braking. When the paddle switch is
+released, the system does not reengage if the nose gear has rotated more
+than approximately 56°. However, if the nose gear steering button is
+engaged with the nose gear rotated beyond 45°, the nose gear is
+immediately driven back to the 45° position. When centering action
+reduces the angle below 45°, the NGS system reengages.
+
+Emergency nose gear steering is available by pulling the emergency
+brake/steering handle in either cockpit. JFS accumulator pressure then
+provides emergency hydraulic pressure for steering when the handle is
+pulled. Both of the normal steering ranges are available; however, the
+disengage feature of the paddle switch is not. With the emergency
+brake/steering handle pulled, depressing the paddle switch interrupts
+UTLA pressure (if present) to the nose gear steering and prevents a
+sluggish crossover to emergency pressure. When operating with the
+handle pulled, the aircraft should not be taxied if the JFS LOW caution is
+observed. If UTLB is available, the emergency hydraulic fluid will be
+replenished and keep the JFS accumulators fully charged. If UTL A is
+operational, resetting the handle restores normal system operation.
+
+Do not pull the emergency handle above 70 knots unless needed for
+immediate directional control, as a possibility of blown tires exists.
+
+ACG-6 D - 22
+
+
+Text from ACG-6_Hydraulic_Systems_page_29.jpeg:
+Speed Brake
+
+The speed brake is located on top of the fuselage just aft of the canopy. It
+is hydraulically operated using UTL A and electrically controlled b a
+three-position switch on the right throttle of each cockpit (Figure D-16).
+
+ACG-06-16
+
+Figure D - 16. Speed Brake Switch.
+
+The forward position on the switch retracts the speed brake and the aft
+position extends it. A manually selected center position (FCP) stops the
+speed brake at any intermediate position between full open or closed. The
+FCP switch must be in the center position for the speed brake to remain in
+the position selected by the RCP; if not, the speed brake returns to the
+position commanded by the FCP when the RCP switch is released. The
+RCP switch is spring loaded to the HOLD position. If the RCP switch is
+held in the extend or retract position, it overrides the FCP switch position.
+
+Air loads at high speeds (approximately 450 KCAS) may prevent the
+speed brake from fully opening, but speed brake extension at any speed
+does not adversely affect aircraft handling characteristics. An AOA
+interrupt feature prevents extension of the speed brake above 25 units
+AOA. If extended, and the AOA is increased above 25 units, the speed
+brake automatically retracts to prevent airflow interference to the
+stabilators, and then reopens when AOA is reduced below 25 units
+provided either switch is still in the aft position.
+
+D - 23 ACG-6
+
+
+Text from ACG-6_Hydraulic_Systems_page_3.jpeg:
+AIRCRAFT GENERAL
+
+=)
+
+—
+Dif —t_t_Wyp y g hon oo
+
+COVER
+
+HYDRAULIC SYSTEMS
+
+INTRODUCTION
+
+This workbook is your guide in studying the F-15E hydraulic system. It
+familiarizes you with the components, nomenclature, and operational
+characteristics of the hydraulic system, and provides you with knowledge
+needed to safely operate the F-15E aircraft.
+
+CONTENTS:
+
+INTRODDUGCTION 6 ces cuss sss sess sen sens sews suns sues sure sens set sews sues sur seins sen seis sess sumn axes « A-1
+CRITERION REFERENCED OBJECTIVES (CROs).........000eeeeeeeeeeeeeeee B-1
+STUDENT PREPARATION REQUIREMENTS . 0.00... eeeeeeeeeeee C-1
+TEXT oc eecccccceessseecceesseeeecessseeeceessseeeecesssseeeseeessaeeeseessaeeeseeeeaaeeseeea D-1
+SPONGY RC esate Ae Wad see ces ane es toe see ce ape ses tas cee se aes: ees arse seas ses ese ee ase: E-1
+GLOSSARY. ieee eeccceeseeesscecssneeecesaeeceseecessaeeceseecessaeesesaaeeeesaeeeesnaeeeseas F-1
+
+A-1 ACG-6
+
+
+Text from ACG-6_Hydraulic_Systems_page_30.jpeg:
+The speed brake defaults to the closed position with either electrical or
+UTLA hydraulic failure. In the unlikely event that it should ever fail in
+the open position, pulling the speed brake circuit breaker, located on the
+center pedestal in the front cockpit, removes electrical power and allows it
+to retract.
+
+Arresting Hook
+
+A two-position electric switch on the left subpanel in each cockpit controls
+the arresting hook (Figure D-17).
+
+ACG-06-17
+
+Figure D - 17. Arresting Hook Switch.
+
+Selecting the DOWN position of the switch electrically unlocks the hook
+and allows it to gravity fall to the down position. A hydraulic dashpot
+assists in lowering and holds the hook down to prevent skipping on the
+runway. The MASTER CAUTION light and HOOK caution illuminate
+whenever the hook is not in the up-and-locked position. The MASTER
+CAUTION may be reset, but the HOOK caution remains on the
+MPD/MPCD. The UP position of the switch allows the hook to be
+retracted and locked, using UTL A hydraulic pressure. The hook comes
+down in 2 seconds and retracts in 10 seconds.
+
+AFI 11-2F-15EV3, Chapter 7 requires that the hook be lowered for an
+abort if there is any doubt about the ability to stop on the runway. The
+4th FW Inflight Guide (page H-1) also lists a requirement to lower the
+hook when aborting above 100 KCAS.
+
+ACG-6 D - 24
+
+
+Text from ACG-6_Hydraulic_Systems_page_31.jpeg:
+QUESTIONS
+Which utility circuit powers the majority of the hydraulic
+
+subsystems?
+
+Which utility circuit is responsible for charging the JFS
+accumulators?
+
+Under which circumstances will the landing gear warning tone come
+on?
+
+What are the two major differences between normal antiskid and
+PULSER operation?
+
+During normal operations, how is nose gear steering affected by
+depressing the paddle switch in either cockpit?
+
+When can you expect the speed brake to automatically retract and
+extend?
+
+Under what circumstances will the HOOK caution be displayed?
+
+D - 25 ACG-6
+
+
+Text from ACG-6_Hydraulic_Systems_page_32.jpeg:
+ANSWERS
+1. The UTLA circuit powers the majority of the hydraulic subsystems.
+
+2. The UTLB circuit charges the JFS accumulators by providing
+emergency hydraulic fluid. The JFS accumulators, in turn, provide a
+backup pressure to lower the landing gear and operate the nose gear
+steering and brakes.
+
+3. The landing gear warning tone will sound 10 seconds after the gear
+handle is lowered if the gear are not down and locked. It also sounds
+anytime the aircraft is below 10,000 feet MSL, less than 200 knots,
+greater than 250 fpm decent rate and if the gear handle is not down.
+If the ADC fails, the tone defaults to the ON position. The tone may
+be silenced anytime with the gear warning tone silence button (FCP)
+or the voice warning/tone silence button in either cockpit.
+
+4. Normal antiskid regulates brake pressure to maintain a controlled
+(rolling) skid, whereas PULSER operation repeatedly interrupts
+applied brake pressure. The aircraft cannot be completely stopped in
+the PULSER mode, and pulser braking has a high possibility of
+blown tires.
+
+5. Nose gear steering is disengaged and the nosewheel becomes free
+swivelling through 360°.
+
+6. The speed brake will automatically retract whenever AOA exceeds 25
+units. It will open again automatically when AOA is reduced below
+
+25 units, if a speed brake switch is still in the aft (open) position.
+
+7. The HOOK caution will be displayed anytime the hook is not up and
+locked.
+
+ACG-6 D - 26
+
+
+Text from ACG-6_Hydraulic_Systems_page_33.jpeg:
+HYDRAULIC SYSTEM MALFUNCTIONS
+
+Thanks to reservoir level sensing, return pressure sensing and built-in
+redundancy, hydraulic system malfunctions normally do not present a
+serious emergency. However, as with any major system malfunction, they
+are cause to terminate your mission and land as soon as practicable
+because hydraulic system malfunctions may be an early sign of a more
+serious problem. There are only three hydraulic system malfunctions
+which require you to complete emergency procedures actions; however,
+you should refer to the color coded Hydraulic Flow Diagram - Flight
+Controls in your checklist (reproduced in black and white in Figure D-18)
+whenever a hydraulic malfunction is detected.
+
+D-27 ACG-6
+
+
+Text from ACG-6_Hydraulic_Systems_page_34.jpeg:
+PC 1 UTILITY PC 2
+L AMAD PUMP L&R AMAD PUMPS R AMAD PUMP
+
+[ FSS
+‘SS
+
+RIGHT RIGHT
+FLAP AILERON
+
+i LEFT a a RIGHT
+STABILATOR : STABILATOR
+LEFT CSBPC RIGHT
+RUDDER RUDDER
+Va
+QO SWITCHOVER VALVE
+
+UTIL eR MAD [CONTROL VALVE
+UTLA JNORLS | UTLB D>] CHECK VALVE
+|
+
+| EMERGEN |
+et
+G
+
+y
+
+BS
+
+[| |) HOOK RETRACT
+
+LEFT INLET
+ANTISKID
+BRAKES _
+
+RIGHT INLET
+
+C==[ tear} -$-—t — <
+Te steerne 0) a
+Csr ere] [rs stanren J
+
+RADAR ANTENNA %y
+CANOPY
+>] CANOPY ACCUM
+
+[| [== SIL & R PRIM Hx DR
+(-220 ENGINES ONLY)
+
+rmcn Ame
+DMAWSAV
+
+ACG-06-18
+
+Figure D - 18. Flight Control Hydraulics.
+
+ACG-6 D - 28
+
+
+Text from ACG-6_Hydraulic_Systems_page_35.jpeg:
+Caution Lights
+
+A major category caution light for the hydraulic system is located in each
+cockpit (Figures D-19 and D-20). The light is labeled HYD in both
+cockpits. It illuminates anytime a malfunction is detected in a hydraulic
+system component and simultaneously illuminates the MASTER
+CAUTION light in the FCP and RCP. Resetting the MASTER CAUTION
+light in the FCP will not extinguish the HYD caution light or any
+associated caution on the MPD/MPCD. Other related caution lights may
+illuminate depending on the systems affected.
+
+ACG-06-19
+
+Figure D - 19. Hydraulic Caution Lights (Front Cockpit).
+
+D - 29 ACG-6
+
+
+Text from ACG-6_Hydraulic_Systems_page_36.jpeg:
+J MSTR
+CAUT ©
+
+ACG-06-20
+
+Figure D - 20. Hydraulic Caution Lights (Rear Cockpit).
+
+ACG-6 D - 30
+
+
+Text from ACG-6_Hydraulic_Systems_page_37.jpeg:
+MPD/MPCD Caution Displays
+
+In addition to the major category caution lights in both cockpits, a specific
+system caution is displayed on the right MPD (FCP) or the right MPCD
+(RCP) to help you determine what type of malfunction has taken place.
+
+For example, when an RLS valve actuates to shut off a circuit, the affected
+circuit is displayed as a caution on the MPD/MPCD; i.e., PC1 A, PC1 B,
+PC2 A, PC2 B, UTL A, or UTLB. (Note the PC1 A caution shown in
+Figure D-21.)
+
+When a utility hydraulic pump has failed (or output pressure is low), an
+
+L PUMP or R PUMP caution, as appropriate, is displayed. PC pump
+failure (or low pressure) is indicated by displaying both PC A and B circuit
+cautions, as well as low or zero pressure on the respective PC hydraulic
+pressure gauge; since there is only one pump per PC system, a separate
+pump caution is not required.
+
+ACG-06-21
+
+Figure D - 21. Hydraulic Caution Display.
+
+D-31 ACG-6
+
+
+Text from ACG-6_Hydraulic_Systems_page_38.jpeg:
+Although combination or multiple failures of different hydraulic circuits or
+systems is not common, they may occur if the aircraft becomes damaged or
+if a hydraulic malfunction has occurred and a subsequent emergency
+requires an engine to be shut down. Therefore, with any of the following
+malfunctions, more cautions or warnings may be displayed than those
+listed.
+
+Single Circuit Failure of a PC System
+
+Illumination of the MASTER CAUTION and HYD caution lights indicates
+this malfunction. In addition, the appropriate circuit caution displays on
+the MPD/MPCD. There are no changes in the hydraulic pressure
+readings.
+
+Due to RLS protection and switchover valves, there are no adverse effects
+with this malfunction; however, you should terminate your mission.
+
+Total Failure of a PC System
+
+Illumination of the MASTER CAUTION and HYD caution lights indicates
+this malfunction. The appropriate PC A and PC B cautions display on the
+MPD/MPCD, and the appropriate PC pressure reading is low or zero.
+
+Due to system redundancy, there are no adverse effects; however, you
+should terminate your mission.
+
+Single Utility Pump Failure
+
+Illumination of the MASTER CAUTION and HYD caution lights also
+indicates this failure. Either L PUMP or R PUMP displays on the
+MPD/MPCD. If the right pump has failed, you see no changes on the
+hydraulic pressure gauges, but if the left pump has failed, you may see the
+utility pressure indicating slightly less than normal (since you are reading
+the 2775 +225 psi produced by the right pump).
+
+Since only one pump is required to operate the utility system, there are no
+adverse effects; however, you may notice a significant temporary pressure
+drop and slower than normal operation of utility systems. Terminate your
+mission.
+
+ACG-6 D - 32
+
+
+Text from ACG-6_Hydraulic_Systems_page_39.jpeg:
+Double Utility Pump Failure (refer to checklist procedure - Total
+Utility Failure)
+
+There are several ways to lose total utility pressure: loss of both utility
+pumps, one pump and the opposite AMAD or engine, or a leak in the
+non-RLS system. You should land as soon as possible, refer to the
+Landing Gear Emergency Extension checklist and consider an
+approach-end arrestment. Pull the emergency brake/steering handle after
+the nosewheel is on the ground. Remember the 70-knot caution to prevent
+the possibility of blown tires. Note that this procedure is basically the
+same as the UTL A circuit failure below. In an attempt to keep the JFS
+accumulators fully charged for emergency braking, it is prudent to
+consider lowering the gear when UTL A is available during a non-RLS
+leak.
+
+Utility A Circuit Failure (refer to checklist procedure)
+
+This malfunction is the most serious single system hydraulic malfunction
+because of the number of systems rendered inoperative. The MASTER
+CAUTION and HYD caution lights illuminate and you should see the UTL
+A caution displayed on the MPD/MPCD. There should be no change in the
+pressure readings. Failure of one of the systems powered by UTL A, such
+as the radar antenna or speed brake, may alert you to the malfunction.
+With this malfunction, you lose all systems normally powered by UTL A.
+These include the left ramp, which moves full up due to air loads (there is
+a possibility of compressor stalls at high speeds and/or high angles of
+attack), normal landing gear lowering and retraction, slipway door, nose
+gear steering, wheel brakes and antiskid, speed brake, radar antenna,
+canopy and the ability to raise the hook.
+
+Utility A circuit failure is a checklist emergency and requires you to read
+three separate checklists, including UTL A Malfunction, Landing Gear
+Emergency Extension, and Approach-End Arrestment. You are then
+required to pull the emergency brake/steering handle after the nosewheel
+is on the ground.
+
+Utility B Circuit Failure
+The MASTER CAUTION illuminates (the HYD light remains on from the
+
+preceding UTL A), then UTL A changes (RLS) to the UTL B caution
+display on the MPD/MPCD. There is no change in pressure readings.
+
+D - 33 ACG-6
+
+
+Text from ACG-6_Hydraulic_Systems_page_4.jpeg:
+CRITERION REFERENCED OBJECTIVES (CROs)
+
+1. Identify the major components and indicators of the hydraulic
+system, their functions, and operational characteristics.
+
+2. Identify the operating limitations for the hydraulic system and
+hydraulically powered systems.
+
+3. Identify the correct operation of hydraulically powered subsystems in
+the normal and backup modes.
+
+4. Given readings on hydraulic-related cockpit displays, identify the
+malfunctions and their effect on further operations.
+
+REFERENCES
+
+TO 1F-15E-1
+
+Ath Fighter Wing
+
+Inflight Guide
+
+AFI 11-2F-15EV3
+
+ACG-6
+
+Section I
+
+Section III
+
+Section V
+
+Section A
+
+Section E
+
+Section F
+
+Chapter 7
+
+Hydraulic Systems
+
+Hydraulic Systems
+Emergencies
+
+Hydraulic Operating
+Limitations
+Local/Coordinates
+Abnormal Ops
+Miscellaneous
+
+Abnormal Operating
+Procedures
+
+
+Text from ACG-6_Hydraulic_Systems_page_40.jpeg:
+You lose the gun drive. The JFS accumulators will no longer be recharged
+if used, and the right ramp raises to the full-up position (R INLET light
+on) due to air loads.
+
+As long as you do not need to use the gun on the way home, there are no
+adverse effects with this malfunction. Terminate the mission and land as
+soon as practicable.
+
+Combination Failures
+
+Due to the number of circuits and systems involved, any number of
+combination failures may be experienced. You may use the hydraulic
+system diagrams to determine what the indications and effects of these
+
+may be, but here are a few of the most serious.
+
+UTL A and PC2 A Failure (refer to checklist procedure)
+
+The MASTER CAUTION and HYD caution lights illuminate and the
+UTLA, PC2 A, LINLET, PITCH RATIO and ROLL RATIO cautions
+display on the MPD/MPCD. The pressure gauges do not indicate any
+change unless total loss of Utility or PC2 causes the circuit failure. In
+addition to losing all the systems covered under UTL A failure, you lose
+the CSBPC function; this is what causes the PITCH RATIO and ROLL
+RATIO cautions to be displayed. This is a very important part of your
+flight control system and its loss degrades aircraft controllability.
+
+UTL A/PC2 A is the third malfunction which requires a checklist
+response. It is a serious combination malfunction because of the loss of all
+the UTL A systems, combined with aircraft stability problems. If you are
+supersonic when this occurs, you should carefully slow to subsonic before
+completing checklist procedures. Terminate the mission and land as soon
+as practicable. Checklist response is basically the same asin UTLA
+failure, but you are required to perform a controllability check prior to
+commencing your approach.
+
+UTL A and PC1 B Failure
+
+The MASTER CAUTION and HYD caution lights illuminate, accompanied
+by at least the UTL A, L INLET and PC1 B cautions on the MPD/MPCD.
+(Remember, PC1 A must have been seen before the RLS switched to
+
+PC1 B).
+
+ACG-6 D - 34
+
+
+Text from ACG-6_Hydraulic_Systems_page_41.jpeg:
+Again, you have all the effects of losing UTL A, but if you refer to the
+hydraulic diagram, you find that you have also lost both primary and
+backup actuation for the left aileron and flap. Any attempt to lower the
+flaps results in a split flap configuration.
+
+NOTE: Switchover valves have been known to fail. It is a good idea
+anytime you lose a PC B circuit to check if the aileron is working prior to
+lowering the flaps. If the switchover valve has failed, a split flap condition
+will not show on the MPDs, but you will have one.
+
+You are required to complete all three checklists in the UTL A failure,
+plus make a no flap approach and landing. Terminate your mission and
+
+land as soon as practicable.
+
+UTLB and PC2 B Failure
+
+The MASTER CAUTION and HYD caution lights illuminate, along with
+UTLB, R INLET and PC2 B cautions on the MPD/MPCD (preceded by
+UTL A, L INLET and PC2 A until RLS occurs). You lose the same
+systems covered under UTL B failure, and control of the right aileron and
+flap.
+
+Terminate the mission and land as soon as practicable. Plan a no flap
+approach and landing. Do not attempt to lower the flaps, because this
+
+also results in a split flap configuration.
+
+Leak in Stabilator/Rudder Area
+
+With this malfunction, the MASTER CAUTION and HYD lights come on
+with one of the PC A circuit cautions displayed on the MPD/MPCD. The
+PC A caution goes out and the same system’s PC B caution replaces it.
+The light sequence is due, at first, to the functioning of the RLS system
+(PC A followed by PC B cautions). When the PC B caution illuminates
+due to zero pressure in that circuit, the switchover valve activates and
+depletion of the utility system commences. Since the leak is in the aft
+area, the non-RLS is the backup system and complete utility failure is
+imminent. Follow checklist procedures for total utility system failure.
+Terminate the mission and land as soon as possible. The possibility of a
+slow leak is a good reason never to delay returning to base if any
+hydraulic circuit is shut down. If practical, the landing gear should be
+lowered while UTL B caution is displayed (UTL A restored until total UTL
+failure occurs) to preserve fully charged JFS accumulators.
+
+D-35 ACG-6
+
+
+Text from ACG-6_Hydraulic_Systems_page_42.jpeg:
+Compounded Emergencies
+
+Any number of combinations of emergencies exist that could fail a whole
+PC and/or the utility system. Therefore, it is important to understand the
+chart in the checklist and determine what is lost. For example, a right
+engine failure (that is not windmilling sufficiently to provide hydraulics)
+or a right AMAD failure combined with a left utility pump would cause
+the loss of all PC2 and all utility pressure. You would lose the CSBPC and
+have no flaps on the right wing. PC1 A and PC1 B would be the only
+circuits operating but you could still fly. You would not only need to look
+at the total utility failure but also at UTL A and PC2 A failures which
+refer you to still more checklists.
+
+Now, let us shift our thoughts to the effects of hydraulic system failures on
+utility subsystems.
+
+Loss of Directional Control (refer to checklist)
+
+Release the brakes and pull the emergency brake/steering handle.
+Depress and hold the paddle switch to prevent sluggish crossover to
+emergency hydraulic pressure.
+
+Loss of Brakes (refer to checklist)
+Put the hook down in case a cable engagement becomes necessary.
+
+If stopping distance is not critical, turn the antiskid switch to PULSER or
+OFF (below 30 KCAS), as appropriate, and retry the brakes. If braking is
+not restored, release the brakes and pull the emergency brake/steering
+handle, depress and hold the paddle switch and reapply the brakes.
+
+If stopping distance is critical, pull the emergency brake/steering handle
+first. Be aware that pulling the handle at speeds above 70 knots can
+result in blowing one or both main tires.
+
+Antiskid Malfunctions (refer to checklist)
+With landing gear unsafe indications or circuit breaker problems, or
+whenever the ANTISKID caution is displayed, assume that the antiskid is
+
+inoperative and place the switch to PULSER (airborne, landing roll,
+aborts) or OFF (at taxi speeds of less than 30 knots) as appropriate.
+
+ACG-6 D - 36
+
+
+Text from ACG-6_Hydraulic_Systems_page_43.jpeg:
+There is no ARI when airborne with the landing gear handle is down
+when in PULSER or OFF. Also, remember that you cannot completely
+stop the aircraft using PULSER, so turn the switch to OFF when below 30
+KCAS on landing roll and for taxi. Using PULSER to stop increases the
+probability of blown tires.
+
+Blown Tire During Takeoff (refer to checklist)
+
+If takeoff is discontinued, abort and place the antiskid to PULSER or OFF
+as required.
+
+If takeoff is continued, remain below 250 knots and do not retract the
+landing gear or flaps (damage from tire debris is possible). Refer to
+Landing with Known Blown Tire procedure.
+
+Landing Gear Fails to Retract (refer to checklist)
+
+Anytime the light in the gear handle and/or the red UNSAFE light in the
+RCP remain illuminated after gear retraction, remain below 250 knots
+and check the circuit breaker in the FCP. Place the gear handle back
+down, and if the gear lowers normally, you may elect to attempt another
+retraction. If you still have an unsafe indication, place the gear back
+down, remain below 250 knots, burn down fuel and land. The usual cause
+of this malfunction is landing gear door sequencing, and recycling is an
+accepted practice in the F-15.
+
+Speed Brake Failure (refer to checklist)
+
+Pulling the circuit breaker in the FCP removes electrical power and the
+speed brake should retract.
+
+Flap Malfunction
+
+Flap malfunction is not a checklist procedure. Ifa split flap condition
+exists, attempt to raise the flaps or exceed 250 KCAS to blow them up.
+Remember not to attempt to lower flaps with UTL A/PC1 B or
+
+UTL B/PC2 B failure, or a split flap configuration will result. Fly a
+straight-in or wide pattern with normal AOA and airspeed on final, but
+allow for a higher pitch attitude and slower deceleration. If the CAS is off
+the line, a more pronounced rolling tendency will be felt but the aircraft
+can still be flown.
+
+D - 37 ACG-6
+
+
+Text from ACG-6_Hydraulic_Systems_page_44.jpeg:
+Landing Gear Unsafe (refer to checklist)
+
+Check the landing gear circuit breaker in the FCP and ensure you have
+not inadvertently turned the warning/caution lights rheostat to dim the
+gear indicator lights. Visually confirm gear status with a chase aircraft or
+ground observer.
+
+If one or both main gear indicates unsafe, but are visually confirmed down
+and the forward main landing gear door is closed, make a normal landing.
+Main gear doors only close if the gear is locked down.
+
+If a forward main landing gear door is open, select PULSER and make an
+approach-end arrestment cable engagement.
+
+If nose gear indicates unsafe, but is visually confirmed down, leave gear
+handle down and make a normal landing.
+
+You cannot use the landing light as an indication of gear down, as it comes
+on when the gear handle is down, not gear down and locked.
+
+Due to the uncertainty of the status of the antiskid system, place the
+antiskid switch to PULSER.
+
+If you are unable to visually confirm gear status or if the gear appears
+unsafe, refer to the Landing Gear Emergency Extension checklist.
+
+Landing Gear Emergency Extension (refer to checklist)
+
+Slow to below 250 KCAS and place the landing gear handle down. Then
+pull the emergency gear handle in either cockpit, which bypasses the
+normal electrical and hydraulic circuits. The JFS provides accumulator
+pressure to emergency hydraulic fluid to open the gear doors and unlock
+the gear. This allows the gear to gravity fall to the down position. You
+may have to yaw and/or porpoise the aircraft to assist in obtaining a
+locked indication. After a locked indication is obtained, reset the
+emergency landing gear handle. You should use this procedure even if the
+gear is partially extended to release any hydraulic block in the system.
+
+If this procedure fails, attempt to pull the gear circuit breaker to remove
+electrical power. If this fails, cycling the gear, if able, may alleviate a
+
+mechanical problem.
+
+If any gear still fails to extend, refer to Landing Gear Emergency Landing
+checklist.
+
+ACG-6 D - 38
+
+
+Text from ACG-6_Hydraulic_Systems_page_45.jpeg:
+Landing Gear Emergency Landing (refer to checklist)
+
+If you have completed all of the above procedures and cannot get the gear
+down, consult the checklist chart to determine the correct procedure for
+landing with your particular gear configuration. Save enough fuel for at
+least two approaches and do not forget to review the considerations at the
+top of the chart.
+
+Blown Tire (refer to checklist)
+
+When landing with a known blown main tire, select PULSER on the
+antiskid switch. Remember that this disengages ARI with the gear down.
+Consider an approach-end arrestment.
+
+Stop straight ahead and wait for the fire department before shutting
+down, due to fuel venting overboard and the possibility of it going onto hot
+brakes during shutdown.
+
+If a blown main tire happens during landing rollout, place the hook down
+as required, select PULSER and use braking on the good tire as required.
+Select OFF when less than 30 knots.
+
+For a blown nose tire, hold off the ground as long as possible and remove,
+lower or land past the cable.
+
+Approach-End Arrestment (refer to checklist)
+
+Reduce landing weight, but have a game plan for a missed engagement!
+Save enough fuel for at least two approaches.
+
+Put the hook down and lock the harness inertia reel.
+
+Touch down at least 800 feet from the cable to allow enough time to lower
+the nosewheel to the runway before engagement.
+
+Place throttles to idle, lower the nose immediately after touchdown and
+neutralize the stick. Never engage the cable with the nosewheel in the
+air, otherwise it can impact violently, causing it to collapse and/or causing
+other airframe damage.
+
+Engage the cable in the middle (slightly off center if runway centerline
+
+lights are installed) with feet off the brakes. If you apply the brakes when
+crossing the cable, resulting friction may drag the cable and cause it to fall
+slack on the runway. If this happens, expect an unsuccessful engagement.
+
+D - 39 ACG-6
+
+
+Text from ACG-6_Hydraulic_Systems_page_46.jpeg:
+After the aircraft comes to a stop, tension on the cable pulls the aircraft
+backwards. Be prepared to control this rollback with power. Do not use
+the brakes to stop backward travel as this tips the aircraft
+backward onto the tail and may result in a broken hook or
+damage to the empennage.
+
+At approach speed, the tail hook is 3 feet below the main gear and
+contacts the ground 70-200 feet prior to main gear touchdown. This may
+be a factor if landing over raised cables in the overrun.
+
+Departure-End Arrestment (refer to checklist)
+
+Get the hook down early, at least 2000 feet before the departure-end
+cable. You are not going to file it off, and you can always raise it again if
+you do not need it. Suffice it to say if it looks dicey, you already need to
+have the hook down.
+
+Slow down as much as possible, but plan to engage the cable with feet off
+the brakes and use the same techniques as listed above.
+
+AFT 11-2F-15EV38, Chapter 7 requires that the hook be lowered for an
+abort if there is any doubt about the ability to stop on the runway. The
+4th FW Infligth Guide (page H-1) also lists a requirement to lower the
+hook when aborting above 100 KCAS. Any abort above 120 KCAS
+requires a check for hot brakes.
+
+Hot Brakes (refer to checklist)
+
+If brake overheat is suspected, notify the tower, taxi to the hot brake area
+(refer to Inflight Guide, Sections A and E) and head into the wind. Do not
+use the holding brake. Release brakes as soon as chocked. Shut down
+IAW fire department crew instructions. The fire department may instruct
+you to shut down prior to chocking the aircraft. Be prepared to hold the
+emergency brakes until the nosewheel is chocked.
+
+ACG-6 D - 40
+
+
+Text from ACG-6_Hydraulic_Systems_page_47.jpeg:
+Analyze the following hydraulic system malfunctions:
+
+1.
+
+QUESTIONS
+
+Indication:
+MASTER CAUTION light
+HYD caution light
+
+All pressures normal
+
+R PUMP caution
+a. Analysis:
+b. Effects:
+
+ec. Action:
+
+Indication:
+
+MASTER CAUTION light
+HYD caution light
+
+PC2 pressure 0
+
+PC2 A caution
+
+PC2 B caution
+
+a. Analysis:
+
+b. Effects:
+
+ec. Action:
+
+ACG-6
+
+
+Text from ACG-6_Hydraulic_Systems_page_48.jpeg:
+3. Indication:
+MASTER CAUTION light
+HYD caution light
+
+All pressures normal
+
+UTL A caution
+a. Analysis:
+b. Effects:
+
+ec. Action:
+
+ACG-6
+
+
+Text from ACG-6_Hydraulic_Systems_page_49.jpeg:
+Analysis:
+
+Effects:
+
+Action:
+
+Analysis:
+
+Effects:
+
+Action:
+
+Analysis:
+
+Effects:
+
+Action:
+
+ANSWERS
+Right utility pump failure
+
+None, since only one utility pump is required to power the
+system.
+
+Reset the MASTER CAUTION light, terminate your
+mission and return to base.
+
+Total PC2 failure
+
+None. The RPS switchover valves will activate. The
+UTLB circuit will power the right flap and aileron;
+UTL non-RLS will power the right stabilator and rudder.
+
+Reset the MASTER CAUTION light, terminate your
+mission and return to base.
+
+Utility A circuit failure
+
+All systems powered by UTL A are lost. JFS accumulator
+pressure is available to lower gear by emergency method,
+and is also available for emergency brakes and steering.
+UTLB continuously recharges the JFS accumulators.
+
+Reset the MASTER CAUTION light, terminate your
+mission and return to base. Refer to the UTL A Failure
+Checklist, Emergency Gear Lowering Checklist, and
+Approach-End Arrestment Checklist.
+
+D - 43 ACG-6
+
+
+Text from ACG-6_Hydraulic_Systems_page_5.jpeg:
+STUDENT PREPARATION REQUIREMENTS
+BEFORE CLASS
+1. Read the references in Section I, III, and V of TO 1F-15E-1.
+
+2. Study the information contained in this workbook and complete the
+End of Text Quiz.
+
+3. Bring TO 1F-15E-1CL-1 and 4th Fighter Wing Inflight Guide to
+class.
+
+C-1 ACG-6
+
+
+Text from ACG-6_Hydraulic_Systems_page_50.jpeg:
+(This Page Intentionally Blank)
+
+ACG-6 D - 44
+
+
+Text from ACG-6_Hydraulic_Systems_page_51.jpeg:
+END OF TEXT QUIZ
+
+The F-15E contains three separate hydraulic systems, powered by
+interchangeable hydraulic pumps.
+
+Boop
+oP © WY
+
+There are ____ hydraulic circuits in the F-15E.
+
+aown
+NOD OCP
+
+The only hydraulic circuit without reservoir level sensing is
+
+a. utility non-RLS.
+b. PC2B.
+
+c. utility A.
+
+d. utility B.
+
+There are ___ hydraulic pressure gauges in the FCP.
+
+Boop
+Rone
+
+Which hydraulic circuit normally powers the wheel brake system?
+
+a. PC2B
+b. PCI1A
+ce. UTLB
+d. UTLA
+
+E-1 ACG-6
+
+
+Text from ACG-6_Hydraulic_Systems_page_52.jpeg:
+6. Which hydraulic circuit provides backup fluid for the wheel brakes?
+
+a. UTLB
+b. UTLA
+c. PCLA
+d. PC2B
+
+7. Which hydraulic circuit provides backup fluid for the left aileron and
+
+flap?
+
+a. UTLnon-RLS.
+b. PC2B.
+
+c UTLB.
+
+d. UTLA.
+
+8. Fifteen to thirty degrees of nose gear steering is normally available,
+
+but with the nose gear steering button depressed, is available.
+a. 360°
+
+b. 465°
+
+c. 30°
+
+d. 25°
+
+9. Which hydraulic circuit is required in order to raise the tail hook?
+
+a. UTLnon-RLS
+b. UTLA
+ec. UTLB
+d. PC2B
+
+10. Normal operating pressure of both PC systems is
+
+a. 3400 psi.
+
+b. 3250 +250 psi.
+c. 8000 +250 psi.
+d. 2775 +225 psi.
+
+ACG-6 E-2
+
+
+Text from ACG-6_Hydraulic_Systems_page_53.jpeg:
+11. Flaps will automatically blow up at knots if not already
+
+retracted.
+a. 230
+b. 240
+ce. 250
+d. 260
+
+12. In flight, you see the MASTER CAUTION, HYD, and R INLET
+caution lights illuminate, along with UTL B and PC2 B cautions on
+the MPD/MPCD. What systems should you expect to fail?
+
+Gun drive, right inlet, right side flap and aileron
+Gun drive, hook retract, left side flap and aileron
+Speed brake, antiskid, left side flap and aileron
+Left rudder, canopy accumulator and slipway door
+
+no op
+
+13. The MASTER CAUTION and HYD lights illuminate. PC1 and PC2
+both indicate 3000 psi; UTL indicates 2775 psi. What is the problem
+and how does it affect further operations?
+
+a. Theright UTL pump has failed. You should land as soon as
+practical.
+. UTLB has failed. You should land as soon as practical.
+c. The left UTL pump has failed. You should land as soon as
+practical.
+
+E-3 ACG-6
+
+
+Text from ACG-6_Hydraulic_Systems_page_54.jpeg:
+(This Page Intentionally Blank)
+
+ACG-6 E-4
+
+
+Text from ACG-6_Hydraulic_Systems_page_55.jpeg:
+GLOSSARY
+
+ACC Air Combat Command
+
+ADC Air data computer
+
+AMAD Airframe mounted accessory drive
+AOA Angle of attack
+
+ARI Aileron rudder interconnect
+CSBPC Control stick boost/pitch compensator
+FCP Front cockpit
+
+IDG Integrated drive generator
+
+JFS Jet fuel starter
+
+NGS Nose gear steering
+
+PC Power control
+
+RCP Rear cockpit
+
+RLS Reservoir level sensing
+
+RPS Return pressure sensing
+
+UTL Utility
+
+F-1 ACG-6
+
+
+Text from ACG-6_Hydraulic_Systems_page_56.jpeg:
+BACK PAGE
+COVER SHEET
+
+
+Text from ACG-6_Hydraulic_Systems_page_6.jpeg:
+(This Page Intentionally Blank)
+
+ACG-6 C-2
+
+
+Text from ACG-6_Hydraulic_Systems_page_7.jpeg:
+TEXT
+
+HYDRAULIC SYSTEM LAYOUT
+
+Hydraulic power for the F-15E is supplied by three separate, yet
+interrelated systems, each normally operating at 3000 psi. Power Control
+No. 1 (PC1) provides primary power for the left side flight controls and the
+right stabilator through a dual system actuator (Figure D-1).
+
+Sat are ——. A,
+\
+
+AILERON
+
+ACG-06-01
+
+Figure D - 1. PC1 - Left Flight Controls, Right Stab.
+
+D-1 ACG-6
+
+
+Text from ACG-6_Hydraulic_Systems_page_8.jpeg:
+Power Control No. 2 (PC2) provides primary power for the right side flight
+controls and left stabilator through its dual system actuator (Figure D-2).
+It also backs up the utility hydraulic system in powering the control stick
+boost/pitch compensator (CSBPC) (flight control “magic”).
+
+ACG-06-02
+
+Figure D - 2. PC2 - Right Flight Controls, Left Stab.
+
+ACG-6 D-2
+
+
+Text from ACG-6_Hydraulic_Systems_page_9.jpeg:
+The utility system provides primary power to all the hydraulic subsystems
+such as landing gear, speed brake, nose gear steering, brakes, antiskid,
+canopy, inlets, tail hook retraction, slipway door and backup for the flight
+controls (Figure D-3). The utility system also provides primary power for
+the control stick boost/pitch compensator, or CSBPC.
+
+SPEED BRAKE
+SLIPWAY DOOR
+
+LANDING GEAR
+ANTI-SKID BRAKES
+
+NOSE WHEEL
+STEERING
+
+ACG-06-03
+
+Figure D - 3. Utility Hydraulically Powered Subsystem.
+
+The three systems are interrelated through a series of switchover valves
+so that they are capable of backing each other up in case of system failure.
+In fact, any one of the three systems can maintain flight control.
+
+D-3 ACG-6
+
+

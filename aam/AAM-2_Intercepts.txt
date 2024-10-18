@@ -1,0 +1,2100 @@
+Text from AAM-2_Intercepts_page_1.jpeg:
+SUPPORTS COURSES
+FIS5EBQ
+
+FISETX
+
+FISESOC
+
+ACADEMIC STUDENT WORKBOOK
+F-15E
+
+AERIAL ATTACK MANEUVERING
+AAM-2
+INTERCEPTS
+
+FEBRUARY 1999
+
+(SUITE 3 OFP)
+
+AIR COMBAT COMMAND
+
+
+Text from AAM-2_Intercepts_page_10.jpeg:
+Aspect Angle (AA)
+
+AA is the angle from the tail of the target to the line of sight from the
+target to the fighter (Figure D-3). Aspect angle is independent of fighter
+heading but dependent on the target heading. The maximum possible AA
+is 180° (presented as H for Head) and the minimum is 0° (presented as T
+for Tail). When displayed on the air-to-air radar display, the AA is
+associated with an L or R indicating which side of the target is visible to
+the fighter. Aspect angle determines the intercept approach quadrant.
+Aspect angle and range are the primary indications used in determining
+the intercept geometry. Note that the fighter’s heading is not a factor
+when computing aspect angle.
+
+005°
+
+ASPECT ] <+——Y—Y FTR HEADING
+
+ANGLE
+
+TARGET
+HEADING
+
+140°
+
+C
+=
+CO
+o
+
+(= ee ee
+e7 EIRIPIEP
+
+AAM-02-03
+
+Figure D - 3. Aspect Angle.
+
+AAM-2 D-4
+
+
+Text from AAM-2_Intercepts_page_11.jpeg:
+Antenna Train Angle (ATA)
+
+ATA is the angle formed from the nose of your aircraft to the radar line of
+sight to the target (Figure D-4). Essentially, it is where your radar is
+looking to see the target. Due to radar search limitations, ATA is limited
+to 60° left or right of the nose in search and 73° in STT. Independent of
+target heading, ATA is dependent on the fighter heading. ATA in
+
+Figure D-4 is 15° left.
+
+<———FTR HEADING
+TARGET
+a HEADING
+
+140°
+
+AAM-02-04
+
+Figure D - 4. Antenna Train Angle.
+
+
+Text from AAM-2_Intercepts_page_12.jpeg:
+Collision Antenna Train Angle (CATA)
+
+CATA is the antenna train angle the fighter must maintain to be on a
+collision course with the target (Figure D-5). Maintaining the target on
+the CATA maintains a constant line of sight to the target.
+
+© TOWOIOWOTO!
+
+Eo
+
+500 15R 140
+
+Q
+=
+
+1
+
+F
+ot
+
+Teen
+
+Figure D - 5. Collision Antenna Train Angle.
+
+AAM-02-05
+
+Changes in the target heading or airspeed, or the fighter airspeed affect
+the CATA. Fighter heading does not affect the CATA but is dependent on
+the CATA if a collision course intercept is to be flown. A target on the
+CATA maintains a constant azimuth and aspect angle. It does not drift
+left or right. The CATA provides the quickest time to intercept the target
+and the maximum conservation of overtake. The CATA may be
+determined for co-speed targets by using the formula, CATA = 180° - AA.
+To fly the CATA, the target is then offset that number of degrees from the
+center of the air-to-air radar display toward the side of the display
+opposite the target’s AA (left or right). Example: A target with a 15R AA
+would have a CATA of 30° left.
+
+Outside of 1.2 aero, fly the CATA by keeping the MRM steering dot
+centered in the ASE circle. Inside 1.2 aero, centering the steering dot
+provides missile-to-target collision steering, not aircraft-to-aircraft
+collision steering.
+
+AAM-2 D-6
+
+
+Text from AAM-2_Intercepts_page_13.jpeg:
+HOT/COLD
+
+The terms HOT and COLD (Figure D-6) refer to those areas of the radar
+display that either tend to increase (HOT) or decrease (COLD) aspect
+angle. The CATA is the dividing line between the HOT and COLD sides.
+If the target is maintained on the HOT side, turning room decreases,
+aspect angle increases and eventually the fighter would fly in front of the
+target. If the target is maintained on the COLD side, turning room
+increases, aspect angle decreases, and the fighter will eventually fly
+behind the target.
+
+ap
+
+O
+O
+
+[ee es
+Fm elles
+
+CATA
+HOT SIDE COLD SIDE
+
+AAM-02-06
+
+Figure D - 6. HOT and COLD.
+
+The hot side of the display is defined as the side (left or right) which has
+the CATA on it. The cold side would be the opposite side. The cold side of
+the display is easily determined by using the aspect angle letter; i.e., 15L
+indicates the cold side of the display to be the left side, while 15R means
+the right side is the cold side. The hot side is the side opposite the aspect
+letter.
+
+
+Text from AAM-2_Intercepts_page_14.jpeg:
+Target Drift
+
+When a target is not on the CATA, the line of sight (antenna train angle)
+changes constantly. That change in scope azimuth is called drift. Correct
+interpretation of target drift on the radar display is necessary to maintain
+control of the intercept and make proper decisions during the intercept.
+
+Nonmaneuvering target drift can be summarized in four “rules”
+(Figure D-7).
+
+Rule 1: A target on the CATA tracks straight down the radar display
+and maintains a constant AA (target B).
+
+Rule 2: Targets not on the CATA drift away from their CATA (targets A,
+C, D, E).
+
+Rule 3: A target’s track is steepest (less drift) near its CATA
+(target A) (less drift).
+
+Rule 4: A target on the nose drifts cold (target D) (except for an H aspect
+which is on the CATA).
+
+|
+
+ay
+HH sede ds Ee te
+|
+i
+f
+i
+
+!
+
+FIGHTER AAM-02-07
+
+Figure D - 7.
+
+AAM-2 D-8
+
+
+Text from AAM-2_Intercepts_page_15.jpeg:
+Note that the fighter will cross in front of target A on the hot side of the
+scope. In this case, aspect angle will initially increase, until it reaches its
+maximum value. On the other hand, note that target C will drift cold
+even though it is initially on the left side of the scope. The fighter will
+pass behind the target.
+
+Pursuit Types
+
+At some point during an intercept it may be necessary to select a course to
+the target’s stern. Examples include avoiding a threat’s all-aspect weapon
+capability, tanker rejoin, rejoining on a target to provide assistance or
+visually identify its type or origin, and achieving weapon employment
+zones for stern aspect ordnance. Three types of pursuit courses may be
+flown during the intercept stern conversion: pure pursuit, lead pursuit,
+and lag pursuit.
+
+
+Text from AAM-2_Intercepts_page_16.jpeg:
+Pure Pursuit
+
+Pure pursuit (Figure D-8) is the primary means for converting to the
+bandit’s 6 o’clock during the intercept. Essentially, pure pursuit occurs
+with the fighter’s nose on the target. The radar depiction has the target
+at zero azimuth and the SRM steering dot centered in the ASE circle. On
+the HUD, the TD box is centered on the waterline.
+
+ieee
+
+AAM-02-08
+
+Figure D - 8. Pure Pursuit.
+
+AAM-2 D-10
+
+
+Text from AAM-2_Intercepts_page_17.jpeg:
+Lead Pursuit
+
+Lead pursuit (Figure D-9) is the situation where the fighter is attempting
+to gain closure or increase aspect angle by predicting a future position of
+the target aircraft and flying to that position (cut-off). Basically, the
+fighter points his nose in front/ahead of the target aircraft. On the radar
+display, the target is placed on the hot side. On the HUD, the TD box is
+below the waterline (maybe at the bottom of the HUD). In flying a lead
+pursuit curve, the fighter continuously changes heading toward the
+target’s heading to maintain the target HOT of the nose. A turning rejoin
+is flown using lead pursuit.
+
+Figure D - 9. Lead Pursuit.
+
+D-11 AAM-2
+
+
+Text from AAM-2_Intercepts_page_18.jpeg:
+Lag Pursuit
+
+Lag pursuit (Figure D-10) occurs when the fighter attempts to reduce
+closure or decrease aspect angle. Essentially, the fighter points his nose
+behind the target aircraft. On the radar, the target is placed on the COLD
+side and on the HUD, the TD box is above the waterline. If lag pursuit is
+employed too late or it is too extreme, a square corner is generated
+causing a flight path overshoot.
+
+AAM-02-10
+
+Figure D - 10. Lag Pursuit.
+
+AAM-2 D-12
+
+
+Text from AAM-2_Intercepts_page_19.jpeg:
+Closure
+
+Closure (Vc) is the angular velocity between two aircraft. It is displayed
+on the right side of the radar display in knots. As aspect changes, so does
+the displayed closure (aspect decreases, closure decreases; aspect
+increases, closure increases). Since the intercept geometry is based on a
+co-speed target, the target/fighter speed ratio is also important. If the
+ratio favors the target, the intercept needs to be hotter (Figure D-11). If
+the ratio favors the fighter, the intercept may be colder.
+
+F
+:
+Oo
+Oo
+
+l
+
+iaigiele
+
+Figure D - 11.
+
+AAM-02-11
+
+
+Text from AAM-2_Intercepts_page_2.jpeg:
+ADMINISTRATIVE INFORMATION
+
+This student workbook is designed to provide information on the
+
+F-15E, its systems, and capabilities. It is not a sole source document, but
+is to be used in conjunction with other standard Air Force publications
+and technical manuals. If you find any differences between the material
+contained herein and other governing regulations, adhere to the
+regulations and notify the OPDR.
+
+Changes to this workbook are indicated with a heavy black line in the left
+margin.
+
+Forward recommendations for revision or change to 4 TS, SJAFB, NC,
+275381.
+
+Supersedes: AAM-2, September, 1998
+
+OPDR: 4TS
+
+Index of Changes
+
+Effective Date Pages Affected
+
+
+
+Text from AAM-2_Intercepts_page_20.jpeg:
+QUESTIONS
+
+fe)
+iS,
+au
+
+O
+O
+C
+o
+
+AAM-02-12
+
+Figure D - 12.
+
+Using Figure D-12, find the following if your heading is 135°.
+
+AA CATA
+Target Heading Target Airspeed
+Fighter TAS Ve
+
+If you want to gain closure on a target, you must fly a
+curve.
+
+To fly the quickest time to kill, you must fly
+
+CATA to offset the pure pursuit curve.
+
+lead pursuit to 10 nm, then pure pursuit to the kill.
+CATA all the way to the kill.
+
+offset until the target is 50° right then follow lead pursuit
+steering to the kill.
+
+poop
+
+
+Text from AAM-2_Intercepts_page_21.jpeg:
+A target on the nose with a 17L aspect angle will drift
+
+a. left.
+
+b. right.
+
+What are the two characteristics of a target on its CATA?
+
+What is the drift pattern for targets not on the CATA?
+
+Except for a target with an H aspect (because it is on its CATA), how
+does a target on the nose drift?
+
+
+Text from AAM-2_Intercepts_page_22.jpeg:
+ANSWERS
+
+1. AA=16L
+
+CATA = 20° right
+
+Target Heading = 010°
+
+Target Airspeed = 520 knots
+
+Fighter TAS = 465 knots
+
+Ve = 870 knots
+2. Lead pursuit
+3. 4¢
+4, a
+
+5. Straight down the radar display (constant ATA), maintains a
+constant AA
+
+6. Drift away from CATA
+
+7. Always drifts cold
+
+AAM-2 D-16
+
+
+Text from AAM-2_Intercepts_page_23.jpeg:
+MEDIUM ALTITUDE INTERCEPTS
+Intercept Types
+
+There are two basic types of intercepts and a variation which combines
+the elements of both (Figure D-13). First is the cut-off or collision course
+intercept. This is generally used where minimum time to kill is desired.
+The other is the stern conversion, which is used when other limitations
+preclude a cut-off. Identification of the target may require a stern
+conversion to be performed. The two together form the front MRM attack
+with a stern reattack. This allows for a stern conversion should an MRM
+attack fail or if there is a requirement to engage more than one bandit.
+
+TARGET
+
+STERN CONVERSION
+
+MRM ATTACK
+WITH STERN CONVERSION
+AAM-02-13
+
+Figure D - 13.
+
+
+Text from AAM-2_Intercepts_page_24.jpeg:
+NOTE
+For ease of interpretation, the following intercept discussions assume the
+
+fighter has acquired a single contact on a co-speed, nonmaneuvering
+bandit who is unaware of the fighter’s presence.
+
+Approach Quadrants
+
+In the intercept, there are four approach quadrants (Figure D-14) which
+influence how we accomplish the intercept. Each quadrant is defined by
+the displayed aspect angle. A head-on approach is in the 16 - H aspect.
+The front quarter is in the 12 - 15 aspect. The beam approach is in the 7 -
+11 aspect. The stern is in the T - 6 aspect.
+
+HEAD-ON
+
+FRONT
+QUARTER
+
+7-11
+
+AAN-02-14
+
+Figure D - 14. Approach Quadrants.
+
+AAM-2 D-18
+
+
+Text from AAM-2_Intercepts_page_25.jpeg:
+Cut-off/Collision Course Intercept
+
+The cut-off or collision course intercept is the quickest course to weapons
+employment and is also the easier of the two intercept types to fly. Once
+you have found the target and have determined that a collision course
+intercept is the type to be flown, you must determine the CATA. The
+formula for a co-speed CATA is:
+
+180° - AA = CATA
+
+Once you have determined the CATA, turn to place the target on the
+CATA. While on the CATA, aspect angle remains constant and the target
+tracks at a constant azimuth. Outside of 1.2 aero, turning to center the
+MRM steering dot in the ASE circle places the target on the CATA. At 1.2
+aero, the steering dot transitions from aircraft-to-aircraft collision steering
+to missile-to-target collision steering. Keeping the dot centered will result
+in a turn into the target. At 10 seconds to go, the dot provides pure
+pursuit.
+
+As you can see, the collision course intercept is easy to fly and puts you in
+the earliest position to employ ordnance. However, not all situations
+allow the collision course intercept.
+
+Stern Conversions
+
+Should tactics or restrictions preclude the collision course intercept, a
+stern conversion should be flown. The objective of a stern conversion is to
+develop and maintain turning room and close to an ID and/or firing
+position. There are three types of stern conversions flown: horizontal,
+combination, and vertical. Each will be discussed in relation to the
+approach quadrant.
+
+
+Text from AAM-2_Intercepts_page_26.jpeg:
+Horizontal
+
+The horizontal intercept is flown nearly level with the target and offers
+some advantages. The turning room problem is simplified because the
+turning room shown on the display is the turning room you have. Also,
+since the intercept is basically two-dimensional, it is easier to track a
+target with no lockon and easier to fly during night or IMC conditions.
+However, there are some disadvantages. The fighter is easier to see and
+defeat because he is level with the target. Also, the horizontal intercept
+requires a lot of turning room (8-10 nm). The general parameters for a
+horizontal intercept are sufficient turning room until pure pursuit is
+established, 100-200 knots speed advantage until rollout, 50-100 knots Vc
+at rollout with less than 9000 feet range.
+
+Head-on Horizontal Intercept
+
+The head-on horizontal intercept (Figure D-15) starts with aspect angles
+from 16 - H. Since the fighter is on the target’s nose, more maneuvering
+will be required to gain sufficient turning room. The procedures used to
+accomplish the intercept are to offset the target 40-50° cold of the CATA
+and counterturn to maintain the target at that azimuth, until establishing
+the pure pursuit curve with a 15 AA at 20 nm, or 14 AA at 15 nm, or 13
+AA at 10 nm. The later the target is acquired, the more aggressively the
+aircraft must be maneuvered to gain the required turning room.
+
+AAM-2 D - 20
+
+
+Text from AAM-2_Intercepts_page_27.jpeg:
+— :
+Sigia
+
+9s (OO
+
+AAM-02-15
+
+Figure D - 15. Head-on Horizontal Intercept.
+
+HORIZONTAL PURSUIT CURVE
+AA RANGE
+13 30 nm
+13 20 nm
+13 15 nm
+13 10-12 nm
+
+
+Text from AAM-2_Intercepts_page_28.jpeg:
+Front Quarter Horizontal Intercept
+
+The front quarter horizontal intercept (Figure D-16) is flown from aspect
+angles between 12 - 15. The good news is that turning room already
+exists. However, the fighter must maneuver to keep the turning room
+from becoming excessive.
+
+AAM-02-16
+
+Figure D - 16. Front Quarter Horizontal Intercept.
+
+The procedures to follow are to place the target on the CATA until
+intersecting the pure pursuit curve and then go pure pursuit; (i.e., lockon
+shows a 14R AA at 35 nm - put target on CATA [40°L], go pure pursuit
+when range decreases to 15 nm). Remember, once you put the target on
+the CATA, it will be necessary to turn toward the target to go pure. Then
+the turn direction will have to be reversed to maintain the target pure (on
+the nose) until dead astern.
+
+AAM-2 D - 22
+
+
+Text from AAM-2_Intercepts_page_29.jpeg:
+Beam Horizontal Intercept
+
+The beam horizontal intercept (Figure D-17) already has you in a position
+requiring more of a chase down rather than the geometry doing the work.
+The aspect angles are from 7 - 11. The CATA is off the display and
+unusable without GCI. Therefore, airspeed coupled with some geometric
+cut-off will be used to close on the bandit. The procedures to follow are to
+accelerate to 200 knots speed advantage, displace the target 50-55° on the
+hot side of the display, counterturn to maintain the target at that
+azimuth, then go pure pursuit on intercepting the pure pursuit guide
+(between 5-10 nm).
+
+OIONONOTO
+
+Biaiiel
+
+Figure D - 17. Beam Horizontal Intercept.
+
+AAM-02-17
+
+Stern Horizontal Intercept
+
+The stern horizontal intercept is flown from aspect angles between
+
+T -6. The procedures are essentially the same as for the beam horizontal
+intercept; however, displacement should be less. Displace the target 72 AA
+on the hot side of the radar display and accelerate. Establish pure pursuit
+between 3-5 nm. Once again, airspeed is going to be your primary means
+of closure.
+
+
+Text from AAM-2_Intercepts_page_3.jpeg:
+AERIAL ATTACK MANEUVERING
+
+C
+a O
+\f_ err ta H
+
+==
+
+COVER
+
+INTERCEPTS
+INTRODUCTION
+
+This workbook is designed to familiarize you with F-15E intercept
+procedures/techniques. It also covers some aspects of crew coordination
+and how they relate to the mission. It provides you with the knowledge
+needed to more efficiently perform the intercept mission.
+
+CONTENTS:
+
+Ie EDO USGI exe ce ase ees ese sesame ses se aoe: ces seam Ses ee an cee: ator se ese ao so A-1
+CRITERION REFERENCED OBJECTIVES (CROs)..........0.eeeeseeeeeeeees B-1
+STUDENT PREPARATION REQUIREMENTS . 0.00... eeeeeeeeeeeeeee C-1
+TERT wr sees sas ces cas wa one sane ws wats we sus eas ates as ee ant eas eS amt ae Ua nt OS aa ale Ma 8 D-1
+END OF TEXT QUIZ... eecccessneecesneeeessaeecssaeeceesaeesesaeessseeeeeaees E-1
+CS OIBIS AY cess ans sane anus aesn ssn news canis ave aise Sue MOR mS EMG NSS Mate MG GS ENG Mens ER A F-1
+
+
+Text from AAM-2_Intercepts_page_30.jpeg:
+Conversion Pursuit Guide
+
+The conversion pursuit guide (Figure D-18) was developed as an aid in
+determining the turning room available. If the fighter has a 16 aspect at
+30 nm, sufficient turning room exists to allow the fighter to immediately
+pure pursuit the target. Turning room exists at the points shown in
+Figure D-18.
+
+30 NM
+
+25 NM
+
+10NM 15NM 20NM
+
+5 NM
+
+10 NM
+15NM
+20 NM 16 AA AT 30 NM
+13 45 AAAT 20 NM
+14 AA AT 15 NM
+13 AA AT 10-12 NM
+25 NM
+30 NM
+
+AAM-02-18
+Figure D - 18. Conversion Pursuit Guide.
+
+For the horizontal stern conversion it is easy to see the turning room lies
+along a line offset from the target’s projected flight path by 10 nm.
+
+AAM-2 D - 24
+
+
+Text from AAM-2_Intercepts_page_31.jpeg:
+Pure Pursuit Conversion Turn
+
+The pure pursuit conversion turn is based on ranges, aspects, and Vc used
+to roll out at the target’s six, inside of 9000 feet, with positive Vc. The
+table below lists the reference points. If your aspect/Vc is higher, allow
+the target to drift slightly to lag (cold) and maintain until achieving a
+reference point. If your aspect/Vc is lower, fly a lead pursuit curve until
+reaching a reference point, then pure pursuit. Use these numbers to
+check your progress during the final turn to the target’s stern and to
+recognize the need to adjust to desired parameters.
+
+CONVERSION TURN
+RANGE ASPECT Ve
+7nm 12 800-900
+6 nm 10 700-800
+5 nm 9 600-700
+4nm 7 500-600
+3nm 5 400-500
+2nm 2 200-300
+lnm T 100
+Combination
+
+Combination intercepts gain turning room in both the horizontal and
+vertical. We can think of the intercept as either the chandelle or the slice.
+The combination intercept has some distinct advantages. Unlike the
+horizontal intercept, the combination gets the fighter away from the
+target’s horizon and is therefore harder to see and to counter. The main
+disadvantage is that night or IMC combination intercepts may not be
+practical due to the maneuvering required. Normally, 5000-10,000 feet of
+vertical (either high or low) turning room will be used. Since vertical
+turning room is available, less horizontal offset is needed. As in the
+horizontal intercept, there will be some Vc advantage carried throughout
+the intercept, and the desired rollout is inside 9000 feet with positive Vc.
+The pursuit guide below is adjusted to allow for the vertical turning room.
+
+COMBINATION PURSUIT GUIDE
+
+AA RANGE
+17 40
+16 20
+15 15
+14 10
+
+
+Text from AAM-2_Intercepts_page_32.jpeg:
+Head-on Combination Intercept
+
+The head-on combination intercept (Figure D-19) is similar to the head-on
+horizontal. The target is displaced while establishing 5000-10,000 feet
+vertical separation, 30-50° cold of the CATA (depending on the amount of
+vertical offset used); counterturn to maintain offset and establish pure
+pursuit at the appropriate aspect angle and range.
+
+16 AA
+15 AA
+14 AA
+
+Tele
+
+Figure D - 19. Head-on Combination Intercept.
+
+AAM-02-19
+
+AAM-2 D - 26
+
+
+Text from AAM-2_Intercepts_page_33.jpeg:
+Front Quarter Combination Intercept
+
+The procedures for the front quarter combination intercept are similar to
+the front quarter horizontal as shown in Figure D-20.
+
+® ) © ©
+Ne hee ke he
+
+“= at ©
+)
+
+#
+= « ®
+= i
+Cr deo
+
+IG
+4
+©
+
+|
+MN
+
+ol
+
+ieiei
+
+Figure D - 20. Front Quarter Combination Intercept.
+
+AAM-02-20
+
+
+Text from AAM-2_Intercepts_page_34.jpeg:
+Beam / Stern Combination Intercept
+
+The beam and stern combination intercepts are also similar to their
+horizontal equivalents. As in the beam horizontal, airspeed advantage is
+very important. The procedures are shown in Figure D-21.
+
+@ wl. __—¥
+
+j=
+
+an
+
+Ko
+5-10 NM
+5000-10,000 FT XY
+4
+Cw
+
+AAN-02-21
+
+Figure D - 21. Beam Combination Intercept.
+
+AAM-2 D - 28
+
+
+Text from AAM-2_Intercepts_page_35.jpeg:
+Vertical
+
+The third means of gaining turning room is to use vertical only. There are
+two types of vertical intercepts: low to high and high to low. A key
+advantage to the vertical intercept is that it is very hard to be seen by the
+target. Additionally, attacking from high allows entering the fight with
+maximum energy advantage, while attacking from below may mask your
+aircraft from the target’s radar. The disadvantages are difficulty in
+getting a tally looking high to low, potential square corner (high to low),
+energy depletion on a low to high (negative Vc), and difficulty in flying no
+lockon. Desired parameters are more than 10,000 feet vertical offset,
+early tally (8-10 nm), pure pursuit conversion at 30° antenna elevation/
+depression, and a rollout within 9000 feet with 50-100 knots Vc. Only two
+approaches are discussed, as both the beam and stern tend to be the same
+as the combination intercept.
+
+
+Text from AAM-2_Intercepts_page_36.jpeg:
+Head-on Vertical Intercept
+
+During the head-on vertical intercept (Figure D-22), increase aspect to as
+close to a pure 180 as possible and achieve your desired vertical offset. At
+a minimum, fly the CATA until you reach 30° antenna elevation/
+depression, then pure pursuit. On a high to low, power is modulated to
+control energy at rollout. On a low to high, throttles are in afterburner to
+maintain energy. The front quarter vertical intercept is essentially the
+same as the head-on.
+
+30° ANTENNA
+ELEVATION
+
+Eeeeee
+
+er
+
+Figure D - 22. Head-on Vertical Intercept.
+
+AAM-02-22
+
+AAM-2 D - 30
+
+
+Text from AAM-2_Intercepts_page_37.jpeg:
+Medium Altitude Intercept Summary
+
+There are two basic types of intercepts flown: cut-off (collision course)
+intercept and stern conversion. The collision course intercept is the easier
+of the two, but it also makes up a portion of each stern conversion.
+
+Table D-1 summarizes the three types of stern conversions flown. The
+numbers shown are not the only possible combinations. As your
+experience grows, so will your understanding of their relationship.
+
+
+Text from AAM-2_Intercepts_page_38.jpeg:
+ASPECT INTERCEPT ALTITUDE PURE
+ANGLE GEOMETRY DIFFERENTIAL PURSUIT
+
+HORIZONTAL
+
+Put target cold to Deconflict +2000 feet 20nm & 15 AA
+build turning room 15nm & 14AA
+40-50° 10-12 nm & 13 AA
+
+CATA to maintain Deconflict +2000 feet 20nm & 15 AA
+turning room or hot to 15nm & 14AA
+increase AA 10-12 nm & 13-12 AA
+
+Put target 50-55° hot Deconflict +2000 feet 5-10 nm
+
+to gain closure
+
+V2 AA hot
+
+Deconflict
+
+COMBINATION
+
+16-H Put target on CATA or  5000-10,000 feet 20nm & 16 AA
+cold to build turning 15nm & 15 AA
+room 30-50° 10nm & 14 AA
+
+12-15 CATA to maintain 5000-10,000 feet 15nm & 15 AA
+turning room or hot to 10-12 nm & 14 AA
+increase AA
+
+7-11 Put target 50-55° hot 5000-10,000 feet 5-10 nm
+to gain closure
+
+T-6 V2 AA, hot side 5000-10,000 feet 5nm
+
+VERTICAL
+10,000-15,000 feet 30° antenna el
+
+CATA/increase AA to
+H
+
+CATA to conversion 10,000-15,000 feet 30° antenna el
+
+point
+
+Put target 50-55° hot
+to gain closure
+
+10,000-15,000 feet 5-10 nm & 30°
+antenna el
+
+Table D - 1. Intercept Summary.
+
+AAM-2 D - 32
+
+
+Text from AAM-2_Intercepts_page_39.jpeg:
+INTERCEPT STEPS, FLOW, AND ADJUSTMENTS
+
+As in any task, the intercept can be subdivided into a series of steps which
+result in the desired outcome. We call these steps the intercept flow (see
+below).
+
+The first step is to find the target. This is accomplished by using a
+disciplined radar setup and search plan. Once the target is found, sample,
+make a bearing, range, and altitude (BRA) call, and develop a
+three-dimensional view of the intercept as depicted on the display.
+
+Once accomplished, you can determine the intercept geometry and decide
+on the type of intercept to be flown. Finally, maneuver for turning room
+or to establish a collision course. This step needs to be accomplished at
+longer ranges to minimize the degree of maneuvering required and to
+deny the target an early tally. Remember, the Eagle is a large airframe.
+Any maneuvering flashes the large wing and makes it easier for the
+bandit to gain a tally. One of the more important steps is to get an early
+tally on the bandit. Maneuvering against a target is much easier when
+you perform it visually rather than with the radar. The last step of the
+intercept flow is the endgame—why you did this in the first place. The
+endgame consists of a medium range missile shot and/or conversion to the
+stern for an identification pass or short range engagement.
+
+Taking all this into consideration, the next concern is the flow or pacing of
+an intercept. The intercept flows as follows.
+
+e Radar setup/search
+
+e Find target/lock on
+
+e §6BRAcall
+
+e Develop three-dimensional view
+e Determine intercept geometry
+
+e Maneuver for turning room, collision course, altitude offset, and
+airspeed
+
+e Endgame
+
+
+Text from AAM-2_Intercepts_page_4.jpeg:
+CRITERION REFERENCED OBJECTIVES (CROs)
+
+1. Given an air-to-air radar display with lock on, determine the
+intercept geometry, target data, and action necessary to complete an
+intercept.
+
+2. Identify the primary and backup responsibilities for each crew
+member during aerial attack maneuvers.
+
+REFERENCES
+AFTTP 3-3 VOL XVII Chapter 4-11, Intercepts
+TO 1F-15E-34-1-1 Section I A/A Radar Display
+
+AIM-7 Employment
+AIM-9 Employment
+AIM-120 Employment
+
+AAM-2 B-1
+
+
+Text from AAM-2_Intercepts_page_40.jpeg:
+Radar Setup/Search
+
+We previously discussed the factors that might affect the intercept. We
+will now discuss radar setup and search together since they complement
+each other. The intent of this course is not to provide a book answer on
+radar search techniques. There are no absolutes. The radar search plan
+depends on the mission scenario, radar capability, radar modes available
+for use, personal preference, etc. Some general considerations and
+techniques follow.
+
+Range
+
+Range selected on the scope should cover the expected threat range. This
+can be determined by intelligence, GCI, or area of responsibility. Threat
+parameters must be considered (i.e., size, altitude, speed, etc.). A GCI call
+near the selected radar display range may dictate a greater range be
+selected to see a possible lead/trail formation.
+
+Elevation Scan
+
+The el bar scans selected most frequently are 4 or 6 bar. The time
+required for an entire frame (one complete set of 4 or 6 bar) increases with
+the number of bars. El bar scans may be briefed by the flight lead. Keep
+in mind, if more bars are selected than required to cover the altitude
+band, elevation sweeps are wasted above/below target altitude and frame
+time is increased.
+
+Azimuth (AZ)
+
+Select an AZ scan as appropriate to cover the required airspace. Realize
+that at 60 nm range, 60° of azimuth sweep equates to 60 nm of airspace
+(across the display) being covered; 120° azimuth sweep results in 120 nm
+coverage. Know the airspace width or area of responsibility and select the
+appropriate azimuth scan. Excessive coverage in azimuth means an
+unnecessary increase in the time to search a segment of airspace. On the
+other hand, understand that at 15 nm, 60° sweep is only 15 nm across and
+may not be enough to cover the threat airspace.
+
+AAM-2 D - 34
+
+
+Text from AAM-2_Intercepts_page_41.jpeg:
+Acquisition Symbols
+
+Initially, set the acquisition symbols at the briefed range and cover the
+altitude briefed by the flight lead. You are responsible for this coverage
+even as you search for targets. As you look for targets without GCI, set
+the acquisition symbols short of where you expect to pick up targets. For
+example, expect to see a fighter size target at 40-60 nm, so set acquisition
+symbols at 20-30 nm. With GCI, use them to lead GCI range (due to their
+radar and comm lag); 3-5 nm should be sufficient. Move the acquisition
+symbols as target range decreases.
+
+Altitude Coverage
+
+Set up your radar plan to search the expected threat altitudes; e.g., low for
+strike aircraft or high for reconnaissance aircraft. Radar altitude coverage
+displayed in search is a function of acquisition symbol placement and bar
+scan. To ensure a systematic search pattern, the acquisition symbol
+placement should reflect target range. Within the preplanned search
+responsibility, search the extreme altitudes first. (If responsible for low
+altitude coverage, search surface and up first.)
+
+Indeed, this discussion is fairly generic. The most important aspect of
+radar search is having a plan. The search plan should ensure that the
+area of responsibility is covered in a systematic manner.
+
+Find Target/Lock On
+
+Be patient in locking on the target. Allow for two hits on the target
+during search before attempting to lock on. Frequently, false targets
+(known as “birds”) may show up on the radar. With the frame store up
+
+(1 or 2), true targets leave a history. The false targets do not normally
+show a history. There are two common techniques for lock on. The first is
+to move the acquisition symbol slightly closer in range than the target and
+push the TDC/full action to command mini-raster for lock on (i.e., lead the
+target). The target will fly into the acquisition pattern. Another
+technique is to move the acquisition symbol until it is over the target, then
+command lock on. Either technique works; however, while gaining
+experience in the aircraft, the first technique is more successful. Avoid
+trying to lock on during a turn as this can be difficult, and there is a high
+degree of uncertainty as to which target was locked during multiple target
+intercepts.
+
+
+Text from AAM-2_Intercepts_page_42.jpeg:
+BRA(A) Call
+
+The BRA(A) report is used between GCI/AWACS and the fighter or
+between the fighter and his wingman/leader. It is an abbreviated,
+standardized format used to report target position. The BRA(A) report
+can be relative to your aircraft or to a known geographical point (bullseye).
+
+B is for bearing to the target (magnetic or relative).
+R is for range to the target in nautical miles.
+
+A is for target altitude.
+
+(A) is for aspect angle.
+
+The preferred BRA(A) uses magnetic bearing due to the inherent
+positional errors associated with relative bearing. An example of a
+BRA(A) report using Figure D-23 is “Jester 21, group (contact), one five
+zero, twenty, twenty-one thousand, flanking north.” This differs slightly
+from a BRA call made with search radar: “Jester 21, hit, one five zero,
+twenty, medium.”
+
+=
+=
+jz
+5
+
+AAM-02-23
+
+Figure D - 23. BRA(A) Report.
+
+AAM-2 D - 36
+
+
+Text from AAM-2_Intercepts_page_43.jpeg:
+Develop Three-Dimensional View
+
+Essential to understanding the geometry of any intercept is an awareness
+of what the numbers on the radar display are telling you. As will be
+stated many times in this course, there are but two radar intercept
+objectives. Either establish a collision course and a close to front aspect
+weapon parameters or build turning room (displacement from target
+track) to convert to the stern. Using the target’s TAS and aspect angle,
+establishing CATA should be easy. If the goal is to convert to the stern,
+then the target aspect, altitude, and range indicate if sufficient turning
+room exists or if more must be acquired. To build the “big picture,” the
+radar presentation must be interpreted to what would be seen from a
+“God’s Eye” view (Figure D-24). It is not necessary to draw out the radar
+presentation on each intercept, but it is necessary to envision what is
+happening. Hint: The TSD provides a very good “God’s Eye” view.
+
+FIGHTER LINE OF SIGHT
+
+TARGET
+
+20
+
+450 15L 180
+
+AZIMUTH
+
+FIGHTER
+AAM-02-24
+
+Figure D - 24. Three-Dimensional View.
+
+
+Text from AAM-2_Intercepts_page_44.jpeg:
+Determine Intercept Geometry
+
+Once you have developed a “God’s Eye” view and know the type of
+intercept you want, do what is required. Continue to think about the
+factors that affect the intercept (sun, clouds, elevation, threat, rules of
+engagement [ROE], etc.) as you maneuver for turning room or collision
+course. You should accomplish this step at longer ranges in order to
+minimize the degree of maneuvering required to deny the bandit an early
+tally. The accepted standard is go pure pursuit NLT 10 nm. Remember,
+the Eagle is a large airframe and maneuvering flashes the wing and
+makes visual acquisition easier for the bandit. One of the more important
+steps is to get an early tally on the bandit. Maneuvering against a bandit
+is much easier when you perform it visually rather than with the radar.
+The last step of the intercept is the endgame, which consists of a medium
+range missile shot and/or the conversion to the stern for the identification
+or the short range engagement.
+
+Maneuver to Make Adjustments to Intercept
+
+Turning Room
+
+The maneuver to achieve offset for the appropriate aspect at a given range
+may be thought of as a point-to-point. The amount of offset and direction
+to go is dictated by the fighter’s present position in relation to the point
+where the desired 10 nm horizontal offset is achieved; i.e., pure pursuit
+curve. If you have an H or 17 aspect with sufficient range, then 40° offset
+to the cold side may be acceptable. A 16 aspect at the same range may
+only require 30° offset as shown in Figure D-25. A 16 aspect at 20 nm
+gives fighter B approximately 6 nm of horizontal offset already
+established. Fighter A (H aspect) has no turning room. Consequently,
+since fighter B is closer to the desired horizontal offset, it does not need to
+offset as much to the cold side. Range is significant in the equation for
+offset. Figure D-26 shows that as range to the target decreases, a greater
+amount of offset is required to get the horizontal turning room. Of course,
+achieving some vertical displacement aids in gaining turning room for the
+conversion (slice/chandelle).
+
+AAM-2 D - 38
+
+
+Text from AAM-2_Intercepts_page_45.jpeg:
+“a DESIRED TURN POINT
+r\ 13AA/10 NM
+~J A
+
+b ‘ DESIRED TURN POINT
+
+13AA/10 NM
+
+\ FIGHTER A
+AA=H
+
+» FIGHTER B
+AA=16L
+
+AAM-02-25
+
+Figure D - 25. Aspect Angle Versus Offset Requried.
+
+AAM-2
+
+
+Text from AAM-2_Intercepts_page_46.jpeg:
+40
+
+NM
+
+TARGET
+
+20 NM ; _X— DESIRED TURN POINT
+ae | 13AA/10 NM
+
+AAM-02-26
+
+Figure D - 26. Range Versus Offset.
+
+
+Text from AAM-2_Intercepts_page_47.jpeg:
+Realize that initial fighter maneuvering to establish turning room may
+not be 100% effective. During the intercept, turning room status must be
+constantly evaluated and ATA changed as necessary. Figure D-27 shows
+two fighters. Fighter A is hot (does not have sufficient turning room) and
+fighter B is cold (has too much turning room). Fighter A has closed to 20
+nm and still shows a 17 AA. This equates to only about 3 nm of horizontal
+offset. In BFM, this would be sufficient. The fighter could, in fact, convert
+and roll out behind the target. However, the G loading required will be
+high, maybe much higher than advisable in a WX/night situation. Also, at
+altitude, G may result in excessive energy bleedoff and a rollout behind
+the target with opening (negative) closure. To establish more turning
+room, the fighter should turn to the right to displace the target farther left
+(the cold side) on the display. Being hot does not necessarily mean the
+intercept cannot be completed. It does mean that higher G will be
+required to maintain pure pursuit. Fighter B is cold. If fighter B does not
+maneuver left, the end result will be too much horizontal turning room.
+This will translate to excessive range at rollout behind the target.
+
+13 AA/10 NM
+
+|
+L DESIRED TURNING ROOM
+|
+|
+|
+|
+|
+I
+
+—~———_ Y__
+
+FIGHTER B
+14 AA/20 NM
+FIGHTER A
+17 AA/20 NM
+AAM-02-27
+
+Figure D - 27. Turning Room Adjustment.
+
+
+Text from AAM-2_Intercepts_page_48.jpeg:
+Pure Pursuit
+
+Given that sufficient horizontal/vertical turning room has been
+established, going pure pursuit is the actual process by which the fighter
+is able to convert to the target’s stern (Figure D-28).
+
+AAM-02-28
+
+Figure D - 28. Pure Pursuit Timing.
+
+In day VMC conditions, pure pursuit is normally taken no later than 10
+nm in order to hide the aircraft and to gain an early tally. During
+night/IMC that is not necessarily the case. Since there is no need to hide
+the fighter, the pilot may elect to continue offsetting inside 10 nm range if
+insufficient turning room is available. Realize that going pure at the first
+opportunity will decrease offset without significantly generating turn until
+short range. Just as in the discussion of turning room adjustment earlier,
+a hotter intercept will require a higher G at endgame.
+
+AAM-2 D - 42
+
+
+Text from AAM-2_Intercepts_page_49.jpeg:
+Airspeed
+
+The fighter would like to roll out behind the target with positive overtake.
+Figure D-29 shows recommended values for fighter airspeed when
+reaching the “go pure” point for each type of intercept. The speeds given
+are comparisons to target KTAS. These speeds should be set no later than
+the pure pursuit point, but recognize that to establish a fighter airspeed of
+target TAS +200 KTAS 30 nm before the pure pursuit point wastes JP-8.
+
+TGT TAS =e
+
+» TGTTAS+
+"Ay 50 KTAS
+a
+TARGET .
+| fq TGTTAS +
+—fy- “4 100 KTAS
+
+* hl
+Pct TAS +
+150 KTAS
+
+TGT TAS + <efhie—
+200 KTAS
+
+Figure D - 29. Fighter Speed Advantage Versus Vertical Position.
+
+AAM-02-29
+
+
+Text from AAM-2_Intercepts_page_5.jpeg:
+STUDENT PREPARATION REQUIREMENTS
+
+BEFORE CLASS
+
+1.
+
+2.
+
+Study the information contained in this workbook and complete the
+End of Text Quiz.
+
+Read the reference material.
+
+
+Text from AAM-2_Intercepts_page_50.jpeg:
+Fast Target
+
+The fast target (Mach 1.1 or greater) poses problems when contemplating
+a stern conversion. Offset sooner to establish lateral turning room. Due
+to higher closure, offset the target farther to the cold side to assist in
+building turning room. Increase fighter airspeed to approximately target
+airspeed by the pure pursuit point. This will prevent rolling out behind
+the target with negative Vc. Due to high line of sight rates presented by
+the fast moving target, go pure pursuit at a 14 to 15 AA. Expect higher
+than normal Vc on the pure pursuit schedule as a result of higher true
+airspeed. Avoid the temptation to cool off the intercept by pulling back on
+the power, as it will result in an energy deficient state behind the target.
+Expect shorter weapon envelopes in the stern. Do not be lulled into
+thinking that SRM employment is the only option. If outside SRM
+parameters, think MRM.
+
+Slow Target
+
+The slow target profile generally assumes an aircraft of small radar return
+moving at speeds much slower than normal fighter speeds. Slow targets
+are often at low altitude. Placing the target on a high aspect approach
+quadrant may be the only way to maintain lock for front aspect MRM
+employment. Due to the target size, a VID may prove to be extremely
+difficult before minimum range for weapon employment. Ifa stern
+conversion is desired, offset at normal range or later and attempt a
+look-up position (altitude permitting). Unless a 16 - H AA is seen on first
+lock, the radar may have difficulty maintaining a lock. Expect to have to
+reacquire the target several times during the intercept. Realize that, due
+to its low airspeed, the target will not be moving down the display very
+quickly. The vast majority of Vc will be attributable to the fighter. The
+aspect angle will be very slow to decrease due to the low line of sight rate
+of the target. Offsetting farther to the cold side will help. Due to low line
+of sight, go pure pursuit inside 10 nm. If the fighter stays at tactical
+airspeeds, expect high closure in the stern.
+
+AAM-2 D - 44
+
+
+Text from AAM-2_Intercepts_page_51.jpeg:
+Ve Control
+
+This table shows range versus Vc for a co-speed horizontal intercept.
+Closure and range should be cross-checked and evaluated to help
+determine if a pure pursuit conversion is hot or cold.
+
+RANGE ASPECT Ve
+6 nm 10 700-800
+5 nm 9 600-700
+4 nm 7 500-600
+3 nm 5 400-500
+2nm 2 200-300
+lnm T 100
+
+If excessive Vc is displayed for the range (and the target is not at high
+speed), then lag the target until Vc comes under control. If Vc is low for
+target range, lead the target until values on the table match up.
+Modulation of power may also be used to change Vc. If used, it should be
+a small or momentary change. Too much or too long and you may end up
+in a deficient energy state or with too much overtake. That covers the
+basics of the intercepts. As with any part of air-to-air employment,
+technique and personal preference play an important role.
+
+Typical Intercept
+
+An intercept consists of searching for the target, detecting the target,
+sampling target parameters, sanitizing around the target, and then
+sorting out the target formation in order to target the correct bandit.
+After achieving the final lock, the stern conversion permits entry into the
+visual arena from a position of advantage. Following the merge and the
+conclusion of the engagement, a separation is performed in order to exit
+the target area safely.
+
+This section looks at the different phases, the tasks performed in each
+phase, and the HOTAS to be used to perform those tasks.
+
+
+Text from AAM-2_Intercepts_page_52.jpeg:
+In long range search, it is reeommended to utilize 80 nm, 4/6 bar el scan,
+120° sweep and frame store of 1. Be patient with the search pattern if
+using interleaved PRF. Do not move it until each bar has a high and
+medium PRF sweep (for 6 bar scan, wait for 12 sweeps). Keep the
+acquisition symbols short of the target’s anticipated range. Cover the
+required airspace at the designated range. Use the numbers associated
+with the acquisition symbols to cover the required altitude. Overlap the
+altitudes as you move the coverage up/down in your search pattern. If you
+know the threat’s approach axis, use of 60° sweep is a viable option to
+decrease frame time.
+
+Detection
+
+After acquiring the target and confirming that the group is your target,
+azimuth bump to 30°/60° sweep to increase the refresh rate of the hits.
+Keep the acquisition symbols at least 5 nm short of the target. You are
+looking for long range contacts that will enable you to get started on your
+sampling, sanitizing, and sorting.
+
+Sample
+
+This phase is extremely important. The task is to determine intercept
+geometry, develop a plan of action, and build SA through repeated
+sampling in order to determine how many targets are in the group and the
+parameters (altitude, aspect, range) of each target. This is also the time
+to ID the targets. Sampling is performed by repeated locks of
+approximately 5 seconds or just long enough to get valid target
+parameters displayed and to read them. STT/TWS/highlight are options
+for this phase.
+
+Targeting
+If there are multiple groups, the flight lead will determine the priority
+
+group for the flight to target. The flight will then sort within the priority
+group for final locks.
+
+AAM-2 D - 46
+
+
+Text from AAM-2_Intercepts_page_53.jpeg:
+Sanitize
+
+During the sampling phase, sanitize the area around the target for brief
+periods between the sample locks. If needed, move the search pattern to
+other possible threat axes or altitudes. This must be done in order to
+prevent unseen bandits from entering the engagement.
+
+Sampling, sanitizing, and sorting are accomplished in a near
+simultaneous fashion by highly experienced aircrew. Less experienced/
+proficient aircrews need to consciously realize which task is the current
+priority, so they can optimize the radar for that task. For sanitizing, a
+wide search volume is required. For sampling or sorting, optimize the
+radar against the observed target(s) or against the smaller volume of
+airspace around the target formation. STT is a pure sample mode.
+Search is the purest surveillance mode while offering some target
+information. Highlight and TWS offer a compromise between sampling
+and sanitizing. Search sort, high data TWS and TWS sort (particularly
+HDTWS sort) provide the enhanced capability to address the sorting
+problem.
+
+Sorting
+
+Once the airspace has been sanitized and target parameters are known, it
+is relatively easy to lock the correct target. The final lock range will be
+briefed and must be adhered to in order to enable all flight members to see
+the same radar picture and therefore lock the correct bandit.
+
+The sort will be briefed. In general, you take the bandit that corresponds
+to your flight position. For example, wingman on the left takes the bandit
+on the left. Wingman takes trailers. As a single, take the bandit on the
+side you are converting to. For example, you see a 17R aspect and offset
+the targets to the left (targets on the right [cold side] of the radar). Your
+final lock should be to the target on the left. For lead/trail, lock the trailer
+to prevent yourself from being sandwiched.
+
+
+Text from AAM-2_Intercepts_page_54.jpeg:
+Intercept Geometry
+
+If not already accomplished, after the final lock, position the aircraft for
+the desired geometry. For cut-off geometry, center the dot and shoot at
+the briefed range. For stern conversion, offset at the desired range and
+monitor aspect angle and closure during the conversion. Go pure pursuit
+NLT 10 nm and be prepared to shoot when the target is declared hostile.
+Complete the intercept with the stern conversion and/or Fox 1/2/3 on the
+bandits.
+
+Intercept Results
+
+There are four possible results from any intercept. The first is to attack
+the bandit undetected. The second is when both the fighter and the target
+see each other, which may result in a neutral start to the visual fight. The
+third occurs when the fighter fails to see the target, but the target sees the
+fighter. This results in either a kill by the target or a defensive
+engagement for the fighter. The last is a missed intercept where neither
+the fighter nor the target engage. The most important thing to remember
+is that an intercept in itself is not the endgame, just a means to that end.
+Always be ready to fight your best 1 v 1 BFM.
+
+Separate
+
+At the end of the engagement, turn to the called/briefed egress heading.
+The pilot should select guns and position the search pattern to sanitize the
+egress. Visually clear the area around the aircraft. Regain the briefed
+formation and mutual support. After sufficient search in guns, go to SRM
+and allow the WSO to take command of the radar. Go to MRM search
+after sanitizing the short range area in front of the aircraft.
+
+Be prepared to enter another engagement!
+
+AAM-2 D - 48
+
+
+Text from AAM-2_Intercepts_page_55.jpeg:
+HIGH ALTITUDE INTERCEPTS
+
+High altitude intercepts present another unique problem. The target at
+high TAS/Mach combined with the fighter aircraft turn performance at
+altitude makes stern conversions impractical and a reattack not probable.
+The head-on collision course intercept is the desired attack with an aspect
+angle as close to H as possible to minimize missile maneuvering. One
+method used in the F-15E community is as follows.
+
+A/B climb to FL 350, accelerate to 1.3M
+Increase aspect to H
+
+At approximately Raero, center the dot
+Shoot two missiles, five seconds apart
+
+At 15 miles with 15 seconds missile TOF remaining, bunt to get
+ready for the next target
+
+Keep target illuminated for MRM time of flight—this may result
+in high angle of attack and slow airspeed for the F-15E as the
+nose is raised to keep the target inside elevation gimbals
+
+
+Text from AAM-2_Intercepts_page_56.jpeg:
+LOW ALTITUDE INTERCEPTS
+
+The low altitude intercept presents unique problems to the fighter. The
+first problem is reduced target acquisition range both for the radar and
+visually. The second is reduced missile envelopes and difficulty in
+employing the gun. The target gains an advantage because the ground
+becomes a threat to the fighter. In addition to ground impact killing the
+fighter, the ground can cause the radar to break lock.
+
+To counter the problems, fly a horizontal or a limited vertical combination
+intercept. The conversion is started by 14 AA with a gradual descent to
+avoid a square corner. Throughout the conversion, the fighter maintains
+a speed greater than or equal to the target. An early tally is critical. Your
+eyes are your most valuable tool. Look for shadows of the bandit to cue
+you toa tally. Anticipate ridge lines because the bandit may highlight
+himself crossing them or try to use them to hide from you. Task
+saturation may very well become a problem. You still have to check six,
+watch lead, and fly the jet. The biggest problem remains the ground.
+Good crew coordination and directed crew responsibilities must be
+established if you are to be successful and survive.
+
+CREW COORDINATION
+
+As you have seen in other lessons, most tasks in this aircraft can be
+performed by either crew member. However, without prior coordination
+the crew can find themselves fighting over control and not using this
+aircraft to the maximum of its capabilities.
+
+Radar
+The radar (except for auto acquisition functions) can be controlled
+
+effectively from either cockpit. In fact, there are specific mission tasks or
+times when a particular individual must have control of the system.
+
+AAM-2 D- 50
+
+
+Text from AAM-2_Intercepts_page_57.jpeg:
+The closer you are to the ground, the more the pilot is concerned with
+NOT hitting the ground and less with the radar. Therefore, the WSO
+normally becomes the primary operator. Aside from those times when
+radar control is task directed, the WSO normally operates the radar.
+Short range engagements may dictate that the pilot have control of the
+radar using the auto acq modes. While at longer ranges, either crew
+member can successfully perform the functions.
+
+The crew member not in control of the radar monitors the aircraft for
+safety of flight and performs primary cockpit duties. He is responsible for
+flight deconfliction and clearing for bandits. The bottom line is that if one
+crew member is heads down in the radar, the other should be heads out
+performing visual lookout and flight deconfliction.
+
+Commentary
+
+Intercockpit
+
+Having two crew members in an airplane increases the capability to do
+complex tasks, but it also increases the amount of communication
+required on the intercom. Briefing key words for taking command and
+changing command of tasking, as well as using accepted brevity terms,
+cuts down on the amount of chatter in the cockpit. It is highly probable
+that during the intercept the pilot will be looking out front or at the radar
+and the WSO will be looking over his shoulder in an attempt to find the
+bogey that GCI had said was following them, or keeping track of the rest
+of the flight. Any change in situation demands intercockpit
+communication. The longer a crew flies together, the better their crew
+coordination will be. Nothing done by one crew member is unknown to the
+other. Comments must be as brief as possible without causing confusion.
+The key to successful intercockpit communication is crew coordination.
+The key to crew coordination is talking about what can happen, what did
+happen, how to prevent any unpleasant surprises, and those things you,
+as a crew, did right.
+
+
+Text from AAM-2_Intercepts_page_58.jpeg:
+Intraflight
+
+Once again, the goal is to limit the amount of communication to the
+essential. Excessive talk only clutters up the frequency, confuses flight
+members and may cause someone to miss a critical directive from lead or
+ground control. There is nothing worse than losing a wingman because he
+did not or could not hear your “break” call.
+
+GCI/AWACS
+
+It is the same problem as in intraflight. Be familiar with the brevity code
+in AFTTP 3-1 and use it. Only the leader, or the aircraft responsible for
+the intercept need acknowledge the GCI radio calls.
+
+Visual Lookout
+
+Visual lookout is the most important, single activity that will keep you
+alive in any mission. On an intercept mission, the need for visual lookout
+does not lessen as the attacker. In any fight it is the predictable aircraft
+that gets beat. There is no other time when the crew is more predictable
+than when flying an intercept. Someone in the aircraft must be clearing
+at all times. Therefore, visual lookout is the responsibility of both crew
+members. Additionally, periodic belly checks may be the difference
+between being the shooter and getting shot. A rule of thumb would be
+never turn more than 90° without making a belly check. AFTTP 3-1
+covers the areas of responsibility for visual lookout. Key points to
+remember are to clear the immediate threat area first, search both high
+and low (a smart attacker avoids the horizon), and be disciplined in your
+search.
+
+AAM-2 D - 52
+
+
+Text from AAM-2_Intercepts_page_59.jpeg:
+QUESTIONS
+
+The amount of offset required to turn behind the target is
+
+a. solely a function of aspect angle.
+
+b. dependent on speed ratio, target AA, and altitude split.
+c. ‘%the aspect angle on the hot side.
+
+d. dependent on the target type.
+
+Target drift
+
+a. increases as the target approaches the CATA.
+
+b. decreases as the target approaches the edge of the display.
+c. is always toward the hot side.
+
+d. is away from the CATA.
+
+The quickest intercept is flown by
+
+offsetting the target 40-50° cold of the CATA.
+
+centering the MRM steering dot inside of 1.2 aero.
+
+placing the target on the CATA.
+
+maintaining the target on the center scribe of the radar display.
+
+ae op
+
+Horizontal intercepts are preferred
+
+when you want to highlight the target on the horizon.
+when your target is a “look up” only fighter.
+
+only when in training.
+
+at night/IMC or low altitude.
+
+ae op
+
+
+Text from AAM-2_Intercepts_page_6.jpeg:
+AAM-2
+
+(This Page Intentionally Blank)
+
+
+Text from AAM-2_Intercepts_page_60.jpeg:
+5. What is the CATA for a co-speed target with the listed aspect angles?
+
+a. 15L
+b. 18R
+c. 17R
+d. 14L
+e. 16L
+
+6. Write in the correct aspect angles for the listed approach quadrants.
+
+a. Head-on
+
+b. Front Quarter
+c. Beam
+
+d. Stern
+
+7. What mode should the radar be in immediately following the turn to
+
+the egress heading?
+a. TWS
+
+b. STT
+
+c. MRM search
+d. guns
+
+8. Which two modes are used in the sampling/sanitizing phases?
+
+a. STT/search
+
+b. TWS/RAM
+
+ce. Highlight/DTT
+d. HDTWS/RAM
+
+AAM-2 D- 54
+
+
+Text from AAM-2_Intercepts_page_61.jpeg:
+[ok
+
+ao op
+
+caoop
+
+ANSWERS
+
+30 right
+50 left
+10 left
+40 right
+20 right
+
+16-H
+12-15
+7-11
+T-6
+
+AAM-2
+
+
+Text from AAM-2_Intercepts_page_62.jpeg:
+AAM-2
+
+(This Page Intentionally Blank)
+
+
+Text from AAM-2_Intercepts_page_63.jpeg:
+END OF TEXT QUIZ
+
+AAM-02-30
+
+Figure E - 1.
+
+Using Figure F-1, to complete an intercept to the target’s 6 o’clock,
+you should
+
+a. vigorously turn right 45°, wait 45 seconds, then turn to obtain
+offset.
+. turn right to obtain offset and adjust using the key points.
+c. turn left to obtain offset and adjust using the key points.
+d. turn left to put the target on the CATA.
+
+Using Figure F-1, this intercept is a setup.
+a. front quarter
+
+b. head-on
+
+c. stern
+
+d. beam
+
+
+Text from AAM-2_Intercepts_page_64.jpeg:
+E
+E
+E
+E
+
+ieee
+
+AAM-02-31
+Figure E - 2.
+
+3. To get on the correct horizontal pursuit curve for Figure F-2, turn
+
+right to a reciprocal heading.
+right to move target cold of CATA.
+left to a reciprocal heading.
+
+right to increase aspect.
+
+Ro op
+
+4. Use Figure F-2 to determine the CATA. It is
+
+a. 20° right.
+b. 10° right.
+c. 10° left.
+d. 20° left.
+
+AAM-2 E-2
+
+
+Text from AAM-2_Intercepts_page_65.jpeg:
+=
+=
+=
+z
+
+|
+
+AAM-02-32
+
+Figure E - 3.
+
+Using Figure F-3, a turn of 10° to the right
+
+a. will not immediately affect the ATA.
+b. will not immediately affect the AA.
+c. changes the CATA by 20°.
+
+d. will not affect the HCA.
+
+Using Figure F-3, at this point in the horizontal stern conversion
+
+intercept, a turn is required to
+
+put the target on the CATA.
+establish lead pursuit.
+
+generate cutoff.
+
+move target 40-50° cold of CATA.
+
+ao op
+
+AAM-2
+
+
+Text from AAM-2_Intercepts_page_66.jpeg:
+AAM-2
+
+7. All turns used to complete an intercept are
+a. maximum G, 60° bank or more to arrive at the pursuit curve
+quickly.
+b. brisk turns of 45° or more.
+c. just enough to get on the pursuit curve, limiting wing flashes.
+d. prohibited inside 15 miles.
+8. Control of the radar
+a. should always be with the crew member not flying the aircraft.
+b. should always be with the WSO.
+c. varies with the flight regime and mission.
+d. rests with the most experienced individual.
+
+
+Text from AAM-2_Intercepts_page_67.jpeg:
+Figure E - 4.
+
+9. Using Figure F-4, if you want to perform a combination stern
+conversion and attack the target shown here, your first move is to
+
+put the target 50-55° cold.
+
+turn right to decrease aspect to 14, then slice down.
+
+put the target on the CATA then pull at 30° antenna depression.
+turn left to decrease aspect to 14, then slice down.
+
+po op
+
+10. During aerial attack maneuvers
+
+a. the WSO directs weapons employment.
+
+b. the pilot keeps the WSO advised of all heading changes greater
+than 40°, altitude changes of 5000 feet, and airspeed changes of
+50 knots.
+
+nonessential chatter should be kept to a minimum.
+
+d. only the WSO looks out.
+
+©
+
+
+Text from AAM-2_Intercepts_page_68.jpeg:
+eye
+
+(~ 17L 175
+
+oe
+Cc
+
+AAM-02-34
+
+Figure E - 5.
+
+11. Using Figure F-5, visual ID is required before firing ordnance.
+Intelligence says that older aircraft are attacking. At 20 nm from the
+border, with this situation, your best option is
+
+a vertical/chandelle conversion to the stern.
+a long range AIM-7 and split.
+
+climb to 80,000 feet and do a slice attack.
+
+a horizontal conversion to the stern.
+
+Re op
+
+AAM-2 E-6
+
+
+Text from AAM-2_Intercepts_page_69.jpeg:
+A/B
+ASE
+ATA
+AWACS
+AZ
+BFM
+BRA(A)
+CATA
+el
+
+FL
+
+GCI
+
+HCA
+HDTWS
+HOTAS
+HUD
+
+ID
+
+IMC
+
+KTAS
+
+GLOSSARY
+Aspect angle
+Afterburner
+Allowable steering error
+Antenna train angle
+Airborne warning and control system
+Azimuth
+Basic fighter maneuver
+Bearing, range, and altitude (aspect)
+Collision antenna train angle
+Elevation
+Flight level
+Ground controlled intercept
+Head
+Heading crossing angle
+High data rate track while scan
+Hands on throttle and stick
+Head-up display
+Identification
+Instrument meteorological conditions
+Knots true airspeed
+
+Left
+
+AAM-2
+
+
+Text from AAM-2_Intercepts_page_7.jpeg:
+TEXT
+DEFINITIONS/TERMS
+
+The radar is a two-dimensional picture of a three-dimensional event. The
+information displayed on the MPD/MPCD air-to-air displays helps you to
+develop the picture of the intercept geometry. The information covered in
+RDR-2 discusses the air-to-air radar depictions. This text concentrates on
+interpreting the information and employing the F-15E in the intercept
+environment. Before discussing “how to,” the definitions of terms used are
+discussed.
+
+Intercept
+
+An intercept is the means by which a fighter aircraft maneuvers from
+beyond visual range to a position from which to employ ordnance, visually
+identify the target, and/or enter the visual fight arena. The intercept can
+be flown using GCI/AWACS information, on-board radar information, or a
+combination of the two.
+
+NOTE
+Peripheral pushbutton legends and some air-to-air display legends have
+
+been omitted from MPD/MPCD displays throughout the text for ease of
+presentation.
+
+
+
+Text from AAM-2_Intercepts_page_70.jpeg:
+M Mach
+
+MCM Multiple command manual
+MPCD Multipurpose color display
+MPD Multipurpose display
+MRM Medium range missile
+NLT Not later than
+
+nm Nautical miles
+
+PRF Pulse repetition frequency
+R Right
+
+ROE Rule(s) of engagement
+
+SA Situation awareness
+
+SRM Short range missile
+
+STT Single target track
+
+T Tail
+
+TAS True airspeed; calibrated airspeed corrected for temperature
+
+and pressure
+
+TD Target designator
+
+TDC Target designator control
+TOF Time of flight
+
+TWS Track-while-scan
+
+Ve Closing velocity
+
+VID Visual identification
+
+AAM-2 F-2
+
+
+Text from AAM-2_Intercepts_page_71.jpeg:
+VMC
+
+WSO
+
+Visual meteorological conditions
+Weapon system officer
+
+Weather
+
+AAM-2
+
+
+Text from AAM-2_Intercepts_page_72.jpeg:
+BACK PAGE
+COVER SHEET
+
+
+Text from AAM-2_Intercepts_page_8.jpeg:
+Heading Crossing Angle (HCA)
+
+HCA is the angle formed by the projected flight paths of the target and the
+fighter (Figure D-1). The maximum possible HCA is 180° (head-on). HCA
+is dependent on both the fighter and target headings and changes when
+either aircraft maneuvers.
+
+Lethal
+
+FIPIRIM IP
+
+AAM-02-01
+
+Figure D - 1. Heading Crossing Angle.
+
+AAM-2 D-2
+
+
+Text from AAM-2_Intercepts_page_9.jpeg:
+Target Relative Heading Vector
+
+During STT and TWS modes, the target displays a “stick” which shows
+the relative target heading in relation to the fighter’s heading
+
+(Figure D-2). The relative heading vector should only be used as a guide
+to the target’s general heading and for indicating target maneuvering. It
+should not be used to assess the target’s magnetic heading or aspect
+angle.
+
+| TGT
+| RELATIVE
+| HDG
+
+AAM-02-02
+
+Figure D - 2. Target Relative Heading Vector.
+
+

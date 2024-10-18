@@ -1,0 +1,812 @@
+Text from AAM-8_High_BFM_page_1.jpeg:
+SUPPORTS COURSES
+FIS5EBQ
+
+FISETX
+
+FISESOC
+
+ACADEMIC STUDENT WORKBOOK
+F-15E
+
+AERIAL ATTACK MANEUVERING
+AAM-8
+HIGH ASPECT BASIC FIGHTER
+MANEUVERS
+
+JULY 1998
+
+(OFP N/A)
+
+AIR COMBAT COMMAND
+
+
+Text from AAM-8_High_BFM_page_10.jpeg:
+Lead Turn
+
+The lead turn (Figure D-1) is your primary tool in high aspect BFM. A
+lead turn is simply an attempt to decrease angle-off prior to passing the
+opponent’s 3/9 line (turning prior to 3/9 passage). It can be done in any
+plane (horizontal, vertical, or a combination). If you can out turn the
+bandit because of your superior aircraft or more favorable airspeed
+conditions, maneuver for lateral separation early. Do not expect
+spectacular results after the first lead turn since a sequence of such
+maneuvers is usually required to achieve a position in a weapons
+envelope. You are just trying to gain a position of offensive advantage so
+you can use your offensive maneuvers to slide into a weapons envelope,
+and shoot something at the bandit. The lead turn is not a one time only
+maneuver. It is available at every merge and should be considered every
+time there is a high aspect pass. It requires patience, for rarely will you
+gain the offensive after one lead turn. If you continually gain angles at
+every merge, you should eventually reach a point where you can drive the
+fight for a kill. The bandit can deny you a lead turn by turning into you
+(i.e., attempting to lead turn you). The result of both aircraft lead turning
+is a close aboard high aspect pass.
+
+=<
+-
+
+@ O—
+
+\ START TURN WHEN
+
+LOS RATE INCREASES
+
+AAM-08-01
+
+Figure D - 1. Lead Turn
+
+AAM-8 D-4
+
+
+Text from AAM-8_High_BFM_page_11.jpeg:
+The goal of a lead turn is to reduce angle off prior to a 3/9 line passage. In
+a perfectly executed lead turn, you would roll out in the bandit's six o'clock
+area in the control zone, as in Figure D-1. This perfect lead turn occurs
+when you have the correct amount of offset (horizontal and vertical), start
+the lead turn at the right time, use the proper amount of G, and the
+bandit allows you to do it.
+
+The first task is to build the required amount of offset. This can be done
+at the terminal stages of an intercept or visually after a long range tally-
+ho. It is always preferable to gain turning room in both the horizontal and
+vertical. This way, a single move by an unaware attacker will not take
+away all your turning room. As a general rule of thumb you need 4000 to
+7000 feet of turning room. Visually this can be established by placing a
+high aspect bandit outside the canopy bow high (level with the upper
+mirrors) or low (inside the crotch of the canopy bow) as in Figure D-2. If
+after placing the bandit here you see a turn into you, the bandit is lead
+turning you.
+
+You should bring the bandit back to the nose and expect a high aspect
+merge.
+
+AAM-08-02
+
+Figure D - 2.
+
+
+Text from AAM-8_High_BFM_page_12.jpeg:
+Since pure horizontal or vertical conversions may not be tactically sound,
+it may be best to use a combination. While establishing horizontal
+turning room, it is your option either to get vertical turning room above or
+below. Going above gives you the advantages of radial G, a smaller turn
+radius (hence less required offset), easier ability to maintain your energy
+state, and an easier to judge entry (because you are closer). The
+disadvantages are that you are providing the bandit a lookup radar shot
+and your IR missiles may be looking into a hot clutter environment.
+Going below gives you the advantages of radar ground clutter, the
+possibility to highlight the bandit against the sky/clouds, and it is easier
+to keep sight of the bandit. The disadvantages are that you need to have
+more airspeed which leads to a larger turn radius (more offset required),
+more G on the conversion (more of a chance to over-G), and a harder entry
+to judge. Of course, environmental considerations such as clouds or sun
+levels may drive you to one or the other.
+
+The time to start a lead turn is when you notice an increase in the bandit's
+line-of-sight. When you initially offset the bandit on the outside of the
+canopy bow, the bandit will appear to be stationary. As the range closes
+and the offset builds, the bandit will start to move on your canopy. When
+this movement starts to increase “dramatically”, it is time to initiate the
+lead turn.
+
+AAM-8 D-6
+
+
+Text from AAM-8_High_BFM_page_13.jpeg:
+To perform a lead turn: unload, rotate your lift vector in front (lead) of the
+bandit, and initiate your pull. Generally the pull needs to be at least 5-6
+Gs, but could be more or less. A low to high lead turn requires more G, a
+high to low less G. Remember, the goal is to lead turn into an unaware
+bandit's control zone (i.e., approximately 3000 feet in the stern). As you
+begin the lead turn the bandit will be in the vicinity of your canopy bow.
+As you continue your pull the bandit will start to track toward the HUD
+for about the first third to half of the turn and then gradually start
+drifting up and away from the HUD. If the bandit stays stationary on the
+canopy after the first part of the turn, you are on a collision course and
+will collide if nothing changes. If this happens you will need to
+momentarily ease off your pull (lag) to allow a line-of-sight rate to develop,
+then get back onto the pull. If after the first part of the turn the bandit
+continues to track through the HUD and toward the nose, you are turning
+in front of the bandit (you started your lead turn too early). This is called
+a “no respect” lead turn. If you take no action, and the bandit recognizes
+your error, you may be defensive very shortly as in Figure D-3. Again,
+you will need to momentarily ease off your pull (lag) to allow a line-of-
+sight rate to develop, then get back onto the pull.
+
+YY \ On HH
+
+AAM-08-03
+
+Figure D - 3. An Karly Lead Turn.
+
+
+Text from AAM-8_High_BFM_page_14.jpeg:
+In summary, the lead turn is the most efficient way to win from a neutral
+pass. The only time you would not want to lead turn is when you want to
+bugout from the merge or want to separate for energy and then comeback
+and fight. In this case, you want to stay in pure pursuit as long as
+possible to create the highest HCA for the most effective separation.
+
+Common Errors in Performing Lead Turns
+
+e Recognizing LOS rate late or not using available turning room-
+allows bandit to lead turn you, angle off is not reduced at merge.
+
+e Lead turning before LOS becomes apparent-may put you in front of
+bandit. Adjust lift vector on bandit's six and pull to pass close aboard
+(turning room permitting) but always behind the bandit.
+
+e Not lead turning after the first merge-lead turns are authorized more
+than once per engagement. Do not accept continuous high aspect
+
+passes, continue to lead turn until the bandit is dead.
+
+e Not prepared for the merge-lean forward in seat so that you can look
+past the seat and maintain the tally.
+
+e Pure pursuit too long trying to get an auto acquisition lock on-
+therefore, no turning room is achieved.
+
+e Forgetting the separation option and ending up anchored or
+defensive.
+
+AAM-8 D-8
+
+
+Text from AAM-8_High_BFM_page_15.jpeg:
+HIGH ASPECT BFM
+Initial Moves
+
+Assuming bugging out is not your plan, you are left with three options at
+the pass.
+
+e Blow-through-extend and comeback
+
+e Hard turn at the pass (horizontal or oblique)
+@ Go vertical
+
+Extend and Comeback
+
+As you merge, monitor the bandit’s direction of turn, maintain tally and
+perform a separation maneuver in full AB. This option is good if your
+energy is low, if entering with limited SA, or if merging with a better
+turning aircraft. It also gives you turning room for a front aspect AIM-9
+or AIM-120 shot. However, it is easy to lose tally during the extension,
+due to rapidly increasing range, and also during the high G turn back into
+the fight. More importantly, you give up your initial positional advantage
+and it is dangerous against an all aspect threat. The bandit may be using
+your time in extension to get turned around for a shot.
+
+Hard Turn at the Pass
+
+This is not a bad first move when you know the bandit can turn well but
+you do not know the bandit’s energy state. It is easier to keep tally and at
+corner velocity, the F-15E may have a turn rate advantage over most
+bandits. Also, if the bandit elects to separate, this is the quickest way to
+achieve weapons parameters and shoot him. On the other hand, it tends
+to anchor the fight and requires high energy. If done incorrectly, you can
+deplete all of your energy and quickly become defensive or at least
+anchored.
+
+
+Text from AAM-8_High_BFM_page_16.jpeg:
+Vertical Fight
+
+The vertical fight usually results in an energy management fight which is
+not a bad move against an energy/thrust deficient bandit. Initially you
+want to use the pure vertical. Do not go oblique. Get the AB in early and
+use max rate over the top. Since this kind of fight is unpredictable, you
+may cause the bandit to lose sight. It allows you to exploit your potential
+energy and use radial G. However, it is hard to keep tally and may give
+the bandit a blue sky background for the shot.
+
+Now that you have made your first move, each of these three maneuver
+options can turn into a one-circle or two-circle fight. A one versus two-
+circle fight is not simply your decision, but a combination of both yours
+and the your bandit's strategies. The decision for a one or two-circle fight
+will be made by the aircraft that turns last.
+
+If you have made a significant lead turn, you are usually committed to
+continuing your turn in that direction. To reverse your turn to force a
+certain type of fight will mean throwing away the angles that you have
+already built in the lead turn which equates to the bandit having that
+many angles worth of advantage at the merge.
+
+AAM-8 D-10
+
+
+Text from AAM-8_High_BFM_page_17.jpeg:
+Two-Circle and One-Circle Fights
+
+Two-Circle Fight
+
+A two-circle fight (Figure D-4) occurs when you fly across each others
+extended six flight path. The second merge normally occurs after
+approximately 270° of turn. The two-circle fight gives you the opportunity
+to fight an intimidation fight (max turn and point at the bandit at longer
+ranges) or an energy fight (sustained turn, conserve energy, and watch).
+It allows you to use your better turn rate/radius, allows use of all aspect
+weaponry and HOTAS, and if things are not going well, it provides a
+better separation opportunity. The two-circle fight offers you a chance for
+an AIM-9, AIM-7, or AIM-120 shot, but it is the long way around thus
+requiring much more distance/time to kill the bandit. Also, do not forget it
+gives the bandit the same options and maintaining a tally may be more
+difficult against a smaller aircraft.
+
+\
+
+AAM-08-04
+
+Figure D - 4. Two-Circle Fight.
+
+
+Text from AAM-8_High_BFM_page_18.jpeg:
+The two-circle fight may be used for some of the following reasons:
+Performance of Aircraft
+
+The bandit is a better turning aircraft.
+
+Airspeed
+
+Your airspeed is much higher than the bandit’s thus drastically increasing
+your turn radius versus the bandit’s.
+
+Energy
+
+A two-circle fight tends to be a much faster fight than a one-circle fight
+allowing greater separation potential.
+
+Weapons
+
+Provides you more room for all-aspect weapons employment and better
+HOTAS capability.
+
+Unknown Bandit
+
+Allows you time to evaluate the bandit’s aircraft and flying skill and offers
+better opportunity for separation.
+
+AAM-8 D-12
+
+
+Text from AAM-8_High_BFM_page_19.jpeg:
+One-Circle Fight
+
+Both aircraft turn the same way (Figure D-5). It is clearly the shortest
+route to a min time kill opportunity. Additionally, it jams the bandit’s
+long range ordnance and is good against a turn deficient bandit. There
+are some disadvantages though. You are giving up turning room. The
+fight will probably beat your energy down and your all-aspect missiles will
+also be jammed. This type of fight is usually only attempted when you
+enjoy a significant turn advantage over your adversary.
+
+—
+
+AAM-08-05
+
+Figure D - 5. One-Circle Fight.
+
+Some considerations for a one-circle fight are:
+Performance of Aircraft
+
+Your turn radius is smaller than the bandit’s. Example: F-15E versus F-4
+type aircraft.
+
+Airspeed
+
+The bandit’s airspeed is much greater than yours (rate/radius).
+
+AAM-8
+
+
+Text from AAM-8_High_BFM_page_2.jpeg:
+ADMINISTRATIVE INFORMATION
+
+This student workbook is designed to provide information on the
+
+F-15E, its systems, and capabilities. It is not a sole source document, but
+is to be used in conjunction with other standard Air Force publications
+and technical manuals. If you find any differences between the material
+contained herein and other governing regulations, adhere to the
+regulations and notify the OPDR.
+
+Changes to this workbook are indicated with a heavy black line in the left
+margin.
+
+Forward recommendations for revision or change to 4 TS, SJAFB, NC
+275381.
+
+Supersedes: AAM-6, February, 1998
+
+OPDR: 4 TS
+
+Index of Changes
+
+Effective Date Pages Affected
+
+
+
+Text from AAM-8_High_BFM_page_20.jpeg:
+Handling Characteristics
+
+Your aircraft's slow-speed handling is much better than the bandit’s.
+One-circle fights can end up in a scissors.
+
+Tactical Surprise
+
+Many times the bandit may be surprised by this move and make a
+mistake giving you an advantage.
+
+A one-circle fight normally is not a sustained energy fight, it is a nose
+position fight. So, once committed, you must get your nose to the bandit
+quickly and force the fight by aggressive lead turns.
+
+High Aspect BFM Considerations
+
+High Speed/Poor Turning Bandit
+
+When fighting a bandit that has excellent thrust but poor turn capability,
+you must intimidate the bandit and force a defensive turn that will
+deplete energy. Above corner airspeed, your jets are the same; but once
+you are both below corner, you have the advantage.
+
+Here you want to go for a one-circle fight. You want to get inside the
+bandit’s turn circle ASAP, without bleeding off all of your airspeed. You
+may have exclusive use of the vertical against this type of bandit; use it to
+help you get inside the larger turn circle. Hit the merge with 450 knots
+and slow to corner where you can out-rate the bandit in the turn. Use lag
+as required but keep the pressure on to keep the bandit turning and losing
+energy. You can expect the bandit to extend whenever possible to try to
+keep the fight fast and at some point, take the fight up and give you a
+chance to make a mistake and get too slow.
+
+Take FOX 1s, 2s and 3s and force defensive maneuvers that deplete
+energy. Keep your nose in control of the horizon. At the top of the egg
+below 350 knots you can use horizontal turning room because the bandit
+cannot exploit the room above you. Take a small bite with a vertical lead
+turn on each pass but do not get greedy.
+
+AAM-8 D-14
+
+
+Text from AAM-8_High_BFM_page_21.jpeg:
+Common errors are pulling too late to use the lead turn available resulting
+in no appreciable gain, not forcing the bandit to slow below 420 knots and
+exploiting your turn rate advantage, or depleting all your energy and
+ending up slow and in the middle of the bandit’s turn circle with no shot
+opportunity.
+
+Slow Speed/Good Turning Bandit
+
+Since this bandit is probably thrust limited, AB allows you to better
+sustain your turns and energy and to exploit the vertical. The bandit, on
+the other hand, will probably be able to generate max angles at slow
+speeds and would like to get you in a knife fight. Therefore, keep your
+energy high enough to sustain it during turns while driving the bandit’s
+energy down to a point that gives you a total sanctuary in the vertical. A
+game plan might be to force a two-circle fight. Get the bandit to bleed off
+energy early and go for a level or low to high lead turning pass. Now with
+an energy and airspeed advantage, take the fight vertical using an
+optimum pull. Climb well above the bandit and put your lift vector in lead
+(vertical). You can expect the bandit to try to force you to make an energy
+mistake. The key is the 2nd and 3rd merge. If the bandit lead turns low,
+go high to counter it. If you both take it up, use AB and airspeed to build
+exclusive vertical turning room. Use 5-6 Gs and not 7-8 Gs in the pull.
+The bandit will probably be able to go over the top once or twice and then
+no longer. Once you are above the bandit, go for the control position. Use
+your lift vector and slowly work toward guns. Remember if you decide to
+go for a snapshot, have over-the-top airspeed otherwise, the bandit may
+try to arc your oblique turn.
+
+The most common errors in this type fight are not keeping continuous
+pressure on the bandit and allowing a slow bandit to intimidate you with
+nose position and become energy equal to you. Also, another error is using
+max turns instead of sustained turns thereby depleting your own energy
+and denying yourself the vertical.
+
+Good Turn Rate and Radius Bandit
+
+This is a very tough opponent to fight. If you end up in a fight with this
+type of bandit, you would like to exploit the HOTAS and all-aspect missile
+capability of the F-15E. Remember though, this bandit may have very
+good capabilities as well (including the AA-11s off-boresight capability).
+
+For this type of bandit, you want to make the kill as quickly as possible.
+
+Give the bandit a secondary BFM problem by putting ordnance in the air
+as soon as possible. Try to take the fight two-circle to allow you to use
+
+D-15 AAM-8
+
+
+Text from AAM-8_High_BFM_page_22.jpeg:
+your all-aspect capability. Use whatever auto acq mode will give you the
+fastest lock, but remember no-lock AIM-120s (if you are sure there are no
+friendlies near or you can ensure shot deconfliction) or boresight AIM-9s if
+anything delays your radar lock. You must respect the bandit’s nose, so
+maneuver as appropriate and remember to employ chaff and/or flares as
+appropriate. Sustain or regain energy when possible and strive to gain a
+lead turn advantage on subsequent merges. If you are not gaining or
+seem to be losing advantage on each pass, look for opportunities to
+separate. Knowing your enemy and their ordnance capabilities can save
+your life in this situation.
+
+Common errors are not flying your best 1v1 BFM and missing shot
+opportunities. Proper energy management is crucial against this type of
+bandit. Do not allow the bandit to win the rate fight as a result of your
+mistakes.
+
+CONCLUSION
+
+The important fact to be remembered is that regardless of the degree of
+maneuvering affordable, once engaged you must employ your best 1v1
+BFM until the kill is achieved or the situation dictates or permits a
+separation. To be well versed across the entire spectrum of BFM, you
+must be exposed to all elements, high speed and low speed, offensive and
+defensive, during your training. This is the only way to ensure that when
+the time arises, you will have the skills necessary to employ your jet
+effectively and efficiently in combat.
+
+AAM-8 D-16
+
+
+Text from AAM-8_High_BFM_page_23.jpeg:
+QUESTIONS
+A lead turn should be initiated
+
+at 3/9 passage.
+
+after 3/9 passage with good energy.
+
+prior to 3/9 passage with when LOS increases “dramatically.”
+when LOS rate begins to decrease.
+
+pe op
+
+Turning room should usually be achieved in
+
+the same plane as the bandit.
+
+the horizontal plane.
+
+the vertical plane.
+
+a combination of both horizontal and vertical.
+
+pe op
+
+The goal of a perfectly executed lead turn against a nonmaneuvering
+bandit would be to roll out directly behind the bandit after 180° of
+turn. The amount of turning room needed to execute this maneuver
+is
+
+a. 6000 feet.
+b. one turn diameter (yours).
+c. one turn diameter (the bandit’s).
+d. 9000 feet.
+The determines whether you will engage in a one-circle or two-
+circle fight.
+fighter
+
+last aircraft to turn
+
+a
+b. bandit
+c
+
+d aircraft with the most effective lead turn
+
+AAM-8
+
+
+Text from AAM-8_High_BFM_page_24.jpeg:
+l. c¢
+2. d
+3. b
+4. ¢
+AAM-8
+
+ANSWERS
+
+
+Text from AAM-8_High_BFM_page_25.jpeg:
+END OF TEXT QUIZ
+
+To determine when to start a lead turn from a high aspect engagement, you
+might use
+
+bandit's LOS rate increase.
+
+6000 range.
+
+apparent planform of bandit aircraft.
+radar lock-on inside 2 nm.
+
+pe op
+
+A characteristic of a two circle fight is that it tends to
+
+transition to a slow speed flying contest.
+
+be either an energy fight or an intimidation (turn and point) fight.
+stay inside min range for your all aspect ordnance.
+
+remain two circle until someone separates.
+
+af of
+
+To properly execute a lead turn, when LOS starts to increase, you should
+
+set your lift vector and start your pull.
+a. above the bandit
+
+b. in front of the bandit
+
+c. slightly aft of the bandit
+
+d. at the bandit’s high six
+
+A one-circle fight would be your preferred option against which of the
+following types of bandit?
+
+Slow speed bandit with a good turn rate
+
+A bandit with a good turn rate and radius
+
+A bandit that is highly maneuverable
+
+A bandit with high speed and poor turn capability
+
+pe op
+
+
+Text from AAM-8_High_BFM_page_26.jpeg:
+AAM-8
+
+(This Page Intentionally Blank)
+
+
+Text from AAM-8_High_BFM_page_27.jpeg:
+ACM
+
+BFM
+
+DBFM
+
+HABFM
+
+HUD
+
+LOS
+
+OBFM
+
+WEZ
+
+GLOSSARY
+
+Air combat maneuvers
+
+Basic fighter maneuvers
+
+Defensive basic fighter maneuvers
+High aspect basic fighter maneuvers
+Head-up display
+
+Line of sight
+
+Offensive basic fighter maneuvers
+
+Weapons employment zone
+
+AAM-8
+
+
+Text from AAM-8_High_BFM_page_3.jpeg:
+AERIAL ATTACK MANEUVERING
+
+I
+S \
+cS)
+a fpr ty
+
+COVER
+
+HIGH ASPECT BASIC FIGHTER MANEUVERS
+INTRODUCTION
+
+This workbook is your guide to an understanding of the successful
+application of basic fighter maneuvers (BFM). It will familiarize you with
+the fundamentals of BFM and factors affecting their performance in the
+air-to-air arena. It will provide knowledge needed to effectively employ
+the F-15E against an airborne adversary.
+
+CONTENTS:
+
+INTRODUCTION 0.00. ceecccccesneecesneeeessneecesaeeesseeesssaeesessaeesesaeeeesaeeees A-1
+CRITERION REFERENCED OBJECTIVES (CROs)........00..eeeeseeeeeeeees B-1
+STUDENT PREPARATION REQUIREMENTS ...0... eee eeeeeeeeeeeees C-1
+CL TEAT sos sures sas cos cores canis anais cru amen sexs ansis cas mo Mas oes GSA MaRS Seis MNS Ka HOEK Saws OnE CoReD MoM Ma On D-1
+NOTE TAKING OUTLINE...00.. eee eeseeeeeeneeeessneeensaeeeessaeeseseeeenaees E-1
+SONOS RII “Me tly Me) Medel see see ees es sec ante es se ane cea tame see ese ap ee te se: ce F-1
+GLOSSARY. eee eecceessceecesneeeesseeecesaeecesaeesesaeecessaeeeesaeeessaeesesaeesesaeeens G-1
+
+AAM-8
+
+
+Text from AAM-8_High_BFM_page_4.jpeg:
+CRITERION REFERENCED OBJECTIVES (CROs)
+
+1. Given a specific scenario with two aircraft in a high aspect situation,
+identify the options and counteroptions which will most likely result
+in achieving an advantage.
+
+2. Given two aircraft approaching each other in a high aspect scenario,
+identify the visual cue for starting, and proper procedure for
+performing a lead turn.
+
+AAM-8 B-1
+
+
+Text from AAM-8_High_BFM_page_5.jpeg:
+STUDENT PREPARATION REQUIREMENTS
+
+BEFORE CLASS
+
+1.
+
+Zs
+
+Study the information contained in this workbook and complete the
+end of text quiz.
+
+Read the BFM section of MCM 38-8, Vol XVII.
+
+AAM-8
+
+
+Text from AAM-8_High_BFM_page_6.jpeg:
+AAM-8
+
+(This Page Intentionally Blank)
+
+
+Text from AAM-8_High_BFM_page_7.jpeg:
+TEXT
+INTRODUCTION
+
+An understanding of the concepts and maneuvers related to high aspect
+BFM (HABFM) is a crucial step in your training in the Strike Eagle. You
+must understand how to perform a lead turn before attempting the two-
+ship maneuvers you will be expected to perform during ACM to defeat a
+bandit. More importantly, this is a realistic way to start an air-to-air
+engagement since the normal entry to a fight in the “real world” starts
+with an intercept leading to a high aspect merge with an adversary.
+HABFM may also be necessary for short range engagements with
+previously undetected bandits.
+
+You must understand the basic concepts of offensive BFM and defensive
+BFM and apply them to succeed in turning a high aspect pass into a fight
+where you have a position of advantage. In high aspect BFM, you will
+learn to maneuver to an offensive advantage from a high aspect setup,
+and learn when and how to separate from the fight if the situation
+deteriorates.
+
+BFM MECHANICS AND DEFINITIONS
+
+High aspect BFM objectives are similar to offensive BFM: maneuver to a
+WEZ and kill the bandit, maneuver to an offensive position, or separate
+before becoming defensive.
+
+As you learned from OBFM and DBFM, good energy management is
+crucial for you to gain and maintain an advantage during any BFM
+situation. Energy includes not only the kinetic energy you gain by
+pushing up your throttles, but also the potential energy you gain by using
+the vertical to your advantage.
+
+Capability to use vertical turning room on the initial maneuver to achieve
+offensive advantage is a concept new to you at this point. While you
+probably want to start a fight very near to corner velocity for OBFM and
+DBFM, it may be necessary to be above corner velocity at the start of a
+high aspect BFM engagement. This is especially true if making a low-to-
+high lead turn on a bandit since you will lose energy during the uphill
+turn. You must monitor your speed, G available, and maneuvering
+capability to maximize your ability to exploit turning room.
+
+AAM-8
+
+
+Text from AAM-8_High_BFM_page_8.jpeg:
+When you meet another bandit head-on in a visual engagement, you have
+three basic options or combinations of options.
+
+e FOX-1, FOX-2, or FOX-3 from front, then:
+
+° Blow-through to bugout
+° Separate for energy then re-engage, or
+° Turn to engage
+
+You may elect any of these options initially depending upon conditions, or
+may elect to employ a sequence of these options. If the ROE, your
+remaining ordnance, and your weapons system's status permit, your first
+move will probably be to shoot a FOX-1, FOX-2, or FOX-3 from the front
+quadrant. Use your auto-acquisition modes to acquire the radar lock-on
+(if you do not have one already), satisfy the parameters for the weapon
+selected, and shoot. You can also employ the AIM-9M or the AIM-120
+visually without a lock. Remember deconfliction criteria especially when
+launching without a lock. If you can launch the first missile, the situation
+is now 2v1 in your favor. Even if your missile is defeated, the bandit’s
+energy state should be significantly lower and you have improved your
+odds for successfully employing one of your other options. If the bandit
+launches the first missile, you will have to react defensively to defeat that
+missile before you can continue the engagement. You may, however, have
+an opportunity to launch your own missile as you initiate your defensive
+reaction.
+
+During the early stages of the 1v1 engagement, you have an excellent
+chance to bugout from the fight if conditions such as fuel, weapons,
+aircraft problems, or other bandits in the neighborhood make this your
+most intelligent option. You will have high heading crossing angles so you
+can accelerate, blow-through the merge and depart the fight using a
+separation maneuver. If your bandit does not see you, try to deny a tally
+by maintaining as close to pure pursuit as possible until you merge. If the
+bandit sees you and starts to turn toward you, take a pure pursuit type
+course to minimize turning room and consider a very high angle gun
+attack (turning room permitting) as you merge. Remember, the bandit
+may try to use the gun against you also.
+
+The option to engage in a turning fight is your third (and probably least
+desired) alternative. If conditions are favorable and/or your mission
+requires you to eliminate the bandit, you should lead turn and pick your
+entry for a one/two-circle fight.
+
+AAM-8 D-2
+
+
+Text from AAM-8_High_BFM_page_9.jpeg:
+Turning Room
+
+Turning room is displacement from an adversary’s flight path plane that
+allows you to execute a turn to roll out at six o’clock. In a perfect world,
+the bandit would never see you and allow you to pick the amount of
+turning room you need to execute a lead turn and roll out directly at six
+o’clock. While your bandit may be generous enough to allow you to do this
+during a lead turn exercise in training, you probably will not be lucky
+enough for this to happen in a tactical situation unless the bandit is no-joy
+with no situation awareness (SA).
+
+The amount of turning room you will be able to acquire and use will vary,
+but if you desire to do a well-timed 180° lead turn to roll out at a bandit’s
+six o’clock, you would need one turn diameter (yours, not the bandit’s).
+Remember the turn diameter will vary based on your TAS and G. Using
+the vertical also affects the size of the turn diameter as you work with
+(going downhill) or against (going uphill) God’s G. Tactical decisions that
+may affect your choice of turning room above, below, or in the same
+horizontal plane are addressed in MCM 3-1.
+
+A key point to remember is that turning room available to you is also
+available to the bandit. If the bandit sees you and chooses to start and
+lead turn on you, it will affect your game plan.
+
+

@@ -1,0 +1,2520 @@
+Text from AGR-3_Modes_Controls_and_Displays_page_1.jpeg:
+SUPPORTS COURSES
+FIS5EBQ
+
+FISETX
+
+FISESOC
+
+ACADEMIC STUDENT WORKBOOK
+F-15E
+
+AIR-TO-GROUND RADAR
+AGR-3
+MODES, CONTROLS AND DISPLAYS
+
+JUNE 1999
+
+(SUITE 3 OFP)
+
+AIR COMBAT COMMAND
+
+
+Text from AGR-3_Modes_Controls_and_Displays_page_10.jpeg:
+E Azimuth scan caret - indicates actual position of antenna.
+
+F Azimuth limit balls - are positioned by the radar and provide a
+reference for the azimuth scan limits. The azimuth limit balls
+are not limited to the +60° antenna limits, but may extend past
+the azimuth tic marks to the edge of the format. They are
+displayed in the GMT, HRM and BCN modes only.
+
+G Range arcs - provided on RBM, HRM PPI, GMT and A/G BCN
+displays. The arcs represent 25, 50, 75 and 100% of the selected
+range scale.
+
+H Zero azimuth line - is displayed by the radar on the RBM, GMT
+and BCN formats. Since the radar returns are displayed drift
+stabilized up to +10° of drift, the line can be used as a ground
+track reference.
+
+I BIT window area - is located on the lower left side of the A/G
+format and is used to display mode, restart and BIT information.
+The window displays PVU when IPVU is selected during RBM or
+HRM and the radar is performing PVU. It also displays RNG
+when the radar is in the air-to-ground ranging mode. Located
+above the BIT window area is an arrow indicating magnetic
+north. The magnetic north arrow can rotate as required and will
+freeze when patch map is commanded. The arrow is removed
+when declutter is selected.
+
+IMIG:
+a a ee ()
+
+Figure D - 4. Symbology (2).
+
+AGR-03-04
+
+AGR-3 D-4
+
+
+Text from AGR-3_Modes_Controls_and_Displays_page_11.jpeg:
+J Cursor position symbol - an open plus-shaped symbol that is
+positioned by the crew or the CC depending on the specific cursor
+function selected.
+
+K_ PPI gray scale - provides a gray scale consisting of 8 shades of
+gray imbedded in the radar RBM and HRM PPI map video. It is
+used to adjust the video display for the best brightness and
+contrast.
+
+L_ Map time-to-go indicator - estimates how long the radar will take
+to construct an HRM patch map. It is displayed only in cursor
+function MAP, with a display window (DW) selected and the
+cursor within mappable radar limits.
+
+M BE bearing/range indicator - is displayed in the lower right
+corner on the A/G radar display. The data is from the selected
+bullseye point to the cursor.
+
+N Upper and lower message windows - areas for displaying
+informative messages of radar status.
+
+AGR-03-05
+
+Figure D - 5. Symbology (8).
+
+NOTE
+
+The bottom 10% of the display in RBM is blank.
+
+D-5 AGR-3
+
+
+Text from AGR-3_Modes_Controls_and_Displays_page_12.jpeg:
+O Azimuth (Az), range (R) and altitude (ALT) - indicate cursor
+position on the radar display in relation to the aircraft. ALT is
+displayed in RBM only and defines the radar altitude coverage at
+the range of the cursor. ALT is normally used only for weather
+detection/assessment.
+
+P Mark points (V) - indicate positions that have been marked by
+performing an overfly mark via the UFC, a radar mark via the
+A/G radar display or an automatic overfly mark when the
+weapon release button is depressed. A maximum of ten positions
+can be marked and stored. If an eleventh position is marked,
+mark point 1 is overwritten. A maximum of five mark points can
+be displayed at any one time. There is no provision for
+sequencing to mark points on the A/G radar display. Mark points
+cannot be deleted. Some types of weapons deliveries create mark
+points at the target. If a radar target is cluttered with mark
+points created by previous weapons deliveries, pushing the UFC
+keypad mark button (M) will delete those mark points by
+repositioning them to the current aircraft position.
+
+Q Display window - indicates the area covered by a patch map if
+commanded.
+
+R_ No map cue - an “X” through the display window indicates the
+selected patch map is unavailable under present conditions.
+
+HO
+(— CHAN B6
+|, (AZ 000L
+PR Ag
+
+LT =1/4,
+
+CMOROROC
+
+240-019
+
+3 | FULL Yicner
+
+AGR-03-06
+
+Figure D - 6. Symbology (4).
+
+AGR-3 D-6
+
+
+Text from AGR-3_Modes_Controls_and_Displays_page_13.jpeg:
+S Steer points (circle) - indicate UFC selected current route (A, B or
+C) of flight. NOTE: A maximum of five sequence points can be
+displayed at any one time. The five sequence points can be any
+combination of steer points, aim points, initial points, targets,
+offset points and base.
+
+T Base (B above “homeplate”) - indicates the initialized ground
+position used for the INS ground alignment. Base is common to
+the three navigation routes (A, B, C).
+
+U_ Aim points associated with steer points (segmented circle) -
+indicate points associated with a steer point, usually used to
+enhance off-route sensor cueing and navigation updates. A
+maximum of seven aim points can be associated with each steer
+point.
+
+AGR-03-07
+
+Figure D - 7. Symbology (5).
+
+D-7 AGR-3
+
+
+Text from AGR-3_Modes_Controls_and_Displays_page_14.jpeg:
+V_ Bullseye point (dot in circle) - indicates position of the bullseye
+point selected on the UFC.
+
+Targets (triangle) - indicate points of intended weapon delivery.
+
+X Offset points (broken triangle) - indicate points associated with
+targets. As with aim points, they are usually radar significant
+points used to aid in target designation. A maximum of seven
+offset points can be associated with each target.
+
+Y Initial point (square) - last steer point prior to a target. Initial
+points associated with steer points are identified by solid squares;
+aim points associated with initial points are identified by
+segmented squares.
+
+Z Avoidance point (circle or circle segment) - no fly areas. The
+avoidance point number is displayed in the center of the circle.
+Up to five (of a total possible fifteen avoidance points per route)
+can be displayed. Priority of display is based on aircraft
+proximity to the avoidance rings.
+
+- TOI :
+@ a)
+Or CHAI IPVU
+AZ 00. OFF
+T9446 sor * @ (W)
+LT 1/4. NY en Ln —
+OF =
+0 oe IK ®
+le a 3 4 SY
+a 2.2 LJ
+
+S
+
+Te
+
+AY)
+
+®
+
+TL
+;
+all
+|
+
+3 SEC
+240-055
+
+\ RBM | MAP | 3.3 | FULL Yicnr | )
+
+|
+
+Ee
+
+<a)
+
+CONT
+®
+
+Figure D - 8. Symbology (6).
+
+AGR-03-08
+
+
+Text from AGR-3_Modes_Controls_and_Displays_page_15.jpeg:
+Messages
+
+The following are messages that appear on the A/G radar display (Figure
+
+D-9):
+
+MODE REJECT
+
+A/A
+
+DW RANGE LIMIT
+
+GIMBAL LIMIT
+
+DESIGNATE
+
+RADAR OFF
+
+Displayed for 5 seconds after changing modes.
+
+Displayed for 5 seconds when in HRM PPI or patch
+map and the radar is commanded to the A/A mode.
+
+Displayed for 5 seconds when the cursor is outside
+the maximum or minimum range limit of a selected
+display window size and an attempt is made to
+make a patch map.
+
+Displayed for 5 seconds when the cursor is outside
+radar gimbal limits (60°) and an attempt is made
+
+to make a patch map.
+
+Displayed for 5 seconds after a target designation,
+sensor cue or mark has been commanded.
+
+Displayed when the radar control knob is OFF.
+
+HAN B6 SNF 2.2
+
+AUTO FREEZE
+
+AGR-03-09
+
+Figure D - 9. Messages.
+
+D-9 AGR-3
+
+
+Text from AGR-3_Modes_Controls_and_Displays_page_16.jpeg:
+RADAR STANDBY
+
+RADAR EMERG
+
+FREEZE
+
+INS NOT
+INITIALIZED
+
+AUTO FREEZE
+
+SET
+
+UPDATE
+
+BLIND ZONE
+
+PVU
+
+INS PVU
+REQUIRED
+
+SNF/TSNF
+
+AGR-3
+
+Displayed when the radar control knob is in STBY.
+
+Displayed when the radar control knob is in
+EMERG.
+
+Displayed when freeze has been commanded.
+
+Displayed in PVU during an in-flight alignment
+when an attempt was made to correct INS errors
+before the INS had completed a coarse alignment.
+
+Automatically commanded when HRM can no
+longer display at least 75% of designated map area
+due to gimbal limits (60°), the blind zone (+8°) or
+DW range limits.
+
+Appears as an option in HRM when the radar has
+been commanded to AGR or A/A.
+
+Displayed for 5 seconds after an update, either
+position or velocity, has been commanded.
+
+Displayed for 5 seconds when the cursor is in the
+HRM blind zone (8° of the velocity vector) and an
+attempt is made to make a patch map.
+
+Displayed to inform the crew that air-to-ground
+ranging is being used. Slant range in feet is also
+displayed below PB #18.
+
+Displayed when the radar has entered the PVU
+process during an interleaved PVU (IPVU).
+
+Displayed (at transition to weight off wheels) if the
+INS or radar antenna was removed for
+maintenance or changed. The legend is also
+displayed on the BIT menu display and the radar
+BST BIT display. It will remain displayed until an
+INS PVU is initiated.
+
+Displayed if the radar has entered the SNIFF mode
+(SNF selected at PB #13, or EMIS LIMIT selected)
+where normal radar transmission has been
+stopped.
+
+
+Text from AGR-3_Modes_Controls_and_Displays_page_17.jpeg:
+The following are GMT specific messages:
+
+RANGE/ELEV Attempt to process GMTs outside of elevation or
+
+LIMIT range limits.
+
+AZ GIMBAL LIMIT Attempt to process GMTs outside of azimuth
+limits.
+
+PROCESSING Internal processing error.
+
+ERROR
+
+FRAME ABORT GMT mode processing ceased.
+
+NO GMT GMT processing permanently terminated.
+
+D-11 AGR-3
+
+
+Text from AGR-3_Modes_Controls_and_Displays_page_18.jpeg:
+QUESTIONS
+
+1. on the radar control knob commands full radar operation;
+this selection bypasses radar protective interlocks except the WOW
+interlock, transmitter coolant flow and 3 minute warm-up.
+
+a. OFF
+
+b. STBY
+
+c. ON
+
+d. EMERG
+
+2. Ifa patch map has been attempted and the cursor is within 8° of the
+
+velocity vector, is displayed.
+a. AUTO FREEZE
+
+b. GIMBAL LIMIT
+
+c. MODE REJECT
+
+d. BLIND ZONE
+
+3. The pitch ball on the A/G RDR changes to an “X” when is
+selected, and is providing attitude data (prior to TCTO 1F-15E-737).
+
+a. INS
+
+b. AHRS
+
+ec AIRDATA
+d. MN
+
+4. The GMT error message that indicates complete processing
+termination is
+
+a. RANGE/ELEV LIMIT.
+b. AZ GIMBAL LIMIT.
+
+c. PROCESSING ERROR.
+d. NOGMT.
+
+AGR-3 D-12
+
+
+Text from AGR-3_Modes_Controls_and_Displays_page_19.jpeg:
+ANSWERS
+
+D-18 AGR-3
+
+
+Text from AGR-3_Modes_Controls_and_Displays_page_2.jpeg:
+ADMINISTRATIVE INFORMATION
+
+This student workbook is designed to provide information on the F-15E,
+its systems and capabilities. It is not a sole source document, but is to be
+used in conjunction with other standard Air Force publications and
+technical manuals. If you find any differences between the material
+contained herein and other governing regulations, adhere to the
+regulations and notify the OPDR.
+
+Changes to this workbook are indicated with a heavy black line in the left
+margin.
+
+Forward recommendations for revision or change to 4 TS, SJAFB, NC,
+275381.
+
+Supersedes: AGR-3, July, 1998
+
+OPDR: 4 TS
+
+Effective Date Pages Affected
+
+
+
+Text from AGR-3_Modes_Controls_and_Displays_page_20.jpeg:
+A/G RADAR HANDS ON CONTROLS
+
+Many functions of the air-to-ground radar are controlled by using the stick
+and throttles in the FCP and the hand controllers in the RCP.
+
+Front Cockpit Control Stick
+
+The auto acq switch on the front cockpit control stick provides access to
+several A/G radar features. Its exact function depends on the selected
+cursor function (Figure D-10).
+
+AUTO ACQ SWITCH
+
+FWD (MAP): SMALLER DISPLAY WINDOW
+AFT (MAP): LARGER DISPLAY WINDOW
+DOWN (MAP): MODE REJECT
+
+AFT (TGT): PATTERN STEERING LINE (PSL)
+CONTROL ENABLE / DISABLE
+
+AGR-03-10
+
+Figure D - 10. Auto Acq Switch.
+
+AGR-3 D-14
+
+
+Text from AGR-3_Modes_Controls_and_Displays_page_21.jpeg:
+In general, mode reject (in MAP cursor function) takes the A/G radar to
+RBM unless already in RBM (Figure D-11). Mode reject to RBM resets
+the radar range to that selected in the last PPI mode (HRM or RBM).
+Mode reject from RBM takes the radar to PVU. (Exception: If the
+sequence point at PB #17 is changed on the PVU display, mode reject then
+results in a patch map being constructed of the sequence point.)
+
+Ca wl Roe €D
+a Gp Tha
+wee 1z Yn
+(Bon » * = a (eaTCH)
+~ (ONLY IF SEQ
+PT CHANGED
+DURING PVU) AGR-00-11
+
+Figure D - 11. FCP/RCP Auto Acq Switch Mode Reject Sequence.
+
+D-15 AGR-3
+
+
+Text from AGR-3_Modes_Controls_and_Displays_page_22.jpeg:
+Front Cockpit Throttles
+
+Five switches on the throttles (Figure D-12) affect the A/G radar: coolie
+switch, TDC, laser fire, el wheel and boat switch.
+
+Coolie Switch
+
+UP quick steps the cursor between displayed sequence points (any except
+MARK) in range order regardless of radar mode or cursor function. The
+sequence point number under PB #17 also changes to match cursor
+position. When the cursor position has been moved to the farthest
+displayed point, the next UP movement of the coolie switch causes SP to
+be displayed at PB #17 and the cursor goes to the center of the MPD.
+Subsequent movements of the coolie switch start the entire sequence over
+again, beginning with the closest displayed sequence point.
+
+NOTE
+
+The coolie switch does not position the cursor over MARK points.
+
+When in the PVU mode, sequence points change in numerical order and
+the only indication of cursor movement is the sequence point displayed
+under PB #17 and the cursor azimuth and range change.
+
+COOLIE SWITCH — UP
+- QUICKSTEP
+
+EL WHEEL -
+- ELEVATION CONTROL
+(RBM, BCN, GMT)
+
+BOAT SWITCH — AFT
+- UNDESIGNATES
+
+TARGET / PSL LASER FIRE BUTTON-
+
+- FREEZE / UNFREEZE
+
+TDC —
+
+- CURSOR CONTROL
+
+- PSL CONTROL
+
+- PERFORMS CURSOR FUNCTION
+(MAP, UPDT, TGT,CUE OR MARk)
+
+AGR-03-12
+
+Figure D - 12. FCP Throttles.
+
+AGR-3 D-16
+
+
+Text from AGR-3_Modes_Controls_and_Displays_page_23.jpeg:
+TDC
+
+The TDC is used to move cursor position (all PB #7 cursor functions) and
+
+controls the pattern steering line (TGT cursor function and a target
+
+designated). Depressing and releasing the TDC performs the following
+
+action based on the selected cursor function:
+
+MAP Commands an HRM patch map at the current cursor position.
+
+TGT Designates the current cursor position as a target. When the
+PSL is enabled (arrowhead), designates the PSL (arrowhead
+changes to circle).
+
+UPDT Commands a position update for the MN and/or INS/MN based
+on the currently selected sequence point (displayed under PB
+#17) and the current cursor position.
+
+MARK _ Labels the current cursor position as a mark point.
+
+CUE Cues the TGT IR to the current cursor position.
+
+The TDC also commands the system to accept a MN PVU, when PVU is
+selected at PB #6.
+
+Boat Switch
+
+Aft undesignates the pattern steering line and/or ground target if in the
+A/G master mode and not in command of the A/A radar display.
+
+El Wheel
+The el wheel changes antenna elevation in the RBM and GMT modes.
+
+Laser Fire Button
+
+Depressing and releasing the laser fire switch freezes/unfreezes the radar
+in RBM, HRM (PPI or patch map) and GMT.
+
+D-17 AGR-3
+
+
+Text from AGR-3_Modes_Controls_and_Displays_page_24.jpeg:
+Rear Cockpit Hand Controllers
+
+The hand controllers (Figure D-13) have five switches that control the
+radar: castle switch, TDC, trigger, auto acquisition switch and laser fire
+button.
+
+TDC
+CASTLE SWITCH HRM: RIM PRESSURE FOR
+; CURSOR AND PSL CONTROL .
+FWD: MAP DEPRESS AND RELEASE WITH
+RIGHT: UPDATE (EXCEPT GMT) HALF ACTION ON TRIGGER TO
+AFT: TARGET EXPAND A PATCH MAP
+
+LEFT: CUE/MARK
+GMT/ RBM: RIM PRESSURE FOR CURSOR
+DOWN: QUICKSTEP CONTROL . UP / DN PRESSURE
+WITH HALF ACTION ON TRIGGER
+FOR ELEVATION CONTROL
+
+TRIGGER
+[4—— HRM: 1st DETENT - EXPAND ENABLE (MAP)
+
+2nd DETENT - PERFORMS CURSOR FUNCTION
+RBM: 1st DETENT - ELEVATION
+SLEW ENABLE (MAP)
+
+2nd DETENT - PERFORMS CURSOR FUNCTION
+PPI: 1st DETENT - ENABLES RANGE CHANGE
+
+AUTO ACQ LASER FIRE BUTTON
+
+DEPRESS: MODE REJECT (MAP) RADAR FREEZE / UNFREEZE
+FWD: SMALLER DW (MAP)
+AFT: LARGER DW (MAP)
+FWD WITH HATRIGGER: SMALLER DISPLAY RANGE
+AFT WITH HATRIGGER: LARGER DISPLAY RANGE
+
+AFT: PSL ENABLE / DISABLE (TGT) AGR:0349
+
+Figure D - 18. RCP Hand Controllers.
+
+Castle Switch
+
+Forward selects MAP, right selects UPDT (except in GMT), aft selects
+TGT, and left selects CUE and MARK. Depressing and releasing quick
+steps the cursor, in range order, over displayed sequence points. When
+the cursor position has been moved to the farthest displayed point, the
+next depression of the castle switch causes SP to be displayed at PB #17
+and the cursor goes to the center of the MPD. A subsequent depression of
+the castle switch starts the entire sequence over again, beginning with the
+closest displayed sequence point.
+
+AGR-3 D-18
+
+
+Text from AGR-3_Modes_Controls_and_Displays_page_25.jpeg:
+TDC
+
+The TDC moves cursor position and (in TGT cursor function) controls the
+pattern steering line when enabled. Antenna elevation is changed by
+holding the trigger half action and depressing the rim of the TDC.
+Depressing the forward edge raises the antenna and depressing the back
+edge lowers it. When in FREEZE, depressing and releasing the TDC with
+the trigger half action EXPANDS the HRM patch map display.
+
+Trigger
+Full action and release is used to command the selected cursor function.
+In conjunction with other switches, the trigger performs the following
+
+functions:
+
+@ Half action (HA) on the trigger with TDC rim pressure controls
+RBM/BCN/GMT antenna elevation in MAP.
+
+@ HA on the trigger with auto acq forward/aft selects RBM/HRM
+PPI/GMT range scale in all cursor functions.
+
+@ HA on the trigger followed by TDC pressed/released, when in FREEZE,
+performs the EXPAND option while in MAP with STO not selected
+(HRM patch map only).
+
+Laser Fire Button
+
+Depressing and releasing the laser fire button freezes/unfreezes the radar.
+
+D-19 AGR-3
+
+
+Text from AGR-3_Modes_Controls_and_Displays_page_26.jpeg:
+Auto Acq Switch
+
+Auto acq function is dependent on the cursor function selected. In MAP,
+moving the auto acq switch forward reduces the selected display window
+size and aft increases display window size. If the trigger is held half
+action, moving the auto acq switch forward selects smaller radar ranges
+and aft selects larger ranges. If the auto acq is depressed and released
+(map cursor function), the radar changes modes with the same logic that
+applies to the FCP auto acq (Figure D-14). Mode reject to RBM resets the
+radar range to that last selected in RBM. In TGT, alternately pulling aft
+enables or disenables the PSL (if the target is designated) and depressing
+and releasing it undesignates the PSL and/or the target. The auto acq
+switch has no effect in MARK or CUE cursor functions.
+
+a ‘Gs
+we ‘= A
+M/R___-----
+~ (ONLY IF SEQ
+PT CHANGED
+
+DURING PVU) AGR-03-14
+
+Figure D - 14. FCP/RCP Auto Acq Switch Mode Reject Sequence.
+
+AGR-3 D - 20
+
+
+Text from AGR-3_Modes_Controls_and_Displays_page_27.jpeg:
+QUESTIONS
+
+Pushing forward on the auto acq switch
+
+ao op
+
+decreases the display window size (in MAP).
+increases the display window size (in MAP).
+changes radar modes (in MAP).
+
+commands a patch map (in MAP).
+
+Depressing and releasing the auto acq switch
+
+ao op
+
+decreases the display window size in MAP.
+increases the display window size in MAP.
+
+changes radar modes.
+
+steps the cursor to the next sequence point.
+
+Depressing and releasing the laser fire button
+
+ao op
+
+designates the target in TGT.
+updates the INS in UPDT.
+freezes/unfreezes the radar.
+marks a point in MARK.
+
+While the RCP hand controller trigger is held half action, moving the
+auto acq switch forward selects radar ranges, and aft selects
+ranges (all cursor functions).
+
+aS oe
+
+larger, smaller
+smaller, larger
+
+the same, the same
+larger, the same
+
+D-21 AGR-3
+
+
+Text from AGR-3_Modes_Controls_and_Displays_page_28.jpeg:
+5. Pulling aft on the auto acq switch in MAP
+
+decreases the display window size.
+increases the display window size.
+decreases the range.
+increases the range.
+
+po op
+
+6. The cursor can be stepped between sequence points (any cursor
+function) in the RCP by
+
+depressing and releasing the castle switch.
+
+depressing and releasing the auto acq switch.
+
+moving the coolie switch aft.
+
+moving the auto acq forward or aft with the trigger at half
+action.
+
+Boop
+
+AGR-3 D - 22
+
+
+Text from AGR-3_Modes_Controls_and_Displays_page_29.jpeg:
+ANSWERS
+
+D - 238 AGR-3
+
+
+Text from AGR-3_Modes_Controls_and_Displays_page_3.jpeg:
+AIR-TO-GROUND RADAR
+
+)
+a OC
+
+oO [ on oo
+a O{f_oi_t yy; y 9 oo 2
+
+=
+
+sa
+
+=f
+
+lw gy =
+
+COVER
+MODES, CONTROLS AND DISPLAYS
+
+i)
+
+INTRODUCTION
+
+This workbook is your guide in studying the F-15E air-to-ground (A/G)
+radar. It familiarizes you with the switchology and symbology of each A/G
+radar mode.
+
+CONTENTS:
+
+INTRODUCTION 0000. eeecceesneeeesneeeeeaeesesaeeeessaeesssaeesessaeeseseeeesaees A-1
+CRITERION REFERENCED OBJECTIVES (CROs)......0.....eeeeeeeeeeeeee B-1
+STUDENT PREPARATION REQUIREMENTS ...0... ee eeeeeeeeeee C-1
+TEXT oc cecececceeesseecceessseeeceesssseeecesssseeeeeeesaeeescessaeeeseessaaeessensaaeess D-1
+END OR PET UIA: cess ces sane sas sxe sens anus wens sae sen ess news cexis eave onsa sue aks ais ew E-1
+GLOSSARY... eeeceesseeceeseeeeesaceseeeeecesaeeeessaeecesaaeecssaeecesaeesssaeeeensaees F-1
+
+A-1 AGR-3
+
+
+Text from AGR-3_Modes_Controls_and_Displays_page_30.jpeg:
+PROCEDURES AND LIMITS
+
+This section covers required procedures to detect ground moving targets
+(GMT), create HRM patch maps, update the INS/MN using the A/G radar,
+designate targets for weapon delivery, cue the targeting pod, and mark
+points. Limitations associated with each are addressed, and additional
+features such as FREEZE, EXPAND and SET are also discussed.
+
+GMT/IGMT Mode
+
+In this mode, the A/G radar detects ground moving targets (e.g., trucks,
+convoys, Scuds). Targets can be detected out to 32 nm. Dedicated GMT
+has no map background. Interleaved GMT (IGMT) is an interleaved
+technique to present moving targets on a mapped background. Selecting
+GMT at PB #6 commands dedicated GMT. Boxing IGMT at PB #10
+interleaves moving target detection with mapping (Figure D-15).
+
+ssec M 5 SEC
+240-055 240-055
+
+jo
+Main q ) \ Prem | map | aa | eu \fourf! )
+
+opep
+
+AGR-03-15
+
+Figure D - 15. GMT/IGMT.
+
+AGR-3 D - 24
+
+
+Text from AGR-3_Modes_Controls_and_Displays_page_31.jpeg:
+Mapping
+
+Patch maps can be commanded from RBM, GMT, HRM PPI or from another
+patch map (with the cursor function in MAP). To make a patch map:
+
+Select the MAP cursor function (Figure D-16).
+
+a
+5 SEC
+240-055
+9|
+
+MAP SELECTED
+
+Vv
+MAP | 3.3. | FULL | IGMT
+
+AGR-03-16
+
+Figure D - 16. Map Cursor Function.
+
+Position the cursor. This can be done using the TDC, but initially it is
+done by quick stepping to the desired sequence point. This ensures that
+the cursor is placed at the same latitude and longitude as the sequence
+point. More importantly, the sequence point under PB #17 also matches
+the point you have stepped to, so the CC is informed concerning which
+point is being referenced.
+
+Select the desired display window (DW) size using the auto acq switch.
+Ensure area to be mapped is:
+
+@ not within 8° either side of the velocity vector (blind zone)
+
+@ not more than 60° off the velocity vector (gimbal limit)
+
+@ within the minimum and maximum ranges for the selected display
+window size (DW range limit):
+
+D-25 AGR-3
+
+
+Text from AGR-3_Modes_Controls_and_Displays_page_32.jpeg:
+DW SIZE CURSOR MIN RANGE CURSOR MAX RANGE
+
+.67 nm 3.0 nm 39.3 nm
+1.3 nm 3.4 nm 39.3 nm
+3.38 nm 4.4 nm 48.7 nm
+4.7 nm 5.2 nm 77.7 nm
+10.0 nm 11.0 nm 155.0 nm
+20.0 nm 22.0 nm 150.0 nm
+40.0 nm 44.0 nm 140.0 nm
+80.0 nm 88.0 nm 120.0 nm
+NOTE
+When these conditions are not met, an “X” appears across the cursor
+(Figure D-17).
+® (OvOIOvOIO)
+[ [ { { fT
+
+NO MAP CUE
+
+AGR-03-17
+
+Figure D - 17. No Map Cue.
+
+AGR-3 D - 26
+
+
+Text from AGR-3_Modes_Controls_and_Displays_page_33.jpeg:
+Command the map (Figure D-18). When a map is commanded, MAP is
+boxed until the first patch map is displayed and the timer displayed
+adjacent to “M,” next to PB #11, completes the countdown. As the first
+map is displayed the selected DW size appears at PB #13. Ifa map is
+commanded from RBM, the RBM video freezes and is retained until the
+timer reaches zero; then the HRM patch map replaces the RBM video.
+
+NOTE
+
+Patch maps are made continuously until the radar is frozen manually or
+automatically.
+
+9\7 9
+
+RM “| [MAP] | 3.3 | FULL |
+
+|
+H
+
+AGR-03-18
+
+Figure D - 18. Patch Map Display.
+
+D-27 AGR-3
+
+
+Text from AGR-3_Modes_Controls_and_Displays_page_34.jpeg:
+The quality of patch maps can be improved by:
+
+@ ensuring the velocities are accurate; velocity errors equate to
+inaccurate information provided to the radar and the CC.
+Accomplishing a PVU just prior to making maps is the best method.
+
+After TCTO 1F-15E-737 with EGI as the present position keeping
+source (PPKS), MN PVUs are not necessary to update velocities prior
+to constructing patch maps. However, INS PVUs will still be necessary
+to correct any radar pointing errors that may be present.
+
+@ having the area to be mapped at least 30° off the nose.
+@ making the map at the closest range practical.
+@ making the map while at high airspeed and straight-and-level.
+
+@ climbing to an altitude that provides an antenna graze angle greater
+than 1°.
+
+Conversely, maps made near the blind zone take longer, are not as
+accurate, are of poorer quality, and are much more sensitive to
+maneuvering/slow airspeed.
+
+Freeze
+Autofreeze
+
+Autofreeze is commanded when less than 75% of the selected map area is
+mappable. An AUTO FREEZE cue is displayed in the upper half of the
+HRM display format. With no operator intervention, the system waits for
+the point to become mappable again. At that time, AUTO FREEZE is
+removed and mapping automatically commences. If automatic return to
+mapping is not desired, the operator should manually select FREEZE.
+
+AGR-3 D - 28
+
+
+Text from AGR-3_Modes_Controls_and_Displays_page_35.jpeg:
+Manual Freeze
+
+The capability to freeze the current radar video is available in all cursor
+functions.
+
+RBM Freeze (Figure D-19). Selecting FREEZE halts continuous mapping
+following completion of the current RBM sweep and allows the operator to
+keep the current RBM video indefinitely. An HRM patch map commanded
+from a frozen RBM is also frozen.
+
+FREEZE CUE
+
+AGR-03-19
+
+Figure D - 19.
+
+D - 29 AGR-3
+
+
+Text from AGR-3_Modes_Controls_and_Displays_page_36.jpeg:
+HRM Freeze. Selecting FREEZE immediately stops map data collection,
+saves the current map on the display, and stops radar RF transmissions.
+If a map is commanded while in FREEZE, a single map is constructed and
+displayed, followed by a return to FREEZE. FREEZE is typically selected
+for any cursor function that requires accurate cursor placement (TGT,
+UPDT). Any time the operator stops continuous HRM mapping by
+commanding FREEZE (Figure D-20), the push button legends for display
+brightness adjust (DBA) increment arrows, NEW/OLD recall, and STO
+(store) are displayed. The EXPAND option is only available in FREEZE
+(RCP only).
+
+CWO
+a
+4. IPVU
+CURSOR z STORE
+POSITION 1 OPTION
+P
+P
+‘ PLAN
+FREEZE POSITION
+SELECTED ? INDICATOR
+Q
+D
+DISPLAY 240-055
+BRIGHTNESS ] Bad
+HRM | TGT | 3.3 | FULL | NEW MAP
+RECALL
+
+AGR-03-20
+
+Figure D - 20. HRM Freeze.
+
+Display brightness adjust (DBA) - in RBM FREEZE and HRM nonfreeze
+operations, only the DBA value is displayed; DBA adjustment is not
+allowed. DBA adjustments are possible only on the most recent HRM
+patch map constructed; the function is inhibited (arrows not displayed) on
+recalled maps and on expanded maps. Any DBA adjustment does not
+affect the brightness of the cursor or format legends, only the video.
+
+AGR-3 D - 30
+
+
+Text from AGR-3_Modes_Controls_and_Displays_page_37.jpeg:
+NEW/OLD - normally the two most recently constructed high resolution
+maps are retained in memory. After FREEZE is selected, the legend at
+PB #10 reads NEW to indicate that the displayed map is the most recently
+created (Figure D-21, Left). Pressing PB #10 recalls the previous map
+made and the legend above PB #10 changes to OLD (Figure D-21, Right).
+Subsequent PB #10 selections toggle between these two maps. If another
+map is subsequently commanded, it overwrites the map not currently
+being displayed (regardless of whether it was labeled OLD or NEW), and
+the one that was displayed becomes the “OLD” map.
+
+OOD w.4-05—-VvTD OFM
+00D N- & -TUD OAD
+
+M
+
+5 SEC
+240-055
+
+°
+[MAP] | 3.3 | FULL | NEW
+
+gppe
+
+Figure D - 21. NEW/OLD.
+
+AGR-03-21
+
+D-31 AGR-3
+
+
+Text from AGR-3_Modes_Controls_and_Displays_page_38.jpeg:
+Store (STO) - modifies the normal recall logic in order to protect a specific
+high resolution map. Selection of STO is accomplished by pressing PB #15
+(STO becomes boxed). After selection, STO is displayed above PB #10
+indicating that the currently displayed map is protected (Figure D-22,
+Left). Subsequent PB #10 selections toggle between the stored map and
+the other (OLD or NEW) map (Figure D-22, Right). When mapping is
+resumed, the stored map will be protected in radar memory until STO is
+unboxed (deselected). Once a subsequent new map is constructed, only
+that NEW map and the stored map can be recalled.
+
+sie
+
+OW
+
+5 SEC
+240-055
+|
+
+5 SEC
+240-055
+|
+
+ovo ovo
+HRM | MAP | 3.3 | FULL | STO HRM | MAP | 3.3 | FULL | OLD
+
+Figure D - 22. STORE.
+
+AGR-03-22
+
+AGR-3 D - 32
+
+
+Text from AGR-3_Modes_Controls_and_Displays_page_39.jpeg:
+EXPAND - is available (with FREEZE selected, RCP only) to provide an
+expanded radar picture to allow for a more exact cursor placement. The
+operator centers the cursor on the desired area, selects HA on the trigger,
+and then presses and releases the TDC. The radar picture is magnified by
+three and if a display window outline is present, it is removed. The cursor
+is centered unless it is in such a position that the entire area around it
+cannot be expanded (i.e., cursor at the edge of the display). In this case,
+the available area is expanded and the cursor is located off center at the
+correct latitude and longitude. EXPAND should be accomplished after the
+point of interest has been positively identified due to the very small area
+displayed and the grainy presentation. To exit the EXPAND mode, the
+operator can use the RECALL button (PB #10) to return to the original
+map, or depress the auto acq switch to mode reject to RBM. The EXPAND
+option is not available when STORE is selected. Thus, STORE should be
+deselected when EXPAND operation is desired (Figure D-23).
+
+®
+
+=
+
+fe}
+4
+a
+
+Ol
+
+COmi wo.» 200 Q4H
+
+5 SEC
+240-055
+
+[Ary | 3.3 | FULL | NEW |
+
+Figure D - 23. EXPAND.
+
+AGR-03-23
+
+D - 33 AGR-3
+
+
+Text from AGR-3_Modes_Controls_and_Displays_page_4.jpeg:
+CRITERION REFERENCED OBJECTIVES (CROs)
+
+1. Identify the meaning of symbology and messages on an air-to-ground
+radar display.
+
+2. Identify the function of air-to-ground radar switches/HOTAS
+controls.
+
+3. Identify the steps for each of the following procedures and any
+associated limitations:
+
+Identifying a ground moving target
+
+Making a high resolution patch map
+
+Updating the NAV system with the radar
+Designating a target
+
+Enabling/designating a pattern steering line (PSL)
+Cueing the target IR
+
+Marking a point
+
+mone op
+
+go
+
+4. Identify when to use specific A/G radar functions and modes on a low
+level route.
+
+REFERENCES
+
+TO 1F-15E-34-1-1, A/G Radar and A/G Radar Employment
+
+AGR-3 B-1
+
+
+Text from AGR-3_Modes_Controls_and_Displays_page_40.jpeg:
+Plan position indicator (PPI) - depressing PB #14 on a patch map display
+halts continuous patch map construction (or causes FREEZE to be
+deselected), and selects full azimuth HRM PPI mapping (Figure D-24).
+
+‘f
+
+in
+1 o>
+Va
+igo
+fal
+li
+
+es
+
+ye ar
+
+O
+CO)
+
+| |
+c
+
+lO
+HRM | MAP | 3.3. | FULL Y ter?
+
+AGR-03-24
+
+Figure D - 24. HRM PPI.
+
+AGR-3 D - 34
+
+
+Text from AGR-3_Modes_Controls_and_Displays_page_41.jpeg:
+Position Updating
+
+The MN or INS/MN present position can be updated from RBM, HRM PPI
+or patch map formats. Procedures for all three are the same. The update
+requires that the cursor is positioned over the radar video as accurately as
+possible. For this reason, a patch map is usually used to accomplish an
+update. (See Figure D-25 for patch map symbology.)
+
+CHAN B6 SNF 2.2 MN
+
+FREEZE 2107
+E 1055
+
+00D o©- » —-VyU OHH
+
+=
+
+AGR-03-25
+
+Figure D - 25. MN Update.
+
+Select the UPDT cursor function. IPVU (adjacent to PB #16) is replaced
+by MN with N/S and E/W errors displayed in feet; however, if either error
+exceeds 3000 feet, both are displayed in miles to the nearest tenth. The
+INS/MN uses the latitude and longitude of the point listed under PB #17
+and compares that to the actual cursor position to determine INS/MN
+errors. Pressing PB #16 allows toggling between INS and MN. In HRM
+patch map with INS selected, the counter displayed above PB #7 UPDT
+legend represents the time (seconds) remaining before the current HRM
+map is too old for an INS position update (90 seconds from map
+construction, Figure D-26). The counter is not displayed with MN selected
+at PB #16.
+
+D- 35 AGR-3
+
+
+Text from AGR-3_Modes_Controls_and_Displays_page_42.jpeg:
+The UPDT cursor function defaults to MN because the mission navigator
+computer routine is more flexible and “more forgiving” than the INS when
+it comes to updates. For instance, if the aircrew makes a position update
+mistake to the MN, it can easily be corrected by accomplishing a MN
+RESET via the UFC, correcting whatever error was made on the previous
+attempt, and then performing another update. If the aircrew makes an
+update error with INS selected, there is NO WAY to remove the position
+update once it has been entered. Because of this, MN updates, instead of
+INS, are usually accomplished.
+
+Position the cursor over the update point. Once the map is created and
+you are satisfied with the image, select FREEZE. This prevents the radar
+display from “jumping” when the next patch map is created. Use the TDC
+as required to “fine tune” the cursor position.
+
+Ensure cursor position matches the sequence point listed under PB #17.
+Again, quick stepping to the sequence point before making a patch map
+eliminates the mismatch error. If it is incorrect or displays SP, type the
+correct sequence point number in the UFC scratch pad and press PB #17
+(or quickstep to the correct sequence point).
+
+Prior to updating ensure:
+
+@ asystem update is not being accomplished using another method (an
+MN position update using the UFC, for instance).
+
+@ the timer above the cursor function has not counted down to zero (INS
+only).
+
+AGR-3 D - 36
+
+
+Text from AGR-3_Modes_Controls_and_Displays_page_43.jpeg:
+Command the update. “UPDATE” is displayed for 5 seconds. During a
+MN position update, errors are zeroed out and the sequence point symbols
+are repositioned to the cursor (Figure D-26). During an INS position
+update, the errors decrease but they do not zero and the sequence point
+symbol will not move all the way to the cursor due to Kalman filtering of
+the update.
+
+®
+SENG =O) wien ueoare
+CHAN B6 SNF 2.2 INS <&—
+
+& CLOCK RUNS OUT
+FREEZE = + ACCUMULATED
+ERROR IS
+REPLACED BY
+INV (INVALID)
+
+UPDATE CLOCK
+(SEC) COUNTS
+DOWN TO ZERO
+
+DOD © wow —-VTD OAD
+
+=
+
+AGR-03-26
+
+Figure D - 26. INS Update.
+
+If a MN update was accepted and subsequently determined to be bad, the
+MN can be reset on the UFC update select submenu (MN RESET).
+
+NOTE
+
+If the INS is selected as the PP keeping source (on the UFC) and the MN is
+updated, HUD/ADI/HSI/TSD etc. NAV information is not affected. If the
+MN is selected as the PP source on the UFC and the MN is updated,
+HUD/ADI/HSI/TSD etc. steering will change. Sequence point symbols on
+the A/G radar display are always repositioned when either MN or INS
+
+radar update is performed. If a target has been designated prior to the
+update, the designated target symbology is not repositioned. After
+TCTO 1F-15-737, if the EGI is the PPKS, sequence point symbols will be
+placed by the EGI. Radar position updates should not be necessary with
+the EGI selected as the PPKS.
+
+D - 37 AGR-3
+
+
+Text from AGR-3_Modes_Controls_and_Displays_page_44.jpeg:
+To update the INS, the procedures are the same, except for depressing
+PB #16 to change MN to INS (Figure D-27). The following considerations
+apply:
+
+@ Ifan INS update is accepted, both the INS and MN are updated
+
+@ 100% of the update is accepted by the MN while only a percentage of
+the update is accepted by the INS (see INS lesson for more details)
+
+If an INS update is desired and the timer counts down to zero, there are
+several ways to reinitialize the timer. In RBM, the time expiring means
+the cursor needs to be repositioned in order to perform an INS position
+update. In HRM, the time expiring means a new map must be
+constructed to do an INS position update. Reselect MAP cursor function
+and construct a new patch map.
+
+UPDATE
+
+AGR-03-27
+
+Figure D - 27. Update Commanded.
+
+AGR-3 D - 38
+
+
+Text from AGR-3_Modes_Controls_and_Displays_page_45.jpeg:
+Target Designation
+
+Target designations can be accomplished using RBM, GMT, HRM PPI,
+HRM patch and BCN. Procedures for all four are the same.
+
+Select the TGT cursor function (Figure D-28).
+
+TGT SELECTED
+
+AGR-03-28
+
+Figure D - 28. Target Cursor Function.
+
+Ensure the point listed under PB #17 matches the point to be designated.
+If not, step the cursor to the correct sequence point (target or target
+offset), then slew the cursor over the correct geographic reference.
+
+D - 39 AGR-3
+
+
+Text from AGR-3_Modes_Controls_and_Displays_page_46.jpeg:
+Designate the desired point (Figure D-29). DESIGNATE appears on the
+radar display for 5 seconds. Using an HRM patch map in FREEZE
+prevents further map construction, jumping of the display, and possible
+shadows from covering the target or target offset.
+
+SNE 4. IPVU
+
+DESIGNATE
+
+DOD © ww —-VD OH
+
+=
+
+240-055
+| | o Vo!
+HRM | TGT -[93.3 | FULL | NEW
+
+seeee
+
+Figure D - 29. Target Designation.
+
+AGR-03-29
+
+NOTE
+
+When a steer point is designated as a target, the target symbol (triangle)
+appears overlaid on the steer point symbol (circle).
+
+When a target is designated and a preplanned target number is at PB
+#17, the target symbol shifts to the point of designation. Also, all
+associated offset point symbols shift to maintain their same relationships
+with the target.
+
+When a target is designated, the targeting IR pod and certain precision
+guided weapons point to the cursor geographic position.
+
+AGR-3 D - 40
+
+
+Text from AGR-3_Modes_Controls_and_Displays_page_47.jpeg:
+Pattern Steering Line (PSL)
+
+When a target is designated, a PSL appears emanating from the
+designated target symbol indicating continuous line of sight from the
+aircraft to the target (Figure D-30). Additionally, the associated magnetic
+heading from the aircraft to the target is displayed under the target
+symbol.
+
+PATTERN LINE OF SIGHT
+STEERING
+
+LINE
+
+(LINE OF SIGHT)
+
+-Rco
+
+DOD © w —-TD OAD
+
+38SEC M
+240-055
+
+| | ovo]
+\ HRM~ | TGT =|93.3 | FULL | NEW J
+| | | |
+APIEIAIE
+
+Figure D - 30. PSL.
+
+AGR-03-30
+
+When steering to the target other than the line of sight steering is desired,
+the PSL can be positioned by the operator to the desired approach
+heading. Once the PSL is designated, the HUD steering directs an
+approach to the target on the desired run-in heading, rather than line of
+sight direct to the target.
+
+NOTE
+
+If a target offset is used to designate a target, PSL symbology is not displayed
+on the target offset point; it is only displayed on the radar-designated target. If
+
+the target is displayed within the radar video, the PSL steering can still be
+enabled, slewed and designated. If the target is not displayed within the radar
+video, then PSL steering is not available.
+
+D-41 AGR-3
+
+
+Text from AGR-3_Modes_Controls_and_Displays_page_48.jpeg:
+To enable PSL slewing, pull aft on the auto acq (FCP/RCP) while in the
+TGT cursor function. An arrowhead then appears at the end of the PSL,
+and the PSL can be controlled with the TDC.
+
+NOTE
+
+Pulling aft on the auto acq switch again disables the PSL slewing, which
+returns the PSL to the current target line of sight.
+With the TDC, adjust the PSL until the desired run-in heading is
+displayed. After obtaining the desired run-in heading, initiate the
+designation action to obtain PSL steering. The arrowhead becomes a
+
+circle (Figure D-31) and the azimuth steering line (ASL) in the HUD
+changes to a bank steering bar.
+
+may,
+
+io
+a7
+a
+
+ream
+
+=
+
+ial
+
+00D © w —-TDT OAD
+00D » w —-TDT OHD
+
+5
+
+3SEC M ui 3SEC M
+240-055 E
+
+| ovo!
+HRM | TGT 93.3 | FULL | NEW
+
+Eeeeee
+
+Figure D - 31. PSL Slewing/Designation.
+
+AGR-03-31
+
+The PSL steering algorithm attempts to direct the aircraft such that the
+last 15 seconds of the attack is flown wings level along the selected
+heading. PSL steering uses a turn angle limit, so that if the PSL heading
+is greater than approximately +80° off the target line of sight bearing,
+PSL steering is replaced with straight in steering (the HUD bank steering
+bar is replaced with the azimuth steering line). A level weapon delivery is
+assumed when bombing with a designated PSL. The HUD pull up cue
+and TPULL (time to pull) are not displayed.
+
+AGR-3 D - 42
+
+
+Text from AGR-3_Modes_Controls_and_Displays_page_49.jpeg:
+In short, HUD PSL steering is not available if PSL heading differs from
+target direct steering by more than 30° or if more than 60° of bank is
+needed to roll the aircraft on the requested run-in by 15 seconds prior to
+computed weapons release.
+
+PSL undesignate is performed in the same manner as a target
+undesignate (cursor function TGT and mode reject). To undesignate the
+target (after the PSL is undesignated), the undesignate action must be
+performed a second time. When the target is undesignated, all attack
+steering is removed from the HUD. PSL/target undesignate can be
+accomplished in the front cockpit by moving the boat switch aft (must be
+in the A/G master mode) and not in command of the A/A radar.
+
+Cueing
+
+CUE directs the targeting IR pod to the radar cursor position in RBM,
+HRM PPI, patch map or GMT modes. Attack steering is not provided.
+The procedures for CUE are:
+
+Select CUE cursor function (Figure D-32).
+
+a
+n
+
+DOD © w —-VD OAD
+||
+
+CUE SELECTED 0 ir asec M
+
+240-055
+|
+
+oVwo
+CUE =|m3.3 |. FULL | NEW
+
+Feeee
+
+AGR-03-32
+
+Figure D - 32. Cue Cursor Function.
+
+D - 43 AGR-3
+
+
+Text from AGR-3_Modes_Controls_and_Displays_page_5.jpeg:
+STUDENT PREPARATION REQUIREMENTS
+BEFORE CLASS
+
+1. Study the information contained in this workbook and complete the
+quiz.
+
+2. Read the associated material in TO 1F-15E-34-1-1.
+
+3. Complete the CBT lesson: AGR-2
+
+C-1 AGR-3
+
+
+Text from AGR-3_Modes_Controls_and_Displays_page_50.jpeg:
+Position the cursor over the point of interest. It is necessary that the
+sequence point listed under PB #17 match the cursor position, so that the
+sensor cues to the correct elevation.
+
+Designate the desired point. DESIGNATE appears on the radar display
+for 5 seconds (Figure D-33), and the targeting IR pod points to the cursor
+position. To prevent display jumping or shadows from covering the point
+of interest, this procedure should be accomplished from a frozen map.
+
+DOD ww: ow —-VU OHD
+
+3 SEC
+240-055
+|
+
+oM oO
+HRM | CUE | 3.3 | FULL | NEW
+
+Seeigigl _
+
+Figure D - 33. Cue Designation.
+
+AGR-3 D - 44
+
+
+Text from AGR-3_Modes_Controls_and_Displays_page_51.jpeg:
+Mark Point
+
+MARK provides the capability to store the latitude, longitude and
+elevation of a point of interest from RBM, GMT, HRM PPI or a patch map.
+
+Select the MARK cursor function (Figure D-34).
+
+ia:
+
+MARK SELECTED
+
+are ||
+
+=|
+a
+
+ise HRM MARK | 33 | FULL® | Yew —,
+:
+BRT CONT
+(S) AGR-03-34
+
+Figure D - 34. Mark Cursor Function.
+
+Position the cursor over the desired point.
+
+D- 45 AGR-3
+
+
+Text from AGR-3_Modes_Controls_and_Displays_page_52.jpeg:
+Designate the desired point. The point is displayed on the radar by a “V”
+with a mark point number above it (Figure D-35). Only ten positions can
+be marked and a maximum of five can be displayed at any one time. If an
+eleventh point is marked, the first mark point is overwritten. Sequence
+point stepping does not include mark points. The cursor must be slewed
+to a displayed mark point in order to perform MAP, UPDT, TGT or CUE
+functions at the mark point. The mark point will also be displayed on the
+TSD, if within TSD area coverage. Aircraft steering to a mark point is
+achieved by entering MX (x=1-10) as the current aircraft sequence point
+(PB #10 on UFC Menu 1 or Data 1). Some types of weapons deliveries
+create mark points at the target location. If the radar target is cluttered
+with mark points created by previous weapons deliveries, pressing the
+UFC key pad mark button will remove them, by resetting them to the
+aircraft position. Aircrews will, as technique, sometimes use this
+procedure to put all the stored mark points from previous sorties in the
+pretakeoff parking spot or arming area.
+
+CHAN
+MARKED POINT ' i
+
+10
+
+00ND © wo —-VVUV OADM
+
+3sec M
+240-055
+
+| ovo
+HRM | MARK | 3.3 | FULL | NEW
+
+FeEee
+
+AGR-03-35
+
+Figure D - 35. Mark Designate.
+
+AGR-3 D - 46
+
+
+Text from AGR-3_Modes_Controls_and_Displays_page_53.jpeg:
+Set
+
+SET is provided to allow one crew member to continue performing HRM
+cursor functions when the radar is commanded to provide air-to-ground
+ranging (AGR) or to air-to-air (A/A) (Figure D-36). In this example, when
+the radar is taken out of A/G while in HRM PPI or patch map, A/A is
+displayed for 5 seconds, and SET appears as an option at PB #18 where
+SNF normally appears.
+
+SET OPTION — Fneeze
+
+DISPLAYED FOR
+5 SECONDS
+
+0OD © wow —-VD OAD
+
+AGR-03-36
+
+Figure D - 36. Set Option.
+
+D - 47 AGR-3
+
+
+Text from AGR-3_Modes_Controls_and_Displays_page_54.jpeg:
+When the radar transfers from HRM modes into AGR or A/A, the map is
+automatically frozen and the SET legend appears. To continue using A/G
+cursor functions, box SET (Figure D-37). All A/G cursor functions except
+MAP are available. Maps cannot be commanded, expanded or recalled in
+SET. To return to normal A/G operations, deselect SET (SET becomes
+unboxed) and take command of the A/G radar display (and the radar).
+
+00ND ©: w —VD COHN
+
+M
+
+3 SEC
+
+240-055
+
+| | Se \seoF
+HRM~| TGT =f93.3 |. FULL | NEW
+
+gypPr
+
+AGR-03-37
+
+Figure D - 37. Set Commanded.
+
+AGR-3 D - 48
+
+
+Text from AGR-3_Modes_Controls_and_Displays_page_55.jpeg:
+EMIS Limit
+
+Selecting EMIS LMT on the UFC (Figure D-38) stops radar transmissions
+(radar enters SNF) and illuminates the EMIS LMT advisory light in both
+cockpits. When selected, the radar also displays EMIS LMT for 5 seconds.
+All radar functions can be changed while in EMIS LMT and when EMIS
+LIMIT is deselected, the radar returns to operation with these changes.
+The radar performs the same as if SNF is boxed during normal ops. EMIS
+LMT can be selected from either cockpit. Command of the A/G RDR is not
+required.
+
+(Js LAW 12000" STR 19A
+
+AGR-03-38
+
+Figure D - 38. EMIS LMT.
+
+D - 49 AGR-3
+
+
+Text from AGR-3_Modes_Controls_and_Displays_page_56.jpeg:
+QUESTIONS
+
+1. Quick stepping through sequence points on the A/G radar display
+positions the cursor at the new point and
+
+a.
+b.
+c.
+
+d.
+
+changes the INS nav steering to the new point.
+
+changes PB #17 sequence point to match that same point.
+changes the DW to an appropriate size for that range to the new
+point.
+
+increases the radar range based on the new point range.
+
+2. When the HRM patch map process is commanded, mapping continues
+until
+
+a.
+
+FREEZE is selected by the operator in command of the A/G
+display.
+
+AUTO FREEZE is selected by the radar set.
+
+mode reject is commanded.
+
+All of the above.
+
+3. Inthe UPDT cursor function, to ensure position validity, the 90
+second timer indicates time in which
+
+po op
+
+a MN (only) position update must be performed.
+
+both MN or INS/MN position updates must be performed.
+INS position update must be performed.
+
+an INS velocity update must also be performed.
+
+4. Inthe TGT cursor function, if an offset point is designated with a
+target point displayed at PB #17
+
+ae op
+
+AGR-3
+
+the planned target is designated.
+
+the offset is designated as the target.
+
+“INV” is displayed at PB #17.
+
+“TGT NOT AVAILABLE” message is displayed.
+
+
+Text from AGR-3_Modes_Controls_and_Displays_page_57.jpeg:
+ANSWERS
+
+D-51 AGR-3
+
+
+Text from AGR-3_Modes_Controls_and_Displays_page_58.jpeg:
+RADAR NAVIGATION
+Preflight
+
+Predictions of update points, targets and offsets should be obtained from
+the best available source: photos, AFMSS or drawings. Remember that
+attack and ingress routes significantly impact radar display presentations
+and you may only get one chance.
+
+Whenever possible, select aim points, offsets, etc. that will be well outside
+the blind zone during the route leg or target run. Ideally, you should
+make HRM patch maps when the point is at least 30° off the nose.
+Because of the nature of Synthetic Aperture Radar, such maps can be
+constructed more quickly and are more accurate than maps made near the
+blind zone. Between 30-50° is the HRM “sweet spot” (Figure D-39).
+
+30° Va
+
+BEST AREA FOR
+HRM MAPS
+
+TIME RANGE OR
+[| AZIMUTH
+50° "CUSHIONS"
+
+[| BLIND ZONE
+
+NOT DISPLAYED
+(10% OF SELECTED
+ANGE)
+
+2
+
+o
+=|
+
+a
+G
+C
+
+eam [Ol
+
+[a
+3SEC M
+240-055
+
+W
+RBM | MAP | 3.3 | FULL | IGMT
+
+ar ||
+
+AGR-03-39
+
+Figure D - 39.
+
+AGR-3 D - 52
+
+
+Text from AGR-3_Modes_Controls_and_Displays_page_59.jpeg:
+When determining the altitude to map from, you must consider two
+factors: radar line of sight (LOS) and graze angle. LOS is limited by the
+curvature of the earth and by intervening obstacles, such as hills and
+ridge lines. Table D-1 shows the maximum LOS range over flat terrain.
+If there is high terrain along the route, you may have to climb
+significantly to get a map. Study the surrounding terrain and look for
+Mapping opportunities when you can achieve LOS with minimum
+exposure. If you can find such “windows of opportunity,” mark them on
+
+the low level chart.
+Altitude Range (nm)
+AGL (feet)
+
+Table D - 1. LOS Ranges.
+
+D - 53 AGR-3
+
+
+Text from AGR-3_Modes_Controls_and_Displays_page_6.jpeg:
+(This Page Intentionally Blank)
+
+AGR-3 C-2
+
+
+Text from AGR-3_Modes_Controls_and_Displays_page_60.jpeg:
+Graze angle has a great deal of impact on the quality of the HRM picture.
+Higher graze angles result in very sharp contrast between “show” and
+“no-show” areas. Bomb circles, runways and roads usually show clearly.
+At lower graze angles, these features start to blend in with the
+surrounding terrain. Cultural returns with vertical development, such as
+buildings, stand out well at low graze angles. However, map quality is
+reduced at low graze angles (low look-down angles). The actual graze
+angle you achieve depends on the terrain, but you can make a “flat earth”
+estimate using the 1:60 rule (Table D-2). For example, at 1000 feet and
+10 nm an approximate 1° graze angle can be achieved. Good quality maps
+can be achieved at a 1° graze angle and with good planning, useful maps
+can be made from as little as .5° graze angle, i.e., 500 feet and 10 nm.
+Thus as the graze angle decreases, selection of aim points and offsets
+becomes increasingly important.
+
+Distance From Target in Nautical Miles
+
+oa cof ao | so | no fof ano
+oe fos: [ox | ow | os: | om | |
+Altitude fos [oe [ox [os [ow [ox [ox
+
+Above
+Area
+
+AGR-3 D- 54
+
+
+Text from AGR-3_Modes_Controls_and_Displays_page_61.jpeg:
+As a general guideline for planning, aim and offset points should be within
+10 nm of course, 30-50° off the nose, not obscured by intervening terrain,
+and have physical characteristics as mentioned earlier. Cluttered
+environments, like rolling wooded hills, provide unique problems different
+from those faced when map planning in desert terrain. For example, the
+presence of 50-80 foot trees around the desired offset or aim point make
+target acquisition more difficult than if they were not present. Since these
+obstacles increase the altitude required to map the intended point, a new
+point may have to be selected.
+
+Keep in mind that a MN PVU should be performed prior to commanding a
+patch map. Therefore, an additional 15-20 seconds or approximately
+
+2-3 nm is added to the equation of when to begin the PVU/patch map
+sequence. After TCTO 1F-15E-737, if the EGI is the PPKS, PVUs are not
+required prior to map construction.
+
+In-Flight Operation
+
+Since the same radar provides A/A and A/G capability, you must time
+share the system between modes. Most of the time, the radar is devoted
+to A/A search. By monitoring route symbols on the TSD and radar, you
+can estimate when the next aim point is approaching the HRM “sweet
+spot.” Before mapping, however, accomplish a MN PVU, if it has been
+more than 5 minutes since the last one.
+
+Scroll to A/G radar, take command and select PVU mode. After accepting
+the update, return to RBM and check the RBM display to ensure there are
+radar returns under the appropriate symbol. This ensures you have LOS
+to the point. Command the map, freeze the first acceptable patch map,
+command additional maps, as required, and update/target as required,
+and then go back to A/A search.
+
+Radar updates are normally performed only for the MN, unless the INS
+has excessive drift. If possible, update the MN approaching the target
+area. This positions symbology more accurately on the radar display and
+aids you in finding the target or offset. After TCTO 1F-15E-737, if the
+EGI is the PPKS, sequence point symbols will be placed by the EGI.
+Radar position updates should not be necessary with the EGI selected as
+the PPKS.
+
+D-55 AGR-3
+
+
+Text from AGR-3_Modes_Controls_and_Displays_page_62.jpeg:
+QUESTIONS
+
+1. The “sweet spot” for patch map construction is
+
+a. 30-50°.
+
+b. right 45-55°.
+c. 15-35°.
+
+d. +8°.
+
+2. Radar updates are normally performed only for
+
+a. TSD.
+
+b. A/G module.
+c. INS.
+
+d. MN.
+
+3. Two factors which must be considered when determining what
+altitude to map from are
+
+squint and graze angle.
+
+line of sight and graze angle.
+
+line of sight and squint angle.
+
+squint angle and radar look-down angle.
+
+ae op
+
+AGR-3 D - 56
+
+
+Text from AGR-3_Modes_Controls_and_Displays_page_63.jpeg:
+ANSWERS
+
+D-57 AGR-3
+
+
+Text from AGR-3_Modes_Controls_and_Displays_page_64.jpeg:
+(This Page Intentionally Blank)
+
+AGR-3 D - 58
+
+
+Text from AGR-3_Modes_Controls_and_Displays_page_65.jpeg:
+END OF TEXT QUIZ
+
+If the radar is placed directly from OFF to ON on the ground,
+
+oS
+
+it begins to transmit immediately.
+
+it enters a 38-minute warm-up period.
+
+it begins to transmit at the completion of the 3-minute warm-up
+period.
+
+all protective circuits are overridden.
+
+Antenna graze angle is determined by comparing the
+
+Boop
+
+antenna elevation caret to the pitch ball.
+
+pitch ball to the antenna elevation scale.
+
+antenna elevation caret to the antenna elevation scale.
+antenna elevation scale to the ADI.
+
+___is displayed during continuous mapping when less than 75% of
+the map is mappable due to gimbal limits, blind zone or DW/range
+
+incompatibility.
+
+a. FREEZE
+
+b. SET
+
+c. AUTO FREEZE
+d. BLIND ZONE
+
+(P) To undesignate the ground target in the FCP (master mode in
+A/G and not in command of A/A radar),
+
+pe op
+
+push down on the coolie switch.
+push forward on the boat switch.
+pull aft on the boat switch.
+depress and release the TDC.
+
+E-1 AGR-3
+
+
+Text from AGR-3_Modes_Controls_and_Displays_page_66.jpeg:
+5. (W) If both the PSL and target are designated, with command of the
+A/G radar and TGT cursor function,
+
+a.
+
+b.
+
+depressing and releasing the auto acq switch undesignates both
+at the same time.
+
+depressing and releasing the auto acq switch twice
+undesignates the PSL first, and then the target.
+
+moving the auto acq switch forward in the RCP undesignates
+both at the same time.
+
+moving the auto acq switch aft in the RCP undesignates both at
+the same time.
+
+6. (W) Radar cursor functions can be changed in the RCP by
+
+ao oP
+
+AGR-3
+
+moving the castle switch forward, aft, left or right.
+moving the TDC with the trigger at half action.
+depressing and releasing the TDC.
+
+depressing and releasing the castle switch.
+
+
+Text from AGR-3_Modes_Controls_and_Displays_page_67.jpeg:
+=
+
+OFF
+
+JOWOh
+
+DOD ©- wow —-VV OHM J
+
+3SEC M
+240-055
+
+| | ovo
+HRM | TGT [93.3 | FULL | NEW
+
+GEeCL-.
+
+Figure F - 1.
+
+@ S18
+
+AGR-03-40
+
+In Figure F-1,
+
+a. PSL slewing is enabled and if designated now, will command a
+run-in heading of 030°.
+
+heading to target 5. is 045°.
+
+the PSL is designated and is commanding steering to a 030°
+run-in heading.
+
+d. __ the target is left of course and a right turn is required.
+
+con
+
+Prior to updating, ensure the cursor position
+
+matches the selected geographic point and PB #17.
+is at the correct range for the selected DW size.
+
+is at the correct range for the selected range.
+matches the selected geographic point only.
+
+ae op
+
+E-3 AGR-3
+
+
+Text from AGR-3_Modes_Controls_and_Displays_page_68.jpeg:
+9.  Ifan eleventh mark point is designated
+
+a. M1 data is deleted (in memory) and the eleventh mark is stored
+as the new M1.
+
+b. the system only displays 10 points but the DTM will store all
+
+eleven.
+
+the eleventh point is not accepted as 10 are maximum.
+
+d. the eleventh point is not displayed on the radar as the
+maximum number that can be displayed at one time is 10.
+
+©
+
+10. To expand the radar map (FREEZE selected with STO unboxed) go
+half action on the trigger and depress and release the TDC in
+
+a. either cockpit.
+b. the FCP only.
+c. the RCP only.
+d. either cockpit regardless of who is in control of the radar.
+
+11. When A/A is displayed on the A/G radar display,
+
+a. an air-to-air target is attacking.
+b. the radar has been commanded to air-to-air.
+c. an air-to-air threat has been detected on the TEWS.
+d. __ the pilot has armed the air-to-air missiles.
+12. The PSL is designated when is at the end of the PSL.
+a. an arrow
+b. acircle
+c. nothing
+d. the target number
+
+AGR-3 E-4
+
+
+Text from AGR-3_Modes_Controls_and_Displays_page_69.jpeg:
+13.
+
+14.
+
+15.
+
+16.
+
+Plan to make HRM patch maps between angle off the nose
+(the HRM “sweet spot”) for quick and accurate maps.
+
+a. 10-60°
+b. 30-60°
+c. 10-50°
+d.  30-50°
+
+To get good radar video at very low altitude, you may have to
+
+a. use HRM patch maps exclusively.
+
+b. climb to increase the graze angle.
+
+c. plan turns off course.
+
+d. use RBM PPI exclusively.
+
+The of the RBM format is not displayed.
+a. center +8°
+
+b.  40-55° azimuth
+
+c. bottom 10%
+
+d. .8-.4 range
+
+If HRM patch map quality begins to degrade,
+
+a. perform a PVU.
+
+b. use HRM PPI.
+
+c. use RBM.
+
+d. adjust tilt and gain.
+
+E-5 AGR-3
+
+
+Text from AGR-3_Modes_Controls_and_Displays_page_7.jpeg:
+TEXT
+A/G RADAR CONTROLS, DISPLAYS AND SYMBOLOGY
+
+The operating modes of the APG-70 radar were explained in AGR-2. This
+lesson deals with the general symbology, radar controls and procedures
+and limitations. This section covers those cockpit controls (except
+HOTAS) that are required to operate the radar in each of the modes.
+HOTAS controls are covered in the next section.
+
+Sensor Control Panel
+
+The radar control knob located on the sensor control panel (Figure D-1)
+has the following functions:
+
+OFF Removes power from the radar.
+
+STBY Initiates a 3 minute warm-up period. All the radar functions
+are fully operational except the transmitter.
+
+ON Applies power to the radar and transmitter with
+weight-off-wheels. Also initiates a 3 minute warm-up if moved
+directly from OFF to ON.
+
+TF RDR RDR ALT
+ON © OVERRIDE
+
+)
+
+STORE ALIGN @ GAIN
+
+OFF él O LEVEL ON
+PULL
+NAV \
+aos ee fe)
+cc
+NORM RESET
+
+e"
+Ae Ors
+
+AGR-03-01
+
+Figure D - 1. Sensor Control Panel.
+
+D-1 AGR-3
+
+
+Text from AGR-3_Modes_Controls_and_Displays_page_70.jpeg:
+(This Page Intentionally Blank)
+
+AGR-3 E-6
+
+
+Text from AGR-3_Modes_Controls_and_Displays_page_71.jpeg:
+AGR
+
+BBR
+
+BE
+
+DBA
+
+DCL
+
+DW
+
+EGI
+
+GC
+
+GMT
+
+GPS
+
+HRM
+
+IGMT
+
+INS
+
+IPVU
+
+LOS
+
+ML
+
+PPI
+
+PPKS
+
+PROG
+
+GLOSSARY
+Air-to-ground ranging
+Bullseye bearing and range
+Bullseye
+Display brightness adjust
+Declutter
+Display window
+Embedded GPS/INS
+Gain control
+Ground moving target
+Global positioning system
+Half action
+
+High resolution map
+
+Interleaved ground moving target
+
+Inertial navigation system
+
+Interleaved precision velocity update
+
+Land
+Line of sight
+Multilook
+
+Plan position indicator
+
+Present position keeping source
+
+Progressive
+
+AGR-3
+
+
+Text from AGR-3_Modes_Controls_and_Displays_page_72.jpeg:
+PSL
+
+PVU
+
+RBM
+
+SNF
+
+STB
+
+STO
+
+TDC
+
+TGO
+
+TGT
+
+UPDT
+
+WOW
+
+AGR-3
+
+Pattern steering line
+Precision velocity update
+Real beam map
+
+Sniff
+
+Stabilized
+
+Store
+
+Target designator control
+Time to go
+
+Target
+
+Update
+
+Weight on wheels
+
+
+Text from AGR-3_Modes_Controls_and_Displays_page_8.jpeg:
+EMERG Overrides all protective interlocks except weight-on-wheels
+(WOW) and transmitter coolant flow to provide a “must operate
+at any cost” capability. A 3-minute warm-up is still required.
+The power knob must be pulled up to select EMERG.
+
+Multipurpose Display (MPD)
+
+The air-to-ground radar display is selected from the Menu 1 display on
+any MPD by pressing PB #14 (Figure D-2). The A/G RDR format cannot
+be selected on the MPCDs; therefore, A/G RDR is not provided as an
+option on Menu 1 on the MPCDs.
+
+[1]A/A RDR
+
+[2k/G RDR
+
+A/ARDR
+A/GRDR TEWS
+TGTIR
+
+[3] TeTIR
+
+AGR-03-02
+
+Figure D - 2. Menu Display.
+
+AGR-3 D-2
+
+
+Text from AGR-3_Modes_Controls_and_Displays_page_9.jpeg:
+Symbology
+
+The following symbology is used for all modes (Figure D-3 through Figure
+D-8):
+
+A Antenna elevation scale - used to determine radar antenna
+elevation in degrees. Scale is marked 0 (level), +1°, +2°, +5° and
++10° elevation.
+
+B_ Pitch ball - displayed to indicate aircraft pitch angle with respect
+to the horizon. The pitch ball is a circle if the INS is providing
+attitude data over the radar high speed data bus (HSDB). If the
+AHRS provides the attitude data, the pitch ball changes to a
+small rectangle. If both the INS and AHRS stop communicating
+on the radar HSDB, the pitch ball changes to an X.
+
+After TCTO 1F-15E-737, the pitch ball is a circle if the INS is
+providing the attitude data over the radar HSBD. If the INS
+stops communicating on the radar HSDB, the embedded
+GPS/INS (EGI) provides attitude data and the pitch ball changes
+to a diamond. If both the INS and EGI stop communicating on
+the radar HSDB, the pitch ball changes to an X.
+
+C Antenna elevation caret - indicates present antenna elevation
+with respect to the horizon or with respect to the pitch ball.
+Maximum movement is +60° on the antenna elevation scale.
+
+D Antenna azimuth scan scale - used to indicate antenna position
+and is marked 0 and +60°. The zero azimuth mark is referenced
+to the aircraft velocity vector (ground track).
+
+AGR-03-03
+
+Figure D - 3. Symbology (1).
+
+D-3 AGR-3
+
+

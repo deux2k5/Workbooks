@@ -1,0 +1,1206 @@
+Text from TAC-2_Element_Attacks_page_1.jpeg:
+SUPPORTS COURSES
+FIS5EBQ
+
+FISETX
+
+FISESOC
+
+ACADEMIC STUDENT WORKBOOK
+F-15E
+
+TACTICS
+TAC-2
+ELEMENT ATTACKS
+
+JANUARY 1999
+
+(OFP N/A)
+
+AIR COMBAT COMMAND
+
+
+Text from TAC-2_Element_Attacks_page_10.jpeg:
+The time the previous aircraft’s weapon frag is in the air can be found in
+the Maximum Bomb/Rocket Fragment Travel Chart in TO 1-1M-34. This
+gives the maximum time any generic piece of frag should be airborne.
+Using the maximum bomb fragment travel chart, the time of flight of frag
+for all types of MK-82s at 5000 feet TDA is 25.9 seconds (Figure D-3).
+
+MAXIMUM BOMB FRAGMENT TRAVEL
+
+ALTITUDE HORIZONTAL RANGE TIME OF FLIGHT
+a Se
+
+“+ a 5000 a 5000
+
+LEVEL FEET LEVEL FEET LEVEL FEET
+
+UNITARY WARHEADS
+
+ALL TYPES | ES 2770 | 3180 | 50 3260 3715 Pe [Pa
+
+TAC-02-03
+
+MUNITION
+
+Figure D - 3. Fragment Travel Chart (For Reference Only).
+
+TAC-2 D-4
+
+
+
+Text from TAC-2_Element_Attacks_page_11.jpeg:
+The time required for a ripple release is computed using the formula
+
+(N - 1) X INT, where N is the total number of weapon release pulses
+(number of weapons for ripple single releases, number of weapons divided
+by how many stations to be released from for ripple multiple releases) in
+the string of bombs, and INT is the interval (in seconds) between releases.
+INT can be found (listed as Ripple Interval) in the CWDS printout
+(Figure D-4), or the impact spacing factor tables in TO 1-1M-34. Using a
+ripple single delivery with 28 foot impact spacing the ripple release time is
+0.33 seconds (11 X 30 msec).
+
+F-15 CFT LATERAL DISPLACEMENT 58FT
+
+RANGE FIRST RELEASE TO IMPACT 0.4NM 2663FT 812M
+RANGE LAST RELEASE TO IMPACT 2663FT
+
+SLANT RANGE AT RELEASE 2861FT
+
+RANGE RELEASE TO CENTER OF STICK 2817FT
+
+BOMB TRAIL 3331FT  1015M 0.5NM
+
+TIME OF FALL FIRST RELEASE
+
+TIME OF FALL LAST RELEASE
+IMPACT SPACING
+
+STICK LENGTH
+
+RIPPLE INTERVAL
+
+WEAPON IMPACT ANGLE
+WEAPON IMPACT VELOCITY
+
+6.46 SEC
+
+6.46 SEC
+28FT 9M
+308FT 94M
+30.2MS
+
+32 DEG
+
+250 FT/SEC
+
+TAC-02-04
+Figure D - 4.
+
+Thus, the total time deconfliction required for frag deconfliction is
+computed by adding these times (6.46 + 25.9 + .33), resulting in the total
+time of 32.69 seconds. In other words, 32.69 seconds is the minimum
+required spacing between aircraft to ensure #2 has time deconfliction from
+the lead aircraft’s frag pattern.
+
+D-5 TAC-2
+
+
+Text from TAC-2_Element_Attacks_page_12.jpeg:
+Advantages / Disadvantages
+
+Deconflicting by time allows aircraft in the element to overfly the same
+target at lower altitudes. However, spacing by time may degrade mutual
+support because the time delay between deliveries allows the enemy to
+prepare for subsequent attackers. For this reason, predictability should
+be reduced by attacking from different axes whenever possible.
+
+Altitude Deconfliction
+
+To avoid the fragmentation pattern using altitude separation, following
+aircraft must stay above the maximum altitude of the fragment envelope
+of the preceding aircraft’s munitions. Using the same example,
+
+Figure D-3 shows that 2500 feet is the minimum altitude in order to stay
+above the frag for a MK-82 delivery on a target with a TDA of 5000 feet.
+
+For a diving delivery, the following aircraft cannot descend below the top
+of the frag envelope. Therefore, altitude lost during the ripple release
+(found in TO 1-1M-34 or the CWDS program) plus the altitude lost during
+pullout (from the CWDS program) must be added to the maximum
+altitude for the fragment envelope to compute a minimum release altitude
+(MRA). For example, let us compute the altitude deconfliction required for
+a wingman to stay above the frag if the flight lead drops MK-82 low drag
+general purpose (LDGP) bombs on a target and the wingman needs to
+stay above lead’s frag as he drops 12 MK-82 LDGP bombs from a 20°
+diving delivery at 500 KTAS on a target with a density altitude of 5000
+feet, then executes a 5 G climbing safe escape maneuver. First, the frag
+altitude for lead’s bombs can be found in the Maximum Bomb Fragment
+Travel chart (Figure D-3). This chart shows the altitude of the frag to be
+2500 feet. To this, we must add the altitude lost during ripple release of
+285 feet from the CWDS printout in Figure D-5. In addition, we must add
+the altitude lost during dive recovery value of 730 feet from the CWDS
+printout in Figure D-6. By adding these values (2500 + 285 + 730), we
+find that the wingman must release his bombs no lower than 3515 feet
+AGL. Thus, a MRA of 3515 feet AGL allows the wingman to release all 12
+bombs with the planned release interval and recover from the 20° dive
+while staying above lead’s frag.
+
+TAC-2 D-6
+
+
+Text from TAC-2_Element_Attacks_page_13.jpeg:
+A much easier way to do this is to use the “min recovery/release” option on
+the delivery page of CWDS. In the example above, you would input 2500'
+(or pad it) as the “min recovery/release” altitude and CWDS will calculate
+your release altitude. The altitude lost during ripple release and dive
+recovery are included in the CWDS computed release altitude. In order to
+provide for a safe margin of error, the MRA is usually calculated for 5°
+steeper than planned dive angle. For a planned 20° delivery, the MRA
+calculations and dive recovery numbers would be based on flying a 25°
+dive. This provides a reasonable margin of error for being off planned
+
+parameters.
+
+*** RELEASE CONDITIONS ***
+
+NUMBER OF WEAPONS RELEASED
+
+RELEASE ALTITUDE FIRST WEAPON
+
+RELEASE ALTITUDE CORRECTED FOR ALT LAG
+RELEASE ALTITUDE LAST WEAPON
+
+RELEASE DIVE ANGLE
+RELEASE AIRSPEED
+TARGET DENSITY ALTITUDE
+TARGET ELEVATION
+
+Figure D - 5.
+
+12
+2019A
+
+1734A
+
+20 DEG
+457C
+5000 FT
+OFT
+
+2019M
+
+2073M
+
+1734M
+
+500T .T7™M
+
+OM
+
+TAC-02-
+
+*** SAFE ESCAPE SAFE SEPARATION DIVE RECOVERY INFORMATION ***
+5G CLIMB MANEUVER
+
+SAFE ESCAPE MANEUVER
+DIVE RECOVERY G
+
++5.0
+
+ALT LOST DURING DIVE RECOVERY (30FT
+
+MIN ALT DURING DIVE RECOVERY
+
+Figure D - 6.
+
+1004A
+
+1004M
+
+05
+
+TAC-02-06
+
+TAC-2
+
+
+Text from TAC-2_Element_Attacks_page_14.jpeg:
+Advantages / Disadvantages
+
+Using altitude as the only means of deconfliction allows aircraft in the
+element to attack a target immediately after the preceding aircraft.
+However, the increased altitude may increase exposure time and place the
+trailing aircraft in the lethal envelope of additional enemy defense
+systems as he maneuvers for the weapons delivery.
+
+Horizontal Deconfliction
+
+To avoid the fragmentation pattern using horizontal separation, trailing
+aircraft must remain outside the maximum horizontal range of the
+fragment envelope for the preceding attacker’s munitions. Figure D-3
+shows that 2900 feet is the minimum separation required for a MK-82
+delivery on a target with a TDA of 5000 feet. Horizontal spacing assumes
+parallel flight paths. For converging attack axes, the trailing aircraft
+must remain outside the horizontal frag pattern of lead’s bombs in all
+directions.
+
+Another consideration when releasing weapons from the outer CFT
+stations is the F-15E CFT lateral displacement (how far the bomb is
+ejected sideways from the outer CFT bomb racks). This is listed on the
+CWDS printout (Figure D-9, page D-11). You should add this value to the
+horizontal range of the frag from the Dash 34 chart. It is usually a small
+value that is fairly insignificant, but is a good reason to “pad” the
+deconfliction required by rounding up the value (if it is not directly
+known). This only applies when bombs are ejected from the outer CFT
+racks due to their angle and cant away from the jet.
+
+Computing the horizontal deconfliction for cluster bomb units (CBUs) is
+slightly different (Figure D-7). The horizontal separation must be equal to
+or greater than the larger of the following:
+
+e Maximum horizontal range of the fragment envelope for an
+intact cluster.
+
+e Sum of the CBU pattern half-width plus the maximum
+
+horizontal range of the fragment envelope for the submunition
+as shown in Figure D-7.
+
+TAC-2 D-8
+
+
+Text from TAC-2_Element_Attacks_page_15.jpeg:
+MAXIMUM
+FRAGMENT
+
+TRAJECTORY \
+
+PATTERN HALF-WIDTH
+
+HORIZONTAL
+DECONFLICTION
+
+|
+
+TAC-02-07
+
+Figure D - 7. CBU Horizontal Deconfliction.
+
+As an example, assume CBU-87/B CEM is the munition being delivered
+on a target with a density altitude of 5000 feet. To determine the
+horizontal deconfliction, use the larger of the following:
+
+e 2705 feet for the intact cluster (2595 feet) (Figure D-8) plus CFT
+lateral displacement (110 feet) (Figure D-9).
+
+e 982 feet for the submunition pattern width (294 feet)
+(Figure D-9) divided by 2 plus the submunition horizontal range
+(725 feet) (Figure D-8) plus CFT lateral displacement (110 feet)
+(Figure D-9).
+
+D-9 TAC-2
+
+
+Text from TAC-2_Element_Attacks_page_16.jpeg:
+MAXIMUM BOMB FRAGMENT TRAVEL
+
+ALTITUDE HORIZONTAL RANGE TIME OF FLIGHT
+(FEET) Sore
+
+wunmion [TDA | __—‘TOA__
+
+SEA 5000 be ee
+LEVEL FEET LEVEL Seer LEVEL
+
+UNITARY WARHEADS
+
+a Re
+
+CLUSTER SUBMUNITIONS
+(MK-20 ROCKEYE) ' .
+———.—
+
+TAC-02-08
+
+Figure D - 8. Maximum Bomb Fragment Travel Chart.
+
+Therefore, the lateral distance required is the larger of these two values,
+or 2705 feet.
+
+TAC-2 D-10
+
+
+Text from TAC-2_Element_Attacks_page_17.jpeg:
+Advantages / Disadvantages
+
+Using lateral spacing for deconfliction allows aircraft in the element to
+attack two targets simultaneously. This type of spacing is most commonly
+used against area targets or targets with different designated mean points
+of impact (DMPIs). When attacking one target/DMPI, horizontal spacing
+can be taken in the form of standoff deliveries such as loft or low altitude
+toss (LAT) allowing simultaneous attacks.
+
+F-15 CFT LATERAL DISPLACEMENT 110 FT
+
+FUZE LOCATION
+
+NOSE FUZE
+
+HOF FUZE SETTING = C
+
+RPM SETTING
+
+CEM FIN CANT ALTITUDE
+
+CEM FIN CANT TIME
+
+DISPENSER FUNCTION ALTITUDE
+DISPENSER FUNCTION TIME
+
+MRA FOR SAFE ESCAPE
+
+** PATTERN INFORMATION ***
+
+PATTERN LENGTH
+PATTERN WIDTH
+
+LINEAR PATTERN DENSITY
+PATTERN DENSITY
+
+Figure D - 9.
+
+NOSE
+FZU39/B
+700
+2000
+743M 743A
+6.42 SEC
+524M 524A
+7.44 SEC
+
+539A 543M
+
+1829FT
+
+294FT
+
+1.3 BMBLTS/FT
+
+4.5 BMBLTS/1000SQFT
+
+TAC-02-09
+
+TAC-2
+
+
+Text from TAC-2_Element_Attacks_page_18.jpeg:
+Fingertip Formation
+
+If time, altitude, or horizontal deconfliction cannot be achieved during
+simultaneous formation deliveries on the same target/DMPI, then the
+wingman must be in close (fingertip) formation. In this type of delivery,
+fragment protection is provided by the safe escape minimum release
+altitude.
+
+WARNING
+
+The wingman must not drop back to
+any type of route or trail position
+during formation deliveries; doing so
+will significantly increase the
+probability of fragmentation.
+
+There is very little utility in this type of delivery since it requires a target
+with no significant threats and ROE liberal enough to allow a fairly
+inaccurate delivery.
+
+Deconfliction Summary
+
+Fragmentation deconfliction has become easier in recent years by more
+effectively taking advantage of standoff capability, often made possible by
+the use of precision guided weapons and/or the increased accuracy of
+aircraft systems.
+
+In summary, each type of deconfliction has advantages and
+disadvantages. However, on most occasions a combination of deconfliction
+types is used. This is particularly true in a large composite strike force
+where overflying the target is required. Further, when employing a
+precision guided (smart) weapon, deconfliction is easily achieved through
+loft/LAT/medium altitude delivery profiles.
+
+TAC-2 D-12
+
+
+Text from TAC-2_Element_Attacks_page_19.jpeg:
+ATTACK PROFILES
+
+Element attacks are normally done with two to four aircraft which are
+part of a larger composite strike force. However, the focus of this section
+is on the basic fighting unit (two-ship) element attacks. Element attacks
+fall into one of three profiles: the split, echelon, and trail attacks. These
+attack profiles can be performed as either sequential or simultaneous
+attacks.
+
+Split Attack
+
+The split attack option is designed for minimum exposure while splitting
+the defenses. Sequential split attacks are achieved through time spacing.
+However, other types of deconfliction can be used.
+
+For time deconfliction, the second aircraft achieves separation by
+traversing a greater distance over the ground. For example, at a
+predetermined action point one aircraft turns either across or away from
+the other element member and away from the target. After the planned
+spacing is achieved, the aircraft turns back toward the target
+
+(Figure D-10). This allows both aircraft to ingress, deliver their weapons,
+and egress at lower altitudes.
+
+TAC-02-10
+
+Figure D - 10. Split Attack (Time Deconfliction).
+
+D-18
+
+TAC-2
+
+
+Text from TAC-2_Element_Attacks_page_2.jpeg:
+ADMINISTRATIVE INFORMATION
+
+This student workbook is designed to provide information on the F-15E,
+its systems, and capabilities. It is not a sole source document, but is to be
+used in conjunction with other standard Air Force publications and
+technical manuals. If you find any differences between the material
+contained herein and other governing regulations, adhere to the
+regulations and notify the OPDR.
+
+Changes to this workbook are indicated with a heavy black line in the left
+margin.
+
+Forward recommendations for revision or change to 4 TS, SJAFB, NC,
+275381.
+
+Supersedes: TAC-2, July, 1998
+
+OPDR: 4TS
+
+Index of Changes
+
+Effective Date Pages Affected
+
+
+
+Text from TAC-2_Element_Attacks_page_20.jpeg:
+Against an area target, lateral separation enables you to accomplish a
+simultaneous split attack. The attack sequence from the split point to the
+egress point must be separated either laterally or vertically when used
+against single DMPIs. Frag deconfliction can be obtained through
+altitude (single DMPI) or by horizontally deconflicting the frag envelope
+for separate DMPIs as shown in Figure D-11.
+
+TAC-02-11
+
+Figure D - 11. Simultaneous Split Attack.
+Some advantages of the split attack are:
+
+e It provides minimum exposure time in the target area.
+
+e It splits the defenses and complicates their targeting plan.
+Some disadvantages of the split attack are:
+
+e Once the split occurs visual mutual support may be degraded.
+
+e  Ifone fighter is engaged the other may not be able to bring
+ordnance to bear on the attacker until after weapon release.
+
+TAC-2 D-14
+
+
+Text from TAC-2_Element_Attacks_page_21.jpeg:
+e Because of crossing angles, regaining mutual support when
+egressing might be more difficult.
+
+e If timing deconfliction is used, the first attack will alert the
+defenses to follow-on attacks.
+
+Echelon Attack
+
+An echelon attack option is designed for maximizing mutual support and
+the number of aircraft across the target in the least amount of time
+(Figure D-12). For example, at a predetermined point, both aircraft turn
+away from the target for angle-off pops. When lead turns back toward the
+target, two follows. If a sequential echelon attack is desired, then the
+tactical separation is maintained. If a simultaneous echelon attack is
+desired, then the tactical separation is decreased. When lead turns back
+toward the target, two can turn to the same target/DMPI, or to another
+target/DMPI. If lateral separation is inadequate for frag clearance, then
+the following aircraft can recover at a higher altitude than the lead
+aircraft’s fragmentation, or use a standoff delivery to remain outside the
+frag envelope.
+
+TAC-02-12
+
+Figure D - 12. Echelon Attack.
+
+D-15 TAC-2
+
+
+Text from TAC-2_Element_Attacks_page_22.jpeg:
+A simultaneous loft is one form of an echelon attack. Here, both aircraft
+maintain tactical formation with the wingman slightly aft of line abreast
+(approximately 15-30° aft) until approximately 10 seconds TPULL. The
+wingman then turns to center the attack steering and executes the loft
+delivery simultaneously with, or just behind, his leader. In this situation,
+it is important that #2 does not get ahead of his leader or pull off in such a
+way as to cross the flight path of lead’s ordnance. Also, the recovery
+should be planned away from the wingman so lead will not have a
+deconfliction problem with the wingman’s ordnance. Plan and fly the
+recovery to ensure aircraft and munition deconfliction, to include the other
+aircraft’s munitions if performing simultaneous deliveries.
+
+Some advantages of echelon attacks are:
+e Good visual support throughout the attack with good 6 o’clock
+coverage for lead. However, the wingman’s 6 o’clock coverage is
+
+degraded.
+
+e  Itis easier for the wingman, since he flies visual formation off
+lead which reduces his navigation requirements.
+
+e The proximity of the two aircraft to each other decreases their
+time in the target area and simplifies the egress geometry.
+
+Some disadvantages of echelon attacks are:
+
+e The proximity of the aircraft in the element makes it easier for
+the enemy defenses to locate and engage both aircraft.
+
+e AAAor SAM aimed at one aircraft may hit the other aircraft.
+
+TAC-2 D-16
+
+
+Text from TAC-2_Element_Attacks_page_23.jpeg:
+Trail Attack
+
+The trail attack option may be useful when it is necessary to have both
+aircraft overfly the target on the same axis with time deconfliction. This
+may be driven by weather, terrain, target type, threat, or ordnance being
+delivered. There are many ways of attaining this trail interval. One way
+is for the following aircraft to execute an x number of degrees turn away
+from lead and hold that heading for a preplanned number of seconds.
+After the time has expired the following aircraft reverses back to course,
+falling into trail. The delay prior to the reverse is driven by the desired
+trail interval. Figure D-13 is an example of deploying to trail for
+sequential level deliveries.
+
+@
+
+X SECONDS
+
+=-O+ ©
+
+TAC-02-13
+
+Figure D - 13. Trail Attack.
+
+TAC-2
+
+
+Text from TAC-2_Element_Attacks_page_24.jpeg:
+Some advantages of the trail attack are:
+
+Each aircraft’s maneuverability is maximized.
+
+It provides an excellent SAM lookout as the second aircraft can
+stay low and check for SAMs while the first aircraft is over the
+target area.
+
+On a hard-to-find target, the leader may be able to direct the
+wingman’s eyes to the target or give a correction off his bombs.
+
+Some disadvantages of the trail attack are:
+
+TAC-2
+
+It provides no visual mutual support for the second aircraft
+during most of the attack.
+
+The attacking aircraft may be in the target area for an extended
+period of time, allowing gunners a longer time to acquire and
+target the trailing aircraft. Attacking from the same axis also
+makes acquisition of the trailing aircraft easier.
+
+The lead aircraft’s bomb alerts the defenses increasing the
+threats in the target area for the trailers.
+
+
+Text from TAC-2_Element_Attacks_page_25.jpeg:
+SOLVING FOR DECONFLICTION
+
+GIVEN: Number of aircraft - 2 F-15Es
+Munitions - 4 MK-84 AITRs, FMU-139 4 sec arm
+Delivery - level, 550 KTAS, 500 feet AGL, 100 msec spacing,
+ripple multiple
+2500 target density altitude (TDA)
+
+Time Deconfliction
+
+As mentioned earlier, time spacing required between two aircraft is based
+upon the delivery TOF, the time required for a ripple release, and how
+long the previous aircraft’s weapon frag is in the air. The amount of
+separation, in a trail attack for example, must be equal to or greater than
+the added values.
+
+For this example, a level delivery of 4 MK-84 AIR (HD) at 550 KTAS and
+500 feet AGL has a TOF of 5.89 seconds (Figure D-14). With an impact
+
+spacing of 100 msec, the ripple release time is 0.10 seconds (100 msec X 1).
+
+The 1 in this equation results from (N - 1) where N is the number of
+release pulses (2 for ripple multiple of 4 weapons).
+
+33FT
+0.6NM
+3914FT
+3992FT
+3960FT
+1553FT
+
+F-15 CFT LATERAL DISPLACEMENT
+RANGE FIRST RELEASE TO IMPACT
+RANGE LAST RELEASE TO IMPACT
+SLANT RANGE AT RELEASE
+
+RANGE RELEASE TO CENTER OF STICK
+BOMB TRAIL
+
+3914FT 1193M
+
+473M 0.3NM
+
+TIME OF FALL FIRST RELEASE
+
+TIME OF FALL LAST RELEASE
+IMPACT SPACING
+
+STICK LENGTH
+
+RIPPLE INTERVAL
+
+WEAPON IMPACT ANGLE
+WEAPON IMPACT VELOCITY
+
+5.89 SEC
+5.89 SEC
+93FT
+93FT
+100.0MS
+17 DEG
+503 FT/SEC
+
+28M
+28M
+
+TAC-02-14
+
+Figure D - 14. MK-84 AIRs Level Delivery.
+
+TAC-2
+
+
+Text from TAC-2_Element_Attacks_page_26.jpeg:
+Using the maximum bomb fragment travel chart in TO 1-1M-34, the time
+of flight for the MK-84 AIR’s frag at 2500 feet TDA is 28.85 (interpolated
+from Figure D-15). Thus, adding the times (5.89 + .10 + 28.85) results in
+the total time of 34.84. This is the minimum spacing the following aircraft
+needs.
+
+MAXIMUM BOMB FRAGMENT TRAVEL
+
+ALTITUDE HORIZONEET yANGE TIME OF FLIGHT
+a aa
+
+MUNITION
+
+eS oe 5000 oS 5000
+LEVEL FEET LEVEL FEET LEVEL FEET
+
+UNITARY WARHEADS
+
+MK-82
+
+Re eS 2770 3150 3260 3715
+BLU-109
+
+eee fell fa
+Ss es ee RS
+
+TAC-02-15
+
+Figure D - 15. MK-84 AIR Fragmentation Chart.
+Altitude Deconfliction
+If altitude is used for separation, then the following aircraft must remain
+above 2960 feet (Figure D-15) above the target during the delivery and
+recovery (interpolate between 2770 and 3150).
+Horizontal Deconfliction
+If lateral separation is used, then the horizontal range between aircraft
+
+must be greater than 3487.5 feet for deconfliction (interpolate between
+3260 and 3715).
+
+TAC-2 D - 20
+
+
+Text from TAC-2_Element_Attacks_page_27.jpeg:
+Remember that for CBUs, the horizontal separation must be equal to or
+greater than the larger of:
+
+e Maximum horizontal range of fragment envelope for the intact
+cluster.
+
+e Sum of the CBU pattern half-width plus the maximum
+
+horizontal range of the fragment envelope for the submunition.
+
+Also, remember to add in the CFT lateral displacement.
+
+The example in the lecture will demonstrate this type of problem.
+
+TAC-2
+
+
+Text from TAC-2_Element_Attacks_page_28.jpeg:
+QUESTIONS
+
+1. Three basic ways fragmentation deconfliction is achieved are
+; , and
+
+Use Figures D-2 and D-3 to solve the following questions, 2-4.
+
+Given: 1 MK-82, 550 KTAS, 500 feet AGL level delivery, TDA is
+5000 feet.
+
+2. After lead releases, what is the minimum time a following wingman
+can overfly the target?
+
+6.46 seconds
+25.90 seconds
+30.50 seconds
+32.36 seconds
+
+ao op
+
+3. What is the minimum altitude that the wingman must remain above,
+for altitude deconfliction?
+
+a. 2140 feet
+b. 2500 feet
+c. 2770 feet
+d. 3000 feet
+
+4. What is the minimum lateral separation needed by the wingman
+when using lateral deconfliction assuming parallel attack axes?
+
+a. 2550 feet
+b. 2900 feet
+c. 3260 feet
+d. 3715 feet
+
+5. Which type of attack profile makes it easier for the enemy defenses to
+locate and track both aircraft simultaneously?
+
+The split attack
+The echelon attack
+The trail attack
+The mac attack
+
+Re op
+
+TAC-2 D - 22
+
+
+Text from TAC-2_Element_Attacks_page_29.jpeg:
+ANSWERS
+time, altitude, horizontal
+d
+
+b
+
+D - 238 TAC-2
+
+
+Text from TAC-2_Element_Attacks_page_3.jpeg:
+TACTICS
+
+1 O
+
+\f_ rere tere
+
+==
+
+COVER
+
+ELEMENT ATTACKS
+
+INTRODUCTION
+
+This workbook is the guide for planning element attacks in a low level
+tactical interdiction mission. It familiarizes the aircrew with various
+considerations when accomplishing element attacks.
+
+CONTENTS:
+
+Ie ed TR USGS exe sec ase et ese see ce ape ccs tas see ce ase ees ee sens se: ee we ras A-1
+CRITERION REFERENCED OBJECTIVES (CROs).......0..... eee B-1
+STUDENT PREPARATION REQUIREMENTS ....00. eee C-1
+DUET wr ses sass cs cas we snes sas tes ss sent ten es Sas ea Mat we Sn ea tes aS cn aa ae D-1
+END OF TEXT QUIZ ou. eeccceesnecenseeeessneesesaeesensaeeseseesenaees E-1
+GOSS AIRY corse ane sae sass suis ness ans canis dae atch Siu Rew Manis Uae ISR Su MAS mis ME Sa we GE 5 F-1
+
+TAC-2
+
+
+Text from TAC-2_Element_Attacks_page_30.jpeg:
+(This Page Intentionally Blank)
+
+TAC-2 D - 24
+
+
+Text from TAC-2_Element_Attacks_page_31.jpeg:
+Element attacks are accomplished to
+
+po op
+
+END OF TEXT QUIZ
+
+, and
+
+compress TOTs, provide mutual support, saturate the defenses
+compress TOTs, identify the target, provide mutual support
+compress TOTs, identify the target, saturate the defenses
+identify the target, provide mutual support, saturate the
+defenses
+
+What is the major problem to solve when doing element attacks?
+
+Boop
+
+Getting rejoined
+Deconfliction
+Keeping lead in sight
+Target identification
+
+Use Figures D-14 and D-15 to solve questions 3-5.
+
+Given: Level deliveries, 4 MK-84 AIR (HD), 550 KTAS, 500 feet AGL,
+ripple multiple, 150 msec spacing, TDA is 2500 feet.
+
+3.
+
+What is the minimum time separation required for deconfliction?
+
+ao op
+
+5.89 seconds
+
+28.85 seconds
+32.00 seconds
+34.89 seconds
+
+What is the minimum altitude the wingman must remain above, for
+altitude deconfliction?
+
+ae op
+
+2140.0 feet AGL
+2770.0 feet AGL
+2960.0 feet AGL
+3260.0 feet AGL
+
+TAC-2
+
+
+Text from TAC-2_Element_Attacks_page_32.jpeg:
+5. What is the minimum lateral separation?
+
+a. 2770.0 feet
+b. 3487.5 feet
+c. 3260.0 feet
+d. 3715.0 feet
+
+6. Which attack profile provides little to no visual mutual support for
+the second aircraft during most of the attack and may leave the trail
+aircraft in the target area for an extended period of time?
+
+The split attack
+The echelon attack
+The trail attack
+The lateral attack
+
+po op
+
+TAC-2 E-2
+
+
+Text from TAC-2_Element_Attacks_page_33.jpeg:
+AGL
+
+Al
+
+AIR
+
+CBU
+
+CEM
+
+CFT
+
+CWDS
+
+DA
+
+DMPI
+
+FMU
+
+GP
+
+HD
+
+KTAS
+
+LDGP
+
+MK
+
+MRA
+
+msec
+
+PGM
+
+ROE
+
+GLOSSARY
+
+Antiaircraft artillery
+
+Above ground level
+
+Airborne interceptor
+
+Air inflatable retarder
+Cluster bomb unit
+
+Combined effects munition
+Conformal fuel tank
+
+Combat weapons delivery software
+Density altitude
+
+Desired mean point of impact
+Fuze munitions unit
+
+General purpose
+
+High drag
+
+Knots true airspeed
+
+Low altitude toss
+
+Low drag general purpose
+Mark
+
+Minimum release altitude
+Millisecond
+
+Precision guided munition
+
+Rule(s) of engagement
+
+TAC-2
+
+
+Text from TAC-2_Element_Attacks_page_34.jpeg:
+SAM
+
+TDA
+
+TOF
+
+TOT
+
+TPULL
+
+TAC-2
+
+Surface-to-air missile
+Target density altitude
+Time of fall
+
+Time on target
+
+Time to pull up
+
+
+Text from TAC-2_Element_Attacks_page_35.jpeg:
+(This Page Intentionally Blank)
+
+F-3 TAC-2
+
+
+Text from TAC-2_Element_Attacks_page_36.jpeg:
+BACK PAGE
+COVER SHEET
+
+
+Text from TAC-2_Element_Attacks_page_4.jpeg:
+CRITERION REFERENCED OBJECTIVES (CROs)
+
+1. Identify the three types of deconfliction and their advantages and/or
+disadvantages.
+
+2. Identify the element attack profiles and their advantages and/or
+disadvantages.
+
+3. Compute the amount of deconfliction required in an element attack
+when given the ordnance, type of delivery, and type of deconfliction.
+
+REFERENCES
+TO 1-1M-34 Section VI Safe Escape/Safe Separation
+Section VIIT Mission Planning
+TO 1-1M-44-1FD CWDS (Conventional
+Weapons Delivery Software)
+MCM 3-3 Chapter 5 Air-to-Surface Employment
+TO 1F-15E-1 Section V Operating Limitations
+
+TAC-2 B-1
+
+
+Text from TAC-2_Element_Attacks_page_5.jpeg:
+STUDENT PREPARATION REQUIREMENTS
+BEFORE CLASS
+
+1. Study the information contained in this workbook and complete the
+End Of Text Quiz.
+
+C-1 TAC-2
+
+
+Text from TAC-2_Element_Attacks_page_6.jpeg:
+(This Page Intentionally Blank)
+
+TAC-2 C-2
+
+
+Text from TAC-2_Element_Attacks_page_7.jpeg:
+TEXT
+ELEMENT ATTACKS
+Introduction
+
+There are several reasons for accomplishing an element attack. One is to
+provide mutual support against enemy defenses such as SAMs, AAA, and
+Als. Second, element attacks allow compressed TOTs which reduce time
+spent in the target area and/or near the threat. Third, maneuvering
+elements employing various countermeasures complicate or disrupt the
+enemy’s targeting plan, thereby delaying or denying engagement.
+Element attacks enhance survivability; however, fragmentation
+deconfliction must be planned.
+
+FRAG DECONFLICTION
+
+For a single aircraft attacking a target, frag deconfliction is provided by
+the safe escape/separation planning charts and tables located in
+
+TO 1-1M-34 and the tables option in CWDS planning software for specific
+weapons and release conditions. Flying the depicted safe escape
+maneuver provides protection for a one-in-a-thousand chance of being
+struck by your own frag when releasing at the minimum release altitude.
+When attacking as elements (and target overflight is required) the trailing
+aircraft must be concerned not only with his own frag, but also with the
+leading aircraft’s frag. Therefore, plan the attack so trailing aircraft avoid
+the frag pattern for the required time, altitude, and/or horizontal distance.
+
+TAC-2
+
+
+Text from TAC-2_Element_Attacks_page_8.jpeg:
+Figure D-1 depicts the frag pattern of a MK-82 general purpose (GP)
+bomb. Given a target density altitude (TDA) of 5000 feet, the frag pattern
+for a MK-82 remains a factor for 25.9 seconds, with a height of 2500 feet
+and a 2900 foot radius. This information comes from the Maximum
+Bomb/Rocket Fragment Travel Chart found in TO 1-1M-34, Chapter 6, a
+portion of which is depicted in Figure D-3 on page D-4. The chart provides
+information for both sea level and 5000 foot density altitudes (DAs).
+Values may be interpolated or extrapolated to 10,000 foot DAs. The frag
+pattern can be visualized as a cylinder and must be considered full of frag
+for the entire frag time of flight (taken from the Dash 34 chart or CWDS
+program) to ensure deconfliction.
+
+2500"
+
+vy
+
+TAC-02-01
+
+Figure D-1. Frag Pattern.
+
+Time Deconfliction
+
+Time spacing required between two aircraft is based upon the delivery
+time of fall (TOF) and how long the previous aircraft’s weapon frag is in
+the air. The amount of separation must be equal to or greater than the
+added values. In addition, if a ripple release is used, the time required for
+all of the weapons to be released from the aircraft must be included.
+
+TAC-2 D-2
+
+
+Text from TAC-2_Element_Attacks_page_9.jpeg:
+Delivery TOF is listed on the CWDS computer program printout as “TIME
+OF FALL FIRST RELEASE” (Figure D-4, page D-5), or on the ballistic
+tables produced by the CWDS program (Figure D-2). For example, 12
+MK-82 Air High Drags dropped on a level delivery at 550 KTAS and 500
+feet AGL, on a target with a density altitude of 5000 feet, have a TOF of
+6.46 seconds.
+
+AIC F-15E220
+
+WPN MK-82 AIR HD
+DELIVERY LEVEL
+
+SUSP BRU-46/A
+
+TDA 5000 FT
+RELEASE INTERVAL= 28 FT
+RELEASES INRIPPLE= 12
+
+RELEASE HORIZ RANGE SLANT RANGE TIME STICK SIGHT
+ALT TAS RELEASE TO RELEASE TO OF LENGTH DEPFR
+CENTER CENTER FALL FLIGHT
+
+OF STICK OF STICK PATH
+FT MILS
+
+00 46 6 39 08 86
+550 2862 6.46 308 179
+
+OUU O 0. US
+500 3429 9.57 308
+
+3547 9.66 308
+600 3653 9.72 308
+
+TAC-02-02
+
+Figure D - 2.
+
+D-3 TAC-2
+
+

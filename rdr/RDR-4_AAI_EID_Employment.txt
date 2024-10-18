@@ -1,0 +1,1028 @@
+Text from RDR-4_AAI_EID_Employment_page_1.jpeg:
+SUPPORTS COURSES
+FIS5EBQ
+FISETX
+
+ACADEMIC STUDENT WORKBOOK
+F-15E
+
+AIR-TO-AIR RADAR
+RDR-4
+AAI/EID EMPLOY MENT
+
+AUGUST 1999
+
+(SUITE 3 OFP)
+
+AIR COMBAT COMMAND
+
+
+Text from RDR-4_AAI_EID_Employment_page_10.jpeg:
+AAI/Radar Compatible Modes
+
+All radar search and track modes are compatible with AAI, except narrow
+(six-bar/15°) TWS, guns search and velocity search. AAI is operative and the
+appropriate reply symbology will be displayed with the radar in STBY or
+SNIFF (but only if interrogation is performed in noncorrelated fashion). AAI
+reply symbology will also be displayed on the A/G radar display. When the
+radar is functioning in the A/G RBM mode, interrogations are performed in
+the correct code mode, regardless of UFC settings, thus deleting any
+requirement for correlation. AAI is also functional with weight-on-wheels.
+
+UFC/AAI INTERFACE
+UFC AAI/EID Submenus
+
+For the purpose of this text, the mechanics of the AAI/EID submenus are
+almost identical. Aircrew HOTAS switchology will determine whether an
+interrogation sequence is based on the AAI submenu settings or EID
+submenu settings. The direction the aircrew moves the interrogation switch
+will determine which settings are used (AAI or EID).
+
+RDR-4 D-4
+
+
+Text from RDR-4_AAI_EID_Employment_page_11.jpeg:
+UFC Menu 1
+
+The modes selected for interrogating on both the AAI and EID submenus are
+displayed on Menu 1 at PB #8 (Figure D-1) with the A and/or E followed by
+the modes selected for interrogation. If the number of selected modes results
+in more characters than can normally be displayed, the legend at PB #3 (IFF)
+is shortened to just “I.” If the AAI/EID are slaved to the IFF, “S” is displayed
+as the last character. (More about slaving later in this text.)
+
+SELECTED MODES
+SLAVING SELECTED
+
+LAW 1000° STR 16.1C
+
+ITCN 112X A/P OFF
+
+IFF1234 A1234/E1234S
+
+(TF NORM N-F NORM
+
+|_| | U285.000G U340.000x
+
+Ey
+
+B
+3 vol
+SS=
+E
+6
+J
+Z
+. : c
+9
+J) J J
+q => (7 » 7
+EMIS
+u
+
+RDR-04-01
+
+UFC MENU 1 - AAI / EID SELECTED MODES
+
+[)
+
+Figure D - 1.
+
+D-5 RDR-4
+
+
+Text from RDR-4_AAI_EID_Employment_page_12.jpeg:
+With an appropriate scratchpad entry the selected modes/codes can be
+changed via PB #8. Acceptable entries are mode (or mode and N or C) or
+mode, dash and code (or mode, dash and code followed by N or C). AAI/EID
+slaving can be activated by entering “S” at PB #8.
+
+During an interrogation, more specific information concerning the progress of
+the interrogation is displayed as AAI or EID followed by the mode-code and
+
+C or N (Figure D-2).
+
+LAW 1000’
+
+STR 16.1C
+
+ITCN 112X
+
+AIP OFF
+
+IFF123C4
+
+AAI 2-7777C
+
+_| (Tf NORM
+
+N-F NORM
+
+_| [U285.000G
+
+U340.000x
+
+x C17
+
+® IGREC
+C/M
+°©Ors
+
+™—®
+
+gia
+
+UFC MENU 1 - INTERROGATIONS IN PROGRESS
+
+RDR-4
+
+Figure D - 2.
+
+CYCLES THROUGH MODES AS
+INTERROGATIONS PERFORMED
+
+POSSIBLE INDICATIONS:
+
+AAI 1-##C
+AAI 1-###N
+AAI 2-4##H#C
+AAI 2-7#HHEN
+AAI 3-44#H#C
+AAI 3-7#HHEN
+AAI 4AC
+AAI 4AN
+AAI 4BC
+
+AAI 4BN
+
+AAI 4ABC
+AAI 4ABN
+
+EID 1-##C
+EID 1-###N
+EID 2-##HHIC
+EID 2-#HHHIN
+EID 3-7HHHIC
+EID 3-#44#IN
+EID 4AC
+EID 4AN
+EID 4BC
+EID 4BN
+EID 4ABC
+EID 4ABN
+
+RDR-04-02
+
+
+Text from RDR-4_AAI_EID_Employment_page_13.jpeg:
+The AAI submenu (Figure D-3, left) is selected from UFC Menu 1. The EID
+submenu (Figure D-3, right) can only be selected from the AAI submenu
+(PB #8). Returning to the AAI submenu from the EID submenu requires
+returning to Menu 1. The selections on the UFC AAI and EID submenus
+determine what combinations of modes/codes will be interrogated at HOTAS
+(FCP or RCP) activation, whether the interrogation (for modes 1 thru 3) will
+be for mode only (N) or mode and correct code (C), and how many radar
+sweeps (2 or 4 at PB #9) will be utilized to interrogate each selected mode.
+
+BARS 20R4
+AUTO ID
+M4A (NOR C) OFF
+M4B (N OR C) SIT
+M4AB (N OR C) a
+
+|x M1-42N_ -AAI-
+x M2-1234C
+
+xX M3-4321N
+a
+
+U285.000G U340.000x L
+
+AAI SUBMENU EID SUBMENU
+
+RDR-04-03
+
+Figure D - 3.
+
+D-7 RDR-4
+
+
+Text from RDR-4_AAI_EID_Employment_page_14.jpeg:
+The modes to be utilized during an interrogation sequence are alternately
+selected (asterisk)/deselected (no asterisk) by depressing the appropriate push
+button. The codes and N (for interrogating mode only) or C (for interrogating
+mode and correct code) are selected via scratchpad entry as is selecting codes
+A, B or AB for mode 4. The code and/or N or C can be entered separately (i.e.,
+11 or C) or together (i.e., 11C, AN, BC, etc.). Changes (either to the AAI/EID
+submenu or through UFC Menu 1) cannot be input while an interrogation is
+in progress. A mode 4 interrogation uses the mode 4 codes (A, B, or AB)
+keyed into the IFF mode 4 system (door 3R) by maintenance personnel. Mode
+4A is the current day’s mode 4 code; 4B is the next day’s code. 4B (or 4AB)
+should normally only be interrogated after midnight Zulu to prevent
+compromising the next day’s codes. If the mode 4 is not keyed (has been
+dumped or zeroed) then there is no mode 4 interrogation capability because
+mode 4 interrogations are always performed as correct code (regardless of the
+N or C displayed on the UFC adjacent to the mode 4 legend). The mode 4
+switches on the FCP left console have no effect on the AAI system (except
+zeroing the mode 4 codes, which prevents mode 4 interrogation replies from
+being evaluated by the IRE).
+
+Toggling PB #9 on the AAI or EID submenus alternately selects 2 or 4. Each
+selected mode will be interrogated for the number of radar sweeps selected (2
+or 4).
+
+The AUTO ID feature on the AAI or EID submenu cycles among the following
+options:
+
+@ OFF - AUTO ID feature is off.
+@ STT - AUTO ID feature is active when the radar enters STT.
+
+@ PDT - AUTO ID feature is active when the radar enters a track mode,
+including STT, DTWS, DTT.
+
+@ AUTO ID-EID (on the AAI submenu) or AUTO ID-AAT (on the EID
+submenu) signifies that AUTO ID is active, but the selections on the other
+submenu will be utilized, when the AUTO ID feature initiates an
+interrogation sequence.
+
+The AUTO ID feature automatically starts an interrogation sequence (with
+no further aircrew action required), cycling through all selected modes when
+the radar enters STT (AUTO ID-STT), or track (AUTO ID-PDT), and the STT
+target or PDT does not already have a valid interrogation ID associated with
+it. In other words, the target has not been ID’d since current track on it was
+
+RDR-4 D-8
+
+
+Text from RDR-4_AAI_EID_Employment_page_15.jpeg:
+achieved. AUTO ID-PDT includes radar entry to STT. When an
+interrogation sequence is commanded by the AUTO ID feature, it is the same
+that would be commanded by a manual interrogation via aircrew HOTAS
+action to initiate the AAI or the EID programmed sequence. The AUTO ID
+feature is not applicable in the Highlight radar mode. For this purpose,
+Highlight is treated as a search, vice track mode.
+
+INTERROGATE SWITCHES
+
+The FCP coolie switch on the right throttle (right multifunction switch)
+(Figure D-4) is used to manually start or stop interrogations. Outboard
+deflection interfaces with selections on the UFC AAI submenu, while inboard
+deflection interfaces with selections on the UFC EID submenu. Command of
+the radar is not required.
+
+AAI INTERROGATE
+
+(OUTBOARD)
+EID INTERROGATE A/| SELECTION
+(INBOARD) (OUTBOARD TWICE
+
+WITHIN 1 SECOND)
+
+FCP THROTTLES RDR-04-04
+
+Figure D - 4.
+
+D-9 RDR-4
+
+
+Text from RDR-4_AAI_EID_Employment_page_16.jpeg:
+The RCP interrogate switch (Figure D-5) on the right hand controller is used
+to start or stop interrogating. Forward deflection interfaces with selections
+on the UFC AAI submenu, while aft deflection interfaces with selections on
+the UFC EID submenu. Command of the radar is not required.
+
+EID INTERROGATE (AFT)
+
+AAI INTERROGATE (FWD)
+
+A/| SELECTION (FWD TWICE
+WITHIN 1 SECOND)
+
+CO
+
+RCP RIGHT HAND CONTROLLER RDR-04-05
+
+Figure D - 5.
+
+RDR-4 D-10
+
+
+Text from RDR-4_AAI_EID_Employment_page_17.jpeg:
+An interrogation sequence is initiated with switch deflection (FCP or RCP),
+while there is no interrogation in progress. If the switch is held for less than
+1 second, the interrogation sequence stops when the switch is released. If the
+switch is held for longer than 1 second, the interrogation sequence is latched
+and continues until each mode selected on the appropriate UFC AAI or EID
+submenu has been interrogated for the selected number of radar sweeps.
+Given that the modes are selected, the interrogation sequence follows the
+order: mode 4 first, mode 1, mode 2 and then mode 3.
+
+The interrogation sequence stops when any of the following occur.
+
+@ All selected modes have been interrogated (each for the selected number of
+radar sweeps).
+
+@ The crew member initiating the interrogation stops the interrogation by
+deflecting the cockpit switch for greater than 1 second while an
+interrogation is in progress. The pilot cannot stop a WSO-initiated
+interrogation and vice versa. Kither crew member can stop an AUTO ID
+initiated interrogation. The interrogation switch can be deflected in either
+direction. (An AAI deflection will stop an EID interrogation and vice
+versa.)
+
+@ Ifthe radar isin STT or DTT, the interrogation sequence stops once the
+radar STT or DTT target is correlated with a friendly interrogation reply.
+(Important concept!)
+
+An AAT interrogation sequence cannot be initiated while an EID
+interrogation is in progress and vice versa. Changes to the interrogation
+parameters through the UFC cannot be made while an interrogation is in
+progress. If the aircrew stops an interrogation sequence, the next
+interrogation begins at the beginning of the UFC programmed sequence, not
+where the previous interrogation was stopped.
+
+D-11 RDR-4
+
+
+Text from RDR-4_AAI_EID_Employment_page_18.jpeg:
+RADAR/HUD INTERROGATION CUES
+Radar and HUD Cues
+
+A circle (high confidence mode 4 reply) or diamond (low confidence mode 4 or
+a mode 1, 2, 3 reply) can be displayed on the HUD and radar (A/A radar
+display or A/G radar display). The determinator of high confidence/low
+confidence for the mode 4 reply is, in simplified terms, a threshold ratio of
+total interrogation pulses versus valid replies.
+
+HUD Cues
+
+In the A/A, NAV and INST master modes and with the radar in a track mode,
+interrogation reply symbology (circle or diamond) is displayed in the HUD TD
+box commensurate with the last valid ID of the STT or current PDT (Figure
+D-6). The ID symbology appears where the TD box is commanded,
+independent of whether the TD box is actually being displayed. For example
+in GUNS track when the TD box and gun sight are coincident, the TD box is
+removed, but the interrogation reply symbology is still displayed. The circle
+or diamond is displayed while the interrogation sequence is in progress plus a
+few seconds of overrun after the sequence is complete. The overrun is usually
+2 - 5 seconds depending on what track mode the radar is in.
+
+TD BOX
+
+CORRELATED STT
+OR PDT (O OR©&
+
+16-2 16L
+
+HUD TD BOX WITH AAI REPLY RDR-04-06
+
+Figure D - 6.
+
+RDR-4 D-12
+
+
+Text from RDR-4_AAI_EID_Employment_page_19.jpeg:
+A/A RDR Cues
+
+During an AAI/KID interrogation sequence, an interrogation in-progress cue
+consisting of “AAT” or “EID” followed by the mode currently being
+interrogated and N (for normal) or C (for correct code) is displayed just above
+the BIT window (for example AAI 3N or EID 2C) (Figure D-7).
+
+AAI OR EID AND
+- MODE AND N ORC
+
+F
+L
+[e)
+[e)
+—d D
+= :
+— Cc
+D
+|_|
+A (ALL) ==
+OR —
+| (INTERROGATE)
+
+RDR-04-07
+
+Figure D - 7.
+
+Deflection of the AAI interrogation switch twice within 1 second will change
+the first BIT window character between “A” and “IT” to influence the
+requirement for correlation (Figure D-7). In STT/DTT, only the “T” will be
+displayed (STT always requires that the interrogation reply be correlated
+with the STT target). If a “C” is associated with any mode (on the UFC) the
+“T’ or “A” has no meaning and the interrogation, for that mode, will not
+require correlation with a radar target (except when the radar is in
+STT/DTT). For those modes with an “N” assigned on the UFC, including
+mode 4, the “I” will impose the requirement for correlation, while the “A” will
+delete the requirement for correlation (again except in STT/DTT).
+
+D-13 RDR-4
+
+
+Text from RDR-4_AAI_EID_Employment_page_2.jpeg:
+ADMINISTRATIVE INFORMATION
+
+This student workbook is designed to provide information on the F-15E,
+its systems and capabilities. It is not a sole source document, but is to be
+used in conjunction with other standard Air Force publications and
+technical manuals. If you find any differences between the material
+contained herein and other governing regulations, adhere to the
+regulations and notify the OPDR.
+
+Changes to this workbook are indicated with a heavy black line in the left
+margin.
+
+Forward recommendations for revision or change to 4 TS, SJAFB, NC,
+275381.
+
+Supersedes: RDR-4, July 1998
+
+OPDR: 4 TS
+
+Index of Changes
+
+Effective Date Pages Affected
+
+
+
+Text from RDR-4_AAI_EID_Employment_page_20.jpeg:
+As the system receives valid responses to interrogations (including a
+threshold level of the number of valid reply pulses) and correlation (if
+required), reply symbology (circles or diamonds) is displayed (Figure D-8).
+
+RADAR TARGET SYMBOLOGY
+
+REGULAR SEARCH:
+|
+
+HOT / COLD SEARCH:
+
+AVY
+
+VECTORED TRACK FILES:
+
+T
+
+SECONDARY DESIGNATED TARGET:
+
+PRIMARY DESIGNATED TARGET:
+
+Ww
+
+7
+
+INITIAL STT TRACK:
+
+ESTABLISHED STT TRACK:
+
+7
+
+RDR-4
+
+AAI SYMBOLOGY AAI SYMBOLOGY
+(CORRELATED WITH (NO CORRELATION WITH
+RADAR TARGET) RADAR TARGET)
+o> @ COO
+> @ > 0
+
+~? “°
+° 9 OO
+
+MIPPLEYy WITH: <> O o> oO
+ie Sle f ? Oo Oo
+STEADY AAI OR
+MIPPLES7 WITH: <> O OO
+STEADY AAI OR
+Mey CTE f ? o> O
+RDR-04-08
+Figure D - 8.
+D-14
+
+
+Text from RDR-4_AAI_EID_Employment_page_21.jpeg:
+If correlation is not required (and not accomplished), the reply symbology (an
+open circle or diamond) is displayed at the range and azimuth of the replying
+aircraft. Range is determined by the IRE alone, azimuth is determined by a
+radar/IRE interface. If correlation is not required, but is achieved, the
+correlated reply symbology is displayed at the radar target location (azimuth
+and range). If correlation is required, only correlated reply symbology will be
+displayed.
+
+If during the same interrogation sequence a valid reply is followed by a valid
+reply for another mode, the new symbology will replace the old, until replaced
+by another valid reply, or until the interrogation is complete. For example, a
+high confidence mode 4 reply symbol (circle) would be replaced by a mode 1, 2
+or 3 reply symbol (diamond). A diamond replacing a diamond actually occurs,
+but may not be discernable to the aircrew.
+
+For search targets, correlated replies replace the radar target only for the
+remainder of the duration of the interrogation sequence. In STT, the reply
+symbology replaces (or more likely mipples with) the STT target symbol for
+about 5 seconds. An important point is that in STT or DTT, and only in STT
+or DTT, once correlation is achieved, the interrogation sequence stops. If you
+were to have the radar in STT or DTT and attempted to interrogate your
+leader’s mode 1 discrete correct code, the system would never look at mode 1
+if it kept getting a correlated mode 4 reply. With all friendly aircraft
+squawking mode 4, interrogating in STT or DTT would never provide you
+with the discriminator that the STT or DTT target was indeed your leader.
+
+In TWS, uncorrelated replies and replies correlated with search targets are
+displayed as previously discussed. The PDT symbol mipples with the
+correlated interrogation reply symbol for the duration of the interrogation
+sequence plus 2 seconds overrun. In DTWS the interrogation sequence does
+not stop with a correlated reply (like STT or DTT) but rather continues
+through the UFC selected sequence. SDT symbols are replaced by reply
+symbols for as long as they remain SDTs.
+
+D-15 RDR-4
+
+
+Text from RDR-4_AAI_EID_Employment_page_22.jpeg:
+In STT, DTT and DTWS, the current ID status of the STT target or PDT is
+displayed in the radar upper left corner, below the bearing/range information
+and to the left of the target track data (TAS, aspect, heading) as a circle or
+diamond. If the PDT is stepped to an SDT, which is already correlated with
+an interrogation reply, the new PDT symbol mipples with its current ID
+symbol and the upper left corner of the radar displays the new PDT ID
+status. If the new PDT is not correlated with an interrogation reply, the
+AUTO ID process (if selected) will initiate an interrogation sequence (or the
+aircrew can manually initiate an interrogation sequence).
+
+If a radar target is correlated with an interrogation reply (in other words it
+has a current interrogation ID), placing the radar acquisition symbol over the
+radar target symbol will recall the ID. (The ID symbol will replace or mipple
+with the radar target as long as the acquisition symbol is coincident with the
+radar target.)
+
+EMPLOYMENT CONSIDERATIONS
+
+The AAI/EID system seems complicated, more so than it really is, largely
+because it provides so much flexibility in the cockpit.
+
+Consider the following points:
+
+@ Plan and brief how the system is to be used during a sortie. The Air
+Tasking Order (ATO) for combat or a combat exercise will likely be very
+specific on what is required from the system before a target can be
+declared hostile and ordnance can be employed. Generally some other
+criteria besides AAI will be required. Obviously, we would not shoot
+circles or diamonds, but generally the absence of circles/diamonds plus
+some other measure(s) (TEWS information, “Bandit” declaration by GCI,
+etc.) would be required to shoot. A common set-up technique is to use the
+AAT for station keeping (i.e., looking for codes within your flight/package),
+and EID for lack of friendly.
+
+@ During a trail departure/systems check, interrogate the preceding
+
+aircraft’s IFF squawks to ensure both his IFF and your AAI are working.
+It is best to interrogate the squawks one at a time and in correct code.
+
+RDR-4 D-16
+
+
+Text from RDR-4_AAI_EID_Employment_page_23.jpeg:
+@ Ifyou have multiple modes selected for interrogating, consider selecting
+only 2 bars. With all 4 AAI modes and 4 bars selected, the radar would
+have to sweep 16 times to complete the interrogation sequence. In 120°
+sweep (70°/sec scan rate), this would require almost 30 seconds. (With a
+head aspect target and 1200 knots closure, the fighter-to-target range has
+decreased by 10 miles). Two-bars per mode would cut the time in half.
+STT or a narrower azimuth sweep will also reduce the time required to
+complete an entire sequence. (Remember, in STT the interrogation
+sequence stops with the first correlated reply.)
+
+@ Ifyou are looking for a particular discrete squawk (correct code) consider
+selecting just that mode. With multiple modes selected, it is often difficult
+to tell which mode is giving you the reply symbology. Obviously, a circle is
+a high confidence mode 4. But a diamond could be a mode 1, 2, 3 or low
+confidence mode 4. Particularly in narrow sweep and two-bar
+interrogation, the modes are interrogated quickly and it is often difficult
+to match the reply with the information in the BIT window. In STT, the
+interrogation is very fast. Each mode in 2-bar takes about 1.3 seconds.
+The UFC and radar readouts for the mode currently being interrogated
+change too fast to be useful.
+
+@ The system not only helps you discriminate friendly from enemy or one
+friendly from another friendly, but in the uncorrelated mode it also helps
+you find the range and azimuth of a replying aircraft, so that you can use
+a narrower azimuth scan and just concentrate on elevation to obtain a
+radar target. You probably cannot overuse the system.
+
+@ In STT or DTT, once the system correlates a valid reply with the radar
+target, interrogation stops. If you were interrogating to get a mode 1
+reply (probably correct code) to positively ID your flight lead and the STT
+aircraft was replying to your mode 4 interrogation, you would never obtain
+the desired mode 1 reply. In STT or DTT, even more than in other radar
+modes, it is probably best to interrogate only the one mode if you are
+looking for a discrete reply.
+
+D-17 RDR-4
+
+
+Text from RDR-4_AAI_EID_Employment_page_24.jpeg:
+@ As you and your crewmate manipulate the interrogate switches, it is easy
+to inadvertently change the A/I logic. Check the BIT window frequently
+during interrogation sequences to ensure the appropriate A or I is
+selected.
+
+@ As well as the other purposes we have discussed, use AAI/EID for “see and
+avoid.” For example, on a low level route, you could set the AAI to
+interrogate mode 3-4000C (special use airspace military traffic) and the
+EID to interrogate mode 3-1200C (VFR traffic; and special-use airspace
+military traffic who forgot to change their squawk from M3-1200 to
+M3-4000).
+
+@ The AAI system has a big correlation window, and provides no correlation
+in altitude/elevation. Just because the radar symbology shows an
+interrogation reply symbol is correlated with a particular radar target, it
+does not mean that the radar target and the replying aircraft are
+definitely the same. It just means that they might be. Multiple
+interrogations, from the time an intercept begins until just prior to
+employing ordnance reduces the likelihood of a big mistake. Over time,
+the aircraft providing the false ID would likely move out of the correlation
+window. It is important to remember the absence or presence of
+interrogation replies for a single interrogation does not complete the task.
+
+Slaving
+
+Slaving the AAI and EID settings to the current IFF settings is accomplished
+by a scratchpad entry (“S”) into AAI (PB #8) on UFC Menu 1 or toggling AAT
+SLV (PB #7) on the IFF submenu. Slaving can only be deselected on the IFF
+submenu. When slaving is selected, “S” follows the selected AAI modes
+displayed on UFC Menu 1. When slaving is selected, each time the IFF
+system changes to a new phase (IFF phasing), both the AAI and EID (modes
+1 through 3) change to mimic the IFF (which modes are selected and the
+codes associated with modes 1 and 3). Slaving does not affect mode 4 and
+does not affect the mode 2 code, only whether mode 2 is selected or
+deselected. When slaving is selected, an aircrew manual change to the IFF
+(modes 1 through 3) causes the AAI and EID selections to mimic the changes
+made to the IFF. When an IFF change (phasing or manually) is implemented
+to the AAI/EID system, it changes the affected mode to correct code (C). If
+the aircrew desires mode-only interrogation [(N) for modes 1 through 3] or
+correlated-only interrogation [(N) for modes 1 through 4], the AAI/EID
+settings would have to be reset following the change (phasing or manual).
+Hence, although slaving has value in some situations, the aircrew must
+realize the impacts.
+
+RDR-4 D-18
+
+
+Text from RDR-4_AAI_EID_Employment_page_25.jpeg:
+END OF TEXT QUIZ
+Mode 4 interrogation
+
+never requires correlation with a radar target.
+
+always requires correlation with a radar target.
+
+requires correlation with a radar target only in STT/DTT.
+
+can be correlated or noncorrelated (if the radar is not in
+STT/DTT) dependent on UFC AAI/EID submenu selections (N
+or C).
+
+po op
+
+Which of the following is true concerning correlated versus
+noncorrelated interrogation?
+
+a STT never requires correlation.
+
+b. STT always requires correlation.
+
+c. STT correlation requirements are dictated by UFC AAI/EID
+submenu settings and whether A or I is displayed in the radar
+BIT window.
+
+d. STT correlation requirements are dependent on whether modes
+1 through 3 or mode 4 is being interrogated.
+
+UFC AAT/EID bar settings are 2 or 4 (for modes 1 through 4) and
+
+a. determine the number of radar frames the system will
+interrogate each selected mode.
+
+b. determine the number of radar sweeps the system will
+interrogate each selected mode.
+
+c. are not used during AUTO ID (PDT or STT) interrogation (the
+IRE S1/S2 settings are used instead).
+
+d. are used only in correct code interrogation.
+
+E-1 RDR-4
+
+
+Text from RDR-4_AAI_EID_Employment_page_26.jpeg:
+4. Concerning the AUTO ID feature,
+
+a. separate settings can be simultaneously selected on the
+AAI/EID submenus (i.e. AUTO ID-PDT on one submenu and
+AUTO ID-STT on the other).
+
+. AUTO ID can only be mechanized to the AAI submenu settings.
+
+c. with AUTO ID-PDT or SDT selected on one submenu (AAI or
+EID), the other submenu will show AUTO ID-OFF.
+
+d. with AUTO ID-PDT selected the system will perform an
+automatic interrogation when the radar enters STT.
+
+5.  Ifan interrogation sequence is terminated by the aircrew prior to its
+completion, the next interrogation sequence
+
+a. begins where the previously terminated one ended.
+
+b. begins at the beginning of the UFC selected sequence.
+
+c. will always begin with mode 4, even if mode 4 is not selected on
+the UFC.
+
+6. With the radar in STT, the radar interrogation in-progress cue will
+
+display
+
+a. AATor EID followed by the current mode and N or C.
+b. AAT or EID followed by the current mode and code.
+
+c. AAT or EID followed by STT.
+
+d. AUTOIDSTT.
+
+RDR-4 E-2
+
+
+Text from RDR-4_AAI_EID_Employment_page_27.jpeg:
+7. While using the A/G radar display, you wish to use the AAI to check
+your spacing on the preceding aircraft of a trail formation. You must
+
+a.
+
+b.
+
+return to the A/A radar; you cannot use the A/G radar for this
+task.
+
+ensure that your UFC AAI/EID code setting(s) match the IFF
+code(s) of the interrogated aircraft.
+
+perform your interrogation in normal, with I selected in the
+radar BIT window.
+
+use mode 4, as it is the only mode that is displayed on the A/G
+radar.
+
+E-3 RDR-4
+
+
+Text from RDR-4_AAI_EID_Employment_page_28.jpeg:
+(This Page Intentionally Blank)
+
+RDR-4 E-4
+
+
+Text from RDR-4_AAI_EID_Employment_page_29.jpeg:
+GLOSSARY
+
+AAI Air-to-air interrogator
+
+ATO Air tasking order
+
+DTT Dual target track
+
+DTWS Designated track-while-scan
+EID Enhanced identification
+
+HOTAS Hands on throttle and stick
+
+HPRF High pulse repetition frequency
+IRE IFF reply evaluator
+
+KIR Interrogator computer
+
+LRU Line replaceable unit
+
+MPRF Medium pulse repetition frequency
+PDT Primary designated target
+
+R/T Receiver/transmitter
+
+STT Single target track
+
+TWS Track-while-scan
+
+UFC Upfront control
+
+F-1 RDR-4
+
+
+Text from RDR-4_AAI_EID_Employment_page_3.jpeg:
+AIR-TO-AIR RADAR
+
+COVER
+
+AAIT/EID EMPLOYMENT
+INTRODUCTION
+
+This workbook is your guide in studying the F-15E AAT set, including
+selecting options on the UFC, FCP HOTAS/RCP hand controller
+switchology, interrogation in-progress cues displayed on the UFC and
+radar display, and interrogation reply cues displayed on the radar and
+HUD.
+
+CONTENTS:
+
+INTRODUCTION 0.000. eecccsssecesseecesneeecesaeecesaneccesaeesessaeesesaeesesaees A-1
+CRITERION REFERENCED OBJECTIVES (CROs)............eeeeeeeeeeees B-1
+STUDENT PREPARATION REQUIREMENTS . 0.0... eeeeeeees C-1
+TEXT oc eccceccceesseeecesssneeeceesseeeccessseeeceesseeeecesssseeeseeseaaeseseessaeeeseees D-1
+END OE TEXT QUIZ sess ses sess sows sues suns sire seve ese ones suns sues suns seis ens ae sews sues sur au E-1
+GLOSSARY. eeccceesceceesneeeesseeecssacecesaeeessaeecesaaeeessaeeeeeaeesesaeeeeeaeeees F-1
+
+A-1 RDR-4
+
+
+Text from RDR-4_AAI_EID_Employment_page_4.jpeg:
+CRITERION REFERENCED OBJECTIVES (CROs)
+1. Identify the operating characteristics of the AAI system, including:
+a. Normal (N) and Correct Code (C) interrogation
+b. Correlated and noncorrelated interrogation.
+
+2. Identify aircrew actions required to program the UFC AAI/EID
+selections.
+
+3. Identify the FCP HOTAS/RCP handcontroller switchology to
+start/stop interrogations and to select the All (A) and Interrogate (I)
+
+interrogation modes.
+
+4. Identify the radar interrogation in-progress cues and the radar/HUD
+interrogation reply symbology.
+
+REFERENCES
+
+TO 1F-15E-34-1-1 AIR-TO-AIR INTERROGATOR (AAT) SET
+
+RDR-4 B-1
+
+
+Text from RDR-4_AAI_EID_Employment_page_5.jpeg:
+STUDENT PREPARATION REQUIREMENTS
+BEFORE CLASS
+
+Study the information contained in this workbook and complete the quiz.
+
+C-1 RDR-4
+
+
+Text from RDR-4_AAI_EID_Employment_page_6.jpeg:
+(This Page Intentionally Blank)
+
+RDR-4 C-2
+
+
+Text from RDR-4_AAI_EID_Employment_page_7.jpeg:
+TEXT
+INTRODUCTION
+
+The F-15 air-to-air interrogator (AAI) set hardware is largely unchanged
+since the Eagle’s inception. However, due to software changes, AAI system
+capabilities have evolved significantly over the years. The current F-15E AAI
+system software (and radar software) provides significantly improved
+flexibility and ease of use/interpretation.
+
+However, the overall system still exhibits characteristics and anomalies,
+which, if not fully understood by the user, can adversely affect results and
+aircrew interpretation. The consequences could range from rejoining on the
+wrong aircraft to fratriciding a friendly aircraft in combat.
+
+SYSTEM DESCRIPTION
+
+The aircrew utilizes the UFC to select how the interrogation is to be
+implemented, and switchology (both A/A radar and AAI) to influence the
+conduct of the interrogation. The progress of the interrogation is displayed
+on the UFC and A/A radar and the results are displayed on the A/A or A/G
+radar and the HUD. The AAI provides the radar with interrogation
+information and the radar is responsible for processing the AAI hardware
+inputs, so that they are visually displayed to the aircrew (on the radar
+display and HUD).
+
+AAI Components
+
+The IFF reply evaluator (IRE) is the main unit of the system. It is located on
+the right side of the aircraft’s nose (in door 3R). It provides generation of
+interrogations (based on aircrew selections), reply evaluation and radar
+interface functions. The radar provides the IRE with information required to
+produce interrogation and process replies, including radar mode, scan rates
+and antenna azimuth position. The IRE monitors AAI system failures and
+LRU (line replaceable unit) status and provides inputs to the aircraft BIT
+system.
+
+The IFF interrogator receiver/transmitter (R/T) is also located in door 3R. It
+contains a power select switch, which is a holdover from previous versions.
+(The R/T represents the only significant hardware change). The F-15E R/T
+always uses maximum power, regardless of the switch setting. There are two
+separate receivers.
+
+D-1 RDR-4
+
+
+Text from RDR-4_AAI_EID_Employment_page_8.jpeg:
+The Interrogator Computer (KIR) produces mode 4 interrogations, decodes
+mode 4 replies and determines their validity. It is also located in door 3R.
+
+The AAI dipole array is part of the radar antenna, composed of ten L-band
+dipoles mounted on the antenna face and cabling/hardware on the back of the
+main radar antenna.
+
+OPERATING CHARACTERISTICS
+Normal (N) Versus Correct Code (C) Interrogations
+
+Whether interrogation is normal or correct code is determined by aircrew
+selections on the UFC (an N or C adjacent to the selected mode/code on the
+AAI/EID submenus), and whether the interrogation is for modes 1 thru 3 or
+for mode 4. For modes 1 thru 3, the aircrew can determine, through the UFC
+selection, whether only replies that are correct in both mode and code will be
+displayed on the radar (C), or whether mode replies will be displayed, even if
+the code does not match the UFC code setting (N). For mode 4, the N or C
+next to mode 4 on the UFC has no meaning with respect to normal or correct
+code interrogation; mode 4 always requires a correct code (4 A or 4 B) reply,
+or the reply symbology will not be displayed. The mode 4 selection of N or C
+does have meaning, however, with respect to correlated versus noncorrelated
+interrogation.
+
+Correlated Versus Noncorrelated Interrogation
+
+The aircrew can select to have interrogation replies displayed on the radar
+that are not correlated with a radar target (symbol). The advantage of this
+method of interrogation is that it provides the azimuth and range of aircraft
+that might be of interest to the aircrew. The aircrew can then manipulate
+the radar (azimuth scan volume, PRF, altitude coverage, etc.) to obtain the
+corresponding radar target. Alternatively, the aircrew can select to have
+interrogation replies displayed on the radar only if they are correlated with a
+radar target (symbol). The advantage of this method of interrogation is that
+the aircrew is not encumbered by replies outside the area of interest being
+searched by the radar. For example, an aircrew flying at 500 feet may not be
+interested in aircraft flying at 50,000 feet. The aircrew can select, via FCP
+HOTAS/RCP hand controller switchology whether an I (Interrogate) or an A
+(All) is displayed as the first character in the radar BIT window, while an
+interrogation is in progress. By selecting “A” in the radar BIT window, the
+aircrew deletes the requirement for correlation for all interrogation modes
+with “N” selected on the UFC. By selecting “I” in the radar BIT window, the
+aircrew imposes the requirement for correlation for all interrogation modes
+
+RDR-4 D-2
+
+
+Text from RDR-4_AAI_EID_Employment_page_9.jpeg:
+with “N” selected on the UFC. All modes with “C” selected on the UFC do not
+require correlation, regardless of the “A/I” setting displayed in the radar BIT
+window. However, STT or DTT always require correlation with the STT or
+PDT target, regardless of the UFC “N or C” setting. During interrogations
+with the radar in STT or DTT, the radar BIT window will only display “I”
+regardless of aircrew actions.
+
+If an interrogation reply cannot be correlated with a radar target and the
+aircrew selections require correlation (or the radar is in STT or DTT), the
+reply symbology will not be displayed. Even if the aircrew has selected that
+interrogation reply symbology be displayed without correlation with a radar
+target, the system will correlate (and show correlated symbology) if able, but
+will also display uncorrelated reply symbology.
+
+Correlation Window
+
+When correlation with a radar target is required for radar display of
+interrogation reply symbology, the correlation requirements are normally +4°
+(but possibly as much as +8°) in azimuth and +2 nm in range (for a HPRF
+target) or +8000 feet in range (for a MPRF target). There is no correlation
+requirement in elevation. Incidentally, although interrogation reply symbols
+will be displayed only within the current radar display range and the
+azimuth limits of the current radar sweep, the elevation capability of the AAI
+dipole antennas is much larger than the elevation coverage of the radar’s
+main antenna. The dipole antennas cover a 35° cone centered on the radar
+main antenna elevation. For example, in six-bar RWS at 25 nm the radar
+altitude coverage is 20,000 feet, but the AAI coverage is about 87,500 feet. If
+correlation is not required, the interrogation replies from aircraft well outside
+the normal radar altitude coverage will be displayed. Regardless of whether
+correlation is required or not, a valid reply from an aircraft well above or
+below a radar target (but meeting range and azimuth correlation
+requirements) will be correlated with that radar target.
+
+Although the radar and IRE work together to determine the azimuth of the
+interrogation reply, the IRE alone determines the range of the reply and
+neither the radar nor the IRE assesses the altitude. Again, even though the
+aircrew has made selections that delete the requirement for correlation, if the
+radar/IRE determine the interrogation reply meets the range/azimuth
+correlation criteria with a target in radar memory, they will perform the
+correlation and the aircrew will view correlated symbology on the air-to-air
+radar. Because the correlation window is so large, it is commonly referred to
+as the “correlation phone booth” and the aircrew must be keenly aware that
+replies from one aircraft can be correlated with a different radar target.
+
+D-3 RDR-4
+
+

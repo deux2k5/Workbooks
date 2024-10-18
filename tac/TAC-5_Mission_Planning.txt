@@ -1,0 +1,1129 @@
+Text from TAC-5_Mission_Planning_page_1.jpeg:
+SUPPORTS COURSES
+FIS5EBQ
+FISETX
+
+ACADEMIC STUDENT WORKBOOK
+F-15E
+
+TACTICS
+TAC-5
+MISSION PLANNING
+
+FEBRUARY 1999
+
+(OFP N/A)
+
+AIR COMBAT COMMAND
+
+
+Text from TAC-5_Mission_Planning_page_10.jpeg:
+TARGET AREA PLANNING
+
+Since the target is the focal point of the mission, working from the target
+backward is the normal planning priority. Once a target is determined,
+the following information needs to be collected.
+
+Target Study Materials
+
+A unit intelligence target specialist should be relied upon to get you the
+best available information about your target. Figure D-1, for example,
+shows an aim point graphic that contains WGS-84 coordinates (i.e., what
+your INS uses), an overhead photo, a 1/250,000 and 1/50,000 scale map of
+the aim point and its elevation.
+
+Although HHQ (higher headquarters) and local planning staffs should
+crosscheck the Joint Munitions Effectiveness Manual (JMEM) for target
+and ordnance compatibility, do a simple logic test yourself. Going to the
+target with the best available ordnance load the first time may reduce the
+need to return a second time.
+
+Target orientation is also important in some cases. Your ordnance may
+dictate running down a runway rather than across it, for example. The
+time of day, visual ID requirements, and surrounding terrain all play
+some part in determining your attack profile.
+
+Time of day and attack axis can significantly alter the IR characteristics
+
+of the target area. This must be considered when planning attacks that
+require an IR sensor for delivery or guidance.
+
+TAC-5 D-4
+
+
+Text from TAC-5_Mission_Planning_page_11.jpeg:
+AIM POINT GRAPHIC UNCLASSIFIED | WGS GEODETICS
+
+37-19.832N
+WAS et 116-47.035W
+
+363-19-07 ; ELEV FT (MSL) 05540
+
+POINT DESCRIPTION DSC
+NE CORNER OF BUILDINGS
+
+(BDD)
+REF CHART/ SCALE VER ACC
+$/200 ATC FT 90%
+
+1:200,000 VER ACC
+FT 90% MSL
+
+PHOTO DATE APG PUB DATE
+JUL 93 20 JAN 94
+
+UNCLASSIFIED
+
+SAC FORM 444 MAR 87
+
+Figure D - 1. Aim Point Graphic.
+
+M6S-9¢-91 4
+NOS-61-Ze
+
+9
+x
+a
+4
+@
+m
+[e}
+2
+au
+z=
+92
+n
+;
+<
+4
+C
+°
+Ss
+
+TAC-05-01
+
+TAC-5
+
+
+Text from TAC-5_Mission_Planning_page_12.jpeg:
+Threats
+
+While evaluating target orientation, consider terminal threats which, if
+known, may be avoided with sufficient planning. If the terminal area
+threats cannot be avoided or suppressed, they will dictate the use of
+minimum exposure tactics, attack ingress and egress axis, and altitudes.
+
+Attack Axis Selection
+
+The threat and target-ordnance compatibility will dictate your attack axis.
+If not, choose an approach to the target that best suits your delivery. For
+example, if a long range loft delivery is the option of choice using radar or
+laser ranging, you need to ensure that you have unobstructed line-of-sight
+to the target in sufficient time to get valid ranging. An attack axis that
+places terrain between you and the target during the delivery can produce
+ranging errors that could cause excessive miss distances. For planned
+visual deliveries, choose significant visual update points that allow you to
+work big to small and lead you to the target.
+
+For LGB deliveries choose an attack axis that will give line of sight to the
+target for prerelease acquisition and throughout the planned designation
+maneuver. Run-in heading or designation maneuver may have to be
+altered to reduce podium affect for LGB guidance.
+
+Weather
+
+Target area weather can be a main determinant of how you plan your
+attack. A low ceiling generally denies visual diving deliveries. If not
+planned for, bad weather can directly affect mission success.
+
+When coordinating with the forecasters, determine the expected ceiling,
+visibility, freezing level, winds, target area altimeter setting, contrail
+level, transmissivity and note other hazards. For sequential visual or IR
+attacks, plan so that the smoke from the bomb explosion of the first
+aircraft does not obscure the target area for following aircraft. This may
+be complicated by the effects of wind. Develop a plan but be flexible
+enough to adjust to the conditions actually encountered.
+
+Sun azimuth and elevation can be used to your advantage. Attacking or
+egressing using the sun can degrade enemy IR systems in the target area
+
+and make you more difficult to acquire visually.
+
+By the same token the sun can also degrade your ability to find the target,
+particularly in low sun angle conditions. Pull-ups for loft and diving
+
+TAC-5 D-6
+
+
+Text from TAC-5_Mission_Planning_page_13.jpeg:
+deliveries can also be a problem when running toward the sun. The HUD
+presentation can, at times, be totally washed out.
+
+Planned Ordnance
+
+When fragged with unfamiliar ordnance or fuzes, make a thorough review
+of preflight requirements in TO 1-1M-34 and TO 1F-15E-34-1-1. Set the
+applicable laser code, ECM setting, spin rate, etc. Review the applicable
+carriage, employment, and jettison limits contained in Chapter 5 of the
+Dash 1. If JMEMs or experience tells you another munition would be
+more effective, coordinate to change the fragged ordnance.
+
+Frag Deconfliction
+
+For element attacks you have to plan for frag deconfliction between
+members of the flight. The basic approaches are to use time, altitude or
+horizontal methods. Refer to TAC-2 and TO 1-1M-34 for a detailed
+discussion. Specific safe escape maneuvers are found in TO
+1F-15E-34-1-3. Escape maneuver execution should be briefed for each
+delivery.
+
+Attack Profile Selection
+
+Attack profiles are chosen to survive the threat and achieve the required
+accuracy and weapon effects. Level and diving deliveries require target
+overflight and provide the crew the most time to correct for navigational
+errors. The major problem is that a “show” target is normally required.
+Terminal area threats, however, may dictate the use of standoff deliveries.
+Low altitude toss (sensor designated or visual) and loft deliveries provide
+some degree of standoff.
+
+Once the profile is decided, an immediate reattack option should be
+planned to deal with system degrades or threat reactions.
+
+The reattack plan must be coordinated to provide deconfliction from other
+aircraft in the strike package. This may mean flowing out of the target
+area and reattacking during an alternate TOT, or a reattack within the
+original TOT window. Time constraints imposed by support assets may
+also alter/affect the reattack plan. You must ensure SEAD and other
+support assets critical for success have the fuel/weapons to stay on station
+for a reattack.
+
+D-7 TAC-5
+
+
+Text from TAC-5_Mission_Planning_page_14.jpeg:
+Delivery Computations
+
+Auto deliveries allow flexibility but ballistic computations still need to be
+done to ensure that fuze arming and safe escape requirements are met.
+Take the time to plan a manual back-up in the event of CC failure. TO
+1-1M-34, TO 1F-15E-34-1-8, and/or the CWDS program are required for
+this. The need to default to a back-up delivery may cause a change in the
+ingress flow to the target.
+
+Delivery
+
+Use target study to develop the best attack axis and desired delivery type.
+With this information, work backwards from the target to an initial point
+(IP). Look for a routing that makes maximum use of the terrain for
+masking and navigation updating. Since most targets worth hitting will
+be defended and/or camouflaged you may need to use terrain and cultural
+features to funnel yourself to find the target. Having a good idea of the
+big things around the target enhances visual search and helps to acquire
+the target in time to employ ordnance. For system auto and loft deliveries
+the same planning discipline helps you to verify the designation prior to
+the pull.
+
+Sensor Integration
+
+Sensor integration requires adequate preflight planning. Planning for the
+air-to-ground radar and TGT IR is discussed in detail in a separate Sensor
+Planning lesson. The considerations addressed there apply in the target
+area as well.
+
+Targeting IR planning begins with your inputs to the forecaster. The
+Tactical Decision Aid (TDA) they supply will allow you to plan when to
+take action and at what range to expect to have usable video. The second
+requirement is to attain line-of-sight with the target or offset.
+
+Real beam map (RBM) is also a viable alternative if it is properly planned.
+If nothing else, have an idea of what the scope should look like prior to
+commanding an HRM map. Targeting can also be accomplished using
+RBM. The switch actions and flow are identical to HRM, but radar scope
+interpretation is much more difficult.
+
+TAC-5 D-8
+
+
+Text from TAC-5_Mission_Planning_page_15.jpeg:
+Target Designations
+
+With proper planning you will get airborne with a NAV designation at a
+minimum. To enhance designation accuracy, update the system at some
+point prior to the target (the closer the better). With a tight INS, a
+mission nav reset prior to the attack run may provide sufficient accuracy
+for visual deliveries.
+
+The procedures and planning considerations involved in getting a radar
+designation were discussed in detail in A/G radar academics. To reduce
+the errors induced by coordinate transformations, try to map target direct
+whenever possible. Update the MN and then designate.
+
+In determining the type of designation, always start with the most
+accurate as the primary option. You should default down the hierarchy
+only as required to handle system degradation, or to counter the threat.
+
+In a composite threat environment, a good rule of thumb is to
+update/designate early and often. This keeps you from missing the
+planned opportunity due to threat reactions, degraded systems or switch
+errors. Do not forget to evaluate and, if necessary, to update system
+altitude. It is a vital component of the bombing equation and sensor
+cueing.
+
+NAV FLIR
+
+If the navigation pod is loaded it can be used to see through some of the
+smoke and dust that may be present in the target area. The FLIR may
+not be used alone. Night/low altitude deliveries will normally use the TF
+system. A nav pod boresight in this case is extremely important if a visual
+delivery is planned.
+
+Finalizing the Plan
+
+Once the routing from the IP to the target is decided, start developing the
+big picture of where all the other known players will be during the ingress
+and egress. Within your formation, know where each flight member will
+be throughout the attack flow and be attentive to where conflicts may
+develop. The biggest problem is frag deconfliction. Review the plan in
+detail to be sure that minor deviations do not cause unacceptable risk.
+
+D-9 TAC-5
+
+
+Text from TAC-5_Mission_Planning_page_16.jpeg:
+Attack Schematic
+
+Now the ideas of how to get into and out of the target area need to be put
+down on paper. In this case an attack schematic or stick diagram is a
+useful tool. As seen in Figure D-2, show the intended route of flight,
+emphasize significant terrain or cultural features, and show how the
+formation flows out of the target. Placing the diagram on a 1:50,000 scale
+chart works well, but at times the extensive detail can be distracting.
+Techniques for putting additional information on the schematic vary. For
+illustrative purposes, heading and distance from the IP to a pull-up-point
+are included. Do not forget to include INS data on your schematic. With a
+good update/designation, distance and heading information is extremely
+accurate. This will help save the delivery when you have to jink for
+threats and use a different attack axis. The final attack heading and
+ballistic parameters are also available. The egress flow takes into
+consideration each frag pattern, and a bugout heading to a clear area is
+the first heading on the egress.
+
+TAC-5 D-10
+
+
+Text from TAC-5_Mission_Planning_page_17.jpeg:
+CALL SIGN | AREA/TIME | GCI/FREQs |JOKER/BINGO
+/\ 43,
+
+ATTACK TYPE
+20/20 HI SPLIT
+
+45°L/3.8NM
+
+SPLASH #1 ==
+
+vac cee 37°R/4.3NM sage 7"
+500KCAS —ennpACK = 5 4NM
+
+5.7
+
+7.2
+REL 5.0
+
+MIN 4.5
+20° DIVE 450 KCAS
+
+12
+115°/9.2NM AOD 3.9
+28" % DIL 62%
+
+TAC-05-02
+
+Figure D - 2. Attack Schematic.
+
+D-11 TAC-5
+
+
+Text from TAC-5_Mission_Planning_page_18.jpeg:
+EN ROUTE NAVIGATION
+
+Route of flight may be dictated in the ATO. If not, the choice of routing
+should consider circumnavigating the threat, if fuel permits. Also look at
+the intelligence situation and pick a routing that minimizes exposure. If
+support assets like jammers or HARM platforms are working in a specific
+area, approaching near their sector may be beneficial. Again, threats and
+fuel are the biggest determinants in route selection.
+
+Steer points along the route should be visually significant to aid in
+navigation and system updates. Remember when choosing steer points or
+a route of flight that a good visual point (e.g. bridge or major intersection)
+may be heavily defended. A harder to identify but less heavily defended
+point may be better. Work with intelligence to get the best possible
+coordinate information for aim points and offsets along the route. Plan
+several offsets/aim points on the friendly side of the forward edge of the
+battle area (FEBA). Once in enemy territory, you may not have a chance
+for another update. However, additional offsets/aim points should be
+planned, and used if threats allow. When approaching the target area,
+you want your system as accurate as possible.
+
+Fuel Planning
+
+Fuel planning, using manual charts from the TO 1-F-15E-1-1 or AFMSS,
+has to include all expected dashes in the target area, crossing the FEBA,
+and maneuvering defensive reactions. If carrying external tanks, decide
+on a feed plan that allows survival. In a dense air threat environment,
+you may consider feeding CFT fuel prior to external tank fuel to be able to
+reduce gross weight quickly if defensively engaged. Make sure you always
+plan enough to get to a divert base.
+
+Remember that fuel planning is directly affected by your choice of altitude
+and speed. Go only as low and only as fast as required. An immediate
+transition from takeoff to 300 feet for a 250-mile trip to the FEBA is
+probably not tactically required or prudent from a planning perspective.
+
+Joker and Bingo fuel planning should be based on a best case, and a
+HUNG ordnance worst case. Theater rules will dictate minimum fuel
+requirements for recovery. Plan ahead for fuel divert fields and do not
+press the issue; divert early and avoid the rush.
+
+Rule of thumb: Use 2000-2500 lbs/min for AB.
+
+TAC-5 D-12
+
+
+Text from TAC-5_Mission_Planning_page_19.jpeg:
+Formation Selection
+
+The formation chosen is most influenced by the threat. Weather, terrain
+and aircraft/crew capabilities will also influence the type of formation.
+While going from one formation to another ensure the radar and visual
+search responsibilities are commensurate with the threat. Radar sorting
+plans may also need to be modified. See AFTTP 3-1, Volume XVII and
+AFTTP 3-3, Volume XVII for more detail.
+
+If running nonvisual parallel tracks with another aircraft or element, be
+very specific about deconfliction rules and sort/commit criteria. Parallel
+tracks work well when attempting to push a large number of aircraft
+through an area simultaneously. This has application when attempting to
+saturate the defenses but more so when taking advantage of suppression
+efforts that have short influence times.
+
+Low Altitude Considerations
+Terrain
+
+To help reduce the chances of being visually acquired, attempt to fly over
+roughly textured terrain to break up the aircraft's shadow. Flying in the
+shadow of a cloud or mountain can also help. When given the option, fly
+around any body of water, dry lake bed, open field, or similar areas. They
+provide easy line-of-sight and good fields of fire. Climbing to diffuse your
+shadow over this type of feature may require an altitude of 4000-5000 feet
+and is probably not tactically sound.
+
+Avoid flying along lines of communication like highways, canals, rail lines,
+power lines, etc. This applies on either side of the FEBA. On our side of
+the FEBA you are relying on being rapidly identified as a friendly. This
+may not occur. You may also be flying across the enemy's target area.
+Cross these areas as close to 90° as possible to minimize exposure. Always
+be prepared to defend yourself.
+
+Altitude and Airspeed
+
+Go only as low and only as fast as dictated by the tactical situation. Use
+420 KCAS as an operational minimum at low altitude. Maximum speed is
+determined by stores, systems (TF), ROE, other aircraft in the package or
+basic aircraft limit. Use speed to compensate for timing to meet a TOT.
+Planning a route correction (turning short or extending a turn point)
+eliminates dramatic power changes. Techniques vary, but use of
+command ground speed or ETA on the Data 1/2 page are the most
+common.
+
+D-18 TAC-5
+
+
+Text from TAC-5_Mission_Planning_page_2.jpeg:
+ADMINISTRATIVE INFORMATION
+
+This student workbook is designed to provide information on the F-15E,
+its systems and capabilities. It is not a sole source document, but is to be
+used in conjunction with other standard Air Force publications and
+technical manuals. If you find any differences between the material
+contained herein and other governing regulations, adhere to the
+regulations and notify the OPDR.
+
+Changes to this workbook are indicated with a heavy black line in the left
+margin.
+
+Forward recommendations for revision or change to 4 TS, SJAFB, NC
+27534.
+
+Supersedes: TAC-5, September, 1997
+
+OPDR: 4 TS
+
+Index of Changes
+
+Effective Date Pages Affected
+
+
+
+Text from TAC-5_Mission_Planning_page_20.jpeg:
+FEBA/FLOT/FSCL Crossing
+
+Front line defenses both on the ingress and egress have to be dealt with.
+Conditions permitting, high altitude overflight of short range air defenses
+is preferred. If this is not possible, a low level penetration option needs to
+be planned. First, visually supportive formations should be used to
+provide warning of short range stern engagements. AN/ALE 45
+programming should be planned based on the expected threat, but use
+should be driven by observed threats. AFTTP 3-1, Vol II contains a good
+discussion of reactive and preemptive defensive maneuvering reactions for
+both AAA and short range missile engagements. Review that section and
+incorporate the appropriate reactions in your training scenarios.
+
+Plan to cross the FEBA where there are minimal to no threats. The
+enemy cannot be everywhere. When approaching the FEBA, align to cross
+perpendicular if possible. This limits exposure by providing the shortest
+path into the rear area. This desire needs to be tempered with some
+judgment. A more oblique routing over terrain that is unaccessible to
+ground forces may be a better option.
+
+Prior to FEBA crossing, EMCON becomes a real factor in limiting the
+enemy's engagement capability. Whether EMIS LIMIT or selective
+shutdown of emitters is used, deny passive detection if able. If the enemy
+uses passive detection to orient air defenses the first indication of
+detection may be a missile in the air.
+
+Threat Reaction
+
+The first rule is to avoid the threat. Plan formations and route of flight to
+optimize radar and visual search. Offset any known surface threat or
+enemy CAP obtained in the pre-mission intelligence briefing. If engaged
+en route, strive to maintain element integrity. When engaged by a surface
+threat, establishing a flow away from the threat and toward the next steer
+point will keep you from anchoring in a high density surface threat
+environment. Under certain circumstances your ordnance can be used in
+self-defense, such as in a bomb-in-face (BIF) maneuver.
+
+Strip criteria and element threat reactions need to be briefed in detail and
+a rejoin flow established to maintain/regain mutual support.
+
+TAC-5 D-14
+
+
+Text from TAC-5_Mission_Planning_page_21.jpeg:
+Commit criteria for air threats need to be delineated. When tasked
+air-to-surface, remember that the mission is bombs on target, on time, not
+to become Ace of the Base. Engaging a threat may highlight you if the
+bandit did not know you were there. Engage threats that will prevent you
+from accomplishing your mission. Normally a commit range/alt is briefed
+to help determine which air-to-air threats to engage. For instance you
+might commit on all bandits within 20 nm or 10,000’ of your formation if
+you believe the bandits are aware of your position. Bandit aspect angle,
+bandit maneuvers and RWR may help you determine if the bandits are
+“aware.” Establish a jettison plan that enhances defensive maneuvering
+potential but retains some air-to-surface capability, if possible. The
+jettison decision is an important one. Jettisoning early makes the bandit's
+mission a success if you did not take out the target. As a rule of thumb, if
+a turn of more than 180° is needed and you are still defensively engaged,
+your BFM skills are now most important to the war effort. If your threat
+reaction takes you below 400 kts and you are still defensive, now would be
+a good time to jettison your ordnance to maintain airspeed.
+
+Route Plan
+Figure D-3 is an example of a basic route plan diagram consisting of steer
+
+points, significant geographical landmarks, timing requirements and
+major tasks to perform.
+
+D-15 TAC-5
+
+
+Text from TAC-5_Mission_Planning_page_22.jpeg:
+11:52:01
+
+SMALL
+KNOLL RD INTXN = 11:50:29
+= RIVER BEND
+5.1 S
+S
+oD
+
+11:49:02
+
+RO/POWER LINE
+INTX
+
+11:47:31
+271 BRIDGE
+2
+30R/8NM | 13NM
+MAST ARM
+PENNINSULA
+11:56:42
+IN PUSH 3
+Oo Ness
+RD/RR INTX 1A
+7.1 11:57:23
+SUBSTATION
+RAA 9500' MSL
+10.
+RD BEND
+12:03:43 AIRCRAFT TAC-05-03
+ON RWY
+12:05:00
+
+Figure D - 3. Route Schematic.
+TAC-5 D-16
+
+
+Text from TAC-5_Mission_Planning_page_23.jpeg:
+Actual clock times of arrival at each steer point can be computed by
+current flight planning programs. This allows you to plan ahead for
+timing corrections.
+
+Speed corrections, like push-it-up points, should be clearly annotated.
+Individual route leg MEAs can be life saving when dealing with
+unexpected weather or equipment failures especially during TF ops.
+Frequency changes, altitude restrictions, EMCON plan, and search and
+formation position changes can also be annotated to get the entire plan in
+graphic form. Another technique for managing this wealth of information
+is to annotate it on the low level route book where it should occur (Figure
+D-4). Be careful not to put too much information on your route diagram or
+it may become cluttered and difficult to read, and act more as a hindrance
+than a help.
+
+D-17 TAC-5
+
+
+Text from TAC-5_Mission_Planning_page_24.jpeg:
+A
+08:27:13 / \
+
+12,000 LBS / 122
+
+#2 SYSTEMS 00:24:56
+
+CHAN 12 MAIN
+
+|FF OFF ————______»
+
+A“
+/ N\
+PUSH UP — 540 166 ».
+
+415 AGL +06+17
+
+03 AGL | 50 |
+es ae
+
+i) ay
+ee Pe sa.
+
+TAC-05-04
+
+Figure D - 4. Low Level Route Planning.
+
+TAC-5 D-18
+
+
+Text from TAC-5_Mission_Planning_page_25.jpeg:
+RTB
+
+Once you have expended your ordnance, you are only halfway done; so the
+route study used in getting to the target applies to the recovery as well.
+Additional considerations include unexpended/hung ordnance, fuels and
+procedures, divert fields, safe areas, jettison, dump targets, safe passage
+procedures, etc. Threats along the egress flow are just as dangerous as
+ingress threats, and you also may have to face your own approaching
+forces at high speed and low altitude.
+
+GROUND OPS
+
+It is just as important to plan for ground operations as it is to plan for
+airborne ops. Poor ground ops can easily make a mission go awry.
+Ordnance loads and the rest of the aircraft configuration must be
+confirmed with maintenance. Check with maintenance to ensure that the
+proper fuzing is used and that all settings are correct. This may be done
+by the squadron supervisor or “ramp rat” but coordination should be done
+with these individuals to ensure the aircraft and munitions are as
+planned. Additionally, these individuals should have the parking spot
+locations to aid in establishing a taxi and arming flow. Do not wait until
+arriving at the aircraft because there will not be enough time to correct
+the load. If a comm-out launch is planned, confirm key visual signals with
+the maintenance super, along with the rest of the flight and ground/tower.
+Know the taxi plan. Getting 24 jets to the active runway is a lot like a
+ballet. Everyone has to be in the right place at the right time.
+
+CONTINGENCIES
+Go/No-Go Decisions
+
+Certain abort decisions will be made for you. Some will be based on
+systems and others on circumstances. Each unit normally operates with
+an established minimum essential system list (MESL). If certain systems
+are inoperative, the aircraft is not mission capable and you would not
+expose it and yourself to needless attrition. Realize also that a
+Commander's judgement may also come into play. He may be forced by
+the importance of the mission to send you anyway. That is why they call
+it war.
+
+D-19 TAC-5
+
+
+Text from TAC-5_Mission_Planning_page_26.jpeg:
+Weather
+
+The actual weather encountered en route and in the target area may vary
+significantly from the forecast. This may affect both en route navigation
+and the attack phase. Deliveries both above and below the weather
+should be considered, depending on the threat.
+
+Checks
+
+System and fence checks need to be accomplished as early as possible in
+the mission to be able to lead turn problems that may affect the primary
+plan.
+
+Losses
+
+The mission may be aborted due to the loss of certain planned support
+assets. Examples here may be SEAD assets, jammers, AWACs, etc.
+Package and mission commanders should develop a minimum go package
+configuration during planning.
+
+IFF Procedures
+
+IFF phasing and Mode 4 use need incorporation into flight planning. At
+the same time, AAI mode changes are also required to help distinguish
+friend from foe.
+
+Departure and Recovery
+
+Be prepared to defend yourself during the departure and recovery phases
+of the mission. Flare-only on the CMD may be a prudent action in the
+vicinity of the airfield. Attempt to use comm out procedures to the
+maximum extent possible.
+
+While on the ground, avoid staggered taxi at close intervals that would
+make the flight a lucrative target. If conditions allow, arm and de-arm in
+dispersal locations. Taxi should be single-ship straight to takeoff or back
+to park as appropriate.
+
+In the peacetime environment, throttle back a bit and take the required
+time in arming and de-arming.
+
+TAC-5 D - 20
+
+
+Text from TAC-5_Mission_Planning_page_27.jpeg:
+Battle Damage
+
+The immediate priority after sustaining battle damage is to determine the
+airworthiness of the aircraft. If able to remain airborne, put a safe area or
+recovery base on the nose and monitor fuel status. Coordinate crew
+ejection procedures.
+
+Escort
+
+The desire to escort a damaged aircraft needs to be balanced against the
+risk of exposing that aircraft and yourself to detection by surface and
+airborne threats. If close escort is planned, there are three simple options.
+The first is a simple weave behind or offset from the damaged aircraft.
+This pattern enhances visual lookout to 6 o’clock but can dramatically
+increase fuel consumption if heavy maneuvering is required to maintain
+sight. It can also highlight the damaged aircraft position. A second option
+is a moving racetrack pattern. This allows flying longer legs straight and
+level. It also points the radar to the damaged aircraft’s six for longer
+range detection of enemy air. The disadvantage is that you may not be in
+a position to immediately employ ordnance in defense of the escorted
+aircraft. Fuel consumption may become a factor in continuing the escort.
+Attempts to close escort in a dense surface threat environment may not be
+prudent. The third option is to call AWACS or any F-15Cs in the package
+and have them provide air escort to the damaged aircraft. This may
+require some time and extensive radio coordination.
+
+Rescue Operations (RESCAP)
+
+Reaction to the downing of a comrade has to be tempered by the tactical
+situation. In a densely defended target area, marking their position and
+passing that information up channel may be the only option. On the
+friendly side of the FEBA you may be able to establish a CAP over their
+position and coordinate recovery efforts. If an air threat is still a
+consideration, CAP at tactically appropriate airspeeds and set the bingo
+fuel based on recovery at a suitable airfield.
+
+D-21 TAC-5
+
+
+Text from TAC-5_Mission_Planning_page_28.jpeg:
+MISSION DATA
+Each aircraft should have a copy of the following information:
+@ MC/DTM load
+
+e Sequence points (coordinate accuracy is vital for
+updates/designations)
+
+e List points (should be in a logical order and available for
+contingencies)
+
+e IFF phasing (must agree with frag)
+
+e¢ Comm 1, comm 2 (logical order that minimizes manual frequency
+use)
+
+e Although it is not necessary to take a copy of it to the jet, make
+sure the PACS is programmed properly and the radar is set up as
+required.
+
+@® Comm plan
+e Code words (use as few as possible)
+e HAVE QUICK/KY-58
+e Frequency and chattermark plan (have all possible frequencies
+available)
+e Callsigns (who, where, when)
+e Authentication procedures
+e In-flight report formats and requirements
+
+@ Maps
+
+e Overview map (for big picture to use with bullseye points)
+e Stick map / Route of Flight
+
+@ Flight plan
+
+e Form 70 or equivalent
+@ Weapons delivery data
+
+e Schematic
+
+e Primary/back-up plans
+
+e Ballistic/safe escape data
+
+@ Radar predictions and photographs for TGT IR
+
+TAC-5 D - 22
+
+
+Text from TAC-5_Mission_Planning_page_29.jpeg:
+@ Divert field information
+
+e Coordinates
+e Comm
+e Procedures
+
+It is very important that all this data is properly organized so that it can
+be easily retrieved when needed. Do not leave it laying around the cockpit
+or, with the first unload, it may be unreachable down in the cables or
+under the seat.
+
+CONCLUSION
+This lesson has presented basic rules of thumb for planning and
+highlighted some areas that have often been forgotten or neglected. More
+
+extensive approaches are covered in AFTTP 3-1 and in your unit mission
+planning guides.
+
+D - 238 TAC-5
+
+
+Text from TAC-5_Mission_Planning_page_3.jpeg:
+TACTICS
+
+COVER
+
+MISSION PLANNING
+INTRODUCTION
+
+This workbook is designed to provide a starting reference for mission
+planning. It addresses the major planning considerations required for
+effective mission execution. The emphasis is on day, VMC employment.
+Night or IMC operations require additional planning considerations.
+
+CONTENTS:
+
+INTRODUCTION 000. eececeesneccesnceeeesaeesesaeeseesaeecssaeeesssaeeesseeeesaees A-1
+CRITERION REFERENCED OBJECTIVES (CROs)............eee eee B-1
+STUDENT PREPARATION REQUIREMENTS ...00... eee eeeeeeeeeeee C-1
+CELA a snes sass ons cosa cou nas oes cnn cones ents ans SOR MNSA Ss SARIS MU KOT HEH SONS SSIS Ge Mo eS Haas GHEE D-1
+END OF TEXT QUIZ oo. ceeseeeeseeceseeeensaeeseseeeessaeeseseaeeeneas N/A
+SRS sere ce asec crass sre ce ae eos es cece cet ese ee rs cece ct seme sees se aoe cee eae ws F-1
+
+A-1 TAC-5
+
+
+Text from TAC-5_Mission_Planning_page_30.jpeg:
+ACO
+
+ATO
+
+BIF
+
+DMPI
+
+DOC
+
+FEBA
+
+INS
+
+IP
+
+JMEM
+
+MEA
+
+MESL
+
+RBM
+
+RESCAP
+
+ROE
+
+SCL
+
+SEAD
+
+TDA
+
+TF
+
+TOT
+
+UCM
+
+GLOSSARY
+
+Airspace coordination order
+
+Air tasking order
+
+Bomb in face
+
+Desired mean point of impact
+Directed operational capability
+Forward edge of battle area
+Inertial navigation system
+
+Initial point
+
+Joint Munitions Effectiveness Manual
+Minimum en route altitude
+Minimum essential list
+
+Real beam map
+
+Rescue operations
+
+Rules of engagement
+
+Standard conventional load
+Suppression of enemy air defenses
+Tactical decision aid
+
+Terrain following
+
+Time on target
+
+Uniformed Code of Military Justice
+
+F-1 TAC-5
+
+
+Text from TAC-5_Mission_Planning_page_4.jpeg:
+CRITERION REFERENCED OBJECTIVES (CROs)
+
+1. Identify information available in an Air Tasking Order.
+
+2. Identify the significance of specific mission planning considerations
+for target area, en route and departure/recovery.
+
+3. Identify the applicable technical order, manual or regulation needed
+for specific mission planning information.
+
+4. Identify standard procedures for handling mission contingencies.
+
+NOTE
+
+These CROs will be evaluated on Surface Attack Tactics (SAT) missions.
+
+REFERENCES
+
+TO 1F-15E-1
+TO 1F-15E-34-1-1
+
+TO 1F-15E-34-1-3
+
+TO 1F-15E-34-1-1-1
+
+TO 1-1M-34
+
+AFTTP 3-1, Vol I, II, & 17
+AFTTP 3-3, Vol XVII
+
+TAC-5 B-1
+
+
+Text from TAC-5_Mission_Planning_page_5.jpeg:
+STUDENT PREPARATION REQUIREMENTS
+BEFORE CLASS
+1. Study this workbook.
+
+2. Review the applicable sections of the following publications:
+AFTTP 3-1, Vol I, Mission Planning Section
+AFTTP 3-1, Vol II, Threat Countertactics
+AFTTP 3-1, Vol 17, F-15E
+AFTTP 3-3, Vol XVII
+TO 1-1M-34, Section VIII, Mission Planning
+TO IF-15E-1
+TO 1F-15E-34-1-1
+TO 1F-15E-34-1-3
+TO 1F-15E-34-1-1-1
+
+C-1 TAC-5
+
+
+Text from TAC-5_Mission_Planning_page_6.jpeg:
+(This Page Intentionally Blank)
+
+TAC-5 C-2
+
+
+Text from TAC-5_Mission_Planning_page_7.jpeg:
+TEXT
+INTRODUCTION
+
+This course is designed to provide you with one approach to consolidating
+information provided throughout the academic program, and applying it to
+a specific mission, SAT-3.
+
+Air Tasking Order (ATO)
+
+The ATO is the vehicle by which an air component commander
+communicates specific tasks to subordinate units. The format and actual
+flow of the ATO vary with theater of operations and level of effort
+involved.
+
+In general, an ATO outlines air component efforts over a 24 hour period.
+The ATO (also called a Frag) contains, at a minimum, the following
+
+information:
+
+Current Tactical Situation
+
+This brief provides a general commander’s assessment of how well allied
+efforts have achieved their objectives.
+
+Air Component Objectives
+
+This covers how forces have been allocated to different missions. It also
+addresses where the main effort (which consists of CAS, OCA, DCA,
+SEAD, interdiction, recce and airlift) will occur.
+
+Rules of Engagement (ROE)
+
+ROE can most easily be thought of as restrictions. They are generally
+used to limit the scope of the conflict or collateral damage. ROE existed
+during the Korean, Vietnam and Southwest Asian Wars. Failure to
+comply with established ROE is normally punishable under the UCMJ.
+
+In addition to specific mission ROE, each theater of operations normally
+has a set of standing rules that you need to know and abide by. These
+rules are outlined in applicable flying regulations and directives.
+“Training Rules” are briefed prior to every flight in the FTU.
+
+D-1 TAC-5
+
+
+Text from TAC-5_Mission_Planning_page_8.jpeg:
+Specific Unit Tasking
+
+Unit tasking is normally by mission type. For an interdiction mission, you
+are assigned a mission number, call sign, the number of aircraft in the
+mission, time on target (TOT), the target location, IFF codes, a standard
+conventional load (SCL) and remarks to include tanker, suppression of
+enemy air defenses (SEAD), OCA CAP and AWACS support.
+Coordination requirements are normally included as remarks following
+specific tasking. Once you locate your tasking you can scan the ATO to
+determine what other assets are tasked in the same area. Also see if the
+same target area is assigned to another unit to get a feel for the planned
+flow in the target area. Look for tasked targets along your ingress and
+egress routing to avoid overflight of an active target site.
+
+Airspace Division
+
+An airspace coordination order (ACO) is normally included in the ATO.
+The ACO defines tanker tracks, special use airspace (i.e., AWACS orbits),
+special routing and geographical areas of responsibility. It establishes
+safe passage procedures that limit the potential of being engaged by
+friendly defenses en route to or from the target. The ACO may dictate
+specific routes or altitudes to be flown or use such discriminators as
+airspeed, IFF, formation size, etc.
+
+Compliance with safe passage procedures does not ensure safety. Be alert
+at all times and be prepared to defend yourself from takeoff to landing.
+
+Command, Control and Communications (C*)
+
+This section establishes a frequency deconfliction plan for the force.
+Frequencies are allocated for each portion of the effort. COMSEC needs to
+be considered and discussed when operating on unsecure nets.
+
+This C’ section also contains any codewords to be used during the period
+of the ATO. Other information such as bullseye points, authenticators,
+and SAR information may also be included.
+
+The ROE, Communications plan and IFF information is usually in the
+Special Instructions (SPINs) section of the ATO. The SPINs are usually
+organized by the time period covered by the instructions. Permanent,
+monthly and weekly SPINs are most common. Sometimes daily SPINs
+are also included.
+
+TAC-5 D-2
+
+
+Text from TAC-5_Mission_Planning_page_9.jpeg:
+Mission Planning Responsibilities
+
+Once your flight has received its tasking, it is important to have a plan for
+dividing up planning responsibilities. Although not all inclusive, the
+following is a list of areas that need thorough planning:
+
+Breaking the frag (ATO)
+Target area
+
+En route navigation
+Ground ops
+Contingencies
+
+Mission data
+
+This workbook outlines these planning areas.
+
+Mission planning requirements vary greatly between units based on
+directed operational capability (DOC) statements, geographic differences,
+and sensor and weapon capabilities. The aircrew must be able to predict
+what will be useful and when to devote attention to the task of identifying
+a particular point.
+
+It is vitally important that all personnel involved in mission planning
+coordinate with each other. There is nothing worse than showing up at
+brief time with three different IPs, two weapons loads, one cup of coffee
+and no clue.
+
+Frag Breaking
+
+Getting the required information out of the frag is extremely important.
+It may be best to have two people break the frag out separately, then
+compare results to make sure there are no mistakes or omissions. If you
+take the time to carefully examine the ATO, you can develop a big picture
+of where all players will be during different phases of your flight.
+Although certain support assets, such as jammers, may not be specifically
+tasked to support your mission, you may have the flexibility to route your
+flight to take advantage of their capabilities. No mission planning can
+begin until all the information is extracted from the frag.
+
+D-3 TAC-5
+
+

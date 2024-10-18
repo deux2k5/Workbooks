@@ -1,0 +1,1774 @@
+Text from AAW-6_Gun_page_1.jpeg:
+SUPPORTS COURSES
+FIS5EBQ
+
+FISETX
+
+FISESOC
+
+ACADEMIC STUDENT WORKBOOK
+F-15E
+
+AIR-TO-AIR WEAPONS
+AAW-6
+GUN
+FEBRUARY 1999
+
+(SUITE 3 OFP)
+
+AIR COMBAT COMMAND
+
+
+Text from AAW-6_Gun_page_10.jpeg:
+HEI / HEI-T (Tracer)
+
+The M56 high-explosive incendiary (HEI) cartridge (Figure D-2) is used
+against aircraft and light material targets. The projectile functions with a
+combined detonation and incendiary effect after target impact. The fuze
+features a mechanical point detonating system protected by an aluminum
+cover that crushes on impact. When fired, both acceleration and friction
+forces on the ball rotor and the c-ring prevent any detonator-in-line
+movement until muzzle exit. When acceleration decreases and projectile
+spin rate exceeds 49,800 rpm, the locking c-ring opens due to centrifugal
+force. This allows the detonator to align with the firing pin and booster
+charge. Arming is complete 20 to 35 feet in front of the aircraft. The
+length of the explosive train creates a 300 millisecond explosion delay at
+impact. This delay allows four to six inches of penetration of a truck-type
+target.
+
+FIRING PIN FIRING PIN
+COVER
+
+NOSE CAP
+CENTRIFUGAL
+ROTOR SAFETY
+SPRING DETONATOR
+ROTOR ASSEMBLY
+
+BODY —_,
+
+DETONATOR
+
+U-SHAPED
+CENTRIFUGAL
+ROTOR
+
+SAFETY SPRING
+
+DETONATOR
+ROTOR ASSEMBLY
+
+BOOSTER
+ASSEMBLY
+
+M505A2 M505A3
+
+AAW-06-02
+
+Figure D - 2. HEI Cartridge.
+
+AAW-6 D-4
+
+
+Text from AAW-6_Gun_page_11.jpeg:
+PGU-27/B Target Practice (TP)
+
+The PGU-27/B TP cartridge replaces the M55 cartridge. The PGU-27/B is
+an inert projectile with a steel body and a solid aluminum alloy nose as
+shown in Figure D-8. The cartridge uses the same case primer and a
+slightly modified WC872 ball propellant, designated the WC867. The
+total cartridge length remains unchanged; therefore, no changes to the
+gun or ammunition handling and storage equipment are required (versus
+the M55 cartridge). Due to the improvements in aerodynamic shape, drag
+has been reduced approximately 33%, velocity is increased by 36% at 1000
+meters and time-of-flight (TOF) is decreased by 39% at 1000 meters.
+
+ROTATING BAND
+\ SOLID ALUMINUM NOSE
+
+_ BODY
+
+AAW-06-03
+
+Figure D - 3. PGU-27B TP Projectile.
+
+D-5 AAW-6
+
+
+Text from AAW-6_Gun_page_12.jpeg:
+PGU-28/B Semi-Armor Piercing High Explosive Incendiary (SAPHEI)
+
+The PGU-28/B (Figure D-4) projectile replaces the M56 HEI projectile.
+The body of the PGU-28/B is machined from 15B27 steel bar stock and
+then hardened to improve performance against lightly armored targets
+such as APCs and armored helicopters. Projectile components consist of
+two incendiary compounds, a high explosive, a zirconium pellet, a copper
+rotating band, and aluminum nose and support disk. The Type I nose
+incendiary is ignited by the mechanical shock of impact. The nose
+incendiary reaction ignites the more energetic Type II body incendiary,
+which in turn initiates the high explosive. The burning of the pyrotechnic
+material produces a delay, allowing the projectile to penetrate into the
+target before detonating. The high explosive reaction splinters the
+hardened steel body of the projectile and ignites the zirconium pellet
+providing a long, persistent spark for improved fire start capability.
+
+COMP A-4
+EXPLOSIVE
+
+BODY INCENDIARY
+
+ZIRCONIUM
+PELLET,
+NOSE INCENDIARY
+
+Truman
+NOSE
+SUPPORT
+
+HARDENED DISC
+
+NOSE
+
+AAW-06-04
+
+Figure D - 4. PGU-28/B SAPHEI Projectile.
+
+AAW-6 D-6
+
+
+Text from AAW-6_Gun_page_13.jpeg:
+Ammunition Container
+
+The ammunition container is mounted in the center of the aircraft
+fuselage. It stores 485 rounds of ammunition, transfers them to the
+conveyor, receives spent casings and unfired rounds from the conveyor,
+and puts them back in storage (Figure D-5).
+
+Conveyor
+
+The conveyor transfers rounds to the feeder. It also accepts spent cases
+and unfired rounds from the unload drive assembly, and returns them to
+the container. The conveyor holds 69 rounds for a total system capacity of
+504 rounds.
+
+Gearbox and Power Supply
+
+The gearbox uses hydraulic power to turn the conveyor assembly. It also
+powers the unload drive assembly through a drive shaft. The power
+supply (driven by Utility B) is mounted on the gearbox, and can provide
+up to a 6000 round per minute firing rate. It also performs a braking
+function during gun deceleration. The gun spin up time is .4 seconds.
+
+GEAR BOX
+ASSEMBLY
+f AMMUNITION
+CONVEYER ~~ CONTAINER
+I ~~ HYDRAULIC
+
+om DRIVE
+eo
+a
+
+AAW-06-05
+
+Figure D - 5. Gun.
+
+D-7 AAW-6
+
+
+Text from AAW-6_Gun_page_14.jpeg:
+Firing Cycle
+
+If the gun is externally preflighted to be hot, the landing gear handle is
+up, the master arm switch is in arm and the PACS is not in a training
+mode, then the gun will fire when the trigger is squeezed to the second
+
+detent.
+CAUTION
+
+The weapon select switch (FCP) does not
+have to be in GUN to fire the gun.
+
+Rounds are picked up by bolts in the main cam path. As the bolts slide
+forward in the firing cam they chamber the round. The bolt is locked into
+place and firing voltage is applied. After firing, the bolt is unlocked and
+extracts the round from the chamber. After extraction, the round is
+ejected into the unload drive assembly.
+
+Clearing Cycle
+
+When the pilot releases the trigger, round fire and counting voltage are
+maintained until hydraulic braking action decelerates the gun. The delay
+between trigger release and the point at which incoming rounds are no
+longer chambered and fired is such that five to eleven rounds fire after
+trigger release. As the gun decelerates through 3900 +150 rounds per
+minute, all six bolt assemblies are locked in the cleared position. The time
+period between the last round fired and complete gun stop results in six to
+nine live rounds clearing the gun and returning to the ammunition
+container assembly. Total time from trigger release to gun full stop is
+slightly under one second.
+
+AAW-6 D-8
+
+
+Text from AAW-6_Gun_page_15.jpeg:
+GUN PREFLIGHT
+Control and Safing
+
+Rounds Limit Switch, Limit Counter and Totalizer
+
+This assembly, located at the bottom of the ammunition container,
+performs the safing and limiting function for the amount of rounds to be
+processed. The totalizer (1 in Figure D-6) records the total number of
+rounds fired over the life of the system.
+
+HYDRAULIC -
+
+MANUAL 2 5
+OU a Ebest Uolisliollelfe|
+
+DOOR 45
+(OPENED)
+
+AAW-06-06
+
+LOAD GATE ©
+TANGS
+
+(6) CARTRIDGE
+GUIDE TANGS
+
+AMMO (5)
+
+5
+
+Figure D - 6. Gun Control and Load.
+
+D-9 AAW-6
+
+
+Text from AAW-6_Gun_page_16.jpeg:
+If set to RDS LIMIT with a limiter count of 799 or less (2 in Figure D-6),
+the rounds limit switch (3 in Figure D-6) controls the number of rounds
+fired by the gun on any one sortie. When the preset amount has been
+processed, the rounds limiter signals the PACS to start the clearing cycle,
+and gun motor shutdown. If the gun is at full firing speed, up to
+
+20 rounds in excess of the number set in the limit counter may be
+processed. The gun is hydraulically safe after limiter shutdown since the
+limit count will then be in the range of 979-999.
+
+At gun motor shutdown, the HUD rounds count displays XXX to indicate
+that the LIMIT (or total) rounds have been expended. In RDS LIMIT
+(with a limiter count of 800-999), the gun is hydraulically safe. If the
+switch is in NO LIMIT, only the electrical safing pin and cam holdback
+tool/download pin prevent electrical firing pulses and rounds being
+chambered when the trigger is squeezed.
+
+Hydraulic Manual Control Handle
+
+Checking that the handle (4 in Figure D-6) is in the stowed (flush) position
+ensures the gun hydraulic motor is not in a load mode, but is ready for
+firing.
+
+Type Ammo
+
+The type of ammo loaded (5 in Figure D-6) may be observed at the load
+gate. The type and quantity of ammo loaded will be listed in the AFTO
+Form 781A. AFTO Form 781H (block 11) should be checked first to find
+the correct page and block reference to look at in the 781A.
+
+Load Gate Tangs/Cartridge Guide Tangs
+
+The load gate tang and cartridge guide tangs (6 in Figure D-6) should be
+properly positioned. These tangs are separated during the gun loading
+process. After loading, the tangs are positioned back together (tips-to-
+tips). The tangs form the ammo pathway to the gun and therefore should
+be positioned together properly so as to provide a smooth sliding surface
+where the ammo passes.
+
+AAW-6 D-10
+
+
+Text from AAW-6_Gun_page_17.jpeg:
+Armament Ground Safety Pin
+
+This pin (1 in Figure D-7) opens a switch that interrupts firing voltage to
+each round.
+
+Cam Clearing Holdback Tool/Download Pin
+
+This tool/pin (2 in Figure D-7) mechanically holds the cam open, and
+prevents rounds being chambered.
+
+@)
+
+CLEARING
+HOLDBACK
+TOOL/
+DOWNLOAD
+PIN
+
+ARMAMENT GROUND
+
+SAFETY PIN ;
+oe al
+
+DOOR 42
+
+AAW-06-07
+
+Figure D - 7. Gun Safing.
+
+Last Round Switch
+
+The last round switch senses casings and projectiles as they pass through
+the feed system at the hand-off unit. When two consecutive empty casings
+are sensed, the PACS initiates the clearing cycle and disables gun motor
+power. The system is shut down to prevent damage that would result
+from chambering a spent round.
+
+D-11 AAW-6
+
+
+Text from AAW-6_Gun_page_18.jpeg:
+Exterior Inspection
+This includes the cold gun safing procedures which render the M61A1
+electrically, hydraulically and mechanically safe (see earlier sections). It
+is absolutely essential that the Dash 34 checklist items are verified. As
+always, if there are any doubts or questions concerning the weapon, call
+for a specialist!
+The following sequence is the procedure for inspecting a hot gun:
+
+e Ammo loaded - TYPE/QUANTITY
+
+e Armament ground safety pin - INSTALLED
+
+e Gun clearing sector tool/download pin - NOT INSTALLED
+
+e Rounds limit counter - SET AS REQUIRED
+
+e Rounds limit switch - CHECK & SET
+
+NOTE
+
+If a limit counter is set above 799 with limit switch in LIMIT, the
+
+gun will not fire.
+
+AAW-6 D-12
+
+
+Text from AAW-6_Gun_page_19.jpeg:
+e Hydraulic manual control handle - STOWED POSITION (FLUSH)
+
+e Load gate and cartridge guide tangs - PROPERLY POSITIONED
+
+CAUTION
+
+Ensure that load gate arms latch
+around the tangs of the load gate
+slide or gun system may not function.
+
+NOTE
+mode or the master arm is safe.
+The following sequence is the procedure for inspecting a cold gun:
+e Ammo loaded - AS REQUIRED
+e Armament ground safety pin - INSTALLED INSIDE OUT
+e Gun clearing sector tool/download pin - INSTALLED
+e Rounds limit counter - SET TO 900
+
+e Rounds limit switch - RDS LIMIT
+
+e Hydraulic manual control handle - STOWED POSITION (FLUSH)
+
+D-18 AAW-6
+
+
+Text from AAW-6_Gun_page_2.jpeg:
+ADMINISTRATIVE INFORMATION
+
+This student workbook is designed to provide information on the F-15E,
+its systems and capabilities. It is not a sole source document, but is to be
+used in conjunction with other standard Air Force publications and
+technical manuals. If you find any differences between the material
+contained herein and other governing regulations, adhere to the
+regulations and notify the OPDR.
+
+Changes to this workbook are indicated with a heavy black line in the left
+margin.
+
+Forward recommendations for revision or change to 4 TS, SJAFB, NC,
+275381.
+
+Supersedes: AAW-6, July, 1998
+
+OPDR: 4 TS
+
+Index of Changes
+
+Effective Date Pages Affected
+
+
+
+Text from AAW-6_Gun_page_20.jpeg:
+PACS PROGRAMMING
+
+Two types of 20mm bullets are now available for the F-15E. On the A/A
+weapon load page, the capability is provided to identify both the type and
+quantity of bullets loaded (Figure D-8).
+
+7MH 7
+A/ACOMBAT
+WEAPON LOAD
+
+[No
+|
+
+OyOyo
+
+ON
+ma + \
+
+AIG
+TRNG
+
+AIA
+TRNG
+
+AIG NUC
+LOAD LOAD LOAD
+
+TOP LEVEL PACS MENU A/A TRAINING WEAPON LOAD
+(A/A TRNG BOXED) (A/A TRNG BOXED)
+
+AAW-06-08
+
+Figure D - 8. Load.
+
+AAW-6 D-14
+
+
+Text from AAW-6_Gun_page_21.jpeg:
+Quantity is loaded using PB #1 and #2. Bullet type, PGU-28 or
+
+M-56, is displayed under PB #20. The selection between these two is
+toggled by pressing PB #20. The training mode bullet type may be
+different from the combat mode bullet type. Selection can also be made at
+the AFMSS and entered via the DTM. The bullet counters displayed on
+the PACS and HUD are for aircrew information only, and will not effect
+gun arming/dearming.
+
+NOTE
+
+Failure to program properly can cause excessive errors in gunsight
+computation.
+
+On all other displays where round count is found, the count is followed by
+a “P” for the PGU-28 and “M” for the M-56, except on the HUD where type
+is not indicated (Figure D-9). The last digit in the PACS and HUD bullet
+count will be replaced by a “T” when the A/A TRNG mode is selected on
+the PACS top level menu or A/A load page.
+
+A/G CMBT
+
+™
+PWR
+
+STBY
+120A
+
+STBY
+7M
+
+CBT 1 C STORE
+CBT 2 LR PYLON
+
+AAW-06-09
+
+Figure D - 9. Round Count Displayed.
+
+D-15 AAW-6
+
+
+Text from AAW-6_Gun_page_22.jpeg:
+GUNSIGHT MODES
+
+The gunsight has two operating modes: the gun director sight (GDS) mode
+and funnel (FNL) mode. The director mode provides the pilot with an
+accurate, all-aspect gunsight. The FNL mode (with certain limitations)
+provides an accurate backup gunsight by allowing the pilot to compare
+target wingspan to the funnel width. The primary benefit of the funnel is
+that it allows the pilot to estimate target range by comparing wingspan to
+funnel width to achieve a best guess firing solution with no radar track.
+
+NOTE
+
+In this lesson, radar tracking is when the radar is in single target
+
+track. Gun tracking is target tracking by the pilot using HUD
+aiming symbology.
+
+GDS Mode
+
+The director mode provides the pilot with an accurate all-aspect gunsight
+that eliminates the requirement to obtain steady-state tracking condition.
+The director reticle is displayed only after final radar track with JEM
+resolved, a 1.5 second settling time delay, and valid data available for use
+in the solution. CC director mode computations take into account target
+velocities, accelerations and estimated future target position. CC
+computations also include compensation for both bullet trajectory and
+target dynamics during the bullet's time of flight. Due to computational
+“smoothing,” the sight lags somewhat following heavy target
+maneuvering. With that one exception, coincidence of the reticle and
+target represent a correct aiming solution for the pilot.
+
+One advantage of the director mode is the elimination of the necessity to
+fire early in anticipation of bullet TOF. A second advantage is that the
+director gunsight does not require steady state pipper-on-target tracking
+for accurate reticle aiming. However, the probability of achieving hits is
+greatly improved with a short bullet TOF and low target relative LOS
+rates.
+
+AAW-6 D-16
+
+
+Text from AAW-6_Gun_page_23.jpeg:
+These advantages are a result of the director mode software (GDS
+algorithm). The software uses radar tracking data in its lead angle
+computations. The lead angle computations are independent of F-15E
+maneuvering and accelerations. Thus, firing solutions are obtained
+quickly, and rapid attitude changes have little short term effect on the
+required lead angle.
+
+The director gunsight does not dampen reticle motion caused by F-15E
+maneuvering. Motion of the director reticle caused by variations in F-15E
+acceleration is a true representation of bullet stream dynamics. Selecting
+stiffen with GDS or GDS funnel selected reverts the gunsight to a LCOS
+track funnel display with a tracking LCOS reticle at the radar target
+range. If either range or range rate is not available, 1000 feet and/or -50
+FPS respectively is used to display the LCOS reticle. When stiffen is
+released, the previously selected gunsight returns.
+
+Funnel (FNL) Mode
+
+The funnel is a reference target system. It was designed on the premise
+that the F-15E could out turn its opponents to saddle up and track. It
+assumes that the F-15E is in the target’s plane of motion (POM), with
+
+45° or less angle off. It also assumes F-15E and target G are the same.
+The sight shows where bullets will be one TOF from trigger squeeze, if the
+parameters remain constant.
+
+The funnel is calculated using the lead computing optical sight (LCOS)
+algorithm and only own ship data with the one exception that radar range
+and/or range rate are used when available. The funnel is computed based
+on the assumption that the target is performing the same maneuvers as
+the F-15E shooter, thus the funnel responds to changes in F-15E
+acceleration. The appearance and accuracy of the funnel is determined by
+the availability and quantity of radar data.
+
+D-17 AAW-6
+
+
+Text from AAW-6_Gun_page_24.jpeg:
+The center of the funnel corresponds to pseudo LCOS reticles with the
+width of the funnel equating to a 40-foot wingspan target at seven
+computed ranges (750, 1000, 1250, 1500, 2250, 4000 and 5000 feet). The
+points are joined together to form the funnel. The end of the funnel is
+limited to bullet maximum range when less than 5000 feet. With no radar
+track, three 2-mil pippers are displayed in the middle of the funnel at
+ranges of 1000, 2250 and 4000 feet with PGU-28 bullets. With M56
+bullets loaded only 1000 and 2250-foot pippers are displayed.
+
+The pilot must fly to put the target within the funnel at the appropriate
+range to achieve bullet solution. Target range can be estimated using the
+funnel width corresponding to a 40-foot wingspan target. The funnel may
+be used as either a tracking reference or a dampened bullet position
+indicator. As a tracking sight, the pilot must achieve a position that
+allows the appropriate section of the funnel to be stabilized on the target
+when the gun is fired. G must be held constant to achieve a stable sight
+picture for a tracking gun shot.
+
+If a stable tracking position is not viable while in the FNL mode, the
+funnel can be considered a dampened bullet position indicator. The
+aircraft should be flown so that the target and funnel (at the correct target
+range) are moving toward a common intercept point. The pilot fires when
+the funnel center is judged to be displaced approximately one TOF plus
+gun spin up time from intercept. If parameters are held constant, bullet
+position will be coincidental with the funnel center. The pilot must
+anticipate such that the bullets will be in the proper funnel position/range
+when it intercepts the target.
+
+AAW-6 D-18
+
+
+Text from AAW-6_Gun_page_25.jpeg:
+HUD GUNSIGHT DISPLAYS
+
+There are four possible HUD displays that you will see when selecting
+GUN on the weapon select switch (or combined mode entry). These
+displays are the LCOS search funnel, LCOS track funnel, GDS and GDS
+funnel. Radar track and funnel selection status impact which display will
+be seen. Also, if in SRM, the combined SRM/gun displays are selectable.
+The gun cross is displayed when the master arm switch is in ARM.
+
+Figure D-10 presents switchology to select the four different gunsight
+displays.
+SELECT GUN ON WEAPON
+
+SELECT SWITCH
+(OR COMBINED MODE ENTRY)
+
+V
+RADAR FINAL STT
+
+LCOS TRACK
+FUNNEL
+
+YES NO
+
+a4 COOLIE RELEASE a
+
+>| ~COOLIE DOWN —
+AND HOLD
+IF IN COMBINED MODE)
+
+COOLIE RELEASE
+GDS FNL (GDS) —S————
+= =>] COOLIE DOWN —>
+AND HOLD
+COOLIE UP
+
+(LESS THAN 1 SECOND
+IF IN COMBINED MODE)
+
+GDS (GDS FNL)
+
+COOLIE UP
+(LESS THAN 1 SECOND
+
+LCOS SEARCH
+FUNNEL
+
+SS RADAR BREAK
+LOCK-ON
+
+AAW-06-10
+
+Figure D - 10. Gunsight Display Selection.
+
+D-19 AAW-6
+
+
+Text from AAW-6_Gun_page_26.jpeg:
+LCOS Search Funnel
+
+Figure D-11 shows the LCOS search funnel gun aiming display. This
+display is in the HUD when GUN is selected on the weapon select switch
+and the radar is in search. This is the only available gun display without
+a radar lock-on. The funnel is used to help align in plane with the target
+to achieve a stable tracking state.
+
+The funnel is simulating the bullet stream flowing away from the F-15E.
+The top of the funnel is for closer ranges, the bottom end of the funnel is
+for maximum ranges. The funnel is very dynamic during maneuvering as
+is the bullet stream.
+
+1000 FOOT PIPPER
+
+2250 FOOT
+PIPPER
+
+RATR
+
+ROUNDS
+REMAINING
+
+4000 FOOT
+PIPPER
+
+FUNNEL
+
+AAW-06-11
+
+Figure D - 11. LCOS Search Funnel.
+
+AAW-6 D - 20
+
+
+Text from AAW-6_Gun_page_27.jpeg:
+The three pippers (2-mil circles) are located at set ranges of 1000, 2250
+and 4000 feet aiming ranges. The width of the funnel at each range is
+determined by the apparent width of a 40-foot wingspan aircraft located
+at that range (a form of stadiametric ranging). If the target aircraft is
+tracked in the funnel with one of the pippers on the target and if the
+target is visually judged to be at the set range defining that pipper, then
+the bullets should pass through the target.
+
+The rounds at target range (RATR) cue (inverted triangle) displays the
+location of your bullets arriving at a pseudo target range of 2250 feet. For
+displays with radar lock-on, the RATR will indicate the location of bullets
+at radar target range. The RATR is displayed from arrival of the first
+bullet until arrival of the last bullet in the fired stream of bullets. It takes
+into account bullet ballistics, atmospheric data and F-15E maneuvering.
+The RATR should not be used as an aiming device. The RATR is not HUD
+limited; it will not be displayed when the computed position is outside the
+HUD FOV.
+
+The rounds remaining display indicates the approximate number of
+bullets on board as loaded in the PACS and not yet expended. During gun
+fire, the HUD (and PACS) count of rounds remaining decreases ten at a
+time (i.e., 500...490...480, etc.).
+
+D-21 AAW-6
+
+
+Text from AAW-6_Gun_page_28.jpeg:
+LCOS Track Funnel
+
+The LCOS track funnel display (Figure D-12) provides additional
+symbology/data when compared to the search funnel display. The
+additional symbols/data are derived from radar track information. The
+LCOS track funnel is presented until final stable radar single target track
+(STT). When the radar attains stable STT, the GDS or GDS FNL will be
+displayed depending on the last selection.
+
+RADAR RANGE
+BAR
+
+2 MIL
+PIPPER
+
+25 MIL CIRCLE
+
+AAW-06-12
+
+Figure D - 12. LCOS Track Funnel.
+
+The reticle (2-mil pipper and 25-mil segmented circle) is positioned down
+the center locus of the funnel based on target range/range rate and own
+ship maneuvering parameters. If target range is not valid, 2250 feet (or
+1000 feet stiffened) is used, and 50 FPS is used if range rate is not valid.
+The funnel is also moving based on the same data. If the pipper is held on
+the target in a stable tracking situation, the bullets should arrive at the
+target one time of flight after trigger squeeze.
+
+If reticle stiffen is selected while in GDS or GDS FNL, the LCOS track
+funnel will be displayed while the FCP coolie switch is held down. The
+range bar is provided to show radar derived range in an analog “clock
+type” format. The bar starts at twelve o’clock and moves clockwise. The
+leading edge of the bar shows range by clock position in thousands of feet
+(e.g., 3 o'clock is 3000 feet range).
+
+AAW-6 D - 22
+
+
+Text from AAW-6_Gun_page_29.jpeg:
+GDS
+
+The GDS (or GDS FNL) display (Figure D-13) is available in GUN (or
+combined mode) with a full radar system lock-on. Moving the FCP coolie
+switch up will toggle between GDS and GDS FNL displays.
+
+RATR BULLET MAXIMUM RANGE (BMR) CUE
+
+2 MIL
+PIPPER
+
+50 MIL
+RETICLE
+
+GDS
+RANGE SELECTED
+
+AAW-06-13
+
+Figure D - 13. GDS.
+
+“GDS” is presented in the lower right side of the HUD (window 17) to
+indicate GDS selected. The 2-mil pipper/50-mil reticle/turn plane line are
+dynamically positioned based on own ship maneuvering and target radar
+range/range rate/maneuvering data. If the pipper is on the target at
+trigger squeeze, bullets should hit the target if within bullet effective
+range.
+
+The turn plane line (GDS only) represents the CC computed projection of
+the target’s plane of motion (POM). It can be used as an aid to achieving
+an in-plane solution during high aspect gun attacks. The line is drawn
+from the gun cross, through the reticle, to the edge of the HUD.
+
+D - 238 AAW-6
+
+
+Text from AAW-6_Gun_page_3.jpeg:
+AIR-TO-AIR WEAPONS
+
+COVER
+
+GUN
+INTRODUCTION
+This workbook is your guide in studying the characteristics, general
+
+operating and employment procedures for the M61A1 gun system prior to
+the lecture.
+
+CONTENTS:
+
+INTRODUCTION 000. eececeesneccesnceeeesaeesesaeeseesaeecssaeeesssaeeesseeeesaees A-1
+CRITERION REFERENCED OBJECTIVES (CROs)............eee eee B-1
+STUDENT PREPARATION REQUIREMENTS ...00... eee eeeeeeeeeeee C-1
+CELA a snes sass ons cosa cou nas oes cnn cones ents ans SOR MNSA Ss SARIS MU KOT HEH SONS SSIS Ge Mo eS Haas GHEE D-1
+END OF TEXT QUIZ ou. eecccccesnceeesseeecesaeeeessaeecesaeesensaeesesneeeeneas E-1
+SRS sere ce asec crass sre ce ae eos es cece cet ese ee rs cece ct seme sees se aoe cee eae ws F-1
+
+A-1 AAW-6
+
+
+Text from AAW-6_Gun_page_30.jpeg:
+The radar range analog bar and RATR work as previously described.
+RATR, in this case, would be for rounds arriving at the radar derived
+target range.
+
+The BMR cue is a dot dynamically positioned at the perimeter of the
+50-mil reticle to indicate maximum effective bullet range based on type of
+rounds loaded in the PACS and own ship/target maneuvering and
+relationship. Like the range bar, a BMR dot at 3 o’clock would indicate a
+maximum effective bullet range of 3000 feet, 4 o’clock, 4000 feet, etc.
+Under certain engagement conditions, the bullet maximum range may
+exceed 12,000 feet. In this case, the maximum range cue is limited to the
+12 o'clock position.
+
+The BMR cue indicates the range that corresponds to a bullet TOF of 1.5
+seconds for the M-56 bullet or 2.5 seconds for the PGU-28 bullet, or an
+impact velocity of 500 FPS, whichever produces the shortest range.
+Maximum accurate firing range is attained when the range bar tab
+decreases to the BMR cue range or less.
+
+The TD box is removed when its center is within 25 mils of the pipper, and
+target range is less than 3000 feet (or the maximum bullet range,
+whichever is greater). It reappears when range increases to 3200 feet or
+200 feet greater than maximum bullet range, or when the center of the
+box is more than 37 mils from the pipper.
+
+AAW-6 D - 24
+
+
+Text from AAW-6_Gun_page_31.jpeg:
+GDS Funnel
+
+When in GDS funnel, “FNL” is displayed in window 17 of the HUD
+(Figure D-14).
+
+5
+35 36 01
+
+A
+
+AAW-06-14
+
+Figure D - 14. GDS Funnel.
+
+The GDS funnel gun aiming display is a combination of GDS reticle and
+LCOS track funnel displays. The turn plane line is replaced with the
+funnel. The GDS reticle represents one solution using the GDS algorithm
+while the LCOS track funnel represents a second solution using the LCOS
+algorithm.
+
+D-25 AAW-6
+
+
+Text from AAW-6_Gun_page_32.jpeg:
+GUN EMPLOYMENT
+
+Select HIGH rate for greater bullet stream density and higher Px. At 100
+rounds per second, this gives you roughly 5 seconds of continuous gun fire
+time. In air-to-air combat, fire significant bursts (1-2 seconds) to increase
+bullet count near the target. Remember, the period between trigger
+release and gun full stop is slightly less than 1 second. During the
+clearing cycle, the trigger is disabled and you must delay at least this long
+between bursts.
+
+Often, the largest errors result from firing at near maximum range. Long
+range shots increase bullet TOF. It is relatively simple for the target to
+change his POM, thereby flying himself away from the bullet stream.
+
+Increased muzzle velocity and lower drag of the PGU-28 bullet increases
+the bullet's effective range and maximum TOF. During A/A gunnery with
+the PGU-28 bullet, the pilot will notice an increased maximum firing
+range and a decreased lead angle requirement for a given target range
+(over the M-56).
+
+AAW-6 D - 26
+
+
+Text from AAW-6_Gun_page_33.jpeg:
+Tracking Gun Shot-LCOS Search Display
+
+With no radar lock-on, the LCOS search display (Figure D-15) may still be
+used for a tracking shot if the pilot accurately estimates target range. The
+width of the funnel may be used as an aid in estimating target range. The
+funnel width at any given position equates to a target computation range
+based on the apparent width of a 40-foot wingspan aircraft at that position
+and computation range. If the pilot positions the 40-foot wingspan target
+in the funnel at a position where the wingspan subtends the width of the
+funnel (wall-to-wall), then the bullet stream should pass through the
+target position as the stream moves away from the F-15E. Adjustments
+in aiming with the funnel must be made when the wingspan is not 40 feet.
+
+AAW-06-15
+
+Figure D - 15. LCOS Search Display.
+
+One way to approach the shot with the funnel is to pull the target from
+the top of the funnel downward through the funnel until wingspan/funnel
+width match occurs. Another way would be to place your nose well in lead
+of the target and control the target movement into position from the
+bottom of the funnel. This then has the target at the funnel calculated
+range and position of the bullet stream. Firing should commence one
+bullet TOF prior to arrival of the funnel/wingspan match, especially if the
+target cannot be stabilized in a tracking position.
+
+The three small pippers are for 1000, 2250 and 4000 feet calculated bullet
+stream ranges. The RATR is calculated for a target range of 2250 feet
+(1000 feet if stiffened) in this display.
+
+D-27 AAW-6
+
+
+Text from AAW-6_Gun_page_34.jpeg:
+Tracking Gun Shot-LCOS Track Display
+
+With a radar lock-on, the LCOS pipper can be used as a tracking index
+with good results if employed in the envelope it was designed for (aspect
+45° or less/30 knots in closure/in target POM/G held constant, Figure
+D-16). The funnel helps align the shot, but ultimately the pilot should
+track the target with the pipper. If the pipper is on the target, the bullet
+stream should pass through the target position. Since the pipper is being
+positioned using radar range data, wingspan/funnel matching is not
+required.
+
+AAW-06-16
+
+Figure D - 16. LCOS Track Display.
+
+Realize though, that pipper on the target is not always an indicator of
+bullets on the target. In a high aspect/closure situation the sight can
+under lead enough to cause a miss (up to 50 mils at 90° aspect). If the
+target is moving out-of-plane, then the pipper will be in lag until shooter
+parameters stabilize and the sight “settles.” If G is increased to bring the
+pipper to the target, the pipper depresses to indicate a need for more lead.
+If you add more G to bring the pipper on target and fire at the same time,
+the results after one TOF will be bullets behind the target.
+
+AAW-6 D - 28
+
+
+Text from AAW-6_Gun_page_35.jpeg:
+Tracking Gun Shot-GDS Display
+
+The GDS pipper (Figure D-17) is very accurate and should be placed on
+the target prior to trigger squeeze. Tracking the target for an extended
+time (prior to trigger squeeze) is not required. Firing should occur inside
+BMR cue range.
+
+10
+
+AAW-06-17
+
+Figure D - 17. GDS Display.
+
+D - 29 AAW-6
+
+
+Text from AAW-6_Gun_page_36.jpeg:
+Tracking Gun Shot-GDS FNL Display
+
+When using the GDS FNL display (Figure D-18), the funnel helps align
+the shot, but the pipper should be placed on the target prior to trigger
+squeeze. Again, extended tracking time is not required.
+
+AAW-06-18
+
+Figure D - 18. GDS FNL Display.
+
+AAW-6 D - 30
+
+
+Text from AAW-6_Gun_page_37.jpeg:
+Tracking Gun Shot-—GDS and GDS FNL Displays
+
+Whether to take a tracking shot or snap shot depends on several factors.
+These factors include energy state, threat environment, maneuvering
+requirements, timing, etc. Tracking shots have a high Pk, but are time
+and energy consuming and make the F-15E predictable. Snap shots
+deplete less energy and allow for a quick separation if the attempt fails,
+but they have a lower Pk. In either case, the shooter must recognize the
+type of shot required and react quickly to optimize shot parameters.
+
+The all aspect gun director sight takes approximately 1.5 seconds to
+initialize following radar lock on (during that period the LCOS track
+display is present). Pull enough lead to put the reticle ahead of the target
+and use the turn plane line/funnel as an aid in establishing an in-plane
+solution. The pipper should be allowed to move to the target at a
+controllable rate. Begin firing when in range and maintain the pipper on
+the target for as long as necessary. The RATR should appear and be
+superimposed on the target one time of flight following trigger squeeze.
+
+Snap Shot-GDS and GDS FNL Displays
+
+The first priority is to establish adequate lead. More lead makes the
+target closer at open fire range and decreases bullet TOF, but can limit
+over-the-nose visibility. A slight out-of-plane pursuit course is acceptable
+for maintaining tally. The turn plane line/funnel is an exceptional
+reference for accomplishing both the slightly out of and in-plane
+maneuvers. As range decreases and the target tracks forward, reposition
+into his POM.
+
+Your next concern is when to start firing on the bandit. An advantage of
+the director mode is its direct indication of bullet miss distance. No sight
+dampening is used and there is no inherent delay in miss distance
+indications due to fighter maneuvering.
+
+D-31 AAW-6
+
+
+Text from AAW-6_Gun_page_38.jpeg:
+Reticle lag due to fighter maneuvering is nonexistent in the director mode.
+However, there is some lag associated with target maneuvering. The lag
+occurs during target jinking and is a result of the radar tracking filters.
+Normally, within 2 seconds of the target ceasing its maneuvers, 90% of
+the target's maneuvering influences are eliminated (assuming no sight
+stiffening). This means that during aggressive jinking the sight may lag
+as much as 2 seconds behind. Consideration should be given to this factor
+when setting up for director mode snap shots.
+
+Snap Shot-LCOS Search and Track Funnel Displays
+
+The snap shot in the LCOS mode is accomplished in the same manner as
+that mentioned earlier. The open fire point is determined by the track
+rate of the funnel match/pipper and the bandit toward each other. If
+parameters are held constant, fire the gun one TOF prior to funnel
+match/pipper and target intersection (Figure D-19).
+
+AAW-06-19
+
+Figure D - 19. Snap Shot.
+
+If it is necessary to slow LOS rate by increasing G, the pipper will depress
+toward the target and be out of solution. To compensate, open fire earlier
+than one TOF before pipper/target intercept. Cease fire once the pipper
+passes through the target. Shooting past this point wastes ammunition
+and delays any reposition/separation maneuver.
+
+AAW-6 D - 32
+
+
+Text from AAW-6_Gun_page_39.jpeg:
+SHOT CRITERIA
+
+Table D-1 lists current F-15 shot criteria for the gun. This table was
+obtained from AFTTP 3-1, Volume 1, Change 1, 17 Mar 98.
+
+F- | maine] GUN
+
+Radar Target Maximum | Maximum Range _| Minimum
+of oh Shot Track Aspect Range
+
+14 to | 1410 184A AA | torpor | DOT TOF DOT | Training Rules
+dbs
+Taos [wm | an | soe | som | pamemae
+
+Kill Criteria (See gun shot assessment on next page)
+
+RATR frames required on target aircraft “
+15 frames (8mm)/30 frames (VTR)[J1/2 second total “?”
+
+Remarks
+
+1. Assessment tables assume 30 frames per second (FPS) for 8mm VTR and 60 FPS
+for 3/4-inch VTR.
+
+The center of the RATR must be touching the target to count as a frame. Each
+video frame with the entire RATR superimposed on the aircraft and the center of
+the RATR on the fuselage will count as two frames.
+
+No-lock shots outside 2500 ft are unassessable. No-lock shots taken between
+2500 ft and 1500 ft (reticle nonstiffened) with 25 valid frames (50 VTR) on the
+target are valid for a kill. No-lock shots taken between 1500 ft and 500 ft (with
+the reticle stiffened) with 20 valid frames (40 VTR) on the target are valid for a
+kill.
+
+Gun attempt is any trigger squeeze.
+
+Valid gun shot is any gun attempt resulting in any frames with the center of the
+RATR on the target.
+
+Invalid gun shot is any gun attempt not resulting in any frames with the center
+of the RATR on the target due to shooter parameters (plane, range, lead, etc.).
+
+Defeated gun shot is any gun attempt not resulting in any frames with the
+center of the RATR on the target due to target maneuvers (jinks, out-of-plane
+pulls, rolling breaks, etc.).
+
+Table D - 1. Gun Shot Criteria.
+
+D - 33 AAW-6
+
+
+Text from AAW-6_Gun_page_4.jpeg:
+CRITERION REFERENCED OBJECTIVES (CROs)
+
+1. Identify the major components of the M61A1 gun system and their
+operational characteristics.
+
+2. Identify the differences between 20mm rounds and how to program
+these rounds.
+
+3. Identify general characteristics of the F-15E gunsight.
+4. Identify M61A1 gun employment techniques.
+
+5. Identify the general characteristics of the combined mode.
+
+REFERENCES
+TO 1F-15E-34-1-1 Section I Gun Employment
+Section IT Exterior Inspection (Gun), Gun
+Attack
+AFTTP 3-1 Vol IV Air-to-Air Weapons (Gun),
+
+Weapons Selection/Fire doctrine
+(20mm Gun Employment)
+
+AAW-6 B-1
+
+
+Text from AAW-6_Gun_page_40.jpeg:
+Gun Shot Assessment
+
+The following paragraphs explain the methodology used to convert the
+Joint Munitions Effectiveness Manual (JMEM) 20 round requirement into
+RATR frames on target for both 3/4-inch and 8mm VTR.
+
+Assumptions
+
+The F-15 gun alone has a bullet dispersion of less than 4 mils. This
+means that at 1000 ft, 80 percent of the bullets fired will pass through a 4-
+foot cone. The published dispersion criteria for the gun system is 8 mils.
+This criteria takes into account other factors, including boresight error,
+radar track latency, radar scintillation and other specific aircraft factors.
+In effect, this means that a 4-mil grouping of bullets may be randomly
+located anywhere within a 8 mil cone. By defining a valid RATR frame as
+any frame when the center of the RATR is touching the aircraft, at any
+one time up to 50 percent of the RATR may be off the aircraft, resulting in
+an average of 40 percent of the bullets fired hitting the aircraft.
+
+3/4-VTR or 8mm Assessment
+
+To satisfy the JMEM 20 bullet requirement using the assumptions listed
+above and a gun fire rate of 100 rounds per second, the center of the RATR
+must be on the target for 3/4 of a second (100 bullets per second x 40
+percent bullets on aircraft x 0.75 seconds = 20 bullets on aircraft). This
+equates to 30 frames using 60 frame per second (fps) (3/4-inch VTR) or 15
+frames using 30 (8mm). Obviously, if the entire RATR was superimposed
+on the aircraft, it would take less frames to satisfy the JMEM
+requirements (1/4 of a second or 15 frames [3/4-inch VTR], eight frames
+[8mm]) because the probability of the number of bullets going through the
+aircraft is increased. To acknowledge this fact, any frame where the
+entire RATR is superimposed on the aircraft and the center of the RATR is
+on the fuselage counts as two frames. This in effect reduces the number of
+frames required by 50 percent while ensuring the bullet density is
+centered around critical components of the aircraft and factors in the
+increased survivability of four-generation aircraft to PGU rounds going
+through the wings.
+
+AAW-6 D - 34
+
+
+Text from AAW-6_Gun_page_41.jpeg:
+FAILURES
+Double Generator/Utility B Failure
+
+Because the M61A1 is electrically controlled and hydraulically powered, a
+double main generator or Utility B failure will disable the gun.
+
+ADC/INS Failure
+
+If inputs from either the ADC or INS become bad, the gunsight reverts to
+the FNL backup mode. Total failure of the INS results in a fixed
+depression gunsight. Mil depression angle must be entered in the UFC
+and the sight becomes a fixed sight only.
+
+PACS Failure
+
+An armed gun will fire with the trigger. However, without the PACS, you
+cannot change the firing rate or monitor and change the rounds count.
+There will be no gun reticles on the HUD.
+
+CC Failure
+With CC failure, the gun cross is continuously displayed (if master arm
+
+switch is in ARM), and becomes the sole aiming reference for gun shots
+(Figure D-20).
+
+AOL: — — — —«I10,
+
+7 N
+71,Y\\\
+
+AAW-06-20
+
+Figure D - 20. Gun CC Failure.
+
+D- 35 AAW-6
+
+
+Text from AAW-6_Gun_page_42.jpeg:
+COMBINED MODE
+This mode allows a gunsight and gun to be used while a short range
+missile (SRM) is selected. While in the combined mode, the A/A radar
+display operates as ifin SRM. The gun mode symbology takes priority in
+the HUD with some SRM information added. When the gun is fired, the
+HUD reverts to primary gun mode symbology.
+Combined Mode Entry
+Combined mode is entered by selecting SRM on the weapon select switch
+and then pulling up on the right multi-function (coolie) switch in the front
+cockpit for more than 1 second. These requirements must be met:
+
+e A/A master mode selected
+
+e Pilot in command of the A/A radar
+
+e SRM selected
+
+e In any radar mode except TWS
+
+e Bullets available for the gun
+Exclusion of TWS assures there is not conflict with the coolie up selection.
+Availability of SRMs is not a requirement to enter the combined mode.
+While in the combined mode, up activation of the coolie switch for less
+than 1 second cycles between GDS and GDS FNL availability.
+Combined Mode Exit
+Exit occurs when any of the following takes place:
+
+¢ Coolie switch pulled up for longer than 1 second
+
+e A/A master mode exited
+
+e Weapon select switch is moved out of SRM
+
+e Radar mode is changed to TWS
+
+e The last bullet is fired and its time-of-flight has expired
+
+e PACS to CC communication is lost
+
+AAW-6 D - 36
+
+
+Text from AAW-6_Gun_page_43.jpeg:
+HUD Displays in Combined Mode
+
+The combined mode HUD displays include all the normal gun mode
+displays plus the following limited SRM symbology:
+
+e SRM Rmin LC, Rmin HC, Rmax HC and Rmax LC
+e SRM shoot cue
+e SRM uncage cue
+e AIM-9M seeker head position circle
+The following symbols are not displayed in the combined mode:
+e Waterline
+e ASE circle
+e Steering dot
+e SRM analog range bar
+e AIM-9M FOV circle
+e Break X
+e No zone cue
+e Target locator line
+e Degrees off boresight
+
+e Degrees before break-lock
+
+D - 37 AAW-6
+
+
+Text from AAW-6_Gun_page_44.jpeg:
+Type Gun Displays (Combined Mode)
+
+The LCOS search funnel is displayed in radar search. Ifin radar STT,
+stiffen provides an LCOS track funnel gunsight. In radar STT, not
+stiffened, the GDS or GDS FNL displays are presented depending on
+selection.
+
+Stiffen (Combined Mode)
+When the coolie switch is held down, both missile boresight and LCOS
+
+track funnel gunsight are commanded (Figure D-21, assuming radar STT,
+and the AIM-9M has not been previously uncaged).
+
+S4M 510
+830
+2.2 9.0G
+
+AAW-06-21
+
+Figure D - 21. Combined, STT, Stiffen LCOS Selected, Boresight SRM.
+
+AAW-6 D - 38
+
+
+Text from AAW-6_Gun_page_45.jpeg:
+AIM-9M HUD Displays (Combined Mode)
+
+During combined mode, the AIM-9M seeker circle is present on the HUD.
+The AIM-9M FOV circle is not displayed. Consequently, there is no
+indication of seeker SCAN mode selection. The SRM seeker circle does not
+reflect the nutating status when SCAN is selected. In radar search, the
+AIM-9M seeker circle is at the boresight position (Figure D-22).
+
+AAW-06-22
+
+Figure D - 22. Combined, Radar in Search.
+
+D - 39 AAW-6
+
+
+Text from AAW-6_Gun_page_46.jpeg:
+When the seeker circle is uncaged, special burst ranging (SBR) is
+commanded. The range scale, target range caret and Vc are displayed
+(Figure D-23). Data remains for 3 seconds. Additional SBRs can be
+commanded by depressing the laser fire button in the front cockpit. Rmax
+(LC/HC), Rmin (LC/HC) and the shoot cue are not displayed with SBR.
+
+S4M 510
+830
+2.2 9.0G
+
+AAW-06-23
+
+Figure D - 23. Radar in Search, Uncaged SRM, SBR.
+
+AAW-6 D - 40
+
+
+Text from AAW-6_Gun_page_47.jpeg:
+With radar lock-on, when the AIM-9M LOS and the radar LOS are within
+2°, Rmax (LC/HC) and Rmin (LC/HC) are displayed. If at the same time
+the target is within shoot parameters, the shoot cue is displayed. The
+shoot cue and the lock/shoot lights flash (Figure D-24). The TD box is also
+displayed.
+
+AAW-06-24
+
+Figure D - 24. AIM-9M Shoot Cue.
+
+D-41 AAW-6
+
+
+Text from AAW-6_Gun_page_48.jpeg:
+The TD box is removed due to close proximity to the gunsight (Figure
+D-25). However, if the TD box is removed, the shoot cue is displayed
+flashing at the bottom or top of the seeker position circle. The off-missile
+cue replaces round count at radar STT (Figure D-26). When the gun is
+fired, round count replaces the off-missile cue until the trigger is released.
+
+18.0 UNC
+GDS
+R 0.5
+S4SEC
+49
+
+AAW-06-25
+
+Figure D - 25. STT, Uncaged SRM, TD Box Occluded.
+
+AAW-06-26
+
+Figure D - 26. STT, Off-Missile, Uncaged SRM, Shoot Cue.
+
+AAW-6 D - 42
+
+
+Text from AAW-6_Gun_page_49.jpeg:
+Once the target moves inside Rmin LC, the break X is not displayed; SRM
+symbology remains, but the shoot cue, and SRM count and type are removed.
+No zone is also not displayed (Figure D-27).
+
+AAW-06-27
+
+Figure D - 27. STT, Inside SRM Minimum Range, Caged SRM, GDS.
+
+D - 43 AAW-6
+
+
+Text from AAW-6_Gun_page_5.jpeg:
+STUDENT PREPARATION REQUIREMENTS
+BEFORE CLASS
+
+1. Study the information contained in this workbook and complete the
+End of Text Quiz. Bring this workbook to class.
+
+2. Read TO 1F-15E-34-1-1 and AFTTP 3-1, Vol IV, applicable
+references.
+
+3. Suggested reading: A review of the RDR-3 workbook.
+
+4. Bring TO 1F-15E-34-1-1CL-1 (Dash 34 checklist) and this workbook
+to class.
+
+C-1 AAW-6
+
+
+Text from AAW-6_Gun_page_50.jpeg:
+Gun HUD Displays in Combined Mode
+
+Full up gun displays are present at all times in the combined mode. The
+LCOS search funnel is displayed during SBR (Figure D-23). The SBR
+data is not used for the any gunsight computations.
+
+HUD Display During Trigger Activation
+
+When the gun trigger is activated, first or second detent, the SRM shoot
+cue and AIM-9M seeker head position circle are removed (Figure D-28).
+Rmax (LC/HC), Rmin (LC/HC) and SRM count are displayed. Primary
+support is given to gunsight symbology until trigger release or until all
+gun rounds are expended. Rounds remaining are displayed in place of the
+off missile cue. The off-missile cue will return at trigger release if
+applicable.
+
+The RATR appears and operates after one TOF, if the RATR is in the
+HUD FOV.
+
+When the trigger is released, SRM symbology is restored except for the
+SRM shoot cue, which is not restored until after the last bullet TOF is
+completed and the RATR is removed. If the last round is fired, the
+combined mode is exited to SRM automatically at last round TOF and
+RATR removal.
+
+AAW-06-28
+
+Figure D - 28. STT, Trigger Activated.
+
+AAW-6 D - 44
+
+
+Text from AAW-6_Gun_page_51.jpeg:
+A/A Radar Display (Combined Mode)
+
+The shoot cue, Rmax (LC/HC) and Rmin (LC/HC) are displayed on the A/A
+radar display under the same conditions as they are displayed on the
+HUD. Table D-2 shows HUD window 5 displays during combined/SRM/
+GUN operations.
+
+HUD WINDOW 5 - COMBINED MODE
+
+COM-
+SYMBOLS | BINE | SRM | GUN
+Cue
+
+Rounds
+Remaining
+
+Rounds
+Remaining
+
+(1)
+
+(1) XXX is displayed when the last round is fired, for the last bullet TOF, after which time the
+combined mode is exited to SRM. Then the off-missile cue appears, or blank if no off-missiles
+are available.
+
+Table D - 2. Combined Mode HUD.
+
+D- 45 AAW-6
+
+
+Text from AAW-6_Gun_page_52.jpeg:
+(This Page Intentionally Blank)
+
+AAW-6 D - 46
+
+
+Text from AAW-6_Gun_page_53.jpeg:
+END OF TEXT QUIZ
+
+The M61A1 is hydraulically driven by the system.
+a. Utility A
+
+b. Utility B
+
+c. PC-1B
+
+d. PC-2B
+
+The RATR symbol should be used as the primary gun aiming device.
+
+a. True
+b. False
+
+The funnel (LCOS algorithm) assumes
+
+your aircraft is within 45° of the target’s tail.
+
+fighter G equals target G.
+
+target parameters will not change during bullet TOF.
+All of the above.
+
+ao op
+
+In radar search, the LCOS search funnel width is based on a 40 foot
+wingspan aircraft.
+
+a. True
+b. False
+
+The bullet maximum range cue with PGU-28 loaded
+
+fluctuates as flight parameters change.
+is not present with CC failure.
+indicates a bullet TOF of 2.5 seconds.
+All of the above.
+
+ae op
+
+E-1 AAW-6
+
+
+Text from AAW-6_Gun_page_54.jpeg:
+6. The radar range to the target aircraft in Figure F-1 below is roughly
+
+a. 1000 feet.
+b. 4000 feet.
+C. 3000 feet.
+d. 2000 feet.
+
+AAW-06-29
+
+Figure F - 1.
+7. | Which of the following statements about the M-61 gun is (are) true?
+
+a. Adouble main generator failure disables the gun.
+
+b. The installed armament ground safety pin prevents firing
+voltage from reaching the chambered rounds.
+
+c. The hydraulic manual control handle must be stowed (flush) for
+gun employment.
+
+d. All of the above.
+
+AAW-6 E-2
+
+
+Text from AAW-6_Gun_page_55.jpeg:
+10.
+
+In radar STT, with combined mode selected (SRM caged), holding the
+coolie switch down in the front seat
+
+only boresights the AIM-9M seeker circle.
+
+stiffens the GDS sight.
+
+commands a programming LCOS.
+
+boresights the AIM-9M seeker circle and commands LCOS
+track funnel.
+
+Boop
+
+The combined mode may be entered with SRM selected in all the
+following radar modes except
+
+a. standby.
+b. — search.
+c. STT.
+
+d. TWS.
+
+In the combined mode, special burst ranging target data is displayed
+for seconds.
+
+aon
+com} e &
+
+E-3 AAW-6
+
+
+Text from AAW-6_Gun_page_56.jpeg:
+(This Page Intentionally Blank)
+
+AAW-6 E-4
+
+
+Text from AAW-6_Gun_page_57.jpeg:
+API
+
+BMR
+
+FNL
+
+FRL
+
+GDS
+
+HEI
+
+JEM
+
+JMEM
+
+LCOS
+
+POM
+
+RATR
+
+SBR
+
+SRM
+
+STT
+
+TOF
+
+TP
+
+GLOSSARY
+Armor piercing incendiary
+Bullet maximum range
+Funnel
+Fuselage reference line
+Gun director sight
+High explosive incendiary
+Jet engine modulation
+Joint Munitions Effectiveness Manual
+Lead computing optical sight
+Plane of motion
+Rounds at target range
+Special burst ranging
+Short range missile
+Single target track
+Time of flight
+Target practice
+
+Track-while-scan
+
+AAW-6
+
+
+Text from AAW-6_Gun_page_58.jpeg:
+(This Page Intentionally Blank)
+
+AAW-6 F-2
+
+
+Text from AAW-6_Gun_page_6.jpeg:
+(This Page Intentionally Blank)
+
+AAW-6 C-2
+
+
+Text from AAW-6_Gun_page_7.jpeg:
+TEXT
+M61A1 GUN DESCRIPTION
+
+The 20mm gun is an air cooled, six-barrel weapon capable of firing at
+rates of 4000 or 6000 rounds per minute. The M61A1 has a rotary action
+mechanism contained within a fixed rear housing assembly with six bolts,
+a firing cam path, a clearing cam path and a rotating barrel cluster. The
+gun is installed in the right wing root, and is canted up 2° from the
+fuselage reference line (FRL). Dispersion is 8 mils.
+
+The major components of the gun system are the gun, ammunition
+container, conveyor assemblies, and the hydraulic power and gearbox
+assemblies.
+
+20MM INFORMATION/DESCRIPTION
+20mm Ammunition
+
+The components that make up a complete round are: a brass cartridge
+case, an electric primer, propellant powder and the projectile (Figure D-1).
+The projectile is fired when an electrical pulse is applied to the primer.
+The resulting flame passes through a gas vent leading to the propellant
+chamber and ignites the propellant. As the propellant burns, it forms a
+gas that forces the projectile through the gun barrel. The muzzle velocity
+for the M-56 bullet is 3300 FPS. The muzzle velocity for the PGU-28 is
+3375 FPS.
+
+The only significant difference between the types of ammunition is in the
+projectile. Located at the rear of all projectiles is a band of soft metal that
+sits in the grooves of the gun barrel. The grooves in the barrel are twisted
+so that the projectile receives a rotating motion as it travels through and
+leaves the gun barrel. This rotation is induced to provide stability in
+flight and projectile arming (if appropriate). The soft band also serves to
+prevent the propelling gas from escaping past the projectile.
+
+D-1 AAW-6
+
+
+Text from AAW-6_Gun_page_8.jpeg:
+UNPAINTED
+ALUMINUM} ‘
+
+BLACK 20MM API
+(RED) M53
+LETTERING
+
+ARMOR PIERCING INCENDIARY (API)
+
+— Ts
+
+TRACER PROJECTILE
+(TYPICAL)
+
+BLUE
+
+20MM BALL
+(WHITE) 4)
+WHT NG M55
+
+TARGET PRACTICE (TP)
+
+FUZE POINT
+DETONATING (PD)
+_ BRASS
+YELLOW <—
+(BLACK)
+LETTERING ——> \ 20MM HEI
+M56A3
+INCENDIARY
+COMPOSITION
+BASE COVE
+PROPELLANT ELECTRIC
+CASE VENT SEAL PRIMER M52A3B1
+
+HIGH EXPLOSIVE INCENDIARY (HEI)
+
+AAW-06-01
+
+Figure D - 1. 20 mm Ammunition.
+
+AAW-6
+
+
+Text from AAW-6_Gun_page_9.jpeg:
+TP (Ball)/TP-T (Tracer)
+
+The M55A1 and M55A2 ball cartridge is used in practice firing and is
+referred to as TP for target practice. The projectile is made of steel and is
+hollow.
+
+The M220 TP-T is the same round, but incorporates a tracer.
+
+API
+
+The M53 armor-piercing incendiary (API) is used against armored targets.
+The projectile functions with a combined incendiary and penetration
+
+effect. It is made of steel with an incendiary composition. The projectile
+does not contain a fuze since the incendiary effect is initiated by impact.
+
+D-3 AAW-6
+
+

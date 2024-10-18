@@ -1,4 +1,4 @@
-site_name: F-15E Student Workbooks
+site_name: F-15E Workbooks
 site_url: https://deux2k5.github.io/Workbooks/
 theme:
   name: material
@@ -37,8 +37,8 @@ nav:
   - AGW - Air-to-Ground Weapons: agw/index.md
   - AVI - Avionics: avi/index.md
   - EW - Electronic Warfare: ew/index.md
-  - Hierarchy - Sensor Hierarchy: hierarchy/index.md
   - LAN - LANTIRN: lan/index.md
   - OPS - Operations: ops/index.md
   - RDR - Radar: rdr/index.md
   - TAC - Tactics: tac/index.md
+  - Hierarchy - Sensor Hierarchy: hierarchy/index.md
